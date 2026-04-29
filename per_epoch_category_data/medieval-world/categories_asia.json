@@ -1,0 +1,393 @@
+{
+  "epoch": "medieval-world",
+  "continent": "asia",
+  "sample_size": 39,
+  "sample": [
+    {
+      "title": "14 Blades",
+      "years": "1400..1644",
+      "countries": [
+        "CN"
+      ],
+      "plot": "A kung fu thriller set during the Ming Dynasty and centered on a secret service agent (Donnie Yen) in the emperor's court who is betrayed and then hunted by his colleagues."
+    },
+    {
+      "title": "A Frozen Flower",
+      "years": "1372..1372",
+      "countries": [
+        "KR",
+        "CN"
+      ],
+      "plot": "The period is the late 14th century, and the last waning gasp of the centuries-old Goryeo Dynasty. As that regime comes to a bitter end thanks to the machinations of the Yuan Dynasty, The Goryeo king responds by organizing a military force known as Kunryongwe, led by the daunting commander Hong Lim. The leader captivates the king to an alarming degree - to such an extent, in fact, that he almost completely diverts the regent's attention away from his queen, leaving her with tremendous feelings of reluctance and hesitancy about this relationship. Meanwhile, the manipulativeness of the Yuan doubles: they unsuccessfully attempt to subvert the king by placing a threatening ruler in a high position, but the king - sensing this Machiavellian scheme - adamantly refuses, much to the consternation of the top-tiered Goryeo officials. The ruler also devises a complex and wickedly clever scheme to protect the Goryeo line for future generations by appointing Hong Lim to impregnate the queen and father a new ruler with her."
+    },
+    {
+      "title": "The Myth",
+      "years": "-221..2005",
+      "countries": [
+        "CN",
+        "IN",
+        "HK"
+      ],
+      "plot": "Martial arts legend Jackie Chan stars as Jack, a world-renowned archaeologist who has begun having mysterious dreams of a past life as a warrior in ancient China. When a fellow scientist enlists his help locating the mausoleum of China's first emperor, the past collides violently with the present as Jack discovers his amazing visions are based in fact. Assisted by the spirit of a noble princess..."
+    },
+    {
+      "title": "The Hidden Fortress",
+      "years": "1500..1500",
+      "countries": [
+        "JP",
+        "FICTIONAL"
+      ],
+      "plot": "The story follows two greedy peasants in feudal Japan, Tahei and Matashichi, who are returning home from a failed attempt to profit from a war between neighboring clans. En Route they encounter the remnants of the defeated tribe that consists, most notably, of a famous General and a Princess who are hiding out in a fortress in the mountains. General Rokurota Makabe and Princess Yuki need to escape into allied territory with their large supply of gold so that they can rebuild their shattered clan. To do this the Peasants are tricked into helping them, with the promise that they will receive a large share of the gold when the destination is reached. Along the way, the General's prowess is put to the test as he must guide the 4, and later 5 with the inclusion of a freed slave, through close encounters with the pursuing enemy, and out of difficult situations the bumbling peasants manage to get them into."
+    },
+    {
+      "title": "Kingdom of Heaven",
+      "years": "1184..1187",
+      "countries": [
+        "SY",
+        "FR",
+        "UNKNOWN"
+      ],
+      "plot": "It is the time of the Crusades during the Middle Ages -- the world-shaping 200-year collision between Europe and the East. A blacksmith named Balian has lost his family and nearly his faith. The religious wars raging in the far-off Holy Land seem remote to him, yet he is pulled into that immense drama. Amid the pageantry and intrigues of medieval Jerusalem, he falls in love, grows into a leader, and ultimately uses all his courage and skill to defend the city against staggering odds. Destiny comes seeking Balian in the form of a great knight, Godfrey of Ibelin, a Crusader briefly home to France from fighting in the East. Revealing himself as Balian's father, Godfrey shows him the true meaning of knighthood and takes him on a journey across continents to the fabled Holy City. In Jerusalem at that moment--between the Second and Third Crusades--a fragile peace prevails, through the efforts of its enlightened Christian king, Baldwin IV, aided by his advisor Tiberias, and the military restraint of the legendary Muslim leader Saladin Ayubi. But Baldwin's days are numbered, and strains of fanaticism, greed, and jealousy among the Crusaders threaten to shatter the truce. King Baldwin's vision of peace--a kingdom of heaven--is shared by a handful of knights, including Godfrey of Ibelin, who swear to uphold it with their lives and honor. As Godfrey passes his sword to his son, he also passes on that sacred oath: to protect the helpless, safeguard the peace, and work toward harmony between religions and cultures, so that a kingdom of heaven can flourish on earth. Balian takes the sword and steps into history."
+    },
+    {
+      "title": "Mongol: The Rise of Genghis Khan",
+      "years": "1172..1206",
+      "countries": [
+        "MN",
+        "CN",
+        "KZ"
+      ],
+      "plot": "The epic story of a young Genghis Khan and how events in his early life led him to become a legendary conqueror. The 9-year-old Temüjin is taken on a trip by his father to select a girl as his future wife. He meets Börte, who says she would like to be chosen, which he does. He promises to return after five years to marry her. Temüjin's father is poisoned on the trip and dies. As a boy Temüjin passes through starvation, humiliation, and even slavery, but later with Börte's help he overcomes all of his childhood hardships to become one of the greatest conquerors the world has ever known."
+    },
+    {
+      "title": "Conquest 1453",
+      "years": "1453..1453",
+      "countries": [
+        "TR",
+        "GR"
+      ],
+      "plot": "In 1453, the Byzantine capital of Constantinople is surrounded by Ottoman Turks. The city is but a shadow of its former glory due to the empire's ever receding coffers, while the Ottoman Empire continues to grow rich. After years of tolerating the existance of Byzantium, the ambitious sultan, Mehmet II launches his campaign to end the Byzantine Empire and take Constantinople for the Ottomans, resulting in arguably the greatest siege of that age."
+    },
+    {
+      "title": "Ong Bak 3",
+      "years": "1400..1400",
+      "countries": [
+        "TH"
+      ],
+      "plot": "Ong Bak 3 picks up where Ong Bak 2 had left off. Tien is captured and almost beaten to death before he is saved and brought back to the Kana Khone villagers. There he is taught meditation and how to deal with his Karma, but very soon his arch rival returns challenging Tien for a final duel."
+    },
+    {
+      "title": "Onibaba",
+      "years": "1351..1351",
+      "countries": [
+        "JP"
+      ],
+      "plot": "In the Fourteenth Century, during a civil war in Japan, a middle-aged woman and her daughter-in-law survive in a hut in a field of reed killing warriors and soldiers to trade their possessions for food. When their neighbor Hachi defects from the war and returns home, they learn that their son and husband Kichi died while stealing supplies from farmers. Soon Hachi seduces the young widow and she sneaks out of her hut every night to have sex with him. When the older woman finds the affair of her daughter-in-law, she pleads with Hachi to leave the young woman with her since she would not be able to kill the warriors without her help. However, Hachi ignores her request and continues to meet the young woman. When a samurai wearing a demon mask stumbles upon the older woman at her hut asking her to guide him out of the field, she lures him and he falls in the pit where she drops the bodies of her victims. She climbs down the hole to take his possessions and his mask, and she finds he is a disfigured man. The she uses the demon mask to haunt her daughter-in-law to keep her away from Hachi. However, when she decides to remove the mask, she has a surprise."
+    },
+    {
+      "title": "Dragon Inn",
+      "years": "1467..1467",
+      "countries": [
+        "CN",
+        "TW"
+      ],
+      "plot": "The Eunuch of the Emperor has ordered the commander of his army condemned to death for betrayal and insurrection. The commander's family was was murdered to cut off his bloodline, but his two youngest, a son and a daughter, were expelled from the empire to the outlands in an attempt to draw out the commanders confidant and adviser. In order to complete the plan, the Eunuch sent his ultra-secret Black Arrow Troop to assassinate the two remaining children and the advisor. The ambush: to be carried out at the Inn Of Dragon's Gate at the border. The plans fail as journeymen of great swordsmanship turn up at the inn. From that point until the end of the flic many battles take place. This film is a masterpiece of martial arts swords-play and speaks the tune of \"The Swordsman\" and the \"Zatoichi\" films. A must see for fans of classic Asian cinema."
+    },
+    {
+      "title": "Rashomon",
+      "years": "1100..1100",
+      "countries": [
+        "JP"
+      ],
+      "plot": "A priest, a woodcutter and another man are taking refuge from a rainstorm in the shell of a former gatehouse called Rashômon. The priest and the woodcutter are recounting the story of a murdered samurai whose body the woodcutter discovered three days earlier in a forest grove. Both were summoned to testify at the murder trial, the priest who ran into the samurai and his wife traveling through the forest just before the murder occurred. Three other people who testified at the trial are supposedly the only direct witnesses: a notorious bandit named Tajômaru, who allegedly murdered the samurai and raped his wife; the white veil cloaked wife of the samurai; and the samurai himself who testifies through the use of a medium. The three tell a similarly structured story - that Tajômaru kidnapped and bound the samurai so that he could rape the wife - but which ultimately contradict each other, the motivations and the actual killing being what differ. The woodcutter reveals at Rashômon that he knows more than he let on at the trial, thus bringing into question his own actions. But another discovery at Rashômon and the resulting actions from the discovery bring back into focus the woodcutter's own humanity or lack thereof."
+    },
+    {
+      "title": "Inuyasha the Movie: Affections Touching Across Time",
+      "years": "1500..1600",
+      "countries": [
+        "JP"
+      ],
+      "plot": "InuYasha is a half-demon who was trapped in the Legendary Tree and was set free by Kagome, a girl who traveled 500 years through time. This time, both of them will have to face Menomaru, a Chinese demon whose father, known as Hyoga, came 300 years ago to invade Japan, but was stopped by InuYasha's Father. InuYasha and Kagome, along with Sango, Miroku, Shippou, Kaede and Myoga, will try to stop Menomaru in his becoming the most powerful demon ever."
+    },
+    {
+      "title": "The Great Battle",
+      "years": "645..645",
+      "countries": [
+        "CN",
+        "KR"
+      ],
+      "plot": "645 AD. Emperor Taizong invades Goguryeo with his massive Tang army. His initial target is the fortress at Ansi. After defeating a major attack by the Goguryeon army he besieges Ansi. The odds are massively stacked in Taizong's favour: opposing his 200,000-strong army is a mere 5,000 force at Ansi. It is lead by Yang Manchun, a man regarded as a traitor by the Goguryeon leader."
+    },
+    {
+      "title": "Ong Bak 2",
+      "years": "1431..1431",
+      "countries": [
+        "TH"
+      ],
+      "plot": "In 1431, the Kingdom of Ayutthayan conquers the territory of Sukhothai expanding their lands to the East. The noble Lord Siha Decho is betrayed by his Captain, Rajasena, and is murdered together with his wife. However their son Tien is saved by one loyal soldier and left alone in the woods..."
+    },
+    {
+      "title": "Sex and Zen III",
+      "years": "960..1279",
+      "countries": [
+        "CN"
+      ],
+      "plot": "New prostitutes Susan, Fanny and Chinyun are inducted into the Fragrance House brothel where they are trained in the ways of lovemaking by their veteran madam Tall Kau."
+    },
+    {
+      "title": "Kama Sutra: A Tale of Love",
+      "years": "1500..1500",
+      "countries": [
+        "IN"
+      ],
+      "plot": "Tara and Maya are two inseparable friends in India. Their tastes, habits, and hobbies are the same. Years later, the two have matured, but have maintained their friendship. Tara gets married to the local prince, Raj Singh, who soon succeeds the throne as the sole heir. After the marriage, Raj gets bored of Tara and starts seeking another female to satisfy his sexual needs. He notices Maya and is instantly attracted to her. He has her included as one of his courtesans, and is intimate with her. Watch what happens when Tara finds out and the extent she will go to keep her marriage intact."
+    },
+    {
+      "title": "Hansan: Rising Dragon",
+      "years": "1592..1593",
+      "countries": [
+        "KR",
+        "JP"
+      ],
+      "plot": "Follow-up to 2014's The Admiral: Roaring Currents, which explores the historic Battle of Hansan Island."
+    },
+    {
+      "title": "Curse of the Golden Flower",
+      "years": "928..928",
+      "countries": [
+        "CN"
+      ],
+      "plot": "China, Later Tang Dynasty, 10th Century. On the eve of the Chong Yang Festival, golden flowers fill the Imperial Palace. The Emperor (Chow Yun Fat) returns unexpectedly with his second son, Prince Jai (Jay Chou). His pretext is to celebrate the holiday with his family, but given the chilled relations between the Emperor and the ailing Empress (Gong Li), this seems disingenuous. For many years, the Empress and Crown Prince Wan (Liu Ye), her stepson, have had an illicit liaison. Feeling trapped, Prince Wan dreams of escaping the palace with his secret love Chan (Li Man), the Imperial Doctor's daughter. Meanwhile, Prince Jai, the faithful son, grows worried over the Empress's health and her obsession with golden chrysanthemums. Could she be headed down an ominous path? The Emperor harbors equally clandestine plans; the Imperial Doctor (Ni Dahong) is the only one privy to his machinations. When the Emperor senses a looming threat, he relocates the doctor's family from the Palace to a remote area. While they are en route, mysterious assassins attack them. Chan and her mother, Jiang Shi (Chen Jin) are forced back to the palace. Their return sets off a tumultuous sequence of dark surprises. Amid the glamour and grandeur of the festival, ugly secrets are revealed. As the Imperial Family continues its elaborate charade in a palatial setting, thousands of golden armored warriors charge the palace. Who is behind this brutal rebellion? Where do Prince Jai's loyalties lie? Between love and desire, is there a final winner? Against a moonlit night, thousands of chrysanthemum blossoms are trampled as blood spills across the Imperial Palace."
+    },
+    {
+      "title": "House of Flying Daggers",
+      "years": "859..859",
+      "countries": [
+        "CN"
+      ],
+      "plot": "During the reign of the Tang dynasty in China, a secret organization called \"The House of the Flying Daggers\" rises and opposes the government. A police officer called Leo sends officer Jin to investigate a young dancer named Mei, claiming that she has ties to the \"Flying Daggers\". Leo arrests Mei, only to have Jin breaking her free in a plot to gain her trust and lead the police to the new leader of the secret organization. But things are far more complicated than they seem..."
+    },
+    {
+      "title": "Padmaavat",
+      "years": "1300..1300",
+      "countries": [
+        "IN",
+        "LK"
+      ],
+      "plot": "This fictional story is set in 13th century medieval India. a Princess of Sinhala(modern-day Sri Lanka) called Padmavati falls in love with an already married Maharawal Ratan Singh, King of Chittor. Upon their marriage, Padmavati is crowned queen, taking the place of the legal wife and queen consort of Ratan Singh and they reside together in joy and splendor. Their perfect life takes an unfortunate turn when a Court priest Chetan, banished by his king Ratan Singh, approaches Sultan of Delhi Allauddin Khilji and convinces him to attack Chittor and capture Padmavati for her beauty and absolute luck she brings to the king she marries. Sultan Allaudin Khilji, convinced by the priest of his claims and promises, prepares to attack Chittorgarh."
+    },
+    {
+      "title": "Saving General Yang",
+      "years": "986..986",
+      "countries": [
+        "CN"
+      ],
+      "plot": "Northeast China, early Northern Song dynasty, AD 986. The Khitan army takes its revenge for a past massacre, abducting General Yang Ye (Adam Cheng) and leaving his wife and seven sons to rescue him - and fall into their deadly trap. Led by the first son (Ekin Cheng), the seven - two of whom have never seen combat - set out with a small band of fighters to face an army of thousands, brave the treacherous Wolf Mountain, face the nemesis of their shared history, and find the way back alive - all to bring their father home."
+    },
+    {
+      "title": "Full River Red",
+      "years": "1146..1146",
+      "countries": [
+        "CN"
+      ],
+      "plot": "A pawn tries to get rid of a traitorous minister, Qin Hui, when he leads an army to the border for talks with a Jurchen mission."
+    },
+    {
+      "title": "Ran",
+      "years": "1500..1600",
+      "countries": [
+        "JP"
+      ],
+      "plot": "Japanese warlord Hidetori Ichimonji decides the time has come to retire and divide his fiefdom among his three sons. His eldest and middle sons - Taro and Jiro - agree with his decision and promise to support him for his remaining days. The youngest son Saburo disagrees with all of them arguing that there is little likelihood the three brothers will remain united. Insulted by his son's brashness, the warlord banishes Saburo. As the warlord begins his retirement, he quickly realizes that his two eldest sons selfish and have no intention of keeping their promises. It leads to war and only banished Saburo can possibly save him."
+    },
+    {
+      "title": "The 13th Warrior",
+      "years": "922..922",
+      "countries": [
+        "IQ",
+        "RU",
+        "FICTIONAL"
+      ],
+      "plot": "A cultured diplomat joins a band of savage warriors in time to meet an even more fearsome enemy in this historical adventure. In 922 A.D., Ibn Fadlan (Antonio Banderas) is a Muslim emissary from Baghdad en route to meet with the King of Saqaliba when he is captured by a gang of Vikings. While Ibn and his people are intelligent and well-mannered, the Vikings are a rowdy and sometimes unpleasant lot, with an unquenchable appetite for food, alcohol, and women. However, in time he develops an understanding and respect for the Viking warriors and is welcomed into their society by their leader, Buliwyf. However, Ibn must now join them as they return to their homeland once they receive word of an invasion by a huge pack of bloodthirsty invaders who will destroy and eat anything in their path -- including the flesh of the men they have killed."
+    },
+    {
+      "title": "Kagemusha: The Shadow Warrior",
+      "years": "1571..1575",
+      "countries": [
+        "JP"
+      ],
+      "plot": "When a powerful warlord in medieval Japan dies, a poor thief recruited to impersonate him finds difficulty living up to his role and clashes with the spirit of the warlord during turbulent times in the kingdom."
+    },
+    {
+      "title": "The Treacherous",
+      "years": "1494..1506",
+      "countries": [
+        "KR"
+      ],
+      "plot": "The story of Joseon's tyrant king Yeonsan who exploits the populace for his own carnal pleasures, his seemingly loyal retainer who controls him and all court dealings, and a woman who seeks vengeance."
+    },
+    {
+      "title": "Green Snake",
+      "years": "1191..2191",
+      "countries": [
+        "CN",
+        "FICTIONAL"
+      ],
+      "plot": "At the end of the Southern Song Dynasty, Xiaobai was forced by Fahai under the Leifeng Pagoda after saving Xu Xian. Xiaoqing was accidentally driven into a strange fantasy of Shura city by Fahai. In several crises, Xiaoqing was rescued by the mysterious masked youth. With the obsession of going out to rescue Xiaobai, Xiaoqing went through the calamity and growth, and together with the masked youth to find a way to leave."
+    },
+    {
+      "title": "Throne of Blood",
+      "years": "1500..1500",
+      "countries": [
+        "JP"
+      ],
+      "plot": "After securing a major victory on the battlefield, Taketoti Washizu and one of his commanders, Yoshiaki Miki, find themselves lost in the maze-like Spider's Web forest. They come across a spirit-like seer who tells them of their future: both have been promoted because of their victory that day; Washizu will someday be the Great Lord of the Spider's Web castle while Miki's son will someday rule as Great Lord as well. When they arrive at the castle, they learn that the first part of the prophecy is correct. Washizu has no desire to become Great Lord but his ambitious wife urges him to reconsider. When the current Great Lord makes a surprise visit to his garrison outpost, Washizu is again promoted to commander of his vanguard but his wife reminds him of the danger that comes with the position. As pressure mounts, Wahizu takes action leading to its inevitable conclusion."
+    },
+    {
+      "title": "The Tale of The Princess Kaguya",
+      "years": "900..1100",
+      "countries": [
+        "JP"
+      ],
+      "plot": "An old man makes a living by selling bamboo. One day, he finds a princess in a bamboo. The princess is only the size of a finger. Her name is Kaguya. When Kaguya grows up, 5 men from prestigious families propose to her. Kaguya asks the men to find memorable marriage gifts for her, but the 5 men are unable to find what Kaguya wants. Then, the Emperor of Japan proposes to her."
+    },
+    {
+      "title": "3-D Sex and Zen: Extreme Ecstasy",
+      "years": "1368..1644",
+      "countries": [
+        "CN"
+      ],
+      "plot": "As a conceited scholar of the Ming Dynasty, Wei Yangsheng believes that since life is short, one should pursue the ultimate sexual pleasure as time allows. Wei Yangsheng encounters Tie Fei the Taoist priest's daughter, Tie Yuxiang, on an occasion. With the former's talent and the latter's beauty, they fall in love at first sight, and Wei Yangsheng is later married into the Tie's family. Yuxiang is elegant and courteous under the influence of her father's faith, though her lack of passion cannot fully satisfy Wei Yangsheng's sexual needs. His disappointment is no less than his affection for her."
+    },
+    {
+      "title": "Sword of the Stranger",
+      "years": "1573..1573",
+      "countries": [
+        "JP"
+      ],
+      "plot": "A young boy and his dog find themselves the target of the Ming: a foreign dynasty that will stop at nothing. One day, a quiet and solemn warrior crosses their path, and becomes irrevocably connected with the two. A deal is struck and the warrior agrees to take the boy to a remote, Buddhist temple, where a kind monk is waiting to care for him and the dog. Unfortunately, the Ming have sent their elite, and they will test their strength, courage, and quality every step of the way."
+    },
+    {
+      "title": "Seven Samurai",
+      "years": "1586..1586",
+      "countries": [
+        "JP"
+      ],
+      "plot": "A veteran samurai, who has fallen on hard times, answers a village's request for protection from bandits. He gathers 6 other samurai to help him, and they teach the townspeople how to defend themselves, and they supply the samurai with three small meals a day. The film culminates in a giant battle when 40 bandits attack the village."
+    },
+    {
+      "title": "Flirting Scholar",
+      "years": "1490..1490",
+      "countries": [
+        "CN"
+      ],
+      "plot": "A scholar in search of true love. Disguising himself as a houseboy, he indentures himself to a rich family in order to pursue the ravishing servant girl who has stolen his heart."
+    },
+    {
+      "title": "Sweet Sex",
+      "years": "1347..1347",
+      "countries": [
+        "KR"
+      ],
+      "plot": "Famous pâtissier Jo Woo-hyeon has a secret sexual relationship, exchanging favors for sweetness, while aspiring cop Seo Neung-geum quits her job to pursue her dreams."
+    },
+    {
+      "title": "Young Detective Dee: Rise of the Sea Dragon",
+      "years": "660..660",
+      "countries": [
+        "CN"
+      ],
+      "plot": "From legendary action director Tsui Hark and the creators of international smash hit Detective Dee - Mystery Of The Phantom Flame comes the captivating tale of Dee Renjie's beginnings in the Imperial police force. His very first case, investigating reports of a sea monster terrorizing the town, reveals a sinister conspiracy of treachery and betrayal, leading to the highest reaches of the Imperial family."
+    },
+    {
+      "title": "Empire of Lust",
+      "years": "1392..1408",
+      "countries": [
+        "KR"
+      ],
+      "plot": "Kim Min-jae (Shin Ha-kyun), is a brilliant general who's distinguished himself by protecting the borders of the recently established Joseon dynasty. He keeps a close eye on Yi Bang-won (Jang Hyuk), the fifth son of King Taejo (Son Byong-ho), whom he believes has ambitions of seizing the throne, Jin (Kang Ha-neul), is Kim Min-Jae's son and the King's son-in-law. Due to his position as the King's son-in-law, he is unable to take part in politics and only seeks out pleasure. Yi Bang-won was instrumental in helping his father overthrow the Goryeo dynasty and founding Joseon, but was passed over when Taejo chose his successor. Meanwhile, Kim Min-jae falls in love for the first time with a gisaeng (an artist who worked to entertain others, such as the yangbans and kings. They were also courtesans, providing sexual services) named Ka-hee (Kang Han-na), whom he takes as his concubine, not realizing that she aims to carry out a vendetta against him."
+    },
+    {
+      "title": "Outcast",
+      "years": "1270..1273",
+      "countries": [
+        "CN",
+        "UNKNOWN"
+      ],
+      "plot": "When the heir of the Imperial throne becomes the target of an assassination by his despised older brother, the young prince must flee the kingdom and seek protection. His only hope for survival is a reluctant war-weary crusader named Jacob, who must overcome his own personal demons and rally the assistance of a mythical outlaw known as The White Ghost. Together they must fight side by side in an epic battle to return the prince to his rightful place on the throne."
+    },
+    {
+      "title": "Your Friend the Rat",
+      "years": "1347..1352",
+      "countries": [
+        "IN",
+        "CN",
+        "GB",
+        "FR",
+        "UNKNOWN"
+      ],
+      "plot": "A forthright Remy and his reluctant brother Emile speak out for oppressed rats everywhere. Remy rolls film explaining that rats see themselves as on a par with men, who, instead, make war on rats. Remy gives a history lesson: heroism in India, black rat migration from the Middle East to Europe during the Crusades, the Black Death of 1347 to 1352, and Remy's contention that the flea was the villain. Enter the brown or Norway rat - from China. Both travel on ships around the world, with the larger brown pushing out the smaller black, and both live symbiotically with man. Then, Emile explains what's cool about rats. Trade phobia, Remy tells humans, for utopia. Any chance of that?"
+    },
+    {
+      "title": "The Admiral: Roaring Currents",
+      "years": "1597..1597",
+      "countries": [
+        "KR",
+        "JP"
+      ],
+      "plot": "The film mainly follows the famous 1597 Battle of Myeongryang during the Japanese invasion of Korea (1592-1598), where the iconic Joseon admiral Yi Sun-sin managed to destroy a total of 31 of 133 Japanese warships with only 13 ships remaining in his command. The battle, which took place in the Myeongryang Strait off the southwest coast of the Korean Peninsula, is considered one of the greatest victories of Yi."
+    }
+  ],
+  "categories": [
+    {
+      "label": "courts ruled by dynastic succession struggles",
+      "description": "Kings, emperors, princes, and ministers hold power through bloodline, marriage, and faction, so the question of rightful inheritance can unsettle an entire realm. What you'll see: throne rooms, sealed decrees, rival heirs, court favorites, royal marriages, and sudden turns in palace favor.",
+      "icon": "👑"
+    },
+    {
+      "label": "border fortresses guarding contested realms",
+      "description": "Much of power rests on holding passes, walled cities, island straits, and frontier forts against neighboring kingdoms and steppe or sea-borne enemies. What you'll see: sieges, watchtowers, stone walls, beacon fires, garrisons, supply shortages, and commanders weighing ground and weather.",
+      "icon": "🏯"
+    },
+    {
+      "label": "warrior houses bound by personal loyalty",
+      "description": "Armed service is tied to sworn obedience toward a lord, clan, or commander, yet those bonds are constantly tested by ambition, betrayal, and defeat. What you'll see: retainers in armor, clan banners, oaths of service, messenger riders, household guards, and punishments for disloyalty.",
+      "icon": "🛡️"
+    },
+    {
+      "label": "emperors served by eunuchs and secret police",
+      "description": "In several courts, rulers extend their reach through palace servants, censors, informers, and special guards who watch officials as much as enemies. What you'll see: whispered accusations, arrest warrants, inner-palace corridors, torture chambers, coded orders, and feared men acting in the sovereign's name.",
+      "icon": "🗝️"
+    },
+    {
+      "label": "villages exposed to soldiers and bandits",
+      "description": "Away from the capitals, common people live close to hunger and violence, with war bands, tax demands, and failed harvests pressing on every season. What you'll see: rice fields and millet plots, thatched huts, hidden grain, peasants bargaining for protection, and roads made dangerous by armed men.",
+      "icon": "🌾"
+    },
+    {
+      "label": "buddhist, taoist, and folk rites entwined",
+      "description": "Religion is not set apart from daily life, for monks, shrines, omens, karma, spirits, and ritual observances shape how people understand fortune, illness, and justice. What you'll see: temple bells, incense, chanting, hermits, diviners, festival offerings, spirit-haunted woods, and moral fear of unseen powers.",
+      "icon": "🛕"
+    },
+    {
+      "label": "steppe and sea routes carry armies",
+      "description": "Asian realms are linked by caravan paths, border roads, and sea lanes that move tribute, envoys, merchants, horses, and invaders across great distances. What you'll see: mounted columns, camel or horse trains, harbor towns, war junks, foreign emissaries, and frontier inns crowded with travelers.",
+      "icon": "🐎"
+    },
+    {
+      "label": "households ordered by rank and seclusion",
+      "description": "Family life follows strict gradations of age, sex, and status, with wives, concubines, servants, and heirs all placed within a visible hierarchy. What you'll see: arranged marriages, women's quarters, formal dress, household stewards, bridal processions, concubines, and etiquette marking every encounter.",
+      "icon": "👘"
+    },
+    {
+      "label": "pleasure quarters beside learned refinement",
+      "description": "Elite life joins literary polish, music, dance, and painting with licensed entertainment, courtesanship, and the commerce of desire. What you'll see: brothels, singing girls, scholars composing verses, silk interiors, drinking games, trained courtesans, and moral talk beside open indulgence.",
+      "icon": "🪭"
+    },
+    {
+      "label": "weapons and drill still decide rule",
+      "description": "Before gunpowder remakes war completely, kingdoms rely on bows, spears, swords, cavalry, warships, and disciplined formations to win and keep dominion. What you'll see: massed archers, duels with blades, armored horsemen, shield walls, naval ramming and boarding, and generals reading terrain.",
+      "icon": "🏹"
+    }
+  ]
+}

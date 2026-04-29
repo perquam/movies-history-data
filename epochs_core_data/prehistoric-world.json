@@ -1,0 +1,76 @@
+{
+  "id": "prehistoric-world",
+  "label": "Prehistoric World",
+  "aliases": [
+    "Neolithic Era",
+    "Stone Age",
+    "Before Civilization",
+    "Dawn of Humanity",
+    "Pre-Bronze Age"
+  ],
+  "time_range": {
+    "start_year": -10000,
+    "end_year": -3001,
+    "label": "10,000 BC to 3,001 BC"
+  },
+  "headline": "Before kings, before cities, before writing — just small groups of people figuring out how to stop running and start staying.",
+  "epoch_summary": "Seven thousand years of humans learning to plant seeds, tame animals, stack mud into walls and bury their dead with care — the slow, invisible revolution that turns nomads into villagers and villagers into the first societies nobody will ever record.",
+  "regions": [
+    {
+      "region_name": "Africa",
+      "description_of_an_epoch_in_the_region": "The Sahara is green. Rivers run where sand will be. People herd cattle across grasslands that stretch from the Atlantic to the Nile, painting the animals they know onto rock faces in pigments that will outlast every empire. Farther south, hunter-gatherer bands move through forests and savannas in patterns older than memory — trading, splitting, merging, following the rain."
+    },
+    {
+      "region_name": "Antarctica",
+      "description_of_an_epoch_in_the_region": "Ice. Nothing else. No human being has any idea this place exists."
+    },
+    {
+      "region_name": "Asia",
+      "description_of_an_epoch_in_the_region": "Two river valleys change everything. Along the Yangtze, someone figures out rice. In the Fertile Crescent, someone figures out wheat. These are not small things — they are the hinge the entire future swings on. Farther east, villages multiply along rivers, pottery gets better, and the first permanent settlements start looking like places people intend to stay forever. By the end of this period, some of these villages are becoming something no one has a word for yet: cities."
+    },
+    {
+      "region_name": "Europe",
+      "description_of_an_epoch_in_the_region": "Farming creeps in from the east, slowly, over thousands of years. The people who were here first — hunters following deer and aurochs through old-growth forest — either learn the new way or get pushed to the edges. Somebody drags enormous stones across Britain and Brittany and stands them upright for reasons we still argue about. The continent is mostly forest, mostly quiet, mostly small groups who know every tree in their territory and nothing about what lies three valleys over."
+    },
+    {
+      "region_name": "North America",
+      "description_of_an_epoch_in_the_region": "People have been here for thousands of years already, spread thin across a continent of staggering size. In the desert Southwest, they hunt and gather in landscapes that punish mistakes. Along the coasts, they fish. In the great forests of the East, they burn clearings and track game through woods so dense the sky disappears. No cities, no fields — just an intimate, demanding relationship with land that asks everything and gives nothing for free."
+    },
+    {
+      "region_name": "Oceania",
+      "description_of_an_epoch_in_the_region": "Australia's people have been here longer than anyone has been anywhere. They burn the bush in careful patterns, read the land like text, and carry knowledge in stories that encode tens of thousands of years of memory. The Pacific islands sit empty and waiting — the great voyagers who will reach them haven't launched their canoes yet."
+    },
+    {
+      "region_name": "South America",
+      "description_of_an_epoch_in_the_region": "In the highlands, people start growing potatoes and quinoa — crops tough enough for thin air and cold nights. Along the coast, they eat from the sea. In the Amazon, they hunt and fish in a green world so dense and alive it resists every attempt to simplify it. The roots of what will eventually become Andean civilization are here, buried in the dirt, but none of it looks like civilization yet."
+    },
+    {
+      "region_name": "Atlantic Ocean",
+      "description_of_an_epoch_in_the_region": "A barrier, not a road. People fish its edges and fear its depths. Nobody alive has any reason to believe there's anything on the other side."
+    },
+    {
+      "region_name": "Pacific Ocean",
+      "description_of_an_epoch_in_the_region": "The largest emptiness on earth. Coastal people take what they can from its shallows, but the open water is a void — no sails, no navigation, no reason yet to try."
+    },
+    {
+      "region_name": "Indian Ocean",
+      "description_of_an_epoch_in_the_region": "Warm, monsoon-driven, and already shaping how coastal people eat and move. Simple boats hug the shorelines of what will become India and East Africa, but the open ocean is still too big and too unknown to cross on purpose."
+    },
+    {
+      "region_name": "Southern Ocean",
+      "description_of_an_epoch_in_the_region": "Freezing water, screaming wind, no witnesses. It exists entirely outside the human story."
+    },
+    {
+      "region_name": "Arctic Ocean",
+      "description_of_an_epoch_in_the_region": "People live on its edges — hunting seals, reading ice, surviving winters that would kill anyone who doesn't know exactly what they're doing. The ocean itself is locked under ice for most of the year, more roof than water."
+    },
+    {
+      "region_name": "FICTIONAL",
+      "description_of_an_epoch_in_the_region": "Invented worlds that borrow from this era tend to strip everything back to bone: tiny tribes, vast wilderness, megafauna, firelight, and the constant question of what's watching from the dark. Magic here feels like animism — spirits in rocks, voices in rivers, something old sleeping under the mountain. The technology is muscle and stone, and survival is never guaranteed."
+    },
+    {
+      "region_name": "UNKNOWN",
+      "description_of_an_epoch_in_the_region": "If a film feels prehistoric, you know it immediately: the world is bigger than the people in it, there are no written rules, and every day is a negotiation between hunger and patience. The geography doesn't matter because the stakes are the same everywhere — eat, shelter, don't die, protect the ones next to you."
+    }
+  ]
+}

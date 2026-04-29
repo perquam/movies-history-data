@@ -1,0 +1,564 @@
+[
+  {
+    "movie_id": 1163045,
+    "movie_idx": 204,
+    "imdb_id": "tt28546464",
+    "title": "Jagun Jagun",
+    "production_year": "2023",
+    "genre": "Drama, History",
+    "plot": "A young man determined to become a mighty warrior joins an elite army, encountering the wrath of a maniacal warlord and the love of a woman.",
+    "runtime": "133 min",
+    "director": "Tope Adebayo, Adebayo Tijani",
+    "actors": "Femi Adebayo, Tope Adebayo, Adebowale Adedayo",
+    "production_country": "Nigeria",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNDY0ODU1NjktM2MxZi00MzE5LWE2ZjktNGEzNWMzMDJmYjk5XkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/1163045.webp",
+    "imdb_rating": "3.9",
+    "imdb_votes": "781",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Jagun_Jagun",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/1163045.txt",
+    "epoch": "Unanchored Time",
+    "action_countries": [
+      "NG"
+    ],
+    "action_continents": [
+      "Africa"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "kingdoms held together by strong rulers",
+        "description": "Power is imagined as personal and concentrated, resting in the hand of a king, Pharaoh, warlord, or dominant chief whose strength sets the order of the land. What you'll see: thrones, courts, royal compounds, decrees, tribute, banners, and people measuring safety by who commands the centre.",
+        "icon": "👑"
+      },
+      {
+        "label": "war bands and fighters winning honor",
+        "description": "In many of these worlds, standing and protection come through martial skill, loyal retinues, and the readiness to defend a settlement or conquer rivals. What you'll see: drilled fighters, spears and blades, battle formations, boasts of prowess, elite guards, and chiefs surrounded by armed followers.",
+        "icon": "🛡️"
+      }
+    ],
+    "failures": {
+      "time_range": "unanchored"
+    }
+  },
+  {
+    "movie_id": 205584,
+    "movie_idx": 1572,
+    "imdb_id": "tt2404233",
+    "title": "Gods of Egypt",
+    "production_year": "2016",
+    "genre": "Action, Adventure, Drama",
+    "plot": "Set, the merciless god of darkness, has taken over the throne of Egypt and plunged the once peaceful and prosperous empire into chaos and conflict. Few dare to rebel against him. A young thief, whose love was taken captive by the god, seeks to dethrone and defeat Set with the aid of the powerful god Horus.",
+    "runtime": "127 min",
+    "director": "Alex Proyas",
+    "actors": "Brenton Thwaites, Nikolaj Coster-Waldau, Gerard Butler",
+    "production_country": "United States, Australia, China, Hong Kong",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNjExODg3MDUzNl5BMl5BanBnXkFtZTgwNjExMjE3NzE@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/205584.webp",
+    "imdb_rating": "5.4",
+    "imdb_votes": "134,931",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Gods_of_Egypt_(film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/205584.txt",
+    "epoch": "Unanchored Time",
+    "action_countries": [
+      "EG"
+    ],
+    "action_continents": [
+      "Africa"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "gods and spirits woven into rule",
+        "description": "The unseen world is not separate from public life: divine favor, curses, prophecy, and sacred signs help explain fortune, disaster, and rightful rule. What you'll see: temple imagery, dream interpretation, omens, prayers for deliverance, revered creatures, and rulers whose power carries a sacred claim.",
+        "icon": "🔮"
+      }
+    ],
+    "failures": {
+      "time_range": "unanchored"
+    }
+  },
+  {
+    "movie_id": 16366,
+    "movie_idx": 1673,
+    "imdb_id": "tt0264734",
+    "title": "Joseph: King of Dreams",
+    "production_year": "2000",
+    "genre": "Animation, Adventure, Biography, Drama, Family, History, Musical",
+    "plot": "When Joseph receives a beautiful coat from his parents, his eleven brothers hate him even more, and are driven to sell him to desert merchants, who take him to Egypt. There he is made the servant of a wealthy Egyptian who misunderstands him, and has him thrown into prison. He shows his God-given gift by interpreting the dreams of two other prisoners. Eventually, the Pharaoh begins to be plagued by dreams, and sends for Joseph, who interprets them and saves Egypt in the process. He is made second in command to Pharaoh, and has most of Egypt's grain stored. Eventually his brothers arrive in Egypt to buy food because of famine, and he must forgive them. Then the dreams that had angered his brothers, were in reality prophecies that had come from God.",
+    "runtime": "75 min",
+    "director": "Rob LaDuca, Robert C. Ramirez",
+    "actors": "Ben Affleck, Mark Hamill, Richard Herd, Maureen McGovern",
+    "production_country": "USA, France, UK",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZWEzMzg4M2EtYjhmMS00NGYzLWJiZTgtNTg3MGMzOTIxMDAxXkEyXkFqcGdeQXVyNjExODE1MDc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/16366.webp",
+    "imdb_rating": "6.5",
+    "imdb_votes": "11,683",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Joseph:_King_of_Dreams",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/16366.txt",
+    "epoch": "Unanchored Time",
+    "action_countries": [
+      "EG"
+    ],
+    "action_continents": [
+      "Africa"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "kingdoms held together by strong rulers",
+        "description": "Power is imagined as personal and concentrated, resting in the hand of a king, Pharaoh, warlord, or dominant chief whose strength sets the order of the land. What you'll see: thrones, courts, royal compounds, decrees, tribute, banners, and people measuring safety by who commands the centre.",
+        "icon": "👑"
+      },
+      {
+        "label": "gods and spirits woven into rule",
+        "description": "The unseen world is not separate from public life: divine favor, curses, prophecy, and sacred signs help explain fortune, disaster, and rightful rule. What you'll see: temple imagery, dream interpretation, omens, prayers for deliverance, revered creatures, and rulers whose power carries a sacred claim.",
+        "icon": "🔮"
+      }
+    ],
+    "failures": {
+      "time_range": "unanchored"
+    }
+  },
+  {
+    "movie_id": 20558,
+    "movie_idx": 3192,
+    "imdb_id": "tt0480461",
+    "title": "Scooby-Doo in Where's My Mummy?",
+    "production_year": "2005",
+    "genre": "Animation, Adventure, Comedy, Family, Fantasy, Mystery",
+    "plot": "Scooby-Doo and the Mystery Inc. gang become involved in a supernatural mystery in Egypt.",
+    "runtime": "75 min",
+    "director": "Joe Sichta",
+    "actors": "Frank Welker, Casey Kasem, Mindy Cohn, Grey Griffin",
+    "production_country": "USA",
+    "poster": "https://m.media-amazon.com/images/M/MV5BY2M0NmQzMjYtNDg3Yi00NzQyLThkY2UtMWU1ZGJlNWQ0YmIzXkEyXkFqcGdeQXVyNDQ5MDYzMTk@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/20558.webp",
+    "imdb_rating": "6.7",
+    "imdb_votes": "3,066",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Scooby-Doo_in_film",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/20558.txt",
+    "epoch": "Unanchored Time",
+    "action_countries": [
+      "EG"
+    ],
+    "action_continents": [
+      "Africa"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "deserts and ancient stone keeping secrets",
+        "description": "Monuments, tombs, and buried chambers make the land feel old beyond memory, with past dynasties still pressing on the present through ruins and legend. What you'll see: pyramids, catacombs, sand-choked entrances, carved walls, funerary spaces, and the awe and dread attached to ancient works of stone.",
+        "icon": "🏺"
+      }
+    ],
+    "failures": {
+      "time_range": "unanchored"
+    }
+  },
+  {
+    "movie_id": 1104040,
+    "movie_idx": 3301,
+    "imdb_id": "tt19704612",
+    "title": "Gangs of Lagos",
+    "production_year": "2023",
+    "genre": "Crime, Thriller",
+    "plot": "A group of friends who each have to navigate their own destiny, growing up on the bustling streets and neighborhood of Isale Eko, Lagos.",
+    "runtime": "124 min",
+    "director": "Jade Osiberu",
+    "actors": "Tobi Bakre, Olarotimi Fakunle, Adesua Etomi-Wellington",
+    "production_country": "Nigeria",
+    "poster": "https://m.media-amazon.com/images/M/MV5BOGIxNTc3ZDAtMjdhNi00YWYwLTg1MjgtNzM2NjhkNDhhMTljXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/1104040.webp",
+    "imdb_rating": "5.8",
+    "imdb_votes": "2,888",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Gangs_of_Lagos",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/1104040.txt",
+    "epoch": "Unanchored Time",
+    "action_countries": [
+      "NG"
+    ],
+    "action_continents": [
+      "Africa"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "ports and crowded quarters chasing livelihood",
+        "description": "Urban Africa appears as a place of dense neighborhoods, trade, improvisation, and hard bargaining where many people press close around narrow chances to rise. What you'll see: packed streets, informal markets, waterfront districts, loud traffic, local crews, cramped homes, and a daily scramble for money and standing.",
+        "icon": "⚓"
+      }
+    ],
+    "failures": {
+      "time_range": "unanchored"
+    }
+  },
+  {
+    "movie_id": 282813,
+    "movie_idx": 3440,
+    "imdb_id": "tt2799166",
+    "title": "The Pyramid",
+    "production_year": "2014",
+    "genre": "Horror, Mystery, Thriller",
+    "plot": "A team of U.S. archaeologists unearths an ancient pyramid buried deep beneath the Egyptian desert. As they search the pyramid's depths, they become hopelessly lost in its dark and endless catacombs. Searching for a way out, they become desperate to seek daylight again. They come to realize they aren't just trapped, they are being hunted.",
+    "runtime": "89 min",
+    "director": "Grégory Levasseur",
+    "actors": "Ashley Hinshaw, James Buckley, Denis O'Hare",
+    "production_country": "Morocco, United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjAxODg2Mzc5OV5BMl5BanBnXkFtZTgwOTUxNTQ1MjE@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/282813.webp",
+    "imdb_rating": "4.7",
+    "imdb_votes": "28,611",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Pyramid_(film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/282813.txt",
+    "epoch": "Unanchored Time",
+    "action_countries": [
+      "EG"
+    ],
+    "action_continents": [
+      "Africa"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "deserts and ancient stone keeping secrets",
+        "description": "Monuments, tombs, and buried chambers make the land feel old beyond memory, with past dynasties still pressing on the present through ruins and legend. What you'll see: pyramids, catacombs, sand-choked entrances, carved walls, funerary spaces, and the awe and dread attached to ancient works of stone.",
+        "icon": "🏺"
+      },
+      {
+        "label": "gods and spirits woven into rule",
+        "description": "The unseen world is not separate from public life: divine favor, curses, prophecy, and sacred signs help explain fortune, disaster, and rightful rule. What you'll see: temple imagery, dream interpretation, omens, prayers for deliverance, revered creatures, and rulers whose power carries a sacred claim.",
+        "icon": "🔮"
+      }
+    ],
+    "failures": {
+      "time_range": "unanchored"
+    }
+  },
+  {
+    "movie_id": 172391,
+    "movie_idx": 6120,
+    "imdb_id": "tt1487931",
+    "title": "Khumba",
+    "production_year": "2013",
+    "genre": "Animation, Adventure, Comedy",
+    "plot": "A half-striped zebra is born into an insular, isolated herd obsessed with stripes. Rumors that the strange foal is cursed spread and, before long, he is blamed for the drought that sets into the Great Karoo. When even his father, the leader of the herd, blames him for the lack of rain and the subsequent death of his mother, the outcast zebra leaves the confines of his home knowing that he cannot survive in the herd without all his stripes. Khumba ventures beyond the fence - vulnerable to the ferocious Leopard, Phango, who controls the waterholes and terrorizes the animals in the Great Karoo. Khumba is rescued from an opportunistic wild dog by a quirky duo: a wildebeest and an ostrich. Mama V is a self-confessed free spirit who does not want to be the average stay-at-home mom, like other wildebeest. Ironically, she mothers Bradley, a flamboyant but insecure ostrich who overcompensates for his scraggily feathers. When a mystical mantis appears to the foal, drawing a map to what could be interpreted as either water or stripes, the duo join Khumba on his quest in the hope that their own search for a safe waterhole is over. On their journey, Khumba encounters a colorful range of characters including a migrating herd of Springbok in search of greener (and safer) pastures; a new age, bohemian community living safely within the confines of a luxurious national park; an endangered Riverine Rabbit who has survived extinction by mastering a myriad of skills ranging from impersonations to beat-boxing; a group of hysterical Dassies (rock-rabbits) who fanatically worship the Mighty Black Eagle and Nora, a loony, solitary Merino sheep living on an abandoned farm. Through these interactions, Khumba begins to learn that diversity is essential for survival and that one's difference can, in fact, be one's strength.",
+    "runtime": "85 min",
+    "director": "Anthony Silverston",
+    "actors": "Jake T. Austin, Adrian Rhodes, Sam Riegel",
+    "production_country": "South Africa, United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTQyNTgzODU1N15BMl5BanBnXkFtZTgwMjg4NjQxMDE@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/172391.webp",
+    "imdb_rating": "5.6",
+    "imdb_votes": "6,709",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Khumba",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/172391.txt",
+    "epoch": "Unanchored Time",
+    "action_countries": [
+      "ZA"
+    ],
+    "action_continents": [
+      "Africa"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "waterholes and rivers deciding survival",
+        "description": "Rain, rivers, and stored grain are the thin line between plenty and ruin, so seasons of drought or flood shape movement, fear, and authority. What you'll see: parched ground, guarded water sources, anxious talk of rain, mighty falls and dams, and journeys driven by thirst or famine.",
+        "icon": "💧"
+      },
+      {
+        "label": "vast bush where humans are vulnerable",
+        "description": "Across savannah, desert, and deep forest, people live or travel in lands where animal strength, distance, and exposure can quickly strip away human control. What you'll see: game drives, thorn scrub, riverbanks, dust, night sounds, and sudden encounters with lions, rhinos, leopards, or other powerful beasts.",
+        "icon": "🦁"
+      }
+    ],
+    "failures": {
+      "time_range": "unanchored"
+    }
+  },
+  {
+    "movie_id": 161143,
+    "movie_idx": 6289,
+    "imdb_id": "tt2702348",
+    "title": "Madly Madagascar",
+    "production_year": "2013",
+    "genre": "Animation, Short, Comedy, Family, Romance",
+    "plot": "The characters from the animated Madagascar franchise, Alex, Melman, Marty and Gloria celebrate love in this Valentine special.",
+    "runtime": "22 min",
+    "director": "David Soren",
+    "actors": "Ben Stiller, Chris Rock, David Schwimmer, Jada Pinkett Smith",
+    "production_country": "USA",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNmViZWQwY2EtNDllZi00YzdjLTg2MzctMzVkZTI4YmQ2ZDlkXkEyXkFqcGdeQXVyNDgyODgxNjE@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/161143.webp",
+    "imdb_rating": "6.3",
+    "imdb_votes": "1,606",
+    "wikipedia_url": "https://fy.wikipedia.org/wiki/Madly_Madagascar",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/161143.txt",
+    "epoch": "Unanchored Time",
+    "action_countries": [
+      "MG",
+      "US"
+    ],
+    "action_continents": [
+      "Africa",
+      "North America"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Madagascar Universe",
+    "categories": [
+      {
+        "label": "foreign money entering protected wild lands",
+        "description": "Game reserves, lodges, expeditions, and extraction schemes bring outsiders into African landscapes, turning wilderness into something toured, managed, or exploited for gain. What you'll see: safari vehicles, rangers and guides, lodges, maps and permits, drilling or dam works, and tense contact between visitors and local terrain.",
+        "icon": "🚙"
+      }
+    ],
+    "failures": {
+      "time_range": "unanchored"
+    }
+  },
+  {
+    "movie_id": 817451,
+    "movie_idx": 6328,
+    "imdb_id": "tt13863334",
+    "title": "Endangered Species",
+    "production_year": "2021",
+    "genre": "Action, Thriller",
+    "plot": "ENDANGERED SPECIES is an intense, action packed survival-adventure about a wealthy American family who travel to the vast African wilderness of Kenya hoping for a dream vacation filled with excitement, bonding and a chance to fix the growing rifts within their family. But when their safari vehicle is attacked by a rhino protecting her calf, the family is left stranded miles from help and their dream vacation turns into a nightmarish struggle for survival in a world where they are the bottom of the food chain.",
+    "runtime": "101 min",
+    "director": "M.J. Bassett",
+    "actors": "Rebecca Romijn, Philip Winchester, Isabel Bassett",
+    "production_country": "Kenya, United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BOWI0YzJjMDgtYjJiOC00ODEwLThiMTQtOTAxMzE4M2RkZjBmXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/817451.webp",
+    "imdb_rating": "4.6",
+    "imdb_votes": "2,938",
+    "epoch": "Unanchored Time",
+    "action_countries": [
+      "KE"
+    ],
+    "action_continents": [
+      "Africa"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "vast bush where humans are vulnerable",
+        "description": "Across savannah, desert, and deep forest, people live or travel in lands where animal strength, distance, and exposure can quickly strip away human control. What you'll see: game drives, thorn scrub, riverbanks, dust, night sounds, and sudden encounters with lions, rhinos, leopards, or other powerful beasts.",
+        "icon": "🦁"
+      }
+    ],
+    "failures": {
+      "wikipedia": "no_wiki_article_found",
+      "time_range": "unanchored"
+    }
+  },
+  {
+    "movie_id": 1033107,
+    "movie_idx": 6504,
+    "imdb_id": "tt22437050",
+    "title": "Wild Is the Wind",
+    "production_year": "2022",
+    "genre": "Crime, Drama",
+    "plot": "Racial tensions and corruption come to a head in a small, segregated town after the police find the body of a young Afrikaner girl in the bush.",
+    "runtime": "123 min",
+    "director": "Fabian Medea",
+    "actors": "Mothusi Magano, Frank Rautenbach, Chris Chameleon",
+    "production_country": "South Africa",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYmIzNmZkMTktMGFmNC00NDU2LWE2MjItN2ExMzJkMDJlZThlXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/1033107.webp",
+    "imdb_rating": "5.6",
+    "imdb_votes": "1,723",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Wild_Is_the_Wind_(2022_film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/1033107.txt",
+    "epoch": "Unanchored Time",
+    "action_countries": [
+      "ZA"
+    ],
+    "action_continents": [
+      "Africa"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "vast bush where humans are vulnerable",
+        "description": "Across savannah, desert, and deep forest, people live or travel in lands where animal strength, distance, and exposure can quickly strip away human control. What you'll see: game drives, thorn scrub, riverbanks, dust, night sounds, and sudden encounters with lions, rhinos, leopards, or other powerful beasts.",
+        "icon": "🦁"
+      }
+    ],
+    "failures": {
+      "time_range": "unanchored"
+    }
+  },
+  {
+    "movie_id": 14211,
+    "movie_idx": 7014,
+    "imdb_id": "tt0468536",
+    "title": "Prey",
+    "production_year": "2007",
+    "genre": "Adventure, Drama, Horror",
+    "plot": "While working in a dam in Africa, the American hydraulic engineer Tom Newman brings his family to spend a couple of days in the Leopard's Rest Lodge. His fourteen year-old daughter Jessica is having friction with her stepmother Amy since she does not accept the divorce of her parents. On the next morning, Amy, Jessica and her brother David go in a game drive with a ranger while Tom goes to the dam. While driving off-road, David asks the ranger to stop the jeep to go to the \"toilet\", and unexpectedly they are attacked by a group of starving lions that kill and eat the ranger. Amy, Jessica and David are trapped in the jeep and stalked by the wild lions. When Tom returns to the hotel and finds that his family has not returned from the game, he asks for help to the experienced hunter and guide Crawford and together they seek Tom's family.",
+    "runtime": "92 min",
+    "director": "Darrell Roodt",
+    "actors": "Bridget Moynahan, Peter Weller, Carly Schroeder",
+    "production_country": "South Africa",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZGQ3ZDExZGMtZWQ1MC00M2ZhLTg3MmUtMzBmOWU3MGIzNDlhXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/14211.webp",
+    "imdb_rating": "4.7",
+    "imdb_votes": "8,960",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Prey_(2007_film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/14211.txt",
+    "epoch": "Unanchored Time",
+    "action_countries": [
+      "ZA"
+    ],
+    "action_continents": [
+      "Africa"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "foreign money entering protected wild lands",
+        "description": "Game reserves, lodges, expeditions, and extraction schemes bring outsiders into African landscapes, turning wilderness into something toured, managed, or exploited for gain. What you'll see: safari vehicles, rangers and guides, lodges, maps and permits, drilling or dam works, and tense contact between visitors and local terrain.",
+        "icon": "🚙"
+      }
+    ],
+    "failures": {
+      "time_range": "unanchored"
+    }
+  },
+  {
+    "movie_id": 492336,
+    "movie_idx": 7136,
+    "imdb_id": "tt7086706",
+    "title": "Deep Blue Sea 2",
+    "production_year": "2018",
+    "genre": "Action, Horror, Sci-Fi, Thriller",
+    "plot": "A brilliant billionaire creates five genetically altered bull sharks, which proceed to wreak havoc for a group of scientists on an isolated research facility.",
+    "runtime": "94 min",
+    "director": "Darin Scott",
+    "actors": "Danielle Savre, Rob Mayes, Michael Beach, Nathan Lynn",
+    "production_country": "USA, South Africa",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZDMzZDMwMTgtNjA1Yi00NWJkLWIzMDctNjEwY2EyZDM1ZDMzXkEyXkFqcGdeQXVyNjg0NzkwOTk@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/492336.webp",
+    "imdb_rating": "3.4",
+    "imdb_votes": "6,714",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Deep_Blue_Sea_2",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/492336.txt",
+    "epoch": "Unanchored Time",
+    "action_countries": [
+      "ZA"
+    ],
+    "action_continents": [
+      "Africa"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "foreign money entering protected wild lands",
+        "description": "Game reserves, lodges, expeditions, and extraction schemes bring outsiders into African landscapes, turning wilderness into something toured, managed, or exploited for gain. What you'll see: safari vehicles, rangers and guides, lodges, maps and permits, drilling or dam works, and tense contact between visitors and local terrain.",
+        "icon": "🚙"
+      }
+    ],
+    "failures": {
+      "time_range": "unanchored"
+    }
+  },
+  {
+    "movie_id": 230222,
+    "movie_idx": 7269,
+    "imdb_id": "tt1705952",
+    "title": "Tarzan",
+    "production_year": "2013",
+    "genre": "Animation, Adventure, Drama",
+    "plot": "Stranded in the heart of the untamed African jungle, orphaned John Jr, the helpless little son of the famous industrialist John Greystoke, finds a new family in the shape of a mighty female silverback gorilla. And, almost two decades later, Johnny becomes Tarzan or the fearless Ape without Fur. But, before long, Tarzan finds himself up against the unscrupulous young CEO of Greystoke Energies, William Clayton, as his evil plan to exploit the unharnessed force of a prehistoric meteor threatens the already fragile equilibrium of the forest. Now, in search of fragments of the rare celestial body, Clayton will stop at nothing to rob the jungle of its invaluable resource. However, not if Tarzan and Jane, the adventurous daughter of the late explorer James Porter, can help it. Will the ruthless invaders desecrate Tarzan's virgin realm?",
+    "runtime": "94 min",
+    "director": "Reinhard Klooss",
+    "actors": "Kellan Lutz, Spencer Locke, Les Bubb",
+    "production_country": "Germany, United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTQyODEwMTM2Nl5BMl5BanBnXkFtZTgwMTg1MTA3MDE@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/230222.webp",
+    "imdb_rating": "4.8",
+    "imdb_votes": "13,334",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Tarzan_(2013_film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/230222.txt",
+    "epoch": "Unanchored Time",
+    "action_countries": [
+      "UG"
+    ],
+    "action_continents": [
+      "Africa"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "foreign money entering protected wild lands",
+        "description": "Game reserves, lodges, expeditions, and extraction schemes bring outsiders into African landscapes, turning wilderness into something toured, managed, or exploited for gain. What you'll see: safari vehicles, rangers and guides, lodges, maps and permits, drilling or dam works, and tense contact between visitors and local terrain.",
+        "icon": "🚙"
+      }
+    ],
+    "failures": {
+      "time_range": "unanchored"
+    }
+  },
+  {
+    "movie_id": 133931,
+    "movie_idx": 8162,
+    "imdb_id": "tt1488181",
+    "title": "Adventures in Zambezia",
+    "production_year": "2012",
+    "genre": "Animation, Adventure, Comedy",
+    "plot": "Set in a bustling bird city on the edge of the majestic Victoria Falls, \"Zambezia\" is the story of Kai, a naïve, but high-spirited young falcon who travels to the bird city of \"Zambezia\", where he discovers the truth about his origins and, in defending the city, learns how to be part of a community.",
+    "runtime": "83 min",
+    "director": "Wayne Thornley",
+    "actors": "Leonard Nimoy, Jeremy Suarez, Abigail Breslin",
+    "production_country": "South Africa, United States, Netherlands",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNTEyNzE5MDc3NF5BMl5BanBnXkFtZTcwNjA3MzAxOA@@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/133931.webp",
+    "imdb_rating": "5.7",
+    "imdb_votes": "8,002",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Adventures_in_Zambezia",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/133931.txt",
+    "epoch": "Unanchored Time",
+    "action_countries": [
+      "ZA",
+      "ZM",
+      "UNKNOWN"
+    ],
+    "action_continents": [
+      "Africa",
+      "Africa",
+      "UNKNOWN"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "ports and crowded quarters chasing livelihood",
+        "description": "Urban Africa appears as a place of dense neighborhoods, trade, improvisation, and hard bargaining where many people press close around narrow chances to rise. What you'll see: packed streets, informal markets, waterfront districts, loud traffic, local crews, cramped homes, and a daily scramble for money and standing.",
+        "icon": "⚓"
+      },
+      {
+        "label": "kingdoms held together by strong rulers",
+        "description": "Power is imagined as personal and concentrated, resting in the hand of a king, Pharaoh, warlord, or dominant chief whose strength sets the order of the land. What you'll see: thrones, courts, royal compounds, decrees, tribute, banners, and people measuring safety by who commands the centre.",
+        "icon": "👑"
+      }
+    ],
+    "failures": {
+      "time_range": "unanchored"
+    }
+  }
+]

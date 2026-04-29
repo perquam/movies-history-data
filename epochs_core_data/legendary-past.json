@@ -1,0 +1,76 @@
+{
+  "id": "legendary-past",
+  "label": "Legendary Past",
+  "aliases": [
+    "Mythological Age",
+    "Age of Legends",
+    "Time Before Time",
+    "Primordial Era",
+    "Age of Gods and Heroes"
+  ],
+  "time_range": {
+    "start_year": -9999999999,
+    "end_year": -10001,
+    "label": "The Beginning to 10,001 BC"
+  },
+  "headline": "Before anyone wrote anything down, every people on earth already had a story about how it all started — and something terrible that went wrong.",
+  "epoch_summary": "A long time ago in a galaxy far, far away — or in a garden, or on a mountain, or in the belly of a giant — the world gets made, gods walk among mortals, heroes slay what can't be slain, and the rules of the universe are still being written in blood, fire and flood.",
+  "regions": [
+    {
+      "region_name": "Africa",
+      "description_of_an_epoch_in_the_region": "The oldest continent tells the oldest stories. Gods shape humans from clay, rivers, breath. Anansi spins the world into sense with tricks and thread. The land is alive — every mountain has a name that means something, every animal carries a lesson somebody learned the hard way. This is where the first fire gets stolen, the first death gets explained, the first rule gets broken."
+    },
+    {
+      "region_name": "Antarctica",
+      "description_of_an_epoch_in_the_region": "Ice. Nothing else. No people, no gods, no stories. The continent waits at the bottom of the world like something that hasn't been invented yet."
+    },
+    {
+      "region_name": "Asia",
+      "description_of_an_epoch_in_the_region": "The land is enormous and so are the stories. Monkey kings defy heaven. Warriors fight wars that last lifetimes and involve gods picking sides. Floods cover everything and one family builds a boat — or a mountain rises from the sea, or a turtle holds the whole world on its back. Demons and sages share the same roads, and the line between the two is thinner than anyone admits."
+    },
+    {
+      "region_name": "Europe",
+      "description_of_an_epoch_in_the_region": "Zeus throws lightning from a mountain. Odin hangs from a tree for nine days to learn the secret of everything. Giants build the world from a corpse. Every European myth starts with a family of gods who can't stop fighting each other — and humans get caught in the crossfire, loved or cursed or turned into animals depending on which god noticed them that day."
+    },
+    {
+      "region_name": "North America",
+      "description_of_an_epoch_in_the_region": "Coyote wanders the land making things up as he goes — rivers, death, fire, stupidity, all his doing. Raven steals the sun and puts it in the sky. The world begins on the back of a turtle, or rises from mud brought up from the bottom of an endless ocean. The stories here are older than the mountains, and every nation has its own version of how the dark got separated from the light."
+    },
+    {
+      "region_name": "Oceania",
+      "description_of_an_epoch_in_the_region": "Maui fishes whole islands out of the sea with a hook. The ocean is not an obstacle — it's home, road, ancestor, god. Stars are navigation marks left by beings who walked the sky before humans walked the ground. Everything that matters happens on water or because of water."
+    },
+    {
+      "region_name": "South America",
+      "description_of_an_epoch_in_the_region": "Viracocha rises from a lake and breathes life into stone. The jaguar owns the night. Forests are full of spirits that don't care whether you believe in them — they'll drown you, feed you, or teach you something awful either way. The mountains were people once, the rivers were tears, and the sky cracked open more than once before the gods got it right."
+    },
+    {
+      "region_name": "Atlantic Ocean",
+      "description_of_an_epoch_in_the_region": "A vast grey nothing between lands that don't know about each other yet. In the stories, this is where Atlantis sinks — a whole civilization swallowed in a single night because it got too proud or too powerful or too loud."
+    },
+    {
+      "region_name": "Pacific Ocean",
+      "description_of_an_epoch_in_the_region": "The biggest emptiness on the planet, dotted with islands that the gods pulled out of the deep. Every wave has a name in somebody's creation story. Monsters coil beneath the surface."
+    },
+    {
+      "region_name": "Indian Ocean",
+      "description_of_an_epoch_in_the_region": "Warm water, old water. In the myths, this is where gods churn the sea like butter to extract the elixir of immortality — and accidentally release poison that could end everything."
+    },
+    {
+      "region_name": "Southern Ocean",
+      "description_of_an_epoch_in_the_region": "Cold, screaming wind, and nothing beyond it. The edge of the known world. Whatever lives past here, no story has come back to describe it."
+    },
+    {
+      "region_name": "Arctic Ocean",
+      "description_of_an_epoch_in_the_region": "Frozen black water under a sky that sometimes burns green. The Inuit say Sedna lives at the bottom, controlling every creature in the sea — angry, fingerless, and not to be crossed."
+    },
+    {
+      "region_name": "FICTIONAL",
+      "description_of_an_epoch_in_the_region": "This is where galaxies far, far away live. Middle-earths and Narnias. Worlds built from scratch but borrowing the bones of myth — chosen ones, dark lords, prophecies, magic swords, quests that cost everything. The geography is invented but the stakes feel ancient: good against evil, order against chaos, the small against the vast. If a story starts with 'in the beginning' or 'a long time ago,' it probably belongs here."
+    },
+    {
+      "region_name": "UNKNOWN",
+      "description_of_an_epoch_in_the_region": "Fog, firelight, a voice telling a story that might be true. The setting doesn't have a pin on a map — it could be anywhere or nowhere. What matters is the feel: old, strange, half-remembered. The kind of world where animals talk, the dead give advice, and the rules haven't hardened into physics yet."
+    }
+  ]
+}

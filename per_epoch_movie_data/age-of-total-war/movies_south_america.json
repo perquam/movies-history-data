@@ -1,0 +1,616 @@
+[
+  {
+    "movie_id": 568124,
+    "movie_idx": 122,
+    "imdb_id": "tt2953050",
+    "title": "Encanto",
+    "production_year": "2021",
+    "genre": "Animation, Comedy, Family",
+    "plot": "Encanto tells the tale of an extraordinary family, the Madrigals, who live hidden in the mountains of Colombia, in a magical house, in a vibrant town, in a wondrous, charmed place called an Encanto. The magic of the Encanto has blessed every child in the family with a unique gift from super strength to the power to heal-every child except one, Mirabel. But when she discovers that the magic surrounding the Encanto is in danger, Mirabel decides that she, the only ordinary Madrigal, might just be her exceptional family's last hope.",
+    "runtime": "102 min",
+    "director": "Jared Bush, Byron Howard, Charise Castro Smith",
+    "actors": "Stephanie Beatriz, María Cecilia Botero, John Leguizamo",
+    "production_country": "United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNGEyNzk2M2MtNjBhZS00MzYwLWI0Y2YtYjc5ZWE2MjM0YWE5XkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/568124.webp",
+    "imdb_rating": "7.2",
+    "imdb_votes": "293,893",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Encanto",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/568124.txt",
+    "plot_year_start": 1910,
+    "plot_year_end": 1950,
+    "epoch": "age-of-total-war",
+    "action_countries": [
+      "CO"
+    ],
+    "action_continents": [
+      "South America"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "families carrying rank, duty, and silence",
+        "description": "Households are built around stern elders, inherited honour, and expectations about marriage, obedience, and the proper place of women, children, and dependants. What you'll see: grand family homes, tense meals, chaperoned courtship, secrets kept for reputation's sake, and domestic authority treated as law.",
+        "icon": "👪"
+      }
+    ],
+    "quiz": [
+      {
+        "question": "What does Mirabel do when she discovers the family's magic is in danger?",
+        "type": "plot",
+        "options": {
+          "A": "She leaves the village to start a new life on her own",
+          "B": "She tells the townspeople to take the magic away",
+          "C": "She tries to save the Encanto and her family"
+        },
+        "correct": "C"
+      },
+      {
+        "question": "Which real historical conflict in early 20th-century Colombia inspired the film's opening backstory?",
+        "type": "historical",
+        "options": {
+          "A": "The Thousand Days' War",
+          "B": "The Colombian War of Independence",
+          "C": "The Bogotazo riots"
+        },
+        "correct": "A"
+      }
+    ],
+    "key_events": [
+      {
+        "event": "Thousand Days' War",
+        "description": "The family's origin story is tied to armed violence in early 20th-century Colombia, echoing the mass displacement caused by the war."
+      }
+    ],
+    "key_characters": []
+  },
+  {
+    "movie_id": 451048,
+    "movie_idx": 708,
+    "imdb_id": "tt0870154",
+    "title": "Jungle Cruise",
+    "production_year": "2021",
+    "genre": "Action, Adventure, Comedy",
+    "plot": "1916. Dreaming about saving countless lives and having another adventure, the feisty English feminist and doctor of botany, Dr Lily Houghton, embarks on a peril-laden mission to change the world. Along with her fashionable brother, MacGregor, Dr Houghton enlists the help of the arrogant, wisecracking riverboat skipper, Captain Frank Wolff, to guide them through the serpentine Amazon River in La Quila, his swift wooden boat. Now, as the intrepid trio ventures deeper and deeper into the heart of an impenetrable green maze, searching for something that cannot be found, a centuries-old curse and the ruthless aristocrat, Prince Joachim, threaten to put an end to their ambitious plans. And, sooner or later, the jungle always wins. Is it true that the Spanish conquistador, Don Aguirre, was lost in the same God-forsaken part of the world?",
+    "runtime": "127 min",
+    "director": "Jaume Collet-Serra",
+    "actors": "Dwayne Johnson, Emily Blunt, Edgar Ramírez",
+    "production_country": "United States, Hungary, Canada",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMWU5ZTBkMjQtMzg2Yi00ZmJlLTk4YWEtYTc0ZjU1YzE1NGNkXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/451048.webp",
+    "imdb_rating": "6.5",
+    "imdb_votes": "223,746",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Jungle_Cruise_(film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/451048.txt",
+    "plot_year_start": 1916,
+    "plot_year_end": 1916,
+    "epoch": "age-of-total-war",
+    "action_countries": [
+      "BR",
+      "GB"
+    ],
+    "action_continents": [
+      "South America",
+      "Europe"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "remote interiors reached by river and mule",
+        "description": "Much of the continent still lies beyond easy road or rail reach, so jungle rivers, mountain passes, and pack trails remain the ordinary ways into the interior. What you'll see: paddle steamers and launch boats, mule paths, rope bridges, steep Andean air routes, and long journeys where weather and terrain rule the pace.",
+        "icon": "🐴"
+      },
+      {
+        "label": "science, exploration, and treasure-seeking in the wilds",
+        "description": "The continent is treated by outsiders and city elites alike as a place of specimens, ruins, medicinal wonders, and hidden riches waiting to be claimed or catalogued. What you'll see: maps and field journals, archaeological idols, botanical quests, expedition gear, and arguments over who has the right to possess what is found.",
+        "icon": "🧭"
+      }
+    ],
+    "quiz": [
+      {
+        "question": "What does Lily do at the end of the journey?",
+        "type": "plot",
+        "options": {
+          "A": "She uses the last flower to save Frank and then takes one flower home for research.",
+          "B": "She stays in the jungle and becomes the new village chief.",
+          "C": "She gives the flower to Prince Joachim to end the war."
+        },
+        "correct": "A"
+      },
+      {
+        "question": "What real historical group is shown in the film's 1556 flashback?",
+        "type": "historical",
+        "options": {
+          "A": "Spanish conquistadors exploring South America in the 16th century.",
+          "B": "Roman legions crossing the Amazon in ancient times.",
+          "C": "British colonists founding Brazil in the 1800s."
+        },
+        "correct": "A"
+      }
+    ],
+    "key_events": [
+      {
+        "event": "World War I",
+        "description": "The 1916 London plot is tied to the British war effort and a German expedition seeking the Tree for Germany."
+      }
+    ],
+    "key_characters": []
+  },
+  {
+    "movie_id": 85,
+    "movie_idx": 809,
+    "imdb_id": "tt0082971",
+    "title": "Raiders of the Lost Ark",
+    "production_year": "1981",
+    "genre": "Action, Adventure",
+    "plot": "The year is 1936. An archeology professor named Indiana Jones is venturing in the jungles of South America searching for a golden statue. Unfortunately, he sets off a deadly trap but miraculously escapes. Then, Jones hears from a museum curator named Marcus Brody about a biblical artifact called The Ark of the Covenant, which can hold the key to human existence. Jones has to venture to vast places such as Nepal and Egypt to find this artifact. However, he will have to fight his enemy Rene Belloq and a band of Nazis in order to reach it.",
+    "runtime": "115 min",
+    "director": "Steven Spielberg",
+    "actors": "Harrison Ford, Karen Allen, Paul Freeman",
+    "production_country": "United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BOGNhMjg2ZjgtYzk4Ni00MTViLTg1MmUtYzM2MDZiYjZlMmU3XkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/85.webp",
+    "imdb_rating": "8.4",
+    "imdb_votes": "1,102,713",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Raiders_of_the_Lost_Ark",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/85.txt",
+    "plot_year_start": 1936,
+    "plot_year_end": 1936,
+    "epoch": "age-of-total-war",
+    "action_countries": [
+      "PE",
+      "NP",
+      "EG",
+      "GB",
+      "GR"
+    ],
+    "action_continents": [
+      "South America",
+      "Asia",
+      "Africa",
+      "Europe",
+      "Europe"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "science, exploration, and treasure-seeking in the wilds",
+        "description": "The continent is treated by outsiders and city elites alike as a place of specimens, ruins, medicinal wonders, and hidden riches waiting to be claimed or catalogued. What you'll see: maps and field journals, archaeological idols, botanical quests, expedition gear, and arguments over who has the right to possess what is found.",
+        "icon": "🧭"
+      },
+      {
+        "label": "export ports tying republics to abroad",
+        "description": "Coastal capitals and river ports are bound to overseas markets, foreign visitors, and imported fashions even while the interior keeps older rhythms. What you'll see: bustling quays, customs houses, elegant city avenues, European goods, and ships carrying coffee, rubber, minerals, and letters across the sea.",
+        "icon": "⚓"
+      }
+    ],
+    "quiz": [
+      {
+        "question": "What happens when Indiana Jones first explores the Peruvian temple?",
+        "type": "plot",
+        "options": {
+          "A": "He finds the Ark of the Covenant and escapes with it",
+          "B": "He triggers a deadly trap but gets away",
+          "C": "He is captured before he enters the temple"
+        },
+        "correct": "B"
+      },
+      {
+        "question": "Which real-world group is shown searching for the Ark in the film?",
+        "type": "historical",
+        "options": {
+          "A": "Nazi Germany",
+          "B": "The Roman Empire",
+          "C": "The French Resistance"
+        },
+        "correct": "A"
+      }
+    ],
+    "key_events": [],
+    "key_characters": [
+      {
+        "character": "Adolf Hitler",
+        "description": "He is mentioned as believing the Ark could make the Nazi army invincible."
+      }
+    ]
+  },
+  {
+    "movie_id": 1041513,
+    "movie_idx": 939,
+    "imdb_id": "tt22695080",
+    "title": "Encanto at the Hollywood Bowl",
+    "production_year": "2022",
+    "genre": "Family, Music",
+    "plot": "A musical celebrating the world, characters, and songs of Disney Animation's \"Encanto.\"",
+    "runtime": "45 min",
+    "director": "Chris Howe, Jamal Sims, Lindsay Crystal",
+    "actors": "Stephanie Beatriz, Lin-Manuel Miranda, Diane Guerrero",
+    "production_country": "United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMWUyYmYxYWYtNTJkOS00ZWIwLWJlYjQtYzQ2YjAzZjBlNzMzXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/1041513.webp",
+    "imdb_rating": "7.5",
+    "imdb_votes": "1,324",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Encanto",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/1041513.txt",
+    "plot_year_start": 1900,
+    "plot_year_end": 1940,
+    "epoch": "age-of-total-war",
+    "action_countries": [
+      "CO"
+    ],
+    "action_continents": [
+      "South America"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "families carrying rank, duty, and silence",
+        "description": "Households are built around stern elders, inherited honour, and expectations about marriage, obedience, and the proper place of women, children, and dependants. What you'll see: grand family homes, tense meals, chaperoned courtship, secrets kept for reputation's sake, and domestic authority treated as law.",
+        "icon": "👪"
+      }
+    ],
+    "quiz": [
+      {
+        "question": "What is Encanto at the Hollywood Bowl mainly celebrating?",
+        "type": "plot",
+        "options": {
+          "A": "The world, characters, and songs of Disney's Encanto",
+          "B": "A group of explorers searching for treasure in Colombia",
+          "C": "A family trying to escape from a haunted theater"
+        },
+        "correct": "A"
+      },
+      {
+        "question": "Which real historical conflict in early 20th-century Colombia helped inspire the film's setting?",
+        "type": "historical",
+        "options": {
+          "A": "The Thousand Days' War",
+          "B": "The Colombian–Peruvian War",
+          "C": "The Chaco War"
+        },
+        "correct": "A"
+      }
+    ],
+    "key_events": [
+      {
+        "event": "Thousand Days' War",
+        "description": "Alma and Pedro flee an armed conflict in Colombia, echoing the mass displacement caused by this early-1900s war."
+      }
+    ],
+    "key_characters": []
+  },
+  {
+    "movie_id": 54989,
+    "movie_idx": 3363,
+    "imdb_id": "tt0083552",
+    "title": "Love Strange Love",
+    "production_year": "1982",
+    "genre": "Drama",
+    "plot": "In 1937, in São Paulo, 12-year-old Hugo comes from Santa Catarina. His grandmother is returning him to his mother, Anna, who is now with Osmar, the most influential politician in the state.",
+    "runtime": "97 min",
+    "director": "Walter Hugo Khouri",
+    "actors": "Vera Fischer, Tarcísio Meira, Xuxa",
+    "production_country": "Brazil",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMDllMGI0Y2UtYjE4OC00ZTY3LWFkYTAtNGMxY2NjMzZhYTI5XkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/54989.webp",
+    "imdb_rating": "5.8",
+    "imdb_votes": "1,476",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Love_Strange_Love",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/54989.txt",
+    "plot_year_start": 1937,
+    "plot_year_end": 1937,
+    "epoch": "age-of-total-war",
+    "action_countries": [
+      "BR",
+      "FR"
+    ],
+    "action_continents": [
+      "South America",
+      "Europe"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "party bosses and strongmen shaping public life",
+        "description": "Republican institutions exist, but influence often flows through local caudillos, provincial patrons, and men who trade favours, police power, and family ties for obedience. What you'll see: back-room political visits, uniformed escorts, electioneering under pressure, and household life entangled with public office.",
+        "icon": "🪖"
+      },
+      {
+        "label": "great estates ruling the countryside",
+        "description": "Large landed properties still dominate rural life, with owners acting as employers, patrons, judges, and political bosses over dependent workers and tenants. What you'll see: haciendas and plantations, peons in tied labour, manor houses above village huts, and daily deference mixed with simmering resentment.",
+        "icon": "🏡"
+      }
+    ],
+    "quiz": [
+      {
+        "question": "What does the older man reveal at the end of the story?",
+        "type": "plot",
+        "options": {
+          "A": "He is Hugo grown old, returning to donate the house to charity.",
+          "B": "He is Dr. Osmar, coming back to arrest everyone.",
+          "C": "He is Hugo’s grandmother, looking for Anna."
+        },
+        "correct": "A"
+      },
+      {
+        "question": "What major political change happens in Brazil during the story?",
+        "type": "historical",
+        "options": {
+          "A": "A coup d'état takes place in 1937, leading to a new government under Getúlio Vargas.",
+          "B": "Brazil becomes a monarchy again after a royal uprising.",
+          "C": "Brazil enters the European Union after a national election."
+        },
+        "correct": "A"
+      }
+    ],
+    "key_events": [
+      {
+        "event": "1937 Brazilian coup d'état",
+        "description": "A coup interrupts Osmar's political plans and forces him to flee, reflecting the real political takeover that year."
+      }
+    ],
+    "key_characters": []
+  },
+  {
+    "movie_id": 2259,
+    "movie_idx": 3867,
+    "imdb_id": "tt0107151",
+    "title": "The House of the Spirits",
+    "production_year": "1993",
+    "genre": "Drama, Romance",
+    "plot": "In mid-20th-century, the impoverished Esteban marries Clara and they have a daughter, Blanca. Esteban works hard and eventually has enough money to buy a hacienda, and he eventually becomes a local patriarch. He becomes very conservative and is feared by his workers. When Blanca grows up, she falls in love with a young revolutionary, Pedro, who urges the workers to fight for socialism. It is unavoidable that Pedro and Esteban are pitted against each other. Esteban tries to stop the love affair between Pedro and his daughter by all means possible, but soon Blanca becomes pregnant and has a daughter. The void between father and daughter seems unbridgeable when Blanca moves in with Pedro.",
+    "runtime": "145 min",
+    "director": "Bille August",
+    "actors": "Jeremy Irons, Meryl Streep, Maria Conchita Alonso",
+    "production_country": "Germany, Denmark, Portugal, United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNGQzZGM2NTUtZDBiMC00MmYwLTg5NGYtZDJiYTYzZGFmYzMzXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/2259.webp",
+    "imdb_rating": "6.9",
+    "imdb_votes": "26,147",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/The_House_of_the_Spirits_(film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/2259.txt",
+    "plot_year_start": 1926,
+    "plot_year_end": 1973,
+    "epoch": "age-of-total-war",
+    "action_countries": [
+      "CL",
+      "CA"
+    ],
+    "action_continents": [
+      "South America",
+      "North America"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "families carrying rank, duty, and silence",
+        "description": "Households are built around stern elders, inherited honour, and expectations about marriage, obedience, and the proper place of women, children, and dependants. What you'll see: grand family homes, tense meals, chaperoned courtship, secrets kept for reputation's sake, and domestic authority treated as law.",
+        "icon": "👪"
+      },
+      {
+        "label": "labour unrest and new leftward politics",
+        "description": "By the interwar years, rural workers and the urban poor are increasingly drawn into unions, reform movements, and socialist language that challenge old hierarchies. What you'll see: speeches to labourers, strikes and organising, clashes with landowners, and politics entering the village and the home.",
+        "icon": "✊"
+      }
+    ],
+    "quiz": [
+      {
+        "question": "What happens to Blanca after her secret love affair with Pedro is discovered?",
+        "type": "plot",
+        "options": {
+          "A": "She leaves Chile and never sees her family again",
+          "B": "She marries Jean de Satigny and moves to Europe",
+          "C": "She becomes pregnant and later moves in with Pedro"
+        },
+        "correct": "C"
+      },
+      {
+        "question": "What real historical event in Chile is shown as changing the country in 1973?",
+        "type": "historical",
+        "options": {
+          "A": "The War of the Pacific",
+          "B": "The Chilean War of Independence",
+          "C": "The military coup d'état of 11 September 1973"
+        },
+        "correct": "C"
+      }
+    ],
+    "key_events": [
+      {
+        "event": "1973 Chilean coup d'état",
+        "description": "A conspiracy between conservatives and the military seizes power on 11 September and begins arresting and killing opposition supporters."
+      },
+      {
+        "event": "Military dictatorship in Chile",
+        "description": "After the coup, the military controls the country and detains, tortures, and abuses people tied to the left-wing movement."
+      }
+    ],
+    "key_characters": []
+  },
+  {
+    "movie_id": 433498,
+    "movie_idx": 4368,
+    "imdb_id": "tt5093026",
+    "title": "Papillon",
+    "production_year": "2017",
+    "genre": "Adventure, Biography, Crime",
+    "plot": "Based on the international best-selling autobiographical books \"Papillon\" and \"Banco\", PAPILLON follows the epic story of Henri \"Papillon\" Charrière (Charlie Hunnam), a safecracker from the Parisian underworld who is framed for murder and condemned to life in the notorious penal colony on Devil's Island. Determined to regain his freedom, Papillon forms an unlikely alliance with quirky convicted counterfeiter Louis Dega (Rami Malek), who in exchange for protection, agrees to finance Papillon's escape.",
+    "runtime": "133 min",
+    "director": "Michael Noer",
+    "actors": "Charlie Hunnam, Damijan Oklopdzic, Christopher Fairbank",
+    "production_country": "United States, Czech Republic, Spain",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjIxMTMyOTE2NF5BMl5BanBnXkFtZTgwMDYyNzY1NTM@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/433498.webp",
+    "imdb_rating": "7.2",
+    "imdb_votes": "94,811",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Papillon_(2017_film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/433498.txt",
+    "plot_year_start": 1933,
+    "plot_year_end": 1941,
+    "epoch": "age-of-total-war",
+    "action_countries": [
+      "GF",
+      "CO"
+    ],
+    "action_continents": [
+      "South America",
+      "South America"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "prisons and penal colonies at empire's edge",
+        "description": "States use distant islands, jungle outposts, and hard-labour camps to remove the condemned far from ordinary society and hope of appeal. What you'll see: prison hulks, brutal barracks, chain gangs, guards in tropical stations, and escape plans measured against sea, fever, and sharks.",
+        "icon": "⛓️"
+      }
+    ],
+    "quiz": [
+      {
+        "question": "What does Papillon do after he is framed for murder?",
+        "type": "plot",
+        "options": {
+          "A": "He becomes a prison guard and helps run Devil's Island",
+          "B": "He escapes to France right away with Dega",
+          "C": "He is sent to Devil's Island and later tries to escape"
+        },
+        "correct": "C"
+      },
+      {
+        "question": "What real place was Devil's Island part of?",
+        "type": "historical",
+        "options": {
+          "A": "A British naval base in India",
+          "B": "A French penal colony in French Guiana",
+          "C": "A gold mine in South Africa"
+        },
+        "correct": "B"
+      }
+    ],
+    "key_events": [
+      {
+        "event": "Conviction of Henri Charrière",
+        "description": "Charrière is framed for murder, convicted in 1933, and sentenced to life in the French Guiana penal colony."
+      },
+      {
+        "event": "Escape from Devil's Island",
+        "description": "Charrière ultimately escapes from Devil's Island in 1941 and regains his freedom."
+      }
+    ],
+    "key_characters": [
+      {
+        "character": "Henri Charrière",
+        "description": "French safecracker and convict whose imprisonment and escape drive the story."
+      }
+    ]
+  },
+  {
+    "movie_id": 14906,
+    "movie_idx": 5420,
+    "imdb_id": "tt0036326",
+    "title": "Saludos Amigos",
+    "production_year": "1942",
+    "genre": "Animation, Short, Adventure",
+    "plot": "Live-action segments show members of the Disney staff touring South America and recording their impressions in sketches. These segue into four animated sections: \"Lake Titicaca\" depicts tourist Donald Duck's troubles with a stubborn llama; \"Pedro\" tells of a little mail plane's adventures flying over the treacherous Andes; \"El Gaucho Goofy\" transplants an American cowboy into the Argentine pampas; and in \"Aquarela do Brasil,\" Jose Carioca shows Donald the sights and sounds of Rio de Janiero.",
+    "runtime": "42 min",
+    "director": "Wilfred Jackson, Jack Kinney, Hamilton Luske",
+    "actors": "Fred Shields, José Oliveira, Lee Blair",
+    "production_country": "United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BODc5ZjlhODYtMjFmMS00NGNhLTgxOTAtNjBhMDJkNzU5ZmVmXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/14906.webp",
+    "imdb_rating": "6.0",
+    "imdb_votes": "8,993",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Saludos_Amigos",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/14906.txt",
+    "plot_year_start": 1941,
+    "plot_year_end": 1941,
+    "epoch": "age-of-total-war",
+    "action_countries": [
+      "BR",
+      "BO",
+      "PE",
+      "CL",
+      "AR"
+    ],
+    "action_continents": [
+      "South America",
+      "South America",
+      "South America",
+      "South America",
+      "South America"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "aviation and modern travel crossing hard terrain",
+        "description": "New machines shorten distance across mountains and jungle, but they remain precarious, costly, and unevenly spread beside older forms of travel. What you'll see: small mail planes, river launches, motor cars in the city, improvised airstrips, and modern conveyance set against vast difficult landscapes.",
+        "icon": "🛩️"
+      }
+    ],
+    "quiz": [
+      {
+        "question": "What happens to Donald Duck in the \"Lake Titicaca\" segment?",
+        "type": "plot",
+        "options": {
+          "A": "He becomes a pilot and delivers a single postcard.",
+          "B": "He struggles with a stubborn llama and ends up falling into the water.",
+          "C": "He teaches Goofy how to be a gaucho in Argentina."
+        },
+        "correct": "B"
+      },
+      {
+        "question": "In real history, why did the U.S. government support Disney's South America trip in 1941?",
+        "type": "historical",
+        "options": {
+          "A": "To promote goodwill in Latin America and counter Nazi influence as part of the Good Neighbor Policy.",
+          "B": "To film the first space mission from Brazil.",
+          "C": "To prepare for the opening of Disneyland in South America."
+        },
+        "correct": "A"
+      }
+    ],
+    "key_events": [
+      {
+        "event": "Disney goodwill tour of South America",
+        "description": "Disney staff travel through several South American countries and sketch local sights and customs as the film's framing device."
+      },
+      {
+        "event": "Good Neighbor Policy",
+        "description": "The tour is presented as part of U.S. efforts to build goodwill with Latin American countries before World War II."
+      }
+    ],
+    "key_characters": [
+      {
+        "character": "Walt Disney",
+        "description": "He appears as himself as part of the South American goodwill tour."
+      },
+      {
+        "character": "Lee Blair",
+        "description": "He appears as himself among the Disney artists documenting the trip."
+      },
+      {
+        "character": "Mary Blair",
+        "description": "She appears as herself among the Disney artists on the tour."
+      },
+      {
+        "character": "Norman Ferguson",
+        "description": "He appears as himself as one of the Disney staff members traveling in South America."
+      },
+      {
+        "character": "Frank Graham",
+        "description": "He appears as himself in the live-action tour footage."
+      },
+      {
+        "character": "Frank Thomas",
+        "description": "He appears as himself among the Disney staff touring South America."
+      }
+    ]
+  }
+]

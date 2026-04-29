@@ -1,0 +1,46 @@
+[
+  {
+    "movie_id": 1734,
+    "movie_idx": 769,
+    "imdb_id": "tt0209163",
+    "title": "The Mummy Returns",
+    "production_year": "2001",
+    "genre": "Action, Adventure, Fantasy",
+    "plot": "Many years ago, in Ancient Egypt, the Scorpion King led a menacing army, but when he sold his soul to Anubis, he was erased from history. Now he is only a myth...or is he? Rick and Evelyn O'Connell are still discovering new artifacts, along with their 8 year old son Alex. They discover the Bracelet of Anubis. But someone else is after the bracelet. High Priest Imhotep has been brought back from the dead once again and wants the bracelet, to control the Scorpion King's army. That's not the only problem. Imhotep now has Alex and with the bracelet attached to him, doesn't have long to live.",
+    "runtime": "130 min",
+    "director": "Stephen Sommers",
+    "actors": "Brendan Fraser, Rachel Weisz, John Hannah",
+    "production_country": "United States, Morocco, United Kingdom, Jordan",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjdiYzVlNjUtNGI5MC00MDE5LTk0MmQtNDc0YzIzOGRmMDNkXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/1734.webp",
+    "imdb_rating": "6.4",
+    "imdb_votes": "362,637",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Mummy_Returns",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/1734.txt",
+    "plot_year_start": 1933,
+    "plot_year_end": 3067,
+    "epoch": "future-world",
+    "action_countries": [
+      "EG",
+      "GB"
+    ],
+    "action_continents": [
+      "Africa",
+      "Europe"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "priesthoods wielding knowledge older than armies",
+        "description": "Religious specialists hold dangerous learning that rivals worldly force, since hidden names, rites, and invocations can command monsters, storms, and the dead. What you'll see: scrolls and incantations, temple lore, sacred symbols, and confrontations where ritual matters more than weapons.",
+        "icon": "📜"
+      },
+      {
+        "label": "relics serving as keys to power",
+        "description": "Ancient objects are not mere treasures but instruments that unlock places, reveal destinies, and confer command over hidden realms. What you'll see: bracelets, carved stones, sigils, locks that answer to sacred items, and frantic movement from one landmark to another.",
+        "icon": "🔑"
+      }
+    ]
+  }
+]

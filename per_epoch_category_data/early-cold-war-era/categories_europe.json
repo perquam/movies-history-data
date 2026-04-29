@@ -1,0 +1,491 @@
+{
+  "epoch": "early-cold-war-era",
+  "continent": "europe",
+  "sample_size": 50,
+  "sample": [
+    {
+      "title": "The Courier",
+      "years": "1960..1964",
+      "countries": [
+        "GB",
+        "RU",
+        "US"
+      ],
+      "plot": "In the shadow of the Cold War a letter from Oleg Penkovsky (Merab Ninidze) an agency of the Soviet Union received by MI6 stating the concern of Penkovsky about world safety and his anxiety about a nuclear war, So Emily Donovan (Rachel Brosnahan) a CIA Agent reached out to MI6 Agent Dickie Franks (Angus Wright) , who recruited British salesman Greville Wynne (Benedict Cumberbatch) to be their spy."
+    },
+    {
+      "title": "The Postman",
+      "years": "1950..1955",
+      "countries": [
+        "IT",
+        "CH"
+      ],
+      "plot": "Pablo Neruda, the famous Chilean poet, is exiled to a small island for political reasons. On the island, the unemployed son of a poor fisherman is hired as an extra postman due to the huge increase in mail that this causes. Il Postino is to hand-deliver the celebrity's mail to him. Though poorly educated, the postman learns to love poetry and eventually befriends Neruda. Struggling to grow and express himself more fully, he suddenly falls in love and needs Neruda's help and guidance more than ever."
+    },
+    {
+      "title": "My Week with Marilyn",
+      "years": "1956..1956",
+      "countries": [
+        "GB"
+      ],
+      "plot": "Sir Laurence Olivier (Sir Kenneth Branagh) is making a movie in London. Young Colin Clark (Eddie Redmayne), an eager film student, wants to be involved and he navigates himself a job on the set. When movie star Marilyn Monroe (Michelle Williams) arrives for the start of shooting, all of London is excited to see the blonde bombshell, while Olivier is struggling to meet her many demands and acting ineptness, and Colin is intrigued by her. Colin's intrigue is met when Marilyn invites him into her inner world where she struggles with her fame, her beauty, and her desire to be a great actress."
+    },
+    {
+      "title": "Contempt",
+      "years": "1963..1963",
+      "countries": [
+        "IT"
+      ],
+      "plot": "Paul Javal is a writer who is hired to make a script for a new movie about Ulysses more commercial, which is to be directed by Fritz Lang and produced by Jeremy Prokosch. But because he let his wife Camille drive with Prokosch and he is late, she believes, he uses her as a sort of present for Prokosch to get get a better payment. So the relationship ends."
+    },
+    {
+      "title": "Sylvia",
+      "years": "1956..1963",
+      "countries": [
+        "GB",
+        "US"
+      ],
+      "plot": "In 1956, aspiring American poet Sylvia Plath (Gwyneth Paltrow) meets fellow poet Edward James \"Ted\" Hughes (Daniel Craig) at Cambridge, where she is studying. Enthralled with the genius of his writing, Sylvia falls in love with him even before meeting him, and he quickly falls in love with her. They eventually marry. Sylvia quickly learns that others are also enthralled with her husband, for a combination of his good looks, charisma, fame, and success. Sylvia lives in her husband's professional shadow as she tries to eke out her own writing career, which doesn't come as naturally to her as it does to Ted. She also suspects him of chronic infidelity. Both issues affect Sylvia's already fragile emotional state, she, who once tried to commit suicide earlier in her life. Through her pain and her anger, she does gain minor success as a writer, with a completed semi-autobiographical novel and a few well received collection of poems. Following, she tries to regain some happiness in her life with Ted, but has an alternate plan if that does not work out as she wants."
+    },
+    {
+      "title": "A Brighter Tomorrow",
+      "years": "1956..1956",
+      "countries": [
+        "IT"
+      ],
+      "plot": "A movie director struggles with his relationship with his family, and with his latest movie, about the impact on the Italian Communist Party of the USSR invasion of Hungary in 1956."
+    },
+    {
+      "title": "Dial M for Murder",
+      "years": "1952..1952",
+      "countries": [
+        "GB",
+        "US"
+      ],
+      "plot": "In London, wealthy Margot Mary Wendice had a brief love affair with the American writer Mark Halliday while her husband and professional tennis player Tony Wendice was on a tennis tour. Tony quits playing to dedicate to his wife and finds a regular job. She decides to give him a second chance for their marriage. When Mark arrives from America to visit the couple, Margot tells him that she had destroyed all his letters but one that was stolen. Subsequently she was blackmailed, but she had never retrieved the stolen letter. Tony arrives home, claims that he needs to work and asks Margot to go with Mark to the theater. Meanwhile Tony calls Captain Lesgate (aka Charles Alexander Swann who studied with him at college) and blackmails him to murder his wife, so that he can inherit her fortune. But there is no perfect crime, and things do not work as planned."
+    },
+    {
+      "title": "A Real Young Girl",
+      "years": "1963..1963",
+      "countries": [
+        "FR"
+      ],
+      "plot": "Reluctantly, only child Alice Bonnard, a sulky and curious adolescent, returns to her parents' provincial farm house for yet another boring and endless end-of term vacation from boarding school, in the summer of 1963. Sadly, what awaits her there is a farce of a happy family, a strenuous generation gap, lonely outings with her bicycle and an awkward and clumsy transcendental stage between a girl's puberty and a young woman's adolescence. Nevertheless, as if by instinct, Alice the unripe explorer of her budding sexuality, she will find herself infatuated with Jim, a masculine pouting workman in her father's saw mill, dabbling in desire and the art of desirability, self-exploration and autoeroticism as an antidote to boredom. Eventually, young Alice mixing reality with vision, sexual fantasies and the fierce caged female sexuality with every visceral fluid possible, the undefined boundaries of the unfathomable realm of sex become ever so slightly clear, under an immature life's bubbly French Pop soundtrack."
+    },
+    {
+      "title": "The Talented Mr. Ripley",
+      "years": "1958..1958",
+      "countries": [
+        "IT",
+        "US",
+        "GR"
+      ],
+      "plot": "The 1950s. Manhattan lavatory attendant, Tom Ripley, borrows a Princeton jacket to play piano at a garden party. When the wealthy father of a recent Princeton grad chats Tom up, Tom pretends to know the son and is soon offered $1,000 to go to Italy to convince Dickie Greenleaf to return home. In Italy, Tom attaches himself to Dickie and to Marge, Dickie's cultured fiancée, pretending to love jazz and harboring homoerotic hopes as he soaks in luxury. Besides lying, Tom's talents include impressions and forgery, so when the handsome and confident Dickie tires of Tom, dismissing him as a bore, Tom goes to extreme lengths to make Greenleaf's privileges his own."
+    },
+    {
+      "title": "Rocketman",
+      "years": "1950..1975",
+      "countries": [
+        "GB",
+        "US"
+      ],
+      "plot": "The musical fantasy about Elton John's breakthrough years, from his time as a prodigy at the Royal Academy of Music through his influential and enduring musical partnership with Bernie Taupin."
+    },
+    {
+      "title": "Cléo from 5 to 7",
+      "years": "1962..1962",
+      "countries": [
+        "FR"
+      ],
+      "plot": "Two hours from 17:00 to 19:00h on the longest day of the year in the life of a young Parisienne is presented. Florence Victoire, who is better known by her stage name Cléo Victoire (as in Cleopatra), is a singer with three hit singles to her name, and as such some renown. Two days ago, she went in for some tests for abdominal issues to see if it is cancer. She will be getting the results today at 18:30h. She is certain that it will be a terminal cancer diagnosis, her mind fixated on that outcome and what it actually means. This belief affects how she approaches the day, from her encounters with friends and acquaintances to what she observes in total strangers around her. It could be as simple as how she views the lyrics to new songs presented to her from her songwriting team, to her feelings about a conversation she overhears in a café between a couple having relationship problems, to the typical sweet nothings spoken to her from her lover, José. There are certain things that do temporarily take her mind off of waiting for the test results, but something will always bring her back to that as the issue of her day. It isn't until just before she is ready to call the doctor that she may get a different perspective of the day and thus her life in a chance meeting with a stranger named Antoine, a French soldier at the very end of a three week leave from the Algerian War."
+    },
+    {
+      "title": "Mrs. Harris Goes to Paris",
+      "years": "1957..1957",
+      "countries": [
+        "GB",
+        "FR"
+      ],
+      "plot": "In partnership with the House of Dior, Mrs. Harris Goes To Paris tells the story of a widowed cleaning lady in 1950s London who falls madly in love with a couture Dior dress, and decides that she must have one of her own. After she works, starves and gambles to raise the funds to pursue her dream, she embarks on an adventure to Paris which will change not only her own outlook, but the very future of the House of Dior."
+    },
+    {
+      "title": "Ethel & Ernest",
+      "years": "1928..1970",
+      "countries": [
+        "GB"
+      ],
+      "plot": "In 1928 London milk-man Ernest Briggs courts and marries house-maid Ethel, their son Raymond being born in 1934. When World War II breaks out Ethel tearfully allows him to be evacuated to aunts in Dorset whilst Ernest joins the fire service, shocked by the carnage he sees. As hostilities end they celebrate Raymond's return and entry to grammar school and the birth of the welfare state though Ethel is mistrustful of socialism and progress in general. Raymond himself progresses from National Service to art college and a teaching post, worrying his mother by marrying schizophrenic Jean. However father and son console each other as Ethel slips away but before long Raymond is mourning his father too though both Ethel and Ernest will forever be immortalized by Raymond's touching account of their lives."
+    },
+    {
+      "title": "Lamborghini: The Man Behind the Legend",
+      "years": "1945..1964",
+      "countries": [
+        "IT"
+      ],
+      "plot": "This thrilling, high-speed biopic reveals one man's dream of making the world's fastest car-and beating rival Enzo Ferrari."
+    },
+    {
+      "title": "Asylum",
+      "years": "1950..1950",
+      "countries": [
+        "GB"
+      ],
+      "plot": "In the 1950s, the psychiatrist Max Raphael is hired to work as superintendent of an asylum in the outskirts of London, and he moves with his wife Stella Raphael and their son Charlie. Stella has a passionless marriage and is ignored by Max. Her boredom changes when her son befriends the handsome inmate Edgar Stark, an sculptor that in a crisis of jealousy had killed and disfigured his wife, and that is treated by Dr. Peter Cleave, an ambitious psychiatrist that aspired Max's position. During the afternoons, Stella has a hot adulterous affair with Edgar until the day he escapes and their affair is discovered. Stella has to take a decision between her family and her wild passion for Edgar."
+    },
+    {
+      "title": "The Aftermath",
+      "years": "1946..1946",
+      "countries": [
+        "DE"
+      ],
+      "plot": "Set in postwar Germany in 1946, Rachael Morgan (Keira Knightley) arrives in the ruins of Hamburg in the bitter winter, to be reunited with her husband Lewis (Jason Clarke), a British colonel charged with rebuilding the shattered city. But as they set off for their new home, Rachael is stunned to discover that Lewis has made an unexpected decision: They will be sharing the grand house with its previous owners, a German widower (Alexander Skarsgård) and his troubled daughter. In this charged atmosphere, enmity and grief give way to passion and betrayal."
+    },
+    {
+      "title": "Exodus",
+      "years": "1947..1948",
+      "countries": [
+        "CY",
+        "IL"
+      ],
+      "plot": "The theme is the founding of the state of Israel. The action begins on a ship filled with Jewish immigrants bound for Israel who are being off loaded on Cyprus. An Intelligence officer succeeds in getting them back on board their ship only to have the harbor blocked by the British with whom they must negotiate. The second part of the film is about the situation in Israel as independence is declared and most of their neighbors attack them."
+    },
+    {
+      "title": "Hawking",
+      "years": "1963..1965",
+      "countries": [
+        "GB",
+        "US",
+        "SE"
+      ],
+      "plot": "A drama documenting the life and work of the theoretical physicist Professor Stephen Hawking who, despite being diagnosed with motor neurone disease at the age of 21, has galvanized the scientific world with his ground-breaking work on the nature of the universe. Starring Benedict Cumberbatch (Sherlock)"
+    },
+    {
+      "title": "L'Avventura",
+      "years": "1960..1960",
+      "countries": [
+        "IT"
+      ],
+      "plot": "A group of rich Italians head out on a yachting trip to a deserted volcanic island in the Mediterranean. When they are about to leave the island, they find that Anna has gone missing. Anna's boyfriend Sandro and friend Claudia try unsuccessfully to find her. While they are searching, Claudia and Sandro develop an attraction for each other. When they get back to land, they continue the search with no success. Sandro and Claudia proceed to become lovers and all but forget about the missing Anna."
+    },
+    {
+      "title": "The Pink Panther",
+      "years": "1960..1960",
+      "countries": [
+        "FR",
+        "CH",
+        "IT"
+      ],
+      "plot": "The trademark of The Phantom, a renowned jewel thief, is a glove left at the scene of the crime. Inspector Clouseau, an expert on The Phantom's exploits, feels sure that he knows where The Phantom will strike next and leaves Paris for Switzerland, where the famous Lugashi jewel 'The Pink Panther' is going to be. However, he does not know who The Phantom really is, or for that matter who anyone else really is..."
+    },
+    {
+      "title": "The Day of the Jackal",
+      "years": "1963..1963",
+      "countries": [
+        "FR",
+        "IT",
+        "AT",
+        "GB"
+      ],
+      "plot": "It is the early 60s in France. The remaining survivors of the aborted French Foreign Legion have made repeated attempts to kill DeGaulle. The result is that he is the most closely guarded man in the world. As a desperate act, they hire The Jackal, the code name for a hired killer who agrees to kill French President De Gaulle for half a million dollars. We watch his preparations which are so thorough we wonder how he could possibly fail even as we watch the French police attempt to pick up his trail. The situation is historically accurate. There were many such attempts and the film closely follows the plot of the book."
+    },
+    {
+      "title": "The Umbrellas of Cherbourg",
+      "years": "1957..1963",
+      "countries": [
+        "FR",
+        "DZ"
+      ],
+      "plot": "16-year-old Genevieve and 20-year-old Guy are very much in love. Her kind mother, who runs an umbrella shop, won't hear of her marrying, particularly as Guy has yet to complete his compulsory military service. Genevieve is heartbroken when he leaves for his army service in colonial Algeria and is upset to have received only one letter from him in two months. Her mother's solution to this situation is kind diamond-merchant Roland Cassard, who has helped them in the past."
+    },
+    {
+      "title": "Stan & Ollie",
+      "years": "1953..1954",
+      "countries": [
+        "GB",
+        "IE",
+        "US"
+      ],
+      "plot": "The true story of Hollywood's greatest comedy double act, Laurel and Hardy, is brought to the big screen for the first time. Starring Steve Coogan and John C. Reilly as the inimitable movie icons, Stan and Ollie is the heart-warming story of what would become the pair's triumphant farewell tour. With their golden era long behind them, the pair embark on a variety hall tour of Britain and Ireland. Despite the pressures of a hectic schedule, and with the support of their wives Lucille (Shirley Henderson) and Ida (Nina Arianda) - a formidable double act in their own right - the pair's love of performing, as well as for each other, endures as they secure their place in the hearts of their adoring public."
+    },
+    {
+      "title": "The Grand Duke of Corsica",
+      "years": "1961..1965",
+      "countries": [
+        "MT"
+      ],
+      "plot": "As a deadly epidemic slowly begins to sweep Malta, a brilliant architect embarks upon an unusual commission for an eccentric billionaire who calls himself 'The Grand Duke of Corsica'. A state of emergency creates chaos but Alfred Rott, ever the professional, remains to finish the job."
+    },
+    {
+      "title": "The Mirror Crack'd",
+      "years": "1953..1953",
+      "countries": [
+        "GB"
+      ],
+      "plot": "Miss Jane Marple comes to solve the mystery when a local woman is poisoned, but a visiting movie star seems to have been the intended victim."
+    },
+    {
+      "title": "Tell It to the Bees",
+      "years": "1950..1950",
+      "countries": [
+        "GB"
+      ],
+      "plot": "A single mother Lydia (Holliday Grainger) who is abandoned by her husband, meets the small village's Doctor Jean Markham (Anna Paquin) who has recently returned to her hometown when Lydia's son Charlie is taken to the doctor after being bullied in school. When Lydia and Charlie are evicted because of Lydia's earnings from her work are not adequate to pay the rent, Jean invites them to stay in her home and she and Lydia soon develop a friendship and something more."
+    },
+    {
+      "title": "My Life as a Dog",
+      "years": "1958..1959",
+      "countries": [
+        "SE"
+      ],
+      "plot": "Small town Sweden, in the 1950s. This slice-of-life story is also a coming-of-age tale narrated by a young boy with an almost unconscious sense of irony. His single mother is terminally ill, his older brother isn't the warmest person in his life, and twice he is sent to relatives in a supportive, loving village with interesting characters and adventures."
+    },
+    {
+      "title": "Peeping Tom",
+      "years": "1960..1960",
+      "countries": [
+        "GB"
+      ],
+      "plot": "Mark Lewis, works as a focus puller in a British film studio. On his off hours, he supplies a local porno shop with cheesecake photos and also dabbles in filmmaking. A lonely, unfriendly, sexually repressed fellow, Mark is obsessed with the effects of fear and how they are registered on the face and behavior of the frightened. This obsession dates from the time when, as a child, he served as the subject of some cold-blooded experiments in terror conducted by his own scientist father. As a grown man, Mark becomes a compulsive murderer who kills women and records their contorted features and dying gasps on film. His ongoing project is a documentary on fear. With 16mm camera in hand, he accompanies a prostitute to her room and stabs her with a blade concealed in his tripod, all the while photographing her contorted face in the throes of terror and death. Alone in his room, he surrounds himself with the sights and sounds of terror: taped screams, black-and-white \"home movies\" of convulsed faces. At his house, he meets Helen Stephens, a young woman who lives with her blind mother in a downstairs flat. She visits his flat, where he shows her black-and-white films that were taken of him when he was a child. She is horrified to see that his father used him as a guinea pig in various experiments, taking movies of his reactions of fear."
+    },
+    {
+      "title": "Legend",
+      "years": "1960..1969",
+      "countries": [
+        "GB"
+      ],
+      "plot": "The true story of London's most notorious gangsters, twins Reggie and Ronnie Kray. As the brothers rise through the criminal underworld, Ronnie advances the family business with violence and intimidation while Reggie struggles to go legitimate for local girl Frances Shea. In and out of prison, Ronnie's unpredictable tendencies and the slow disintegration of Reggie's marriage threaten to bring the brothers' empire tumbling to the ground."
+    },
+    {
+      "title": "Le cercle rouge",
+      "years": "1960..1960",
+      "countries": [
+        "FR"
+      ],
+      "plot": "On the eve of his release after five years imprisoned, the thief Corey is contacted by one guard of the prison that offers him a jewelry heist. However Corey seeks out his former boss Rico and steals money from him. Rico sends two gangsters to hunt Corey down and retrieve the stolen amount. Meanwhile the criminal Vogel is transported by train by the Police Officer Mattei and succeeds to escape. Corey drives from Marseille to Paris and Vogel hides in the trunk of his car. Corey finds him but does not object to ride Vogel to Paris hidden in the trunk. When the gangsters sent by Rico cut in Corey's car, Vogel saves him from the criminals, but Corey loses the money. Without money, Corey decides to heist the jewelry with Vogel and invites the former police detective Jansen to team-up with them. The trio executes a perfect heist but Rico is seeking revenge and Mattei is an unethical but efficient police officer capable to use any means to resolve the case."
+    },
+    {
+      "title": "Quadrophenia",
+      "years": "1964..1965",
+      "countries": [
+        "GB",
+        "UNKNOWN"
+      ],
+      "plot": "London, 1965: Like many other youths, Jimmy hates the philistine life, especially his parents and his job in a company's mailing division. Only when he's together with his friends, a 'Mod' clique, cruising London on his motor-scooter and hearing music such as that of 'The Who' and 'The High Numbers', does he feel free and accepted. However, it's a flight into an illusionary world."
+    },
+    {
+      "title": "The Magdalene Sisters",
+      "years": "1964..1964",
+      "countries": [
+        "IE"
+      ],
+      "plot": "A thoroughly mind-provoking film about 3 young women who, under tragic circumstances, see themselves cast away to a Magdalene Asylum for young women in 1964. One of many like institutions, the asylums are run like prisons and young girls are forced to do workhouse laundry and hard labor. The asylum, one of many that existed in theocratic Catholic Ireland, is for supposedly 'fallen' women. Here, young girls are imprisoned indefinitely and endure agonizing punishments and a long, harsh working system which leaves them physically drained and mentally damaged. As the girls bond together, it soon becomes clear that the only way out of the Magdalene convent is to escape, but with twisted Sister Bridget running the wing, any chances seem limited..."
+    },
+    {
+      "title": "Ford v Ferrari",
+      "years": "1963..1966",
+      "countries": [
+        "FR",
+        "US",
+        "GB"
+      ],
+      "plot": "As Enzo Ferrari's fast Rosso-Corsa racing cars dominate the mid-1960s motorsport world, the American car designer, Carroll Shelby, is forced to retire after winning the demanding 1959 '24 Hours of Le Mans' endurance race. But, before long, an unexpected proposition by the Vice President of Henry Ford's motor company, Lee Iacocca, will offer an opportunity to beat the Italians at their own game. Now, under those pressing circumstances, the British sports car driver and racing engineer, Ken Miles, reluctantly agrees to lend a hand and improve the firm's image, as Ford's race team has less than ninety days to rewrite history. As a result, the non-conformist duo comes up with the mighty Ford GT40 Mk I high-performance racing car. Can Shelby and Miles break Ferrari's streak?"
+    },
+    {
+      "title": "Brooklyn",
+      "years": "1951..1952",
+      "countries": [
+        "IE",
+        "US"
+      ],
+      "plot": "Ireland, early 1950s. Eilis Lacey (Saoirse Ronan) is a young woman working in a grocery shop. She has greater ambitions and moves to Brooklyn, New York, leaving her mother and sister, Rose (Fiona Glascott), behind. She is terribly homesick but eventually settles down, finding a job, studying to be a bookkeeper and meeting a nice young Italian man, Tony Fiorello (Emory Cohen). Things are going well, but then she learns that Rose has died, and decides to return to Ireland, temporarily. She and Tony hastily get married, and then she sets off back to Ireland, alone. Life is about to get complicated."
+    },
+    {
+      "title": "Voice from the Stone",
+      "years": "1946..1947",
+      "countries": [
+        "IT"
+      ],
+      "plot": "Verena is a young nurse hired to help a mute young heir within an isolated castle in Tuscany. The more she observes the boy, the more Verena becomes convinced he has fallen under the spell of a powerful and otherworldly persona trapped in the castle's stone walls, one that seems to be quickly approaching on her."
+    },
+    {
+      "title": "Lupin III: The First",
+      "years": "1960..1969",
+      "countries": [
+        "FR",
+        "BR",
+        "MX",
+        "US",
+        "DE"
+      ],
+      "plot": "Lupin III goes on a grand adventure to uncover the secrets of the Bresson Diary, which is tied to the legacy of his famous grandfather."
+    },
+    {
+      "title": "The Man from U.N.C.L.E.",
+      "years": "1963..1963",
+      "countries": [
+        "DE",
+        "IT"
+      ],
+      "plot": "In the 1960s with the Cold War in play, CIA agent Napoleon Solo successfully helps Gaby Teller defect to West Germany despite the intimidating opposition of KGB agent Illya Kuryakin. Later, all three unexpectedly find themselves working together in a joint mission to stop a private criminal organization from using Gaby's father's scientific expertise to construct their own nuclear bomb. Through clenched teeth and stylish poise, all three must find a way to cooperate for the sake of world peace, even as they each pursue their own agendas."
+    },
+    {
+      "title": "The 400 Blows",
+      "years": "1950..1950",
+      "countries": [
+        "FR"
+      ],
+      "plot": "Seemingly in constant trouble at school, 14-year-old Antoine Doinel returns at the end of every day to a drab, unhappy home life. His parents have little money and he sleeps on a couch that's been pushed into the kitchen. His parents bicker constantly and he knows his mother is having an affair. He decides to skip school and begins a downward spiral of lies and theft. His parents are at their wits' end, and after he's stopped by the police, they decide the best thing would be to let Antoine face the consequences. He's sent to a juvenile detention facility where he doesn't do much better. He does manage to escape however."
+    },
+    {
+      "title": "The Corruption",
+      "years": "1956..1956",
+      "countries": [
+        "IT"
+      ],
+      "plot": "Vicenza, 1956. Beautiful Anna, a lawyer's wife, feels abandoned by her husband, Giacomo. They live with his sick mother and she doesn't like this. She badly wants to have a child, but she is infertile. She is very shy and introverted. Their maid, Angela is the opposite, and Anna grows closer to her. She convinces Anna to try increasingly daring erotic games and gradually the two women begin a relationship which allows the wife to lose her inhibitions, and to humiliate herself."
+    },
+    {
+      "title": "Vivre sa vie",
+      "years": "1962..1962",
+      "countries": [
+        "FR"
+      ],
+      "plot": "This film explores a Parisian woman's descent into prostitution. The movie is comprised of a series of 12 \"tableaux\"-- scenes which are basically unconnected episodes, each presented with a worded introduction."
+    },
+    {
+      "title": "Little Nicholas",
+      "years": "1960..1960",
+      "countries": [
+        "FR"
+      ],
+      "plot": "Nicolas has a happy existence, parents who love him, a great group of friends with whom he has great fun, and all he wants is that nothing changes. However, one day, he overhears a conversation that leads him to believe that his life might change forever, his mother is pregnant! He panics and envisions the worst."
+    },
+    {
+      "title": "Stromboli",
+      "years": "1948..1948",
+      "countries": [
+        "IT",
+        "US"
+      ],
+      "plot": "Living in an Italian refugee camp in 1948, the beautiful Karin meets Antonio, a resident of the men's camp. Though not in love with him, Karin marries him and they soon head for his home village, Stromboli. The village is on a remote island at the foot of an active volcano. When they arrive Karin despairs of the barren land and the absence of people, as many have left, mostly for the United States. She doesn't speak the local dialect and is treated with disdain by locals who see her as an exotic foreigner and a loose woman. After Antonio beats her and locks her in their house, she sets off across the mountains to seek her freedom and a better future."
+    },
+    {
+      "title": "Wild Strawberries",
+      "years": "1957..1957",
+      "countries": [
+        "SE"
+      ],
+      "plot": "With the exception of his elderly housekeeper Miss Agda who he treats almost like a surrogate platonic wife, widowed seventy-eight year old Dr. Isak Borg, a former medical doctor and professor, has retreated from any human contact, partly his own want but partly the decision of others who do not want to spend time with him because of his cold demeanor. He is traveling from his home in Stockholm to Lund to accept an honorary degree. Instead of flying as was the original plan, he decides to take the day long drive instead. Along for the ride is his daughter-in-law Marianne, who had been staying with him for the month but has now decided to go home. The many stops and encounters along the way make him reminisce about various parts of his life. Those stops which make him reminisce directly are at his childhood summer home, at the home of his equally emotionally cold mother, and at a gas station where the attendants praise him as a man for his work. But the lives of other people they encounter almost mirror his own, including hitchhikers Sara, Viktor and Anders - who remind him of his cousin Sara who he was going to marry, himself and his irresponsible brother Sigfrid who Sara eventually married - a bickering married couple Sten and Berit Alman, and Marianne and her husband and Isak's son Evald, whose marriage is as strained as was his own."
+    },
+    {
+      "title": "Paprika",
+      "years": "1958..1958",
+      "countries": [
+        "IT"
+      ],
+      "plot": "In 1950s Italy, just before the ban of brothels, Mimma, an inexperienced country girl, reluctantly accepts to work as a prostitute. And, just like that, the once-innocent woman becomes Paprika, in high hopes of raising enough money to finance her good-for-nothing boyfriend. Before long, Paprika will learn to enjoy her disreputable but very profitable occupation, working her way up, one client at a time, as she journeys from one brothel to another in the bustling city of Rome. However, despite Paprika's stormy but prosperous voyage of self-discovery, experience, and sexual liberation, there is still one thing missing in her seemingly full life: unearthing the great mystery of true love. Is Paprika meant to experience a passionate romance?"
+    },
+    {
+      "title": "Witness for the Prosecution",
+      "years": "1950..1950",
+      "countries": [
+        "GB",
+        "DE"
+      ],
+      "plot": "Ailing barrister Sir Wilfrid Robarts is thrust back into the courtroom in what becomes one of the most unusual and eventful murder case of the lawyer's career when he finds himself defending Leonard Vole, a man being tried for the murder of a wealthy woman. With Robarts choosing to represent him, the two find themselves up against Leonard's cold-hearted wife, Christine - who, in a surprising turn of events, chooses to appear in court against her husband."
+    },
+    {
+      "title": "Mirror",
+      "years": "1941..1970",
+      "countries": [
+        "RU"
+      ],
+      "plot": "Tarkovsky mixes flash-backs, historical footage and original poetry to illustrate the reminiscences of a dying man about his childhood during World War II, adolescence, and a painful divorce in his family. The story interweaves reflections about Russian history and society"
+    },
+    {
+      "title": "Judgment at Nuremberg",
+      "years": "1948..1948",
+      "countries": [
+        "DE",
+        "UNKNOWN"
+      ],
+      "plot": "It has been three years since the most important Nazi leaders had already been tried. This trial is about 4 judges who used their offices to conduct Nazi sterilization and cleansing policies. Retired American judge, Dan Haywood has a daunting task ahead of him. The Cold War is heating up and no one wants any more trials as Germany, and Allied governments, want to forget the past. But is that the right thing to do is the question that the tribunal must decide."
+    },
+    {
+      "title": "Murmur of the Heart",
+      "years": "1954..1954",
+      "countries": [
+        "FR"
+      ],
+      "plot": "This is a jolly coming-of-age story about a 14-year-old boy named Laurent Chevalier who is growing up in bourgeois surroundings in Dijon, France. This is France in the mid-1950s rather than America in the 1990s. Thus, Laurent is unharmed by events which would irreparably shatter the self-esteem of a modern American adolescent: he gets drunk, he smokes, he has sex, he is smothered by his mother, he is ignored by his father, a priest makes a pass at him, he gets rheumatoid fever, etc. There's enough scandalous behavior in this film to make 100 made-for-TV movies, and yet this is a very happy and oddly innocent tale."
+    },
+    {
+      "title": "Germany Year Zero",
+      "years": "1946..1946",
+      "countries": [
+        "DE"
+      ],
+      "plot": "Edmund, a young boy who lives in war-devastated Germany after the Second World War, must do all kinds of work to help his family get food and survive. One day he meets one of his former teachers and hopes to get support from him, but this man's ideas don't lead Edmund into a clearer or safer way of living."
+    },
+    {
+      "title": "Child 44",
+      "years": "1951..1953",
+      "countries": [
+        "RU"
+      ],
+      "plot": "Based on the first of a trilogy by Tom Rob Smith and set in the Stalin era of the Soviet Union. The plot is about an idealistic pro-Stalin security officer who decides to investigate a series of child murders in a country where supposedly this sort of crime doesn't exist. The state would not hear of the existence of a child murderer let alone a serial killer. He gets demoted and exiled but decides, with just the help of his wife, to continue pursuing the case."
+    }
+  ],
+  "categories": [
+    {
+      "label": "europe split by the cold war",
+      "description": "The continent is divided into hostile blocs, with borders, loyalties, and public speech shaped by the struggle between Soviet power and the western allies. What you'll see: defections, watchful officials, coded meetings, Berlin and other frontiers, and ordinary lives lived under geopolitical strain.",
+      "icon": "🧱"
+    },
+    {
+      "label": "war ruins giving way to rebuilding",
+      "description": "The Second World War is still close enough that bomb damage, bereavement, refugee movement, and occupation remain part of daily experience even as towns and households try to recover. What you'll see: shattered streets, ration-minded households, temporary lodgings, displaced families, and new building rising beside scars of war.",
+      "icon": "🏗️"
+    },
+    {
+      "label": "old class manners still ruling society",
+      "description": "Rank, schooling, accent, and money still decide who is obeyed, who serves, and who may enter polished rooms without embarrassment. What you'll see: country houses and smart flats, servants and charwomen, clubbish men, careful etiquette, and sharp contrasts between luxury and cramped domestic life.",
+      "icon": "🎩"
+    },
+    {
+      "label": "Catholic morality shaping public respectability",
+      "description": "In much of Europe, especially Ireland and southern countries, sexual conduct, family honor, and women's reputations are judged through strong church influence and communal scrutiny. What you'll see: convents and priests, shame around pregnancy and desire, harsh treatment of so-called fallen women, and households ruled by moral appearances.",
+      "icon": "⛪"
+    },
+    {
+      "label": "conscription and colonial wars shadowing youth",
+      "description": "Young men are still called into uniform, and Europe's imperial withdrawals send distant wars back into homes, romances, and street conversation. What you'll see: leave-taking at stations, uniforms on city streets, letters from service, references to Algeria, and lovers measuring life by military absence.",
+      "icon": "🪖"
+    },
+    {
+      "label": "cinema and popular music remaking glamour",
+      "description": "Film stars, recording artists, and mass entertainment create new models of beauty, fame, and desire that travel across borders faster than older local customs. What you'll see: studios, stage rehearsals, pop songs, fan excitement, glossy publicity, and people copying the styles of celebrities.",
+      "icon": "🎬"
+    },
+    {
+      "label": "motor cars and scooters promising freedom",
+      "description": "New mobility gives this era its pace, from family road journeys to fashionable scooters and high-performance cars that turn speed into status. What you'll see: city traffic, petrol stops, race tracks, repair shops, seaside drives, and youths treating vehicles as badges of identity.",
+      "icon": "🛵"
+    },
+    {
+      "label": "cities watched by police and informers",
+      "description": "State authority is felt through detectives, security services, magistrates, and files, while the memory of wartime justice and the fear of hidden enemies keep surveillance respectable. What you'll see: interrogations, courtrooms, passports, prison vans, telephone tracing, dossiers, and officials who know too much about private lives.",
+      "icon": "🕵️"
+    },
+    {
+      "label": "women entering work yet tightly constrained",
+      "description": "Women earn wages and move through cities as workers, artists, shopgirls, doctors, and wives, but law, custom, and dependence on men still narrow their choices. What you'll see: typing rooms, boutiques, hospital wards, domestic bargaining, unequal marriages, and constant judgment of female independence.",
+      "icon": "👠"
+    },
+    {
+      "label": "bourgeois comfort hiding loneliness and strain",
+      "description": "Prosperity is returning to many households, but behind neat rooms and consumer pleasures lie boredom, strained marriages, anxious children, and a sense of spiritual emptiness. What you'll see: well-furnished apartments, cafés, summer resorts, schoolrooms, polished dining tables, and private despair inside orderly surroundings.",
+      "icon": "🛋️"
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+[
+  {
+    "movie_id": 500664,
+    "movie_idx": 698,
+    "imdb_id": "tt6499752",
+    "title": "Upgrade",
+    "production_year": "2018",
+    "genre": "Action, Sci-Fi, Thriller",
+    "plot": "Grey's a stay-at-home mechanic, whose wife is Asha. One day, Grey asks Asha to help him return a car to his client. Whilst Grey and Asha's self-driving car malfunctions, it crashes. Grey watches helplessly as Asha bleeds to death next to him. Grey returns home - a widowed quadriplegic, under the care of his mother. His wife's death and the inability of police to identify their attackers cause him to sink into a depression. After a suicide attempt, he's offered to have high tech chip implanted - enabling him to walk. Though initially hesitant, he's persuaded to have the surgery.",
+    "runtime": "100 min",
+    "director": "Leigh Whannell",
+    "actors": "Logan Marshall-Green, Melanie Vallejo, Steve Danielsen",
+    "production_country": "United States, Australia",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjI0NzcyMjM5Ml5BMl5BanBnXkFtZTgwMzk2NzAyNTM@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/500664.webp",
+    "imdb_rating": "7.5",
+    "imdb_votes": "231,508",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Upgrade_(film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/500664.txt",
+    "plot_year_start": 2046,
+    "plot_year_end": 2046,
+    "epoch": "future-world",
+    "action_countries": [
+      "AU"
+    ],
+    "action_continents": [
+      "Oceania"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "human bodies altered by implanted craft",
+        "description": "The boundary between flesh and device has grown thin, with implanted mechanisms used to restore movement, sharpen ability, or extend control. What you'll see: surgical interfaces, hidden chips, body-scanning equipment, and people treating enhancement as a practical answer to injury or weakness.",
+        "icon": "🦾"
+      },
+      {
+        "label": "remote powers steering everyday lives",
+        "description": "Large systems of authority shape ordinary existence from a distance, whether through technical oversight, secretive planning, or commands carried across time. What you'll see: monitored spaces, controlled access, cryptic transmissions, and individuals hemmed in by decisions made elsewhere.",
+        "icon": "🛰️"
+      }
+    ]
+  },
+  {
+    "movie_id": 83542,
+    "movie_idx": 3030,
+    "imdb_id": "tt1371111",
+    "title": "Cloud Atlas",
+    "production_year": "2012",
+    "genre": "Drama, Mystery, Sci-Fi",
+    "plot": "Everything is connected: an 1849 diary of an ocean voyage across the Pacific, letters from a composer to his lover, a thriller about a conspiracy at a nuclear power plant, a farce about a publisher in a nursing home;, a rebellious clone in futuristic Korea, and the tale of a tribe living on post-apocalyptic Hawaii far in the future.",
+    "runtime": "172 min",
+    "director": "Tom Tykwer, Lana Wachowski, Lilly Wachowski",
+    "actors": "Tom Hanks, Halle Berry, Hugh Grant",
+    "production_country": "United States, Germany, Hong Kong, Singapore, China, United Kingdom, Spain",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTczMTgxMjc4NF5BMl5BanBnXkFtZTcwNjM5MTA2OA@@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/83542.webp",
+    "imdb_rating": "7.3",
+    "imdb_votes": "385,516",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Cloud_Atlas_(film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/83542.txt",
+    "plot_year_start": 1849,
+    "plot_year_end": 2321,
+    "epoch": "future-world",
+    "action_countries": [
+      "NZ",
+      "GB",
+      "US",
+      "KR",
+      "US"
+    ],
+    "action_continents": [
+      "Oceania",
+      "Europe",
+      "North America",
+      "Asia",
+      "North America"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "memory and record outlasting one lifetime",
+        "description": "In these futures, messages, archives, and traces of past lives carry unusual weight because they guide action long after their makers are gone. What you'll see: recorded voices, preserved documents, recovered data, and relics treated as keys to understanding the present world.",
+        "icon": "💾"
+      }
+    ]
+  },
+  {
+    "movie_id": 528085,
+    "movie_idx": 5747,
+    "imdb_id": "tt1918734",
+    "title": "2067",
+    "production_year": "2020",
+    "genre": "Mystery, Sci-Fi",
+    "plot": "A lowly utility worker is called to the future by a mysterious radio signal, he must leave his dying wife to embark on a journey that will force him to face his deepest fears in an attempt to change the fabric of reality and save humankind from its greatest environmental crisis yet.",
+    "runtime": "114 min",
+    "director": "Seth Larney",
+    "actors": "Aaron Glenane, Kodi Smit-McPhee, Ryan Kwanten",
+    "production_country": "Australia",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNTU1MGRjNzMtMWIyNi00ZTYxLWIxZjctNGFmODM2M2QyNjcwXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/528085.webp",
+    "imdb_rating": "4.9",
+    "imdb_votes": "12,806",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/2067_(film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/528085.txt",
+    "plot_year_start": 2067,
+    "plot_year_end": 2474,
+    "epoch": "future-world",
+    "action_countries": [
+      "AU"
+    ],
+    "action_continents": [
+      "Oceania"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "climate damage remaking the land",
+        "description": "The natural world has been pushed into crisis, making breathable air, fertile ground, and stable seasons uncertain parts of life. What you'll see: red dust, failing crops, sealed interiors, improvised masks, and landscapes marked by ruin and scarcity.",
+        "icon": "🏜️"
+      },
+      {
+        "label": "survival depending on fragile resources",
+        "description": "Basic continuance rests on supplies that can fail, be rationed, or be monopolised when the wider world is under strain. What you'll see: concern over air, energy, food, and water, along with storage rooms, failing infrastructure, and anxious talk about what remains.",
+        "icon": "🚰"
+      }
+    ]
+  }
+]

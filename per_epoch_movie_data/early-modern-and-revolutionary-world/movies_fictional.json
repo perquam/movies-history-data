@@ -1,0 +1,299 @@
+[
+  {
+    "movie_id": 664767,
+    "movie_idx": 193,
+    "imdb_id": "tt9580138",
+    "title": "Mortal Kombat Legends: Scorpion's Revenge",
+    "production_year": "2020",
+    "genre": "Animation, Action, Adventure",
+    "plot": "Hanzo Hasashi loses his clan, family, and his life during an attack by a rival ninja clan the Lin Kuei. He is given the chance by to compete in an inter-dimensional tournament to save his loved ones while other fighters try to save the Earth realm from annihilation.",
+    "runtime": "80 min",
+    "director": "Ethan Spaulding",
+    "actors": "Jennifer Carpenter, Joel McHale, Ike Amadi",
+    "production_country": "United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZDk3NTA2MTQtNDAyYS00YTI2LWEwZWItNGJjNjk4MjRlMjhhXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/664767.webp",
+    "imdb_rating": "7.4",
+    "imdb_votes": "20,885",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Mortal_Kombat_Legends:_Scorpion%27s_Revenge",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/664767.txt",
+    "plot_year_start": 1600,
+    "plot_year_end": 2020,
+    "epoch": "early-modern-and-revolutionary-world",
+    "action_countries": [
+      "FICTIONAL"
+    ],
+    "action_continents": [
+      "FICTIONAL"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Mortal Kombat",
+    "failures": {
+      "categories": "missing_category_list"
+    }
+  },
+  {
+    "movie_id": 49730,
+    "movie_idx": 3061,
+    "imdb_id": "tt1486185",
+    "title": "Red Riding Hood",
+    "production_year": "2011",
+    "genre": "Fantasy, Horror, Mystery",
+    "plot": "Valerie (Seyfried) is a beautiful young woman torn between two men. She is in love with a brooding outsider, Peter (Fernandez), but her parents have arranged for her to marry the wealthy Henry (Irons). Unwilling to lose each other, Valerie and Peter are planning to run away together when they learn that Valerie's older sister has been killed by the werewolf that prowls the dark forest surrounding their village. For years, the people have maintained an uneasy truce with the beast, offering the creature a monthly animal sacrifice. But under a blood red moon, the wolf has upped the stakes by taking a human life. Hungry for revenge, the people call on famed werewolf hunter, Father Solomon (Oldman), to help them kill the wolf. But Solomon's arrival brings unintended consequences as he warns that the wolf, who takes human form by day, could be any one of them. As the death toll rises with each moon, Valerie begins to suspect that the werewolf could be someone she loves. As panic grips the town, Valerie discovers that she has a unique connection to the beast--one that inexorably draws them together, making her both suspect...and bait.",
+    "runtime": "100 min",
+    "director": "Catherine Hardwicke",
+    "actors": "Amanda Seyfried, Lukas Haas, Gary Oldman",
+    "production_country": "United States, Canada",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTc4NjYyMzQ5MV5BMl5BanBnXkFtZTcwNjE5Mjc3NA@@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/49730.webp",
+    "imdb_rating": "5.4",
+    "imdb_votes": "118,473",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Red_Riding_Hood_(2011_film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/49730.txt",
+    "plot_year_start": 1600,
+    "plot_year_end": 1600,
+    "epoch": "early-modern-and-revolutionary-world",
+    "action_countries": [
+      "FICTIONAL"
+    ],
+    "action_continents": [
+      "FICTIONAL"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "failures": {
+      "categories": "missing_category_list"
+    }
+  },
+  {
+    "movie_id": 313297,
+    "movie_idx": 3066,
+    "imdb_id": "tt4302938",
+    "title": "Kubo and the Two Strings",
+    "production_year": "2016",
+    "genre": "Animation, Action, Adventure",
+    "plot": "Kubo lives a quiet, normal life in a small shoreside village until a spirit from the past turns his life upside down by re-igniting an age-old vendetta. This causes all sorts of havoc as gods and monsters chase Kubo who, in order to survive, must locate a magical suit of armor once worn by his late father, a legendary Samurai warrior.",
+    "runtime": "101 min",
+    "director": "Travis Knight",
+    "actors": "Charlize Theron, Art Parkinson, Matthew McConaughey",
+    "production_country": "United States, United Kingdom",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjA2Mzg2NDMzNl5BMl5BanBnXkFtZTgwMjcwODUzOTE@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/313297.webp",
+    "imdb_rating": "7.7",
+    "imdb_votes": "145,993",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Kubo_and_the_Two_Strings",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/313297.txt",
+    "plot_year_start": 1600,
+    "plot_year_end": 1600,
+    "epoch": "early-modern-and-revolutionary-world",
+    "action_countries": [
+      "FICTIONAL"
+    ],
+    "action_continents": [
+      "FICTIONAL"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "failures": {
+      "categories": "missing_category_list"
+    }
+  },
+  {
+    "movie_id": 13313,
+    "movie_idx": 3171,
+    "imdb_id": "tt0118692",
+    "title": "Beauty and the Beast: The Enchanted Christmas",
+    "production_year": "1997",
+    "genre": "Animation, Family, Fantasy, Music, Musical",
+    "plot": "Belle prepares the castle for Christmas against Beast's wishes, trying to bring him happiness for the season. Forte, a pipe organ, fears that Belle's plans may eventually bring about an end to the curse... the curse that brought him more importance in the Master's life. Forte uses Fife, a flute who desperately wants a solo, to destroy Belle's plans and get rid of her.",
+    "runtime": "72 min",
+    "director": "Andrew Knight",
+    "actors": "Paige O'Hara, Robby Benson, Jerry Orbach, David Ogden Stiers",
+    "production_country": "Canada, USA",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTQxNjI2NjU4MV5BMl5BanBnXkFtZTcwNjQ2NjUwNw@@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/13313.webp",
+    "imdb_rating": "6.0",
+    "imdb_votes": "9,553",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Beauty_and_the_Beast:_The_Enchanted_Christmas",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/13313.txt",
+    "plot_year_start": 1750,
+    "plot_year_end": 1750,
+    "epoch": "early-modern-and-revolutionary-world",
+    "action_countries": [
+      "FICTIONAL"
+    ],
+    "action_continents": [
+      "FICTIONAL"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Disney's Beauty and the Beast Universe",
+    "failures": {
+      "categories": "missing_category_list"
+    }
+  },
+  {
+    "movie_id": 1113448,
+    "movie_idx": 3300,
+    "imdb_id": "tt27727074",
+    "title": "Ehrengard: The Art of Seduction",
+    "production_year": "2023",
+    "genre": "Comedy, Drama, Romance",
+    "plot": "When a self-appointed expert on love tries to teach a timid prince the art of seduction, the plan backfires, leading to scandal - and unexpected romance.",
+    "runtime": "94 min",
+    "director": "Bille August",
+    "actors": "Alice Bier Zanden, Emil Aron Dorph, Kit Eichler",
+    "production_country": "Denmark",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMGUwZDM2OTctYzhlOS00MTYxLWIxMjAtYjVhN2NmOTMxZjYyXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/1113448.webp",
+    "imdb_rating": "5.8",
+    "imdb_votes": "3,285",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Ehrengard:_The_Art_of_Seduction",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/1113448.txt",
+    "plot_year_start": 1800,
+    "plot_year_end": 1800,
+    "epoch": "early-modern-and-revolutionary-world",
+    "action_countries": [
+      "FICTIONAL"
+    ],
+    "action_continents": [
+      "FICTIONAL"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "failures": {
+      "categories": "missing_category_list"
+    }
+  },
+  {
+    "movie_id": 197796,
+    "movie_idx": 3640,
+    "imdb_id": "tt2316801",
+    "title": "Beauty and the Beast",
+    "production_year": "2014",
+    "genre": "Drama, Family, Fantasy",
+    "plot": "Forced to face the cruel side of life, a devastated, bankrupt merchant chances upon the enchanted castle of a hideous creature, the mere sight of it chills the bone to the marrow. There, a fate worse than death awaits the poor father-of-six, who, after plucking a sweet-scented rose from the repulsive master's verdant garden, must do the impossible: permit his compassionate daughter, Belle, to take his place and pay for the sins of her parent. Now, an impenetrable mystery shrouds the haunted mansion, and, as repugnance gradually turns into affection, only true love could break the spell. However, could Belle ever love the fortress' ghastly lord, the Beast?",
+    "runtime": "112 min",
+    "director": "Christophe Gans",
+    "actors": "Vincent Cassel, Léa Seydoux, André Dussollier",
+    "production_country": "France, Germany, Spain",
+    "poster": "https://m.media-amazon.com/images/M/MV5BOTQ1NmU3MDktMzlhMS00MTAxLWEzM2UtZjViMTUzODU3MGQzXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/197796.webp",
+    "imdb_rating": "6.4",
+    "imdb_votes": "24,200",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Beauty_and_the_Beast_(2014_film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/197796.txt",
+    "plot_year_start": 1700,
+    "plot_year_end": 1700,
+    "epoch": "early-modern-and-revolutionary-world",
+    "action_countries": [
+      "FICTIONAL"
+    ],
+    "action_continents": [
+      "FICTIONAL"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "failures": {
+      "categories": "missing_category_list"
+    }
+  },
+  {
+    "movie_id": 20235,
+    "movie_idx": 5474,
+    "imdb_id": "tt0167038",
+    "title": "Belle's Magical World",
+    "production_year": "1998",
+    "genre": "Animation, Comedy, Family, Fantasy, Musical, Romance",
+    "plot": "Belle's Magical World comes to life in three charming fantasy adventures presented like chapters in a storybook. In The Perfect Word, a silly misunderstanding between Belle and the Beast leads to a lesson in forgiveness. Then, in Fifi's Folly, a romantic evening for Lumiere and Fifi snowballs into a thrilling plunge down the mountain in a runaway sleigh. In Broken Wing, Belle urges the Beast to free a tiny songbird as an act of kindness. Enriched with gentle lessons and two original songs that seamlessly fold one tale into the next.",
+    "runtime": "92 min",
+    "director": "Bob Kline, Cullen Blaine, Dale Case, Daniel de la Vega, Barbara Dourmaskin-Case, Rick Leon, Burt Medall, Mitch Rochon",
+    "actors": "Jeff Bennett, Robby Benson, Paige O'Hara, Jim Cummings",
+    "production_country": "USA",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjMzMzg4NTk3NF5BMl5BanBnXkFtZTgwODI0NTAwNzE@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/20235.webp",
+    "imdb_rating": "5.2",
+    "imdb_votes": "2,690",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Belle%27s_Magical_World",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/20235.txt",
+    "plot_year_start": 1795,
+    "plot_year_end": 1795,
+    "epoch": "early-modern-and-revolutionary-world",
+    "action_countries": [
+      "FICTIONAL"
+    ],
+    "action_continents": [
+      "FICTIONAL"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "failures": {
+      "categories": "missing_category_list"
+    }
+  },
+  {
+    "movie_id": 14506,
+    "movie_idx": 5799,
+    "imdb_id": "tt0096764",
+    "title": "The Adventures of Baron Munchausen",
+    "production_year": "1988",
+    "genre": "Adventure, Comedy, Fantasy",
+    "plot": "The fantastic tale of an 18th century aristocrat, his talented henchmen and a little girl in their efforts to save a town from defeat by the Turks. Being swallowed by a giant sea-monster, a trip to the moon, a dance with Venus and an escape from the Grim Reaper are only some of the improbable adventures.",
+    "runtime": "126 min",
+    "director": "Terry Gilliam",
+    "actors": "John Neville, Eric Idle, Sarah Polley",
+    "production_country": "United Kingdom, West Germany, United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BODY3NzNkMjQtNzliNi00MjdhLWI2NmEtMTY0NDM2ZWI3YTI2XkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/14506.webp",
+    "imdb_rating": "7.1",
+    "imdb_votes": "59,593",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Adventures_of_Baron_Munchausen",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/14506.txt",
+    "plot_year_start": 1780,
+    "plot_year_end": 1780,
+    "epoch": "early-modern-and-revolutionary-world",
+    "action_countries": [
+      "FICTIONAL"
+    ],
+    "action_continents": [
+      "FICTIONAL"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "failures": {
+      "categories": "missing_category_list"
+    }
+  },
+  {
+    "movie_id": 18444,
+    "movie_idx": 7388,
+    "imdb_id": "tt0054357",
+    "title": "Swiss Family Robinson",
+    "production_year": "1960",
+    "genre": "Adventure, Family",
+    "plot": "A family in route to New Guinea is shipwrecked on a deserted tropical island. They are forced to remain on the island because of the damage to the ship and the pirates that are roaming the islands. They create a home on the island (centering around a huge tree house) and explore the island and its wildlife. Plenty of adventure ensues as the family deals with issues of survival and pirates, and the brothers must learn how to live on the island with an uncertain future.",
+    "runtime": "126 min",
+    "director": "Ken Annakin",
+    "actors": "John Mills, Dorothy McGuire, James MacArthur",
+    "production_country": "United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BOTk3ZmNjZGMtNTExZi00NDI1LTk3YTAtMDFjM2U0OTcwYTk2XkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/18444.webp",
+    "imdb_rating": "7.1",
+    "imdb_votes": "19,751",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Swiss_Family_Robinson_(1960_film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/18444.txt",
+    "plot_year_start": 1803,
+    "plot_year_end": 1805,
+    "epoch": "early-modern-and-revolutionary-world",
+    "action_countries": [
+      "FICTIONAL"
+    ],
+    "action_continents": [
+      "FICTIONAL"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "failures": {
+      "categories": "missing_category_list"
+    }
+  }
+]

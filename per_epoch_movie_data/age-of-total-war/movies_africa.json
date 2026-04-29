@@ -1,0 +1,924 @@
+[
+  {
+    "movie_id": 505026,
+    "movie_idx": 1467,
+    "imdb_id": "tt7657566",
+    "title": "Death on the Nile",
+    "production_year": "2022",
+    "genre": "Crime, Drama, Mystery",
+    "plot": "Belgian sleuth Hercule Poirot's vacation aboard a glamorous river steamer turns into a terrifying search for a murderer when a picture-perfect couple's idyllic honeymoon is tragically cut short. Set against an epic landscape of sweeping Egyptian desert vistas and the majestic Giza pyramids, this tale of unbridled passion and incapacitating jealousy features a cosmopolitan group of impeccably dressed travelers, and enough wicked twists and turns to leave audiences guessing until the final, shocking denouement.",
+    "runtime": "127 min",
+    "director": "Kenneth Branagh",
+    "actors": "Tom Bateman, Annette Bening, Kenneth Branagh",
+    "production_country": "United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYjBkMTRkMmUtNGQ5Ni00YjkwLThhMmMtZjI1M2U2NzRhNjkwXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/505026.webp",
+    "imdb_rating": "6.3",
+    "imdb_votes": "208,650",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Death_on_the_Nile_(2022_film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/505026.txt",
+    "plot_year_start": 1937,
+    "plot_year_end": 1937,
+    "epoch": "age-of-total-war",
+    "action_countries": [
+      "EG"
+    ],
+    "action_continents": [
+      "Africa"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "cosmopolitan enclaves amid colonial hierarchy",
+        "description": "Ports, hotels, clubs, and resort routes gather officers, tourists, exiles, traders, and wealthy travellers into small pockets of polished ease inside unequal colonial worlds. What you'll see: white dinner jackets, river cruise decks, grand hotels, dance music, multilingual gossip, and servants keeping elegance running in the heat.",
+        "icon": "🏨"
+      }
+    ],
+    "quiz": [
+      {
+        "question": "What does Hercule Poirot end up investigating on the river steamer?",
+        "type": "plot",
+        "options": {
+          "A": "A stolen museum statue",
+          "B": "A murder during a honeymoon cruise",
+          "C": "A lost map to buried treasure"
+        },
+        "correct": "B"
+      },
+      {
+        "question": "What are the Abu Simbel temples, which the travelers visit, connected to?",
+        "type": "historical",
+        "options": {
+          "A": "Roman emperors in North Africa",
+          "B": "The building of the Suez Canal",
+          "C": "Ancient Egypt under Pharaoh Ramesses II"
+        },
+        "correct": "C"
+      }
+    ],
+    "key_events": [
+      {
+        "event": "World War I",
+        "description": "The story opens on the Yser front in Belgium during the war, where Poirot is wounded in an explosion."
+      },
+      {
+        "event": "Battle of the Yser",
+        "description": "Poirot's wartime memory is set amid fighting on the Yser front near the Yser Bridge in 1914."
+      }
+    ],
+    "key_characters": []
+  },
+  {
+    "movie_id": 12700,
+    "movie_idx": 1694,
+    "imdb_id": "tt0449086",
+    "title": "Dominion: Prequel to the Exorcist",
+    "production_year": "2005",
+    "genre": "Drama, Horror, Thriller",
+    "plot": "Lankester Merrin is a archaeologist by profession but an ordained Roman Catholic priest who has lost his faith and abandoned his vocation. He is haunted by what he was forced to do in his native Holland during World War II. The church he's excavated in Northern Kenyan dates to the Byzantine period but this puts its construction hundreds of years before Christianity was introduced to the area. the church was buried to the rooftop in sand and as its structure is exposed, a madness slowly descends on the camp. the local tribesmen are prepared to go to war and demand that the church be buried. Soon, two British soldiers are found dead and their commanding officer, Major Granville, shoots a innocent civilian in cold blood. As fear descends upon everyone in the camp, it becomes apparent that a young disabled boy, Cheche, is possessed by the devil forcing Merrin to re-examine his own beliefs.",
+    "runtime": "117 min",
+    "director": "Paul Schrader",
+    "actors": "Stellan Skarsgård, Gabriel Mann, Clara Bellar",
+    "production_country": "United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjc4YWIyOTEtNTE1Zi00NmVlLWEzMTQtN2FjZmE4ZDQ4MDQwXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/12700.webp",
+    "imdb_rating": "5.1",
+    "imdb_votes": "14,526",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Dominion:_Prequel_to_the_Exorcist",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/12700.txt",
+    "plot_year_start": 1944,
+    "plot_year_end": 1947,
+    "epoch": "age-of-total-war",
+    "action_countries": [
+      "KE",
+      "NL",
+      "GB"
+    ],
+    "action_continents": [
+      "Africa",
+      "Europe",
+      "Europe"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "archaeology entwined with sacred and imperial claims",
+        "description": "Excavation of ancient sites often serves both scholarly curiosity and imperial possession, while local communities may see the same ground as holy, dangerous, or forbidden. What you'll see: dig camps, brushes and crates, ruins emerging from sand, arguments over burial grounds, and officials treating antiquity as something to catalogue and carry off.",
+        "icon": "🏺"
+      },
+      {
+        "label": "foreign legions and imperial regiments in Africa",
+        "description": "European armies fill their ranks with career soldiers, adventurers, colonial troops, and men escaping old lives, then post them far from home. What you'll see: kepis and khaki drill, bugle calls, barracks routine, mounted patrols, punishment detail, and hard discipline under a glaring sun.",
+        "icon": "🪖"
+      }
+    ],
+    "quiz": [
+      {
+        "question": "What happens after Cheche is revealed to be possessed?",
+        "type": "plot",
+        "options": {
+          "A": "Merrin performs an exorcism and the demon leaves the boy.",
+          "B": "Merrin leaves the camp and the church is destroyed by fire.",
+          "C": "Cheche escapes into the desert and is never seen again."
+        },
+        "correct": "A"
+      },
+      {
+        "question": "What real-world colonial power was governing Kenya during the film's 1947 setting?",
+        "type": "historical",
+        "options": {
+          "A": "Germany",
+          "B": "Portugal",
+          "C": "Britain"
+        },
+        "correct": "C"
+      }
+    ],
+    "key_events": [
+      {
+        "event": "World War II",
+        "description": "Merrin is haunted by atrocities he was forced to witness in occupied Holland during the war."
+      },
+      {
+        "event": "Nazi occupation of the Netherlands",
+        "description": "A Nazi SS lieutenant forces Merrin to take part in executions in a Dutch village."
+      }
+    ],
+    "key_characters": []
+  },
+  {
+    "movie_id": 369885,
+    "movie_idx": 3167,
+    "imdb_id": "tt3640424",
+    "title": "Allied",
+    "production_year": "2016",
+    "genre": "Action, Drama, Romance",
+    "plot": "At the height of World War II, in turbulent 1942, the fearless Wing Commander, Max Vatan, lands on the desert dunes of Morocco to meet with the Parisian member of the French Resistance, Marianne Beauséjour. After an attempt to eliminate an elusive target during a suicide mission in the heart of Casablanca, Max and Marianne flee to England intent on starting a family soon; however, heavy clouds of distrust and suspicion will burden their already difficult relationship, when Max receives a shocking call from the Secret Service Division. In disbelief--with a terrible task in his hands, and crushed under a devastating dilemma--Max must summon up the courage to seek for answers in the perilous streets of a bombarded London, regardless of the outcome. Now, amid duty and love, who shall live and who shall die?",
+    "runtime": "124 min",
+    "director": "Robert Zemeckis",
+    "actors": "Brad Pitt, Marion Cotillard, Jared Harris",
+    "production_country": "United Kingdom, United States, China",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNWJiOTUzODItNTYzYS00NGY0LWIzZmEtZDA4MGI5ZWMxMjM2XkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/369885.webp",
+    "imdb_rating": "7.1",
+    "imdb_votes": "178,412",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Allied_(film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/369885.txt",
+    "plot_year_start": 1942,
+    "plot_year_end": 1944,
+    "epoch": "age-of-total-war",
+    "action_countries": [
+      "MA",
+      "GB",
+      "FR"
+    ],
+    "action_continents": [
+      "Africa",
+      "Europe",
+      "Europe"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "war straining imperial rule and prestige",
+        "description": "The world wars weaken Europe's claim to natural mastery even as imperial states demand African land, labour, and loyalty for the fight. What you'll see: anxious administrators, shortages and requisitions, returning veterans, censored news, uneasy celebrations of victory, and talk that empire is no longer secure.",
+        "icon": "🏳️"
+      }
+    ],
+    "quiz": [
+      {
+        "question": "What does Max do after learning Marianne may be a German spy?",
+        "type": "plot",
+        "options": {
+          "A": "He searches for the truth and must decide whether to betray or save her.",
+          "B": "He leaves her behind and returns to Casablanca alone.",
+          "C": "He turns himself in to the Germans to protect her."
+        },
+        "correct": "A"
+      },
+      {
+        "question": "Which real World War II resistance group does Marianne belong to in the film?",
+        "type": "historical",
+        "options": {
+          "A": "The Home Guard",
+          "B": "The French Resistance",
+          "C": "The Red Cross"
+        },
+        "correct": "B"
+      }
+    ],
+    "key_events": [
+      {
+        "event": "World War II",
+        "description": "The story takes place during the war, with espionage missions, resistance work, and military intelligence driving the plot."
+      },
+      {
+        "event": "German occupation of France",
+        "description": "Marianne’s French Resistance background and clandestine work are rooted in Nazi-occupied France."
+      },
+      {
+        "event": "Bombing of London",
+        "description": "Max’s investigation continues in wartime London, which is shown under German attack and blackout conditions."
+      }
+    ],
+    "key_characters": []
+  },
+  {
+    "movie_id": 4192,
+    "movie_idx": 3713,
+    "imdb_id": "tt0077413",
+    "title": "Death on the Nile",
+    "production_year": "1978",
+    "genre": "Crime, Drama, Mystery",
+    "plot": "Based on the Dame Agatha Christie novel, our favorite Belgian detective, Hercule Poirot (Sir Peter Ustinov), is on a cruise up the Nile. He is surrounded by an interesting assortment of characters, including a wealthy heiress and her husband, on their honeymoon. It appears that everyone hates the heiress.",
+    "runtime": "140 min",
+    "director": "John Guillermin",
+    "actors": "Peter Ustinov, Mia Farrow, Simon MacCorkindale",
+    "production_country": "United Kingdom",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYTkzMWViYWMtMWMwNS00MzgwLTgyZTUtNjVkOTE2YjE0MmM5XkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/4192.webp",
+    "imdb_rating": "7.3",
+    "imdb_votes": "43,470",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Death_on_the_Nile_(1978_film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/4192.txt",
+    "plot_year_start": 1937,
+    "plot_year_end": 1937,
+    "epoch": "age-of-total-war",
+    "action_countries": [
+      "EG",
+      "GB"
+    ],
+    "action_continents": [
+      "Africa",
+      "Europe"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "cosmopolitan enclaves amid colonial hierarchy",
+        "description": "Ports, hotels, clubs, and resort routes gather officers, tourists, exiles, traders, and wealthy travellers into small pockets of polished ease inside unequal colonial worlds. What you'll see: white dinner jackets, river cruise decks, grand hotels, dance music, multilingual gossip, and servants keeping elegance running in the heat.",
+        "icon": "🏨"
+      },
+      {
+        "label": "steamers, rails, and telegraph lines bind territory",
+        "description": "Long-distance movement across colony and desert depends on a thin web of river boats, railways, roads, wireless sets, and mail routes. What you'll see: Nile steamers, station platforms, telegraph offices, cargo aircraft, route charts, and isolated travellers depending on schedules and signal posts.",
+        "icon": "🚂"
+      }
+    ],
+    "quiz": [
+      {
+        "question": "What is Poirot doing when the murder mystery begins?",
+        "type": "plot",
+        "options": {
+          "A": "He is solving a theft at a London museum",
+          "B": "He is traveling by train across Europe",
+          "C": "He is on a cruise up the Nile"
+        },
+        "correct": "C"
+      },
+      {
+        "question": "Which real ancient Egyptian site is shown in the film?",
+        "type": "historical",
+        "options": {
+          "A": "The Temple of Karnak in Luxor",
+          "B": "The Colosseum in Rome",
+          "C": "The Parthenon in Athens"
+        },
+        "correct": "A"
+      }
+    ],
+    "key_events": [],
+    "key_characters": []
+  },
+  {
+    "movie_id": 11202,
+    "movie_idx": 4679,
+    "imdb_id": "tt0066206",
+    "title": "Patton",
+    "production_year": "1970",
+    "genre": "Biography, Drama, War",
+    "plot": "\"Patton\" tells the tale of General George S. Patton, famous tank commander of World War II. The film begins with Patton's career in North Africa and progresses through the invasion of Europe and the fall of the Third Reich. Side plots also speak of Patton's numerous faults such his temper and tendency toward insubordination, faults that would prevent him from becoming the lead American general in the Normandy Invasion as well as to his being relieved as Occupation Commander of Germany.",
+    "runtime": "172 min",
+    "director": "Franklin J. Schaffner",
+    "actors": "George C. Scott, Karl Malden, Stephen Young",
+    "production_country": "United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYzQwNmI5MDItMGEyZi00Y2FjLTkzMTUtOTliOTIyOWRlN2Q0XkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/11202.webp",
+    "imdb_rating": "7.9",
+    "imdb_votes": "112,477",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Patton_(film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/11202.txt",
+    "plot_year_start": 1942,
+    "plot_year_end": 1945,
+    "epoch": "age-of-total-war",
+    "action_countries": [
+      "MA",
+      "IT",
+      "GB",
+      "FR",
+      "DE",
+      "BE"
+    ],
+    "action_continents": [
+      "Africa",
+      "Europe",
+      "Europe",
+      "Europe",
+      "Europe",
+      "Europe"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "war straining imperial rule and prestige",
+        "description": "The world wars weaken Europe's claim to natural mastery even as imperial states demand African land, labour, and loyalty for the fight. What you'll see: anxious administrators, shortages and requisitions, returning veterans, censored news, uneasy celebrations of victory, and talk that empire is no longer secure.",
+        "icon": "🏳️"
+      }
+    ],
+    "quiz": [
+      {
+        "question": "What does General Patton do after being sent to North Africa?",
+        "type": "plot",
+        "options": {
+          "A": "He leaves the army to become a diplomat in London",
+          "B": "He is sent home and never returns to combat",
+          "C": "He takes command, rebuilds the corps, and leads it to victory"
+        },
+        "correct": "C"
+      },
+      {
+        "question": "Which real World War II battle in North Africa is mentioned as the defeat that led to Patton's assignment there?",
+        "type": "historical",
+        "options": {
+          "A": "Battle of El Alamein",
+          "B": "Battle of Tobruk",
+          "C": "Battle of Kasserine Pass"
+        },
+        "correct": "C"
+      }
+    ],
+    "key_events": [
+      {
+        "event": "Battle of Kasserine Pass",
+        "description": "Patton is sent to restore the battered II Corps after its defeat in North Africa."
+      },
+      {
+        "event": "Battle of El Guettar",
+        "description": "Patton’s corps helps redeem itself in North Africa against German forces."
+      },
+      {
+        "event": "Allied invasion of Sicily",
+        "description": "Patton and Montgomery compete over plans for the Sicily landings and the drive on Messina."
+      },
+      {
+        "event": "Normandy landings",
+        "description": "Patton is kept away from the main invasion and later takes command after the landings."
+      },
+      {
+        "event": "Battle of the Bulge",
+        "description": "Patton’s Third Army is redirected to help relieve the trapped defenders at Bastogne."
+      },
+      {
+        "event": "Occupation of Germany",
+        "description": "After Germany surrenders, Patton is kept on to oversee the occupation."
+      }
+    ],
+    "key_characters": [
+      {
+        "character": "George S. Patton",
+        "description": "U.S. Army general whose North Africa, Sicily, France, and Germany campaigns anchor the film."
+      },
+      {
+        "character": "Bernard Montgomery",
+        "description": "British commander who competes with Patton over Allied strategy and prestige."
+      },
+      {
+        "character": "Omar Bradley",
+        "description": "American general under whom Patton later serves in the Third Army campaign."
+      },
+      {
+        "character": "George Marshall",
+        "description": "U.S. Army chief who weighs whether Patton’s outbursts should end his career."
+      },
+      {
+        "character": "Harold Alexander",
+        "description": "Allied commander who chooses the Sicily landing plan and allocates Patton’s forces."
+      }
+    ]
+  },
+  {
+    "movie_id": 783,
+    "movie_idx": 5143,
+    "imdb_id": "tt0083987",
+    "title": "Gandhi",
+    "production_year": "1982",
+    "genre": "Biography, Drama, History",
+    "plot": "In 1893, Mohandas K. Gandhi is thrown off a South African train for being an Indian and traveling in a first class compartment. Gandhi realizes that the laws are biased against Indians and decides to start a non-violent protest campaign for the rights of all Indians in South Africa. After numerous arrests and the unwanted attention of the world, the government finally relents by recognizing rights for Indians, though not for the native blacks of South Africa. After this victory, Gandhi is invited back to India, where he is now considered something of a national hero. He is urged to take up the fight for India's independence from the British Empire. Gandhi agrees, and mounts a non-violent non-cooperation campaign of unprecedented scale, coordinating millions of Indians nationwide. There are some setbacks, such as violence against the protesters and Gandhi's occasional imprisonment. Nevertheless, the campaign generates great attention, and Britain faces intense public pressure. Too weak from World War II to continue enforcing its will in India, Britain finally grants India's independence. Indians celebrate this victory, but their troubles are far from over. Religious tensions between Hindus and Muslims erupt into nation-wide violence. Gandhi declares a hunger strike, saying he will not eat until the fighting stops. The fighting does stop eventually, but the country is divided. It is decided that the northwest area of India, and eastern part of India (current day Bangladesh), both places where Muslims are in the majority, will become a new country called Pakistan (West and East Pakistan respectively). It is hoped that by encouraging the Muslims to live in a separate country, violence will abate. Gandhi is opposed to the idea, and is even willing to allow Muhammad Ali Jinnah to become the first prime minister of India, but the Partition of India is carried out nevertheless. Gandhi spends his last days trying to bring about peace between both nations. He thereby angers many dissidents on both sides, one of whom finally gets close enough to assassinate him.",
+    "runtime": "191 min",
+    "director": "Richard Attenborough",
+    "actors": "Ben Kingsley, John Gielgud, Rohini Hattangadi",
+    "production_country": "United Kingdom, India",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNTg3ODhlZTEtM2Q3MC00YzMxLWJjN2YtOWUyMDIyYTlhYzM3XkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/783.webp",
+    "imdb_rating": "8.0",
+    "imdb_votes": "245,835",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Gandhi_(film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/783.txt",
+    "plot_year_start": 1893,
+    "plot_year_end": 1948,
+    "epoch": "age-of-total-war",
+    "action_countries": [
+      "ZA",
+      "IN",
+      "GB"
+    ],
+    "action_continents": [
+      "Africa",
+      "Asia",
+      "Europe"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "racial law ordering public life and status",
+        "description": "Colonial society is arranged by colour bars, pass rules, and separate privileges that govern travel, schooling, justice, and political voice. What you'll see: first-class carriages denied to some riders, segregated institutions, police checks, prison yards, and daily slights backed by official power.",
+        "icon": "🚔"
+      }
+    ],
+    "quiz": [
+      {
+        "question": "What does Gandhi do after he is thrown off a train in South Africa?",
+        "type": "plot",
+        "options": {
+          "A": "He leaves South Africa and never returns",
+          "B": "He joins the British army",
+          "C": "He starts a non-violent protest campaign for Indian rights"
+        },
+        "correct": "C"
+      },
+      {
+        "question": "What major event in India is the film set against after World War II?",
+        "type": "historical",
+        "options": {
+          "A": "The Partition of India",
+          "B": "The Crimean War",
+          "C": "The Boxer Rebellion"
+        },
+        "correct": "A"
+      }
+    ],
+    "key_events": [
+      {
+        "event": "Pietermaritzburg train incident",
+        "description": "Gandhi is ejected from a first-class compartment in South Africa, awakening his campaign against racial discrimination."
+      },
+      {
+        "event": "Second Boer War",
+        "description": "After the war, British authorities in South Africa tighten controls on Indians, prompting Gandhi's peaceful protests."
+      },
+      {
+        "event": "Champaran and Kheda satyagrahas",
+        "description": "Gandhi leads early nonviolent campaigns in India against British injustice and tax burdens."
+      },
+      {
+        "event": "Rowlatt Act",
+        "description": "The film shows the law as a betrayal that intensifies Indian opposition to British rule in 1919."
+      },
+      {
+        "event": "Jallianwala Bagh massacre",
+        "description": "Troops under Colonel Reginald Dyer fire on a crowd of protesters, shocking the independence movement."
+      },
+      {
+        "event": "Chauri Chaura incident",
+        "description": "Violent attacks on police during the non-cooperation movement lead Gandhi to suspend the campaign."
+      },
+      {
+        "event": "Salt March",
+        "description": "Gandhi's march against the British salt monopoly leads to his arrest in 1930."
+      },
+      {
+        "event": "Round Table Conferences",
+        "description": "Gandhi travels to London for talks on India's future, but the negotiations fail."
+      },
+      {
+        "event": "World War II",
+        "description": "Britain's wartime weakness in the film helps force the decision to leave India."
+      },
+      {
+        "event": "Indian independence",
+        "description": "Britain grants India independence in August 1947 after years of nonviolent pressure."
+      },
+      {
+        "event": "Partition of India",
+        "description": "India is divided into India and Pakistan amid hopes of reducing Hindu-Muslim violence."
+      },
+      {
+        "event": "Partition violence",
+        "description": "Widespread communal killings break out after independence, prompting Gandhi's fasting for peace."
+      },
+      {
+        "event": "Assassination of Mahatma Gandhi",
+        "description": "Gandhi is shot while walking to prayers in January 1948."
+      }
+    ],
+    "key_characters": [
+      {
+        "character": "Mahatma Gandhi",
+        "description": "The film centers on his nonviolent struggle in South Africa and India."
+      },
+      {
+        "character": "Kasturba Gandhi",
+        "description": "Gandhi's wife, whose death occurs while he is under house arrest."
+      },
+      {
+        "character": "Muhammad Ali Jinnah",
+        "description": "A major Muslim League leader who clashes with Gandhi over Pakistan and Indian unity."
+      },
+      {
+        "character": "Sardar Patel",
+        "description": "An Indian National Congress leader who is initially impressed by Gandhi's speech."
+      },
+      {
+        "character": "Jawaharlal Nehru",
+        "description": "A Congress leader and later prime minister who supports Gandhi's movement."
+      },
+      {
+        "character": "Maulana Azad",
+        "description": "A Congress leader present among Gandhi's political allies in India."
+      },
+      {
+        "character": "Gopal Krishna Gokhale",
+        "description": "Gandhi's early political mentor after his return to India."
+      },
+      {
+        "character": "Charles Freer Andrews",
+        "description": "An Anglican clergyman who joins and supports Gandhi's cause."
+      },
+      {
+        "character": "Colonel Reginald Dyer",
+        "description": "The officer who orders the firing at Jallianwala Bagh."
+      },
+      {
+        "character": "Ramsay MacDonald",
+        "description": "The British leader who invites Gandhi to London for the Round Table talks."
+      },
+      {
+        "character": "Louis Mountbatten",
+        "description": "The Viceroy who announces the coming transfer of power and independence."
+      }
+    ]
+  },
+  {
+    "movie_id": 606,
+    "movie_idx": 7148,
+    "imdb_id": "tt0089755",
+    "title": "Out of Africa",
+    "production_year": "1985",
+    "genre": "Biography, Drama, Romance",
+    "plot": "Follows the life of Karen Blixen, who establishes a plantation in Africa. Her life is complicated by a husband of convenience (Bror Blixen), a true love (Denys), troubles on the plantation, schooling of the natives, war, and catching VD from her husband.",
+    "runtime": "161 min",
+    "director": "Sydney Pollack",
+    "actors": "Meryl Streep, Robert Redford, Klaus Maria Brandauer",
+    "production_country": "United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BOWQ5MGI3NWYtMmVjNS00OWIzLWEzMGQtMGZhMzY3NjI2YjhiXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/606.webp",
+    "imdb_rating": "7.1",
+    "imdb_votes": "91,765",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Out_of_Africa_(film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/606.txt",
+    "plot_year_start": 1913,
+    "plot_year_end": 1918,
+    "epoch": "age-of-total-war",
+    "action_countries": [
+      "KE",
+      "DK"
+    ],
+    "action_continents": [
+      "Africa",
+      "Europe"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "settler plantations shaping land and labour",
+        "description": "Farms and plantations tied to export crops reorder land use and bind African labour to a colonial market overseen by settlers and managers. What you'll see: coffee fields and storehouses, bookkeeping and freight, labour compounds, lessons on mission verandas, and disputes over wages, land, and authority.",
+        "icon": "☕"
+      },
+      {
+        "label": "racial law ordering public life and status",
+        "description": "Colonial society is arranged by colour bars, pass rules, and separate privileges that govern travel, schooling, justice, and political voice. What you'll see: first-class carriages denied to some riders, segregated institutions, police checks, prison yards, and daily slights backed by official power.",
+        "icon": "🚔"
+      }
+    ],
+    "quiz": [
+      {
+        "question": "What happens to Karen's coffee farm near the end of the story?",
+        "type": "plot",
+        "options": {
+          "A": "She wins a legal battle and keeps the farm forever.",
+          "B": "She leaves it to Bror after they reconcile.",
+          "C": "A fire destroys it, and she has to sell it."
+        },
+        "correct": "C"
+      },
+      {
+        "question": "During World War I, which German colony is mentioned as a nearby threat in East Africa?",
+        "type": "historical",
+        "options": {
+          "A": "German South-West Africa",
+          "B": "German Cameroon",
+          "C": "German East Africa"
+        },
+        "correct": "C"
+      }
+    ],
+    "key_events": [
+      {
+        "event": "World War I in East Africa",
+        "description": "Colonists form a militia and search for German forces as the war reaches British East Africa."
+      },
+      {
+        "event": "Marriage of Karen Blixen and Bror Blixen",
+        "description": "Karen enters a marriage of convenience with Baron Bror Blixen and moves to his Kenya farm."
+      },
+      {
+        "event": "Coffee farming in British East Africa",
+        "description": "Bror buys a coffee plantation near Ngong Hills, and Karen struggles to make the farm productive."
+      }
+    ],
+    "key_characters": [
+      {
+        "character": "Karen Blixen",
+        "description": "Danish aristocrat who runs a Kenyan plantation and narrates her experiences there."
+      },
+      {
+        "character": "Bror Blixen",
+        "description": "Karen's husband, who manages the farm poorly and pursues safaris and other women."
+      },
+      {
+        "character": "Denys Finch Hatton",
+        "description": "Big-game hunter and aviator who becomes Karen's lover."
+      },
+      {
+        "character": "Lord Delamere",
+        "description": "Colonial patriarch who leads the local militia during the war."
+      },
+      {
+        "character": "Berkeley Cole",
+        "description": "A member of Nairobi colonial society and part of Karen's social circle."
+      },
+      {
+        "character": "Chief Kinyanjui",
+        "description": "A Kikuyu chief associated with Karen's dealings with the local community."
+      }
+    ]
+  },
+  {
+    "movie_id": 25388,
+    "movie_idx": 8671,
+    "imdb_id": "tt0076175",
+    "title": "March or Die",
+    "production_year": "1977",
+    "genre": "Adventure, Drama, Romance",
+    "plot": "Foreign Legion Major William Foster (Gene Hackman), an American haunted by his memories of the recently-ended Great War, is assigned to protect a group of archaeologists at their dig. Foster's unit includes the charming, thieving rascal Marco Segrain (Terence Hill), who joined the Legion only to avoid prison. After long stretches portraying the boredom and hardship of day-to-day life in the Legion, Foster's command occupies a small village where the archaeologists believe they've found a burial site sacred to the Arabs. Arab leader El Krim (Sir Ian Holm) uses this affront to unite the tribes in Jihad, and attacks the tiny Legion garrison at the dig. An epic battle follows, very reminiscent of Zulu (1964). Costumes, firearms, and props are all very authentic-looking, and show great attention to detail.",
+    "runtime": "107 min",
+    "director": "Dick Richards",
+    "actors": "Gene Hackman, Terence Hill, Catherine Deneuve",
+    "production_country": "United Kingdom",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNWQ1ODE4YWYtNjg5NS00OGVjLWI2MmYtNmE4M2ZkZGMxYmZhXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/25388.webp",
+    "imdb_rating": "6.3",
+    "imdb_votes": "4,109",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/March_or_Die_(film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/25388.txt",
+    "plot_year_start": 1920,
+    "plot_year_end": 1920,
+    "epoch": "age-of-total-war",
+    "action_countries": [
+      "MA",
+      "FR"
+    ],
+    "action_continents": [
+      "Africa",
+      "Europe"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "foreign legions and imperial regiments in Africa",
+        "description": "European armies fill their ranks with career soldiers, adventurers, colonial troops, and men escaping old lives, then post them far from home. What you'll see: kepis and khaki drill, bugle calls, barracks routine, mounted patrols, punishment detail, and hard discipline under a glaring sun.",
+        "icon": "🪖"
+      },
+      {
+        "label": "archaeology entwined with sacred and imperial claims",
+        "description": "Excavation of ancient sites often serves both scholarly curiosity and imperial possession, while local communities may see the same ground as holy, dangerous, or forbidden. What you'll see: dig camps, brushes and crates, ruins emerging from sand, arguments over burial grounds, and officials treating antiquity as something to catalogue and carry off.",
+        "icon": "🏺"
+      }
+    ],
+    "quiz": [
+      {
+        "question": "What happens when the archaeologists find a sacred burial site near the village?",
+        "type": "plot",
+        "options": {
+          "A": "The Legion leaves Morocco without a fight.",
+          "B": "El Krim uses the insult to unite the tribes and attack the Legion garrison.",
+          "C": "The archaeologists are rewarded and escorted safely home."
+        },
+        "correct": "B"
+      },
+      {
+        "question": "Which real Moroccan leader inspired the film's rebel leader El Krim?",
+        "type": "historical",
+        "options": {
+          "A": "Sultan Moulay Youssef",
+          "B": "Hassan II",
+          "C": "Abd el-Krim"
+        },
+        "correct": "C"
+      }
+    ],
+    "key_events": [
+      {
+        "event": "World War I",
+        "description": "Foster is haunted by memories of the recently ended war, which shapes the Legionnaires’ attitudes and trauma."
+      },
+      {
+        "event": "Rif War",
+        "description": "The film is set amid the Moroccan uprising against French rule, culminating in El Krim’s attack on the Legion garrison."
+      },
+      {
+        "event": "French colonial rule in Morocco",
+        "description": "The Legion is sent to reassert French authority over tribes resisting colonial control in Morocco."
+      },
+      {
+        "event": "Archaeological excavations in Morocco",
+        "description": "French archaeologists’ dig near Erfoud triggers local anger over the disturbance of a sacred burial site."
+      }
+    ],
+    "key_characters": [
+      {
+        "character": "Abd el-Krim",
+        "description": "He appears as El Krim, the Moroccan revolutionary leader uniting tribes against the French."
+      }
+    ]
+  },
+  {
+    "movie_id": 13823,
+    "movie_idx": 9277,
+    "imdb_id": "tt0105159",
+    "title": "The Power of One",
+    "production_year": "1992",
+    "genre": "Drama, Sport",
+    "plot": "The Power of One is an intriguing story of a young English boy named Peekay and his passion for changing the world. Growing up he suffered as the only English boy in an Afrikaans school. Soon orphaned, he was placed in the care of a German national named Professor von Vollensteen (a.k.a. \"Doc\"), a friend of his grandfather. Doc develops Peekay's piano talent and Peekay becomes \"assistant gardener\" in Doc's cactus garden. It is not long after WWII begins that Doc is placed in prison for failure to register with the English government as a foreigner. Peekay makes frequent visits and meets Geel Piet, an inmate, who teaches him to box. Geel Piet spreads the myth of the Rainmaker, the one who brings peace to all of the tribes. Peekay is cast in the light of this myth. After the war Peekay attends an English private school where he continues to box. He meets a young girl, Maria, with whom he falls in love. Her father, Professor Daniel Marais, is a leader of the Nationalist Party of South Africa. The two fight to teach the natives English as Peekay's popularity grows via the myth. Peekay loses focus until he sees the success of his language school among the tribes. Daniel Marais comes to stop Peekay's English classes and Maria is killed during the fight. He and Guideon Duma continue the work in hopes of building a better future for Africa.",
+    "runtime": "127 min",
+    "director": "John G. Avildsen",
+    "actors": "Stephen Dorff, Armin Mueller-Stahl, Morgan Freeman",
+    "production_country": "France, Germany, Australia, United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYzgzZTZkNTAtNjVmYi00MzJkLTkzN2UtYjkyOGU4OWJjYzFhXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/13823.webp",
+    "imdb_rating": "7.1",
+    "imdb_votes": "11,381",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Power_of_One_(film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/13823.txt",
+    "plot_year_start": 1930,
+    "plot_year_end": 1948,
+    "epoch": "age-of-total-war",
+    "action_countries": [
+      "ZA",
+      "GB",
+      "DE"
+    ],
+    "action_continents": [
+      "Africa",
+      "Europe",
+      "Europe"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "racial law ordering public life and status",
+        "description": "Colonial society is arranged by colour bars, pass rules, and separate privileges that govern travel, schooling, justice, and political voice. What you'll see: first-class carriages denied to some riders, segregated institutions, police checks, prison yards, and daily slights backed by official power.",
+        "icon": "🚔"
+      },
+      {
+        "label": "war straining imperial rule and prestige",
+        "description": "The world wars weaken Europe's claim to natural mastery even as imperial states demand African land, labour, and loyalty for the fight. What you'll see: anxious administrators, shortages and requisitions, returning veterans, censored news, uneasy celebrations of victory, and talk that empire is no longer secure.",
+        "icon": "🏳️"
+      }
+    ],
+    "quiz": [
+      {
+        "question": "What happens to Maria during the fight at the school?",
+        "type": "plot",
+        "options": {
+          "A": "She is killed.",
+          "B": "She leaves South Africa with Peekay.",
+          "C": "She becomes the boxing coach."
+        },
+        "correct": "A"
+      },
+      {
+        "question": "What major real event began in South Africa in 1948?",
+        "type": "historical",
+        "options": {
+          "A": "The end of World War II",
+          "B": "The discovery of gold in Johannesburg",
+          "C": "The formal start of apartheid under the National Party"
+        },
+        "correct": "C"
+      }
+    ],
+    "key_events": [
+      {
+        "event": "Second World War",
+        "description": "The story turns after war breaks out and Doc is later interned as an enemy alien."
+      },
+      {
+        "event": "Second Boer War",
+        "description": "Afrikaner boys blame Britain for Boer War atrocities, including concentration camps and scorched-earth tactics."
+      },
+      {
+        "event": "Apartheid established in South Africa",
+        "description": "The 1948 election brings the National Party to power as apartheid begins."
+      }
+    ],
+    "key_characters": [
+      {
+        "character": "D. F. Malan",
+        "description": "He is identified as the National Party leader whose government formally establishes apartheid."
+      }
+    ]
+  },
+  {
+    "movie_id": 10243,
+    "movie_idx": 9892,
+    "imdb_id": "tt0059183",
+    "title": "The Flight of the Phoenix",
+    "production_year": "1965",
+    "genre": "Adventure, Drama",
+    "plot": "A cargo plane goes down in a sandstorm in the Sahara with less than a dozen men on board. One of the passengers is an airplane designer who comes up with the idea of ripping off the undamaged wing and using it as the basis for an airplane they will build to escape before their food and water run out.",
+    "runtime": "142 min",
+    "director": "Robert Aldrich",
+    "actors": "James Stewart, Richard Attenborough, Peter Finch",
+    "production_country": "United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYmRhMTkzNzctODAxMS00YTI0LTk1NDQtM2Y0OWU3OGNmZjBmXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/10243.webp",
+    "imdb_rating": "7.5",
+    "imdb_votes": "22,838",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Flight_of_the_Phoenix_(1965_film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/10243.txt",
+    "plot_year_start": 1940,
+    "plot_year_end": 1940,
+    "epoch": "age-of-total-war",
+    "action_countries": [
+      "LY",
+      "UNKNOWN"
+    ],
+    "action_continents": [
+      "Africa",
+      "UNKNOWN"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "desert war fought by convoys and aircraft",
+        "description": "The North African theatre turns open desert into a battlefield where movement, fuel, and supply matter as much as firepower. What you'll see: tanks crossing hard sand, transport lorries, airstrips, reconnaissance flights, sandstorms, and men measuring distance by water tins and petrol drums.",
+        "icon": "🚚"
+      }
+    ],
+    "quiz": [
+      {
+        "question": "What do the men decide to build from the wreckage so they can escape the desert?",
+        "type": "plot",
+        "options": {
+          "A": "A radio tower to call for help",
+          "B": "A new airplane to fly out",
+          "C": "A raft to cross a river"
+        },
+        "correct": "B"
+      },
+      {
+        "question": "In 1940, the Sahara setting is part of which real World War II region?",
+        "type": "historical",
+        "options": {
+          "A": "The Pacific islands",
+          "B": "The Scandinavian front",
+          "C": "The North African campaign"
+        },
+        "correct": "C"
+      }
+    ],
+    "key_events": [],
+    "key_characters": []
+  }
+]

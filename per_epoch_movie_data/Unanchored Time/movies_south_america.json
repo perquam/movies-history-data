@@ -1,0 +1,336 @@
+[
+  {
+    "movie_id": 1064517,
+    "movie_idx": 395,
+    "imdb_id": "tt13354802",
+    "title": "The Fist of the Condor",
+    "production_year": "2023",
+    "genre": "Action",
+    "plot": "A group of martial artists from around the world search for a book that contains the ancient secrets of how to overcome the limits of the human body.",
+    "runtime": "80 min",
+    "director": "Ernesto Díaz Espinoza",
+    "actors": "Marko Zaror, Gina Aguad, Eyal Meyer",
+    "production_country": "Chile",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYTFmZGNhZmMtMzVmOC00OWQ2LTgyNDktMmIzYjU0YjYxZDRiXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/1064517.webp",
+    "imdb_rating": "5.3",
+    "imdb_votes": "529",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Fist_of_the_Condor",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/1064517.txt",
+    "epoch": "Unanchored Time",
+    "action_countries": [
+      "CL"
+    ],
+    "action_continents": [
+      "South America"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "body mastery pursued through fighting arts",
+        "description": "Physical discipline carries prestige, whether through boxing gyms or older martial traditions that promise endurance, prowess, and hidden knowledge of the body. What you'll see: worn gyms, training drills, gloves and wraps, scarred veterans, young contenders, and secret manuals treated like treasures.",
+        "icon": "🥊"
+      }
+    ],
+    "failures": {
+      "time_range": "unanchored"
+    }
+  },
+  {
+    "movie_id": 954388,
+    "movie_idx": 1762,
+    "imdb_id": "tt19056070",
+    "title": "Quicksand",
+    "production_year": "2023",
+    "genre": "Drama, Horror, Thriller",
+    "plot": "Follows a married couple almost divorcing who become trapped in quicksand while hiking through a rainforest in Colombia. They will battle the elements of the jungle and must work together in order to survive.",
+    "runtime": "86 min",
+    "director": "Andres Beltran",
+    "actors": "Carolina Gaitan, Allan Hawco, Sebastian Eslava",
+    "production_country": "Colombia",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMDhkYzRlOGUtMGE4OS00NzE5LTllMDItMmVmYTQwNzhkYjg0XkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/954388.webp",
+    "imdb_rating": "4.3",
+    "imdb_votes": "1,569",
+    "epoch": "Unanchored Time",
+    "action_countries": [
+      "CO"
+    ],
+    "action_continents": [
+      "South America"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "jungles and forests beyond easy control",
+        "description": "Much of the continent is still imagined as thick country where roads thin out, maps become uncertain, and human plans give way to terrain, weather, and distance. What you'll see: Patagonian woods, Colombian rainforest, northern jungle towns, mud, insects, sudden rain, and paths that vanish into green.",
+        "icon": "🌳"
+      }
+    ],
+    "failures": {
+      "wikipedia": "no_wiki_article_found",
+      "time_range": "unanchored"
+    }
+  },
+  {
+    "movie_id": 893370,
+    "movie_idx": 3273,
+    "imdb_id": "tt12298140",
+    "title": "Virus-32",
+    "production_year": "2022",
+    "genre": "Horror",
+    "plot": "A virus breaks out, resulting in a chilling massacre through the streets of Montevideo. The infected become hunters and only calm their fever by unscrupulously killing all those who have not caught the virus yet. Unaware of this, Iris and her daughter spend the day at the sports club where Iris works as a security guard. When night comes, she is about to start a merciless fight. Her only hope of salvation comes when they discover that after each attack the infected seem to fall into a 32-second trance of calmness and stillness before charging again.",
+    "runtime": "90 min",
+    "director": "Gustavo Hernández",
+    "actors": "Pilar García Ayala, Daniel Hendler, Paula Silva",
+    "production_country": "Argentina, Uruguay",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMDdiYWVkOTItMDgxNS00NDIyLWJhM2ItMTc5ZGY2ZDJhMGI1XkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/893370.webp",
+    "imdb_rating": "5.4",
+    "imdb_votes": "2,428",
+    "wikipedia_url": "https://es.wikipedia.org/wiki/Virus_32",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/893370.txt",
+    "epoch": "Unanchored Time",
+    "action_countries": [
+      "UY"
+    ],
+    "action_continents": [
+      "South America"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "great cities under watch and alarm",
+        "description": "South American city life runs through guarded buildings, sports clubs, apartment blocks, and streets where danger can spread fast and public order feels fragile. What you'll see: security desks, locked gates, dim corridors, crowded avenues, patrol lights, and anxious nights in Montevideo or Buenos Aires.",
+        "icon": "🚨"
+      },
+      {
+        "label": "home and kin as first refuge",
+        "description": "When accusation, illness, or danger breaks into daily life, the first line of shelter is usually the family household rather than any broad public safety net. What you'll see: relatives closing ranks, meals under strain, whispered strategy, bedrooms turned into hideouts, and domestic spaces thick with fear.",
+        "icon": "🏠"
+      }
+    ],
+    "failures": {
+      "time_range": "unanchored"
+    }
+  },
+  {
+    "movie_id": 912022,
+    "movie_idx": 3676,
+    "imdb_id": "tt15695764",
+    "title": "El Ucumar",
+    "production_year": "2022",
+    "genre": "Horror",
+    "plot": "A group of biologists in the northern Argentine jungle are in search of evidence of the Andean bear inhabiting the place. In a bar of a nearby town they learn about a local legend, of a supposed \"bear man\" known as the \"Ucumar\".",
+    "runtime": "86 min",
+    "director": "Octavio Revol Molina",
+    "actors": "Clara Kovacic, Nicolás Obregón, Gastón Palermo",
+    "production_country": "Argentina",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZDIwZjQ5YzMtNGIzMS00Yzc1LThjNmEtNGUxYmU3YjUxMWM3XkEyXkFqcGdeQXVyNzcxMjY0NTI@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/912022.webp",
+    "imdb_rating": "N/A",
+    "imdb_votes": "11",
+    "epoch": "Unanchored Time",
+    "action_countries": [
+      "AR"
+    ],
+    "action_continents": [
+      "South America"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "local legends living beside field science",
+        "description": "Scholarly inquiry does not erase older regional beliefs, and expeditions into remote country often pass through villages where stories of strange creatures still carry weight. What you'll see: biologists with equipment, barroom talk, wary locals, half-heard tales, and folklore attaching itself to the landscape.",
+        "icon": "🐾"
+      },
+      {
+        "label": "jungles and forests beyond easy control",
+        "description": "Much of the continent is still imagined as thick country where roads thin out, maps become uncertain, and human plans give way to terrain, weather, and distance. What you'll see: Patagonian woods, Colombian rainforest, northern jungle towns, mud, insects, sudden rain, and paths that vanish into green.",
+        "icon": "🌳"
+      }
+    ],
+    "failures": {
+      "wikipedia": "no_wiki_article_found",
+      "time_range": "unanchored"
+    }
+  },
+  {
+    "movie_id": 856245,
+    "movie_idx": 6126,
+    "imdb_id": "tt14042038",
+    "title": "To Kill the Beast",
+    "production_year": "2021",
+    "genre": "Drama, Fantasy, Mystery",
+    "plot": "Emilia, 17, arrives at her Aunt Ines' hostel at the border between Argentina and Brazil, looking for her long lost brother. In this luxuriant jungle, where local myths and legends abound, a dangerous beast believed to be the spirit of an evil man taking the form of different animals seems to be roaming around. On a journey to sexual awakening, Emilia will have to confront her past in order to kill the beast.",
+    "runtime": "79 min",
+    "director": "Agustina San Martín",
+    "actors": "Tamara Rocca, Ana Brun, João Miguel",
+    "production_country": "Argentina, Brazil, Chile",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZjI0Y2QyYzgtZjlkOS00MTAwLTgxNjEtNGFkM2JiYTE0NTYyXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/856245.webp",
+    "imdb_rating": "5.0",
+    "imdb_votes": "324",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Beast_(2022_American_film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/856245.txt",
+    "epoch": "Unanchored Time",
+    "action_countries": [
+      "AR",
+      "BR"
+    ],
+    "action_continents": [
+      "South America",
+      "South America"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "jungles and forests beyond easy control",
+        "description": "Much of the continent is still imagined as thick country where roads thin out, maps become uncertain, and human plans give way to terrain, weather, and distance. What you'll see: Patagonian woods, Colombian rainforest, northern jungle towns, mud, insects, sudden rain, and paths that vanish into green.",
+        "icon": "🌳"
+      },
+      {
+        "label": "local legends living beside field science",
+        "description": "Scholarly inquiry does not erase older regional beliefs, and expeditions into remote country often pass through villages where stories of strange creatures still carry weight. What you'll see: biologists with equipment, barroom talk, wary locals, half-heard tales, and folklore attaching itself to the landscape.",
+        "icon": "🐾"
+      }
+    ],
+    "failures": {
+      "time_range": "unanchored"
+    }
+  },
+  {
+    "movie_id": 519223,
+    "movie_idx": 8811,
+    "imdb_id": "tt7952000",
+    "title": "The Accused",
+    "production_year": "2018",
+    "genre": "Crime, Drama, Thriller",
+    "plot": "Dolores Dreier lives the life of a young student until her best friend is brutally murdered. Two years later, she is the only one accused of the crime in a case of great media exposure that has put her in the center of the scene: everyone has an opinion about her innocence or guilt. Dolores prepares for the isolated trial at home, while the Dreier family works as a team willing to do everything to defend their daughter. But as the process progresses and the pressure increases, secrets and suspicion appear within the family. Cornered by the evidence, Dolores must face her own doubts about what really happened.",
+    "runtime": "108 min",
+    "director": "Gonzalo Tobal",
+    "actors": "Lali Espósito, Emilio Vodanovich, Leonardo Sbaraglia",
+    "production_country": "Argentina, Mexico",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMWZiOGU4N2MtOTJmNi00ZTczLWFlMzctNWVkNjdkNTNlNjI5XkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/519223.webp",
+    "imdb_rating": "6.0",
+    "imdb_votes": "2,558",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Accused_(2018_film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/519223.txt",
+    "epoch": "Unanchored Time",
+    "action_countries": [
+      "AR"
+    ],
+    "action_continents": [
+      "South America"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "television and tabloids shaping public judgment",
+        "description": "High-profile accusations and disappearances are not handled in private, because newspapers, talk shows, and constant commentary turn private lives into public spectacle. What you'll see: cameras outside homes, reporters pressing for statements, headlines, studio chatter, and neighbors forming opinions before courts do.",
+        "icon": "📺"
+      },
+      {
+        "label": "home and kin as first refuge",
+        "description": "When accusation, illness, or danger breaks into daily life, the first line of shelter is usually the family household rather than any broad public safety net. What you'll see: relatives closing ranks, meals under strain, whispered strategy, bedrooms turned into hideouts, and domestic spaces thick with fear.",
+        "icon": "🏠"
+      }
+    ],
+    "failures": {
+      "time_range": "unanchored"
+    }
+  },
+  {
+    "movie_id": 513223,
+    "movie_idx": 8913,
+    "imdb_id": "tt7841496",
+    "title": "Perdida",
+    "production_year": "2018",
+    "genre": "Crime, Drama, Mystery",
+    "plot": "It is based on the novel by Florencia Etcheves \"Cornelia\", in which a teacher from a prestigious school in Buenos Aires makes a study trip with five of her students, but only returns with four because one of them disappears mysteriously. It is Cornelia Villalba, who escapes with her companions to go dancing and gets lost in the middle of the Patagonian forests.",
+    "runtime": "103 min",
+    "director": "Alejandro Montiel",
+    "actors": "Luisana Lopilato, Amaia Salamanca, Rafael Spregelburd",
+    "production_country": "Argentina, Spain",
+    "poster": "https://m.media-amazon.com/images/M/MV5BODYyZmM0NGEtMmQ5ZC00MjBkLTkyMDktY2Y5MzBjODliMWNmXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/513223.webp",
+    "imdb_rating": "5.7",
+    "imdb_votes": "5,528",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Perdida_(2018_film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/513223.txt",
+    "epoch": "Unanchored Time",
+    "action_countries": [
+      "AR"
+    ],
+    "action_continents": [
+      "South America"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "vast distances linking city and wilderness",
+        "description": "Life on the continent moves between major capitals and remote country, so journeys quickly cross from orderly urban settings into sparsely populated terrain. What you'll see: road trips, study excursions, isolated lodgings, edge-of-town bars, long drives, and the sense of being far from help.",
+        "icon": "🛣️"
+      },
+      {
+        "label": "jungles and forests beyond easy control",
+        "description": "Much of the continent is still imagined as thick country where roads thin out, maps become uncertain, and human plans give way to terrain, weather, and distance. What you'll see: Patagonian woods, Colombian rainforest, northern jungle towns, mud, insects, sudden rain, and paths that vanish into green.",
+        "icon": "🌳"
+      }
+    ],
+    "failures": {
+      "time_range": "unanchored"
+    }
+  },
+  {
+    "movie_id": 419446,
+    "movie_idx": 9220,
+    "imdb_id": "tt4791322",
+    "title": "Tiger, Blood in the Mouth",
+    "production_year": "2016",
+    "genre": "Drama, Sport",
+    "plot": "Ramón Alvia is a professional boxer who, although he has won several international championships, is old and is at the end of his career. He resists. In the gym, Ramon discovers among the young boxers Deborah, a beautiful girl.",
+    "runtime": "97 min",
+    "director": "Hernán Belón",
+    "actors": "Leonardo Sbaraglia, Eva De Dominici, Erica Banchi",
+    "production_country": "Argentina, Italy",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTFhY2VkNjAtNDZjNS00NjI3LWFjNTItODRjMTdmYjBhODAwXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/419446.webp",
+    "imdb_rating": "5.5",
+    "imdb_votes": "1,244",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Tiger,_Blood_in_the_Mouth",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/419446.txt",
+    "epoch": "Unanchored Time",
+    "action_countries": [
+      "AR"
+    ],
+    "action_continents": [
+      "South America"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "body mastery pursued through fighting arts",
+        "description": "Physical discipline carries prestige, whether through boxing gyms or older martial traditions that promise endurance, prowess, and hidden knowledge of the body. What you'll see: worn gyms, training drills, gloves and wraps, scarred veterans, young contenders, and secret manuals treated like treasures.",
+        "icon": "🥊"
+      },
+      {
+        "label": "working people keeping institutions running",
+        "description": "Behind schools, clubs, laboratories, and courts are employees doing routine labour that keeps respectable places functioning, often without much protection or status. What you'll see: guards on shift, teachers supervising outings, researchers in the field, cleaners and clerks, and long hours inside other people's institutions.",
+        "icon": "🧹"
+      }
+    ],
+    "failures": {
+      "time_range": "unanchored"
+    }
+  }
+]

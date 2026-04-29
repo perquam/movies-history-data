@@ -1,0 +1,1489 @@
+[
+  {
+    "movie_id": 856289,
+    "movie_idx": 237,
+    "imdb_id": "tt6979756",
+    "title": "Creation of the Gods I: Kingdom of Storms",
+    "production_year": "2023",
+    "genre": "Action, Adventure, Drama",
+    "plot": "Based on the most well-known classical fantasy novel of China, Fengshenyanyi, the trilogy is a magnificent eastern high fantasy epic that recreates the prolonged mythical wars between humans, immortals and monsters, which happened more than three thousand years ago.",
+    "runtime": "148 min",
+    "director": "Wuershan",
+    "actors": "Huang Bo, Kris Phillips, Xuejian Li",
+    "production_country": "China",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYjFkZjYxMWMtMjNiYS00NmRiLTlmODMtZWY2YzI4YjU1NzdjXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/856289.webp",
+    "imdb_rating": "6.7",
+    "imdb_votes": "6,419",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Creation_of_the_Gods_I:_Kingdom_of_Storms",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/856289.txt",
+    "plot_year_start": -1600,
+    "plot_year_end": -1046,
+    "epoch": "ancient-world",
+    "action_countries": [
+      "CN"
+    ],
+    "action_continents": [
+      "Asia"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "kingdoms rising and falling by war",
+        "description": "Power changes hands through campaigns, sieges, shifting alliances, and rival claimants to the throne rather than settled succession alone. What you'll see: marching armies, fortified cities, war councils, banners of competing houses, and battlefields deciding the fate of states.",
+        "icon": "⚔️"
+      },
+      {
+        "label": "court life shaped by dynastic succession",
+        "description": "Royal households are political centers where inheritance, marriage, and favor determine who will govern next. What you'll see: throne rooms, princes and ministers, palace coups, arranged matches, ritual audiences, and family disputes turning into matters of state.",
+        "icon": "👑"
+      }
+    ]
+  },
+  {
+    "movie_id": 961420,
+    "movie_idx": 431,
+    "imdb_id": "tt12415670",
+    "title": "Kingdom 2: Far and Away",
+    "production_year": "2022",
+    "genre": "Action, Adventure, History",
+    "plot": "It follows a young man who dreams of becoming a general and Ying Zheng, whose goal is unification.",
+    "runtime": "134 min",
+    "director": "Shinsuke Sato",
+    "actors": "Kento Yamazaki, Ryô Yoshizawa, Kanna Hashimoto",
+    "production_country": "Japan",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNGM1M2U0YmEtZWUxZC00MDU4LWE5NGMtMTcwYTQ5ZjllZDM5XkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/961420.webp",
+    "imdb_rating": "6.7",
+    "imdb_votes": "2,409",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Kingdom_2:_Far_and_Away",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/961420.txt",
+    "plot_year_start": -475,
+    "plot_year_end": -221,
+    "epoch": "ancient-world",
+    "action_countries": [
+      "CN"
+    ],
+    "action_continents": [
+      "Asia"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "kingdoms rising and falling by war",
+        "description": "Power changes hands through campaigns, sieges, shifting alliances, and rival claimants to the throne rather than settled succession alone. What you'll see: marching armies, fortified cities, war councils, banners of competing houses, and battlefields deciding the fate of states.",
+        "icon": "⚔️"
+      }
+    ]
+  },
+  {
+    "movie_id": 652,
+    "movie_idx": 456,
+    "imdb_id": "tt0332452",
+    "title": "Troy",
+    "production_year": "2004",
+    "genre": "Action, Adventure, Drama",
+    "plot": "It is the year 1250 B.C. during the late Bronze age. Two emerging nations begin to clash after Paris, the Trojan prince, convinces Helen, Queen of Sparta, to leave her husband, Menelaus, and sail with him back to Troy. After Menelaus finds out that his wife was taken by the Trojans, he asks his brother Agamemnon to help him get her back. Agamemnon sees this as an opportunity for power. So they set off with 1,000 ships holding 50,000 Greeks to Troy. With the help of Achilles, the Greeks are able to fight the never before defeated Trojans. But they come to a stop by Hector, Prince of Troy. The whole movie shows their battle struggles and the foreshadowing of fate in this adaptation of Homer's classic \"The Iliad.\"",
+    "runtime": "163 min",
+    "director": "Wolfgang Petersen",
+    "actors": "Brad Pitt, Eric Bana, Orlando Bloom",
+    "production_country": "United Kingdom, Malta, Bulgaria, United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTk5MzU1MDMwMF5BMl5BanBnXkFtZTcwNjczODMzMw@@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/652.webp",
+    "imdb_rating": "7.3",
+    "imdb_votes": "609,875",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Troy_(film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/652.txt",
+    "plot_year_start": -1250,
+    "plot_year_end": -1250,
+    "epoch": "ancient-world",
+    "action_countries": [
+      "TR"
+    ],
+    "action_continents": [
+      "Asia"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "kingdoms rising and falling by war",
+        "description": "Power changes hands through campaigns, sieges, shifting alliances, and rival claimants to the throne rather than settled succession alone. What you'll see: marching armies, fortified cities, war councils, banners of competing houses, and battlefields deciding the fate of states.",
+        "icon": "⚔️"
+      },
+      {
+        "label": "empires ruling through provinces and tribute",
+        "description": "Large realms hold many peoples together by appointing governors, demanding taxes, and keeping roads and garrisons under watch. What you'll see: provincial capitals, tribute brought to rulers, officials carrying seals and orders, and distant kings reaching into local life.",
+        "icon": "🏛️"
+      }
+    ]
+  },
+  {
+    "movie_id": 643215,
+    "movie_idx": 1056,
+    "imdb_id": "tt11210390",
+    "title": "Asterix & Obelix: The Middle Kingdom",
+    "production_year": "2023",
+    "genre": "Adventure, Comedy, Family",
+    "plot": "The only daughter of the Chinese emperor Han Xuandi escapes from a strict prince and seeks help from the Gauls and the two brave warriors Asterix and Obelix.",
+    "runtime": "112 min",
+    "director": "Guillaume Canet",
+    "actors": "Guillaume Canet, Gilles Lellouche, Vincent Cassel",
+    "production_country": "France, Belgium, United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNmRjZjg4MDAtYTkzNy00OWI5LTkzNTgtMDUxMTgxNjkzZDliXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/643215.webp",
+    "imdb_rating": "5.1",
+    "imdb_votes": "13,367",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Asterix_%26_Obelix:_The_Middle_Kingdom",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/643215.txt",
+    "plot_year_start": -49,
+    "plot_year_end": -49,
+    "epoch": "ancient-world",
+    "action_countries": [
+      "CN",
+      "FR",
+      "EG",
+      "IT",
+      "UNKNOWN"
+    ],
+    "action_continents": [
+      "Asia",
+      "Europe",
+      "Africa",
+      "Europe",
+      "UNKNOWN"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "empires ruling through provinces and tribute",
+        "description": "Large realms hold many peoples together by appointing governors, demanding taxes, and keeping roads and garrisons under watch. What you'll see: provincial capitals, tribute brought to rulers, officials carrying seals and orders, and distant kings reaching into local life.",
+        "icon": "🏛️"
+      },
+      {
+        "label": "roads and caravan routes linking worlds",
+        "description": "Long land routes tie together desert oases, frontier forts, and market towns, carrying goods, envoys, and soldiers between far-flung kingdoms. What you'll see: caravans, way stations, border outposts, interpreters between peoples, and news traveling with merchants and troops.",
+        "icon": "🐫"
+      }
+    ]
+  },
+  {
+    "movie_id": 556694,
+    "movie_idx": 1128,
+    "imdb_id": "tt9198364",
+    "title": "Three Thousand Years of Longing",
+    "production_year": "2022",
+    "genre": "Drama, Fantasy, Romance",
+    "plot": "A lonely scholar, on a trip to Istanbul, discovers a Djinn who offers her three wishes in exchange for his freedom.",
+    "runtime": "108 min",
+    "director": "George Miller",
+    "actors": "Tilda Swinton, Idris Elba, Erdil Yasaroglu",
+    "production_country": "Australia, United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMDFiMDE2YjUtZmU0Yi00M2NlLThhYWMtMGEzMTQ3ZjAyYjZlXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/556694.webp",
+    "imdb_rating": "6.7",
+    "imdb_votes": "71,987",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Three_Thousand_Years_of_Longing",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/556694.txt",
+    "plot_year_start": -1000,
+    "plot_year_end": 2025,
+    "epoch": "ancient-world",
+    "action_countries": [
+      "TR",
+      "GB"
+    ],
+    "action_continents": [
+      "Asia",
+      "Europe"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "court life shaped by dynastic succession",
+        "description": "Royal households are political centers where inheritance, marriage, and favor determine who will govern next. What you'll see: throne rooms, princes and ministers, palace coups, arranged matches, ritual audiences, and family disputes turning into matters of state.",
+        "icon": "👑"
+      },
+      {
+        "label": "temples and priests guiding public worship",
+        "description": "Religion is woven into civic order, with priests, sacrifices, holy festivals, and sacred law giving shape to communal life. What you'll see: temple courts, incense and offerings, feast days, processions, public prayer, and arguments over proper observance.",
+        "icon": "🛕"
+      }
+    ]
+  },
+  {
+    "movie_id": 407439,
+    "movie_idx": 1568,
+    "imdb_id": "tt5360996",
+    "title": "Mary Magdalene",
+    "production_year": "2018",
+    "genre": "Biography, Drama, History",
+    "plot": "Judea, 33 AD. Mary is a faithful young girl from the village of Magdala (close to Galilea Lake) unsure to follow the traditions and destiny reserved to the women, living only as wife and mother, in her wish to be free. After to reject a marriage proposal of Ephraim, a family friend, her brother Daniel and her father Elisha make her an exorcism in the belief that she is possessed by a demon. Trying to find a solution Elisha asks help Jesus, a healer who is earning fame between the Jews of the zone with his speeches about a kingdom of peace and love free of hate, tyranny, oppression and prosecution, to heal Mary and that finally she obeys and submits to their will. Astonished by the charisma, personality and words of Jesus, Mary decides to follow him despite the strong opposition of her family. She meets a few men who too walk with Jesus as Peter, Andrew, James, John and Judas, who have their personal interests and ideas about Jesus' words and his revolution. At the same time that Mary feels more passionate about Jesus and his vision of the world and people, Peter starts to feel a progressive resentment to her, in the belief that Mary's presence in the group weakens Jesus and his message, who each time pays more attention to her. Arriving at Jerusalem, Jesus and his apostles try to transmit the message against Roman Empire and Jews' authorities, but the events soon will turn dramatically against Jesus, as well as the confrontation between Mary and Peter about Jesus' not only will change they both, too will change the whole world.",
+    "runtime": "120 min",
+    "director": "Garth Davis",
+    "actors": "Rooney Mara, Joaquin Phoenix, Chiwetel Ejiofor",
+    "production_country": "United Kingdom, Australia, United States, Italy",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZjBkOGFlMTItNWEzMC00ZTk5LTg3YzAtYTI2MDdiN2ViZjBkXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/407439.webp",
+    "imdb_rating": "5.9",
+    "imdb_votes": "12,197",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Mary_Magdalene_(2018_film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/407439.txt",
+    "plot_year_start": 33,
+    "plot_year_end": 33,
+    "epoch": "ancient-world",
+    "action_countries": [
+      "PS"
+    ],
+    "action_continents": [
+      "Asia"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "temples and priests guiding public worship",
+        "description": "Religion is woven into civic order, with priests, sacrifices, holy festivals, and sacred law giving shape to communal life. What you'll see: temple courts, incense and offerings, feast days, processions, public prayer, and arguments over proper observance.",
+        "icon": "🛕"
+      },
+      {
+        "label": "new faiths spreading beyond old customs",
+        "description": "Ancient societies are also places of religious ferment, where fresh teachings challenge inherited rites, social rank, and established authority. What you'll see: wandering preachers, gathered followers, disputes with elders, baptisms or conversions, and households divided over belief.",
+        "icon": "📿"
+      }
+    ]
+  },
+  {
+    "movie_id": 227859,
+    "movie_idx": 2806,
+    "imdb_id": "tt3120944",
+    "title": "The Book of Daniel",
+    "production_year": "2013",
+    "genre": "Drama, History",
+    "plot": "In 605 B.C. Jerusalem was conquered by the Babylonians and many of their best young men were taken into captivity, including Daniel. Daniel was taken to Babylon to serve it. As Powerful King , Nebuchadnezzar. Daniel as an example of boldness and faithfulness to God in the most difficult circumstances had eternal impact on the people and the kings that he encountered.",
+    "runtime": "90 min",
+    "director": "Anna Zielinski",
+    "actors": "Robert Miano, Andrew Bongiorno, Lance Henriksen",
+    "production_country": "United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BODUyN2Q0N2EtYWMyYi00MDdjLTlhMWItMmMzYmU5Y2Q2M2QxXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/227859.webp",
+    "imdb_rating": "6.1",
+    "imdb_votes": "1,591",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Book_of_Daniel_(film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/227859.txt",
+    "plot_year_start": 539,
+    "plot_year_end": 605,
+    "epoch": "ancient-world",
+    "action_countries": [
+      "IQ"
+    ],
+    "action_continents": [
+      "Asia"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "temples and priests guiding public worship",
+        "description": "Religion is woven into civic order, with priests, sacrifices, holy festivals, and sacred law giving shape to communal life. What you'll see: temple courts, incense and offerings, feast days, processions, public prayer, and arguments over proper observance.",
+        "icon": "🛕"
+      },
+      {
+        "label": "rank and bondage fixing social place",
+        "description": "Birth, servitude, and legal standing strongly shape whom one may marry, command, or obey, and few can move freely between stations. What you'll see: slaves and servants at work, nobles guarded by protocol, labor imposed as duty, and shame attached to low birth.",
+        "icon": "⛓️"
+      }
+    ]
+  },
+  {
+    "movie_id": 525660,
+    "movie_idx": 2814,
+    "imdb_id": "tt7587604",
+    "title": "Dynasty Warriors",
+    "production_year": "2021",
+    "genre": "Action, Adventure, Fantasy",
+    "plot": "This movie is adapted from a video game of the same title. The story is set in the turbulent late Eastern Han Dynasty. Ambitious Dong Zhuo controls the court and the commonalty, and heroes from all over the country begin to rise.",
+    "runtime": "119 min",
+    "director": "Roy Hin Yeung Chow",
+    "actors": "Louis Koo, Kai Wang, Ray Lui",
+    "production_country": "Hong Kong, China, Japan",
+    "poster": "https://m.media-amazon.com/images/M/MV5BOTZlMWUzODItMWRkMy00MDNmLWE3ZWUtMmJhNTU5MjQ2Nzc2XkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/525660.webp",
+    "imdb_rating": "4.8",
+    "imdb_votes": "2,691",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Dynasty_Warriors_(film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/525660.txt",
+    "plot_year_start": 184,
+    "plot_year_end": 196,
+    "epoch": "ancient-world",
+    "action_countries": [
+      "CN"
+    ],
+    "action_continents": [
+      "Asia"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "kingdoms rising and falling by war",
+        "description": "Power changes hands through campaigns, sieges, shifting alliances, and rival claimants to the throne rather than settled succession alone. What you'll see: marching armies, fortified cities, war councils, banners of competing houses, and battlefields deciding the fate of states.",
+        "icon": "⚔️"
+      }
+    ]
+  },
+  {
+    "movie_id": 409582,
+    "movie_idx": 3337,
+    "imdb_id": "tt4915672",
+    "title": "7 Guardians of the Tomb",
+    "production_year": "2018",
+    "genre": "Action, Adventure, Fantasy",
+    "plot": "An innocent discovery of a well-preserved mummified Chinese Emperor from 200 B.C. unearths a two-thousand-year-old nightmare, a secret that should have remained buried.",
+    "runtime": "97 min",
+    "director": "Kimble Rendall",
+    "actors": "Bingbing Li, Kellan Lutz, Kelsey Grammer",
+    "production_country": "China, Australia, Russia, Thailand",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMWNkZTQwZjctZmUzNy00OTA3LTg3N2QtMWEwNDE1NTIxM2JjXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/409582.webp",
+    "imdb_rating": "4.4",
+    "imdb_votes": "4,422",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Guardians_of_the_Tomb",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/409582.txt",
+    "plot_year_start": 200,
+    "plot_year_end": 200,
+    "epoch": "ancient-world",
+    "action_countries": [
+      "CN",
+      "AU"
+    ],
+    "action_continents": [
+      "Asia",
+      "Oceania"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "prophecy and divine signs ordering events",
+        "description": "Dreams, omens, sacred messages, and foretold destinies are treated as real forces that rulers and commoners alike must heed. What you'll see: astrologers and holy men, stars and visions, anxious kings seeking interpretation, and decisions taken because heaven has spoken.",
+        "icon": "🔮"
+      }
+    ]
+  },
+  {
+    "movie_id": 271969,
+    "movie_idx": 3541,
+    "imdb_id": "tt2638144",
+    "title": "Ben-Hur",
+    "production_year": "2016",
+    "genre": "Action, Adventure, Drama",
+    "plot": "A Jewish nobleman, Judah Ben-Hur, and his adopted Roman brother Messala are best friends despite their different origins. Messala enlists in the Roman army and fights in the Roman Empire's wars in Germany. Ben-Hur also develops feelings for the family slave Esther although their different station in life compels him not to pursue her. But when her father Simonides seeks to marry her off to a Roman, Ben-Hur declares his love for her and takes her as his wife. Three years later, Messala returns as a decorated Roman officer. His return coincides with a rising insurrection by the Zealots, Jews who are opposed to the oppressive nature of Roman rule..",
+    "runtime": "123 min",
+    "director": "Timur Bekmambetov",
+    "actors": "Jack Huston, Toby Kebbell, Rodrigo Santoro",
+    "production_country": "United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjQ2NzYxMDQ2OV5BMl5BanBnXkFtZTgwMDk2MzczOTE@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/271969.webp",
+    "imdb_rating": "5.7",
+    "imdb_votes": "49,275",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Ben-Hur_(2016_film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/271969.txt",
+    "plot_year_start": 27,
+    "plot_year_end": 33,
+    "epoch": "ancient-world",
+    "action_countries": [
+      "IL",
+      "IT",
+      "GR",
+      "DE"
+    ],
+    "action_continents": [
+      "Asia",
+      "Europe",
+      "Europe",
+      "Europe"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "empires ruling through provinces and tribute",
+        "description": "Large realms hold many peoples together by appointing governors, demanding taxes, and keeping roads and garrisons under watch. What you'll see: provincial capitals, tribute brought to rulers, officials carrying seals and orders, and distant kings reaching into local life.",
+        "icon": "🏛️"
+      },
+      {
+        "label": "justice enforced by harsh public punishment",
+        "description": "States make their power visible through scourging, crucifixion, exile, execution, and other punishments meant to terrify as much as correct. What you'll see: prisoners in chains, guards and tribunals, executions before crowds, mines and forced labor, and mercy or release as rare exceptions.",
+        "icon": "🪓"
+      }
+    ]
+  },
+  {
+    "movie_id": 452970,
+    "movie_idx": 3916,
+    "imdb_id": "tt6470762",
+    "title": "Mazinger Z: INFINITY",
+    "production_year": "2017",
+    "genre": "Animation, Action, Sci-Fi",
+    "plot": "Ten years ago, the villainous scientist Dr. Hell led his wicked followers, known as the Underground Empire, in a struggle to destroy all of humanity. It was against these forces that the young hero Koji Kabuto fought, piloting the legendary super robot \"Mazinger Z.\" Koji's victory stopped Dr. Hell's evil plan and returned peace to the Earth. Now Koji has left the pilot seat behind and become a scientist in his own right, following in his father's and grandfather's footsteps. Yet an unexpected encounter deep under Mt. Fuji triggers an even greater threat to mankind than ever before and alters Koji's destiny forever. With humanity's fate in their hands, Koji and Mazinger Z face a choice between good and evil.",
+    "runtime": "95 min",
+    "director": "Junji Shimizu",
+    "actors": "Shôtarô Morikubo, Ai Kayano, Sumire Uesaka",
+    "production_country": "Japan",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYTkzZDViZmUtODk0OC00NWU2LTkzMjktNjEzMWFjN2JiOGIxXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/452970.webp",
+    "imdb_rating": "5.9",
+    "imdb_votes": "2,164",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Mazinger_Z:_Infinity",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/452970.txt",
+    "plot_year_start": 10,
+    "plot_year_end": 10,
+    "epoch": "ancient-world",
+    "action_countries": [
+      "JP"
+    ],
+    "action_continents": [
+      "Asia"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "temples and priests guiding public worship",
+        "description": "Religion is woven into civic order, with priests, sacrifices, holy festivals, and sacred law giving shape to communal life. What you'll see: temple courts, incense and offerings, feast days, processions, public prayer, and arguments over proper observance.",
+        "icon": "🛕"
+      }
+    ]
+  },
+  {
+    "movie_id": 685274,
+    "movie_idx": 4198,
+    "imdb_id": "tt13288678",
+    "title": "Mobile Suit Gundam: Hathaway",
+    "production_year": "2021",
+    "genre": "Animation, Action, Drama",
+    "plot": "U.C. 0105 - twelve years after the Second Neo Zeon War, the peace on Earth and its colonies is disrupted by \"Mafty\", a terrorist organization bent on preventing the Earth Federation from privatizing the Earth to the privileged. Leading Mafty is Hathaway Noa, son of celebrated Federation Captain Bright Noa and pilot of the experimental RX-105 Gundam.",
+    "runtime": "95 min",
+    "director": "Shûkô Murase",
+    "actors": "Kenshô Ono, Reina Ueda, Jun'ichi Suwabe",
+    "production_country": "Japan",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYjdmOTI5ZmQtOTBiOS00YmIwLWJjMDMtMWQ5MDk3YTQyYTI5XkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/685274.webp",
+    "imdb_rating": "6.6",
+    "imdb_votes": "2,452",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Mobile_Suit_Gundam:_Hathaway",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/685274.txt",
+    "plot_year_start": 105,
+    "plot_year_end": 105,
+    "epoch": "ancient-world",
+    "action_countries": [
+      "PH",
+      "JP"
+    ],
+    "action_continents": [
+      "Asia",
+      "Asia"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Mobile Suit Gundam Universe",
+    "categories": [
+      {
+        "label": "court life shaped by dynastic succession",
+        "description": "Royal households are political centers where inheritance, marriage, and favor determine who will govern next. What you'll see: throne rooms, princes and ministers, palace coups, arranged matches, ritual audiences, and family disputes turning into matters of state.",
+        "icon": "👑"
+      }
+    ]
+  },
+  {
+    "movie_id": 335778,
+    "movie_idx": 4245,
+    "imdb_id": "tt3231054",
+    "title": "Risen",
+    "production_year": "2016",
+    "genre": "Action, Drama, History",
+    "plot": "Follows the epic Biblical story of the Resurrection, as told through the eyes of a non-believer. Clavius, a powerful Roman Military Tribune, and his aide Lucius, are tasked with solving the mystery of what happened to Yahshua in the weeks following the crucifixion, in order to disprove the rumors of a risen Messiah and prevent an uprising in Jerusalem.",
+    "runtime": "107 min",
+    "director": "Kevin Reynolds",
+    "actors": "Joseph Fiennes, Tom Felton, Peter Firth",
+    "production_country": "United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTAzNjQ1Mzk2MjNeQTJeQWpwZ15BbWU4MDU0MDk1Mjcx._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/335778.webp",
+    "imdb_rating": "6.3",
+    "imdb_votes": "32,068",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Risen_(2016_film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/335778.txt",
+    "plot_year_start": 33,
+    "plot_year_end": 33,
+    "epoch": "ancient-world",
+    "action_countries": [
+      "IL",
+      "UNKNOWN"
+    ],
+    "action_continents": [
+      "Asia",
+      "UNKNOWN"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "justice enforced by harsh public punishment",
+        "description": "States make their power visible through scourging, crucifixion, exile, execution, and other punishments meant to terrify as much as correct. What you'll see: prisoners in chains, guards and tribunals, executions before crowds, mines and forced labor, and mercy or release as rare exceptions.",
+        "icon": "🪓"
+      },
+      {
+        "label": "empires ruling through provinces and tribute",
+        "description": "Large realms hold many peoples together by appointing governors, demanding taxes, and keeping roads and garrisons under watch. What you'll see: provincial capitals, tribute brought to rulers, officials carrying seals and orders, and distant kings reaching into local life.",
+        "icon": "🏛️"
+      }
+    ]
+  },
+  {
+    "movie_id": 11051,
+    "movie_idx": 4420,
+    "imdb_id": "tt0095497",
+    "title": "The Last Temptation of Christ",
+    "production_year": "1988",
+    "genre": "Drama",
+    "plot": "The carpenter, Jesus of Nazareth, tormented by the temptations of demons, the guilt of making crosses for the Romans, pity for men and the world, and the constant call of God, sets out to find what God wills for Him. But as His mission nears fulfillment, He must face the greatest temptation; the normal life of a good man. Based, not on the Gospels, but on Nikos Kazantzakis' novel of the same name.",
+    "runtime": "164 min",
+    "director": "Martin Scorsese",
+    "actors": "Willem Dafoe, Harvey Keitel, Paul Greco",
+    "production_country": "Canada, United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZjE2MWE2NDQtMjIzYy00OGY4LTk3YjktZTE2MWExYmEzMjM5XkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/11051.webp",
+    "imdb_rating": "7.5",
+    "imdb_votes": "66,884",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Last_Temptation_of_Christ_(film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/11051.txt",
+    "plot_year_start": 30,
+    "plot_year_end": 34,
+    "epoch": "ancient-world",
+    "action_countries": [
+      "IL",
+      "JO",
+      "EG"
+    ],
+    "action_continents": [
+      "Asia",
+      "Asia",
+      "Africa"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "temples and priests guiding public worship",
+        "description": "Religion is woven into civic order, with priests, sacrifices, holy festivals, and sacred law giving shape to communal life. What you'll see: temple courts, incense and offerings, feast days, processions, public prayer, and arguments over proper observance.",
+        "icon": "🛕"
+      },
+      {
+        "label": "empires ruling through provinces and tribute",
+        "description": "Large realms hold many peoples together by appointing governors, demanding taxes, and keeping roads and garrisons under watch. What you'll see: provincial capitals, tribute brought to rulers, officials carrying seals and orders, and distant kings reaching into local life.",
+        "icon": "🏛️"
+      }
+    ]
+  },
+  {
+    "movie_id": 45139,
+    "movie_idx": 4504,
+    "imdb_id": "tt0079368",
+    "title": "The Jesus Film",
+    "production_year": "1979",
+    "genre": "Biography, Drama, Family",
+    "plot": "The story of Jesus of Nazareth, the son of God, raised by a Jewish carpenter. Based on the gospel of Luke in the New Testament, here is the life of Jesus from the miraculous virgin birth to the calling of his disciples, public miracles and ministry; ending with his death by crucifixion at the hands of the Roman empire and resurrection on the third day.",
+    "runtime": "117 min",
+    "director": "John Krish, Peter Sykes",
+    "actors": "Brian Deacon, Rivka Neuman, Alexander Scourby",
+    "production_country": "United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMDA0YzE3MTUtODA3OC00MGQ2LWExNGEtYmI4N2IyMmM1YzJlXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/45139.webp",
+    "imdb_rating": "7.1",
+    "imdb_votes": "2,783",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Jesus_(1979_film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/45139.txt",
+    "plot_year_start": 1,
+    "plot_year_end": 33,
+    "epoch": "ancient-world",
+    "action_countries": [
+      "IL",
+      "US"
+    ],
+    "action_continents": [
+      "Asia",
+      "North America"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "temples and priests guiding public worship",
+        "description": "Religion is woven into civic order, with priests, sacrifices, holy festivals, and sacred law giving shape to communal life. What you'll see: temple courts, incense and offerings, feast days, processions, public prayer, and arguments over proper observance.",
+        "icon": "🛕"
+      },
+      {
+        "label": "justice enforced by harsh public punishment",
+        "description": "States make their power visible through scourging, crucifixion, exile, execution, and other punishments meant to terrify as much as correct. What you'll see: prisoners in chains, guards and tribunals, executions before crowds, mines and forced labor, and mercy or release as rare exceptions.",
+        "icon": "🪓"
+      }
+    ]
+  },
+  {
+    "movie_id": 32909,
+    "movie_idx": 4634,
+    "imdb_id": "tt1308138",
+    "title": "Mulan: Rise of a Warrior",
+    "production_year": "2009",
+    "genre": "Adventure, Biography, Drama",
+    "plot": "When barbarian hordes threaten her homeland, the brave and cunning Mulan disguises herself as a male soldier to swell the ranks in her aging father's stead. The warrior's remarkable courage drives her through powerful battle scenes and brutal wartime strategy. Mulan loses dear friends to the enemy's blade as she rises to become one of her country's most valuable leaders - but can she win the war before her secret is exposed?",
+    "runtime": "114 min",
+    "director": "Jingle Ma, Wei Dong",
+    "actors": "Wei Zhao, Kun Chen, Rongguang Yu",
+    "production_country": "China, United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNzVkMWVjOTQtYTdjZC00MGI5LWIzNjEtNDQ0MjhjYzQ4YTJjXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/32909.webp",
+    "imdb_rating": "6.6",
+    "imdb_votes": "7,140",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Mulan_(2009_film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/32909.txt",
+    "plot_year_start": 450,
+    "plot_year_end": 462,
+    "epoch": "ancient-world",
+    "action_countries": [
+      "CN"
+    ],
+    "action_continents": [
+      "Asia"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "kingdoms rising and falling by war",
+        "description": "Power changes hands through campaigns, sieges, shifting alliances, and rival claimants to the throne rather than settled succession alone. What you'll see: marching armies, fortified cities, war councils, banners of competing houses, and battlefields deciding the fate of states.",
+        "icon": "⚔️"
+      },
+      {
+        "label": "frontier armies holding back rival peoples",
+        "description": "Borderlands are dangerous zones where settled realms meet steppe riders, mountain warriors, or foreign legions, and military readiness is constant. What you'll see: watch posts, cavalry patrols, rough camps, winter marches, mixed frontier garrisons, and commanders bargaining with allied tribes.",
+        "icon": "🛡️"
+      }
+    ]
+  },
+  {
+    "movie_id": 79,
+    "movie_idx": 4654,
+    "imdb_id": "tt0299977",
+    "title": "Hero",
+    "production_year": "2002",
+    "genre": "Action, Adventure, Drama",
+    "plot": "Ancient China and the Qin Empire is out to conquer the six kingdoms. This makes its king a target for assassination. However, one man has single-handedly ensured the safety of the king, by killing the three most notorious assassins in the land. Treated as a hero, he is summoned for an audience with the king.",
+    "runtime": "94 min",
+    "director": "Yimou Zhang",
+    "actors": "Jet Li, Tony Leung Chiu-wai, Maggie Cheung",
+    "production_country": "China, Hong Kong",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYTlkZWVjYzQtZmI1My00MGM2LTlmZjEtNjU1M2Y1MTRkNmZjXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/79.webp",
+    "imdb_rating": "7.9",
+    "imdb_votes": "193,495",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Hero_(2002_film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/79.txt",
+    "plot_year_start": -227,
+    "plot_year_end": -227,
+    "epoch": "ancient-world",
+    "action_countries": [
+      "CN"
+    ],
+    "action_continents": [
+      "Asia"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "empires ruling through provinces and tribute",
+        "description": "Large realms hold many peoples together by appointing governors, demanding taxes, and keeping roads and garrisons under watch. What you'll see: provincial capitals, tribute brought to rulers, officials carrying seals and orders, and distant kings reaching into local life.",
+        "icon": "🏛️"
+      },
+      {
+        "label": "kingdoms rising and falling by war",
+        "description": "Power changes hands through campaigns, sieges, shifting alliances, and rival claimants to the throne rather than settled succession alone. What you'll see: marching armies, fortified cities, war councils, banners of competing houses, and battlefields deciding the fate of states.",
+        "icon": "⚔️"
+      }
+    ]
+  },
+  {
+    "movie_id": 355547,
+    "movie_idx": 5122,
+    "imdb_id": "tt4587656",
+    "title": "The Star",
+    "production_year": "2017",
+    "genre": "Animation, Adventure, Comedy",
+    "plot": "In Sony Pictures Animation's THE STAR, a small but brave donkey named Bo yearns for a life beyond his daily grind at the village mill. One day he finds the courage to break free, and finally goes on the adventure of his dreams. On his journey, he teams up with Ruth, a lovable sheep who has lost her flock and Dave, a dove with lofty aspirations. Along with three wisecracking camels and some eccentric stable animals, Bo and his new friends follow the Star and become accidental heroes in the greatest story ever told - the first Christmas.",
+    "runtime": "86 min",
+    "director": "Timothy Reckart",
+    "actors": "Steven Yeun, Keegan-Michael Key, Aidy Bryant",
+    "production_country": "United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTU4MDQ4NTM2N15BMl5BanBnXkFtZTgwNDM1NTIzMzI@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/355547.webp",
+    "imdb_rating": "6.3",
+    "imdb_votes": "10,328",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Star_(2017_film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/355547.txt",
+    "plot_year_start": -1,
+    "plot_year_end": -1,
+    "epoch": "ancient-world",
+    "action_countries": [
+      "IL"
+    ],
+    "action_continents": [
+      "Asia"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "kingdoms rising and falling by war",
+        "description": "Power changes hands through campaigns, sieges, shifting alliances, and rival claimants to the throne rather than settled succession alone. What you'll see: marching armies, fortified cities, war councils, banners of competing houses, and battlefields deciding the fate of states.",
+        "icon": "⚔️"
+      }
+    ]
+  },
+  {
+    "movie_id": 12289,
+    "movie_idx": 5201,
+    "imdb_id": "tt0425637",
+    "title": "Red Cliff",
+    "production_year": "2008",
+    "genre": "Action, Adventure, Drama",
+    "plot": "In 208 A.D., in the final days of the Han Dynasty, shrewd Prime Minster Cao Cao convinced the fickle Emperor Han the only way to unite all of China was to declare war on the kingdoms of Xu in the west and East Wu in the south. Thus began a military campaign of unprecedented scale, led by the Prime Minister, himself. Left with no other hope for survival, the kingdoms of Xu and East Wu formed an unlikely alliance. Numerous battles of strength and wit ensued, both on land and on water, eventually culminating in the battle of Red Cliff. During the battle, two thousand ships were burned, and the course of Chinese history was changed forever.",
+    "runtime": "148 min",
+    "director": "John Woo",
+    "actors": "Tony Leung Chiu-wai, Takeshi Kaneshiro, Fengyi Zhang",
+    "production_country": "China, Hong Kong, Japan, Taiwan, South Korea, United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTcyOTQ3NDA1OV5BMl5BanBnXkFtZTcwMDY3NzM4Mg@@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/12289.webp",
+    "imdb_rating": "7.3",
+    "imdb_votes": "50,219",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Red_Cliff_(film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/12289.txt",
+    "plot_year_start": 208,
+    "plot_year_end": 209,
+    "epoch": "ancient-world",
+    "action_countries": [
+      "CN"
+    ],
+    "action_continents": [
+      "Asia"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "kingdoms rising and falling by war",
+        "description": "Power changes hands through campaigns, sieges, shifting alliances, and rival claimants to the throne rather than settled succession alone. What you'll see: marching armies, fortified cities, war councils, banners of competing houses, and battlefields deciding the fate of states.",
+        "icon": "⚔️"
+      }
+    ]
+  },
+  {
+    "movie_id": 300168,
+    "movie_idx": 5723,
+    "imdb_id": "tt3672840",
+    "title": "Dragon Blade",
+    "production_year": "2015",
+    "genre": "Action, Drama, History",
+    "plot": "When corrupt Roman leader Tiberius arrives with a giant army to claim the Silk Road, Huo An and his group of trained warriors teams up with an elite legion of defected Roman soldiers led by General Lucius to maintain the delicate balance of power in the region. To protect his country and his new friends, Huo An gathers the warriors of thirty-six ethnic nations together to fight Tiberius in an incredible epic battle.",
+    "runtime": "127 min",
+    "director": "Daniel Lee",
+    "actors": "Jackie Chan, John Cusack, Adrien Brody",
+    "production_country": "China, Hong Kong",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTk0MjgxOTQ5MF5BMl5BanBnXkFtZTgwODA3NTUwNjE@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/300168.webp",
+    "imdb_rating": "5.9",
+    "imdb_votes": "22,326",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Dragon_Blade_(film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/300168.txt",
+    "plot_year_start": 160,
+    "plot_year_end": 161,
+    "epoch": "ancient-world",
+    "action_countries": [
+      "CN",
+      "IR",
+      "OM",
+      "IQ"
+    ],
+    "action_continents": [
+      "Asia",
+      "Asia",
+      "Asia",
+      "Asia"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "frontier armies holding back rival peoples",
+        "description": "Borderlands are dangerous zones where settled realms meet steppe riders, mountain warriors, or foreign legions, and military readiness is constant. What you'll see: watch posts, cavalry patrols, rough camps, winter marches, mixed frontier garrisons, and commanders bargaining with allied tribes.",
+        "icon": "🛡️"
+      },
+      {
+        "label": "empires ruling through provinces and tribute",
+        "description": "Large realms hold many peoples together by appointing governors, demanding taxes, and keeping roads and garrisons under watch. What you'll see: provincial capitals, tribute brought to rulers, officials carrying seals and orders, and distant kings reaching into local life.",
+        "icon": "🏛️"
+      }
+    ]
+  },
+  {
+    "movie_id": 483455,
+    "movie_idx": 5952,
+    "imdb_id": "tt8391976",
+    "title": "Bungo Stray Dogs: Dead Apple",
+    "production_year": "2018",
+    "genre": "Animation, Mystery",
+    "plot": "Rivalry between groups of criminals and detectives, who use their supernatural abilities to wage war for control of Yokohama, results in the 88-day long \"Dragon's Head Dispute\". Osamu Dazai and his Port Mafia ally, Chuya Nakahara, manage to escape death. Osamu bids farewell to his boss Oagi Mori and is only seen in his new place two years later. Meanwhile Atsushi Nakajima and Kyoka Izumi join the Armed Detective Agency, living boisterous yet peaceful days. But something strange is happening as Ability users around the world are successively committing suicide.",
+    "runtime": "92 min",
+    "director": "Takuya Igarashi",
+    "actors": "Brian Beacock, Ray Chase, Lucien Dodge",
+    "production_country": "Japan, South Korea",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjM5MGI1OGItNjY0NC00MGMwLWJmMzQtMTI1ZDJmNzgzZjM0XkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/483455.webp",
+    "imdb_rating": "7.3",
+    "imdb_votes": "2,567",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Bungo_Stray_Dogs:_Dead_Apple",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/483455.txt",
+    "plot_year_start": 6,
+    "plot_year_end": 6,
+    "epoch": "ancient-world",
+    "action_countries": [
+      "JP",
+      "GB"
+    ],
+    "action_continents": [
+      "Asia",
+      "Europe"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "kingdoms rising and falling by war",
+        "description": "Power changes hands through campaigns, sieges, shifting alliances, and rival claimants to the throne rather than settled succession alone. What you'll see: marching armies, fortified cities, war councils, banners of competing houses, and battlefields deciding the fate of states.",
+        "icon": "⚔️"
+      }
+    ]
+  },
+  {
+    "movie_id": 235260,
+    "movie_idx": 6168,
+    "imdb_id": "tt3210686",
+    "title": "Son of God",
+    "production_year": "2014",
+    "genre": "Biography, Drama, History",
+    "plot": "The life story of Jesus is told from his humble birth through his teachings, crucifixion and ultimate resurrection.",
+    "runtime": "138 min",
+    "director": "Christopher Spencer",
+    "actors": "Diogo Morgado, Amber Rose Revah, Greg Hicks",
+    "production_country": "United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjA3NjQ2ODYwN15BMl5BanBnXkFtZTgwNTQ0NDc2MDE@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/235260.webp",
+    "imdb_rating": "5.8",
+    "imdb_votes": "20,107",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Son_of_God_(film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/235260.txt",
+    "plot_year_start": 1,
+    "plot_year_end": 33,
+    "epoch": "ancient-world",
+    "action_countries": [
+      "IL",
+      "PS"
+    ],
+    "action_continents": [
+      "Asia",
+      "Asia"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "temples and priests guiding public worship",
+        "description": "Religion is woven into civic order, with priests, sacrifices, holy festivals, and sacred law giving shape to communal life. What you'll see: temple courts, incense and offerings, feast days, processions, public prayer, and arguments over proper observance.",
+        "icon": "🛕"
+      },
+      {
+        "label": "empires ruling through provinces and tribute",
+        "description": "Large realms hold many peoples together by appointing governors, demanding taxes, and keeping roads and garrisons under watch. What you'll see: provincial capitals, tribute brought to rulers, officials carrying seals and orders, and distant kings reaching into local life.",
+        "icon": "🏛️"
+      }
+    ]
+  },
+  {
+    "movie_id": 2447,
+    "movie_idx": 6288,
+    "imdb_id": "tt0762121",
+    "title": "The Nativity Story",
+    "production_year": "2006",
+    "genre": "Adventure, Drama, Family",
+    "plot": "A drama that focuses on the period in Mary and Joseph's life where they journeyed to Bethlehem for the birth of Jesus.",
+    "runtime": "101 min",
+    "director": "Catherine Hardwicke",
+    "actors": "Keisha Castle-Hughes, Shohreh Aghdashloo, Oscar Isaac",
+    "production_country": "United States, United Kingdom, Germany",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTc0MDM4MzM4Nl5BMl5BanBnXkFtZTcwNTczNzUzMQ@@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/2447.webp",
+    "imdb_rating": "6.8",
+    "imdb_votes": "12,726",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Nativity_Story",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/2447.txt",
+    "plot_year_start": -4,
+    "plot_year_end": -4,
+    "epoch": "ancient-world",
+    "action_countries": [
+      "IL",
+      "JO",
+      "EG"
+    ],
+    "action_continents": [
+      "Asia",
+      "Asia",
+      "Africa"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "prophecy and divine signs ordering events",
+        "description": "Dreams, omens, sacred messages, and foretold destinies are treated as real forces that rulers and commoners alike must heed. What you'll see: astrologers and holy men, stars and visions, anxious kings seeking interpretation, and decisions taken because heaven has spoken.",
+        "icon": "🔮"
+      },
+      {
+        "label": "temples and priests guiding public worship",
+        "description": "Religion is woven into civic order, with priests, sacrifices, holy festivals, and sacred law giving shape to communal life. What you'll see: temple courts, incense and offerings, feast days, processions, public prayer, and arguments over proper observance.",
+        "icon": "🛕"
+      }
+    ]
+  },
+  {
+    "movie_id": 24248,
+    "movie_idx": 6335,
+    "imdb_id": "tt0055774",
+    "title": "Barabbas",
+    "production_year": "1961",
+    "genre": "Biography, Drama, History",
+    "plot": "In times of great upheaval during Passover in early-first-century Jerusalem, the fifth governor of the Roman province of Judaea, Pontius Pilate, finds himself before a pressing dilemma. As part of a tradition, the indecisive ruler offers the agitated crowd the choice to have either Jesus of Nazareth or the murderer, Barabbas, released from Roman custody; but, instead, the people demand the release of the thief. Now, as Jesus takes Barabbas' place on the cross, an inhumane act of punishment paves the way for an arduous spiritual journey of faith, leading Barabbas to Sicily's dark sulphur mines, and the blood-soaked soil of Emperor Nero's Coliseum. Will Jesus' sacrifice set Barabbas, the slave, free?",
+    "runtime": "137 min",
+    "director": "Richard Fleischer",
+    "actors": "Anthony Quinn, Silvana Mangano, Arthur Kennedy",
+    "production_country": "Italy, United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYWJjNzdkOTctYjU2Zi00MzliLWEwZWMtNTUyOTRlYjI4ZGE0XkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/24248.webp",
+    "imdb_rating": "6.9",
+    "imdb_votes": "7,163",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Barabbas_(1961_film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/24248.txt",
+    "plot_year_start": 33,
+    "plot_year_end": 64,
+    "epoch": "ancient-world",
+    "action_countries": [
+      "IL",
+      "IT"
+    ],
+    "action_continents": [
+      "Asia",
+      "Europe"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "empires ruling through provinces and tribute",
+        "description": "Large realms hold many peoples together by appointing governors, demanding taxes, and keeping roads and garrisons under watch. What you'll see: provincial capitals, tribute brought to rulers, officials carrying seals and orders, and distant kings reaching into local life.",
+        "icon": "🏛️"
+      },
+      {
+        "label": "justice enforced by harsh public punishment",
+        "description": "States make their power visible through scourging, crucifixion, exile, execution, and other punishments meant to terrify as much as correct. What you'll see: prisoners in chains, guards and tribunals, executions before crowds, mines and forced labor, and mercy or release as rare exceptions.",
+        "icon": "🪓"
+      }
+    ]
+  },
+  {
+    "movie_id": 15384,
+    "movie_idx": 6617,
+    "imdb_id": "tt1326972",
+    "title": "Red Cliff II",
+    "production_year": "2009",
+    "genre": "Action, Adventure, Drama",
+    "plot": "In this sequel to Red Cliff, Chancellor Cao Cao convinces Emperor Xian of the Han to initiate a battle against the two Kingdoms of Shu and Wu, who have become allied forces, against all expectations. Red Cliff will be the site for the gigantic battle.",
+    "runtime": "142 min",
+    "director": "John Woo",
+    "actors": "Tony Leung Chiu-wai, Takeshi Kaneshiro, Fengyi Zhang",
+    "production_country": "China, Hong Kong, Japan, Taiwan, South Korea, United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BY2JjZDYxMjgtNjRhMi00MGIwLWI5ZjktNDhmNDY2N2MyZjRlXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/15384.webp",
+    "imdb_rating": "7.5",
+    "imdb_votes": "26,385",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Red_Cliff_(film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/15384.txt",
+    "plot_year_start": 208,
+    "plot_year_end": 208,
+    "epoch": "ancient-world",
+    "action_countries": [
+      "CN"
+    ],
+    "action_continents": [
+      "Asia"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "kingdoms rising and falling by war",
+        "description": "Power changes hands through campaigns, sieges, shifting alliances, and rival claimants to the throne rather than settled succession alone. What you'll see: marching armies, fortified cities, war councils, banners of competing houses, and battlefields deciding the fate of states.",
+        "icon": "⚔️"
+      },
+      {
+        "label": "frontier armies holding back rival peoples",
+        "description": "Borderlands are dangerous zones where settled realms meet steppe riders, mountain warriors, or foreign legions, and military readiness is constant. What you'll see: watch posts, cavalry patrols, rough camps, winter marches, mixed frontier garrisons, and commanders bargaining with allied tribes.",
+        "icon": "🛡️"
+      }
+    ]
+  },
+  {
+    "movie_id": 29996,
+    "movie_idx": 7806,
+    "imdb_id": "tt0053290",
+    "title": "Solomon and Sheba",
+    "production_year": "1959",
+    "genre": "Drama, History, Romance",
+    "plot": "Shortly before his death in ancient Israel King David has a vision from God telling him that his younger son Solomon should succeed him as king. His other son Adonijah is unhappy and vows to attain the throne. Meanwhile the Egyptian Pharoah agrees to cede a Red Sea port to the Queen of Sheba if she can find a way to destroy Solomon, whose wisdom and benevolent rule is seen as a threat to more tyrannical monarchs in the region. Sheba, Pharoah, Adonijah, the leaders of the Twelve Tribes and his own God make life difficult for Solomon who is tempted by Sheba to stray.",
+    "runtime": "141 min",
+    "director": "King Vidor",
+    "actors": "Yul Brynner, Gina Lollobrigida, George Sanders",
+    "production_country": "United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMzUzNTUyNzIyNV5BMl5BanBnXkFtZTcwMjM2NzI5NA@@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/29996.webp",
+    "imdb_rating": "6.1",
+    "imdb_votes": "3,900",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Solomon_and_Sheba",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/29996.txt",
+    "plot_year_start": -970,
+    "plot_year_end": -960,
+    "epoch": "ancient-world",
+    "action_countries": [
+      "IL",
+      "EG",
+      "FICTIONAL"
+    ],
+    "action_continents": [
+      "Asia",
+      "Africa",
+      "FICTIONAL"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "court life shaped by dynastic succession",
+        "description": "Royal households are political centers where inheritance, marriage, and favor determine who will govern next. What you'll see: throne rooms, princes and ministers, palace coups, arranged matches, ritual audiences, and family disputes turning into matters of state.",
+        "icon": "👑"
+      },
+      {
+        "label": "kingdoms rising and falling by war",
+        "description": "Power changes hands through campaigns, sieges, shifting alliances, and rival claimants to the throne rather than settled succession alone. What you'll see: marching armies, fortified cities, war councils, banners of competing houses, and battlefields deciding the fate of states.",
+        "icon": "⚔️"
+      }
+    ]
+  },
+  {
+    "movie_id": 70841,
+    "movie_idx": 7929,
+    "imdb_id": "tt0802983",
+    "title": "Doraemon the Movie: Nobita's Dinosaur",
+    "production_year": "2006",
+    "genre": "Animation, Adventure, Comedy",
+    "plot": "After bringing a fossilized egg back to life with the Time Cloth, Nobita finds himself the owner of a baby dinosaur. Everything is fine until it grows up. Nobita and friends use Doraemon's time machine to return it back to its own time.",
+    "runtime": "107 min",
+    "director": "Ayumu Watanabe, Kôzô Kusuba",
+    "actors": "Misato Fukuen, Eiichirô Funakoshi, Fumihiko Gotô",
+    "production_country": "Japan",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNmQyODE2OGQtNWE1MC00OTQ2LWE4NzAtY2M3ZTAzM2E5MzEyXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/70841.webp",
+    "imdb_rating": "7.2",
+    "imdb_votes": "1,975",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Doraemon:_Nobita%27s_Dinosaur_2006",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/70841.txt",
+    "plot_year_start": -65,
+    "plot_year_end": -65,
+    "epoch": "ancient-world",
+    "action_countries": [
+      "JP",
+      "UNKNOWN"
+    ],
+    "action_continents": [
+      "Asia",
+      "UNKNOWN"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "daily life built from fields and handcraft",
+        "description": "Most people live close to the land, depending on harvests, animals, wells, and skilled manual work rather than distant luxuries. What you'll see: village lanes, mills and fishing boats, carpenters and smiths, bread and grain stores, and travel measured by foot, mule, or cart.",
+        "icon": "🌾"
+      }
+    ]
+  },
+  {
+    "movie_id": 12545,
+    "movie_idx": 8043,
+    "imdb_id": "tt0070239",
+    "title": "Jesus Christ Superstar",
+    "production_year": "1973",
+    "genre": "Drama, History, Musical",
+    "plot": "Based on a concept album project written by Andrew Lloyd Webber and Tim Rice, and the subsequent long-running Broadway performance, this film tells the story of the final 6 days in the life of Jesus Christ through the troubled eyes of Judas Iscariot. Too often mis-labeled a musical, this film is a \"rock opera.\" There are no spoken lines, everything is sung.",
+    "runtime": "106 min",
+    "director": "Norman Jewison",
+    "actors": "Ted Neeley, Carl Anderson, Yvonne Elliman",
+    "production_country": "United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMGVlYzg0YTgtNjM1NS00M2MzLTgyM2UtNjVjOThlNDllNjhiXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/12545.webp",
+    "imdb_rating": "7.4",
+    "imdb_votes": "32,069",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Jesus_Christ_Superstar_(film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/12545.txt",
+    "plot_year_start": 1,
+    "plot_year_end": 1,
+    "epoch": "ancient-world",
+    "action_countries": [
+      "IL",
+      "PS"
+    ],
+    "action_continents": [
+      "Asia",
+      "Asia"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "temples and priests guiding public worship",
+        "description": "Religion is woven into civic order, with priests, sacrifices, holy festivals, and sacred law giving shape to communal life. What you'll see: temple courts, incense and offerings, feast days, processions, public prayer, and arguments over proper observance.",
+        "icon": "🛕"
+      },
+      {
+        "label": "empires ruling through provinces and tribute",
+        "description": "Large realms hold many peoples together by appointing governors, demanding taxes, and keeping roads and garrisons under watch. What you'll see: provincial capitals, tribute brought to rulers, officials carrying seals and orders, and distant kings reaching into local life.",
+        "icon": "🏛️"
+      }
+    ]
+  },
+  {
+    "movie_id": 115969,
+    "movie_idx": 8505,
+    "imdb_id": "tt1686865",
+    "title": "Buddha: The Great Departure",
+    "production_year": "2011",
+    "genre": "Animation, Adventure, Biography",
+    "plot": "2005 years ago in India, a boy named Siddhartha Gautama of the kingdom Shakya is born. When Siddhartha was born there was a prophecy that the boy would become a king of all the kingdoms. At that time various kingdoms were continuously raging wars with each other. When the boy attained puberty, he associated with people from the lower class like Migaila a girl who was known as a thief. Siddhartha began to have doubts about the strict class system even though he is raised in luxury as a future king. Later, the powerful kingdom of Kosala attacks the kingdom of Shakya. Both sides fight fiercely. The commander of Kosala's army is the general's son Chapra. He is thought of as the most brave soldier in the kingdom of Kosala. Chapra was actually born into slavery but hid his background. By the general's order he came all the way up into his current position. Chapra wants to make a successful career for himself and Siddhartha abondons his family's wealth to find Tao. These two opposite persons meet in the war and changes the fate of their respective kingdoms.",
+    "runtime": "111 min",
+    "director": "Kôzô Morishita",
+    "actors": "Hidetaka Yoshioka, Sayuri Yoshinaga, Tomo Adachi",
+    "production_country": "Japan",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNDNmMjJlMjgtNWYzOS00ZmQzLWE2MWQtN2MwZTljYzQ5OWJlXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/115969.webp",
+    "imdb_rating": "6.3",
+    "imdb_votes": "504",
+    "plot_year_start": -484,
+    "plot_year_end": -484,
+    "epoch": "ancient-world",
+    "action_countries": [
+      "IN"
+    ],
+    "action_continents": [
+      "Asia"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "kingdoms rising and falling by war",
+        "description": "Power changes hands through campaigns, sieges, shifting alliances, and rival claimants to the throne rather than settled succession alone. What you'll see: marching armies, fortified cities, war councils, banners of competing houses, and battlefields deciding the fate of states.",
+        "icon": "⚔️"
+      },
+      {
+        "label": "rank and bondage fixing social place",
+        "description": "Birth, servitude, and legal standing strongly shape whom one may marry, command, or obey, and few can move freely between stations. What you'll see: slaves and servants at work, nobles guarded by protocol, labor imposed as duty, and shame attached to low birth.",
+        "icon": "⛓️"
+      }
+    ],
+    "failures": {
+      "wikipedia": "no_wiki_article_found"
+    }
+  },
+  {
+    "movie_id": 631939,
+    "movie_idx": 8575,
+    "imdb_id": "tt8318284",
+    "title": "The Legion",
+    "production_year": "2020",
+    "genre": "Action, Adventure, History",
+    "plot": "Nero's reign. The invasion of Parthia has been a fiasco. Two Roman legions have been brought to a stand still in the snowy mountains of Armenia, and the men are dying slowly in the cold. The rest of the Roman army is in Syria, only two weeks march away but the mountains swarm with Parthian patrols. Noreno, a half-Roman, is entrusted the mission of crossing the mountains to ask for help. However, he might not be the best option, he's an expert runner, but he despises Rome.",
+    "runtime": "96 min",
+    "director": "Jose Magan",
+    "actors": "Lee Partridge, Mickey Rourke, Joaquim de Almeida",
+    "production_country": "Spain, United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BOGE3MjcyNzQtN2VmNS00OGVkLWE4OTMtYWFmMjY5ZGZmOWQ2XkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/631939.webp",
+    "imdb_rating": "3.2",
+    "imdb_votes": "1,182",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Legion_(film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/631939.txt",
+    "plot_year_start": 63,
+    "plot_year_end": 63,
+    "epoch": "ancient-world",
+    "action_countries": [
+      "AM",
+      "SY"
+    ],
+    "action_continents": [
+      "Asia",
+      "Asia"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "frontier armies holding back rival peoples",
+        "description": "Borderlands are dangerous zones where settled realms meet steppe riders, mountain warriors, or foreign legions, and military readiness is constant. What you'll see: watch posts, cavalry patrols, rough camps, winter marches, mixed frontier garrisons, and commanders bargaining with allied tribes.",
+        "icon": "🛡️"
+      },
+      {
+        "label": "kingdoms rising and falling by war",
+        "description": "Power changes hands through campaigns, sieges, shifting alliances, and rival claimants to the throne rather than settled succession alone. What you'll see: marching armies, fortified cities, war councils, banners of competing houses, and battlefields deciding the fate of states.",
+        "icon": "⚔️"
+      }
+    ]
+  },
+  {
+    "movie_id": 844075,
+    "movie_idx": 9239,
+    "imdb_id": "tt19757204",
+    "title": "New Gods: Yang Jian",
+    "production_year": "2022",
+    "genre": "Animation, Action, Fantasy",
+    "plot": "Fifteen hundred years after the war of gods, the heaven declined. Yang Jian, the God of Erlang, made a living by working as a catcher. One day, Yang Jian was ordered to hunt down a young man, his own nephew.",
+    "runtime": "127 min",
+    "director": "Ji Zhao",
+    "actors": "Su Ling Chan, David Chen, Alex Hom",
+    "production_country": "China",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZGYzYjc0M2MtNzkzZC00ZWUwLTk3ZmItNmFjMWRiOWExZjMyXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/844075.webp",
+    "imdb_rating": "6.6",
+    "imdb_votes": "1,173",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/New_Gods:_Yang_Jian",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/844075.txt",
+    "plot_year_start": 12,
+    "plot_year_end": 12,
+    "epoch": "ancient-world",
+    "action_countries": [
+      "CN"
+    ],
+    "action_continents": [
+      "Asia"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "prophecy and divine signs ordering events",
+        "description": "Dreams, omens, sacred messages, and foretold destinies are treated as real forces that rulers and commoners alike must heed. What you'll see: astrologers and holy men, stars and visions, anxious kings seeking interpretation, and decisions taken because heaven has spoken.",
+        "icon": "🔮"
+      }
+    ]
+  },
+  {
+    "movie_id": 36362,
+    "movie_idx": 9443,
+    "imdb_id": "tt0055047",
+    "title": "King of Kings",
+    "production_year": "1961",
+    "genre": "Biography, Drama",
+    "plot": "The story of the life of Jesus Christ from his birth in Bethlehem to his crucifixion and subsequent resurrection. Filmed on a relatively grand scale, the film includes all of the major events referred to in the New Testament; his baptism by John the Baptist; the miracles - cripples walking, blind men seeing; the fishes and the loaves; and so on. The film actually begins with the Roman invasion by Pompey in 65 B.C., the appointment of King Herod the Great by the Romans and finally the crowning of Herod Antipas after he murders his father. The revolt led by Barrabas is also included and John the Baptist's beheading as Salome's price for dancing for Herod.",
+    "runtime": "168 min",
+    "director": "Nicholas Ray",
+    "actors": "Jeffrey Hunter, Siobhan McKenna, Hurd Hatfield",
+    "production_country": "United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMGU1MWYyOTktYTk4YS00MWU3LWI4YWMtNDI3OTJkYjRlNWFlXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/36362.webp",
+    "imdb_rating": "7.0",
+    "imdb_votes": "9,717",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/King_of_Kings_(1961_film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/36362.txt",
+    "plot_year_start": -63,
+    "plot_year_end": 33,
+    "epoch": "ancient-world",
+    "action_countries": [
+      "IL",
+      "EG",
+      "GR"
+    ],
+    "action_continents": [
+      "Asia",
+      "Africa",
+      "Europe"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "temples and priests guiding public worship",
+        "description": "Religion is woven into civic order, with priests, sacrifices, holy festivals, and sacred law giving shape to communal life. What you'll see: temple courts, incense and offerings, feast days, processions, public prayer, and arguments over proper observance.",
+        "icon": "🛕"
+      },
+      {
+        "label": "empires ruling through provinces and tribute",
+        "description": "Large realms hold many peoples together by appointing governors, demanding taxes, and keeping roads and garrisons under watch. What you'll see: provincial capitals, tribute brought to rulers, officials carrying seals and orders, and distant kings reaching into local life.",
+        "icon": "🏛️"
+      }
+    ]
+  },
+  {
+    "movie_id": 644613,
+    "movie_idx": 9627,
+    "imdb_id": "tt7985648",
+    "title": "The Legend of Tomiris",
+    "production_year": "2019",
+    "genre": "Action, Drama, Fantasy",
+    "plot": "This is the story of the life of the great queen of of the steppe - legendary Tomiris. She is destined to become a skillful warrior, survive the loss of close people and unite the Scythian/Saka tribes under her authority.",
+    "runtime": "156 min",
+    "director": "Akan Satayev",
+    "actors": "Ghassan Massoud, Yerden Telemissov, Almira Tursyn",
+    "production_country": "Kazakhstan",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYzVjZDczZDMtNGI5NS00MWFiLTg0NWQtZDlkOTc5YWU0ZDE3XkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/644613.webp",
+    "imdb_rating": "6.2",
+    "imdb_votes": "43,318",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Tomiris_(film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/644613.txt",
+    "plot_year_start": -550,
+    "plot_year_end": -530,
+    "epoch": "ancient-world",
+    "action_countries": [
+      "KZ",
+      "IR"
+    ],
+    "action_continents": [
+      "Asia",
+      "Asia"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "frontier armies holding back rival peoples",
+        "description": "Borderlands are dangerous zones where settled realms meet steppe riders, mountain warriors, or foreign legions, and military readiness is constant. What you'll see: watch posts, cavalry patrols, rough camps, winter marches, mixed frontier garrisons, and commanders bargaining with allied tribes.",
+        "icon": "🛡️"
+      },
+      {
+        "label": "kingdoms rising and falling by war",
+        "description": "Power changes hands through campaigns, sieges, shifting alliances, and rival claimants to the throne rather than settled succession alone. What you'll see: marching armies, fortified cities, war councils, banners of competing houses, and battlefields deciding the fate of states.",
+        "icon": "⚔️"
+      }
+    ]
+  },
+  {
+    "movie_id": 554805,
+    "movie_idx": 9768,
+    "imdb_id": "tt9099938",
+    "title": "Kingdom",
+    "production_year": "2019",
+    "genre": "Action, History, War",
+    "plot": "Forced into slavery in ancient China two boys become like brothers. Aspiring to be free one day they train to hone their skills. The training almost pays off, but one of them is whisked away by one of the emperor's men before its completion. The dream of reuniting with his brother are dashed when the older boy returns mortally wounded only to extract a promise from his younger friend to visit a location. There has been a coup in the palace and the Emperor is bereft of his throne and supporters.",
+    "runtime": "134 min",
+    "director": "Shinsuke Satô",
+    "actors": "Kento Yamazaki, Ryô Yoshizawa, Masami Nagasawa",
+    "production_country": "Japan",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYWQyNmY4MzYtYzJmNC00ZDEwLTk4ZGEtNWZjYzA1MmM4OWEzXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/554805.webp",
+    "imdb_rating": "6.7",
+    "imdb_votes": "5,020",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Kingdom_(2019_film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/554805.txt",
+    "plot_year_start": -245,
+    "plot_year_end": -245,
+    "epoch": "ancient-world",
+    "action_countries": [
+      "CN"
+    ],
+    "action_continents": [
+      "Asia"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "kingdoms rising and falling by war",
+        "description": "Power changes hands through campaigns, sieges, shifting alliances, and rival claimants to the throne rather than settled succession alone. What you'll see: marching armies, fortified cities, war councils, banners of competing houses, and battlefields deciding the fate of states.",
+        "icon": "⚔️"
+      },
+      {
+        "label": "rank and bondage fixing social place",
+        "description": "Birth, servitude, and legal standing strongly shape whom one may marry, command, or obey, and few can move freely between stations. What you'll see: slaves and servants at work, nobles guarded by protocol, labor imposed as duty, and shame attached to low birth.",
+        "icon": "⛓️"
+      }
+    ]
+  },
+  {
+    "movie_id": 26842,
+    "movie_idx": 9924,
+    "imdb_id": "tt0074896",
+    "title": "The Message",
+    "production_year": "1976",
+    "genre": "Biography, Drama, History",
+    "plot": "In the 7th century, Mohammed, Peace Be Upon Him, is visited by Angel Gabriel who urges him to lead the people of Mecca and worship God. But they're exiled in Medina before returning to Mecca to take up arms against their oppressors and liberate their city in the name of God (Allah).",
+    "runtime": "177 min",
+    "director": "Moustapha Akkad",
+    "actors": "Anthony Quinn, Irene Papas, Michael Ansara",
+    "production_country": "Lebanon, Libya, Kuwait, Morocco, United Kingdom",
+    "poster": "https://m.media-amazon.com/images/M/MV5BODk0MDE2ZGYtYTljNS00Y2NlLWI4NTUtN2U4NTc2ODE2ZTA3XkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/26842.webp",
+    "imdb_rating": "8.1",
+    "imdb_votes": "52,706",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Message_(1976_film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/26842.txt",
+    "plot_year_start": 6,
+    "plot_year_end": 632,
+    "epoch": "ancient-world",
+    "action_countries": [
+      "SA",
+      "SA",
+      "LY",
+      "ET"
+    ],
+    "action_continents": [
+      "Asia",
+      "Asia",
+      "Africa",
+      "Africa"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "kingdoms rising and falling by war",
+        "description": "Power changes hands through campaigns, sieges, shifting alliances, and rival claimants to the throne rather than settled succession alone. What you'll see: marching armies, fortified cities, war councils, banners of competing houses, and battlefields deciding the fate of states.",
+        "icon": "⚔️"
+      },
+      {
+        "label": "prophecy and divine signs ordering events",
+        "description": "Dreams, omens, sacred messages, and foretold destinies are treated as real forces that rulers and commoners alike must heed. What you'll see: astrologers and holy men, stars and visions, anxious kings seeking interpretation, and decisions taken because heaven has spoken.",
+        "icon": "🔮"
+      }
+    ]
+  }
+]

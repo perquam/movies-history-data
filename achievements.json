@@ -1,0 +1,123 @@
+[
+  {
+    "achievement_name": "Der Führer-Palooza",
+    "description": "You've followed Uncle Adolf from beer-hall rabble-rouser to bunker-floor footnote — the rise, the reign, and the very bad Monday in 1945.",
+    "icon": "🎭",
+    "required_movies_to_solve": [613, 914, 515001, 198, 42229],
+    "title_hint": [
+      "Downfall",
+      "The Great Dictator",
+      "Jojo Rabbit",
+      "To Be or Not to Be",
+      "A Special Day"
+    ]
+  },
+  {
+    "achievement_name": "Stalingrad or Bust",
+    "description": "Certified tourist of the Eastern Front. Winter coat optional, survival not guaranteed.",
+    "icon": "❄️",
+    "required_movies_to_solve": [25237, 853, 31442, 613],
+    "title_hint": [
+      "Come and See",
+      "Enemy at the Gates",
+      "Ivan's Childhood",
+      "Downfall"
+    ]
+  },
+  {
+    "achievement_name": "Achtung, U-Boat!",
+    "description": "Sommelier of saltwater warfare — from Pearl Harbor smoke to the claustrophobic tin cans of the Atlantic.",
+    "icon": "⚓",
+    "required_movies_to_solve": [387, 516486, 11165, 3536, 11426],
+    "title_hint": [
+      "Das Boot",
+      "Greyhound",
+      "Tora! Tora! Tora!",
+      "U-571",
+      "From Here to Eternity"
+    ]
+  },
+  {
+    "achievement_name": "Chocks Away, Jerry!",
+    "description": "Licensed aerial menace. Spitfires, Messerschmitts, and Zeroes — if it has a propeller and a grudge, you've watched it.",
+    "icon": "✈️",
+    "required_movies_to_solve": [374720, 11463, 8290, 149870],
+    "title_hint": [
+      "Dunkirk",
+      "Battle of Britain",
+      "Don't Look Now... We're Being Shot At!",
+      "The Wind Rises"
+    ]
+  },
+  {
+    "achievement_name": "Omaha & Chill",
+    "description": "Certified D-Day beachcomber. You stormed Normandy, punched through the Bulge, and took a detour behind enemy lines for good measure.",
+    "icon": "🏖️",
+    "required_movies_to_solve": [857, 9289, 1654, 11046],
+    "title_hint": [
+      "Saving Private Ryan",
+      "The Longest Day",
+      "The Dirty Dozen",
+      "Where Eagles Dare"
+    ]
+  },
+  {
+    "achievement_name": "Aloha, Banzai!",
+    "description": "Pacific jungle package holiday — island-hopping the hard way, one ridge of black sand at a time.",
+    "icon": "🌴",
+    "required_movies_to_solve": [1251, 324786, 8741],
+    "title_hint": [
+      "Letters from Iwo Jima",
+      "Hacksaw Ridge",
+      "The Thin Red Line"
+    ]
+  },
+  {
+    "achievement_name": "Never Again Club",
+    "description": "You've borne witness to the Shoah on screen — stories of survival, rescue, and unbearable loss that every generation has to see.",
+    "icon": "🕯️",
+    "required_movies_to_solve": [424, 423, 637, 5925],
+    "title_hint": [
+      "Schindler's List",
+      "The Pianist",
+      "Life Is Beautiful",
+      "The Great Escape"
+    ]
+  },
+  {
+    "achievement_name": "Cracked the Code, Cracked Open a Cold One",
+    "description": "Bletchley graduate and backline saboteur. Cyphers decrypted, castles infiltrated, Nazis generally inconvenienced.",
+    "icon": "🔐",
+    "required_movies_to_solve": [205596, 16869, 11046],
+    "title_hint": [
+      "The Imitation Game",
+      "Inglourious Basterds",
+      "Where Eagles Dare"
+    ]
+  },
+  {
+    "achievement_name": "Over the Top and Into the Mud",
+    "description": "Great War enjoyer. You've blown a whistle, climbed a ladder, and watched the 20th century lose its innocence in a trench.",
+    "icon": "🪖",
+    "required_movies_to_solve": [530915, 975, 143, 49046, 57212],
+    "title_hint": [
+      "1917",
+      "Paths of Glory",
+      "All Quiet on the Western Front (1930)",
+      "All Quiet on the Western Front (2022)",
+      "War Horse"
+    ]
+  },
+  {
+    "achievement_name": "Rommel's Tan Line",
+    "description": "Desert Rat diploma — sand in your boots, sand in your tank treads, and Rommel permanently on your six.",
+    "icon": "🏜️",
+    "required_movies_to_solve": [11202, 947, 409, 369885],
+    "title_hint": [
+      "Patton",
+      "Lawrence of Arabia",
+      "The English Patient",
+      "Allied"
+    ]
+  }
+]

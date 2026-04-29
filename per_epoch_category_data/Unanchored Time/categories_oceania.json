@@ -1,0 +1,117 @@
+{
+  "epoch": "Unanchored Time",
+  "continent": "oceania",
+  "sample_size": 7,
+  "sample": [
+    {
+      "title": "Angel of Mine",
+      "years": "unknown",
+      "countries": [
+        "AU"
+      ],
+      "plot": "A woman grieving over the death of her daughter loses grip of reality when she begins to think her girl may still be alive."
+    },
+    {
+      "title": "The Rover",
+      "years": "unknown",
+      "countries": [
+        "AU"
+      ],
+      "plot": "Ten years after a global economic collapse, a cold-blooded drifter traverses the scorched Australian outback on a mission to track down the men who stole his last remaining possession - his car. When he crosses paths with a badly wounded member of the gang, he takes the vulnerable, naïve young man along as his unwitting accomplice."
+    },
+    {
+      "title": "Bad Genius",
+      "years": "unknown",
+      "countries": [
+        "AU",
+        "TH"
+      ],
+      "plot": "Lynn, a genius high school student who makes money by helping others cheat tests, receives a new task that leads her to Sydney, Australia. In order to complete the millions-Baht task, Lynn and her classmate have to finish the international STIC (SAT) exam and deliver the answers back to her friends in Thailand, before the exam takes place once again in her home country."
+    },
+    {
+      "title": "The Babadook",
+      "years": "unknown",
+      "countries": [
+        "AU"
+      ],
+      "plot": "Amelia, who lost her husband in a car crash on the way to give birth to Samuel, their only child, struggles to cope with her fate as a single mom. Samuel's constant fear of monsters and violent reaction to overcome the fear doesn't help her cause either, which makes her friends become distant. When things can not get any worse, they read a strange book in their house about the 'Babadook' monster that hides in the dark areas of their house. Even Amelia seems to feel the effect of Babadook and desperately tries in vain to destroy the book. The nightmarish experiences the two encounter form the rest of the story."
+    },
+    {
+      "title": "Adore",
+      "years": "unknown",
+      "countries": [
+        "AU"
+      ],
+      "plot": "Lil (Naomi Watts) and Roz (Robin Wright) are two lifelong friends, having grown up together as neighbors in an idyllic beach town. As adults, their sons have developed a friendship as strong as that which binds their mothers. One summer, all four are confronted by simmering emotions that have been mounting between them, and each find unexpected happiness in relationships that cross the bounds of convention."
+    },
+    {
+      "title": "The Blake Mysteries: Ghost Stories",
+      "years": "unknown",
+      "countries": [
+        "AU",
+        "GB"
+      ],
+      "plot": "Jean Blake is drawn into the investigation of several bizarre murders whose only connection seems to be a series of articles recently published in The Courier about Ballarat's most infamous..."
+    },
+    {
+      "title": "Red Christmas: Making 'Better Watch Out'",
+      "years": "unknown",
+      "countries": [
+        "AU"
+      ],
+      "plot": "Behind the scenes documentary on the making of the film Better Watch Out (2016)."
+    }
+  ],
+  "categories": [
+    {
+      "label": "vast distances ruled by the road",
+      "description": "In Australia and its neighbouring islands, towns and households are often separated by long stretches of country, so movement depends on endurance, fuel, and vehicles. What you'll see: highways cutting through empty land, long drives between settlements, roadside stops, and cars treated as necessities rather than luxuries.",
+      "icon": "🛣️"
+    },
+    {
+      "label": "coastal towns shaped by sea and sun",
+      "description": "Much settled life gathers near the shore, where climate, leisure, and neighbourly familiarity give daily life a distinctly coastal cast. What you'll see: beach houses, bright verandas, salt-worn streets, swimming, surf, and social worlds organised around the water's edge.",
+      "icon": "🏖️"
+    },
+    {
+      "label": "suburban homes hiding strain and solitude",
+      "description": "Ordinary domestic life often unfolds in detached houses where privacy is prized, but that same privacy can leave families isolated inside their troubles. What you'll see: quiet cul-de-sacs, cramped kitchens, children's bedrooms, back gardens, and tense silences behind tidy doors.",
+      "icon": "🏠"
+    },
+    {
+      "label": "school success treated as social ladder",
+      "description": "Formal education carries the promise of advancement, making exams, rankings, and school reputation powerful forces in young people's lives. What you'll see: uniforms, classrooms, coaching, test papers, anxious parents, and achievement measured through competitive scores.",
+      "icon": "🎓"
+    },
+    {
+      "label": "wealth and precarity living side by side",
+      "description": "The region can present comfort and beauty while also exposing sharp differences in who has security, who has property, and who can easily fall away from both. What you'll see: polished schools and beach homes set against shabby rooms, cash worries, casual work, and people living close to the edge.",
+      "icon": "🏚️"
+    },
+    {
+      "label": "small communities watch one another closely",
+      "description": "Whether in suburbs, beach towns, or provincial centres, social life often runs through circles where neighbours know family histories and gossip travels quickly. What you'll see: familiar faces at local gatherings, reputations that stick, scrutiny from friends and townsfolk, and private matters becoming common knowledge.",
+      "icon": "👀"
+    },
+    {
+      "label": "British inheritances lingering in public life",
+      "description": "Many institutions still bear the marks of British settlement, from law and policing to schooling, newspapers, and everyday speech. What you'll see: uniforms and formal manners, courtly procedures, local papers, inherited civic rituals, and streetscapes shaped by colonial habits.",
+      "icon": "⚖️"
+    },
+    {
+      "label": "the interior as a harsh margin",
+      "description": "Away from the coast, the inland country appears as a hard place where heat, dust, and thin settlement strip life down to bare needs. What you'll see: scorched plains, corrugated buildings, flies, scarce supplies, rough encampments, and settlements that feel temporary or half-abandoned.",
+      "icon": "🏜️"
+    },
+    {
+      "label": "old beliefs lingering inside modern rooms",
+      "description": "Even in plainly modern surroundings, older habits of superstition, haunting, and ghostly talk remain available ways of naming fear and misfortune. What you'll see: ominous children's tales, séances and spirit talk, dark corners of the house, and ordinary rooms charged with dread.",
+      "icon": "👻"
+    },
+    {
+      "label": "asia-pacific links crossing everyday Australia",
+      "description": "Australia sits within a wider region of travel, migration, study, and exchange, so nearby Asian connections can shape ordinary opportunity and ambition. What you'll see: international students, airports, exam circuits, mixed accents, cross-border money hopes, and Sydney as a regional waypoint.",
+      "icon": "✈️"
+    }
+  ]
+}

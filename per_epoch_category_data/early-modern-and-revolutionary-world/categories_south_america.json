@@ -1,0 +1,81 @@
+{
+  "epoch": "early-modern-and-revolutionary-world",
+  "continent": "south_america",
+  "sample_size": 2,
+  "sample": [
+    {
+      "title": "The Mission",
+      "years": "1750..1756",
+      "countries": [
+        "PY",
+        "BR",
+        "AR",
+        "PT",
+        "ES"
+      ],
+      "plot": "Jeremy Irons plays a Spanish Jesuit who goes into the South American wilderness to build a mission in the hope of converting the Indians of the region. Robert De Niro plays a slave hunter who is converted and joins the Jesuit in his mission. When Spain sells the colony to Portugal, they are forced to defend all they have built against the Portuguese aggressors."
+    },
+    {
+      "title": "Master and Commander: The Far Side of the World",
+      "years": "1805..1805",
+      "countries": [
+        "BR",
+        "GL",
+        "PT"
+      ],
+      "plot": "In April 1805 during the Napoleonic Wars, H.M.S. Surprise, a British frigate, is under the command of Captain Jack Aubrey. Aubrey and the Surprise's current orders are to track and capture or destroy a French privateer named Acheron. The Acheron is currently in the Atlantic off South America headed toward the Pacific in order to extend Napoleon's reach of the wars. This task will be a difficult one as Aubrey quickly learns in an initial battle with the Acheron that it is a bigger and faster ship than the Surprise, which puts the Surprise at a disadvantage. Aubrey's single-mindedness in this seemingly impossible pursuit puts him at odds with the Surprise's doctor and naturalist, Stephen Maturin, who is also Aubrey's most trusted advisor on board and closest friend. Facing other internal obstacles which have resulted in what they consider a string of bad luck, Aubrey ultimately uses Maturin's scientific exploits to figure out a way to achieve his and the ship's seemingly impossible goal."
+    }
+  ],
+  "categories": [
+    {
+      "label": "overseas empires ruling distant coasts",
+      "description": "South America sits inside rival European monarchies that govern from far away through governors, charters, and armed force rather than direct everyday presence. What you'll see: imperial flags, royal orders carried across the sea, contested harbours, and local lives altered by decisions made in Madrid, Lisbon, London, or Paris.",
+      "icon": "👑"
+    },
+    {
+      "label": "frontiers where maps lag behind power",
+      "description": "Authority is uncertain in the borderlands, where jungle, river, and open sea leave room for overlapping claims and weakly fixed boundaries. What you'll see: remote outposts, disputed territories, long voyages to reach settlements, and sudden shifts in who is said to own a place.",
+      "icon": "🗺️"
+    },
+    {
+      "label": "missions planted among indigenous peoples",
+      "description": "Catholic missions serve as both religious communities and instruments of empire, gathering native peoples into settled, supervised life under clerical rule. What you'll see: churches rising in the wilderness, bells and liturgy, teaching and labour routines, and conflicts over whether souls or subjects are being won.",
+      "icon": "⛪"
+    },
+    {
+      "label": "native communities pressed by imperial designs",
+      "description": "Indigenous peoples face conversion, displacement, raiding, and military pressure as foreign crowns and churches remake the land around them. What you'll see: villages at the edge of colonial reach, interpreters and rituals meeting uneasily, and native fighters, families, and leaders navigating outside power.",
+      "icon": "🛖"
+    },
+    {
+      "label": "the sea as empire's main road",
+      "description": "Ships, not roads, bind this world together, carrying orders, soldiers, goods, and news between South America and the wider Atlantic. What you'll see: frigates and smaller craft under sail, cramped decks and rigging, coastal approaches, and long stretches where wind and current decide the pace of events.",
+      "icon": "⛵"
+    },
+    {
+      "label": "naval war spilling into colonial waters",
+      "description": "European conflicts do not stay in Europe but spread across the ocean, turning South American waters into hunting grounds for warships and privateers. What you'll see: broadsides off remote coasts, prize-taking, lookout calls, damaged masts, and the strain of discipline aboard ships far from home.",
+      "icon": "🏴‍☠️"
+    },
+    {
+      "label": "royal treaties redrawing people's lives",
+      "description": "Dynastic bargains and diplomatic settlements can transfer whole regions from one crown to another without asking the people who live there. What you'll see: papers and proclamations outweighing local custom, officials announcing new allegiance, and communities suddenly exposed to a different language, law, and master.",
+      "icon": "📜"
+    },
+    {
+      "label": "church and crown bound together uneasily",
+      "description": "Religious authority and royal authority depend upon each other, yet their aims often diverge when profit, war, and salvation pull in different directions. What you'll see: priests beside soldiers, sacred spaces under political threat, arguments over obedience and conscience, and rulers using religion to steady possession.",
+      "icon": "🤝"
+    },
+    {
+      "label": "natural history opening new imperial knowledge",
+      "description": "South America's coasts, islands, forests, and wildlife are treated as places to be observed, named, and collected as well as ruled. What you'll see: specimen jars, sketchbooks, strange birds and beasts, scientific curiosity aboard working ships, and wonder mingled with possession.",
+      "icon": "🦜"
+    },
+    {
+      "label": "daily life shaped by hierarchy and discipline",
+      "description": "This is a world ordered by rank, from officers and clerics down to common sailors, converts, labourers, and captives, with obedience enforced as a habit of survival. What you'll see: formal commands, punishments and penance, regulated meals and prayers, uniforms and vestments, and deference built into ordinary speech and movement.",
+      "icon": "🪖"
+    }
+  ]
+}

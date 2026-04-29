@@ -1,0 +1,555 @@
+[
+  {
+    "movie_id": 1372,
+    "movie_idx": 1277,
+    "imdb_id": "tt0450259",
+    "title": "Blood Diamond",
+    "production_year": "2006",
+    "genre": "Adventure, Drama, Thriller",
+    "plot": "A story following Archer, a man tortured by his roots. With a strong survival instinct, he has made himself a key player in the business of conflict diamonds. Political unrest is rampant in Sierra Leone as people fight tooth for tooth. Upon meeting Solomon, and the beautiful Maddy, Archer's life changes forever as he is given a chance to make peace with the war around him.",
+    "runtime": "143 min",
+    "director": "Edward Zwick",
+    "actors": "Leonardo DiCaprio, Djimon Hounsou, Jennifer Connelly",
+    "production_country": "United States, Germany, United Kingdom, South Africa, India",
+    "poster": "https://m.media-amazon.com/images/M/MV5BOGYzOGI0YTUtNTAwYy00M2JhLTgyODEtMjlhZTk1Yzc5ZTBhXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/1372.webp",
+    "imdb_rating": "8.0",
+    "imdb_votes": "622,478",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Blood_Diamond",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/1372.txt",
+    "plot_year_start": 1999,
+    "plot_year_end": 1999,
+    "epoch": "the-nineties",
+    "action_countries": [
+      "SL",
+      "GB",
+      "ZA"
+    ],
+    "action_continents": [
+      "Africa",
+      "Europe",
+      "Africa"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "wealth in minerals feeding armed violence",
+        "description": "Valuable stones and other resources move through hidden trade routes that enrich fighters, smugglers, and distant buyers while villages bear the cost. What you'll see: river digging, secret deals, border traffic, weapons bought with gems, and the lure of export wealth amid wrecked countryside.",
+        "icon": "💎"
+      },
+      {
+        "label": "states weakened by militias and warlords",
+        "description": "In several countries the central state cannot fully command its territory, leaving armed factions, local strongmen, and private violence to rule daily life. What you'll see: roadblocks, gunmen in pickup trucks, ruined ministries, frightened civilians, and cities where official authority barely holds.",
+        "icon": "🔫"
+      }
+    ]
+  },
+  {
+    "movie_id": 855,
+    "movie_idx": 1319,
+    "imdb_id": "tt0265086",
+    "title": "Black Hawk Down",
+    "production_year": "2001",
+    "genre": "Action, Drama, History",
+    "plot": "Action/war drama based on the best-selling book detailing a near-disastrous mission in Somalia on October 3, 1993. On this date nearly 100 U.S. Army Rangers, commanded by Capt. Mike Steele, were dropped by helicopter deep into the capital city of Mogadishu to capture two top lieutenants of a Somali warlord. This led to a large and drawn-out firefight between the Army Rangers, US Special Forces, and hundreds of Somali gunmen, resulting in the destruction of two U.S. Black Hawk helicopters. The film focuses on the heroic efforts of various Rangers to get to the downed helicopters, centering on SSG Eversmann, leading the Ranger unit Chalk Four to the first crash site, Chief Warrant Officer Durant who was captured after being the only survivor of the second crash, as well as many others who were involved.",
+    "runtime": "144 min",
+    "director": "Ridley Scott",
+    "actors": "Josh Hartnett, Ewan McGregor, Tom Sizemore",
+    "production_country": "United States, United Kingdom",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYTM3YTQ1M2MtNDEyNC00NzRlLWFmOTgtYjBhNDg2ODNjNTU0XkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/855.webp",
+    "imdb_rating": "7.7",
+    "imdb_votes": "451,725",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Black_Hawk_Down_(film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/855.txt",
+    "plot_year_start": 1993,
+    "plot_year_end": 1993,
+    "epoch": "the-nineties",
+    "action_countries": [
+      "SO"
+    ],
+    "action_continents": [
+      "Africa"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "foreign soldiers and peacekeepers on African ground",
+        "description": "Outside powers enter African conflicts in the name of rescue, order, or peace, yet their presence is limited, uneven, and often unable to protect civilians. What you'll see: UN compounds, foreign uniforms and helicopters, evacuation convoys, satellite radios, and stark contrasts between international procedure and local chaos.",
+        "icon": "🪖"
+      },
+      {
+        "label": "states weakened by militias and warlords",
+        "description": "In several countries the central state cannot fully command its territory, leaving armed factions, local strongmen, and private violence to rule daily life. What you'll see: roadblocks, gunmen in pickup trucks, ruined ministries, frightened civilians, and cities where official authority barely holds.",
+        "icon": "🔫"
+      }
+    ]
+  },
+  {
+    "movie_id": 17654,
+    "movie_idx": 1845,
+    "imdb_id": "tt1136608",
+    "title": "District 9",
+    "production_year": "2009",
+    "genre": "Action, Sci-Fi, Thriller",
+    "plot": "In 1982, a massive star ship bearing a bedraggled alien population, nicknamed \"The Prawns,\" appeared over Johannesburg, South Africa. Twenty-eight years later, the initial welcome by the human population has faded. The refugee camp where the aliens were located has deteriorated into a militarized ghetto called District 9, where they are confined and exploited in squalor. In 2010, the munitions corporation, Multi-National United, is contracted to forcibly evict the population with operative Wikus van der Merwe in charge. In this operation, Wikus is exposed to a strange alien chemical and must rely on the help of his only two new 'Prawn' friends.",
+    "runtime": "112 min",
+    "director": "Neill Blomkamp",
+    "actors": "Sharlto Copley, David James, Jason Cope",
+    "production_country": "South Africa, United States, New Zealand, Canada",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTM4OTI1OTM5NF5BMl5BanBnXkFtZTcwMzk5MTU1Mg@@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/17654.webp",
+    "imdb_rating": "7.9",
+    "imdb_votes": "748,028",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/District_9",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/17654.txt",
+    "plot_year_start": 1982,
+    "plot_year_end": 2010,
+    "epoch": "the-nineties",
+    "action_countries": [
+      "ZA"
+    ],
+    "action_continents": [
+      "Africa"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "post-apartheid South Africa still deeply divided",
+        "description": "The formal end of apartheid does not quickly erase segregated space, unequal wealth, or mistrust between black and white South Africans. What you'll see: townships and wealthy suburbs, mixed police units and tense public institutions, guarded homes, and everyday encounters marked by the old order's shadow.",
+        "icon": "🏘️"
+      },
+      {
+        "label": "cities crowded by poverty and informal survival",
+        "description": "Rapid urban growth and uneven opportunity leave many people in sprawling districts where work is scarce and crime networks take root. What you'll see: shack settlements, overcrowded streets, minibuses and markets, gang corners, and daily hustling beside modern office blocks and hotels.",
+        "icon": "🏚️"
+      }
+    ]
+  },
+  {
+    "movie_id": 8697,
+    "movie_idx": 3029,
+    "imdb_id": "tt0127357",
+    "title": "Who Am I?",
+    "production_year": "1998",
+    "genre": "Action, Adventure, Comedy",
+    "plot": "Jackie Chan, a top secret militant soldier, crashes into the South African jungle after his mission of kidnapping three scientists (who were experimenting with a powerful mineral) has gone awry. Waking up in a village of local natives, Chan has no memory of who he is, thus being addressed as \"Who Am I\". His journey with aid from two female sidekicks to find out his identity leads him all the way to Rotterdam where he coincidentally discovers the location of the organization that kidnapped the three scientists. With no memory, Chan is thirsty for answers by any means necessary.",
+    "runtime": "108 min",
+    "director": "Benny Chan, Jackie Chan",
+    "actors": "Jackie Chan, Michelle Ferre, Mirai Yamamoto",
+    "production_country": "Hong Kong",
+    "poster": "https://m.media-amazon.com/images/M/MV5BN2E2YTJjNzgtNTk0MS00YzA1LWIxMTItNmExZDA0MDA0YzY3XkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/8697.webp",
+    "imdb_rating": "6.8",
+    "imdb_votes": "45,521",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Who_Am_I%3F_(1998_film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/8697.txt",
+    "plot_year_start": 1996,
+    "plot_year_end": 1996,
+    "epoch": "the-nineties",
+    "action_countries": [
+      "ZA",
+      "NL"
+    ],
+    "action_continents": [
+      "Africa",
+      "Europe"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "global routes linking Africa to distant markets",
+        "description": "African conflicts and livelihoods are tied to air links, ports, aid channels, luxury hotels, and buyers abroad, so local events are never wholly local. What you'll see: hotel lobbies, freight and border crossings, foreign journalists, diplomats and traders, and African landscapes folded into wider circuits of money and attention.",
+        "icon": "✈️"
+      },
+      {
+        "label": "wealth in minerals feeding armed violence",
+        "description": "Valuable stones and other resources move through hidden trade routes that enrich fighters, smugglers, and distant buyers while villages bear the cost. What you'll see: river digging, secret deals, border traffic, weapons bought with gems, and the lure of export wealth amid wrecked countryside.",
+        "icon": "💎"
+      }
+    ]
+  },
+  {
+    "movie_id": 22954,
+    "movie_idx": 4207,
+    "imdb_id": "tt1057500",
+    "title": "Invictus",
+    "production_year": "2009",
+    "genre": "Biography, Drama, History",
+    "plot": "This movie tells the inspiring true story of how Nelson Mandela (Morgan Freeman) joined forces with the Captain of South Africa's rugby team, Francois Pienaar (Matt Damon) to help unite their country. Newly-elected President Mandela knows his nation remains racially and economically divided in the wake of Apartheid. Believing he can bring his people together through the universal language of sport, Mandela rallies South Africa's rugby team as they make their run to the 1995 Rugby World Cup Championship match.",
+    "runtime": "134 min",
+    "director": "Clint Eastwood",
+    "actors": "Morgan Freeman, Matt Damon, Tony Kgoroge",
+    "production_country": "United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjAyMzExMDM1N15BMl5BanBnXkFtZTcwNTcyMTQ5Mg@@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/22954.webp",
+    "imdb_rating": "7.3",
+    "imdb_votes": "172,199",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Invictus_(film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/22954.txt",
+    "plot_year_start": 1994,
+    "plot_year_end": 1995,
+    "epoch": "the-nineties",
+    "action_countries": [
+      "ZA",
+      "TW"
+    ],
+    "action_continents": [
+      "Africa",
+      "Asia"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "post-apartheid South Africa still deeply divided",
+        "description": "The formal end of apartheid does not quickly erase segregated space, unequal wealth, or mistrust between black and white South Africans. What you'll see: townships and wealthy suburbs, mixed police units and tense public institutions, guarded homes, and everyday encounters marked by the old order's shadow.",
+        "icon": "🏘️"
+      },
+      {
+        "label": "sport and public ritual mending nations",
+        "description": "New governments use national teams, ceremonies, and shared spectacles to stitch together societies split by race, region, or recent bloodshed. What you'll see: packed stadiums, flags and anthems, official speeches, uniforms worn with pride, and tense crowds briefly imagining a common future.",
+        "icon": "🏟️"
+      }
+    ]
+  },
+  {
+    "movie_id": 205,
+    "movie_idx": 4303,
+    "imdb_id": "tt0395169",
+    "title": "Hotel Rwanda",
+    "production_year": "2004",
+    "genre": "Biography, Drama, History",
+    "plot": "1994. In Rwanda, the classification of the native population into Hutus and Tutsis, arbitrarily done by the colonial Belgians, is now ingrained within Rwandan mentality despite the Rwandan independence. Despite the Belgians having placed the Tutsis in a higher position during the Belgian rule, they have placed the majority Hutus in power after independence. Paul Rusesabagina, a Hutu married to a Tutsi, Tatiana Rusesabagina, is the House Manager of the Hotel Des Milles Collines in Kigali. The Milles Collines, owned by Sabena (the national airline of Belgium), is a four-star hotel catering primarily to wealthy white westerners. Paul, who knows how to work the system to run the hotel effectively for its guests and for Sabena, is proud that most of the Caucasians who he meets in this professional capacity treat him with respect. After a specific incident, the relative calm between the Tutsi guerrillas and government-backed Hutu militia takes a turn. Paul's thought that the native population as a whole who are not directly involved in the conflict will be protected as the UN peacekeeping forces and thus the world is watching doesn't happen as the western world largely evacuates from Rwanda and abandons the natives. Such begins what will become a genocide of the Tutsi population. Paul, who is able to get his immediate family to the hotel which is still largely seen as a place of sanctuary, will have to use the considerable skills he has used to run the hotel as well as he has instead to keep himself, his family and any others taking refuge at the hotel alive, whether they be Hutu or Tutsi. Meanwhile, Colonel Oliver, a Canadian heading the UN peacekeeping forces, and Pat Archer with the Red Cross do what they can to assist Paul and to get people to safety first to the hotel then out of the country, while field journalists, like photographer Jack Daglish, try to bring the genocide back into the global media to have the world once again care about what is going on.",
+    "runtime": "121 min",
+    "director": "Terry George",
+    "actors": "Don Cheadle, Sophie Okonedo, Joaquin Phoenix",
+    "production_country": "United States, United Kingdom, South Africa, Italy",
+    "poster": "https://m.media-amazon.com/images/M/MV5BY2FmMWRmZmQtN2IzMS00OGVmLWFmNjktMTM0YWQzODcwYTEwXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/205.webp",
+    "imdb_rating": "8.1",
+    "imdb_votes": "389,186",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Hotel_Rwanda",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/205.txt",
+    "plot_year_start": 1994,
+    "plot_year_end": 1994,
+    "epoch": "the-nineties",
+    "action_countries": [
+      "RW"
+    ],
+    "action_continents": [
+      "Africa"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "ethnic categories hardened by colonial rule",
+        "description": "Labels shaped under colonial administration continue to govern power, fear, and belonging long after independence, with deadly results when politics turns violent. What you'll see: identity checks, radio propaganda, neighbours suddenly divided, and public life organised around Hutu and Tutsi or other sharpened communal lines.",
+        "icon": "🪪"
+      },
+      {
+        "label": "foreign soldiers and peacekeepers on African ground",
+        "description": "Outside powers enter African conflicts in the name of rescue, order, or peace, yet their presence is limited, uneven, and often unable to protect civilians. What you'll see: UN compounds, foreign uniforms and helicopters, evacuation convoys, satellite radios, and stark contrasts between international procedure and local chaos.",
+        "icon": "🪖"
+      }
+    ]
+  },
+  {
+    "movie_id": 9822,
+    "movie_idx": 6418,
+    "imdb_id": "tt0120751",
+    "title": "Mighty Joe Young",
+    "production_year": "1998",
+    "genre": "Action, Adventure, Family",
+    "plot": "The baby gorilla left in her care grows up to become a hugely tall and broad specimen by the name of Joe, living in the mountains as a mostly unseen legend amongst the people who live there. Along comes eco-minded emissary Gregg O'Hara (Bill Paxton), who is from a California sanctuary, and who talks jungle girl Jill Young (Charlize Theron) into providing a safe haven for Joe at the Los Angeles facility. The transition is not without discomfort, but everything is aggravated via a conspiracy of poachers to get Joe into their own greedy hands.",
+    "runtime": "114 min",
+    "director": "Ron Underwood",
+    "actors": "Bill Paxton, Charlize Theron, Rade Serbedzija",
+    "production_country": "United States, United Kingdom",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYjViMWExYzItMjBkNS00YTFkLWFmOWItMGVmNWFjMjg3OGE2XkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/9822.webp",
+    "imdb_rating": "5.7",
+    "imdb_votes": "31,958",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Mighty_Joe_Young_(1998_film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/9822.txt",
+    "plot_year_start": 1986,
+    "plot_year_end": 1998,
+    "epoch": "the-nineties",
+    "action_countries": [
+      "UG",
+      "US",
+      "BW"
+    ],
+    "action_continents": [
+      "Africa",
+      "North America",
+      "Africa"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "wild country turned into protected spectacle",
+        "description": "Animals and open land are increasingly framed through conservation, tourism, and sanctuary rather than only through nearby communities' older use of them. What you'll see: game reserves, poachers and wardens, safari trucks, orphaned animals raised by hand, and striking plains, rivers, and bush presented as threatened treasure.",
+        "icon": "🦁"
+      },
+      {
+        "label": "wealth in minerals feeding armed violence",
+        "description": "Valuable stones and other resources move through hidden trade routes that enrich fighters, smugglers, and distant buyers while villages bear the cost. What you'll see: river digging, secret deals, border traffic, weapons bought with gems, and the lure of export wealth amid wrecked countryside.",
+        "icon": "💎"
+      }
+    ]
+  },
+  {
+    "movie_id": 185567,
+    "movie_idx": 7207,
+    "imdb_id": "tt2249221",
+    "title": "Zulu",
+    "production_year": "2013",
+    "genre": "Action, Crime, Drama",
+    "plot": "As a child, Ali Neuman narrowly escaped being murdered by Inkatha, a militant political party at war with Nelson Mandela's African National Congress. Only he and his mother survived the carnage of those years. But as with many survivors, the psychological scars remain. Today, Ali is chief of the homicide branch of the South African police in Cape Town. One of his staff is Brian Epkeen, a free-wheeling white officer whose family was originally involved in the establishment of apartheid but who works well with Neuman. Together they have to deal with crime that inevitably exists in sprawling areas of un- and under- employed people, crime exacerbated by gangs, both local and from other parts of Africa. Their job gets even more difficult when the corpses of two young women are found. A new evil has been introduced in the city and a new drug has been introduced to its residents, including both murder victims. At the chaotic crossroads where brutality and modernization collide, the echoes of apartheid still resound in the shadows of a society struggling toward reconciliation.",
+    "runtime": "110 min",
+    "director": "Jérôme Salle",
+    "actors": "Orlando Bloom, Forest Whitaker, Conrad Kemp",
+    "production_country": "France, South Africa",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjA0NjE1OTI0M15BMl5BanBnXkFtZTgwMDkyNTM3MDE@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/185567.webp",
+    "imdb_rating": "6.7",
+    "imdb_votes": "20,396",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Zulu_(2013_film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/185567.txt",
+    "plot_year_start": 1994,
+    "plot_year_end": 1994,
+    "epoch": "the-nineties",
+    "action_countries": [
+      "ZA",
+      "NA"
+    ],
+    "action_continents": [
+      "Africa",
+      "Africa"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "post-apartheid South Africa still deeply divided",
+        "description": "The formal end of apartheid does not quickly erase segregated space, unequal wealth, or mistrust between black and white South Africans. What you'll see: townships and wealthy suburbs, mixed police units and tense public institutions, guarded homes, and everyday encounters marked by the old order's shadow.",
+        "icon": "🏘️"
+      }
+    ]
+  },
+  {
+    "movie_id": 46332,
+    "movie_idx": 7403,
+    "imdb_id": "tt1588337",
+    "title": "Of Gods and Men",
+    "production_year": "2010",
+    "genre": "Drama, History",
+    "plot": "In 1996, in Algeria, eight French monks of The Monastery Notre-Dame de l'Atlas of Tibhirine have a simple life serving the poor community that was raised around the monastery. During the Algerian Civil War, they are threatened by terrorists but they decide to stay in the country and not return to France.",
+    "runtime": "122 min",
+    "director": "Xavier Beauvois",
+    "actors": "Lambert Wilson, Michael Lonsdale, Olivier Rabourdin",
+    "production_country": "France",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTI5OTE1MDU0MV5BMl5BanBnXkFtZTcwNjE3NjkzNA@@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/46332.webp",
+    "imdb_rating": "7.2",
+    "imdb_votes": "16,624",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Of_Gods_and_Men_(film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/46332.txt",
+    "plot_year_start": 1996,
+    "plot_year_end": 1996,
+    "epoch": "the-nineties",
+    "action_countries": [
+      "DZ",
+      "FR"
+    ],
+    "action_continents": [
+      "Africa",
+      "Europe"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "churches and missions as local refuge",
+        "description": "Religious houses remain woven into village and town life as places of service, moral authority, and shelter when the surrounding world grows dangerous. What you'll see: monasteries, chapels, prayer and song, food and medicine for neighbours, and sacred routines carried on under threat.",
+        "icon": "⛪"
+      }
+    ]
+  },
+  {
+    "movie_id": 19058,
+    "movie_idx": 8712,
+    "imdb_id": "tt0265086",
+    "title": "Black Hawk Down",
+    "production_year": "2001",
+    "genre": "Action, Drama, History",
+    "plot": "Action/war drama based on the best-selling book detailing a near-disastrous mission in Somalia on October 3, 1993. On this date nearly 100 U.S. Army Rangers, commanded by Capt. Mike Steele, were dropped by helicopter deep into the capital city of Mogadishu to capture two top lieutenants of a Somali warlord. This led to a large and drawn-out firefight between the Army Rangers, US Special Forces, and hundreds of Somali gunmen, resulting in the destruction of two U.S. Black Hawk helicopters. The film focuses on the heroic efforts of various Rangers to get to the downed helicopters, centering on SSG Eversmann, leading the Ranger unit Chalk Four to the first crash site, Chief Warrant Officer Durant who was captured after being the only survivor of the second crash, as well as many others who were involved.",
+    "runtime": "144 min",
+    "director": "Ridley Scott",
+    "actors": "Josh Hartnett, Ewan McGregor, Tom Sizemore",
+    "production_country": "United States, United Kingdom",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYTM3YTQ1M2MtNDEyNC00NzRlLWFmOTgtYjBhNDg2ODNjNTU0XkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/19058.webp",
+    "imdb_rating": "7.7",
+    "imdb_votes": "451,725",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Down_(film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/19058.txt",
+    "plot_year_start": 1993,
+    "plot_year_end": 1993,
+    "epoch": "the-nineties",
+    "action_countries": [
+      "SO"
+    ],
+    "action_continents": [
+      "Africa"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "foreign soldiers and peacekeepers on African ground",
+        "description": "Outside powers enter African conflicts in the name of rescue, order, or peace, yet their presence is limited, uneven, and often unable to protect civilians. What you'll see: UN compounds, foreign uniforms and helicopters, evacuation convoys, satellite radios, and stark contrasts between international procedure and local chaos.",
+        "icon": "🪖"
+      },
+      {
+        "label": "states weakened by militias and warlords",
+        "description": "In several countries the central state cannot fully command its territory, leaving armed factions, local strongmen, and private violence to rule daily life. What you'll see: roadblocks, gunmen in pickup trucks, ruined ministries, frightened civilians, and cities where official authority barely holds.",
+        "icon": "🔫"
+      }
+    ]
+  },
+  {
+    "movie_id": 50507,
+    "movie_idx": 8855,
+    "imdb_id": "tt0101864",
+    "title": "Crazy Safari",
+    "production_year": "1991",
+    "genre": "Comedy, Fantasy",
+    "plot": "Two guys, one of them a magician, are transporting an ancient Chinese vampire who can only be controlled by a series of yellow tapes and is the ancestor of the other man. On the way, their plane stalls while flying over Africa. And of all places, where do they land? That's right, in the village of the tribe of \"The Gods Must Be Crazy\".",
+    "runtime": "96 min",
+    "director": "Billy Chan",
+    "actors": "N!xau, Ching-Ying Lam, Sam Christopher Chow",
+    "production_country": "Hong Kong",
+    "poster": "https://m.media-amazon.com/images/M/MV5BM2ZmMzY5NzUtYzIyZi00NWMxLWJjNDItY2JkM2VhNzk3NDFiXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/50507.webp",
+    "imdb_rating": "5.4",
+    "imdb_votes": "1,309",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Crazy_Safari",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/50507.txt",
+    "plot_year_start": 1991,
+    "plot_year_end": 1991,
+    "epoch": "the-nineties",
+    "action_countries": [
+      "ZA",
+      "GB"
+    ],
+    "action_continents": [
+      "Africa",
+      "Europe"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "wild country turned into protected spectacle",
+        "description": "Animals and open land are increasingly framed through conservation, tourism, and sanctuary rather than only through nearby communities' older use of them. What you'll see: game reserves, poachers and wardens, safari trucks, orphaned animals raised by hand, and striking plains, rivers, and bush presented as threatened treasure.",
+        "icon": "🦁"
+      },
+      {
+        "label": "ethnic categories hardened by colonial rule",
+        "description": "Labels shaped under colonial administration continue to govern power, fear, and belonging long after independence, with deadly results when politics turns violent. What you'll see: identity checks, radio propaganda, neighbours suddenly divided, and public life organised around Hutu and Tutsi or other sharpened communal lines.",
+        "icon": "🪪"
+      }
+    ]
+  },
+  {
+    "movie_id": 15907,
+    "movie_idx": 9402,
+    "imdb_id": "tt0361715",
+    "title": "Duma",
+    "production_year": "2005",
+    "genre": "Adventure, Drama, Family",
+    "plot": "During a nightly Porsche ride with his doting rascal Xan, white South African farmer Peter finds and adopts an orphaned cheetah cub, dubbed Duma (just Swahili for cheetah). It becomes the boy's inseparable playmate, even taking it to bed. Peter made clear from the start that the cheetah should be returned to the wild before its full adulthood. But the father is stricken down with a disease just before the cheetah could be returned. Xan's mother sells the farm and moves in with a city aunt. The cheetah escapes, but finds Xan at school, where the new boy is bullied. He decides to run away to the mountains with Duma. On the way they face countless perils, which courage, Xan's intelligence and Duma's instinct overcome.",
+    "runtime": "100 min",
+    "director": "Carroll Ballard",
+    "actors": "Alex Michaeletos, Campbell Scott, Hope Davis",
+    "production_country": "United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYmIyMzU3MTgtYmNhNS00ODdhLTg4YTQtYmZhMmJkNTZhMTQwXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/15907.webp",
+    "imdb_rating": "7.1",
+    "imdb_votes": "9,074",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Duma_(2005_film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/15907.txt",
+    "plot_year_start": 1998,
+    "plot_year_end": 2000,
+    "epoch": "the-nineties",
+    "action_countries": [
+      "ZA",
+      "BW"
+    ],
+    "action_continents": [
+      "Africa",
+      "Africa"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "wild country turned into protected spectacle",
+        "description": "Animals and open land are increasingly framed through conservation, tourism, and sanctuary rather than only through nearby communities' older use of them. What you'll see: game reserves, poachers and wardens, safari trucks, orphaned animals raised by hand, and striking plains, rivers, and bush presented as threatened treasure.",
+        "icon": "🦁"
+      }
+    ]
+  },
+  {
+    "movie_id": 823855,
+    "movie_idx": 9483,
+    "imdb_id": "tt9013182",
+    "title": "I Am All Girls",
+    "production_year": "2021",
+    "genre": "Crime, Drama, Mystery",
+    "plot": "A special crimes investigator forms an unlikely bond with a serial killer to bring down a global child sex trafficking syndicate.",
+    "runtime": "107 min",
+    "director": "Donovan Marsh",
+    "actors": "Erica Wessels, Hlubi Mboya, Leshego Molokwane",
+    "production_country": "South Africa",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZTQ1NjQ5ZjktOTQxMS00YTkwLWEzYjUtNzUyNGQyZjc2YWMxXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/823855.webp",
+    "imdb_rating": "6.0",
+    "imdb_votes": "7,674",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/I_Am_All_Girls",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/823855.txt",
+    "plot_year_start": 1994,
+    "plot_year_end": 1994,
+    "epoch": "the-nineties",
+    "action_countries": [
+      "ZA",
+      "IR"
+    ],
+    "action_continents": [
+      "Africa",
+      "Asia"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "global routes linking Africa to distant markets",
+        "description": "African conflicts and livelihoods are tied to air links, ports, aid channels, luxury hotels, and buyers abroad, so local events are never wholly local. What you'll see: hotel lobbies, freight and border crossings, foreign journalists, diplomats and traders, and African landscapes folded into wider circuits of money and attention.",
+        "icon": "✈️"
+      },
+      {
+        "label": "states weakened by militias and warlords",
+        "description": "In several countries the central state cannot fully command its territory, leaving armed factions, local strongmen, and private violence to rule daily life. What you'll see: roadblocks, gunmen in pickup trucks, ruined ministries, frightened civilians, and cities where official authority barely holds.",
+        "icon": "🔫"
+      }
+    ]
+  }
+]

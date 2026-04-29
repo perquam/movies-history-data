@@ -1,0 +1,47 @@
+[
+  {
+    "movie_id": 18947,
+    "movie_idx": 5275,
+    "imdb_id": "tt1131729",
+    "title": "The Boat That Rocked",
+    "production_year": "2009",
+    "genre": "Comedy, Drama, Music",
+    "plot": "This movie is an ensemble comedy in which the romance takes place between the young people of the 1960s and pop music. It's about a band of rogue DJs that captivated Britain, playing the music that defined a generation and standing up to a government that wanted classical music, and nothing else, on the airwaves. The Count (Philip Seymour Hoffman), a big, brash, American god of the airwaves; Quentin (Bill Nighy), the boss of Radio Rock - a pirate radio station in the middle of the North Sea that's populated by an eclectic crew of rock and roll DJs; Gavin (Rhys Ifans), the greatest DJ in Britain who has just returned from his drug tour of America to reclaim his rightful position; Dave (Nick Frost), an ironic, intelligent, and cruelly funny co-broadcaster; and a fearsome British government official out for blood against the drug takers and lawbreakers of a once-great nation.",
+    "runtime": "117 min",
+    "director": "Richard Curtis",
+    "actors": "Philip Seymour Hoffman, Bill Nighy, Nick Frost",
+    "production_country": "United Kingdom, France, Germany, United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTMzMjYzMTMyM15BMl5BanBnXkFtZTcwOTk5NDA5Mg@@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/18947.webp",
+    "imdb_rating": "7.3",
+    "imdb_votes": "118,533",
+    "plot_year_start": 1966,
+    "plot_year_end": 1966,
+    "epoch": "late-cold-war-era",
+    "action_countries": [
+      "UNKNOWN",
+      "GB"
+    ],
+    "action_continents": [
+      "Atlantic Ocean",
+      "Europe"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "offshore ships slipping past national law",
+        "description": "Waters beyond the coast offer a narrow space where entrepreneurs can evade licensing and operate just outside ordinary reach. What you'll see: rusting vessels at anchor, cramped cabins turned into studios, supply runs from shore, and weather as a constant hazard.",
+        "icon": "🏴‍☠️"
+      },
+      {
+        "label": "censorship fought through moral language",
+        "description": "Efforts to curb new entertainment are often framed as a defence of decency, order, and the nation's standards rather than as naked repression. What you'll see: condemnations of vulgarity, official concern about youth behaviour, speeches about standards, and respectable opinion set against pleasure.",
+        "icon": "🛡️"
+      }
+    ],
+    "failures": {
+      "wikipedia": "no_wiki_article_found"
+    }
+  }
+]

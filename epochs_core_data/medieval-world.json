@@ -1,0 +1,75 @@
+{
+  "id": "medieval-world",
+  "label": "Medieval World",
+  "aliases": [
+    "The Middle Ages",
+    "The Dark Ages and Renaissance",
+    "Age of Feudalism and Faith",
+    "From Fall of Rome to Age of Exploration"
+  ],
+  "time_range": {
+    "start_year": 600,
+    "end_year": 1599,
+    "label": "600 to 1599"
+  },
+  "headline": "God and the sword run the world for a thousand years — and most people never leave the village where they were born.",
+  "epoch_summary": "A millennium of feudal lords, walled cities, holy wars, steppe invasions, black death, cathedral-building, empire-trading, slave routes, gunpowder, printing presses, and the slow, bloody argument over whether the soul or the crown gets the final word.",
+  "regions": [
+    {
+      "region_name": "Africa",
+      "description_of_an_epoch_in_the_region": "Gold, salt, and faith move across the Sahara on camel trains that take months. Empires like Mali and Songhai grow rich enough to shift the price of gold across the Mediterranean — Mansa Musa's pilgrimage to Mecca in 1324 crashes the Egyptian economy just by spending. Along the east coast, Swahili city-states trade ivory and iron with ships from Arabia and India. The interior stays its own world — vast, dense, mostly unrecorded by outsiders, but not empty."
+    },
+    {
+      "region_name": "Antarctica",
+      "description_of_an_epoch_in_the_region": "Nobody knows it's here. A thousand years of human civilization pass without a single footprint on this ice."
+    },
+    {
+      "region_name": "Asia",
+      "description_of_an_epoch_in_the_region": "The centre of the world, whether Europe knows it or not. China invents paper money, gunpowder, the compass, and movable type centuries before the West catches up. The Mongols tear across the continent like a wildfire, building the largest land empire in history and accidentally connecting East to West through blood and trade. In the south, Angkor rises and falls in the jungle; in Japan, samurai turn war into a code. The Ottoman Turks cap the era by taking Constantinople and locking Europe out of the old Silk Road — which panics the West into sailing the other way around the planet."
+    },
+    {
+      "region_name": "Europe",
+      "description_of_an_epoch_in_the_region": "After Rome collapses, the continent spends centuries rebuilding from mud and timber. Kings answer to the Pope, peasants answer to their lord, and nobody answers to reason. The Crusades send hundreds of thousands east to kill and die for a city most of them can't find on a map. Then the Black Death kills a third of the population and rearranges everything — suddenly labour has value because there aren't enough hands left. By the end, printing presses are running, banks are open in Florence, and painters are putting real human bodies on church walls. The medieval world doesn't end with a battle. It ends with questions."
+    },
+    {
+      "region_name": "North America",
+      "description_of_an_epoch_in_the_region": "A continent of hundreds of nations, none of them writing their histories down in ways Europeans will later recognise. The Mississippian culture builds Cahokia — a city bigger than medieval London — then abandons it. In the southwest, the Ancestral Puebloans carve cities into cliff faces and vanish. The Aztec Empire rises in Mexico with pyramids, mathematics, and human sacrifice on an industrial scale. Vikings touch the coast around 1000 and leave. The Spanish arrive at the end of this epoch and everything changes forever."
+    },
+    {
+      "region_name": "Oceania",
+      "description_of_an_epoch_in_the_region": "Polynesian navigators cross thousands of miles of open ocean using stars, currents, and the flight patterns of birds — no compass, no charts. They settle Aotearoa (New Zealand) around the 1300s, among the last habitable places on Earth to be reached by humans. In Australia, Aboriginal peoples continue tens of thousands of years of unbroken culture, untouched by the feudal convulsions happening on the other side of the planet."
+    },
+    {
+      "region_name": "South America",
+      "description_of_an_epoch_in_the_region": "The Inca build an empire across the Andes without a written language, without wheels, and without iron — just roads, runners, and knotted strings that track every grain of corn in the kingdom. Before them, Tiwanaku and Wari shape the highlands. In the lowlands, the Amazon holds civilizations that later centuries will deny ever existed. By 1500, the Inca control the largest empire in the Americas. A generation later, a handful of Spaniards with guns and smallpox will end it."
+    },
+    {
+      "region_name": "Atlantic Ocean",
+      "description_of_an_epoch_in_the_region": "For most of this millennium, the Atlantic is an edge — the place where the known world stops. Vikings cross it early and quietly. Then, at the very end, Columbus sails west and tears the curtain open. Overnight, the Atlantic goes from a wall to a highway."
+    },
+    {
+      "region_name": "Pacific Ocean",
+      "description_of_an_epoch_in_the_region": "The largest body of water on Earth, and it belongs to the Polynesians. While Europeans hug their coastlines, Pacific islanders navigate open ocean crossings that would terrify any medieval sailor. China's treasure fleets briefly dominate the western rim, then the emperor burns the ships and turns inward."
+    },
+    {
+      "region_name": "Indian Ocean",
+      "description_of_an_epoch_in_the_region": "The busiest ocean in the world for most of this era. Monsoon winds carry dhows between East Africa, Arabia, India, and Southeast Asia in a trading network that moves spices, silk, gold, slaves, and Islam across half the globe. No single power controls it — everyone profits, everyone competes."
+    },
+    {
+      "region_name": "Southern Ocean",
+      "description_of_an_epoch_in_the_region": "Roaring winds and freezing seas that no ship of this era has any reason or ability to cross. It exists only as the cold edge at the bottom of the world."
+    },
+    {
+      "region_name": "Arctic Ocean",
+      "description_of_an_epoch_in_the_region": "Inuit and other Arctic peoples live on and around it — hunting seals, reading ice, surviving winters that would kill anyone from the south in days. To Europe, it's a frozen rumour at the top of the map."
+    },
+    {
+      "region_name": "FICTIONAL",
+      "description_of_an_epoch_in_the_region": "This is the era that invented fantasy. Castles, swords, dark forests, dragons, quests, thrones — nearly every fictional medieval world borrows its furniture from this period. The settings aren't real, but the logic is: power comes from blood and land, justice comes from strength, magic stands in for the things people couldn't explain, and the road between two towns is dangerous enough to be a story in itself."
+    },
+    {
+      "region_name": "UNKNOWN",
+      "description_of_an_epoch_in_the_region": "Stone walls, firelight, horses, mud, prayer, plague, swords, crowns, and hunger. If a film feels medieval but you can't pin it to a map, it probably lives here — in the general texture of a world where life is short, God is close, and the nearest castle belongs to someone who owns you."
+    }
+  ]
+}

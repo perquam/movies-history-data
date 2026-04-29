@@ -1,0 +1,499 @@
+{
+  "epoch": "early-modern-and-revolutionary-world",
+  "continent": "europe",
+  "sample_size": 50,
+  "sample": [
+    {
+      "title": "Tulip Fever",
+      "years": "1634..1642",
+      "countries": [
+        "NL",
+        "US",
+        "AF",
+        "IN"
+      ],
+      "plot": "In seventeenth century Amsterdam, an orphaned girl Sophia is forcibly married to a rich and powerful merchant Cornelis Sandvoort - an unhappy \"arrangement\" that saves her from poverty. After her husband commissions a portrait, she begins a passionate affair with the painter Jan Van Loos, a struggling young artist. Seeking to escape the merchant's ever-reaching grasp, the lovers risk everything and enter the frenzied tulip bulb market, with the hope that the right bulb will make a fortune and buy their freedom."
+    },
+    {
+      "title": "The Three Musketeers",
+      "years": "1625..1625",
+      "countries": [
+        "FR"
+      ],
+      "plot": "The three best of the disbanded Musketeers - Athos (Kiefer Sutherland), Porthos (Oliver Platt), and Aramis (Charlie Sheen) - join a young hotheaded would-be-Musketeer, D'Artagnan (Chris O'Donnell), to stop Cardinal Richelieu's (Tim Curry's) evil plot: to form an alliance with enemy England by way of the mysterious Countess D'Winter (Rebecca De Mornay). Rochefort (Michael Wincott), the Cardinal's right-hand man, announces the official disbanding of the King's Musketeers. Three, however, refuse to throw down their swords - Athos, the fighter and drinker, Porthos, the pirate and lover, and Aramis, the priest and poet. Arriving in Paris to join the Musketeers, D'Artagnan uncovers the Cardinal's plans, and the four set out on a mission to protect King Louis (Hugh O'Conor) and France."
+    },
+    {
+      "title": "Marie Antoinette",
+      "years": "1770..1789",
+      "countries": [
+        "FR"
+      ],
+      "plot": "\"All eyes will be on you,\" says the Austrian Empress, Maria Theresa to her youngest daughter Marie Antoinette. The film, marketed for a teen audience, is an impressionistic retelling of Marie Antoinette's life as a young queen in the opulent and eccentric court at Versailles. The film focuses on Marie Antoinette, as she matures from a teenage bride to a young woman and eventual queen of France."
+    },
+    {
+      "title": "Wuthering Heights",
+      "years": "1830..1840",
+      "countries": [
+        "GB"
+      ],
+      "plot": "Heathcliff is Cathy Earnshaw's foster brother; more than that, he is her other half. When forces within and without tear them apart, Heathcliff wreaks vengeance on those he holds responsible, even into a second generation."
+    },
+    {
+      "title": "Barry Lyndon",
+      "years": "1750..1789",
+      "countries": [
+        "IE",
+        "DE",
+        "GB"
+      ],
+      "plot": "In the eighteenth century, in a small village in Ireland, Redmond Barry (Ryan O'Neal) is a young farm boy in love with his cousin Nora Brady (Gay Hamilton). When Nora gets engaged to British Captain John Quin (Leonard Rossiter), Barry challenges him to a duel of pistols. He wins and escapes to Dublin, but is robbed on the road. Without an alternative, Barry joins the British Army to fight in the Seven Years War. He deserts and is forced to join the Prussian Army, where he saves the life of his Captain and becomes his protégé and spy of Irish gambler Chevalier de Balibari (Patrick Magee). He helps Chevalier and becomes his associate until he decides to marry the wealthy Lady Lyndon (Marisa Berenson). They move to England and Barry, in his obsession of nobility, dissipates her fortune and makes a dangerous and revengeful enemy."
+    },
+    {
+      "title": "The Pirates in an Adventure with Scientists T4 Movie Special",
+      "years": "1837..1837",
+      "countries": [
+        "GB",
+        "FICTIONAL"
+      ],
+      "plot": "T4 Movie Special about The Pirates! Band of Misfits (2012)."
+    },
+    {
+      "title": "Brotherhood of the Wolf",
+      "years": "1764..1764",
+      "countries": [
+        "FR",
+        "CA",
+        "UNKNOWN"
+      ],
+      "plot": "In 1764 something was stalking the mountains of central France. A 'beast' that pounced on humans and animals with terrible ferocity. Indeed they beast became so notorious that the King of France dispatched envoys to find out what was happening and to kill the creature. By the end, the Beast of Gevaudan had killed over 100 people.To this day, no one is entirely sure what it was, a wolf? a hyena? or something supernatural? The Beast is a popular myth in France, albeit one rooted firmly in reality; somewhat surprisingly it is little known to the outside world, and perhaps incredibly it has never been made into a movie. Until now. Based on the true story of the Beast of the Gevaudan that terrorized France in the eighteenth century, the movie aims to tell first and explain afterwards. In the first part, a special envoy of the King of France, altogether biologist, explorer and philosopher, arrives in the Gevaudan region, in the mountainous central part of France. The Beast has been attacking women and children for months and nobody has been able to harm it or even take a good look at it. In the second part, our hero Chevalier de Fronsac will not only have to fight the Beast, but also ignorance, bigotry and conspiracy and will rely on two women, one an aristocrat, the other a prostitute, as well as the enigmatic Mani, an Iroquois he met in New-France (Canada)."
+    },
+    {
+      "title": "Immortal Beloved",
+      "years": "1812..1827",
+      "countries": [
+        "AT",
+        "CZ",
+        "UNKNOWN"
+      ],
+      "plot": "The life and death of the legendary Ludwig van Beethoven. Besides all the work he is known for, the composer once wrote a famous love letter to a nameless beloved, and the movie tries to find out who this beloved was--not easy, as Beethoven has had many women in his life."
+    },
+    {
+      "title": "Scrooge: A Christmas Carol",
+      "years": "1843..1843",
+      "countries": [
+        "GB"
+      ],
+      "plot": "A supernatural, time-travelling, musical adaptation of Charles Dickens's cult Christmas story."
+    },
+    {
+      "title": "Oliver!",
+      "years": "1838..1838",
+      "countries": [
+        "GB"
+      ],
+      "plot": "Musical adaptation of Charles Dickens's classic tale of an orphan who runs away from the orphanage and hooks up with a group of boys trained to be pickpockets by an elderly mentor."
+    },
+    {
+      "title": "Benedetta",
+      "years": "1600..1618",
+      "countries": [
+        "IT",
+        "FR"
+      ],
+      "plot": "17th-century Tuscany, Italy. As the sinister threat of the Plague looms over Europe, the sincerely devout eight-year-old novice, Benedetta Carlini, is brought into the Theatine Convent of the Mother of God in Pescia as a bride for Jesus Christ. Eighteen long years later, as ominous whispers of disputable miracles scandalise the cloistered sisters, a test of faith awaits deeply pious Benedetta in the shape of bruised, abused, and earthly Bartolomea: a young woman fleeing her violent father. Now, while under the vigilant eye of cynical Abbess Felicita, fleeting glimpses of the forbidden fruit invite a tentative intimacy, ungovernable desires, and intense diabolical obsessions in, and suddenly, the holy signs of faith are manifest in Sister Benedetta's body. But, few can wrestle with guilt and emerge unscathed. Is there an escape from sin when the flesh is the enemy?"
+    },
+    {
+      "title": "Wuthering Heights",
+      "years": "1800..1810",
+      "countries": [
+        "GB"
+      ],
+      "plot": "A poor boy of unknown origins is rescued from poverty and taken in by the Earnshaw family where he develops an intense relationship with his young foster sister, Cathy."
+    },
+    {
+      "title": "Jane Eyre",
+      "years": "1843..1843",
+      "countries": [
+        "GB",
+        "JM",
+        "IN"
+      ],
+      "plot": "After a bleak childhood, Jane Eyre (Mia Wasikowska) goes out into the world to become a governess. As she lives happily in her new position at Thornfield Hall, she meets the dark, cold, and abrupt master of the house, Mr. Edward Rochester (Michael Fassbender). Jane and her employer grow close in friendship and she soon finds herself falling in love with him. Happiness seems to have found Jane at last, but could Mr. Rochester's terrible secret be about to destroy it forever?"
+    },
+    {
+      "title": "The Adventures of Ichabod and Mr. Toad",
+      "years": "1790..1905",
+      "countries": [
+        "GB",
+        "US"
+      ],
+      "plot": "Two stories. The Wind in the Willows: Concise version of Kenneth Grahame's story of the same name. J. Thaddeus Toad, owner of Toad Hall, is prone to fads, such as the newfangled motor car. This desire for the very latest lands him in much trouble with the wrong crowd, and it is up to his friends, Mole, Rat and Badger to save him from himself. - The Legend of Sleepy Hollow: Retelling of Washington Irving's story set in a tiny New England town. Ichabod Crane, the new schoolmaster, falls for the town beauty, Katrina Van Tassel, and the town Bully Brom Bones decides that he is a little too successful and needs \"convincing\" that Katrina is not for him."
+    },
+    {
+      "title": "Quills",
+      "years": "1812..1813",
+      "countries": [
+        "FR"
+      ],
+      "plot": "The infamous writer, the Marquis de Sade of eighteenth century France, is imprisoned at Charenton Insane Asylum for unmentionable activities. He manages to befriend the young Abbé de Coulmier, who runs the asylum, along with a beautiful laundress named Madeline. Things go terribly wrong when the Abbe finds out that the Marquis' books are being secretly published. Emperor Napoleon contemplates sending Dr. Royer-Collard to oversee the asylum, a man famed for his torturous punishments. It could mean the end of Charenton and possibly the Marquis."
+    },
+    {
+      "title": "Caravaggio",
+      "years": "1600..1606",
+      "countries": [
+        "IT",
+        "VA",
+        "GB"
+      ],
+      "plot": "Fictionalized biopic of famed 17th century Italian painter Michelangelo Merisi de Caravaggio. As a young man, he gained the support of Cardinal Del Monte and Caravaggio proceeded to develop a new style of painting giving a more realistic view of the world in which he lived. He also begins love affairs with one of his models, Ranuccio as well as with Ranuccio's girlfriend Lena. Their relationship leads to murder and deceit."
+    },
+    {
+      "title": "The Brothers Grimm",
+      "years": "1811..1811",
+      "countries": [
+        "DE"
+      ],
+      "plot": "Widely known for their valiant acts of supernatural bravado, the bogus ghost-busters, Wilhelm and Jacob, or the Brothers Grimm, try their best to banish all sorts of evil in early-19th-century French-occupied Germany. For the right amount of money, the intrepid charlatans pretend to rid superstitious villages of its local ghouls or witches, until disturbing rumours about missing children in the small village of Marbaden start to spread like wildfire. Now--exposed by the French governor and Napoleon's general, Delatombe--the shameless duo of alleged paranormal fighters will have to prove their worth, and, for the first time in their entire career, do battle with a genuine malevolent force. However, can the utterly unprepared boys confront the real deal? Above all, can the Brothers Grimm clear their name?"
+    },
+    {
+      "title": "Burke and Hare",
+      "years": "1828..1828",
+      "countries": [
+        "GB"
+      ],
+      "plot": "Based on the true story of the famous murderers, this movie follows the hapless exploits of William Burke (Simon Pegg) and William Hare (Andy Serkis) as they fall into the highly-profitable business of providing cadavers for the medical fraternity in 19th-century Edinburgh, Scotland, then the center of medical learning. The one thing they were short of was bodies."
+    },
+    {
+      "title": "Great Expectations",
+      "years": "1812..1820",
+      "countries": [
+        "GB"
+      ],
+      "plot": "A series of events change the orphaned Pip's life forever as he eagerly abandons his humble origins to begin a new life as a gentleman."
+    },
+    {
+      "title": "Chevalier",
+      "years": "1770..1789",
+      "countries": [
+        "FR",
+        "GP"
+      ],
+      "plot": "Lonely and abandoned by her father and society, Emma, eleven years, throws herself body and soul into a lost cause."
+    },
+    {
+      "title": "Mansfield Park",
+      "years": "1806..1806",
+      "countries": [
+        "GB"
+      ],
+      "plot": "At age 10, Fanny Price is sent by her destitute mother to live with her aunt and uncle, Sir Thomas and Lady Bertram. As a child she was often made to feel that she was the poor relation but by the time she reaches 18, and in the absence of her uncle who leaves on a business trip for an extended period, she begins to enjoy herself. When Henry Crawford and his sister Mary become neighbors to the Bertrams, opportunities abound. Edmond Bertram falls in love with Mary but she wants to marry a man with money, not someone destined to life as a clergyman. Meanwhile, Fanny's love for her cousin Edmond prevents her from accepting Mr. Crawford's proposal of marriage."
+    },
+    {
+      "title": "Pride & Prejudice",
+      "years": "1790..1799",
+      "countries": [
+        "GB"
+      ],
+      "plot": "The story is based on Jane Austen's novel about five sisters - Jane (Rosamund Pike), Elizabeth (Keira Knightley), Mary (Talulah Riley), Kitty (Carey Mulligan), and Lydia Bennet (Jena Malone) - in Georgian England. Their lives are turned upside down when wealthy young Mr. Bingley (Simon Woods) and his best friend, Mr. Darcy (Matthew Macfadyen), arrive in their neighborhood."
+    },
+    {
+      "title": "The Young Victoria",
+      "years": "1836..1840",
+      "countries": [
+        "GB",
+        "BE"
+      ],
+      "plot": "Dominated by her possessive mother and her bullying consort, Conroy, since childhood, teen-aged Victoria refuses to allow them the power of acting as her regent in the last days of her uncle William IV's rule. Her German cousin Albert is encouraged to court her for solely political motives, but, following her accession at age eighteen, finds he is falling for her and is dismayed at her reliance on trusty Prime Minister Melbourne. Victoria is impressed by Albert's philanthropy, which is akin to her own desire to help her subjects. However, her loyalty to Melbourne, perceived as a self-seeker, almost causes a constitutional crisis, and it is Albert who helps restore her self-confidence. She proposes and they marry, Albert proving himself not only a devoted spouse, prepared to take an assassin's bullet for her, but also an agent of much-needed reform, finally endorsed by an admiring Melbourne."
+    },
+    {
+      "title": "Napoleon",
+      "years": "1783..1796",
+      "countries": [
+        "FR",
+        "IT",
+        "AQ"
+      ],
+      "plot": "A film about the French general's youth and early military career."
+    },
+    {
+      "title": "The Three Musketeers - Part I: D'Artagnan",
+      "years": "1625..1628",
+      "countries": [
+        "FR",
+        "GB"
+      ],
+      "plot": "Young D'Artagnan joins the King's three musketeers as they work to ensure the future of France."
+    },
+    {
+      "title": "Persuasion",
+      "years": "1814..1815",
+      "countries": [
+        "GB"
+      ],
+      "plot": "Living with her snobby family on the brink of bankruptcy, Anne Elliot is an unconforming woman with modern sensibilities. When Fredrick Wentworth the dashing one she once sent away crashes back into her life, Anne must choose between putting the past behind her or listening to her heart when it comes to second chances."
+    },
+    {
+      "title": "Sweeney Todd: The Demon Barber of Fleet Street",
+      "years": "1846..1846",
+      "countries": [
+        "GB"
+      ],
+      "plot": "In the Victorian London, the barber Benjamin Barker is married to the gorgeous Lucy and they have a lovely child, Johanna. The beauty of Lucy attracts the attention of the corrupt Judge Turpin, who falsely accuses the barber of a crime that he did not commit and abuses Lucy later after gaining custody of her. After fifteen years in exile, Benjamin returns to London under the new identity of Sweeney Todd, seeking revenge against Turpin. He meets the widow Mrs. Lovett who is the owner of a meat pie shop who tells him that Lucy swallowed arsenic many years ago, and Turpin assigned himself tutor of Johanna. He opens a barber shop above her store, initiating a crime rampage against those who made him suffer and lose his beloved family."
+    },
+    {
+      "title": "Farinelli",
+      "years": "1720..1750",
+      "countries": [
+        "ES",
+        "GB",
+        "DE",
+        "IT"
+      ],
+      "plot": "Farinelli is the artistic name of Carlo Broschi, a young singer in Handel's time. He was castrated in his childhood in order to preserve his voice. During his life he becomes a very famous opera singer, managed by his mediocre brother (Riccardo)."
+    },
+    {
+      "title": "The Reckoning",
+      "years": "1665..1665",
+      "countries": [
+        "GB"
+      ],
+      "plot": "Traumatized policeman Ben investigates a cold case obscured by a web of guilt, lies and deception. In the process, Marion, a doctor, helps him come to terms with himself and his past."
+    },
+    {
+      "title": "The Man Who Invented Christmas",
+      "years": "1843..1843",
+      "countries": [
+        "GB"
+      ],
+      "plot": "In 1843, the celebrated British novelist, Charles Dickens, is at a low point in his career with three flops behind him and his family expenses piling up at home. Determined to recover, Dickens decides to write a Christmas story and self-publish it in less than two months. As Dickens labors writing on such short notice, his estranged father and mother come to bunk with him. Still haunted by painful memories of his father ruining his childhood by his financial irresponsibility, Dickens develops a writer's block which seems to have no solution. As such, Dickens must face his personal demons epitomized through his characters, especially in his imagined conversations with Ebenezer Scrooge. Now with a looming deadline, Dickens struggles for inspiration against his frustrations and his characters' opinions in a literary challenge creating a classic tale that would define the essential soul of modern Christmas."
+    },
+    {
+      "title": "The Favourite",
+      "years": "1705..1705",
+      "countries": [
+        "GB"
+      ],
+      "plot": "Early 18th century. England is at war with the French. Nevertheless, duck racing and pineapple eating are thriving. A frail Queen Anne (Olivia Colman) occupies the throne and her close friend Lady Sarah (Rachel Weisz) governs the country in her stead while tending to Anne's ill health and mercurial temper. When a new servant Abigail (Emma Stone) arrives, her charm endears her to Sarah. Sarah takes Abigail under her wing and Abigail sees a chance at a return to her aristocratic roots. As the politics of war become quite time consuming for Sarah, Abigail steps into the breach to fill in as the Queen's companion. Their burgeoning friendship gives her a chance to fulfill her ambitions and she will not let woman, man, politics or rabbit stand in her way."
+    },
+    {
+      "title": "Wuthering Heights",
+      "years": "1840..1840",
+      "countries": [
+        "GB"
+      ],
+      "plot": "The story of unfortunate lovers Cathy (Merle Oberon) and Heathcliff (Sir Laurence Olivier) who, despite a deep affection for one another, are forced by circumstance and prejudice to live their lives apart. Heathcliff and Cathy first meet as children when her father, Mr. Earnshaw (Cecil Kellaway) brings the abandoned boy to live with them. When the old man dies several years later, Cathy's brother, Hindley (Hugh Williams), now the master of the estate, turns Heathcliff out, forcing him to live with the servants and working as a stable boy. The barrier of class comes between them, and she eventually marries a rich neighbor, Edgar Linton (David Niven), at which point, Heathcliff disappears. He returns several years later, now a rich man, but little can be done."
+    },
+    {
+      "title": "Oliver Twist",
+      "years": "1830..1830",
+      "countries": [
+        "GB"
+      ],
+      "plot": "The immortal characters of Charles Dickens' classic novel, Oliver Twist...A penniless orphan in 17th century London - Poor but honest Oliver is fleeing the cruelty of the workhouse when he's forced in a band of young thieves headed by the notorious Fagin and the evil Bill Sikes. But when the greedy cutthroats threaten Oliver's only chance for happiness, the gentle-hearted boy must summon the courage to fight for his freedom and future."
+    },
+    {
+      "title": "The Man in the Iron Mask",
+      "years": "1662..1662",
+      "countries": [
+        "FR"
+      ],
+      "plot": "Paris is starving, but the King of France is more interested in money and bedding women. When a young soldier dies for the sake of a shag, Aramis, Athos and Porthos band together with a plan to replace the king. Unknown to many, there is a 2nd king, a twin, hidden at birth, then imprisoned for 6 years behind an iron mask. All that remains now is D'Artagnan, will he stand against his long time friends, or do what is best for his country?"
+    },
+    {
+      "title": "Lost Illusions",
+      "years": "1820..1820",
+      "countries": [
+        "FR"
+      ],
+      "plot": "Lucien de Rubempré, a young, lower-class poet, leaves his family's printing house for Paris. Soon, he learns the dark side of the arts business as he tries to stay true to his dreams."
+    },
+    {
+      "title": "Children of Paradise",
+      "years": "1827..1834",
+      "countries": [
+        "FR"
+      ],
+      "plot": "Strolling indolently around the 1830s vibrant Parisian avenue called the Boulevard du Crime, the graceful and elusive courtesan, Garance, finds herself wrongfully accused of pickpocketing. But, amid a sea of jugglers, sideshow performers, streetwalkers, and crooks, the silently eloquent mime, Baptiste, comes to her rescue, only to hopelessly fall for her. And just like that, love's sweet torture befalls the delicate pantomimist, as the insufferable burden of knowing that the object of his desire can never belong to anyone, will heartlessly haunt him for years to come. Many have tried to seize her heart--the flamboyant thespian, Frédérick Lemaître; the criminal dandy, Pierre-François Lacenaire, and the imperious but loveless Count, Édouard de Montray--however, Garance, after so many barren years, now seems to need only one man. In the end, trusting a frail and modest rose is beautiful but cruel. Is there anyone who can accept the naked truth of an unrequited love?"
+    },
+    {
+      "title": "Emma.",
+      "years": "1815..1815",
+      "countries": [
+        "GB"
+      ],
+      "plot": "Jane Austen's beloved comedy about finding your equal and earning your happy ending, is reimagined in this. Handsome, clever, and rich, Emma Woodhouse is a restless queen bee without rivals in her sleepy little town. In this glittering satire of social class and the pain of growing up, Emma must adventure through misguided matches and romantic missteps to find the love that has been there all along."
+    },
+    {
+      "title": "A Christmas Carol",
+      "years": "1836..1843",
+      "countries": [
+        "GB"
+      ],
+      "plot": "Miser Ebenezer Scrooge is awakened on Christmas Eve by spirits who reveal to him his own miserable existence, what opportunities he wasted in his youth, his current cruelties, and the dire fate that awaits him if he does not change his ways. Scrooge is faced with his own story of growing bitterness and meanness, and must decide what his own future will hold: death or redemption."
+    },
+    {
+      "title": "My Cousin Rachel",
+      "years": "1830..1835",
+      "countries": [
+        "GB",
+        "IT"
+      ],
+      "plot": "Philip, an orphan, was taken in and brought up by his cousin Ambrose, a Devon landowner he loves like a father. At a time, Ambrose, who has been advised by his physician a warmer climate, leaves for Tuscany. There he meets and marry Rachel, a half-Italian cousin of his. After an idyllic outset, the situation deteriorates. Shortly before his death, Ambrose manages to alert Philip: his wife is killing him slowly. Willing to sort out the truth, Philip goes to Ambrose's place but he does not find Rachel, who has gone away. Instead he meets Rainaldi, her friend and lawyer, who does not inspire him with confidence. He returns to his estate, persuaded that Rachel is evil and is the direct cause of Ambrose's death. Some time later, Rachel announces her coming. Determined to welcome her coolly, he is stunned to discover a woman not only beautiful but elegant, intelligent and sensitive. Instead of strangling her like he said he would, he falls in love. Madly."
+    },
+    {
+      "title": "Effie Gray",
+      "years": "1840..1845",
+      "countries": [
+        "GB",
+        "IT"
+      ],
+      "plot": "Based on the real-life scandal that shocked Victorian-era England, this movie tells the story of Euphemia \"Effie\" Gray (Dakota Fanning). At nineteen, she married the prominent art historian and critic John Ruskin (Greg Wise), but Ruskin refused to consummate their marriage. Lonely and frustrated, Effie is drawn to pre-Raphaelite painter John Everett Millais (Tom Sturridge), and finds a friend and champion in Lady Elizabeth Eastlake (Dame Emma Thompson). After five years trapped in a loveless marriage, Effie will defy the rules of Victorian society."
+    },
+    {
+      "title": "The Personal History of David Copperfield",
+      "years": "1840..1849",
+      "countries": [
+        "GB"
+      ],
+      "plot": "A fresh and distinctive take on Charles Dickens' semi-autobiographical masterpiece, The Personal History of David Copperfield, set in the 1840s, chronicles the life of its iconic title character as he navigates a chaotic world to find his elusive place within it. From his unhappy childhood to the discovery of his gift as a storyteller and writer, David's journey is by turns hilarious and tragic, but always full of life, color and humanity."
+    },
+    {
+      "title": "The King's Daughter",
+      "years": "1685..1685",
+      "countries": [
+        "FR",
+        "FICTIONAL"
+      ],
+      "plot": "King Louis XIV's quest for immortality leads him to capture and steal a mermaid's life force, a move that is further complicated by his illegitimate daughter's discovery of the creature."
+    },
+    {
+      "title": "Mary Shelley",
+      "years": "1814..1818",
+      "countries": [
+        "GB",
+        "US",
+        "CH"
+      ],
+      "plot": "In 1814, Regency-era London, Mary Wollstonecraft-Godwin is a 16 years old aspiring writer who works in the bookshop of her renowned father writer William Godwin, married in second terms after the passing of his first wife, philosopher Mary Wollstonecraft, with the too married by second time Mary Jane Clairmont, where Mary Jane's daughter of her first marriage Claire turns in a close and lovely stepsister for Mary. When Mary and Claire travel at the house of one of William's friends in Scotland, Mary meets the 21 years old poet Percy Bysshe Shelley, rising instantly a love interest between them. Returning to London little time later, Mary unexpectedly meets Percy again when he appears at her house in order to ask William to take him on as an apprentice. Fascinated by Percy, Mary begins a bohemian and torrid relationship with him despite the opposition of her father and her stepmother, especially after they discover that Percy is married with a little daughter whom he supports but he loves no longer. Determined to be free and live on her own terms, Mary flees with Percy to live together accompanied by Claire, who wants to get far from her abusive mother. Their initial happiness turns to tragedy due to the debts and poverty, in addition to the terrible loss of Mary and Percy's daughter, who dies only a few months after to born. Broken by suffering and pain, as well as a season living with the rich, eccentric and hedonist Lord Byron and doctor John Polidori, Mary turns into a shadowy being, becoming more and more obsessed with the idea of resurrecting the dead, while Claire lives a stormy and painful romance with the own Byron. All these events will lead Mary, motivated by a Lord Byron's bet about who can write the scariest horror novel, to find her own voice and exorcise her innermost demons by writing \"Frankenstein; or The Modern Prometheus\". But when prejudices of these times cause the novel to be attributed to Percy Shelley, it forces Mary to fight by claiming the novel as her own to prove that a woman can be the writer as she is."
+    },
+    {
+      "title": "Sense and Sensibility",
+      "years": "1800..1800",
+      "countries": [
+        "GB"
+      ],
+      "plot": "When Mr. Dashwood (Tom Wilkinson) dies, he must leave the bulk of his estate to the son by his first marriage, which leaves his second wife and their three daughters Elinor (Dame Emma Thompson), Marianne (Kate Winslet), and Margaret (Emilie François), in straitened circumstances. They are taken in by a kindly cousin, but their lack of fortune affects the marriageability of practical Elinor and romantic Marianne. When Elinor forms an attachment for the wealthy Edward Ferrars (Hugh Grant), his family disapproves and separates them. And though Mrs. Jennings (Elizabeth Spriggs) tries to match the worthy (and rich) Colonel Brandon (Alan Rickman) to her, Marianne finds the dashing and fiery John Willoughby (Greg Wise) more to her taste. Both relationships are sorely tried."
+    },
+    {
+      "title": "Persuasion",
+      "years": "1816..1816",
+      "countries": [
+        "GB"
+      ],
+      "plot": "Royal Navy captain Wentworth was haughtily turned down eight years ago as suitor of pompous baronet Sir Walter Elliot's daughter Anne, despite true love. Now he visits their former seaside country estate, rented by his brother-in-law, admiral Croft, so the financially stressed baronet can afford a fashionable, cheaper residence in trendy Bath. First the former lovers meet again on the estate, where they feel vibes again, but neither dares admit them until it seems too late. Yet the truth becomes clear, both have moved, but meet again in Bath."
+    },
+    {
+      "title": "The Count of Monte Cristo",
+      "years": "1815..1820",
+      "countries": [
+        "FR",
+        "IT"
+      ],
+      "plot": "'The Count of Monte Cristo' is an adaptation of the Alexander Dumas tale by the same name. Dantes, a sailor who is falsely accused of treason by his best friend Fernand, who wants Dantes' girlfriend Mercedes for himself. Dantes is imprisoned on the island prison of Chateau d'If for 13 years, where he plots revenge against those who betrayed him. With the help of another prisoner, he escapes the island and proceeds to transform himself into the wealthy Count of Monte Cristo as part of his plan to exact revenge."
+    },
+    {
+      "title": "Love & Friendship",
+      "years": "1790..1790",
+      "countries": [
+        "GB"
+      ],
+      "plot": "Set in the 1790s, Love and Friendship centers on beautiful widow Lady Susan Vernon, who has come to the estate of her in-laws to wait out colorful rumors about her dalliances circulating through polite society. Whilst there, she decides to secure a husband for herself and her rather reluctant debutante daughter, Frederica."
+    },
+    {
+      "title": "Jeanne du Barry",
+      "years": "1743..1793",
+      "countries": [
+        "FR"
+      ],
+      "plot": "Jeanne Vaubernier, a young working-class woman hungry for culture and pleasure, uses her intelligence and allure to climb the rungs of the social ladder one by one until she meets and begins a scandalous relationship with King Lou..."
+    },
+    {
+      "title": "Oliver Twist",
+      "years": "1830..1830",
+      "countries": [
+        "GB"
+      ],
+      "plot": "In the Nineteenth Century, orphan Oliver Twist is sent from the orphanage to a workhouse, where the children are mistreated and barely fed. He moves to the house of an undertaker, but after an unfair severe spank, he starts a seven day runaway to London. He arrives exhausted and starving, and is soon welcomed in a gang of pickpockets lead by the old crook Fagin. When he is mistakenly taken as a thief, the wealthy victim Mr. Brownlow brings Oliver to his home and shelters him. But Fagin and the dangerous Bill Sykes decide to kidnap Oliver to burglarize Mr. Brownlow's fancy house."
+    },
+    {
+      "title": "Cyrano de Bergerac",
+      "years": "1640..1654",
+      "countries": [
+        "FR"
+      ],
+      "plot": "A dashing officer of the guard and romantic poet, Cyrano de Bergerac is in love with his cousin Roxane without her knowing. His one curse in his life, he feels, is his large nose and although it may have been a forming influence in his rapier-sharp wit, he believes that Roxane will reject him. He resorts to writing letters to her on behalf of one of his cadets, Christian, who is also in love with Roxane but just doesn't know how to tell her. She falls for the poetic charm of the letters but believes that they were written by Christian."
+    }
+  ],
+  "categories": [
+    {
+      "label": "courts glittering under absolute monarchs",
+      "description": "Royal power is gathered around the person of the monarch, and access at court can matter as much as formal office. What you'll see: Versailles chambers, levees and presentations, titled favorites, liveried servants, and noble households bent around ceremony.",
+      "icon": "👑"
+    },
+    {
+      "label": "rank and birth ordering every encounter",
+      "description": "Society is sharply graded, with noble, gentle, middling, and poor people expected to know their place in speech, dress, marriage, and ambition. What you'll see: bows and forms of address, anxiety over lineage, humiliations for dependants, and constant measuring of who may sit, visit, marry, or inherit.",
+      "icon": "🦚"
+    },
+    {
+      "label": "estates passing through strict inheritance rules",
+      "description": "Land, income, and family standing are tied to legal customs that favor heirs and leave many women and younger children dependent on advantageous matches. What you'll see: entailments, dowries, settlement papers, anxious parents, rented seats in Bath or London, and households living by the allowance of kin.",
+      "icon": "📜"
+    },
+    {
+      "label": "marriage bargaining as family strategy",
+      "description": "Marriage is not merely private affection but a chief means of securing property, alliance, respectability, and rescue from poverty. What you'll see: chaperoned visits, formal proposals, gossip over prospects, widows guarding their position, and families reckoning love against fortune.",
+      "icon": "💍"
+    },
+    {
+      "label": "townhouses, salons, and pleasure gardens shaping society",
+      "description": "Elite and middling life is lived in a round of visits, assemblies, theatres, promenades, and seasonal migration between country and capital. What you'll see: card tables, supper parties, opera boxes, dancing rooms, carriage arrivals, and fashionable streets where reputation circulates quickly.",
+      "icon": "🎭"
+    },
+    {
+      "label": "armies and guards serving dynastic wars",
+      "description": "European states fight through standing armies, noble officers, and royal guards, with war bound to crown interest rather than national mass politics alone. What you'll see: uniforms and drill, duels and commissions, camp roads, dispatches, siege talk, and soldiers moving between court favor and battlefield service.",
+      "icon": "⚔️"
+    },
+    {
+      "label": "church houses ruling conscience and conduct",
+      "description": "Religious authority still reaches deeply into daily life through convents, clergy, moral discipline, feast days, and fears of sin, miracle, and scandal. What you'll see: chapels and cloisters, priests and abbesses, confession and penance, relics and processions, and quarrels over piety and forbidden desire.",
+      "icon": "⛪"
+    },
+    {
+      "label": "superstition living beside new learning",
+      "description": "Old beliefs in omens, witches, beasts, ghosts, and wonders persist even as natural philosophy, medicine, and Enlightenment inquiry claim greater authority. What you'll see: frightened villagers, learned men examining marvels, public credulity, anatomical rooms, and debates over whether a terror is providence, fraud, or nature.",
+      "icon": "🔮"
+    },
+    {
+      "label": "printing houses and newspapers making reputations",
+      "description": "Books, pamphlets, journals, and theatre notices create a bustling world where fame can be manufactured, ruined, censored, or sold. What you'll see: presses and proof sheets, booksellers, hack writers, whispered reviews, salacious publications, and audiences hungry for scandal and wit.",
+      "icon": "📰"
+    },
+    {
+      "label": "artists living by patronage and public taste",
+      "description": "Painters, composers, singers, actors, and writers work between aristocratic patronage and the uncertain favor of paying crowds. What you'll see: portrait sittings, rehearsal rooms, opera stages, backstage intrigue, rich patrons, and artists turning talent into social advancement or survival.",
+      "icon": "🎨"
+    },
+    {
+      "label": "ports, markets, and speculation moving fortunes",
+      "description": "Commercial wealth is rising through overseas trade, urban markets, credit, and risky ventures that can enrich merchants and undo gentry pretensions. What you'll see: Amsterdam countinghouses, merchants' homes, account books, auction rooms, fashionable luxuries, and bursts of gambling fever around commodities and shares.",
+      "icon": "⚓"
+    },
+    {
+      "label": "cities exposing the poor to harsh relief",
+      "description": "Growing towns gather orphans, servants, debtors, apprentices, and laboring people into a world where charity is stern, wages uncertain, and the street always near. What you'll see: workhouses and parish relief, cramped lodgings, debtor's worry, taverns and alleyways, undertakers, and hungry children navigating London or Paris.",
+      "icon": "🏚️"
+    }
+  ]
+}

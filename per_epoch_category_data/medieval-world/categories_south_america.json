@@ -1,0 +1,71 @@
+{
+  "epoch": "medieval-world",
+  "continent": "south_america",
+  "sample_size": 2,
+  "sample": [
+    {
+      "title": "The Emperor's New Groove",
+      "years": "1438..1533",
+      "countries": [
+        "PE"
+      ],
+      "plot": "In this animated comedy from the folks at Disney, the vain and cocky Emperor Kuzco (David Spade) is a very busy man. Besides maintaining his \"groove\", and firing his suspicious administrator, Yzma (Eartha Kitt), he's also planning to build a new waterpark just for himself for his birthday. However, this means destroying one of the villages in his kingdom. Meanwhile, Yzma is hatching a plan to get revenge and usurp the throne. But, in a botched assassination courtesy of Yzma's right-hand man, Kronk (Patrick Warburton), Kuzco is magically transformed into a llama. Now, Kuzco finds himself the property of Pacha, a lowly llama herder whose home is ground zero for the water park. Upon discovering the llama's true self, Pacha offers to help resolve the Emperor's problem and regain his throne, only if he promises to move his water park."
+    },
+    {
+      "title": "Aguirre, the Wrath of God",
+      "years": "1560..1560",
+      "countries": [
+        "PE",
+        "BR"
+      ],
+      "plot": "A few decades after the destruction of the Inca empire, a Spanish expedition leaves the mountains of Peru and goes down the Amazon river in search of gold and wealth. Soon, they come across great difficulties and don Lope de Aguirre, a ruthless man who cares only about riches, becomes their leader. But will his quest lead them to \"the golden city\", or to certain destruction?"
+    }
+  ],
+  "categories": [
+    {
+      "label": "rulers commanding labour and tribute",
+      "description": "Power rests on a high ruler who can summon goods, service, and obedience from villages spread across a wide realm. What you'll see: decrees handed down from above, officials and attendants enforcing commands, and common households weighed against the wishes of the court.",
+      "icon": "👑"
+    },
+    {
+      "label": "mountain realms tied by steep roads",
+      "description": "In the Andes, travel and rule depend on narrow paths, high passes, and settlements perched among sharp ridges and terraces. What you'll see: stone roads and stairways, vertiginous climbs, pack trains, and people moving between upland villages and royal centres.",
+      "icon": "⛰️"
+    },
+    {
+      "label": "llamas carrying goods through highlands",
+      "description": "Without wheeled traffic on mountain routes, llama herds are a chief means of carrying burdens and linking communities. What you'll see: herders on foot, loaded llamas on winding trails, corrals, and everyday work built around hardy pack animals.",
+      "icon": "🦙"
+    },
+    {
+      "label": "village life under distant authority",
+      "description": "Most people live in small farming communities whose homes, fields, and herds can be disrupted by commands issued far away. What you'll see: modest dwellings, family labour, concern for land and water, and village elders facing demands from greater powers.",
+      "icon": "🛖"
+    },
+    {
+      "label": "gold and splendour marking high rank",
+      "description": "Precious metals and rich display serve as signs of sacred and worldly authority, while outsiders also treat such wealth as a prize to be seized. What you'll see: ornaments, treasure, ceremonial finery, and constant attention to stores of wealth and luxury.",
+      "icon": "🪙"
+    },
+    {
+      "label": "court households thick with intrigue",
+      "description": "Royal and noble households are crowded places where favour, dismissal, and proximity to the ruler shape who holds power. What you'll see: advisers whispering in chambers, elaborate service around the throne, sudden reversals of rank, and political tension inside the palace.",
+      "icon": "🏰"
+    },
+    {
+      "label": "foreign conquerors pressing into native realms",
+      "description": "By the mid-sixteenth century, Spanish arms, titles, and ambitions are breaking older Andean rule and laying new claims over land and peoples. What you'll see: mailed men with Christian symbols, uneasy contact between newcomers and locals, and old authority colliding with imported rule.",
+      "icon": "⚔️"
+    },
+    {
+      "label": "faith and marvels woven together",
+      "description": "The world is understood through sacred signs, ritual authority, and a ready acceptance that wonders and omens may govern events. What you'll see: temples and court ceremony, invocations of higher powers, fear of curses or transformations, and reverence mixed with superstition.",
+      "icon": "🔮"
+    },
+    {
+      "label": "great rivers opening perilous frontiers",
+      "description": "East of the Andes, immense river systems promise passage and riches but expose travellers to hunger, flooding, and isolation. What you'll see: rafts and boats on broad waters, dense jungle banks, heavy rain, exhaustion, and the sense of a land swallowing expeditions.",
+      "icon": "🛶"
+    }
+  ]
+}

@@ -1,0 +1,380 @@
+[
+  {
+    "movie_id": 524434,
+    "movie_idx": 516,
+    "imdb_id": "tt9032400",
+    "title": "Eternals",
+    "production_year": "2021",
+    "genre": "Action, Adventure, Fantasy",
+    "plot": "Following the events of Avengers: Endgame (2019), an unexpected tragedy forces the Eternals, ancient aliens who have been living on Earth in secret for thousands of years, out of the shadows to reunite against mankind's most ancient enemy, the Deviants.",
+    "runtime": "156 min",
+    "director": "Chloé Zhao",
+    "actors": "Gemma Chan, Richard Madden, Angelina Jolie",
+    "production_country": "United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZTBiZjI2M2UtZTNiNy00NmU4LWJiMjYtZjk4MDIzMzhlMjFlXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/524434.webp",
+    "imdb_rating": "6.2",
+    "imdb_votes": "423,444",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Eternals_(film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/524434.txt",
+    "plot_year_start": -4999,
+    "plot_year_end": 2024,
+    "epoch": "ancient-world",
+    "action_countries": [
+      "US",
+      "GB",
+      "BR",
+      "IN",
+      "UNKNOWN"
+    ],
+    "action_continents": [
+      "North America",
+      "Europe",
+      "South America",
+      "Asia",
+      "UNKNOWN"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Marvel Cinematic Universe",
+    "categories": [
+      {
+        "label": "roads and vehicles binding scattered lives",
+        "description": "Daily life depends on roads, cars, and short journeys that connect families to towns, lodgings, and places of help across a broad landscape. What you'll see: anxious drives, roadside stops, arrivals at unfamiliar buildings, and travel turning ordinary distance into dread.",
+        "icon": "🚗"
+      },
+      {
+        "label": "police and local authority in daily view",
+        "description": "Civic order is imagined through nearby officers and small-scale authorities rather than distant rulers, making public safety feel personal and immediate. What you'll see: uniforms, questions at the scene, emergency response, and ordinary people looking to local officials when trouble breaks out.",
+        "icon": "👮"
+      }
+    ]
+  },
+  {
+    "movie_id": 1003580,
+    "movie_idx": 3513,
+    "imdb_id": "tt22769820",
+    "title": "Legion of Super-Heroes",
+    "production_year": "2023",
+    "genre": "Animation, Action, Sci-Fi",
+    "plot": "Kara, devastated by the loss of Krypton, struggles to adjust to her new life on Earth. Superman mentors her. Meanwhile, she must contend with a mysterious group called the Dark Circle who searches for a powerful weapon held in the...",
+    "runtime": "83 min",
+    "director": "Jeff Wamester",
+    "actors": "Meg Donnelly, Harry Shum Jr., Jensen Ackles",
+    "production_country": "United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMWU3YjEyZTUtZGI1MC00ZDI3LTg2YmUtNWUxYzU4MTdiMjRjXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/1003580.webp",
+    "imdb_rating": "5.9",
+    "imdb_votes": "5,566",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Legion_of_Super-Heroes_(film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/1003580.txt",
+    "plot_year_start": 31,
+    "plot_year_end": 31,
+    "epoch": "ancient-world",
+    "action_countries": [
+      "US"
+    ],
+    "action_continents": [
+      "North America"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "DC Universe Animated Original Movies",
+    "categories": [
+      {
+        "label": "comfort easily broken by sudden catastrophe",
+        "description": "Ordinary North American routines rest on a sense of safety that can collapse in a moment, revealing how thin the barrier is between comfort and terror. What you'll see: neat homes, quiet outings, familiar errands, and then abrupt scenes of panic, flight, and improvised survival.",
+        "icon": "🛋️"
+      }
+    ]
+  },
+  {
+    "movie_id": 42941,
+    "movie_idx": 4000,
+    "imdb_id": "tt1320304",
+    "title": "30 Days of Night: Dark Days",
+    "production_year": "2010",
+    "genre": "Horror, Thriller",
+    "plot": "It has been a year since the isolated Alaskan town of Barrow's population was decimated by vampires during its annual month long sunset. Riddled with grief over the death of her husband Eben, bound by nightmares and void of all emotions beyond hate and sorrow, Stella Oleson has spent the past months traveling the world, trying to convince others that vampires exist. Met with skepticism and laughter, she is ready to throw in the towel when a group of lost souls offers an incredible opportunity: the chance to exact revenge upon Lilith, the vampire queen responsible for the assault on her sleepy Alaskan town. With nothing remaining to live for, and nothing left to fear, Stella joins their mission and ventures into the uncharted underbelly of Los Angeles where she pushes herself to the most extreme limits to stop the evil from striking again.",
+    "runtime": "92 min",
+    "director": "Ben Ketai",
+    "actors": "Kiele Sanchez, Rhys Coiro, Diora Baird, Harold Perrineau",
+    "production_country": "USA",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTY3ODMxODIwNl5BMl5BanBnXkFtZTgwMDYyODAwNzE@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/42941.webp",
+    "imdb_rating": "4.4",
+    "imdb_votes": "12,642",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/30_Days_of_Night:_Dark_Days",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/42941.txt",
+    "plot_year_start": 1,
+    "plot_year_end": 2,
+    "epoch": "ancient-world",
+    "action_countries": [
+      "US",
+      "FICTIONAL"
+    ],
+    "action_continents": [
+      "North America",
+      "FICTIONAL"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "30 Days of Night Universe",
+    "categories": [
+      {
+        "label": "comfort easily broken by sudden catastrophe",
+        "description": "Ordinary North American routines rest on a sense of safety that can collapse in a moment, revealing how thin the barrier is between comfort and terror. What you'll see: neat homes, quiet outings, familiar errands, and then abrupt scenes of panic, flight, and improvised survival.",
+        "icon": "🛋️"
+      },
+      {
+        "label": "police and local authority in daily view",
+        "description": "Civic order is imagined through nearby officers and small-scale authorities rather than distant rulers, making public safety feel personal and immediate. What you'll see: uniforms, questions at the scene, emergency response, and ordinary people looking to local officials when trouble breaks out.",
+        "icon": "👮"
+      }
+    ]
+  },
+  {
+    "movie_id": 408647,
+    "movie_idx": 4193,
+    "imdb_id": "tt6315800",
+    "title": "Teen Titans: The Judas Contract",
+    "production_year": "2017",
+    "genre": "Animation, Action, Adventure, Drama, Family, Fantasy, Sci-Fi",
+    "plot": "A group of teen super heroes grow up together, fighting evil in their city.",
+    "runtime": "84 min",
+    "director": "Sam Liu",
+    "actors": "Stuart Allan, Jake T. Austin, Taissa Farmiga, Sean Maher",
+    "production_country": "USA",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNGZlODc0YjgtNWZjNS00NGNjLTgwOTUtMTllZTEyYjE0YTMwXkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/408647.webp",
+    "imdb_rating": "7.0",
+    "imdb_votes": "13,218",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Teen_Titans:_The_Judas_Contract",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/408647.txt",
+    "plot_year_start": 1,
+    "plot_year_end": 1,
+    "epoch": "ancient-world",
+    "action_countries": [
+      "US"
+    ],
+    "action_continents": [
+      "North America"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "DC Extended Universe",
+    "categories": [
+      {
+        "label": "small households facing danger on their own",
+        "description": "The household is treated as the first unit of survival and moral choice, often left to fend for itself before wider help can arrive. What you'll see: parents barring doors, couples arguing over what must be done, children kept close, and bedrooms turned into defensive spaces.",
+        "icon": "🏠"
+      },
+      {
+        "label": "messages moving through phones and screens",
+        "description": "Communication is expected to be instant, public, and constant, so news, pleas, and panic travel through handheld devices and social platforms. What you'll see: phones clutched in fear, screens lighting dark rooms, hurried calls and posts, and people trying to reach loved ones at once.",
+        "icon": "📱"
+      }
+    ]
+  },
+  {
+    "movie_id": 926,
+    "movie_idx": 5586,
+    "imdb_id": "tt0177789",
+    "title": "Galaxy Quest",
+    "production_year": "1999",
+    "genre": "Adventure, Comedy, Sci-Fi",
+    "plot": "The sci-fi television series \"Galaxy Quest\", which took place aboard the intergalactic spaceship NSEA Protector, starred Jason Nesmith as suave Commander Peter Quincy Taggart, Gwen DeMarco as sexy communications person Lt. Tawny Madison (a role which consisted solely of repeating what the computer stated, much to Gwen's chagrin), Shakespearean trained Sir Alexander Dane as alien Dr. Lazarus, Fred Kwan as engineer Tech Sergeant Chen, and Tommy Webber as child pilot Laredo. Eighteen years after the series last aired, it lives on in the hearts of its rabid fans. However, it lives on in infamy for its stars, who have not been able to find meaningful acting work since. Their current lives revolve around cashing in on however those roles will afford, which usually entails attending fan conventions or worse, such as electronic store openings. Only Jason seems to relish his lot in life, until he finds out that his co-stars detest him because of his superior attitude as \"the Commander\", and much of the public considers him a laughing stock. Their lives change when Jason is approached by who he thinks are convention fans asking for help. They are in reality an alien race called Thermians, led by Mathesar, who have modeled their existence after the series, which they believe to be real. When Jason and then the rest of his co-stars (along with Guy Fleegman, who was killed off before the opening credits in only one episode) go along with the Thermians, Jason's co-stars who believe they are off to yet another paying gig, they learn that they have to portray their roles for real. Without screenwriters to get them to a happy and heroic ending, they have to trust that their play acting will work, especially in dealing with the Thermians' nemesis, General Sarris. Guy in particular fears that he will go the way his character did on the series. But when they run across technical issues that they as actors didn't care anything about during the filming of the series and thus now don't know how to deal with, they need to find someone who should know what to do.",
+    "runtime": "102 min",
+    "director": "Dean Parisot",
+    "actors": "Tim Allen, Sigourney Weaver, Alan Rickman",
+    "production_country": "United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZmJkYmNhMGMtMDYyNC00ZDEyLWE2ZjAtYTg5OWViODJlNDdmXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/926.webp",
+    "imdb_rating": "7.4",
+    "imdb_votes": "190,610",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Galaxy_Quest",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/926.txt",
+    "plot_year_start": 18,
+    "plot_year_end": 18,
+    "epoch": "ancient-world",
+    "action_countries": [
+      "US"
+    ],
+    "action_continents": [
+      "North America"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "roads and vehicles binding scattered lives",
+        "description": "Daily life depends on roads, cars, and short journeys that connect families to towns, lodgings, and places of help across a broad landscape. What you'll see: anxious drives, roadside stops, arrivals at unfamiliar buildings, and travel turning ordinary distance into dread.",
+        "icon": "🚗"
+      }
+    ]
+  },
+  {
+    "movie_id": 312793,
+    "movie_idx": 7006,
+    "imdb_id": "tt3499458",
+    "title": "The Walking Deceased",
+    "production_year": "2015",
+    "genre": "Comedy, Horror",
+    "plot": "When a police officer wakes up in a hospital to find out he is in the middle of a zombie apocalypse, he will do anything to find his family, even sacrifice Twitter.",
+    "runtime": "88 min",
+    "director": "Scott Dow",
+    "actors": "Tim Ogletree, Joey Oglesby, Troy Ogletree",
+    "production_country": "United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTQ5NTE5OTI2MV5BMl5BanBnXkFtZTgwNzc1NzY1NDE@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/312793.webp",
+    "imdb_rating": "3.6",
+    "imdb_votes": "3,616",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Walking_Deceased",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/312793.txt",
+    "plot_year_start": 29,
+    "plot_year_end": 29,
+    "epoch": "ancient-world",
+    "action_countries": [
+      "US"
+    ],
+    "action_continents": [
+      "North America"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "police and local authority in daily view",
+        "description": "Civic order is imagined through nearby officers and small-scale authorities rather than distant rulers, making public safety feel personal and immediate. What you'll see: uniforms, questions at the scene, emergency response, and ordinary people looking to local officials when trouble breaks out.",
+        "icon": "👮"
+      },
+      {
+        "label": "messages moving through phones and screens",
+        "description": "Communication is expected to be instant, public, and constant, so news, pleas, and panic travel through handheld devices and social platforms. What you'll see: phones clutched in fear, screens lighting dark rooms, hurried calls and posts, and people trying to reach loved ones at once.",
+        "icon": "📱"
+      }
+    ]
+  },
+  {
+    "movie_id": 487672,
+    "movie_idx": 8251,
+    "imdb_id": "tt7167686",
+    "title": "Reign of the Supermen",
+    "production_year": "2019",
+    "genre": "Animation, Action, Adventure",
+    "plot": "After the death of Superman, several new people present themselves as possible successors.",
+    "runtime": "87 min",
+    "director": "Jake Castorena, Sam Liu",
+    "actors": "Jerry O'Connell, Rebecca Romijn, Rainn Wilson",
+    "production_country": "United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BOTQzYWM2NDYtNTc3MC00MDUxLTgxOWEtMjNmMmY4ODFkZWVmXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/487672.webp",
+    "imdb_rating": "6.8",
+    "imdb_votes": "19,768",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Reign_of_the_Supermen_(film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/487672.txt",
+    "plot_year_start": 6,
+    "plot_year_end": 6,
+    "epoch": "ancient-world",
+    "action_countries": [
+      "US"
+    ],
+    "action_continents": [
+      "North America"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "DC Extended Universe",
+    "categories": [
+      {
+        "label": "messages moving through phones and screens",
+        "description": "Communication is expected to be instant, public, and constant, so news, pleas, and panic travel through handheld devices and social platforms. What you'll see: phones clutched in fear, screens lighting dark rooms, hurried calls and posts, and people trying to reach loved ones at once.",
+        "icon": "📱"
+      },
+      {
+        "label": "police and local authority in daily view",
+        "description": "Civic order is imagined through nearby officers and small-scale authorities rather than distant rulers, making public safety feel personal and immediate. What you'll see: uniforms, questions at the scene, emergency response, and ordinary people looking to local officials when trouble breaks out.",
+        "icon": "👮"
+      }
+    ]
+  },
+  {
+    "movie_id": 631947,
+    "movie_idx": 8285,
+    "imdb_id": "tt7267498",
+    "title": "The Legend of La Llorona",
+    "production_year": "2022",
+    "genre": "Horror, Thriller",
+    "plot": "Legend has it that Maria, a distraught mother living in 16th-century Mexico, was punished to an eternity in purgatory for her heinous crimes. Against the backdrop of the blood-chilling tale, the grieving Candlewood family takes a trip to the same haunted parts of Mexico, unbeknownst to them that, sometimes, there is a disturbing truth behind those stories. Now, restless evil lurks in the deep canals near the Candlewoods' small hotel, and it has already set its sights on taking their unsuspecting, innocent son, Danny. And, as the malevolent supernatural force grows stronger by the minute, the couple must fight tooth and nail to save their only child. However, has anyone ever crossed paths with the cursed Weeping Woman and lived to tell the tale?",
+    "runtime": "98 min",
+    "director": "Patricia Harris Seeley",
+    "actors": "Autumn Reeser, Antonio Cupo, Danny Trejo",
+    "production_country": "Canada, Mexico",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMDFjYTFjZGQtNDQ2Mi00OGE5LWE2ZGQtNTI5ODY4NTA0YzEyXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/631947.webp",
+    "imdb_rating": "3.2",
+    "imdb_votes": "1,046",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Legend_of_La_Llorona",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/631947.txt",
+    "plot_year_start": 16,
+    "plot_year_end": 16,
+    "epoch": "ancient-world",
+    "action_countries": [
+      "MX"
+    ],
+    "action_continents": [
+      "North America"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "mexican sacred folklore haunting the landscape",
+        "description": "In Mexican settings, place is marked by Catholic memory and older local legend, so canals, shrines, and old quarters carry a spiritual charge. What you'll see: dim chapels, candles, waterside paths, colonial streets, and stories tied to particular haunted ground.",
+        "icon": "🕯️"
+      },
+      {
+        "label": "small households facing danger on their own",
+        "description": "The household is treated as the first unit of survival and moral choice, often left to fend for itself before wider help can arrive. What you'll see: parents barring doors, couples arguing over what must be done, children kept close, and bedrooms turned into defensive spaces.",
+        "icon": "🏠"
+      }
+    ]
+  },
+  {
+    "movie_id": 975407,
+    "movie_idx": 8936,
+    "imdb_id": "tt20864704",
+    "title": "Lifemark",
+    "production_year": "2022",
+    "genre": "Biography, Drama",
+    "plot": "David's comfortable world is turned upside down when his birthmother unexpectedly reaches out to him, longing to meet the 18-year-old son she's only held once.",
+    "runtime": "105 min",
+    "director": "Kevin Peeples",
+    "actors": "Kirk Cameron, Alex Kendrick, Marisa Lynae Hampton",
+    "production_country": "United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZDBjMDc4ZTItZTIyOS00MTVlLTkyZGItZDU4MGNmNDUyZWZmXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/975407.webp",
+    "imdb_rating": "6.1",
+    "imdb_votes": "1,395",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Lifemark",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/975407.txt",
+    "plot_year_start": 18,
+    "plot_year_end": 18,
+    "epoch": "ancient-world",
+    "action_countries": [
+      "US"
+    ],
+    "action_continents": [
+      "North America"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "christian ideas shaping family duty",
+        "description": "Family life is read through Christian ideas of sin, forgiveness, sacrifice, and the worth of every child, whether in Catholic legend or evangelical moral language. What you'll see: prayers, church talk, appeals to conscience, and parents measuring their choices against a sacred order.",
+        "icon": "✝️"
+      },
+      {
+        "label": "kinship ties treated as lifelong claims",
+        "description": "Parents, children, and birth relations are understood as bonds that keep their force even after separation, death, or long silence. What you'll see: searches for missing family, tense reunions, talk of motherhood and adoption, and households gathered around a child in danger.",
+        "icon": "👨‍👩‍👧"
+      }
+    ]
+  }
+]

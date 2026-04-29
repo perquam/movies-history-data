@@ -1,0 +1,1810 @@
+[
+  {
+    "movie_id": 508883,
+    "movie_idx": 641,
+    "imdb_id": "tt6587046",
+    "title": "The Boy and the Heron",
+    "production_year": "2023",
+    "genre": "Animation, Adventure, Drama",
+    "plot": "In the wake of his mother's death and his father's remarriage, a headstrong boy ventures into a dreamlike world shared by the living and the dead in search of his missing stepmother.",
+    "runtime": "124 min",
+    "director": "Hayao Miyazaki",
+    "actors": "Soma Santoki, Masaki Suda, Kô Shibasaki",
+    "production_country": "Japan",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMzA5Zjg3MTAtM2FhZS00NTNjLTg3NjEtNWQ4MTRhZjhiNzVmXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/508883.webp",
+    "imdb_rating": "7.3",
+    "imdb_votes": "123,968",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Boy_and_the_Heron",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/508883.txt",
+    "plot_year_start": 1945,
+    "plot_year_end": 1947,
+    "epoch": "early-cold-war-era",
+    "action_countries": [
+      "JP"
+    ],
+    "action_continents": [
+      "Asia"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "old beliefs living beside modern progress",
+        "description": "Railways, hospitals, schools, and grand development projects advance, yet religious practice, local spirits, and inherited custom still give meaning to the world. What you'll see: temples and convents, mountain shrines, village festivals, healing rituals beside medicine, ancestral obligations, and children moving easily between the ordinary and the enchanted.",
+        "icon": "⛩️"
+      }
+    ]
+  },
+  {
+    "movie_id": 8392,
+    "movie_idx": 1047,
+    "imdb_id": "tt0096283",
+    "title": "My Neighbor Totoro",
+    "production_year": "1988",
+    "genre": "Animation, Adventure, Comedy",
+    "plot": "Two young girls, 10-year-old Satsuki and her 4-year-old sister Mei, move into a house in the country with their father to be closer to their hospitalized mother. Satsuki and Mei discover that the nearby forest is inhabited by magical creatures called Totoros (pronounced toe-toe-ro). They soon befriend these Totoros, and have several magical adventures.",
+    "runtime": "86 min",
+    "director": "Hayao Miyazaki",
+    "actors": "Hitoshi Takagi, Noriko Hidaka, Chika Sakamoto",
+    "production_country": "Japan",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYWM3MDE3YjEtMzIzZC00ODE5LTgxNTItNmUyMTBkM2M2NmNiXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/8392.webp",
+    "imdb_rating": "8.1",
+    "imdb_votes": "425,325",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/My_Neighbor_Totoro",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/8392.txt",
+    "plot_year_start": 1950,
+    "plot_year_end": 1959,
+    "epoch": "early-cold-war-era",
+    "action_countries": [
+      "JP"
+    ],
+    "action_continents": [
+      "Asia"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "old beliefs living beside modern progress",
+        "description": "Railways, hospitals, schools, and grand development projects advance, yet religious practice, local spirits, and inherited custom still give meaning to the world. What you'll see: temples and convents, mountain shrines, village festivals, healing rituals beside medicine, ancestral obligations, and children moving easily between the ordinary and the enchanted.",
+        "icon": "⛩️"
+      }
+    ]
+  },
+  {
+    "movie_id": 657,
+    "movie_idx": 1342,
+    "imdb_id": "tt0057076",
+    "title": "From Russia with Love",
+    "production_year": "1963",
+    "genre": "Action, Adventure, Thriller",
+    "plot": "James Bond 007 is on the search for a Russian decoding machine, known as \"Lektor\". Bond needs to find this machine, before the evil S.P.E.C.T.R.E. organization discovers it. While being romantically linked with Russian girl, Tatiana Romanova, Bond sneaks his way around Istanbul, while each S.P.E.C.T.R.E. Agent tries to pick him off, including the over powering Donald \"Red\" Grant and ex K.G.B. Agent Rosa Klebb, who knows all of the tricks in the book, and even possesses an incredible poison tipped shoe.",
+    "runtime": "115 min",
+    "director": "Terence Young",
+    "actors": "Sean Connery, Robert Shaw, Lotte Lenya",
+    "production_country": "United Kingdom, United States, Italy, Turkey",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMWY2MWY2ODAtMTY5Ny00MzA2LWFkMWYtODU2MjE0MmM4ZTQ4XkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/657.webp",
+    "imdb_rating": "7.3",
+    "imdb_votes": "157,340",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/From_Russia_with_Love_(film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/657.txt",
+    "plot_year_start": 1963,
+    "plot_year_end": 1963,
+    "epoch": "early-cold-war-era",
+    "action_countries": [
+      "TR",
+      "RS",
+      "HR",
+      "IT",
+      "GB"
+    ],
+    "action_continents": [
+      "Asia",
+      "Europe",
+      "Europe",
+      "Europe",
+      "Europe"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "cold war front lines cutting Asia",
+        "description": "Asia is a principal theater of the new struggle between rival camps, with civil wars, invasions, intelligence work, and exile tied to larger powers. What you'll see: soldiers and student conscripts, field hospitals, spies and couriers, tense ports and frontiers, and talk of Moscow, Washington, Beijing, Seoul, and Taipei.",
+        "icon": "⚔️"
+      }
+    ]
+  },
+  {
+    "movie_id": 1735,
+    "movie_idx": 1871,
+    "imdb_id": "tt0859163",
+    "title": "The Mummy: Tomb of the Dragon Emperor",
+    "production_year": "2008",
+    "genre": "Action, Adventure, Fantasy",
+    "plot": "Centuries ago, the evil Emperor Han was cursed by the sorceress Zi Yuan who transformed him and his army into mummies. In 1946, the explorer Rick O'Connell and his wife Evelyn O'Connell are invited by the British government to take a relic, the diamond \"The Eye of Shangri-La\" to China. The ancient stone is capable of resurrecting the Emperor Han and of pointing the way to Shangri-La and the eternal pool of life. When the couple reaches China, they meet their son Alex O'Connell, who has discovered the tomb of Han, and Evelyn's brother Jonathan Carnahan. The O'Connells are betrayed by their friend Prof. Roger Wilson, who is associated with General Yang. Yang wants to serve Emperor Han, so he resurrects the mummy and they head for Shangri-La. The guardian of Han's tomb (and Zi's daughter) Lin tells them that the only ways to destroy Han are to prevent him from reaching Shangri-La or by stabbing his heart with a cursed dagger.",
+    "runtime": "112 min",
+    "director": "Rob Cohen",
+    "actors": "Brendan Fraser, Jet Li, Maria Bello",
+    "production_country": "United States, Germany, China, Canada, United Kingdom, Hong Kong",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTU4NDIzMDY1OV5BMl5BanBnXkFtZTcwNjQxMzk3MQ@@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/1735.webp",
+    "imdb_rating": "5.2",
+    "imdb_votes": "179,224",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Mummy:_Tomb_of_the_Dragon_Emperor",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/1735.txt",
+    "plot_year_start": 1946,
+    "plot_year_end": 1946,
+    "epoch": "early-cold-war-era",
+    "action_countries": [
+      "CN",
+      "GB",
+      "PE"
+    ],
+    "action_continents": [
+      "Asia",
+      "Europe",
+      "South America"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "old beliefs living beside modern progress",
+        "description": "Railways, hospitals, schools, and grand development projects advance, yet religious practice, local spirits, and inherited custom still give meaning to the world. What you'll see: temples and convents, mountain shrines, village festivals, healing rituals beside medicine, ancestral obligations, and children moving easily between the ordinary and the enchanted.",
+        "icon": "⛩️"
+      }
+    ]
+  },
+  {
+    "movie_id": 247136,
+    "movie_idx": 1937,
+    "imdb_id": "tt3443488",
+    "title": "The Temptation of Kimono",
+    "production_year": "2009",
+    "genre": "Drama, Romance",
+    "plot": "A young bride, Mikage, is soon to be married to Youiti, the son of the chairman of a supermarket chain. Because Youiti insists, she moves in to stay with him at his father's big house to ...",
+    "runtime": "86 min",
+    "director": "N/A",
+    "actors": "Osawa Yuka, Yoshihiro Tanbara, Tarô Kai, Sakamoto Risa",
+    "production_country": "Japan",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZjcxMmE5YTQtOTJmMC00NmI3LThiMGMtMzIzYWNmOWVhNjJmXkEyXkFqcGdeQXVyODAzNjkzODU@._V1_SX300.jpg",
+    "imdb_rating": "6.4",
+    "imdb_votes": "15",
+    "plot_year_start": 1960,
+    "plot_year_end": 1960,
+    "epoch": "early-cold-war-era",
+    "action_countries": [
+      "JP"
+    ],
+    "action_continents": [
+      "Asia"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "women between household duty and wages",
+        "description": "Women are increasingly educated and employed, yet marriage, filial care, and sexual respectability still set the terms by which society judges them. What you'll see: office desks and beauty shops, marriage meetings, daughters caring for fathers, secretaries and singers, gossiping relatives, and the constant pressure of propriety.",
+        "icon": "👠"
+      }
+    ],
+    "failures": {
+      "poster": "poster_download_failed",
+      "wikipedia": "no_wiki_article_found"
+    }
+  },
+  {
+    "movie_id": 843,
+    "movie_idx": 2145,
+    "imdb_id": "tt0118694",
+    "title": "In the Mood for Love",
+    "production_year": "2000",
+    "genre": "Drama, Romance",
+    "plot": "Set in Hong Kong, 1962, Chow Mo-Wan is a newspaper editor who moves into a new building with his wife. At the same time, Su Li-zhen, a beautiful secretary and her executive husband also move in to the crowded building. With their spouses often away, Chow and Li-zhen spend most of their time together as friends. They have everything in common from noodle shops to martial arts. Soon, they are shocked to discover that their spouses are having an affair. Hurt and angry, they find comfort in their growing friendship even as they resolve not to be like their unfaithful mates.",
+    "runtime": "98 min",
+    "director": "Wong Kar-Wai",
+    "actors": "Maggie Cheung, Tony Leung Chiu-wai, Ping-Lam Siu",
+    "production_country": "Hong Kong, France",
+    "poster": "https://m.media-amazon.com/images/M/MV5BN2Q4NjllMDgtOTk2Zi00YzM1LWJmOTMtNmRiZDgyZGJmMjQzXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/843.webp",
+    "imdb_rating": "8.0",
+    "imdb_votes": "184,505",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/In_the_Mood_for_Love",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/843.txt",
+    "plot_year_start": 1962,
+    "plot_year_end": 1965,
+    "epoch": "early-cold-war-era",
+    "action_countries": [
+      "HK"
+    ],
+    "action_continents": [
+      "Asia"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "crowded rooms and thin urban privacy",
+        "description": "In booming cities, many lives are lived in boarding houses, shared compounds, and close-built streets where neighbors hear nearly everything. What you'll see: noodle stalls, stairwells and corridors, mahjong tables, adjoining rooms, curtained interiors, street vendors, and everyday life conducted under watchful ears.",
+        "icon": "🚪"
+      }
+    ]
+  },
+  {
+    "movie_id": 1678,
+    "movie_idx": 3434,
+    "imdb_id": "tt0047034",
+    "title": "Godzilla",
+    "production_year": "1954",
+    "genre": "Horror, Sci-Fi",
+    "plot": "After a dinosaur-like beast - awoken from undersea hibernation by atom bomb testing - ravages Tokyo, a scientist must decide if his similarly dangerous weapon should be used to destroy it.",
+    "runtime": "96 min",
+    "director": "Ishirô Honda",
+    "actors": "Takashi Shimura, Akihiko Hirata, Akira Takarada",
+    "production_country": "Japan",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNTk3M2U3YjMtZDkzYS00OGU5LWEwOTctMDZhNTE0ZDYxZmJjXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/1678.webp",
+    "imdb_rating": "7.6",
+    "imdb_votes": "44,389",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Godzilla_(1954_film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/1678.txt",
+    "plot_year_start": 1954,
+    "plot_year_end": 1954,
+    "epoch": "early-cold-war-era",
+    "action_countries": [
+      "JP"
+    ],
+    "action_continents": [
+      "Asia"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "cities rebuilding after war and defeat",
+        "description": "Across much of East Asia, bomb damage, shortages, and dislocation still shape urban life even as streets fill again and ordinary routines return. What you'll see: ruined lots beside new buildings, crowded buses and clinics, black markets, patched clothing, and neighborhoods trying to look forward while war remains visible.",
+        "icon": "🏚️"
+      }
+    ]
+  },
+  {
+    "movie_id": 844,
+    "movie_idx": 3832,
+    "imdb_id": "tt0212712",
+    "title": "2046",
+    "production_year": "2004",
+    "genre": "Drama, Romance, Sci-Fi",
+    "plot": "In the aftermath of Fa yeung nin wah (2000), after losing Su Li-zhen, the love of his life, the journalist and author, Chow Mo-wan, returns to Hong Kong to write a book. Obsessed with finishing his new science fiction novel, Chow begins a series of romantic relationships with four different women; however, the more he tries to understand and forget, the more he finds himself haunted by his past. In his novel, a train sets off for a remote, mysterious destination in 2046, where passengers hope to reclaim their lost memories. Now, a maelstrom of beautiful and sad feelings, secret longings, and wild passions govern Chow's life, who's been trying to relive a life-altering experience ever since his doomed affair with Su: an emotionally intense relationship that has defined Chow's life and condemned his future romances. Has time stopped in Room 2046?",
+    "runtime": "129 min",
+    "director": "Wong Kar-Wai",
+    "actors": "Tony Leung Chiu-wai, Ziyi Zhang, Faye Wong",
+    "production_country": "Hong Kong, China, France, Italy, Germany, Netherlands",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNGM2NTQyM2MtODAzMi00NWVjLTgwNWMtYjNkMjMxZmUwOTU3XkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/844.webp",
+    "imdb_rating": "7.4",
+    "imdb_votes": "65,046",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/2046_(film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/844.txt",
+    "plot_year_start": 1962,
+    "plot_year_end": 1967,
+    "epoch": "early-cold-war-era",
+    "action_countries": [
+      "HK",
+      "SG"
+    ],
+    "action_continents": [
+      "Asia",
+      "Asia"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "crowded rooms and thin urban privacy",
+        "description": "In booming cities, many lives are lived in boarding houses, shared compounds, and close-built streets where neighbors hear nearly everything. What you'll see: noodle stalls, stairwells and corridors, mahjong tables, adjoining rooms, curtained interiors, street vendors, and everyday life conducted under watchful ears.",
+        "icon": "🚪"
+      },
+      {
+        "label": "old beliefs living beside modern progress",
+        "description": "Railways, hospitals, schools, and grand development projects advance, yet religious practice, local spirits, and inherited custom still give meaning to the world. What you'll see: temples and convents, mountain shrines, village festivals, healing rituals beside medicine, ancestral obligations, and children moving easily between the ordinary and the enchanted.",
+        "icon": "⛩️"
+      }
+    ]
+  },
+  {
+    "movie_id": 450001,
+    "movie_idx": 3959,
+    "imdb_id": "tt7262882",
+    "title": "Master Z: The Ip Man Legacy",
+    "production_year": "2018",
+    "genre": "Action, Biography, Crime",
+    "plot": "While keeping a low profile after his defeat by Ip Man, Cheung Tin Chi gets into trouble after getting in a fight with a powerful foreigner.",
+    "runtime": "107 min",
+    "director": "Yuen Woo-Ping",
+    "actors": "Jin Zhang, Dave Bautista, Yan Liu",
+    "production_country": "Hong Kong, China",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTVhNDYzYjEtMjcyOS00ZTI4LTg2YmQtZTg0YmFjMjU1Y2IzXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/450001.webp",
+    "imdb_rating": "6.5",
+    "imdb_votes": "10,628",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Master_Z:_Ip_Man_Legacy",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/450001.txt",
+    "plot_year_start": 1964,
+    "plot_year_end": 1964,
+    "epoch": "early-cold-war-era",
+    "action_countries": [
+      "HK"
+    ],
+    "action_continents": [
+      "Asia"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Ip Man Universe",
+    "categories": [
+      {
+        "label": "crime markets thriving in social upheaval",
+        "description": "Where authority is weak or uneven, gang networks, smugglers, and informal economies flourish beside respectable business and official law. What you'll see: alleyway deals, protection rackets, dockside and nightclub worlds, desperate theft, hired thugs, police dragnets, and the mingling of poverty with sudden wealth.",
+        "icon": "🕴️"
+      },
+      {
+        "label": "bureaucracies ruling through papers and offices",
+        "description": "Expanding states govern daily life through permits, police files, ministries, schools, and local offices whose slow procedures reach deep into the household. What you'll see: desks stacked with forms, clerks and detectives, interrogation rooms, stamps and notices, school discipline, and people navigating authority through channels rather than custom alone.",
+        "icon": "📄"
+      }
+    ]
+  },
+  {
+    "movie_id": 83389,
+    "movie_idx": 4002,
+    "imdb_id": "tt1798188",
+    "title": "From Up on Poppy Hill",
+    "production_year": "2011",
+    "genre": "Animation, Comedy, Drama",
+    "plot": "A group of Yokohama students fight to save their school's clubhouse from the wrecking ball during preparations for the 1964 Tokyo Olympic Games. While working there, Umi and Shun gradually attract each other, but face a sudden trial. Even so, they keep going without fleeing the difficulties of reality.",
+    "runtime": "91 min",
+    "director": "Gorô Miyazaki",
+    "actors": "Sarah Bolger, Chris Noth, Anton Yelchin",
+    "production_country": "Japan",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMWVjMWRhMzYtOGRmMi00ODExLTk2M2YtZDhjNGY5OWQ5NDY4XkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/83389.webp",
+    "imdb_rating": "7.4",
+    "imdb_votes": "58,692",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/From_Up_on_Poppy_Hill",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/83389.txt",
+    "plot_year_start": 1963,
+    "plot_year_end": 1964,
+    "epoch": "early-cold-war-era",
+    "action_countries": [
+      "JP"
+    ],
+    "action_continents": [
+      "Asia"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "bureaucracies ruling through papers and offices",
+        "description": "Expanding states govern daily life through permits, police files, ministries, schools, and local offices whose slow procedures reach deep into the household. What you'll see: desks stacked with forms, clerks and detectives, interrogation rooms, stamps and notices, school discipline, and people navigating authority through channels rather than custom alone.",
+        "icon": "📄"
+      },
+      {
+        "label": "American influence in screens and streets",
+        "description": "United States power arrives not only through armies and occupation but through music, sport, consumer habits, language, and new standards of prestige. What you'll see: military bases and jeeps, western clothes, jazz and popular songs, advertising schemes, Olympic aspirations, imported goods, and local unease about imitation and change.",
+        "icon": "🛻"
+      }
+    ]
+  },
+  {
+    "movie_id": 9075,
+    "movie_idx": 4078,
+    "imdb_id": "tt0389557",
+    "title": "Black Book",
+    "production_year": "2006",
+    "genre": "Drama, Thriller, War",
+    "plot": "Israel 1956. Rachel, a Jew, rather unexpectedly meets an old friend at the kibbutz where she is working as a teacher. It brings back memories of her experiences in The Netherlands during the war, memories of betrayal. September 1944. Rachel is in trouble when her hiding place is bombed by allied troops. She gets in contact with a man from the resistance and joins a group of Jews who are to be smuggled across the Biesbosch by boat to the freed South Netherlands. Germans from a patrol boat murder them all however. Only Rachel is able to escape. She is rescued by a resistance group under the leadership of Gerben Kuipers. When Kuipers' son is captured after trying to smuggle weapons, he asks Rachel to seduce SS-hauptsturmführer Ludwig Müntze. Soon she will find out the attack in the Biesbosch wasn't a coincidence.",
+    "runtime": "145 min",
+    "director": "Paul Verhoeven",
+    "actors": "Carice van Houten, Sebastian Koch, Thom Hoffman",
+    "production_country": "Netherlands, Germany, United Kingdom, Belgium",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTIzMjc2ODQ2NV5BMl5BanBnXkFtZTYwODkzNTA3._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/9075.webp",
+    "imdb_rating": "7.7",
+    "imdb_votes": "83,618",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Black_Book_(film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/9075.txt",
+    "plot_year_start": 1944,
+    "plot_year_end": 1956,
+    "epoch": "early-cold-war-era",
+    "action_countries": [
+      "IL",
+      "NL"
+    ],
+    "action_continents": [
+      "Asia",
+      "Europe"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "crime markets thriving in social upheaval",
+        "description": "Where authority is weak or uneven, gang networks, smugglers, and informal economies flourish beside respectable business and official law. What you'll see: alleyway deals, protection rackets, dockside and nightclub worlds, desperate theft, hired thugs, police dragnets, and the mingling of poverty with sudden wealth.",
+        "icon": "🕴️"
+      },
+      {
+        "label": "bureaucracies ruling through papers and offices",
+        "description": "Expanding states govern daily life through permits, police files, ministries, schools, and local offices whose slow procedures reach deep into the household. What you'll see: desks stacked with forms, clerks and detectives, interrogation rooms, stamps and notices, school discipline, and people navigating authority through channels rather than custom alone.",
+        "icon": "📄"
+      }
+    ]
+  },
+  {
+    "movie_id": 3782,
+    "movie_idx": 4083,
+    "imdb_id": "tt0044741",
+    "title": "Ikiru",
+    "production_year": "1952",
+    "genre": "Drama",
+    "plot": "Kanji Watanabe is a civil servant. He has worked in the same department for 30 years. His life is pretty boring and monotonous, though he once used to have passion and drive. Then one day he discovers that he has stomach cancer and has less than a year to live. After the initial depression he sets about living for the first time in over 20 years. Then he realises that his limited time left is not just for living life to the full but to leave something meaningful behind...",
+    "runtime": "143 min",
+    "director": "Akira Kurosawa",
+    "actors": "Takashi Shimura, Nobuo Kaneko, Shin'ichi Himori",
+    "production_country": "Japan",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYWI2MzBhMzItYzQ3OS00N2Q4LTkyZDUtMjM1YTk0NjhkOWRiXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/3782.webp",
+    "imdb_rating": "8.3",
+    "imdb_votes": "100,520",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Ikiru",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/3782.txt",
+    "plot_year_start": 1952,
+    "plot_year_end": 1952,
+    "epoch": "early-cold-war-era",
+    "action_countries": [
+      "JP"
+    ],
+    "action_continents": [
+      "Asia"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "bureaucracies ruling through papers and offices",
+        "description": "Expanding states govern daily life through permits, police files, ministries, schools, and local offices whose slow procedures reach deep into the household. What you'll see: desks stacked with forms, clerks and detectives, interrogation rooms, stamps and notices, school discipline, and people navigating authority through channels rather than custom alone.",
+        "icon": "📄"
+      }
+    ]
+  },
+  {
+    "movie_id": 1679,
+    "movie_idx": 4137,
+    "imdb_id": "tt0048127",
+    "title": "Godzilla Raids Again",
+    "production_year": "1955",
+    "genre": "Action, Horror, Sci-Fi",
+    "plot": "Koji Kobayashi, a spotter for a Japanese fishing fleet crash lands his plane on a barren island. His best friend, Shoichi Tsukioka, manages to find him and lands his plane next to his so he can be rescued. The two pilots are shocked when they encounter two giant monsters and race back to Japan to inform the authorities. One of the monsters is recognized as a new Godzilla while the other creature is identified as prehistoric monster named Anguirus. Without the weapon that killed the original Godzilla, countermeasures are developed in an attempt to divert the monster away as it makes landfall in Osaka. Japan can only brace for tragedy as they have to suffer through the horror of Godzilla once more.",
+    "runtime": "78 min",
+    "director": "Motoyoshi Oda, Ishirô Honda",
+    "actors": "Hiroshi Koizumi, Setsuko Wakayama, Minoru Chiaki",
+    "production_country": "Japan",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZjc2OTYzYjAtZjlhMS00NmJhLTlhYzEtM2Y5MjZjOWI2M2MyXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/1679.webp",
+    "imdb_rating": "5.7",
+    "imdb_votes": "9,556",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Godzilla_Raids_Again",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/1679.txt",
+    "plot_year_start": 1955,
+    "plot_year_end": 1955,
+    "epoch": "early-cold-war-era",
+    "action_countries": [
+      "JP"
+    ],
+    "action_continents": [
+      "Asia"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Godzilla Universe",
+    "categories": [
+      {
+        "label": "cities rebuilding after war and defeat",
+        "description": "Across much of East Asia, bomb damage, shortages, and dislocation still shape urban life even as streets fill again and ordinary routines return. What you'll see: ruined lots beside new buildings, crowded buses and clinics, black markets, patched clothing, and neighborhoods trying to look forward while war remains visible.",
+        "icon": "🏚️"
+      },
+      {
+        "label": "crime markets thriving in social upheaval",
+        "description": "Where authority is weak or uneven, gang networks, smugglers, and informal economies flourish beside respectable business and official law. What you'll see: alleyway deals, protection rackets, dockside and nightclub worlds, desperate theft, hired thugs, police dragnets, and the mingling of poverty with sudden wealth.",
+        "icon": "🕴️"
+      }
+    ]
+  },
+  {
+    "movie_id": 11658,
+    "movie_idx": 5273,
+    "imdb_id": "tt0386064",
+    "title": "Tae Guk Gi: The Brotherhood of War",
+    "production_year": "2004",
+    "genre": "Action, Drama, War",
+    "plot": "In 1950, in South Korea, shoe-shiner Jin-tae Lee and his 18-year-old old student brother, Jin-seok Lee, form a poor but happy family with their mother, Jin-tae's fiancé Young-shin Kim, and her young sisters. Jin-tae and his mother are tough workers, who sacrifice themselves to send Jin-seok to the university. When North Korea invades the South, the family escapes to a relative's house in the country, but along their journey, Jin-seok is forced to join the army to fight in the front, and Jin-tae enlists too to protect his young brother. The commander promises Jin-tae that if he gets a medal he would release his brother, and Jin-tae becomes the braver soldier in the company. Along the bloody war between brothers, the relationship of Jin-seok with his older brother deteriorates leading to a dramatic and tragic end.",
+    "runtime": "140 min",
+    "director": "Kang Je-kyu",
+    "actors": "Jang Dong-gun, Won Bin, Lee Eun-ju",
+    "production_country": "South Korea",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNjUzNTVlYzQtOGYxMy00NmExLTgzYTQtOGEyM2YyM2YzYjJkXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/11658.webp",
+    "imdb_rating": "8.0",
+    "imdb_votes": "41,969",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Taegukgi_(film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/11658.txt",
+    "plot_year_start": 1950,
+    "plot_year_end": 1953,
+    "epoch": "early-cold-war-era",
+    "action_countries": [
+      "KR",
+      "KP"
+    ],
+    "action_continents": [
+      "Asia",
+      "Asia"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "cold war front lines cutting Asia",
+        "description": "Asia is a principal theater of the new struggle between rival camps, with civil wars, invasions, intelligence work, and exile tied to larger powers. What you'll see: soldiers and student conscripts, field hospitals, spies and couriers, tense ports and frontiers, and talk of Moscow, Washington, Beijing, Seoul, and Taipei.",
+        "icon": "⚔️"
+      },
+      {
+        "label": "bureaucracies ruling through papers and offices",
+        "description": "Expanding states govern daily life through permits, police files, ministries, schools, and local offices whose slow procedures reach deep into the household. What you'll see: desks stacked with forms, clerks and detectives, interrogation rooms, stamps and notices, school discipline, and people navigating authority through channels rather than custom alone.",
+        "icon": "📄"
+      }
+    ]
+  },
+  {
+    "movie_id": 49982,
+    "movie_idx": 5287,
+    "imdb_id": "tt0096908",
+    "title": "A City of Sadness",
+    "production_year": "1989",
+    "genre": "Comedy, Drama, History",
+    "plot": "The story of a family embroiled in the \"White Terror\" that was wrought on the Taiwanese people by the Kuomintang government after their arrival from mainland China in the late 1940s.",
+    "runtime": "157 min",
+    "director": "Hsiao-Hsien Hou",
+    "actors": "Tony Leung Chiu-wai, Shu-Fen Hsin, Sung-Young Chen",
+    "production_country": "Taiwan",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNWM2MGZmODUtOGJmNi00NTVhLTg2MDktNDdlMWM3YmNjNGZlXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/49982.webp",
+    "imdb_rating": "7.8",
+    "imdb_votes": "6,631",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/A_City_of_Sadness",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/49982.txt",
+    "plot_year_start": 1945,
+    "plot_year_end": 1949,
+    "epoch": "early-cold-war-era",
+    "action_countries": [
+      "TW"
+    ],
+    "action_continents": [
+      "Asia"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "crime markets thriving in social upheaval",
+        "description": "Where authority is weak or uneven, gang networks, smugglers, and informal economies flourish beside respectable business and official law. What you'll see: alleyway deals, protection rackets, dockside and nightclub worlds, desperate theft, hired thugs, police dragnets, and the mingling of poverty with sudden wealth.",
+        "icon": "🕴️"
+      },
+      {
+        "label": "bureaucracies ruling through papers and offices",
+        "description": "Expanding states govern daily life through permits, police files, ministries, schools, and local offices whose slow procedures reach deep into the household. What you'll see: desks stacked with forms, clerks and detectives, interrogation rooms, stamps and notices, school discipline, and people navigating authority through channels rather than custom alone.",
+        "icon": "📄"
+      }
+    ]
+  },
+  {
+    "movie_id": 564147,
+    "movie_idx": 5505,
+    "imdb_id": "tt7838252",
+    "title": "K.G.F: Chapter 1",
+    "production_year": "2018",
+    "genre": "Action, Crime, Drama",
+    "plot": "The movie dates back to 1951. Here, two incidents take place; The birth of the hero and other in the Kolar Gold Fields (K.G.F) they get gold. The hero is brought up in poverty. When he is very young itself he goes to Mumbai to become a mafia don. His mother's wish was to see her son rich and powerful. After being in Mumbai for some time he returns back. Will he be able to become a Don? Will he set his people free from the age old slavery? Forms the plot of the movie?",
+    "runtime": "154 min",
+    "director": "Prashanth Neel",
+    "actors": "Yash, Srinidhi Shetty, Ramachandra Raju",
+    "production_country": "India",
+    "poster": "https://m.media-amazon.com/images/M/MV5BM2M0YmIxNzItOWI4My00MmQzLWE0NGYtZTM3NjllNjIwZjc5XkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/564147.webp",
+    "imdb_rating": "8.2",
+    "imdb_votes": "110,193",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/KGF:_Chapter_1",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/564147.txt",
+    "plot_year_start": 1951,
+    "plot_year_end": 1978,
+    "epoch": "early-cold-war-era",
+    "action_countries": [
+      "IN",
+      "IN",
+      "IN"
+    ],
+    "action_continents": [
+      "Asia",
+      "Asia",
+      "Asia"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "crime markets thriving in social upheaval",
+        "description": "Where authority is weak or uneven, gang networks, smugglers, and informal economies flourish beside respectable business and official law. What you'll see: alleyway deals, protection rackets, dockside and nightclub worlds, desperate theft, hired thugs, police dragnets, and the mingling of poverty with sudden wealth.",
+        "icon": "🕴️"
+      },
+      {
+        "label": "bureaucracies ruling through papers and offices",
+        "description": "Expanding states govern daily life through permits, police files, ministries, schools, and local offices whose slow procedures reach deep into the household. What you'll see: desks stacked with forms, clerks and detectives, interrogation rooms, stamps and notices, school discipline, and people navigating authority through channels rather than custom alone.",
+        "icon": "📄"
+      }
+    ]
+  },
+  {
+    "movie_id": 15766,
+    "movie_idx": 6189,
+    "imdb_id": "tt0058544",
+    "title": "Ghidorah, the Three-Headed Monster",
+    "production_year": "1964",
+    "genre": "Action, Adventure, Fantasy",
+    "plot": "Reporter Naoko is interviewing members of a UFO club when a large meteor lands in Kurobe Valley. Meanwhile, her detective brother Shindo is assigned to protect the foreign Princess Salno, only for her to be seemingly assassinated before her arrival in Japan. While the meteor is investigated, Salno emerges under the guise of a Venusian prophetess and catches the attention of Naoko and Mothra's fairies. She prophecies the return of Godzilla, Rodan, as well as the arrival of a powerful space monster called King Ghidorah. As Shindo and Naoko protect Salno, the infant Mothra must persuade Godzilla and Rodan to set aside their differences and save the world from Ghidorah.",
+    "runtime": "85 min",
+    "director": "Ishirô Honda",
+    "actors": "Yôsuke Natsuki, Yuriko Hoshi, Hiroshi Koizumi",
+    "production_country": "Japan",
+    "poster": "https://m.media-amazon.com/images/M/MV5BOWM4NWMwYzUtN2U5My00NDExLTk0ODYtMzg3MGY3NWY4MTc0XkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/15766.webp",
+    "imdb_rating": "6.5",
+    "imdb_votes": "8,341",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Ghidorah,_the_Three-Headed_Monster",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/15766.txt",
+    "plot_year_start": 1964,
+    "plot_year_end": 1964,
+    "epoch": "early-cold-war-era",
+    "action_countries": [
+      "JP",
+      "FICTIONAL"
+    ],
+    "action_continents": [
+      "Asia",
+      "FICTIONAL"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Godzilla franchise",
+    "categories": [
+      {
+        "label": "old beliefs living beside modern progress",
+        "description": "Railways, hospitals, schools, and grand development projects advance, yet religious practice, local spirits, and inherited custom still give meaning to the world. What you'll see: temples and convents, mountain shrines, village festivals, healing rituals beside medicine, ancestral obligations, and children moving easily between the ordinary and the enchanted.",
+        "icon": "⛩️"
+      }
+    ]
+  },
+  {
+    "movie_id": 3683,
+    "movie_idx": 6305,
+    "imdb_id": "tt0418689",
+    "title": "Flags of Our Fathers",
+    "production_year": "2006",
+    "genre": "Action, Adventure, Drama",
+    "plot": "In 1945, the Marines attack twelve thousand Japaneses protecting the twenty square kilometers of the sacred Iwo Jima island in a very violent battle. When they reach the Mount Suribachi and five Marines and one Navy Corpsman raise their flag on the top, the picture becomes a symbol in a post Great Depression America. The government brings the three survivors to America to raise funds for war, bringing hope to desolate people, and making the three men heroes of the war. However, the traumatized trio has difficulty dealing with the image built by their superiors, sharing the heroism with their mates.",
+    "runtime": "135 min",
+    "director": "Clint Eastwood",
+    "actors": "Ryan Phillippe, Jesse Bradford, Adam Beach",
+    "production_country": "United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTU2MjYxMjMyMF5BMl5BanBnXkFtZTYwMzAwMDc3._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/3683.webp",
+    "imdb_rating": "7.1",
+    "imdb_votes": "133,207",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Flags_of_Our_Fathers_(film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/3683.txt",
+    "plot_year_start": 1945,
+    "plot_year_end": 1954,
+    "epoch": "early-cold-war-era",
+    "action_countries": [
+      "JP",
+      "US"
+    ],
+    "action_continents": [
+      "Asia",
+      "North America"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "cold war front lines cutting Asia",
+        "description": "Asia is a principal theater of the new struggle between rival camps, with civil wars, invasions, intelligence work, and exile tied to larger powers. What you'll see: soldiers and student conscripts, field hospitals, spies and couriers, tense ports and frontiers, and talk of Moscow, Washington, Beijing, Seoul, and Taipei.",
+        "icon": "⚔️"
+      }
+    ]
+  },
+  {
+    "movie_id": 823,
+    "movie_idx": 6533,
+    "imdb_id": "tt0193253",
+    "title": "Jin-Roh: The Wolf Brigade",
+    "production_year": "1999",
+    "genre": "Animation, Drama, Sci-Fi",
+    "plot": "Ten years after the end of World War II; anti-terror policeman Fuse gets suspended from service after the suicide by self-detonation of a young terrorist girl during an operation, as he failed to shoot her in time. When he tries to gather some information about her, he meets her sister and befriends with her. Both get dragged into the rivalries between the administration of the police and the counter terrorism commando unit 'Jin Roh' (human wolves).",
+    "runtime": "102 min",
+    "director": "Kenji Kamiyama, Hiroyuki Okiura",
+    "actors": "Michael Dobson, Yoshikazu Fujiki, Sumi Mutoh",
+    "production_country": "Japan",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMzE0NWM3NzctNmE3MS00OTBmLWJiNGEtYTU0N2ZjYzQyNjZiXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/823.webp",
+    "imdb_rating": "7.3",
+    "imdb_votes": "20,441",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Jin-Roh:_The_Wolf_Brigade",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/823.txt",
+    "plot_year_start": 1955,
+    "plot_year_end": 1955,
+    "epoch": "early-cold-war-era",
+    "action_countries": [
+      "JP"
+    ],
+    "action_continents": [
+      "Asia"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "bureaucracies ruling through papers and offices",
+        "description": "Expanding states govern daily life through permits, police files, ministries, schools, and local offices whose slow procedures reach deep into the household. What you'll see: desks stacked with forms, clerks and detectives, interrogation rooms, stamps and notices, school discipline, and people navigating authority through channels rather than custom alone.",
+        "icon": "📄"
+      },
+      {
+        "label": "cold war front lines cutting Asia",
+        "description": "Asia is a principal theater of the new struggle between rival camps, with civil wars, invasions, intelligence work, and exile tied to larger powers. What you'll see: soldiers and student conscripts, field hospitals, spies and couriers, tense ports and frontiers, and talk of Moscow, Washington, Beijing, Seoul, and Taipei.",
+        "icon": "⚔️"
+      }
+    ]
+  },
+  {
+    "movie_id": 9746,
+    "movie_idx": 6541,
+    "imdb_id": "tt0119485",
+    "title": "Kundun",
+    "production_year": "1997",
+    "genre": "Biography, Drama, History",
+    "plot": "The Tibetans refer to the Dalai Lama as 'Kundun', which means 'The Presence'. He was forced to escape from his native home, Tibet, when communist China invaded and enforced an oppressive regime upon the peaceful nation of Tibet. The Dalai Lama escaped to India in 1959 and has been living in exile in Dharamsala ever since.",
+    "runtime": "134 min",
+    "director": "Martin Scorsese",
+    "actors": "Tenzin Thuthob Tsarong, Gyurme Tethong, Tulku Jamyang Kunga Tenzin",
+    "production_country": "Monaco, United States, Morocco",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZGFjNDFkMTMtYmM0ZS00NmQwLTkzNjUtZWYwYjA0ZWMxMDI1XkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/9746.webp",
+    "imdb_rating": "7.0",
+    "imdb_votes": "31,010",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Kundun",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/9746.txt",
+    "plot_year_start": 1937,
+    "plot_year_end": 1959,
+    "epoch": "early-cold-war-era",
+    "action_countries": [
+      "CN",
+      "IN"
+    ],
+    "action_continents": [
+      "Asia",
+      "Asia"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "new states born from partition and retreat",
+        "description": "The end of empire and the drawing of new borders create fresh nations, sudden minorities, and vast uprooting from one side to another. What you'll see: refugees on the move, communal suspicion, official residences changing hands, border crossings, and households split between India, Pakistan, Taiwan, Hong Kong, and the mainland.",
+        "icon": "🧳"
+      },
+      {
+        "label": "cold war front lines cutting Asia",
+        "description": "Asia is a principal theater of the new struggle between rival camps, with civil wars, invasions, intelligence work, and exile tied to larger powers. What you'll see: soldiers and student conscripts, field hospitals, spies and couriers, tense ports and frontiers, and talk of Moscow, Washington, Beijing, Seoul, and Taipei.",
+        "icon": "⚔️"
+      }
+    ]
+  },
+  {
+    "movie_id": 15804,
+    "movie_idx": 6560,
+    "imdb_id": "tt0101985",
+    "title": "A Brighter Summer Day",
+    "production_year": "1991",
+    "genre": "Crime, Drama, Romance",
+    "plot": "Based on a true story, primarily on a conflict between two youth gangs, a 14-year-old boy's girlfriend conflicts with the head of one gang for an unclear reason, until finally the conflict comes to a violent climax.",
+    "runtime": "237 min",
+    "director": "Edward Yang",
+    "actors": "Chang Chen, Lisa Yang, Kuo-Chu Chang",
+    "production_country": "Taiwan",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMGRkNGQwOTktNWQxOS00ZDRjLThmODktNWY4NThjNDU2MjM5XkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/15804.webp",
+    "imdb_rating": "8.2",
+    "imdb_votes": "14,580",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/A_Brighter_Summer_Day",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/15804.txt",
+    "plot_year_start": 1959,
+    "plot_year_end": 1960,
+    "epoch": "early-cold-war-era",
+    "action_countries": [
+      "TW"
+    ],
+    "action_continents": [
+      "Asia"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "crime markets thriving in social upheaval",
+        "description": "Where authority is weak or uneven, gang networks, smugglers, and informal economies flourish beside respectable business and official law. What you'll see: alleyway deals, protection rackets, dockside and nightclub worlds, desperate theft, hired thugs, police dragnets, and the mingling of poverty with sudden wealth.",
+        "icon": "🕴️"
+      },
+      {
+        "label": "families stretched by migration to cities",
+        "description": "Rapid movement toward capitals and port towns weakens old household patterns, leaving parents, children, and kin living by different clocks and expectations. What you'll see: cramped rented rooms, long rail journeys, office districts, village homes left behind, and awkward visits between generations divided by modern city life.",
+        "icon": "🚆"
+      }
+    ]
+  },
+  {
+    "movie_id": 365222,
+    "movie_idx": 6664,
+    "imdb_id": "tt2888046",
+    "title": "Ip Man 3",
+    "production_year": "2015",
+    "genre": "Action, Biography, Crime",
+    "plot": "The year is 1959, where Ip Man lives in Hong Kong with his wife and his younger son. Trouble arises when a corrupt property developer and his thugs terrorize the school where Ip Man's son goes to. Ip Man and his disciples have to help the police guard the school day and night. On the other hand, Ip Man has to deal with his wife's terminal sickness, and at the same time faces a challenge from another Wing Chun fighter who ambitiously seeks to claim the Wing Chun Grandmaster title.",
+    "runtime": "105 min",
+    "director": "Wilson Yip",
+    "actors": "Donnie Yen, Lynn Xiong, Jin Zhang",
+    "production_country": "China, Hong Kong",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMmZhOWNlMDEtN2M1OC00Yzk5LThhOTAtZDA5NTNjNjQyZDM0XkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/365222.webp",
+    "imdb_rating": "7.0",
+    "imdb_votes": "63,657",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Ip_Man_3",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/365222.txt",
+    "plot_year_start": 1959,
+    "plot_year_end": 1959,
+    "epoch": "early-cold-war-era",
+    "action_countries": [
+      "HK",
+      "CN"
+    ],
+    "action_continents": [
+      "Asia",
+      "Asia"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "crime markets thriving in social upheaval",
+        "description": "Where authority is weak or uneven, gang networks, smugglers, and informal economies flourish beside respectable business and official law. What you'll see: alleyway deals, protection rackets, dockside and nightclub worlds, desperate theft, hired thugs, police dragnets, and the mingling of poverty with sudden wealth.",
+        "icon": "🕴️"
+      },
+      {
+        "label": "American influence in screens and streets",
+        "description": "United States power arrives not only through armies and occupation but through music, sport, consumer habits, language, and new standards of prestige. What you'll see: military bases and jeeps, western clothes, jazz and popular songs, advertising schemes, Olympic aspirations, imported goods, and local unease about imitation and change.",
+        "icon": "🛻"
+      }
+    ]
+  },
+  {
+    "movie_id": 185714,
+    "movie_idx": 6668,
+    "imdb_id": "tt0286573",
+    "title": "Hell of Roses",
+    "production_year": "1980",
+    "genre": "N/A",
+    "plot": "Popular singer Keiko felt the heat of a famous photographer Yoshida's eyes while doing a recording in the studio. Meanwhile, another photographer Sawamura and his assistant Kihara were listening to Keiko's song in the car. When they saw student Shizuko walked out from the wedding banquet they approach her and brought her to their place. When Shizuko senses their intentions its already too late. She was knocked out by Kihara and was raped.",
+    "runtime": "N/A",
+    "director": "Shôgorô Nishimura",
+    "actors": "Junko Mabuki, Yuki Yoshizawa, Shu Wada",
+    "production_country": "Japan",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYjQ3OTVlMWItNjVkNC00MzE0LTliYzEtNjkxMDA5MDMwNmQ5XkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/185714.webp",
+    "imdb_rating": "5.3",
+    "imdb_votes": "26",
+    "plot_year_start": 1950,
+    "plot_year_end": 1950,
+    "epoch": "early-cold-war-era",
+    "action_countries": [
+      "JP"
+    ],
+    "action_continents": [
+      "Asia"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "women between household duty and wages",
+        "description": "Women are increasingly educated and employed, yet marriage, filial care, and sexual respectability still set the terms by which society judges them. What you'll see: office desks and beauty shops, marriage meetings, daughters caring for fathers, secretaries and singers, gossiping relatives, and the constant pressure of propriety.",
+        "icon": "👠"
+      }
+    ],
+    "failures": {
+      "wikipedia": "no_wiki_article_found"
+    }
+  },
+  {
+    "movie_id": 18148,
+    "movie_idx": 6764,
+    "imdb_id": "tt0046438",
+    "title": "Tokyo Story",
+    "production_year": "1953",
+    "genre": "Drama",
+    "plot": "Elderly couple Shukishi and Tomi Hirayama live in the small coastal village of Onomichi, Japan with their youngest daughter, schoolteacher Kyoko Hirayama. Their other three surviving adult children, who they have not seen in quite some time, live either in Tokyo or Osaka. As such, Shukishi and Tomi make the unilateral decision to have an extended visit in Tokyo with their children, pediatrician Koichi Hirayama and beautician Shige Kaneko, and their respective families (which includes two grandchildren). In transit, they make an unexpected stop in Osaka and stay with their other son, Keiso Hirayama. All of their children treat the visit more as an obligation than a want, each trying to figure out what to do with their parents while they continue on with their own daily lives. At one point, they even decide to ship their parents off to an inexpensive resort at Atami Hot Springs rather than spend time with them. The only offspring who makes a concerted effort on this trip is Noriko Hirayama, their widowed daughter-in-law, whose husband, Shoji Hirayama, was killed eight years earlier in the war. Following the vacation, each child comes to some conclusion of their general behavior toward their parents, not only on this trip but throughout their entire adult lives. For some, this realization may come too late.",
+    "runtime": "137 min",
+    "director": "Yasujirô Ozu",
+    "actors": "Chishû Ryû, Chieko Higashiyama, Sô Yamamura",
+    "production_country": "Japan",
+    "poster": "https://m.media-amazon.com/images/M/MV5BODdkNzcxZjItMDU2Yy00Y2JlLWFkYTQtNzIwM2Q4MWU5MTU2XkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/18148.webp",
+    "imdb_rating": "8.1",
+    "imdb_votes": "76,665",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Tokyo_Story",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/18148.txt",
+    "plot_year_start": 1953,
+    "plot_year_end": 1953,
+    "epoch": "early-cold-war-era",
+    "action_countries": [
+      "JP"
+    ],
+    "action_continents": [
+      "Asia"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "families stretched by migration to cities",
+        "description": "Rapid movement toward capitals and port towns weakens old household patterns, leaving parents, children, and kin living by different clocks and expectations. What you'll see: cramped rented rooms, long rail journeys, office districts, village homes left behind, and awkward visits between generations divided by modern city life.",
+        "icon": "🚆"
+      },
+      {
+        "label": "cities rebuilding after war and defeat",
+        "description": "Across much of East Asia, bomb damage, shortages, and dislocation still shape urban life even as streets fill again and ordinary routines return. What you'll see: ruined lots beside new buildings, crowded buses and clinics, black markets, patched clothing, and neighborhoods trying to look forward while war remains visible.",
+        "icon": "🏚️"
+      }
+    ]
+  },
+  {
+    "movie_id": 18311,
+    "movie_idx": 6853,
+    "imdb_id": "tt0101258",
+    "title": "Days of Being Wild",
+    "production_year": "1990",
+    "genre": "Crime, Drama, Romance",
+    "plot": "Set in 1960, the film centres on the young, boyishly handsome Yuddy, who learns from the drunken ex-prostitute who raised him that she is not his real mother. Hoping to hold onto him, she refuses to divulge the name of his real birth mother. The revelation shakes Yuddy to his very core, unleashing a cascade of conflicting emotions. Two women have the bad luck to fall for Yuddy. One is a quiet lass named Su Lizhen who works at a sports arena, while the other is a glitzy showgirl named Mimi. Perhaps due to his unresolved Oedipal issues, he passively lets the two compete for him, unable or unwilling to make a choice. As Lizhen slowly confides her frustration to a cop named Tide, he falls for her. The same is true for Yuddy's friend Zeb, who falls for Mimi. Later, Yuddy learns of his birth mother's whereabouts and heads out to the Philippines.",
+    "runtime": "94 min",
+    "director": "Wong Kar-Wai",
+    "actors": "Leslie Cheung, Maggie Cheung, Andy Lau",
+    "production_country": "Hong Kong",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTE0OGQxNmYtMTU0Mi00ZTc1LTk5OGUtZWY2NDIzNTQ0YjgyXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/18311.webp",
+    "imdb_rating": "7.4",
+    "imdb_votes": "28,126",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Days_of_Being_Wild",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/18311.txt",
+    "plot_year_start": 1960,
+    "plot_year_end": 1960,
+    "epoch": "early-cold-war-era",
+    "action_countries": [
+      "HK",
+      "PH"
+    ],
+    "action_continents": [
+      "Asia",
+      "Asia"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "old beliefs living beside modern progress",
+        "description": "Railways, hospitals, schools, and grand development projects advance, yet religious practice, local spirits, and inherited custom still give meaning to the world. What you'll see: temples and convents, mountain shrines, village festivals, healing rituals beside medicine, ancestral obligations, and children moving easily between the ordinary and the enchanted.",
+        "icon": "⛩️"
+      },
+      {
+        "label": "crowded rooms and thin urban privacy",
+        "description": "In booming cities, many lives are lived in boarding houses, shared compounds, and close-built streets where neighbors hear nearly everything. What you'll see: noodle stalls, stairwells and corridors, mahjong tables, adjoining rooms, curtained interiors, street vendors, and everyday life conducted under watchful ears.",
+        "icon": "🚪"
+      }
+    ]
+  },
+  {
+    "movie_id": 12493,
+    "movie_idx": 7002,
+    "imdb_id": "tt0057565",
+    "title": "High and Low",
+    "production_year": "1963",
+    "genre": "Crime, Drama, Mystery",
+    "plot": "A wealthy businessman is told his son has been kidnapped and he will have to pay a very large sum for him to be returned safely. It is then discovered that his son is safe at home: the kidnapper took his chauffeur's son by accident. The kidnapper says this makes no difference: pay up or the child dies. This leaves him with a moral dilemma, as he really needs the money to conclude a very important business deal.",
+    "runtime": "143 min",
+    "director": "Akira Kurosawa",
+    "actors": "Toshirô Mifune, Yutaka Sada, Tatsuya Nakadai",
+    "production_country": "Japan",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMGJiNzllYjktODAzNS00OGUzLTlmY2MtMjA2ZTZhYTY1OTc4XkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/12493.webp",
+    "imdb_rating": "8.4",
+    "imdb_votes": "70,373",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/High_and_Low_(1963_film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/12493.txt",
+    "plot_year_start": 1962,
+    "plot_year_end": 1962,
+    "epoch": "early-cold-war-era",
+    "action_countries": [
+      "JP"
+    ],
+    "action_continents": [
+      "Asia"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "bureaucracies ruling through papers and offices",
+        "description": "Expanding states govern daily life through permits, police files, ministries, schools, and local offices whose slow procedures reach deep into the household. What you'll see: desks stacked with forms, clerks and detectives, interrogation rooms, stamps and notices, school discipline, and people navigating authority through channels rather than custom alone.",
+        "icon": "📄"
+      },
+      {
+        "label": "crime markets thriving in social upheaval",
+        "description": "Where authority is weak or uneven, gang networks, smugglers, and informal economies flourish beside respectable business and official law. What you'll see: alleyway deals, protection rackets, dockside and nightclub worlds, desperate theft, hired thugs, police dragnets, and the mingling of poverty with sudden wealth.",
+        "icon": "🕴️"
+      }
+    ]
+  },
+  {
+    "movie_id": 5544,
+    "movie_idx": 7062,
+    "imdb_id": "tt0052893",
+    "title": "Hiroshima Mon Amour",
+    "production_year": "1959",
+    "genre": "Drama, Romance",
+    "plot": "A French woman and a Japanese man have an affair while she is in Japan making a film about peace and the impact of the atomic bomb on Hiroshima, The man, an architect, lost his family in the bombing. She recalls her lover during the war, a 23 year-old German soldier who later died. Despite the time they spend together, her attachment appears minimal and they go forward into the future.",
+    "runtime": "90 min",
+    "director": "Alain Resnais",
+    "actors": "Emmanuelle Riva, Eiji Okada, Stella Dassas",
+    "production_country": "France, Japan",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMzY2NTA1MzUwN15BMl5BanBnXkFtZTgwOTc4NTU4MjE@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/5544.webp",
+    "imdb_rating": "7.8",
+    "imdb_votes": "39,050",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Hiroshima_mon_amour",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/5544.txt",
+    "plot_year_start": 1959,
+    "plot_year_end": 1959,
+    "epoch": "early-cold-war-era",
+    "action_countries": [
+      "JP",
+      "FR"
+    ],
+    "action_continents": [
+      "Asia",
+      "Europe"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "cities rebuilding after war and defeat",
+        "description": "Across much of East Asia, bomb damage, shortages, and dislocation still shape urban life even as streets fill again and ordinary routines return. What you'll see: ruined lots beside new buildings, crowded buses and clinics, black markets, patched clothing, and neighborhoods trying to look forward while war remains visible.",
+        "icon": "🏚️"
+      }
+    ]
+  },
+  {
+    "movie_id": 18983,
+    "movie_idx": 7165,
+    "imdb_id": "tt0197521",
+    "title": "Godzilla: King of the Monsters!",
+    "production_year": "1956",
+    "genre": "Action, Horror, Sci-Fi",
+    "plot": "When American reporter Steve Martin investigates a series of mysterious disasters off the coast of Japan, he comes face to face with an ancient creature so powerful and so terrifying, it can reduce Tokyo to a smoldering graveyard. Nuclear weapon testing resurrected this relic from the Jurassic age, and now it's rampaging across Japan. At night, Godzilla wades through Tokyo leaving death and destruction in his wake, disappearing into Tokyo Bay when his rage subsides. Coventional weapons are useless against him; but renowned scientist Dr. Serizawa has discovered a weapon that could destroy all life in the bay -- including Godzilla. But which disaster is worse, Godzilla's fury, or the death of Tokyo Bay?",
+    "runtime": "80 min",
+    "director": "Ishirô Honda, Terry O. Morse",
+    "actors": "Raymond Burr, Takashi Shimura, Momoko Kôchi",
+    "production_country": "Japan, United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BM2M3Y2NhY2QtNjUyOC00YWFkLTg2ZGEtZjEwODgxNGZiZWM5XkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/18983.webp",
+    "imdb_rating": "6.3",
+    "imdb_votes": "9,321",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Godzilla,_King_of_the_Monsters!",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/18983.txt",
+    "plot_year_start": 1954,
+    "plot_year_end": 1954,
+    "epoch": "early-cold-war-era",
+    "action_countries": [
+      "JP"
+    ],
+    "action_continents": [
+      "Asia"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "American influence in screens and streets",
+        "description": "United States power arrives not only through armies and occupation but through music, sport, consumer habits, language, and new standards of prestige. What you'll see: military bases and jeeps, western clothes, jazz and popular songs, advertising schemes, Olympic aspirations, imported goods, and local unease about imitation and change.",
+        "icon": "🛻"
+      },
+      {
+        "label": "cities rebuilding after war and defeat",
+        "description": "Across much of East Asia, bomb damage, shortages, and dislocation still shape urban life even as streets fill again and ordinary routines return. What you'll see: ruined lots beside new buildings, crowded buses and clinics, black markets, patched clothing, and neighborhoods trying to look forward while war remains visible.",
+        "icon": "🏚️"
+      }
+    ]
+  },
+  {
+    "movie_id": 521034,
+    "movie_idx": 7184,
+    "imdb_id": "tt2702920",
+    "title": "The Secret Garden",
+    "production_year": "2020",
+    "genre": "Drama, Family, Fantasy",
+    "plot": "The main character Mary Lennox \"Dixie Egerickx\" is a spoiled 10-year-old girl of rich parents who grew up in India. After her parents die from cholera, Mary is sent to live in Misselthwaite Manor in Yorkshire with her uncle Archibald Craven \"Colin Firth\" and the housekeeper Mrs. Medlock \"Julie Walters\". Mary discovers that the house holds many secrets. There she finds a key that leads her to a garden held locked for years by her uncle after the death of his wife. Soon she finds a room in the manor where her sick cousin Colin \"Edan Hayhurst\" has spend his entire life in his bed, completely unable to walk. But with the help of her new friend Dickon \"Amir Wilson\" the children manage to bring the garden back to life. In the garden Colin learns to walk and he becomes a healthy and happy young boy. When Lord Craven one day sees the children playing in the garden, he is amazed by the sight of his son walking. He feels joy for the first time since years.",
+    "runtime": "99 min",
+    "director": "Marc Munden",
+    "actors": "Dixie Egerickx, Richard Hansell, David Verrey",
+    "production_country": "United Kingdom, France, United States, China",
+    "poster": "https://m.media-amazon.com/images/M/MV5BOGZjMzIzMTItMjYxZC00MjE2LWE2MWItNWI4NGZhMzBkZWZmXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/521034.webp",
+    "imdb_rating": "5.6",
+    "imdb_votes": "10,904",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Secret_Garden_(2020_film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/521034.txt",
+    "plot_year_start": 1947,
+    "plot_year_end": 1947,
+    "epoch": "early-cold-war-era",
+    "action_countries": [
+      "IN",
+      "GB"
+    ],
+    "action_continents": [
+      "Asia",
+      "Europe"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "old beliefs living beside modern progress",
+        "description": "Railways, hospitals, schools, and grand development projects advance, yet religious practice, local spirits, and inherited custom still give meaning to the world. What you'll see: temples and convents, mountain shrines, village festivals, healing rituals beside medicine, ancestral obligations, and children moving easily between the ordinary and the enchanted.",
+        "icon": "⛩️"
+      }
+    ]
+  },
+  {
+    "movie_id": 127560,
+    "movie_idx": 7300,
+    "imdb_id": "tt2058107",
+    "title": "The Railway Man",
+    "production_year": "2013",
+    "genre": "Biography, Drama, Romance",
+    "plot": "Eric Lomax was one of thousands of Allied prisoners of war forced to work on the construction of the Thai/Burma railway during WW2. His experiences, after the secret radio he built to bring news and hope to his colleagues was discovered, left him traumatised and shut off from the world. Years later, he met Patti, a beautiful woman, on a train and fell in love. Patti was determined to rid Eric of his demons. Discovering that the young Japanese officer who haunted her husband was still alive, she faced a terrible decision. Should Eric be given a chance to confront his tormentor? Would she stand by him, whatever he did?",
+    "runtime": "116 min",
+    "director": "Jonathan Teplitzky",
+    "actors": "Colin Firth, Nicole Kidman, Stellan Skarsgård",
+    "production_country": "Switzerland, United Kingdom, Australia, Thailand",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTQzNDU1NjE0NF5BMl5BanBnXkFtZTgwODA3NDczMDE@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/127560.webp",
+    "imdb_rating": "7.1",
+    "imdb_votes": "43,350",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Railway_Man_(film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/127560.txt",
+    "plot_year_start": 1942,
+    "plot_year_end": 1970,
+    "epoch": "early-cold-war-era",
+    "action_countries": [
+      "TH",
+      "SG",
+      "GB",
+      "AU"
+    ],
+    "action_continents": [
+      "Asia",
+      "Asia",
+      "Europe",
+      "Oceania"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "cold war front lines cutting Asia",
+        "description": "Asia is a principal theater of the new struggle between rival camps, with civil wars, invasions, intelligence work, and exile tied to larger powers. What you'll see: soldiers and student conscripts, field hospitals, spies and couriers, tense ports and frontiers, and talk of Moscow, Washington, Beijing, Seoul, and Taipei.",
+        "icon": "⚔️"
+      }
+    ]
+  },
+  {
+    "movie_id": 57703,
+    "movie_idx": 7532,
+    "imdb_id": "tt1270842",
+    "title": "Norwegian Wood",
+    "production_year": "2010",
+    "genre": "Drama, Romance",
+    "plot": "Upon hearing the song \"Norwegian Wood,\" Toru (Matsuyama) remembers back to his life in the 1960s, when his friend Kizuki killed himself and he grew close to Naoko, Kizuki's girlfriend. As the two try, in very different ways, to contend with their grief, Toru forms a bond with another woman, Midori.",
+    "runtime": "133 min",
+    "director": "Anh Hung Tran",
+    "actors": "Ken'ichi Matsuyama, Rinko Kikuchi, Kiko Mizuhara",
+    "production_country": "Japan",
+    "poster": "https://m.media-amazon.com/images/M/MV5BODQ3NTM0Nzg3OV5BMl5BanBnXkFtZTcwMTE3MDMxNw@@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/57703.webp",
+    "imdb_rating": "6.3",
+    "imdb_votes": "12,633",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Norwegian_Wood_(film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/57703.txt",
+    "plot_year_start": 1960,
+    "plot_year_end": 1960,
+    "epoch": "early-cold-war-era",
+    "action_countries": [
+      "JP"
+    ],
+    "action_continents": [
+      "Asia"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "old beliefs living beside modern progress",
+        "description": "Railways, hospitals, schools, and grand development projects advance, yet religious practice, local spirits, and inherited custom still give meaning to the world. What you'll see: temples and convents, mountain shrines, village festivals, healing rituals beside medicine, ancestral obligations, and children moving easily between the ordinary and the enchanted.",
+        "icon": "⛩️"
+      }
+    ]
+  },
+  {
+    "movie_id": 16391,
+    "movie_idx": 7630,
+    "imdb_id": "tt0039192",
+    "title": "Black Narcissus",
+    "production_year": "1947",
+    "genre": "Drama",
+    "plot": "Sister Clodagh, currently posted at the Convent of the Order of the Servants of Mary in Calcutta, has just been appointed the Sister Superior of the St. Faith convent, making her the youngest sister superior in the order. The appointment is despite the reservations of the Reverend Mother who believes Sister Clodagh not ready for such an assignment, especially because of its isolated location. The convent will be a new one located in the mountainside Palace of Mopu in the Himalayas, and is only possible through the donation by General Todo Rai of Mopu - \"The Old General\" - of the palace, where the Old General's father formerly kept his concubine. On the Old General's directive, the convent is to provide schooling to the children and young women, and general dispensary services to all native residents who live in the valley below the palace. Accompanying Sister Clodagh will be four of the other nuns, each chosen for a specific reason: Sister Briony for her strength, Sister Phillipa who is to tend to the garden for food, Sister Blanche - more commonly referred to as Sister Honey - for her general ability to spread happiness, and troubled Sister Ruth, who the Reverend Mother believes will truly find her faith from the change in locale. The palace comes with an elderly female caretaker, slightly off kilter Angu Ayah, and a holy man who meditates in solitude and silence outside the palace grounds night and day, he who is not to be disturbed. The General also provides a young boy, six year old Joseph Anthony, the General's cook's son, who will live at the convent to provide translation services. But the sisters' primary liaison to the General and the outside world is his agent, native Brit Mr. Dean, which may prove to be problematic in his gender and doing any work around the convent. Sister Clodagh faces early challenges in feeling the need to accept two people to the convent: seventeen year old Kanchi, who is pushing the boundaries of her sexuality; and the Old General's son, the \"Young General\", who wants the same educational opportunities, if not better, than that offered to his female counterparts. Beyond these issues, each of the sisters is challenged by this posting, from the cultural differences, to the isolation, to the general openness of their environment. Sister Clodagh, as the leader, feels that she has no one to turn to in her confusion, her thoughts turning back to her time in Ireland before joining the order and her love for a young man named Con that was partly the reason for her decision to devote her life to God. But it is Sister Ruth whose issues may be the most problematic as she is becoming unhinged in her growing romantic obsession with Mr. Dean, especially as jealousy emerges in she also believing that Sister Clodagh is falling in love with him as well, which may or may not be the case.",
+    "runtime": "101 min",
+    "director": "Michael Powell, Emeric Pressburger",
+    "actors": "Deborah Kerr, David Farrar, Flora Robson",
+    "production_country": "United Kingdom",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjRmMTQyNDEtNWM4Zi00ZTMwLTlkOGUtZTdmZDU0NTNiZTQ0XkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/16391.webp",
+    "imdb_rating": "7.7",
+    "imdb_votes": "29,942",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Black_Narcissus",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/16391.txt",
+    "plot_year_start": 1947,
+    "plot_year_end": 1947,
+    "epoch": "early-cold-war-era",
+    "action_countries": [
+      "IN",
+      "GB",
+      "IE"
+    ],
+    "action_continents": [
+      "Asia",
+      "Europe",
+      "Europe"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "old beliefs living beside modern progress",
+        "description": "Railways, hospitals, schools, and grand development projects advance, yet religious practice, local spirits, and inherited custom still give meaning to the world. What you'll see: temples and convents, mountain shrines, village festivals, healing rituals beside medicine, ancestral obligations, and children moving easily between the ordinary and the enchanted.",
+        "icon": "⛩️"
+      },
+      {
+        "label": "bureaucracies ruling through papers and offices",
+        "description": "Expanding states govern daily life through permits, police files, ministries, schools, and local offices whose slow procedures reach deep into the household. What you'll see: desks stacked with forms, clerks and detectives, interrogation rooms, stamps and notices, school discipline, and people navigating authority through channels rather than custom alone.",
+        "icon": "📄"
+      }
+    ]
+  },
+  {
+    "movie_id": 651,
+    "movie_idx": 7998,
+    "imdb_id": "tt0066026",
+    "title": "M*A*S*H",
+    "production_year": "1970",
+    "genre": "Comedy, Drama, War",
+    "plot": "The personnel at the 4077 MASH unit deal with the horrors of the Korean War and the stresses faced in surgery by whatever means. The tone at the MASH is established by recent arrivals, surgeons Captains 'Hawkeye' Pierce, 'Duke' Forrest, and 'Trapper' John McIntyre - the latter who Hawkeye knows he's met somewhere, but Trapper who won't divulge where - whose antics can be best described as non-regulation, and in the negative words of one of their fellow MASH-ers, unmilitary. The unit's commanding officer, Colonel Henry Blake, doesn't care about this behavior as long as it doesn't affect him, and as long as they do their job and do it well, which they do. Their behavior does extremely bother fellow surgeon, Major Frank Burns, and recently arrived head nurse, Major Margaret Houlihan, who obtains the nickname 'Hot Lips' based on information they glean about her through underhanded means. Beyond their battles with Frank and Hot Lips, Hawkeye, Duke and/or Trapper help unit dentist Painless with a personal crisis, try to figure out if Hot Lips is a true blond, travel to Japan for a work and what they hope is a recreational trip, and hope to win big on a football bet against another unit in which they on the surface are the underdogs.",
+    "runtime": "116 min",
+    "director": "Robert Altman",
+    "actors": "Donald Sutherland, Elliott Gould, Tom Skerritt",
+    "production_country": "United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZDI0MDNiNWMtYzc5NS00MTc2LWJlMjktM2RkZTEyMzZjOTIwXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/651.webp",
+    "imdb_rating": "7.3",
+    "imdb_votes": "82,268",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/M*A*S*H_(film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/651.txt",
+    "plot_year_start": 1951,
+    "plot_year_end": 1951,
+    "epoch": "early-cold-war-era",
+    "action_countries": [
+      "KR",
+      "JP"
+    ],
+    "action_continents": [
+      "Asia",
+      "Asia"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "cold war front lines cutting Asia",
+        "description": "Asia is a principal theater of the new struggle between rival camps, with civil wars, invasions, intelligence work, and exile tied to larger powers. What you'll see: soldiers and student conscripts, field hospitals, spies and couriers, tense ports and frontiers, and talk of Moscow, Washington, Beijing, Seoul, and Taipei.",
+        "icon": "⚔️"
+      }
+    ]
+  },
+  {
+    "movie_id": 472454,
+    "movie_idx": 8008,
+    "imdb_id": "tt6316138",
+    "title": "Ayla: The Daughter of War",
+    "production_year": "2017",
+    "genre": "Biography, Drama, History",
+    "plot": "In 1950, amid-st the ravages of the Korean War, Sergeant Süleyman stumbles upon a half-frozen little girl, with no parents and no help in sight. Frantic, scared and on the verge of death, this little girl captures the heart of Süleyman, who risks his own life to save her, smuggling her into his Army base and out of harms way. Not knowing her name and unable to communicate with her, Süleyman names her Ayla, in reminiscence of the moon on the fateful night during which they met. The two form an instantaneous and inseparable bond, and Ayla, almost effortlessly, brings an uncanny joy to the Turkish brigade in the grip of war. As the war comes to a close however, Süleyman's brigade is told that they will be returning home. Süleyman cannot bear abandoning Ayla, and does everything within his power to take her with him. After repeated failure, he is forced to give Ayla to an orphanage, but doesn't give up on the hope of one day reuniting with her. Will the two ever get back together?",
+    "runtime": "125 min",
+    "director": "Can Ulkay",
+    "actors": "Çetin Tekindor, Ismail Hacioglu, Lee Kyung-jin",
+    "production_country": "Turkey",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMDRhYTNiMjMtY2U1OC00NWIwLTk0MTEtMDY1NTMxZDExYjBmXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/472454.webp",
+    "imdb_rating": "8.2",
+    "imdb_votes": "46,210",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Ayla:_The_Daughter_of_War",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/472454.txt",
+    "plot_year_start": 1950,
+    "plot_year_end": 1953,
+    "epoch": "early-cold-war-era",
+    "action_countries": [
+      "KR"
+    ],
+    "action_continents": [
+      "Asia"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "cold war front lines cutting Asia",
+        "description": "Asia is a principal theater of the new struggle between rival camps, with civil wars, invasions, intelligence work, and exile tied to larger powers. What you'll see: soldiers and student conscripts, field hospitals, spies and couriers, tense ports and frontiers, and talk of Moscow, Washington, Beijing, Seoul, and Taipei.",
+        "icon": "⚔️"
+      },
+      {
+        "label": "families stretched by migration to cities",
+        "description": "Rapid movement toward capitals and port towns weakens old household patterns, leaving parents, children, and kin living by different clocks and expectations. What you'll see: cramped rented rooms, long rail journeys, office districts, village homes left behind, and awkward visits between generations divided by modern city life.",
+        "icon": "🚆"
+      }
+    ]
+  },
+  {
+    "movie_id": 1680,
+    "movie_idx": 8137,
+    "imdb_id": "tt13364334",
+    "title": "King Kong vs. Godzilla",
+    "production_year": "1962",
+    "genre": "Action, Adventure, Comedy",
+    "plot": "Original Japanese version. Tako, advertising director of Pacific Pharmaceuticals, is frustrated by the low viewership of their sponsored documentary show. Realizing that he needs a more sensationalist approach, Tako orders two of his men, Sakurai and Furue, on an expedition to Faro Island to investigate a legendary monster called King Kong and exploit it for advertising. Just as the expedition is underway, Godzilla emerges from an iceberg and sets his sights towards Japan. A media frenzy is generated that steals the publicity away from Tako's own monster. As Kong is captured and hauled back to Japan, people begin to wonder which monster is stronger and capable of beating the other. Tako realizes the marketability of King Kong facing off against Godzilla as the two monsters are pitted against each other in the biggest wrestling match of all time.",
+    "runtime": "97 min",
+    "director": "Ishirô Honda",
+    "actors": "Tadao Takashima, Yû Fujiki, Kenji Sahara",
+    "production_country": "Japan, United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNWMxNjc0YzMtMTQ1ZC00YzIxLThhM2UtNzMzYWFmYmM4MjM1XkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/1680.webp",
+    "imdb_rating": "6.2",
+    "imdb_votes": "2,958",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/King_Kong_vs._Godzilla",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/1680.txt",
+    "plot_year_start": 1955,
+    "plot_year_end": 1955,
+    "epoch": "early-cold-war-era",
+    "action_countries": [
+      "JP",
+      "FICTIONAL"
+    ],
+    "action_continents": [
+      "Asia",
+      "FICTIONAL"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "American influence in screens and streets",
+        "description": "United States power arrives not only through armies and occupation but through music, sport, consumer habits, language, and new standards of prestige. What you'll see: military bases and jeeps, western clothes, jazz and popular songs, advertising schemes, Olympic aspirations, imported goods, and local unease about imitation and change.",
+        "icon": "🛻"
+      }
+    ]
+  },
+  {
+    "movie_id": 80156,
+    "movie_idx": 8660,
+    "imdb_id": "tt0284137",
+    "title": "Gadar: Ek Prem Katha",
+    "production_year": "2001",
+    "genre": "Action, Drama, Romance",
+    "plot": "Amongst the communal riots that erupt in the city, Tara shelters a wayward Sakina from a crazed mob and a bond that blossoms into love is created. The two eventually get married and have a son. The happy family, now living in Amritsar, gets the shock of their lives when Sakina learns that her father (Amrish Puri), whom she previously believed died in the riots back in Amritsar, is still alive after seeing his picture in a tattered, old newspaper. Upon contacting him, Sakina's father, now the mayor of Lahore in Pakistan, arranges for his daughter to arrive in Lahore to see him. Sakina leaves for Lahore minus Tara and her son, and upon reaching the city, learns of her father's plans for her - plans that include forcing Sakina to forget about her family and start life anew in Pakistan. Then begins an extraordinary journey which will lead Tara to cross the border into Pakistan to find his love Sakina.",
+    "runtime": "170 min",
+    "director": "Anil Sharma",
+    "actors": "Sunny Deol, Ameesha Patel, Amrish Puri",
+    "production_country": "India",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZjRlOWMxODAtOGVmNy00MDJkLWIyNTYtNzg4NjBhZGZiNmQ3XkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/80156.webp",
+    "imdb_rating": "7.3",
+    "imdb_votes": "15,902",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Gadar:_Ek_Prem_Katha",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/80156.txt",
+    "plot_year_start": 1947,
+    "plot_year_end": 1954,
+    "epoch": "early-cold-war-era",
+    "action_countries": [
+      "IN",
+      "PK"
+    ],
+    "action_continents": [
+      "Asia",
+      "Asia"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "new states born from partition and retreat",
+        "description": "The end of empire and the drawing of new borders create fresh nations, sudden minorities, and vast uprooting from one side to another. What you'll see: refugees on the move, communal suspicion, official residences changing hands, border crossings, and households split between India, Pakistan, Taiwan, Hong Kong, and the mainland.",
+        "icon": "🧳"
+      },
+      {
+        "label": "crime markets thriving in social upheaval",
+        "description": "Where authority is weak or uneven, gang networks, smugglers, and informal economies flourish beside respectable business and official law. What you'll see: alleyway deals, protection rackets, dockside and nightclub worlds, desperate theft, hired thugs, police dragnets, and the mingling of poverty with sudden wealth.",
+        "icon": "🕴️"
+      }
+    ]
+  },
+  {
+    "movie_id": 50247,
+    "movie_idx": 9102,
+    "imdb_id": "tt0043313",
+    "title": "Early Summer",
+    "production_year": "1951",
+    "genre": "Comedy, Drama, Romance",
+    "plot": "In postwar Tokyo, this household is loving and serene: older parents, their 28-year-old daughter Noriko, their married son, his devoted wife, and two rascally sons. Their only discontent is Noriko's lack of a husband. Society is changing: she works, she has women friends who tease and argue, her brother sees her independence as impudence, she sees it as normal. When her boss suggests that she marry a 40-year-old bachelor who is his friend, all the members of her family press her to accept. Without seeking their advice, and to their chagrin, Noriko determines her own course of action.",
+    "runtime": "125 min",
+    "director": "Yasujirô Ozu",
+    "actors": "Setsuko Hara, Chishû Ryû, Chikage Awashima",
+    "production_country": "Japan",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMGY0MDM0NzQtMDQ1MS00MjU2LTlkZWItOTUyODg3NzRlNDA0XkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/50247.webp",
+    "imdb_rating": "8.1",
+    "imdb_votes": "9,910",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Early_Summer",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/50247.txt",
+    "plot_year_start": 1951,
+    "plot_year_end": 1951,
+    "epoch": "early-cold-war-era",
+    "action_countries": [
+      "JP"
+    ],
+    "action_continents": [
+      "Asia"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "women between household duty and wages",
+        "description": "Women are increasingly educated and employed, yet marriage, filial care, and sexual respectability still set the terms by which society judges them. What you'll see: office desks and beauty shops, marriage meetings, daughters caring for fathers, secretaries and singers, gossiping relatives, and the constant pressure of propriety.",
+        "icon": "👠"
+      }
+    ]
+  },
+  {
+    "movie_id": 429662,
+    "movie_idx": 9164,
+    "imdb_id": "tt4977530",
+    "title": "Viceroy's House",
+    "production_year": "2017",
+    "genre": "Biography, Drama, History",
+    "plot": "New Dehli, India, March 1947. The huge and stately Viceroy's Palace is like a beehive. Its five hundred employees are busy preparing the coming of Louis Francis Albert Victor Nicholas Mountbatten, 1st Earl Mountbatten of Burma (Hugh Bonneville), who has just been appointed new (and last) Viceroy of India by Prime Minister Clement Attlee. Mountbatten, whose difficult task consists of overseeing the transition of British India to independence, arrives at the Palace, accompanied by Edwina (Gillian Anderson), his liberal-minded wife and Pamela (Lily Travers), his eighteen-year-old daughter. Meanwhile, in the staff quarters, a love story is born between Jeet Kumar (Manish Dayal), a Hindu, and Aalia Noor (Huma Qureshi), a Muslim beauty. Things will prove to be difficult, not to say very difficult, on the geopolitical and personal level.",
+    "runtime": "106 min",
+    "director": "Gurinder Chadha",
+    "actors": "Hugh Bonneville, Gillian Anderson, Manish Dayal",
+    "production_country": "United Kingdom, India, Sweden",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTk5ODU2NzExMF5BMl5BanBnXkFtZTgwOTI2ODkwMTI@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/429662.webp",
+    "imdb_rating": "6.7",
+    "imdb_votes": "8,648",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Viceroy%27s_House_(film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/429662.txt",
+    "plot_year_start": 1947,
+    "plot_year_end": 1947,
+    "epoch": "early-cold-war-era",
+    "action_countries": [
+      "IN"
+    ],
+    "action_continents": [
+      "Asia"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "new states born from partition and retreat",
+        "description": "The end of empire and the drawing of new borders create fresh nations, sudden minorities, and vast uprooting from one side to another. What you'll see: refugees on the move, communal suspicion, official residences changing hands, border crossings, and households split between India, Pakistan, Taiwan, Hong Kong, and the mainland.",
+        "icon": "🧳"
+      },
+      {
+        "label": "cold war front lines cutting Asia",
+        "description": "Asia is a principal theater of the new struggle between rival camps, with civil wars, invasions, intelligence work, and exile tied to larger powers. What you'll see: soldiers and student conscripts, field hospitals, spies and couriers, tense ports and frontiers, and talk of Moscow, Washington, Beijing, Seoul, and Taipei.",
+        "icon": "⚔️"
+      }
+    ]
+  },
+  {
+    "movie_id": 206324,
+    "movie_idx": 9223,
+    "imdb_id": "tt2356180",
+    "title": "Bhaag Milkha Bhaag",
+    "production_year": "2013",
+    "genre": "Biography, Drama, Sport",
+    "plot": "The true story of the \"Flying Sikh\" - world champion runner and Olympian Milkha Singh -- who overcame the massacre of his family, civil war during the India-Pakistan partition, and homelessness to become one of India's most iconic athletes.",
+    "runtime": "186 min",
+    "director": "Rakeysh Omprakash Mehra",
+    "actors": "Farhan Akhtar, Kousi Orfahli, Deepak Singh Rawat",
+    "production_country": "India",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTY1Nzg4MjcwN15BMl5BanBnXkFtZTcwOTc1NTk1OQ@@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/206324.webp",
+    "imdb_rating": "8.2",
+    "imdb_votes": "78,244",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Bhaag_Milkha_Bhaag",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/206324.txt",
+    "plot_year_start": 1947,
+    "plot_year_end": 1960,
+    "epoch": "early-cold-war-era",
+    "action_countries": [
+      "IN",
+      "PK",
+      "AU",
+      "IT"
+    ],
+    "action_continents": [
+      "Asia",
+      "Asia",
+      "Oceania",
+      "Europe"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "new states born from partition and retreat",
+        "description": "The end of empire and the drawing of new borders create fresh nations, sudden minorities, and vast uprooting from one side to another. What you'll see: refugees on the move, communal suspicion, official residences changing hands, border crossings, and households split between India, Pakistan, Taiwan, Hong Kong, and the mainland.",
+        "icon": "🧳"
+      },
+      {
+        "label": "crime markets thriving in social upheaval",
+        "description": "Where authority is weak or uneven, gang networks, smugglers, and informal economies flourish beside respectable business and official law. What you'll see: alleyway deals, protection rackets, dockside and nightclub worlds, desperate theft, hired thugs, police dragnets, and the mingling of poverty with sudden wealth.",
+        "icon": "🕴️"
+      }
+    ]
+  },
+  {
+    "movie_id": 567629,
+    "movie_idx": 9372,
+    "imdb_id": "tt9018916",
+    "title": "The Battle of Jangsari",
+    "production_year": "2019",
+    "genre": "War",
+    "plot": "The story of Jangsari Landing Operation, 772 student soldiers - whose average age was 17 and who received just 2 weeks of boot camp training - were tossed into Korean War effort in order to pave the way for Incheon Landing Operation, which turned the tide of war.",
+    "runtime": "104 min",
+    "director": "Tae-hun Kim, Kwak Kyung-taek",
+    "actors": "Megan Fox, Lee Jae-wook, George Eads",
+    "production_country": "South Korea, Hong Kong, United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMDIyOTMyZTItOWM2NC00Yzg0LTk4N2EtNjM3MzIxMjA4YWI2XkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/567629.webp",
+    "imdb_rating": "6.3",
+    "imdb_votes": "2,013",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Battle_of_Jangsari",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/567629.txt",
+    "plot_year_start": 1950,
+    "plot_year_end": 1950,
+    "epoch": "early-cold-war-era",
+    "action_countries": [
+      "KR"
+    ],
+    "action_continents": [
+      "Asia"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "cold war front lines cutting Asia",
+        "description": "Asia is a principal theater of the new struggle between rival camps, with civil wars, invasions, intelligence work, and exile tied to larger powers. What you'll see: soldiers and student conscripts, field hospitals, spies and couriers, tense ports and frontiers, and talk of Moscow, Washington, Beijing, Seoul, and Taipei.",
+        "icon": "⚔️"
+      },
+      {
+        "label": "American influence in screens and streets",
+        "description": "United States power arrives not only through armies and occupation but through music, sport, consumer habits, language, and new standards of prestige. What you'll see: military bases and jeeps, western clothes, jazz and popular songs, advertising schemes, Olympic aspirations, imported goods, and local unease about imitation and change.",
+        "icon": "🛻"
+      }
+    ]
+  },
+  {
+    "movie_id": 51200,
+    "movie_idx": 9374,
+    "imdb_id": "tt1587729",
+    "title": "71: Into the Fire",
+    "production_year": "2010",
+    "genre": "Action, Drama, War",
+    "plot": "The story of student-soldiers trying to protect a middle school during the early days of the Korean War.",
+    "runtime": "120 min",
+    "director": "John H. Lee",
+    "actors": "Cha Seung-won, Kwon Sang-woo, Choi Seung-hyun",
+    "production_country": "South Korea",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMGRiMzg4MzUtYmIwNy00YzUzLWE1M2MtMmZlYjE2YzhiOTk5XkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/51200.webp",
+    "imdb_rating": "7.3",
+    "imdb_votes": "6,092",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/71:_Into_the_Fire",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/51200.txt",
+    "plot_year_start": 1950,
+    "plot_year_end": 1950,
+    "epoch": "early-cold-war-era",
+    "action_countries": [
+      "KR"
+    ],
+    "action_continents": [
+      "Asia"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "cold war front lines cutting Asia",
+        "description": "Asia is a principal theater of the new struggle between rival camps, with civil wars, invasions, intelligence work, and exile tied to larger powers. What you'll see: soldiers and student conscripts, field hospitals, spies and couriers, tense ports and frontiers, and talk of Moscow, Washington, Beijing, Seoul, and Taipei.",
+        "icon": "⚔️"
+      }
+    ]
+  },
+  {
+    "movie_id": 30368,
+    "movie_idx": 9499,
+    "imdb_id": "tt0041699",
+    "title": "Stray Dog",
+    "production_year": "1949",
+    "genre": "Crime, Drama, Mystery",
+    "plot": "Murukami, a young homicide detective, has his pocket picked on a bus and loses his pistol. Frantic and ashamed, he dashes about trying to recover the weapon without success until taken under the wing of an older and wiser detective, Sato. Together they track the culprit.",
+    "runtime": "122 min",
+    "director": "Akira Kurosawa",
+    "actors": "Toshirô Mifune, Takashi Shimura, Keiko Awaji",
+    "production_country": "Japan",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNTgxNmMyY2QtOWY1NC00Njg2LTk2YTAtYTkyMzIyZDhmY2U3XkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/30368.webp",
+    "imdb_rating": "7.8",
+    "imdb_votes": "20,087",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Stray_Dog_(film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/30368.txt",
+    "plot_year_start": 1949,
+    "plot_year_end": 1949,
+    "epoch": "early-cold-war-era",
+    "action_countries": [
+      "JP"
+    ],
+    "action_continents": [
+      "Asia"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "cities rebuilding after war and defeat",
+        "description": "Across much of East Asia, bomb damage, shortages, and dislocation still shape urban life even as streets fill again and ordinary routines return. What you'll see: ruined lots beside new buildings, crowded buses and clinics, black markets, patched clothing, and neighborhoods trying to look forward while war remains visible.",
+        "icon": "🏚️"
+      },
+      {
+        "label": "bureaucracies ruling through papers and offices",
+        "description": "Expanding states govern daily life through permits, police files, ministries, schools, and local offices whose slow procedures reach deep into the household. What you'll see: desks stacked with forms, clerks and detectives, interrogation rooms, stamps and notices, school discipline, and people navigating authority through channels rather than custom alone.",
+        "icon": "📄"
+      }
+    ]
+  },
+  {
+    "movie_id": 25858,
+    "movie_idx": 9516,
+    "imdb_id": "tt0040979",
+    "title": "Drunken Angel",
+    "production_year": "1948",
+    "genre": "Crime, Drama, Romance",
+    "plot": "After a battle with rival criminals, a small-time gangster is treated by an alcoholic doctor in post-war Japan. The doctor diagnoses the young gangster's tuberculosis, and convinces him to begin treatment for it. The two enjoy an uneasy friendship until the gangster's former boss is released from prison and seeks to take over his gang once again. The ailing young man loses his status as gang boss and becomes ostracised, and eventually confronts his former boss in a battle to the death.",
+    "runtime": "102 min",
+    "director": "Akira Kurosawa",
+    "actors": "Takashi Shimura, Toshirô Mifune, Reizaburô Yamamoto",
+    "production_country": "Japan",
+    "poster": "https://m.media-amazon.com/images/M/MV5BODI1MDE2MGUtNzIwNi00ZWZiLTgzYWItNTcwNjYxNGJkYzc2XkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/25858.webp",
+    "imdb_rating": "7.6",
+    "imdb_votes": "14,107",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Drunken_Angel",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/25858.txt",
+    "plot_year_start": 1946,
+    "plot_year_end": 1946,
+    "epoch": "early-cold-war-era",
+    "action_countries": [
+      "JP"
+    ],
+    "action_continents": [
+      "Asia"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "cities rebuilding after war and defeat",
+        "description": "Across much of East Asia, bomb damage, shortages, and dislocation still shape urban life even as streets fill again and ordinary routines return. What you'll see: ruined lots beside new buildings, crowded buses and clinics, black markets, patched clothing, and neighborhoods trying to look forward while war remains visible.",
+        "icon": "🏚️"
+      },
+      {
+        "label": "crime markets thriving in social upheaval",
+        "description": "Where authority is weak or uneven, gang networks, smugglers, and informal economies flourish beside respectable business and official law. What you'll see: alleyway deals, protection rackets, dockside and nightclub worlds, desperate theft, hired thugs, police dragnets, and the mingling of poverty with sudden wealth.",
+        "icon": "🕴️"
+      }
+    ]
+  },
+  {
+    "movie_id": 20530,
+    "movie_idx": 9971,
+    "imdb_id": "tt0041154",
+    "title": "Late Spring",
+    "production_year": "1949",
+    "genre": "Comedy, Drama",
+    "plot": "Noriko is 27 years old and is still living with her father Somiya, a widower. Noriko just recovered from an illness she developed in the war, and now the important question pops up: when will Noriko start thinking about marriage? Everybody who is important in her life tries to talk her into it: her father, her aunt, a girlfriend. But Noriko doesn't want to get married, she seems extremely happy with her life. She wants to stay with her father to take care of him. After all, she knows best of his manners and peculiarities. But Noriko's aunt doesn't want to give up. She arranges a partner for her and thinks of a plan that will convince Noriko her father can be left alone.",
+    "runtime": "110 min",
+    "director": "Yasujirô Ozu",
+    "actors": "Chishû Ryû, Setsuko Hara, Yumeji Tsukioka",
+    "production_country": "Japan",
+    "poster": "https://m.media-amazon.com/images/M/MV5BOTAxZjZhOTctY2E1Yi00MTFmLWEzOWEtZGNhYzkwNjdiZTYyXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/20530.webp",
+    "imdb_rating": "8.2",
+    "imdb_votes": "20,798",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Late_Spring",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/20530.txt",
+    "plot_year_start": 1948,
+    "plot_year_end": 1948,
+    "epoch": "early-cold-war-era",
+    "action_countries": [
+      "JP"
+    ],
+    "action_continents": [
+      "Asia"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "women between household duty and wages",
+        "description": "Women are increasingly educated and employed, yet marriage, filial care, and sexual respectability still set the terms by which society judges them. What you'll see: office desks and beauty shops, marriage meetings, daughters caring for fathers, secretaries and singers, gossiping relatives, and the constant pressure of propriety.",
+        "icon": "👠"
+      }
+    ]
+  }
+]

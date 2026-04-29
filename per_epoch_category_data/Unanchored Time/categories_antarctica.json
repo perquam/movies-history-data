@@ -1,0 +1,67 @@
+{
+  "epoch": "Unanchored Time",
+  "continent": "antarctica",
+  "sample_size": 1,
+  "sample": [
+    {
+      "title": "Surf's Up",
+      "years": "unknown",
+      "countries": [
+        "AQ"
+      ],
+      "plot": "This story follows a teenage rock hopper penguin named Cody Maverick from his hometown of Shiverpool, Antarctica, where all of the other penguins think he's nothing but a surfing fool, to the \"Big Z Memorial Surf Off\" on Pen Gu Island. Young Cody is determined to win the most important competition in the world of penguin surfing in honor of \"Big Z,\" a deceased surfing legend whom he has idolized since childhood. But the waves in Pen Gu are different than in Shiverpool, and the competition is steep. The current champ, egotistical Tank Evans, isn't just about to let this little penguin knock him from first place without a fight. When Cody wipes out and encounters Geek, a recluse aging former surfer, living in the jungle, he learns some important lessons about life and surfing, and even teaches Geek a thing or two."
+    }
+  ],
+  "categories": [
+    {
+      "label": "penguin villages built on frozen shores",
+      "description": "Settlement is arranged in small coastal communities where ice, rock, and sea shape where people live, gather, and work. What you'll see: crowded rookery-like homes, snowy cliffs, communal pathways, and daily life unfolding at the water's edge.",
+      "icon": "🐧"
+    },
+    {
+      "label": "the sea governs travel and livelihood",
+      "description": "Ocean conditions set the rhythm of movement, food gathering, and reputation, because skill in the water matters as much as strength on land. What you'll see: plunging surf, fishing runs, talk of currents and waves, and constant attention to weather and tide.",
+      "icon": "🌊"
+    },
+    {
+      "label": "surfing treated as public honor",
+      "description": "Wave-riding is not a private pastime but a recognized field of glory, with status, memory, and local pride attached to it. What you'll see: prized boards, contest talk, cheering crowds, and skilled riders judged by daring and style.",
+      "icon": "🏄"
+    },
+    {
+      "label": "island contests draw far-flung communities",
+      "description": "Important gatherings bring together distant coastal settlements and turn sport into a shared public occasion. What you'll see: long journeys to a famed beach, ceremonial arrivals, spectators lining the shore, and rival communities meeting in one place.",
+      "icon": "🏝️"
+    },
+    {
+      "label": "famous champions become living legends",
+      "description": "Renown attaches to great performers strongly enough that their names outlast them and shape the hopes of the young. What you'll see: memorial events, treasured keepsakes, repeated stories of past greatness, and public reverence for a dead champion's image.",
+      "icon": "🏆"
+    },
+    {
+      "label": "rank and esteem settled before spectators",
+      "description": "Standing in the community is won openly, through witnessed performance and comparison rather than hidden authority. What you'll see: scorekeeping, boasting, applause or ridicule from onlookers, and victories that immediately raise a rider's name.",
+      "icon": "👑"
+    },
+    {
+      "label": "youth measured against communal expectations",
+      "description": "The young are pressed toward useful, familiar roles, and unusual ambitions must justify themselves before family and neighbors. What you'll see: hometown mockery, doubtful elders, peer teasing, and a restless wish to leave a small settlement behind.",
+      "icon": "🐣"
+    },
+    {
+      "label": "remote islands linked by seafaring routes",
+      "description": "Though communities are scattered across cold waters, travel between them is common enough to sustain exchange, news, and competition. What you'll see: departures from lonely shores, arrivals on far islands, tales carried from place to place, and a sense of distance bridged by the sea.",
+      "icon": "⛵"
+    },
+    {
+      "label": "wild coasts mixing ice and lush shelter",
+      "description": "The land is not one uniform waste but a patchwork of freezing shorelines and unexpected pockets of growth shaped by wind, water, and exposure. What you'll see: icy beaches, towering waves, rocky outcrops, and sheltered green hideaways tucked away from the open coast.",
+      "icon": "🏞️"
+    },
+    {
+      "label": "skill passed by example, not schooling",
+      "description": "Knowledge is learned through imitation, rivalry, and seasoned guidance rather than formal instruction or written rule. What you'll see: apprentices watching masters, rough practical advice, training in the surf, and lessons carried in habit, posture, and craft.",
+      "icon": "🧓"
+    }
+  ]
+}

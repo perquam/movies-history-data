@@ -1,0 +1,44 @@
+[
+  {
+    "movie_id": 83,
+    "movie_idx": 7869,
+    "imdb_id": "tt0374102",
+    "title": "Open Water",
+    "production_year": "2003",
+    "genre": "Adventure, Drama, Horror",
+    "plot": "A couple on a holiday in the Caribbean decide to spend the day on a scuba diving trip. But was it the wrong decision? When a mis-count happens on the boat, Susan and Daniel are left behind in the middle of the ocean, the boat long gone. With all their hopes set on the boat coming back to rescue them, they try to keep themselves safe, especially when sharks start to appear.",
+    "runtime": "79 min",
+    "director": "Chris Kentis",
+    "actors": "Blanchard Ryan, Daniel Travis, Saul Stein",
+    "production_country": "United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNjQ5ODAyOTk3OF5BMl5BanBnXkFtZTcwNzQ1NjYyMQ@@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/83.webp",
+    "imdb_rating": "5.8",
+    "imdb_votes": "58,602",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Open_Water_(film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/83.txt",
+    "plot_year_start": 2003,
+    "plot_year_end": 2003,
+    "epoch": "post-911-world",
+    "action_countries": [
+      "UNKNOWN"
+    ],
+    "action_continents": [
+      "Atlantic Ocean"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "open sea still beyond quick rescue",
+        "description": "Even in an age of regular travel and modern equipment, the ocean remains a vast space where distance, weather, and simple oversight can leave people far from immediate help. What you'll see: empty horizons, boats shrinking from view, long waits for search craft, and the sense that land authority stops at the shoreline.",
+        "icon": "🌊"
+      },
+      {
+        "label": "safety depending on head counts and habit",
+        "description": "On casual commercial outings, order often rests on routine checks, crew memory, and ordinary discipline rather than fail-safe oversight. What you'll see: clipboards, verbal roll calls, hurried departures, assumptions that everyone is aboard, and small procedural lapses carrying grave weight.",
+        "icon": "📋"
+      }
+    ]
+  }
+]

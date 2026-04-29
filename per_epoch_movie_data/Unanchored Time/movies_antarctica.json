@@ -1,0 +1,45 @@
+[
+  {
+    "movie_id": 9408,
+    "movie_idx": 3069,
+    "imdb_id": "tt0423294",
+    "title": "Surf's Up",
+    "production_year": "2007",
+    "genre": "Animation, Adventure, Comedy",
+    "plot": "This story follows a teenage rock hopper penguin named Cody Maverick from his hometown of Shiverpool, Antarctica, where all of the other penguins think he's nothing but a surfing fool, to the \"Big Z Memorial Surf Off\" on Pen Gu Island. Young Cody is determined to win the most important competition in the world of penguin surfing in honor of \"Big Z,\" a deceased surfing legend whom he has idolized since childhood. But the waves in Pen Gu are different than in Shiverpool, and the competition is steep. The current champ, egotistical Tank Evans, isn't just about to let this little penguin knock him from first place without a fight. When Cody wipes out and encounters Geek, a recluse aging former surfer, living in the jungle, he learns some important lessons about life and surfing, and even teaches Geek a thing or two.",
+    "runtime": "85 min",
+    "director": "Ash Brannon, Chris Buck",
+    "actors": "Shia LaBeouf, Zooey Deschanel, Jon Heder",
+    "production_country": "United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjE4NDE3NzcwM15BMl5BanBnXkFtZTcwMTI0ODYzMw@@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/9408.webp",
+    "imdb_rating": "6.7",
+    "imdb_votes": "99,759",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Surf%27s_Up_(film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/9408.txt",
+    "epoch": "Unanchored Time",
+    "action_countries": [
+      "AQ"
+    ],
+    "action_continents": [
+      "Antarctica"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "surfing treated as public honor",
+        "description": "Wave-riding is not a private pastime but a recognized field of glory, with status, memory, and local pride attached to it. What you'll see: prized boards, contest talk, cheering crowds, and skilled riders judged by daring and style.",
+        "icon": "🏄"
+      },
+      {
+        "label": "island contests draw far-flung communities",
+        "description": "Important gatherings bring together distant coastal settlements and turn sport into a shared public occasion. What you'll see: long journeys to a famed beach, ceremonial arrivals, spectators lining the shore, and rival communities meeting in one place.",
+        "icon": "🏝️"
+      }
+    ],
+    "failures": {
+      "time_range": "unanchored"
+    }
+  }
+]

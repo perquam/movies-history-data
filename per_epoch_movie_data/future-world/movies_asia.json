@@ -1,0 +1,668 @@
+[
+  {
+    "movie_id": 965244,
+    "movie_idx": 141,
+    "imdb_id": "tt15392166",
+    "title": "Ghost in the Shell: SAC_2045 - Sustainable War",
+    "production_year": "2021",
+    "genre": "Animation, Action, Sci-Fi",
+    "plot": "In the year 2045, cybernetic mercenary Motoko Kusanagi returns to Section 9 to face the threat of the posthumans.",
+    "runtime": "119 min",
+    "director": "Shinji Aramaki, Michihito Fujii, Kenji Kamiyama",
+    "actors": "Atsuko Tanaka, Osamu Saka, Akio Ôtsuka",
+    "production_country": "Japan",
+    "poster": "https://m.media-amazon.com/images/M/MV5BY2JlYzRiM2QtNjVkYS00MmQ3LThhNmQtZmRhNmQwNjhiNzc3XkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/965244.webp",
+    "imdb_rating": "5.8",
+    "imdb_votes": "610",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Ghost_in_the_Shell:_SAC_2045",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/965244.txt",
+    "plot_year_start": 2045,
+    "plot_year_end": 2045,
+    "epoch": "future-world",
+    "action_countries": [
+      "JP"
+    ],
+    "action_continents": [
+      "Asia"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Ghost in the Shell",
+    "categories": [
+      {
+        "label": "war handled by drones and special units",
+        "description": "Armed conflict is fought with unmanned machines, elite detachments, and networked weapons rather than mass levies alone. What you'll see: tactical visors, autonomous craft, command feeds, precision strikes, and soldiers operating inside tightly managed battle systems.",
+        "icon": "🪖"
+      },
+      {
+        "label": "machine minds shaping law and belief",
+        "description": "Artificial intelligence no longer serves merely as a tool but begins to arbitrate truth, authority, and the proper ordering of society. What you'll see: decision systems treated with reverence, officials deferring to opaque outputs, debates over machine judgment, and fear of minds no one can fully inspect.",
+        "icon": "🤖"
+      }
+    ]
+  },
+  {
+    "movie_id": 842675,
+    "movie_idx": 342,
+    "imdb_id": "tt13539646",
+    "title": "The Wandering Earth II",
+    "production_year": "2023",
+    "genre": "Action, Adventure, Drama",
+    "plot": "Humans built huge engines on the surface of the earth to find a new home. But the road to the universe is perilous. In order to save earth, young people once again have to step forward to start a race against time for life and death.",
+    "runtime": "173 min",
+    "director": "Frant Gwo",
+    "actors": "Jing Wu, Yi Sha, Yanmanzi Zhu",
+    "production_country": "China",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMzg5MTNkZGUtNGViNS00NzFlLTg1NDYtN2Y2NzY3NWNmNzg2XkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/842675.webp",
+    "imdb_rating": "6.7",
+    "imdb_votes": "16,204",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Wandering_Earth_2",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/842675.txt",
+    "plot_year_start": 2044,
+    "plot_year_end": 2144,
+    "epoch": "future-world",
+    "action_countries": [
+      "CN"
+    ],
+    "action_continents": [
+      "Asia"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "earth itself remade by survival engineering",
+        "description": "Planetary danger demands works on a scale once reserved for myth, with humanity altering the ground, the climate, and even the world's course to endure. What you'll see: colossal engines, frozen expanses, underground installations, global work crews, and official rhetoric about species survival.",
+        "icon": "🌍"
+      },
+      {
+        "label": "human bodies rebuilt with machine parts",
+        "description": "Cybernetic limbs, artificial organs, and full prosthetic shells have made the line between flesh and manufacture hard to keep clear. What you'll see: mechanical bodies, maintenance clinics, brain-interface gear, enhanced senses, and quiet unease over what still counts as human.",
+        "icon": "🦾"
+      }
+    ]
+  },
+  {
+    "movie_id": 315837,
+    "movie_idx": 871,
+    "imdb_id": "tt1219827",
+    "title": "Ghost in the Shell",
+    "production_year": "2017",
+    "genre": "Action, Crime, Drama",
+    "plot": "In the near future, human organs are enhanced by the cybernetics technology developed by the powerful Hanka Robotics Corporation owned by Cutter. Dr. Ouelet is responsible for the development of the secret project 2571 of a full mechanical body to be connected to a human brain. She uses the brain of a young woman that lost her parents in a cyber attack as subject of a prototype. One year later, the woman is ranked Major and has joined Section 9, an anti-terrorist division commanded by Chief Daisuke Aramaki, working with agents Batou and Togusa. She needs to use a medicine to help the integration of her brain with the mechanical body and has no recollections of her previous life. When Section 9 hunts down the terrorist Kuze, Major learns the secrets about Hanka Robotics and the experiment she was subjected. Now she faces her ultimate enemy: Kuze, a criminal who has managed to hack into the brains of androids and control them.",
+    "runtime": "107 min",
+    "director": "Rupert Sanders",
+    "actors": "Scarlett Johansson, Pilou Asbæk, Takeshi Kitano",
+    "production_country": "United States, China, Hong Kong, Canada, India",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNzBkNjdjZTctNjdhOS00NmIyLTlkNjQtY2EwNGMwYmZjNTIxXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/315837.webp",
+    "imdb_rating": "6.3",
+    "imdb_votes": "238,552",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Ghost_in_the_Shell_(2017_film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/315837.txt",
+    "plot_year_start": 2030,
+    "plot_year_end": 2040,
+    "epoch": "future-world",
+    "action_countries": [
+      "JP"
+    ],
+    "action_continents": [
+      "Asia"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Ghost in the Shell",
+    "categories": [
+      {
+        "label": "human bodies rebuilt with machine parts",
+        "description": "Cybernetic limbs, artificial organs, and full prosthetic shells have made the line between flesh and manufacture hard to keep clear. What you'll see: mechanical bodies, maintenance clinics, brain-interface gear, enhanced senses, and quiet unease over what still counts as human.",
+        "icon": "🦾"
+      },
+      {
+        "label": "states judging citizens by constant surveillance",
+        "description": "Public order rests on systems that watch minds, habits, and movements, turning security into a permanent measure of inner worth. What you'll see: inspection gates, drone patrols, predictive policing, biometric scans, and bureaucracies that treat danger as something to be calculated in advance.",
+        "icon": "📡"
+      }
+    ]
+  },
+  {
+    "movie_id": 518896,
+    "movie_idx": 1120,
+    "imdb_id": "tt7375466",
+    "title": "Warriors of Future",
+    "production_year": "2022",
+    "genre": "Action, Adventure, Sci-Fi",
+    "plot": "A meteorite brings an extraterrestrial life to the earth. When powerful alien creatures threaten humanity, Commander Sing Lee's elite forces are almost wiped out, and the surviving soldier Tai Loi discovers an even bigger conspiracy.",
+    "runtime": "112 min",
+    "director": "Yuen Fai Ng",
+    "actors": "Louis Koo, Ching-Wan Lau, Carina Lau",
+    "production_country": "Hong Kong",
+    "poster": "https://m.media-amazon.com/images/M/MV5BM2ZlNjk2NTAtMmI1NC00MjVkLWI0M2ItOGVmN2NjNmYxYzY0XkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/518896.webp",
+    "imdb_rating": "5.6",
+    "imdb_votes": "8,246",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Warriors_of_Future",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/518896.txt",
+    "plot_year_start": 2055,
+    "plot_year_end": 2055,
+    "epoch": "future-world",
+    "action_countries": [
+      "HK"
+    ],
+    "action_continents": [
+      "Asia"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "war handled by drones and special units",
+        "description": "Armed conflict is fought with unmanned machines, elite detachments, and networked weapons rather than mass levies alone. What you'll see: tactical visors, autonomous craft, command feeds, precision strikes, and soldiers operating inside tightly managed battle systems.",
+        "icon": "🪖"
+      },
+      {
+        "label": "aliens turning cities into front lines",
+        "description": "Extraterrestrial attack is treated as a standing condition of the age, pressing nations to fortify key cities and keep populations in readiness. What you'll see: siege-scarred skylines, emergency shelters, defense batteries, evacuation routes, and civilians living beneath the expectation of sudden assault.",
+        "icon": "👾"
+      }
+    ]
+  },
+  {
+    "movie_id": 581389,
+    "movie_idx": 1658,
+    "imdb_id": "tt12838766",
+    "title": "Space Sweepers",
+    "production_year": "2021",
+    "genre": "Action, Adventure, Drama",
+    "plot": "In the year 2092, space is full of dangerous floating garbage like discarded satellites and deserted spaceships. The crew of The Victory travels through space looking for the garbage they can make money off, while also competing with junk collector ships from other countries and using the speediness of their craft to defeat their rivals.",
+    "runtime": "136 min",
+    "director": "Jo Sung-hee",
+    "actors": "Song Joong-ki, Kim Tae-ri, Jin Seon-kyu",
+    "production_country": "South Korea",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNTZiMDBhODAtN2Y4Mi00ZThjLTg0ODItN2M1ZGJkZWI1N2YxXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/581389.webp",
+    "imdb_rating": "6.5",
+    "imdb_votes": "30,776",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Space_Sweepers",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/581389.txt",
+    "plot_year_start": 2092,
+    "plot_year_end": 2092,
+    "epoch": "future-world",
+    "action_countries": [
+      "KR"
+    ],
+    "action_continents": [
+      "Asia"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "space labor built on salvage and debris",
+        "description": "Near-earth space has become a rough working frontier where discarded machines, ruined craft, and dangerous waste are sources of livelihood. What you'll see: junk-hauling ships, cluttered orbits, repair docks, patched equipment, and crews treating the heavens like a hazardous scrapyard.",
+        "icon": "🛰️"
+      },
+      {
+        "label": "great wealth above, scarcity below",
+        "description": "Advanced technique does not bring equal comfort, and the future is split between protected enclaves and people scraping by in damaged environments. What you'll see: gleaming compounds, neglected districts, expensive life-support, precarious workers, and everyday bargaining over fuel, medicine, or access.",
+        "icon": "🏚️"
+      }
+    ]
+  },
+  {
+    "movie_id": 928773,
+    "movie_idx": 2714,
+    "imdb_id": "tt21651570",
+    "title": "Whisper of the Heart",
+    "production_year": "2022",
+    "genre": "Drama",
+    "plot": "Shizuku Tsukishima is a middle school student in the 3rd grade. She likes to read books. Shizuku meets Seiji Amasawa, who goes to the same class and school as Shizuku.",
+    "runtime": "114 min",
+    "director": "Yûichirô Hirakawa",
+    "actors": "Nana Seino, Tôri Matsuzaka, Towa Araki",
+    "production_country": "Japan",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZGZjZTRlZmItYzA4OC00MGI0LWIzMTAtNjcxMGQ5YWFiMTJhXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/928773.webp",
+    "imdb_rating": "5.6",
+    "imdb_votes": "176",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Whisper_of_the_Heart_(2022_film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/928773.txt",
+    "plot_year_start": 2032,
+    "plot_year_end": 2032,
+    "epoch": "future-world",
+    "action_countries": [
+      "JP"
+    ],
+    "action_continents": [
+      "Asia"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "great wealth above, scarcity below",
+        "description": "Advanced technique does not bring equal comfort, and the future is split between protected enclaves and people scraping by in damaged environments. What you'll see: gleaming compounds, neglected districts, expensive life-support, precarious workers, and everyday bargaining over fuel, medicine, or access.",
+        "icon": "🏚️"
+      }
+    ]
+  },
+  {
+    "movie_id": 535167,
+    "movie_idx": 2789,
+    "imdb_id": "tt7605074",
+    "title": "The Wandering Earth",
+    "production_year": "2019",
+    "genre": "Action, Adventure, Sci-Fi",
+    "plot": "The sun is dying out. The earth will soon be engulfed by the inflating sun. To save the human civilization, scientists draw up an escape plan that will bring the whole human race from danger. With the help of thousands of infusion powered engines, the planet earth will leave the solar system and embark on a 2,500 year journey to the orbit of a star 4.5 light years away.",
+    "runtime": "125 min",
+    "director": "Frant Gwo",
+    "actors": "Jing Wu, Man-Tat Ng, Zhi Wang",
+    "production_country": "China",
+    "poster": "https://m.media-amazon.com/images/M/MV5BM2RkYTg4YWQtNmE3Ny00MmE3LWJkNzQtZTFhNWNjOGM3OTZlXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/535167.webp",
+    "imdb_rating": "5.9",
+    "imdb_votes": "39,090",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Wandering_Earth",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/535167.txt",
+    "plot_year_start": 2058,
+    "plot_year_end": 2061,
+    "epoch": "future-world",
+    "action_countries": [
+      "CN"
+    ],
+    "action_continents": [
+      "Asia"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "earth itself remade by survival engineering",
+        "description": "Planetary danger demands works on a scale once reserved for myth, with humanity altering the ground, the climate, and even the world's course to endure. What you'll see: colossal engines, frozen expanses, underground installations, global work crews, and official rhetoric about species survival.",
+        "icon": "🌍"
+      },
+      {
+        "label": "space labor built on salvage and debris",
+        "description": "Near-earth space has become a rough working frontier where discarded machines, ruined craft, and dangerous waste are sources of livelihood. What you'll see: junk-hauling ships, cluttered orbits, repair docks, patched equipment, and crews treating the heavens like a hazardous scrapyard.",
+        "icon": "🛰️"
+      }
+    ]
+  },
+  {
+    "movie_id": 399174,
+    "movie_idx": 3578,
+    "imdb_id": "tt5104604",
+    "title": "Isle of Dogs",
+    "production_year": "2018",
+    "genre": "Animation, Adventure, Comedy",
+    "plot": "An outbreak of dog flu has spread through the city of Megasaki, Japan, and Mayor Kobayashi has demanded all dogs to be sent to Trash Island. On the island, a young boy named Atari sets out to find his lost dog, Spots, with the help of five other dogs... with many obstacles along the way.",
+    "runtime": "101 min",
+    "director": "Wes Anderson",
+    "actors": "Bryan Cranston, Koyu Rankin, Edward Norton",
+    "production_country": "United States, United Kingdom, Germany, Japan",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZTVmZWFmYWYtZTY1NC00Yjg5LTkxZGItZjhiYTExNTExNjA3XkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/399174.webp",
+    "imdb_rating": "7.8",
+    "imdb_votes": "209,321",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Isle_of_Dogs_(film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/399174.txt",
+    "plot_year_start": 2038,
+    "plot_year_end": 2038,
+    "epoch": "future-world",
+    "action_countries": [
+      "JP"
+    ],
+    "action_continents": [
+      "Asia"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "government quarantine after strange contagions",
+        "description": "Disease outbreaks and altered forms of humanity give rulers cause to isolate districts, cull animals, or mark whole populations as threats. What you'll see: cordons, masked officials, disposal zones, emergency decrees, and frightened city life reshaped by sanitary discipline.",
+        "icon": "☣️"
+      }
+    ]
+  },
+  {
+    "movie_id": 85877,
+    "movie_idx": 3814,
+    "imdb_id": "tt2084885",
+    "title": "The 33D Invader",
+    "production_year": "2011",
+    "genre": "Comedy, Sci-Fi",
+    "plot": "A girl named Future has to re-populate the human race after radiation attacks from the Xucker race have made 99% of men on Earth infertile in the year 2046.",
+    "runtime": "82 min",
+    "director": "Man-Kei Chin",
+    "actors": "Qing-Qing Wu, Akiho Yoshizawa, Taka Katou",
+    "production_country": "Hong Kong",
+    "poster": "N/A",
+    "imdb_rating": "4.0",
+    "imdb_votes": "457",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/The_33D_Invader",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/85877.txt",
+    "plot_year_start": 2046,
+    "plot_year_end": 2046,
+    "epoch": "future-world",
+    "action_countries": [
+      "HK"
+    ],
+    "action_continents": [
+      "Asia"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "government quarantine after strange contagions",
+        "description": "Disease outbreaks and altered forms of humanity give rulers cause to isolate districts, cull animals, or mark whole populations as threats. What you'll see: cordons, masked officials, disposal zones, emergency decrees, and frightened city life reshaped by sanitary discipline.",
+        "icon": "☣️"
+      }
+    ],
+    "failures": {
+      "poster": "no_poster_url"
+    }
+  },
+  {
+    "movie_id": 312526,
+    "movie_idx": 4124,
+    "imdb_id": "tt2474972",
+    "title": "Alien Outpost",
+    "production_year": "2014",
+    "genre": "Action, Sci-Fi, Thriller",
+    "plot": "A documentary crew follows an elite unit of soldiers in the wake of an alien invasion.",
+    "runtime": "92 min",
+    "director": "Jabbar Raisani",
+    "actors": "Adrian Paul, Reiley McClendon, Rick Ravanello",
+    "production_country": "United Kingdom, South Africa",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTc4ODY2MzIzNl5BMl5BanBnXkFtZTgwNTg3ODY0MzE@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/312526.webp",
+    "imdb_rating": "4.7",
+    "imdb_votes": "6,577",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Alien_Outpost",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/312526.txt",
+    "plot_year_start": 2033,
+    "plot_year_end": 2033,
+    "epoch": "future-world",
+    "action_countries": [
+      "PK",
+      "AF"
+    ],
+    "action_continents": [
+      "Asia",
+      "Asia"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "aliens turning cities into front lines",
+        "description": "Extraterrestrial attack is treated as a standing condition of the age, pressing nations to fortify key cities and keep populations in readiness. What you'll see: siege-scarred skylines, emergency shelters, defense batteries, evacuation routes, and civilians living beneath the expectation of sudden assault.",
+        "icon": "👾"
+      },
+      {
+        "label": "war handled by drones and special units",
+        "description": "Armed conflict is fought with unmanned machines, elite detachments, and networked weapons rather than mass levies alone. What you'll see: tactical visors, autonomous craft, command feeds, precision strikes, and soldiers operating inside tightly managed battle systems.",
+        "icon": "🪖"
+      }
+    ]
+  },
+  {
+    "movie_id": 12140,
+    "movie_idx": 4723,
+    "imdb_id": "tt0347246",
+    "title": "Ghost in the Shell 2: Innocence",
+    "production_year": "2004",
+    "genre": "Animation, Drama, Mystery",
+    "plot": "Batô is a living cyborg. His whole body, even his arms and legs, are entirely man-made. What only remains are traces of his brain and the memories of a woman. In an era when the boundary between humans and machines has become infinitely vague, Humans have forgotten that they are humans. This is the debauchery of the lonesome ghost of a man, who nevertheless seeks to retain humanity. Innocence... Is what life is.",
+    "runtime": "100 min",
+    "director": "Mamoru Oshii",
+    "actors": "Akio Ôtsuka, Atsuko Tanaka, Tamio Ôki",
+    "production_country": "Japan",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNzQ5Y2NkYjktMjhlNS00YWQ2LTg0ZDItZjFmZGE0ZDE3MWQ3XkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/12140.webp",
+    "imdb_rating": "7.4",
+    "imdb_votes": "42,438",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Ghost_in_the_Shell_2:_Innocence",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/12140.txt",
+    "plot_year_start": 2032,
+    "plot_year_end": 2032,
+    "epoch": "future-world",
+    "action_countries": [
+      "JP",
+      "UNKNOWN"
+    ],
+    "action_continents": [
+      "Asia",
+      "UNKNOWN"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Ghost in the Shell Universe",
+    "categories": [
+      {
+        "label": "human bodies rebuilt with machine parts",
+        "description": "Cybernetic limbs, artificial organs, and full prosthetic shells have made the line between flesh and manufacture hard to keep clear. What you'll see: mechanical bodies, maintenance clinics, brain-interface gear, enhanced senses, and quiet unease over what still counts as human.",
+        "icon": "🦾"
+      },
+      {
+        "label": "states judging citizens by constant surveillance",
+        "description": "Public order rests on systems that watch minds, habits, and movements, turning security into a permanent measure of inner worth. What you'll see: inspection gates, drone patrols, predictive policing, biometric scans, and bureaucracies that treat danger as something to be calculated in advance.",
+        "icon": "📡"
+      }
+    ]
+  },
+  {
+    "movie_id": 9920,
+    "movie_idx": 5972,
+    "imdb_id": "tt0370032",
+    "title": "Ultraviolet",
+    "production_year": "2006",
+    "genre": "Action, Sci-Fi",
+    "plot": "In 2078, in the wake of a global pandemic of vampirism, a sub-species of disease-modified humans find themselves possessing extraordinary agility, enhanced strength, incredible stamina, and acute intelligence. As a result, humankind is now pushed to the brink of a brutal, worldwide civil war. Now, against the backdrop of the imminent confrontation between the government and the \"others\", Ultraviolet, an infected beautiful Haemophage, finds herself caught in the middle, protecting Six, a helpless nine-year-old boy who has been marked for death by the military forces of Daxus. Can Ultraviolet destroy Daxus' ultimate anti-Haemophage weapon?",
+    "runtime": "88 min",
+    "director": "Kurt Wimmer",
+    "actors": "Milla Jovovich, Cameron Bright, Nick Chinlund",
+    "production_country": "United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BOTJmZmY1NmQtNmFhNC00MGM2LTlkM2YtNWFiMWM0ZWM3NzJmXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/9920.webp",
+    "imdb_rating": "4.4",
+    "imdb_votes": "86,304",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Ultraviolet_(film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/9920.txt",
+    "plot_year_start": 2078,
+    "plot_year_end": 2078,
+    "epoch": "future-world",
+    "action_countries": [
+      "CN"
+    ],
+    "action_continents": [
+      "Asia"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "government quarantine after strange contagions",
+        "description": "Disease outbreaks and altered forms of humanity give rulers cause to isolate districts, cull animals, or mark whole populations as threats. What you'll see: cordons, masked officials, disposal zones, emergency decrees, and frightened city life reshaped by sanitary discipline.",
+        "icon": "☣️"
+      },
+      {
+        "label": "great wealth above, scarcity below",
+        "description": "Advanced technique does not bring equal comfort, and the future is split between protected enclaves and people scraping by in damaged environments. What you'll see: gleaming compounds, neglected districts, expensive life-support, precarious workers, and everyday bargaining over fuel, medicine, or access.",
+        "icon": "🏚️"
+      }
+    ]
+  },
+  {
+    "movie_id": 14092,
+    "movie_idx": 6251,
+    "imdb_id": "tt1260502",
+    "title": "Ghost in the Shell 2.0",
+    "production_year": "2008",
+    "genre": "Animation, Action, Crime",
+    "plot": "A hacker known as the Puppet Master is hunted by a female cyborg cop and her partner. This film is a revised version of Ghost in the Shell (1995).",
+    "runtime": "83 min",
+    "director": "Mamoru Oshii",
+    "actors": "Atsuko Tanaka, Akio Ôtsuka, Kôichi Yamadera",
+    "production_country": "Japan",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYzVjMmZhMGEtNWEzNS00ZTNlLWI4ZDAtZDI0NDI4YjJlMmYzXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/14092.webp",
+    "imdb_rating": "7.8",
+    "imdb_votes": "15,800",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Ghost_in_the_Shell",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/14092.txt",
+    "plot_year_start": 2045,
+    "plot_year_end": 2045,
+    "epoch": "future-world",
+    "action_countries": [
+      "JP"
+    ],
+    "action_continents": [
+      "Asia"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Ghost in the Shell",
+    "categories": [
+      {
+        "label": "human bodies rebuilt with machine parts",
+        "description": "Cybernetic limbs, artificial organs, and full prosthetic shells have made the line between flesh and manufacture hard to keep clear. What you'll see: mechanical bodies, maintenance clinics, brain-interface gear, enhanced senses, and quiet unease over what still counts as human.",
+        "icon": "🦾"
+      },
+      {
+        "label": "machine minds shaping law and belief",
+        "description": "Artificial intelligence no longer serves merely as a tool but begins to arbitrate truth, authority, and the proper ordering of society. What you'll see: decision systems treated with reverence, officials deferring to opaque outputs, debates over machine judgment, and fear of minds no one can fully inspect.",
+        "icon": "🤖"
+      }
+    ]
+  },
+  {
+    "movie_id": 55931,
+    "movie_idx": 6972,
+    "imdb_id": "tt5700244",
+    "title": "Inside 'The Animatrix'",
+    "production_year": "2003",
+    "genre": "Documentary, Short",
+    "plot": "N/A",
+    "runtime": "16 min",
+    "director": "Josh Oreck",
+    "actors": "Michael Arias, Peter Chung, Dane A. Davis, Don Davis",
+    "production_country": "USA",
+    "poster": "N/A",
+    "imdb_rating": "N/A",
+    "imdb_votes": "N/A",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Animatrix",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/55931.txt",
+    "plot_year_start": 2090,
+    "plot_year_end": 2199,
+    "epoch": "future-world",
+    "action_countries": [
+      "JP",
+      "US",
+      "FICTIONAL"
+    ],
+    "action_continents": [
+      "Asia",
+      "North America",
+      "FICTIONAL"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "The Matrix Universe",
+    "categories": [
+      {
+        "label": "war handled by drones and special units",
+        "description": "Armed conflict is fought with unmanned machines, elite detachments, and networked weapons rather than mass levies alone. What you'll see: tactical visors, autonomous craft, command feeds, precision strikes, and soldiers operating inside tightly managed battle systems.",
+        "icon": "🪖"
+      },
+      {
+        "label": "states judging citizens by constant surveillance",
+        "description": "Public order rests on systems that watch minds, habits, and movements, turning security into a permanent measure of inner worth. What you'll see: inspection gates, drone patrols, predictive policing, biometric scans, and bureaucracies that treat danger as something to be calculated in advance.",
+        "icon": "📡"
+      }
+    ],
+    "failures": {
+      "poster": "no_poster_url"
+    }
+  },
+  {
+    "movie_id": 559957,
+    "movie_idx": 9340,
+    "imdb_id": "tt6628322",
+    "title": "Shanghai Fortress",
+    "production_year": "2019",
+    "genre": "Sci-Fi",
+    "plot": "Set in the future, the city of Shanghai, China battles to defend itself against an ongoing attack by an alien force that has laid siege to numerous cities around the globe in its quest to harvest a hidden energy only found on earth.",
+    "runtime": "107 min",
+    "director": "Hua-Tao Teng",
+    "actors": "Han Lu, Shu Qi, Liang Shi",
+    "production_country": "China",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYjk3MDQ1OWEtYjVmMS00MDE0LWEyZTQtZTliNzkzNjcxZTQwXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/559957.webp",
+    "imdb_rating": "4.4",
+    "imdb_votes": "2,875",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Shanghai_Fortress",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/559957.txt",
+    "plot_year_start": 2042,
+    "plot_year_end": 2042,
+    "epoch": "future-world",
+    "action_countries": [
+      "CN"
+    ],
+    "action_continents": [
+      "Asia"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "aliens turning cities into front lines",
+        "description": "Extraterrestrial attack is treated as a standing condition of the age, pressing nations to fortify key cities and keep populations in readiness. What you'll see: siege-scarred skylines, emergency shelters, defense batteries, evacuation routes, and civilians living beneath the expectation of sudden assault.",
+        "icon": "👾"
+      }
+    ]
+  },
+  {
+    "movie_id": 296917,
+    "movie_idx": 9994,
+    "imdb_id": "tt4219130",
+    "title": "Psycho-Pass: The Movie",
+    "production_year": "2015",
+    "genre": "Animation, Action, Crime",
+    "plot": "Year 2116-The Japanese government begins to export the Sibyl System unmanned drone robots to troubled countries, and the system spreads throughout the world. A state in the midst of a civil war, SEAUn (the South East Asia Union), brings in the Sibyl System as an experiment. Under the new system, the coastal town of Shambala Float achieves temporary peace and safety. But then SEAUn sends terrorists to Japan. They slip through the Sibyl System and then attack from within. The shadow of a certain man falls on this incident. In charge of the police, Tsunemori travels to Shambala Float to investigate. The truth of justice on this new ground will become clear.",
+    "runtime": "113 min",
+    "director": "Naoyoshi Shiotani, Katsuyuki Motohiro",
+    "actors": "Bryn Apprill, Major Attaway, Z. Charles Bolton",
+    "production_country": "Japan",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYTFiNzY3MDktYjkyMi00Y2U4LWIyNzgtM2Y3OWI1OGVlYzQwXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/296917.webp",
+    "imdb_rating": "7.1",
+    "imdb_votes": "5,003",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Psycho-Pass:_The_Movie",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/296917.txt",
+    "plot_year_start": 2116,
+    "plot_year_end": 2116,
+    "epoch": "future-world",
+    "action_countries": [
+      "JP",
+      "FICTIONAL"
+    ],
+    "action_continents": [
+      "Asia",
+      "FICTIONAL"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Psycho-Pass Universe",
+    "categories": [
+      {
+        "label": "states judging citizens by constant surveillance",
+        "description": "Public order rests on systems that watch minds, habits, and movements, turning security into a permanent measure of inner worth. What you'll see: inspection gates, drone patrols, predictive policing, biometric scans, and bureaucracies that treat danger as something to be calculated in advance.",
+        "icon": "📡"
+      },
+      {
+        "label": "war handled by drones and special units",
+        "description": "Armed conflict is fought with unmanned machines, elite detachments, and networked weapons rather than mass levies alone. What you'll see: tactical visors, autonomous craft, command feeds, precision strikes, and soldiers operating inside tightly managed battle systems.",
+        "icon": "🪖"
+      }
+    ]
+  }
+]

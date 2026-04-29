@@ -1,0 +1,99 @@
+{
+  "epoch": "ancient-world",
+  "continent": "unknown",
+  "sample_size": 5,
+  "sample": [
+    {
+      "title": "Dragon Ball Z: Battle of Gods",
+      "years": "517..517",
+      "countries": [
+        "UNKNOWN"
+      ],
+      "plot": "The events of Battle of Gods take place some years after the battle with Majin Buu, which determined the fate of the entire universe. Bills, the God of Destruction, is tasked with maintaining some sort of balance in the universe. After awakening from a long slumber, Bills is visited by Whis and learns that the galactic overlord Frieza has been defeated by a Super Saiyan from the North Quadrant of the universe named Goku, who is also a former student of the North Kai. Ecstatic over the new challenge, Goku ignores King Kai's advice and battles Bills, but he is easily overwhelmed and defeated. Bills leaves, but his eerie remark of \"Is there nobody on Earth more worthy to destroy?\" lingers on. Now it is up to the heroes to stop the God of Destruction before all is lost."
+    },
+    {
+      "title": "The Passion of the Christ",
+      "years": "30..33",
+      "countries": [
+        "UNKNOWN"
+      ],
+      "plot": "A depiction of the last twelve hours in the life of Jesus of Nazareth, on the day of his crucifixion in Jerusalem. The story opens in the Garden of Olives where Jesus has gone to pray after the Last Supper. Betrayed by Judas Iscariot, the controversial Jesus--who has performed 'miracles' and has publicly announced that he is 'the Son of God'--is arrested and taken back within the city walls of Jerusalem. There, the leaders of the Pharisees confront him with accusations of blasphemy; subsequently, his trial results with the leaders condemning him to his death. Jesus is brought before Pontius Pilate, the prefect of the Roman province of Judaea, for his sentencing. Pilate listens to the accusations leveled at Jesus by the Pharisees. Realizing that his own decision will cause him to become embroiled in a political conflict, Pilate defers to King Herod in deciding the matter of how to persecute Jesus. However, Herod returns Jesus to Pilate who, in turn, gives the crowd a choice between which prisoner they would rather to see set free--Jesus, or Barrabas. The crowd chooses to have Barrabas set free. Thus, Jesus is handed over to the Roman soldiers and is brutally flagellated. Bloody and unrecognizable, he is brought back before Pilate who, once again, presents him to the thirsty crowd--assuming they will see that Jesus has been punished enough. The crowd, however, is not satisfied. Thus, Pilate washes his hands of the entire dilemma, ordering his men to do as the crowd wishes. Whipped and weakened, Jesus is presented with the cross and is ordered to carry it through the streets of Jerusalem, all the way up to Golgotha. There, more corporal cruelty takes place as Jesus is nailed to the cross--suffering, he hangs there, left to die. Initially, in his dazed suffering, Jesus is alarmed that he has been abandoned by God his father. He then beseeches God. At the moment of his death, nature itself over-turns."
+    },
+    {
+      "title": "Walking with Dinosaurs 3D",
+      "years": "-70..-70",
+      "countries": [
+        "UNKNOWN"
+      ],
+      "plot": "For the first time in movie history, audiences will truly see and feel what it was like when dinosaurs ruled the Earth. \"Walking with Dinosaurs\" is the ultimate immersive experience, utilizing state of the art 3D to put audiences in the middle of a thrilling and epic prehistoric world, where an underdog dino triumphs to become a hero for the ages."
+    },
+    {
+      "title": "Yu-Gi-Oh!: The Movie",
+      "years": "-3000..2004",
+      "countries": [
+        "UNKNOWN"
+      ],
+      "plot": "Yugi, a smaller than average high school student, and an easy target for bullies, is given an ancient Egyptian riddle called the \"Millennium Puzzle\" by his grandfather, a local game shop manager. Yugi pieces the puzzle together and unexpectedly becomes the powerful \"Game King.\" Now when Yugi gets into sticky situations, the \"Game King\" takes over and protects Yugi and his friends."
+    },
+    {
+      "title": "Samson",
+      "years": "-1200..-1100",
+      "countries": [
+        "UNKNOWN"
+      ],
+      "plot": "A Hebrew with an unusual gift of strength must respond properly to the call of God on his life in order to lead his people out of enslavement. After his youthful ambition leads to a tragic marriage, his acts of revenge thrust him into direct conflict with the Philistine Army. As his brother mounts a tribal rebellion, only Samson's (Taylor James') relationship with a Philistine seductress and his final surrender - to the Philistines and to God - turns imprisonment and blindness into final victory."
+    }
+  ],
+  "categories": [
+    {
+      "label": "gods intervening in earthly affairs",
+      "description": "The boundary between heaven and earth is thin, and divine beings are treated as active powers who reward, punish, test, and overturn human plans. What you'll see: prayer answered by signs, holy dread before supernatural visitors, and mortal lives shaped by the favor or wrath of powers above.",
+      "icon": "⚡"
+    },
+    {
+      "label": "kings ruling beside sacred authority",
+      "description": "Political rule rests on rulers, governors, and local elites, yet their decisions are constantly weighed against priestly law, prophecy, and claims of divine sanction. What you'll see: courts and audiences, tense dealings between rulers and religious leaders, and power spoken in the language of both law and holiness.",
+      "icon": "👑"
+    },
+    {
+      "label": "temples anchoring public and sacred life",
+      "description": "Worship is not private feeling but a public order tied to sacrifice, ritual purity, festivals, and the authority of holy places. What you'll see: temple courts, priests and attendants, offerings and formal rites, and crowds gathering where civic life meets the sacred.",
+      "icon": "🏛️"
+    },
+    {
+      "label": "subject peoples living under stronger powers",
+      "description": "Many communities live under the shadow of conquest, tribute, occupation, or domination by a stronger neighbour or empire. What you'll see: foreign soldiers, anxious local leaders, conquered towns, and everyday resentment shaped by imposed rule.",
+      "icon": "🛡️"
+    },
+    {
+      "label": "justice displayed through bodily punishment",
+      "description": "Authority makes itself visible through scourging, imprisonment, mutilation, execution, and other punishments carried out before witnesses. What you'll see: guards and chains, public beatings, condemned prisoners, and the body treated as the place where judgment is written.",
+      "icon": "⛓️"
+    },
+    {
+      "label": "war fought at arm's reach",
+      "description": "Conflict is decided with muscle, nerve, and simple weapons rather than distant engines, so battle remains intensely personal. What you'll see: swords, spears, shields, chariots or marching troops, and contests of strength where bodies meet in close combat.",
+      "icon": "⚔️"
+    },
+    {
+      "label": "tribes and households binding social life",
+      "description": "Belonging begins with kin, clan, and peoplehood, and loyalty to household and tribe often matters more than any wider realm. What you'll see: elders, family obligations, arranged bonds and feuds, and whole communities acting as one people under ancestral custom.",
+      "icon": "🏠"
+    },
+    {
+      "label": "omens and wonders proving the unseen",
+      "description": "The world is read for signs, and miracles, portents, and uncanny events are accepted as evidence that hidden powers are at work. What you'll see: darkened skies, trembling earth, prophetic warnings, and extraordinary feats taken as tokens of divine purpose.",
+      "icon": "🌠"
+    },
+    {
+      "label": "walled cities amid harsh open country",
+      "description": "Life gathers in fortified towns and sacred cities, while roads, deserts, hills, and rough countryside remain dangerous and exposed. What you'll see: gates and stone walls, narrow streets, dusty roads, rocky wilderness, and long approaches to cities set apart from the land around them.",
+      "icon": "🧱"
+    },
+    {
+      "label": "honor and shame governing public standing",
+      "description": "Reputation is a social force, and status is won or lost through obedience, defiance, purity, courage, and public humiliation. What you'll see: hostile crowds, formal accusations, gestures of submission or contempt, and people guarding family and communal honor before all eyes.",
+      "icon": "👁️"
+    }
+  ]
+}

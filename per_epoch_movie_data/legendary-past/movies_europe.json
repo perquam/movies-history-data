@@ -1,0 +1,44 @@
+[
+  {
+    "movie_id": 387592,
+    "movie_idx": 6053,
+    "imdb_id": "tt4701724",
+    "title": "Early Man",
+    "production_year": "2018",
+    "genre": "Animation, Adventure, Comedy",
+    "plot": "An asteroid collides with the prehistoric Earth, causing the extinction of the planet's dinosaurs, but sparing a tribe of cavemen living near the impact site. Finding a roughly spherical chunk of the asteroid that is too hot to touch, the cavemen begin to kick it around and invent the game of football. Many years later during the Stone Age, a young caveman named Dug (Eddie Redmayne) lives in the village with the chief Bobnar (Timothy Spall) and many other cavemen such as Asbo, (Johnny Vegas), Gravelle (Gina Yashere), Treebor (Richard Ayoade), Magma (Selina Griffiths), Barry (Mark Williams), Grubup (Richard Webber), Thongo (Simon Greenall) and Eemak (Simon Greenall). One day, Dug suggests to Bobnar that they should try hunting woolly mammoths instead of rabbits, but Bobnar brushes him off..",
+    "runtime": "89 min",
+    "director": "Nick Park",
+    "actors": "Eddie Redmayne, Tom Hiddleston, Maisie Williams",
+    "production_country": "United Kingdom, France, United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZDY1Njk4OGYtYTdhNy00NGZkLTk1MzQtNjFmNjNlYzRlMjNiXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/387592.webp",
+    "imdb_rating": "6.1",
+    "imdb_votes": "24,697",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Early_Man_(film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/387592.txt",
+    "plot_year_start": -2000000,
+    "plot_year_end": -2000000,
+    "epoch": "legendary-past",
+    "action_countries": [
+      "GB"
+    ],
+    "action_continents": [
+      "Europe"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "neighbouring peoples divided by way of life",
+        "description": "Different groups can live at sharply different levels of skill, comfort, and organisation even within the same region, and those differences shape rank and conflict. What you'll see: rough cave dwellers set against more settled or better-equipped neighbours, mutual contempt, and contrasts in dress, food, and housing.",
+        "icon": "⚔️"
+      },
+      {
+        "label": "chiefs leading through custom and respect",
+        "description": "Authority rests less on written law than on age, prowess, and the tribe's memory of who has earned obedience in hard times. What you'll see: elders settling disputes, councils around the fire, public grumbling or assent, and leadership tested by food shortages and danger.",
+        "icon": "👴"
+      }
+    ]
+  }
+]

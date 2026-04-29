@@ -1,0 +1,68 @@
+{
+  "epoch": "future-world",
+  "continent": "africa",
+  "sample_size": 1,
+  "sample": [
+    {
+      "title": "The Mummy Returns",
+      "years": "1933..3067",
+      "countries": [
+        "EG",
+        "GB"
+      ],
+      "plot": "Many years ago, in Ancient Egypt, the Scorpion King led a menacing army, but when he sold his soul to Anubis, he was erased from history. Now he is only a myth...or is he? Rick and Evelyn O'Connell are still discovering new artifacts, along with their 8 year old son Alex. They discover the Bracelet of Anubis. But someone else is after the bracelet. High Priest Imhotep has been brought back from the dead once again and wants the bracelet, to control the Scorpion King's army. That's not the only problem. Imhotep now has Alex and with the bracelet attached to him, doesn't have long to live."
+    }
+  ],
+  "categories": [
+    {
+      "label": "desert kingdoms ruled through sacred power",
+      "description": "Political order is imagined as resting on divine kingship, where rulers draw legitimacy from the gods, temple rites, and command over life and death. What you'll see: colossal statuary, throne rooms and burial chambers, priestly ceremony, and the desert as a royal landscape.",
+      "icon": "👑"
+    },
+    {
+      "label": "tombs guarded by curses and ritual",
+      "description": "The dead are not treated as gone but as potent presences whose resting places are protected by spells, taboos, and carefully ordered funerary practice. What you'll see: sealed chambers, inscribed warnings, embalming lore, sacred relics, and fear surrounding disturbed graves.",
+      "icon": "⚰️"
+    },
+    {
+      "label": "old empires surviving inside modern expeditions",
+      "description": "Ancient Egypt remains an active force in the present world, with forgotten dynasties and buried wars shaping what later visitors think they have merely uncovered. What you'll see: archaeologists in the sand, maps and dig sites, ancient mechanisms reawakened, and modern camps set against ruins.",
+      "icon": "🏺"
+    },
+    {
+      "label": "British influence moving through Egyptian spaces",
+      "description": "Egyptian settings are filtered through a world of foreign expeditions, museums, and imperial-era travel that treats local antiquity as something to be collected and interpreted. What you'll see: river steamers and trains, colonial hotels, excavation permits, armed escorts, and English voices amid temples and bazaars.",
+      "icon": "🚂"
+    },
+    {
+      "label": "priesthoods wielding knowledge older than armies",
+      "description": "Religious specialists hold dangerous learning that rivals worldly force, since hidden names, rites, and invocations can command monsters, storms, and the dead. What you'll see: scrolls and incantations, temple lore, sacred symbols, and confrontations where ritual matters more than weapons.",
+      "icon": "📜"
+    },
+    {
+      "label": "mythic beasts answering to the gods",
+      "description": "The world assumes that divine creatures and half-legendary armies can be summoned into earthly struggle when the proper relics and rites are joined. What you'll see: jackal-headed forces, monstrous guardians, desert visions, and battlefields where legend becomes physical fact.",
+      "icon": "🐺"
+    },
+    {
+      "label": "relics serving as keys to power",
+      "description": "Ancient objects are not mere treasures but instruments that unlock places, reveal destinies, and confer command over hidden realms. What you'll see: bracelets, carved stones, sigils, locks that answer to sacred items, and frantic movement from one landmark to another.",
+      "icon": "🔑"
+    },
+    {
+      "label": "the desert holding lost cities intact",
+      "description": "Vast arid spaces preserve vanished places beyond ordinary reach, making the wilderness a storehouse of old realms rather than an empty expanse. What you'll see: dunes swallowing roads, sudden ruins on the horizon, hidden oasis strongholds, and journeys guided by stars and legend.",
+      "icon": "🏜️"
+    },
+    {
+      "label": "family travel amid perilous antiquities",
+      "description": "Exploration unfolds in a world where learned households move across Egypt together, carrying children, books, and practical gear into zones of ancient danger. What you'll see: camp equipment, river and desert travel, banter amid excavation work, and domestic bonds placed inside monumental ruins.",
+      "icon": "⛺"
+    },
+    {
+      "label": "history remembered as living legend",
+      "description": "The past is held not as settled record but as a half-believed body of stories that can return bodily into the present. What you'll see: whispered prophecies, names erased from common memory, local tales treated warily, and disbelief giving way to awe.",
+      "icon": "🔮"
+    }
+  ]
+}

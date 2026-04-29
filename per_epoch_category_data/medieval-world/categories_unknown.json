@@ -1,0 +1,83 @@
+{
+  "epoch": "medieval-world",
+  "continent": "unknown",
+  "sample_size": 3,
+  "sample": [
+    {
+      "title": "Redbad",
+      "years": "700..700",
+      "countries": [
+        "UNKNOWN"
+      ],
+      "plot": "700 AD. Northern Europe is divided into two worlds: the Frisians, Saxons and Danes live above the rivers, below the rivers live the Franks. They want to achieve what even the Romans did not succeed: conquer all of Europe. They put in a new weapon to enslave the Gentiles: Christianity. They target Europe's main trading center, where the Frisian king Aldigisl rules."
+    },
+    {
+      "title": "After Earth",
+      "years": "1000..1000",
+      "countries": [
+        "UNKNOWN"
+      ],
+      "plot": "One thousand years after cataclysmic events forced humanity's escape from Earth, Nova Prime has become mankind's new home. Legendary General Cypher Raige returns from an extended tour of duty to his estranged family, ready to be a father to his 13-year-old son, Kitai. When an asteroid storm damages Cypher and Kitai's craft, they crash-land on a now unfamiliar and dangerous Earth. As his father lies dying in the cockpit, Kitai must trek across the hostile terrain to recover their rescue beacon. His whole life, Kitai has wanted nothing more than to be a soldier like his father. Today, he gets his chance."
+    },
+    {
+      "title": "Sleeping Beauty",
+      "years": "1301..1400",
+      "countries": [
+        "UNKNOWN"
+      ],
+      "plot": "After the beautiful Princess Aurora is born into royalty, everyone gathers to celebrate. Everything is perfectly fine until an unwanted guest appears, the evil fairy Maleficent. Maleficent curses the young princess and announces that she will die by pricking her finger on the spindle of a spinning wheel before sunset on her 16th birthday. Fortunately, one of the good fairies, Merryweather, changes the spell so Aurora will fall into a deep sleep instead, and the only way to wake her from her sleep is true love's kiss. Finally the day comes."
+    }
+  ],
+  "categories": [
+    {
+      "label": "kings ruling through kin and oath",
+      "description": "Power rests in royal households, sworn followers, and personal loyalty more than in far-reaching offices. What you'll see: great halls, councils of nobles, ceremonial pledges, and rulers travelling with their retinues.",
+      "icon": "👑"
+    },
+    {
+      "label": "warbands and horsemen decide borders",
+      "description": "Territory is held or lost by raiding, local levies, and mounted fighters rather than by fixed frontiers. What you'll see: shields and spears, river or road musters, fortified strongholds, and sudden fighting over crossings and settlements.",
+      "icon": "🐎"
+    },
+    {
+      "label": "conversion to Christianity remakes authority",
+      "description": "The new faith spreads alongside rulers and conquest, challenging older gods and customs while lending sacred weight to power. What you'll see: baptisms, crosses beside older holy places, priests at court, and disputes over idols, rites, and allegiance.",
+      "icon": "✝️"
+    },
+    {
+      "label": "older magic lives beside church belief",
+      "description": "Sacred miracles, curses, blessings, and unseen forces are treated as part of how the world works. What you'll see: prophetic warnings, protective charms, enchanted sleep, holy rites, and fear of supernatural punishment.",
+      "icon": "🔮"
+    },
+    {
+      "label": "river mouths and ports gather wealth",
+      "description": "Trade concentrates at harbours and river crossings where merchants, tribute, and news pass between lands. What you'll see: crowded quays, market exchange, ships unloading goods, and rulers contesting valuable trading places.",
+      "icon": "⚓"
+    },
+    {
+      "label": "great households order daily life",
+      "description": "Life turns around the lord's or king's household, where service, feasting, labour, and protection are tied together. What you'll see: banquet tables, storerooms, servants at work, noble chambers, and the constant movement of household dependents.",
+      "icon": "🏰"
+    },
+    {
+      "label": "birth fixes rank and marriage ties",
+      "description": "Status is inherited, and marriages are used to secure peace, land, and legitimacy between ruling families. What you'll see: royal births, betrothal talk, lineage being recited, and ceremony marking who belongs above whom.",
+      "icon": "💍"
+    },
+    {
+      "label": "woods, marshes, and wild land press close",
+      "description": "Settled life exists beside dangerous forests, fens, and lonely stretches where travel is slow and perilous. What you'll see: rough paths, hunting grounds, hidden cottages, river fog, and travellers exposed to beasts and ambush.",
+      "icon": "🌲"
+    },
+    {
+      "label": "craft work shapes household necessities",
+      "description": "Most goods are made by hand in small workshops or within the household, making ordinary tools and textiles precious. What you'll see: spinning wheels, woven cloth, hand-forged weapons, carved wood, and careful use of everyday objects.",
+      "icon": "🧶"
+    },
+    {
+      "label": "feast days and ritual mark time",
+      "description": "The year is organised by holy observances, seasonal gatherings, and court ceremony rather than by impersonal schedules. What you'll see: christenings, processions, bells, seasonal celebrations, and public rites that gather the whole community.",
+      "icon": "🔔"
+    }
+  ]
+}

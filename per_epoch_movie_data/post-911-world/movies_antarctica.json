@@ -1,0 +1,86 @@
+[
+  {
+    "movie_id": 9836,
+    "movie_idx": 1787,
+    "imdb_id": "tt0366548",
+    "title": "Happy Feet",
+    "production_year": "2006",
+    "genre": "Animation, Adventure, Comedy",
+    "plot": "This is the story of a little penguin named Mumble who has a terrible singing voice and later discovers he has no Heartsong. However, Mumble has an astute talent for something that none of the penguins had ever seen before: tap dancing. Though Mumble's mom, Norma Jean, thinks this little habit is cute, his dad, Memphis, says it \"just ain't penguin.\" Besides, they both know that, without a Heartsong, Mumble may never find true love. As fate would have it, his one friend, Gloria, happens to be the best singer around. Mumble and Gloria have a connection from the moment they hatch, but she struggles with his strange \"hippity- hoppity\" ways. Mumble is just too different--especially for Noah the Elder, the stern leader of Emperor Land, who ultimately casts him out of the community. Away from home for the first time, Mumble meets a posse of decidedly un-Emperor-like penguins--the Adelie Amigos. Led by Ramon, the Adelies instantly embrace Mumble's cool dance moves and invite him to party with them. In Adelie Land, Mumble seeks the counsel of Lovelace the Guru, a crazy-feathered Rockhopper penguin who will answer any of life's questions for the price of a pebble. Together with Lovelace and the Amigos, Mumble sets out across vast landscapes and, after some epic encounters, proves that by being true to yourself, you can make all the difference in the world.",
+    "runtime": "108 min",
+    "director": "George Miller, Warren Coleman, Judy Morris",
+    "actors": "Elijah Wood, Brittany Murphy, Hugh Jackman",
+    "production_country": "United States, Australia",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNjViZDZhNjctM2MwOS00MDdhLWIwMTYtNjNmNGY2OGMzZWZhXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/9836.webp",
+    "imdb_rating": "6.4",
+    "imdb_votes": "212,746",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Happy_Feet",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/9836.txt",
+    "plot_year_start": 2000,
+    "plot_year_end": 2006,
+    "epoch": "post-911-world",
+    "action_countries": [
+      "AQ"
+    ],
+    "action_continents": [
+      "Antarctica"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "food chains tightening around scarce fish",
+        "description": "Survival depends on the abundance of krill and fish in nearby waters, so hunger and plenty ripple through the whole coastal world. What you'll see: feeding dives, anxious talk of disappearing catch, crowded foraging grounds, and the constant nearness of need beneath celebration.",
+        "icon": "🐟"
+      },
+      {
+        "label": "penguin colonies packed with ritual life",
+        "description": "Large breeding communities hold together through shared customs of courtship, nesting, hatching, and child-rearing, with little room for anyone who falls outside accepted ways. What you'll see: crowded rookeries, egg tending, huddled families, communal singing, and elders watching over the order of the colony.",
+        "icon": "🐧"
+      }
+    ]
+  },
+  {
+    "movie_id": 65759,
+    "movie_idx": 2545,
+    "imdb_id": "tt1402488",
+    "title": "Happy Feet Two",
+    "production_year": "2011",
+    "genre": "Animation, Adventure, Comedy",
+    "plot": "Mumble the penguin has a problem: his son Erik, who is reluctant to dance, encounters The Mighty Sven, a penguin who can fly! Things get worse for Mumble when the world is shaken by powerful forces, causing him to brings together the penguin nations and their allies to set things right.",
+    "runtime": "100 min",
+    "director": "George Miller, Gary Eck, David Peers",
+    "actors": "Elijah Wood, Robin Williams, P!nk",
+    "production_country": "Australia, United States, United Kingdom",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTI3ZTlkMmMtYWVmZS00M2QyLTkwNWYtNTdlYmIzNzI0NmFhXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/65759.webp",
+    "imdb_rating": "5.8",
+    "imdb_votes": "50,308",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Happy_Feet_Two",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/65759.txt",
+    "plot_year_start": 2011,
+    "plot_year_end": 2011,
+    "epoch": "post-911-world",
+    "action_countries": [
+      "AQ"
+    ],
+    "action_continents": [
+      "Antarctica"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "different penguin peoples sharing one coast",
+        "description": "Antarctica is divided into neighboring penguin communities with distinct manners, speech, and customs, yet they meet across journeys, trade of favors, and common danger. What you'll see: contrasts between emperor, Adelie, and rockhopper worlds, inter-colony gatherings, and quick shifts in dress, song, and manner.",
+        "icon": "🪶"
+      },
+      {
+        "label": "vast ice coasts ruled by seasons",
+        "description": "Life is set by cold, wind, darkness, and the yearly turn of sea ice, which governs where creatures can gather, travel, and feed. What you'll see: blinding white plains, blue ice cliffs, storms, frozen seas, and long treks across open snow.",
+        "icon": "🧊"
+      }
+    ]
+  }
+]

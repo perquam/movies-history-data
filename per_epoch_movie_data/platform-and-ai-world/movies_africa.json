@@ -1,0 +1,947 @@
+[
+  {
+    "movie_id": 1172009,
+    "movie_idx": 64,
+    "imdb_id": "tt24083908",
+    "title": "The Black Book",
+    "production_year": "2023",
+    "genre": "Thriller",
+    "plot": "After his son is framed for a kidnapping, a bereaved deacon takes justice into his own hands and fights a corrupt police gang to absolve him.",
+    "runtime": "124 min",
+    "director": "Editi Effiong",
+    "actors": "Richard Mofe-Damijo, Ade Laoye, Sam Dede",
+    "production_country": "Nigeria",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZDBlNzU1NWItZmZkOC00YTI5LWJkMDQtZTJiMGVkYjJkNjZjXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/1172009.webp",
+    "imdb_rating": "5.3",
+    "imdb_votes": "1,459",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Black_Book_(2023_film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/1172009.txt",
+    "plot_year_start": 2023,
+    "plot_year_end": 2023,
+    "epoch": "platform-and-ai-world",
+    "action_countries": [
+      "NG"
+    ],
+    "action_continents": [
+      "Africa"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "police power tangled with graft",
+        "description": "Formal law exists, but in many settings uniforms, badges, and weapons are mixed up with bribery, political protection, and extra-legal force. What you'll see: roadblocks, back-room deals, rough interrogations, compromised officers, and citizens treating the police with both need and fear.",
+        "icon": "👮"
+      },
+      {
+        "label": "private guns doing the state's work",
+        "description": "Security firms, bodyguards, mercenary crews, and heavily armed contractors often stand where public protection is weak or mistrusted. What you'll see: armored convoys, earpieces, tactical kit, guarded compounds, extraction teams, and violence carried out as a paid service.",
+        "icon": "🔫"
+      }
+    ]
+  },
+  {
+    "movie_id": 760741,
+    "movie_idx": 461,
+    "imdb_id": "tt13223398",
+    "title": "Beast",
+    "production_year": "2022",
+    "genre": "Action, Adventure, Drama",
+    "plot": "A father and his two teenage daughters find themselves hunted by a massive rogue lion intent on proving that the savanna has but one apex predator.",
+    "runtime": "93 min",
+    "director": "Baltasar Kormákur",
+    "actors": "Liyabuya Gongo, Martin Munro, Daniel Hadebe",
+    "production_country": "United States, Japan, Iceland",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNDQ5ZDA4NWItYWQyOS00MjE2LTk3ODktYTQzNmY5NGVhOWFjXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/760741.webp",
+    "imdb_rating": "5.6",
+    "imdb_votes": "47,736",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Beast_(2022_American_film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/760741.txt",
+    "plot_year_start": 2022,
+    "plot_year_end": 2022,
+    "epoch": "platform-and-ai-world",
+    "action_countries": [
+      "ZA"
+    ],
+    "action_continents": [
+      "Africa"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "wild landscapes managed for tourism and conservation",
+        "description": "Game reserves, coasts, reefs, and island waters are preserved, marketed, and patrolled as places of wonder, profit, and ecological struggle. What you'll see: safari lodges, ranger stations, anti-poaching patrols, charter planes, diving gear, and visitors meeting carefully managed wilderness.",
+        "icon": "🦁"
+      },
+      {
+        "label": "extractive wealth drawing violence and intrigue",
+        "description": "Gold, rare minerals, fuel, and other buried wealth attract foreign interests, criminal syndicates, and political fixers as much as they enrich nations. What you'll see: mine sites, smuggling routes, guarded shipments, businessmen with security details, and local ground scarred by the chase for resource money.",
+        "icon": "⛏️"
+      }
+    ]
+  },
+  {
+    "movie_id": 1109534,
+    "movie_idx": 713,
+    "imdb_id": "tt13566172",
+    "title": "The Dive",
+    "production_year": "2023",
+    "genre": "Adventure, Drama, Thriller",
+    "plot": "Two sisters go diving at a beautiful, remote location. One of the sisters is struck by a rock, leaving her trapped 28 meters below. With dangerously low levels of oxygen and cold temperatures, it is up to her sister to fight for h...",
+    "runtime": "91 min",
+    "director": "Maximilian Erlenwein",
+    "actors": "Louisa Krause, Sophie Lowe, Stella Uhrig",
+    "production_country": "Germany, Belgium, United Kingdom, Malta, France",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYzJlMGExMGQtNTU1NS00M2ZhLWI3OTItYTNmZWM0ZjQ2NjYxXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/1109534.webp",
+    "imdb_rating": "5.5",
+    "imdb_votes": "5,384",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Dive_(2023_film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/1109534.txt",
+    "plot_year_start": 2023,
+    "plot_year_end": 2023,
+    "epoch": "platform-and-ai-world",
+    "action_countries": [
+      "MZ"
+    ],
+    "action_continents": [
+      "Africa"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "wild landscapes managed for tourism and conservation",
+        "description": "Game reserves, coasts, reefs, and island waters are preserved, marketed, and patrolled as places of wonder, profit, and ecological struggle. What you'll see: safari lodges, ranger stations, anti-poaching patrols, charter planes, diving gear, and visitors meeting carefully managed wilderness.",
+        "icon": "🦁"
+      }
+    ]
+  },
+  {
+    "movie_id": 1000081,
+    "movie_idx": 885,
+    "imdb_id": "tt23898856",
+    "title": "Sentinelle",
+    "production_year": "2023",
+    "genre": "Action, Comedy, Crime",
+    "plot": "François Sentinelle has two lives. By day he is the most famous police officer on Reunion Island, known for his harsh methods and flowery shirts, who chases criminals in his 4x4. But the rest of the time, he is also a charismatic ...",
+    "runtime": "99 min",
+    "director": "Hugo Benamozig, David Caviglioli",
+    "actors": "Jonathan Cohen, Emmanuelle Bercot, Raphaël Quenard",
+    "production_country": "France",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjdiYWNhMDUtYTZhZC00ZTNiLWE0MjItMmZkZjUwYWQ4NTU0XkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/1000081.webp",
+    "imdb_rating": "5.1",
+    "imdb_votes": "1,556",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Sentinelle_(2023_film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/1000081.txt",
+    "plot_year_start": 2023,
+    "plot_year_end": 2024,
+    "epoch": "platform-and-ai-world",
+    "action_countries": [
+      "RE"
+    ],
+    "action_continents": [
+      "Africa"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "police power tangled with graft",
+        "description": "Formal law exists, but in many settings uniforms, badges, and weapons are mixed up with bribery, political protection, and extra-legal force. What you'll see: roadblocks, back-room deals, rough interrogations, compromised officers, and citizens treating the police with both need and fear.",
+        "icon": "👮"
+      }
+    ]
+  },
+  {
+    "movie_id": 1174928,
+    "movie_idx": 888,
+    "imdb_id": "tt28939681",
+    "title": "A Weekend to Forget",
+    "production_year": "2023",
+    "genre": "Drama, Thriller",
+    "plot": "Seven friends reunite for a weekend getaway after years of being apart. But things aren't as smooth as they hoped, as old tensions and unresolved issues resurface.",
+    "runtime": "97 min",
+    "director": "Damola Ademola",
+    "actors": "Daniel Etim Effiong, Ini Dima Okojie, Stan Nze",
+    "production_country": "Nigeria",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYzI2MjRlMWYtMjRhYS00OGVhLWFhMGEtMDIwYzllNzRhMTFiXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/1174928.webp",
+    "imdb_rating": "N/A",
+    "imdb_votes": "157",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/A_Weekend_to_Forget",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/1174928.txt",
+    "plot_year_start": 2023,
+    "plot_year_end": 2023,
+    "epoch": "platform-and-ai-world",
+    "action_countries": [
+      "NG"
+    ],
+    "action_continents": [
+      "Africa"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "cities split between wealth and precarity",
+        "description": "Fast-growing African cities hold luxury towers, gated homes, informal settlements, and hustling street economies side by side. What you'll see: gleaming skylines over crowded districts, expensive cars beside minibuses, rooftop bars, cash shortages, and people moving constantly between rich and poor worlds.",
+        "icon": "🏙️"
+      }
+    ]
+  },
+  {
+    "movie_id": 198184,
+    "movie_idx": 1031,
+    "imdb_id": "tt1823672",
+    "title": "Chappie",
+    "production_year": "2015",
+    "genre": "Action, Crime, Drama",
+    "plot": "In Johannesburg, the police department reduced the high rating of criminality using robots from the Tetravaal Company, designed by the engineer Deon Wilson. The former military Vincent Moore is envious of Deon, since he has developed another project called Moose, but neither Tetravaal nor the police department is interested. Deon has just developed an Artificial Intelligence but the Tetravaal's CEO Michelle Bradley asks him to abort the project. Deon decides to bring the damaged Robot 22 that was sent to be crushed to test his A.I. However he is kidnapped by the criminals Ninja, Yo-Landi and Amerika that want him to stop the robot cops. When they see the damaged robot in the van, they force Deon to program it to heist banks with them and they call it Chappie. However, Chappie acts like a child and need to be trained to learn and grow. Meanwhile Vincent follows Deon and plots an evil scheme to activate his robot.",
+    "runtime": "120 min",
+    "director": "Neill Blomkamp",
+    "actors": "Sharlto Copley, Dev Patel, Hugh Jackman",
+    "production_country": "United States, South Africa, Mexico",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTUyNTI4NTIwNl5BMl5BanBnXkFtZTgwMjQ4MTI0NDE@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/198184.webp",
+    "imdb_rating": "6.8",
+    "imdb_votes": "282,686",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Chappie_(film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/198184.txt",
+    "plot_year_start": 2016,
+    "plot_year_end": 2016,
+    "epoch": "platform-and-ai-world",
+    "action_countries": [
+      "ZA"
+    ],
+    "action_continents": [
+      "Africa"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "algorithms and machines entering public order",
+        "description": "Digital systems increasingly sort people, watch movement, and promise safer streets, while new machine intelligence is treated as both marvel and menace. What you'll see: camera networks, screen dashboards, automated targeting, robot enforcers, data-driven policing, and anxious talk about who controls the code.",
+        "icon": "🤖"
+      },
+      {
+        "label": "police power tangled with graft",
+        "description": "Formal law exists, but in many settings uniforms, badges, and weapons are mixed up with bribery, political protection, and extra-legal force. What you'll see: roadblocks, back-room deals, rough interrogations, compromised officers, and citizens treating the police with both need and fear.",
+        "icon": "👮"
+      }
+    ]
+  },
+  {
+    "movie_id": 232672,
+    "movie_idx": 1126,
+    "imdb_id": "tt1086772",
+    "title": "Blended",
+    "production_year": "2014",
+    "genre": "Comedy, Romance",
+    "plot": "After a blind date gone horribly wrong, Jim and Lauren agree they never, ever want to see each other again. Well, that's all about to change when the two find themselves and their respective families (including children) all stuck together in one suite at an African Safari vacation spot.",
+    "runtime": "117 min",
+    "director": "Frank Coraci",
+    "actors": "Adam Sandler, Drew Barrymore, Wendi McLendon-Covey",
+    "production_country": "United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNzc2ODI5NjAyMl5BMl5BanBnXkFtZTgwMzIyOTE4MDE@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/232672.webp",
+    "imdb_rating": "6.5",
+    "imdb_votes": "154,097",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Blended_(film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/232672.txt",
+    "plot_year_start": 2014,
+    "plot_year_end": 2014,
+    "epoch": "platform-and-ai-world",
+    "action_countries": [
+      "ZA"
+    ],
+    "action_continents": [
+      "Africa"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "wild landscapes managed for tourism and conservation",
+        "description": "Game reserves, coasts, reefs, and island waters are preserved, marketed, and patrolled as places of wonder, profit, and ecological struggle. What you'll see: safari lodges, ranger stations, anti-poaching patrols, charter planes, diving gear, and visitors meeting carefully managed wilderness.",
+        "icon": "🦁"
+      }
+    ]
+  },
+  {
+    "movie_id": 1129956,
+    "movie_idx": 1637,
+    "imdb_id": "tt27728519",
+    "title": "iNumber Number: Jozi Gold",
+    "production_year": "2023",
+    "genre": "Action, Adventure, Crime",
+    "plot": "When an undercover cop is tasked with investigating a historic gold heist in Johannesburg, he’s forced to choose between his conscience and the law.",
+    "runtime": "113 min",
+    "director": "Donovan Marsh",
+    "actors": "Lonwabo Bokamoso, Presley Chweneyagae, Willem Jacobus de Jongh",
+    "production_country": "South Africa",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZmJmNjI5ZjItYjE4YS00OTZjLTlkMjYtOGI5N2RmN2I2YzZhXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/1129956.webp",
+    "imdb_rating": "4.4",
+    "imdb_votes": "532",
+    "wikipedia_url": "https://it.wikipedia.org/wiki/INumber_Number_-_L%27oro_di_Johannesburg",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/1129956.txt",
+    "plot_year_start": 2023,
+    "plot_year_end": 2023,
+    "epoch": "platform-and-ai-world",
+    "action_countries": [
+      "ZA"
+    ],
+    "action_continents": [
+      "Africa"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "extractive wealth drawing violence and intrigue",
+        "description": "Gold, rare minerals, fuel, and other buried wealth attract foreign interests, criminal syndicates, and political fixers as much as they enrich nations. What you'll see: mine sites, smuggling routes, guarded shipments, businessmen with security details, and local ground scarred by the chase for resource money.",
+        "icon": "⛏️"
+      },
+      {
+        "label": "police power tangled with graft",
+        "description": "Formal law exists, but in many settings uniforms, badges, and weapons are mixed up with bribery, political protection, and extra-legal force. What you'll see: roadblocks, back-room deals, rough interrogations, compromised officers, and citizens treating the police with both need and fear.",
+        "icon": "👮"
+      }
+    ]
+  },
+  {
+    "movie_id": 1162172,
+    "movie_idx": 1969,
+    "imdb_id": "tt28508739",
+    "title": "Love, Sex and 30 Candles",
+    "production_year": "2023",
+    "genre": "Drama, Romance",
+    "plot": "Through a year of 30th birthdays, four best friends navigate relationships, heartbreak and a shocking situation that threatens to tear them apart.",
+    "runtime": "106 min",
+    "director": "Stephina Zwane",
+    "actors": "Terence Bridgett, Amogelang Chidi, Meme Ditshego",
+    "production_country": "South Africa",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMDU1NDVhYjAtMDVmYi00MTgyLThlMDQtN2JmMTMyNmE3ODcwXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/1162172.webp",
+    "imdb_rating": "4.2",
+    "imdb_votes": "195",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Love,_Sex_and_30_Candles",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/1162172.txt",
+    "plot_year_start": 2023,
+    "plot_year_end": 2023,
+    "epoch": "platform-and-ai-world",
+    "action_countries": [
+      "ZA"
+    ],
+    "action_continents": [
+      "Africa"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "english, local tongues, and global style mixing",
+        "description": "Urban Africa in the platform age is linguistically and culturally layered, with local speech, imported media, and international fashions blending in everyday life. What you'll see: code-switching, slang-heavy banter, Afrobeats and pop soundtracks, Western brand names, church clothes, clubwear, and hybrid city style.",
+        "icon": "🗣️"
+      }
+    ]
+  },
+  {
+    "movie_id": 1051371,
+    "movie_idx": 3327,
+    "imdb_id": "tt8584728",
+    "title": "Rhino Man",
+    "production_year": "2022",
+    "genre": "Documentary",
+    "plot": "In the midst of the battle to save rhinos from extinction, a great anti-poaching ranger trainer, Martin Mthembu, has fallen, leaving a void in the fight. His close friend Ruben de Kock continues to honor his legacy by training the next generation of rangers, while friend and ranger sergeant, Anton Mzimba, holds the line against poachers out in the bush.",
+    "runtime": "N/A",
+    "director": "John Jurko II, Matt Lindenberg, Daniel Roberts",
+    "actors": "Anton Mzimba, Martin Mthembu, Ruben De Kock",
+    "production_country": "United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMDIwMmViM2UtZjI0NS00M2E2LTgwOWUtODkxMGYyNDkyZWQ0XkEyXkFqcGdeQXVyMjk0NTcwNjA@._V1_SX300.jpg",
+    "imdb_rating": "N/A",
+    "imdb_votes": "N/A",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Rhino_Man",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/1051371.txt",
+    "plot_year_start": 2014,
+    "plot_year_end": 2022,
+    "epoch": "platform-and-ai-world",
+    "action_countries": [
+      "ZA"
+    ],
+    "action_continents": [
+      "Africa"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "extractive wealth drawing violence and intrigue",
+        "description": "Gold, rare minerals, fuel, and other buried wealth attract foreign interests, criminal syndicates, and political fixers as much as they enrich nations. What you'll see: mine sites, smuggling routes, guarded shipments, businessmen with security details, and local ground scarred by the chase for resource money.",
+        "icon": "⛏️"
+      },
+      {
+        "label": "wild landscapes managed for tourism and conservation",
+        "description": "Game reserves, coasts, reefs, and island waters are preserved, marketed, and patrolled as places of wonder, profit, and ecological struggle. What you'll see: safari lodges, ranger stations, anti-poaching patrols, charter planes, diving gear, and visitors meeting carefully managed wilderness.",
+        "icon": "🦁"
+      }
+    ],
+    "failures": {
+      "poster": "poster_download_failed"
+    }
+  },
+  {
+    "movie_id": 767304,
+    "movie_idx": 3563,
+    "imdb_id": "tt4439620",
+    "title": "Redemption Day",
+    "production_year": "2021",
+    "genre": "Action, Drama, Thriller",
+    "plot": "When the love of his life is kidnapped and held for ransom by terrorists, a war hero Brad Paxton races against the clock to rescue her in a daring and deadly operation that pits him against the most powerful and shadowy forces.",
+    "runtime": "99 min",
+    "director": "Hicham Hajji",
+    "actors": "Gary Dourdan, Serinda Swan, Andy Garcia",
+    "production_country": "United States, Morocco",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjcwNjYzMzAtZGY3NC00NjkxLWIzYzAtMTBjYzIxODBkNjAwXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/767304.webp",
+    "imdb_rating": "4.5",
+    "imdb_votes": "24,368",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Redemption_Day_(film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/767304.txt",
+    "plot_year_start": 2021,
+    "plot_year_end": 2021,
+    "epoch": "platform-and-ai-world",
+    "action_countries": [
+      "MA",
+      "DZ",
+      "US"
+    ],
+    "action_continents": [
+      "Africa",
+      "Africa",
+      "North America"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "extractive wealth drawing violence and intrigue",
+        "description": "Gold, rare minerals, fuel, and other buried wealth attract foreign interests, criminal syndicates, and political fixers as much as they enrich nations. What you'll see: mine sites, smuggling routes, guarded shipments, businessmen with security details, and local ground scarred by the chase for resource money.",
+        "icon": "⛏️"
+      },
+      {
+        "label": "migration shaped by war and faraway borders",
+        "description": "Conflict, hardship, and unequal opportunity push many Africans into dangerous journeys, asylum systems, and lives split between homeland ties and foreign rules. What you'll see: border crossings, refugee paperwork, cramped housing, remittance-minded phone calls, and memories of violence intruding on new surroundings.",
+        "icon": "🛂"
+      }
+    ]
+  },
+  {
+    "movie_id": 339530,
+    "movie_idx": 3636,
+    "imdb_id": "tt4180514",
+    "title": "Tremors 5: Bloodlines",
+    "production_year": "2015",
+    "genre": "Action, Adventure, Comedy, Horror, Sci-Fi, Thriller",
+    "plot": "Burt and Travis battle ass-blasters and graboids in South Africa.",
+    "runtime": "99 min",
+    "director": "Don Michael Paul",
+    "actors": "Brandon Auret, Natalie Becker, Emmanuel Castis, Michael Gross",
+    "production_country": "USA, South Africa",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjczMDQxMDUxOV5BMl5BanBnXkFtZTgwOTAxMjE1NjE@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/339530.webp",
+    "imdb_rating": "5.3",
+    "imdb_votes": "7,228",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Tremors_5:_Bloodlines",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/339530.txt",
+    "plot_year_start": 2015,
+    "plot_year_end": 2015,
+    "epoch": "platform-and-ai-world",
+    "action_countries": [
+      "ZA"
+    ],
+    "action_continents": [
+      "Africa"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Tremors Universe",
+    "categories": [
+      {
+        "label": "police power tangled with graft",
+        "description": "Formal law exists, but in many settings uniforms, badges, and weapons are mixed up with bribery, political protection, and extra-legal force. What you'll see: roadblocks, back-room deals, rough interrogations, compromised officers, and citizens treating the police with both need and fear.",
+        "icon": "👮"
+      },
+      {
+        "label": "extractive wealth drawing violence and intrigue",
+        "description": "Gold, rare minerals, fuel, and other buried wealth attract foreign interests, criminal syndicates, and political fixers as much as they enrich nations. What you'll see: mine sites, smuggling routes, guarded shipments, businessmen with security details, and local ground scarred by the chase for resource money.",
+        "icon": "⛏️"
+      }
+    ]
+  },
+  {
+    "movie_id": 346808,
+    "movie_idx": 3876,
+    "imdb_id": "tt3181776",
+    "title": "Momentum",
+    "production_year": "2015",
+    "genre": "Action, Crime, Thriller",
+    "plot": "Alex, a mysterious thief, is pulled in by her former partner for one last heist and quickly finds it was never just about the diamonds. A brutal murder sparks a cat and mouse chase between Alex and a master assassin. Now she must uncover the lies behind the heist and discover the secrets behind the men who have made her a target.",
+    "runtime": "96 min",
+    "director": "Stephen S. Campanelli",
+    "actors": "Olga Kurylenko, James Purefoy, Morgan Freeman",
+    "production_country": "South Africa, United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjE2MDY5MTk1OF5BMl5BanBnXkFtZTgwODM3NjA2NDE@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/346808.webp",
+    "imdb_rating": "5.5",
+    "imdb_votes": "17,661",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Momentum_(2015_film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/346808.txt",
+    "plot_year_start": 2015,
+    "plot_year_end": 2015,
+    "epoch": "platform-and-ai-world",
+    "action_countries": [
+      "ZA",
+      "US"
+    ],
+    "action_continents": [
+      "Africa",
+      "North America"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "private guns doing the state's work",
+        "description": "Security firms, bodyguards, mercenary crews, and heavily armed contractors often stand where public protection is weak or mistrusted. What you'll see: armored convoys, earpieces, tactical kit, guarded compounds, extraction teams, and violence carried out as a paid service.",
+        "icon": "🔫"
+      },
+      {
+        "label": "police power tangled with graft",
+        "description": "Formal law exists, but in many settings uniforms, badges, and weapons are mixed up with bribery, political protection, and extra-legal force. What you'll see: roadblocks, back-room deals, rough interrogations, compromised officers, and citizens treating the police with both need and fear.",
+        "icon": "👮"
+      }
+    ]
+  },
+  {
+    "movie_id": 703745,
+    "movie_idx": 4414,
+    "imdb_id": "tt11946300",
+    "title": "Deep Blue Sea 3",
+    "production_year": "2020",
+    "genre": "Action, Horror, Sci-Fi",
+    "plot": "Dr. Emma Collins and her team are spending their third summer on the island of Little Happy studying the effect of climate change on the great white sharks who come to the nearby nursery every year to give birth. Along with the last two inhabitants of this former fishing village, their peaceful life is disrupted when a \"scientific\" team led by her ex-boyfriend and marine biologist Richard show up looking for three bull sharks who we soon learn aren't just any bull sharks.",
+    "runtime": "100 min",
+    "director": "John Pogue",
+    "actors": "Tania Raymonde, Nathaniel Buzolic, Emerson Brooks",
+    "production_country": "United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNTI1YmU4NmItZTc4NC00NzA2LWJiMjYtMmE0Njg5M2U2N2VhXkEyXkFqcGdeQXVyNTM0NTU5Mg@@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/703745.webp",
+    "imdb_rating": "4.7",
+    "imdb_votes": "6,360",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Deep_Blue_Sea_3",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/703745.txt",
+    "plot_year_start": 2020,
+    "plot_year_end": 2020,
+    "epoch": "platform-and-ai-world",
+    "action_countries": [
+      "ZA"
+    ],
+    "action_continents": [
+      "Africa"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "extractive wealth drawing violence and intrigue",
+        "description": "Gold, rare minerals, fuel, and other buried wealth attract foreign interests, criminal syndicates, and political fixers as much as they enrich nations. What you'll see: mine sites, smuggling routes, guarded shipments, businessmen with security details, and local ground scarred by the chase for resource money.",
+        "icon": "⛏️"
+      }
+    ]
+  },
+  {
+    "movie_id": 260063,
+    "movie_idx": 4903,
+    "imdb_id": "tt2992552",
+    "title": "Seal Team Eight: Behind Enemy Lines",
+    "production_year": "2014",
+    "genre": "Action, Drama, War",
+    "plot": "While on an unsanctioned, covert mission in Africa, a small team of S.E.A.L.s uncovers intelligence pointing to the imminent sale of a massive quantity of weapons grade uranium. Now, with no mission prep and zero support, they have less than thirty six hours to fight their way past a ruthless warlord's army guarding this secret mining operation, hidden deep in the treacherous Congo, in order to secure the yellow-cake and expose the unknown buyer. One of America's greatest threats is about to obtain the final piece in becoming a true nuclear power and only Seal Team Eight can stop them.",
+    "runtime": "98 min",
+    "director": "Roel Reiné",
+    "actors": "Tom Sizemore, Lex Shrapnel, Anthony Oseyemi, Michael Everson",
+    "production_country": "USA",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTQxMTc1NjA0MF5BMl5BanBnXkFtZTgwODAwOTgyMTE@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/260063.webp",
+    "imdb_rating": "4.6",
+    "imdb_votes": "2,842",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/SEAL_Team_8:_Behind_Enemy_Lines",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/260063.txt",
+    "plot_year_start": 2014,
+    "plot_year_end": 2014,
+    "epoch": "platform-and-ai-world",
+    "action_countries": [
+      "CD"
+    ],
+    "action_continents": [
+      "Africa"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "extractive wealth drawing violence and intrigue",
+        "description": "Gold, rare minerals, fuel, and other buried wealth attract foreign interests, criminal syndicates, and political fixers as much as they enrich nations. What you'll see: mine sites, smuggling routes, guarded shipments, businessmen with security details, and local ground scarred by the chase for resource money.",
+        "icon": "⛏️"
+      },
+      {
+        "label": "migration shaped by war and faraway borders",
+        "description": "Conflict, hardship, and unequal opportunity push many Africans into dangerous journeys, asylum systems, and lives split between homeland ties and foreign rules. What you'll see: border crossings, refugee paperwork, cramped housing, remittance-minded phone calls, and memories of violence intruding on new surroundings.",
+        "icon": "🛂"
+      }
+    ]
+  },
+  {
+    "movie_id": 923597,
+    "movie_idx": 5027,
+    "imdb_id": "tt15422240",
+    "title": "Eraser: Reborn",
+    "production_year": "2022",
+    "genre": "Action, Crime, Thriller",
+    "plot": "U.S. Marshal Mason Pollard specializes in \"erasing\" people - faking the deaths of high-risk witnesses. With the technological advances of the last 25 years, the game has upgraded, and it's just another day at the office when he's assigned to Rina Kimura, a crime boss' wife who's decided to turn state's evidence. As the two flee to Cape Town, South Africa, with a team of merciless assassins on their trail, Pollard discovers he's been set up. Double-crossed and fueled by adrenaline, he needs to be at the top of his game, or he'll be the one who's erased. Permanently.",
+    "runtime": "102 min",
+    "director": "John Pogue",
+    "actors": "Dominic Sherwood, Jacky Lai, McKinley Belcher III",
+    "production_country": "United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjZjYTNkYjAtZjJlNS00ZGM4LWIxMjUtYTYwNGViNjU3YTA1XkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/923597.webp",
+    "imdb_rating": "4.6",
+    "imdb_votes": "2,887",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Eraser:_Reborn",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/923597.txt",
+    "plot_year_start": 2022,
+    "plot_year_end": 2022,
+    "epoch": "platform-and-ai-world",
+    "action_countries": [
+      "ZA"
+    ],
+    "action_continents": [
+      "Africa"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "private guns doing the state's work",
+        "description": "Security firms, bodyguards, mercenary crews, and heavily armed contractors often stand where public protection is weak or mistrusted. What you'll see: armored convoys, earpieces, tactical kit, guarded compounds, extraction teams, and violence carried out as a paid service.",
+        "icon": "🔫"
+      },
+      {
+        "label": "algorithms and machines entering public order",
+        "description": "Digital systems increasingly sort people, watch movement, and promise safer streets, while new machine intelligence is treated as both marvel and menace. What you'll see: camera networks, screen dashboards, automated targeting, robot enforcers, data-driven policing, and anxious talk about who controls the code.",
+        "icon": "🤖"
+      }
+    ]
+  },
+  {
+    "movie_id": 547016,
+    "movie_idx": 5215,
+    "imdb_id": "tt7556122",
+    "title": "The Old Guard",
+    "production_year": "2020",
+    "genre": "Action, Thriller",
+    "plot": "Led by a warrior named Andy (Charlize Theron), a covert group of tight-knit mercenaries with a mysterious inability to die have fought to protect the mortal world for centuries. But when the team is recruited to take on an emergency mission and their extraordinary abilities are suddenly exposed, it's up to Andy and Nile (Kiki Layne), the newest soldier to join their ranks, to help the group eliminate the threat of those who seek to replicate and monetize their power by any means necessary.",
+    "runtime": "125 min",
+    "director": "Gina Prince-Bythewood",
+    "actors": "Charlize Theron, KiKi Layne, Matthias Schoenaerts",
+    "production_country": "United States, United Kingdom, Morocco",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYzMwNjVjNTEtZDVhOC00NzQzLTg0MGYtMGI1Yzc0Nzg2MjNmXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/547016.webp",
+    "imdb_rating": "6.7",
+    "imdb_votes": "208,963",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Old_Guard_(2020_film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/547016.txt",
+    "plot_year_start": 2020,
+    "plot_year_end": 2020,
+    "epoch": "platform-and-ai-world",
+    "action_countries": [
+      "ZA",
+      "AF",
+      "FR",
+      "GB",
+      "US"
+    ],
+    "action_continents": [
+      "Africa",
+      "Asia",
+      "Europe",
+      "Europe",
+      "North America"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "extractive wealth drawing violence and intrigue",
+        "description": "Gold, rare minerals, fuel, and other buried wealth attract foreign interests, criminal syndicates, and political fixers as much as they enrich nations. What you'll see: mine sites, smuggling routes, guarded shipments, businessmen with security details, and local ground scarred by the chase for resource money.",
+        "icon": "⛏️"
+      }
+    ]
+  },
+  {
+    "movie_id": 470114,
+    "movie_idx": 5886,
+    "imdb_id": "tt5442456",
+    "title": "24 Hours to Live",
+    "production_year": "2017",
+    "genre": "Action, Sci-Fi, Thriller",
+    "plot": "Making a rare foray into rock 'em, sock 'em action territory, Hawke plays C.I.A. Agent Travis Conrad, who sacrifices everything for his employers, including his family and, ultimately, his own life. No sooner has he shuffled off this mortal coil, though, than he finds himself mysteriously resurrected for one last mission that's timed to last exactly twenty-four hours. Once the countdown clock embedded in his arm reaches zero, he'll once again nod off into an eternal slumber if he hasn't completed his task. Before that happens, expect him to wreak bloody havoc on his targets and his former C.I.A. minders.",
+    "runtime": "93 min",
+    "director": "Brian Smrz",
+    "actors": "Ethan Hawke, Qing Xu, Paul Anderson",
+    "production_country": "South Africa, China, United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjAyNjY0MjU1NF5BMl5BanBnXkFtZTgwMjAwNDMwNDI@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/470114.webp",
+    "imdb_rating": "5.8",
+    "imdb_votes": "17,304",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/24_Hours_to_Live",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/470114.txt",
+    "plot_year_start": 2017,
+    "plot_year_end": 2017,
+    "epoch": "platform-and-ai-world",
+    "action_countries": [
+      "ZA",
+      "HK",
+      "UNKNOWN"
+    ],
+    "action_continents": [
+      "Africa",
+      "Asia",
+      "UNKNOWN"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "private guns doing the state's work",
+        "description": "Security firms, bodyguards, mercenary crews, and heavily armed contractors often stand where public protection is weak or mistrusted. What you'll see: armored convoys, earpieces, tactical kit, guarded compounds, extraction teams, and violence carried out as a paid service.",
+        "icon": "🔫"
+      },
+      {
+        "label": "police power tangled with graft",
+        "description": "Formal law exists, but in many settings uniforms, badges, and weapons are mixed up with bribery, political protection, and extra-legal force. What you'll see: roadblocks, back-room deals, rough interrogations, compromised officers, and citizens treating the police with both need and fear.",
+        "icon": "👮"
+      }
+    ]
+  },
+  {
+    "movie_id": 602654,
+    "movie_idx": 6749,
+    "imdb_id": "tt5498354",
+    "title": "Horizon Line",
+    "production_year": "2020",
+    "genre": "Adventure, Drama, Horror",
+    "plot": "A couple flying on a small plane to attend a tropical island wedding must fight for their lives after their pilot suffers a heart attack.",
+    "runtime": "92 min",
+    "director": "Mikael Marcimain",
+    "actors": "Allison Williams, Alexander Dreymon, Keith David",
+    "production_country": "Sweden, United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMmNlYjUzNjctMjI1OC00ZDFmLWFiNTEtYTZlMmQ4ODRlZTQ4XkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/602654.webp",
+    "imdb_rating": "4.8",
+    "imdb_votes": "12,223",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Horizon_Line",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/602654.txt",
+    "plot_year_start": 2019,
+    "plot_year_end": 2019,
+    "epoch": "platform-and-ai-world",
+    "action_countries": [
+      "MU",
+      "IO"
+    ],
+    "action_continents": [
+      "Africa",
+      "Asia"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "algorithms and machines entering public order",
+        "description": "Digital systems increasingly sort people, watch movement, and promise safer streets, while new machine intelligence is treated as both marvel and menace. What you'll see: camera networks, screen dashboards, automated targeting, robot enforcers, data-driven policing, and anxious talk about who controls the code.",
+        "icon": "🤖"
+      }
+    ]
+  },
+  {
+    "movie_id": 460321,
+    "movie_idx": 6995,
+    "imdb_id": "tt5316540",
+    "title": "Close",
+    "production_year": "2019",
+    "genre": "Action, Drama, Thriller",
+    "plot": "Hired to protect a pampered mining heiress Zoe (Sophie Nélisse), bodyguard Sam (Noomi Rapace) finds herself tangled in a deadly conspiracy. When attackers target the heiress she's protecting, battle-hardened bodyguard Sam scrambles to save her client - and teach her how to fight back.",
+    "runtime": "94 min",
+    "director": "Vicky Jewson",
+    "actors": "Noomi Rapace, Sophie Nélisse, Indira Varma",
+    "production_country": "United Kingdom, United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMWNhN2JkZTQtOTM3Zi00MzVlLTg2ZTctZDljNjhhMmIyYWYxXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/460321.webp",
+    "imdb_rating": "5.7",
+    "imdb_votes": "27,752",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Close_(2019_film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/460321.txt",
+    "plot_year_start": 2017,
+    "plot_year_end": 2017,
+    "epoch": "platform-and-ai-world",
+    "action_countries": [
+      "MA",
+      "SD",
+      "ZM",
+      "ES",
+      "GB"
+    ],
+    "action_continents": [
+      "Africa",
+      "Africa",
+      "Africa",
+      "Europe",
+      "Europe"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "police power tangled with graft",
+        "description": "Formal law exists, but in many settings uniforms, badges, and weapons are mixed up with bribery, political protection, and extra-legal force. What you'll see: roadblocks, back-room deals, rough interrogations, compromised officers, and citizens treating the police with both need and fear.",
+        "icon": "👮"
+      },
+      {
+        "label": "private guns doing the state's work",
+        "description": "Security firms, bodyguards, mercenary crews, and heavily armed contractors often stand where public protection is weak or mistrusted. What you'll see: armored convoys, earpieces, tactical kit, guarded compounds, extraction teams, and violence carried out as a paid service.",
+        "icon": "🔫"
+      }
+    ]
+  },
+  {
+    "movie_id": 575774,
+    "movie_idx": 8063,
+    "imdb_id": "tt8508734",
+    "title": "His House",
+    "production_year": "2020",
+    "genre": "Drama, Horror, Thriller",
+    "plot": "A refugee couple makes a harrowing escape from war-torn South Sudan, but then they struggle to adjust to their new life in an English town that has an evil lurking beneath the surface.",
+    "runtime": "93 min",
+    "director": "Remi Weekes",
+    "actors": "Sope Dirisu, Wunmi Mosaku, Malaika Wakoli-Abigaba",
+    "production_country": "United Kingdom, United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMDBjNmYxMjctMjViNC00NmRlLWJkZWYtOTE2ZmY4ZDg3NmMyXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/575774.webp",
+    "imdb_rating": "6.4",
+    "imdb_votes": "51,937",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/His_House",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/575774.txt",
+    "plot_year_start": 2015,
+    "plot_year_end": 2015,
+    "epoch": "platform-and-ai-world",
+    "action_countries": [
+      "SS",
+      "GB",
+      "FR"
+    ],
+    "action_continents": [
+      "Africa",
+      "Europe",
+      "Europe"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "migration shaped by war and faraway borders",
+        "description": "Conflict, hardship, and unequal opportunity push many Africans into dangerous journeys, asylum systems, and lives split between homeland ties and foreign rules. What you'll see: border crossings, refugee paperwork, cramped housing, remittance-minded phone calls, and memories of violence intruding on new surroundings.",
+        "icon": "🛂"
+      }
+    ]
+  },
+  {
+    "movie_id": 368031,
+    "movie_idx": 8074,
+    "imdb_id": "tt3352390",
+    "title": "Friend Request",
+    "production_year": "2016",
+    "genre": "Horror, Mystery, Thriller",
+    "plot": "Popular college student Laura (Alycia Debnam-Carey) has tons of friends, both on Facebook and IRL. She graciously accepts social outcast Marina's (Liesl Ahlers) online friend request, until Marina crosses the line and Laura unfriends her. To everyone's shock, Marina takes her own life in a ritual meant to torment Laura, which appears in a video posted on Laura's profile. Even though it wasn't Laura who posted the video, or other creepy content that begins appearing on her page, her Facebook friend count begins to dwindle as a result. When her real-life friends start dying mysterious, cruel deaths, Laura must figure out how to break the deadly curse before it's too late.",
+    "runtime": "92 min",
+    "director": "Simon Verhoeven",
+    "actors": "Alycia Debnam-Carey, William Moseley, Connor Paolo",
+    "production_country": "Germany, South Africa, Netherlands",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMDY2OGY1NzQtODg3NC00YzZlLWE0NjEtYzdjMTE5ZGJkNWNiXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/368031.webp",
+    "imdb_rating": "5.2",
+    "imdb_votes": "28,543",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Friend_Request",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/368031.txt",
+    "plot_year_start": 2016,
+    "plot_year_end": 2016,
+    "epoch": "platform-and-ai-world",
+    "action_countries": [
+      "ZA"
+    ],
+    "action_continents": [
+      "Africa"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "smartphones tying daily life together",
+        "description": "Cheap data plans and always-near handsets make messages, maps, payments, flirtation, and public scandal travel through the same small screen. What you'll see: chat windows, voice notes, front cameras, status updates, location pins, and whole arguments or emergencies unfolding online.",
+        "icon": "📱"
+      }
+    ]
+  },
+  {
+    "movie_id": 682110,
+    "movie_idx": 9361,
+    "imdb_id": "tt12888462",
+    "title": "My Octopus Teacher",
+    "production_year": "2020",
+    "genre": "Documentary, Drama",
+    "plot": "After years of swimming every day in the freezing ocean at the tip of Africa, Craig Foster meets an unlikely teacher a young octopus who displays remarkable curiosity. Visiting her den and tracking her movements for months on end he eventually wins the animal's trust and they develop a never before seen bond between human and wild animal.",
+    "runtime": "85 min",
+    "director": "Pippa Ehrlich, James Reed",
+    "actors": "Craig Foster, Tom Foster",
+    "production_country": "South Africa",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYWU5OGMxYjktMWY5Ny00NDJhLTgwMDktNjVmMTExZGIyODljXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/682110.webp",
+    "imdb_rating": "8.1",
+    "imdb_votes": "68,778",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/My_Octopus_Teacher",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/682110.txt",
+    "plot_year_start": 2018,
+    "plot_year_end": 2019,
+    "epoch": "platform-and-ai-world",
+    "action_countries": [
+      "ZA"
+    ],
+    "action_continents": [
+      "Africa"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "wild landscapes managed for tourism and conservation",
+        "description": "Game reserves, coasts, reefs, and island waters are preserved, marketed, and patrolled as places of wonder, profit, and ecological struggle. What you'll see: safari lodges, ranger stations, anti-poaching patrols, charter planes, diving gear, and visitors meeting carefully managed wilderness.",
+        "icon": "🦁"
+      }
+    ]
+  }
+]

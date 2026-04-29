@@ -1,0 +1,92 @@
+{
+  "epoch": "industrial-age",
+  "continent": "oceania",
+  "sample_size": 4,
+  "sample": [
+    {
+      "title": "Picnic at Hanging Rock",
+      "years": "1900..1900",
+      "countries": [
+        "AU"
+      ],
+      "plot": "Three students and a school teacher disappear on an excursion to Hanging Rock, in Victoria, on Valentine's Day, 1900. The movie follows those that disappeared, and those that stayed behind, but it delights in the asking of questions, not the answering of them. Even though both the movie and the book it was based on claim to be inspired by real events, the story is completely fictional."
+    },
+    {
+      "title": "Ned Kelly",
+      "years": "1871..1880",
+      "countries": [
+        "AU"
+      ],
+      "plot": "Though recognized for heroism as a lad, Ned Kelly can not escape the stigma of being the eldest of a brood sired by a known criminal. In days when an arrest equaled guilt and a conviction, his unfair imprisonment for horse thievery puts him steadfast, in the eyes of Victorian police, on the wrong side of things for life. With a sister unable to dissuade the unwanted advances of Constable Fitzpatrick, Ned, his brother Dan, and friends Joe Byrne and Steve Hart soon find themselves labeled \"an outlaw gang\" by the less-than-honorable constable. It's a designation they're apt to live up to after Ned's mother is unfairly arrested and sentenced to three years hard labor. In retaliation, the Kelly Gang strikes out against the oppressive Victorian government, with ultimately tragic results and passage into Australian folklore."
+    },
+    {
+      "title": "The Piano",
+      "years": "1850..1850",
+      "countries": [
+        "NZ",
+        "GB"
+      ],
+      "plot": "It is the mid-nineteenth century. Ada cannot speak and she has a young daughter, Flora. In an arranged marriage she leaves her native Scotland accompanied by her daughter and her beloved piano. Life in the rugged forests of New Zealand's North Island is not all she may have imagined and nor is her relationship with her new husband Stewart. She suffers torment and loss when Stewart sells her piano to a neighbor, George. Ada learns from George that she may earn back her piano by giving him piano lessons, but only with certain other conditions attached. At first Ada despises George but slowly their relationship is transformed and this propels them into a dire situation."
+    },
+    {
+      "title": "Return to the Blue Lagoon",
+      "years": "1897..1897",
+      "countries": [
+        "FJ"
+      ],
+      "plot": "While the general theme of this film resembles \"The Blue Lagoon\" (the film for which this is a sequel), the basic plot is quite different. We open the film with a ship finding the craft with our original characters in it, Richard and Emmeline dead and Paddy alive. Established in the first film, the only word Paddy ever says is \"Richard\", so the crew assumes Richard is the infant's name. Taken in by Sarah, a widow with an infant baby girl Lilli, Richard (Paddy) is cared for in a return to civilization. Struck by cholera, the crew of the ship start to die and the captain sets Sarah, Richard, Lilli and a healthy crew member on a lifeboat in an attempt to preserve their lives. With water and food running short, the crew member escorting Sarah and the children becomes dangerous, so Sarah takes the only course of action she feels suitable to preserve the children: she strikes him and throws him overboard. Taking control of the small craft, she eventually guides them back to the island of the first film. The infant Richard, recognizing where he is, finds his home and is very upset not to find his parents. Fixing up the hut and settling in the children, Sarah begins their life on the island, slowly teaching the children survival tools, as well as schooling them as though they were in school, and teaching them slowly about the facts of life, including Lilli's eventual growth to womanhood. When Sarah dies from pneumonia, she leaves the children far more prepared than Richard and Emmeline in the first film. Years later as the children grow into adulthood, the film skims the same themes as the first of their developing relationship, and introduces the characters to civilization when a ship, low on fresh water, stops on their island and offers to take them home. After a confrontation with one of the crew and the captain's daughter, Lilli finds herself pregnant and they decide to stay, as they feel the civilization the visitors have to offer will not compare to the life they lead on the island."
+    }
+  ],
+  "categories": [
+    {
+      "label": "British colonies ruled from distant capitals",
+      "description": "Political authority rests with colonial governors, magistrates, and laws carried across the sea from Britain, even where settlements are small and thinly spread. What you'll see: courtrooms, police patrols, official papers, imperial manners, and far-off power felt in local disputes.",
+      "icon": "👑"
+    },
+    {
+      "label": "settler society pressing into Indigenous lands",
+      "description": "European settlement advances through bush, forest, and coast, turning Māori and Aboriginal country into farms, stations, and townships under colonial claim. What you'll see: rough clearings, fenced plots, uneasy frontier contact, hired guides, and imported customs set against older landscapes.",
+      "icon": "🪓"
+    },
+    {
+      "label": "respectability enforced through class and gender",
+      "description": "Status depends heavily on proper conduct, family reputation, schooling, and strict ideas about how women, men, and children ought to behave. What you'll see: boarding schools, chaperoned outings, arranged marriages, formal dress, table manners, and punishment for social shame.",
+      "icon": "🎩"
+    },
+    {
+      "label": "police power serving colonial order",
+      "description": "Constables and magistrates keep order in ways that often fall hardest on the poor, the marked, and those already known to authorities. What you'll see: warrants, lockups, mounted police, roadside questioning, courtroom judgments, and fear of being branded criminal for life.",
+      "icon": "👮"
+    },
+    {
+      "label": "sea passages binding scattered settlements",
+      "description": "Ships are the chief means by which people, goods, news, and disease move between islands, ports, and the wider empire. What you'll see: harbours, coastal vessels, lifeboats, quarantine anxieties, trunks and cargo, and lives changed by arrivals from offshore.",
+      "icon": "⛵"
+    },
+    {
+      "label": "households built on service and dependence",
+      "description": "Daily life is organised through unequal households in which wives, children, servants, labourers, and dependants live under another person's roof and authority. What you'll see: domestic routines, chores, hired help, child discipline, property-minded marriages, and the home as a place of command.",
+      "icon": "🏠"
+    },
+    {
+      "label": "music, schooling, and manners from Europe",
+      "description": "Settlers carry books, instruments, lessons, and polite accomplishments as marks of civilisation in places they see as raw or distant. What you'll see: piano music, recitation, copybooks, school uniforms, parlour rituals, and European refinement set in rugged country.",
+      "icon": "🎹"
+    },
+    {
+      "label": "bush and coast resisting easy control",
+      "description": "The land and sea remain dangerous, beautiful, and only partly mastered, making isolation a constant fact of colonial life. What you'll see: dense forest, strange rock formations, surf and reefs, long rides, precarious homesteads, and nature overwhelming human plans.",
+      "icon": "🪨"
+    },
+    {
+      "label": "illness and hardship shadow remote life",
+      "description": "Accident, fever, exposure, and childbirth carry grave risk where doctors, supplies, and quick travel are often absent. What you'll see: improvised care, sudden deaths, harsh weather, physical exhaustion, and fragile bodies in isolated places.",
+      "icon": "⚰️"
+    },
+    {
+      "label": "self-reliance prized at the world's edge",
+      "description": "In sparsely settled country, people are expected to fend for themselves with practical skill, endurance, and suspicion of outside interference. What you'll see: hunting and foraging, repairing shelters, making do with scant tools, horse craft, and a hard frontier independence.",
+      "icon": "🐎"
+    }
+  ]
+}

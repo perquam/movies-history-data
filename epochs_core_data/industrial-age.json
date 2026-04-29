@@ -1,0 +1,76 @@
+{
+  "id": "industrial-age",
+  "label": "Industrial Age",
+  "aliases": [
+    "Age of Empire",
+    "Second Industrial Revolution",
+    "Victorian Era",
+    "The Gilded Age",
+    "Age of Steam and Steel"
+  ],
+  "time_range": {
+    "start_year": 1850,
+    "end_year": 1913,
+    "label": "1850 to 1913"
+  },
+  "headline": "The world gets faster, richer, louder — and the bill for all of it hasn't come yet.",
+  "epoch_summary": "Sixty years of railways, rifles, factories and flags — empires carve up continents, machines replace hands, cities bloat with the desperate and the ambitious, and a new kind of power is born: the kind that runs on coal, capital and the convenient belief that some people were made to rule and others to dig.",
+  "regions": [
+    {
+      "region_name": "Africa",
+      "description_of_an_epoch_in_the_region": "Europe shows up with maps, guns and pencils, and draws lines across the entire continent at a conference in Berlin where no African is invited. Kingdoms that have stood for centuries are swallowed in a generation. The Congo becomes a private rubber plantation run on severed hands. Diamonds come out of South Africa, gold comes out of the Transvaal, and almost none of it stays."
+    },
+    {
+      "region_name": "Antarctica",
+      "description_of_an_epoch_in_the_region": "Still untouched. Whalers and sealers circle its edges, and a few expeditions push toward the interior, but the continent keeps its secrets behind walls of ice and wind. The race to the pole is coming — but not yet."
+    },
+    {
+      "region_name": "Asia",
+      "description_of_an_epoch_in_the_region": "China buckles — the Qing dynasty bleeds from opium wars, foreign concessions and internal rebellions that kill tens of millions. Japan does the opposite: it tears itself apart on purpose, rebuilds as a modern industrial state in a single generation, and shocks the world by beating Russia in a war. India feeds the British Empire with cotton, tea and soldiers, and gets famine and railways in return. Southeast Asia falls, piece by piece, into European hands."
+    },
+    {
+      "region_name": "Europe",
+      "description_of_an_epoch_in_the_region": "The engine room of the world. Factories blacken the skies over Manchester and the Ruhr, and the money pouring out of them builds opera houses, battleships and overseas empires simultaneously. Germany unifies under Prussian iron, France loses a war and builds a republic, Britain acts like it owns the planet — because, for the moment, it mostly does. Underneath the gilded surface, workers organize, anarchists throw bombs, and the arms race between great powers ticks like a clock nobody can stop."
+    },
+    {
+      "region_name": "North America",
+      "description_of_an_epoch_in_the_region": "The United States tears itself in half over slavery, stitches itself back together with bullets and amendments, then sprints into an age of steel barons, cattle drives and immigrant tenements. Railroads stitch the continent together while robber barons stitch their names onto everything — and by 1900, the country is building warships and eyeing colonies of its own. Canada confederates quietly; Mexico cycles through dictators and foreign invasions. The frontier closes, and what replaces it is industry, immigration and the sharp edge of American ambition."
+    },
+    {
+      "region_name": "Oceania",
+      "description_of_an_epoch_in_the_region": "Australia transforms from a penal afterthought into a federation of colonies with gold rushes, sheep stations and a growing determination to keep the continent white. New Zealand takes Maori land through wars and legal tricks dressed up as treaties. Across the Pacific, island nations watch foreign navies circle like sharks — the Americans take Hawaii, the Germans and British carve up Samoa."
+    },
+    {
+      "region_name": "South America",
+      "description_of_an_epoch_in_the_region": "Independence came a generation ago, but freedom looks a lot like musical chairs among generals, landowners and foreign investors. Argentina fills its plains with European immigrants and beef for export; Brazil abolishes slavery last in the hemisphere, then overthrows its emperor. Paraguay is nearly erased from the map in a war against three neighbors at once. British and American capital flows in — rubber, copper and nitrate flow out."
+    },
+    {
+      "region_name": "Atlantic Ocean",
+      "description_of_an_epoch_in_the_region": "The highway of the age — steamships cross in days instead of weeks, carrying millions of immigrants west and tonnes of raw material east. Undersea telegraph cables turn the ocean floor into a nervous system connecting London to New York in seconds. The slave trade is officially over; what replaces it is indentured labor and commodity extraction on an industrial scale."
+    },
+    {
+      "region_name": "Pacific Ocean",
+      "description_of_an_epoch_in_the_region": "No longer empty space — it's becoming contested space. American, Japanese, British and German navies plant flags on islands most of their citizens couldn't find on a map. Trade routes between Asia and the Americas thicken, and the ocean that was once the world's back door is turning into its next arena."
+    },
+    {
+      "region_name": "Indian Ocean",
+      "description_of_an_epoch_in_the_region": "A British lake, more or less. The routes between India, East Africa and the Suez Canal carry the lifeblood of the empire — tea, cotton, troops, administrators. The opening of the Suez Canal in 1869 redraws the map of global trade and makes this ocean the shortest road between Europe and Asia."
+    },
+    {
+      "region_name": "Southern Ocean",
+      "description_of_an_epoch_in_the_region": "Whaling ships push deeper into its waters, chasing profits through some of the worst seas on earth. Otherwise, it remains what it has always been — a howling barrier between the inhabited world and the ice."
+    },
+    {
+      "region_name": "Arctic Ocean",
+      "description_of_an_epoch_in_the_region": "Explorers keep trying to force a Northwest Passage and keep dying. The Arctic is a graveyard of ambition — Franklin's lost expedition haunts the imagination. By the century's turn, the race to the North Pole becomes a newspaper spectacle, part science, part ego."
+    },
+    {
+      "region_name": "FICTIONAL",
+      "description_of_an_epoch_in_the_region": "Invented worlds that run on gears, steam and gaslight — where progress is a machine that nobody fully controls and class is a cage you can see through but not escape. Think clockwork cities, coal-powered empires, fog-choked streets with something terrible underneath. The aesthetic is brass and soot, the mood is wonder laced with dread, and the question is always: what does the machine cost the people who feed it?"
+    },
+    {
+      "region_name": "UNKNOWN",
+      "description_of_an_epoch_in_the_region": "Somewhere in the smoke and noise of a world being rebuilt by machines. The exact place doesn't matter — what matters is the feeling: the ground shaking with engines, the gap between the man in the top hat and the child in the factory, gas lamps cutting through fog, the sense that everything is speeding up and nobody knows where it's heading."
+    }
+  ]
+}

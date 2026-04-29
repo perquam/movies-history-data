@@ -1,0 +1,1706 @@
+[
+  {
+    "movie_id": 1121575,
+    "movie_idx": 378,
+    "imdb_id": "tt27712788",
+    "title": "Babylon 5: The Road Home",
+    "production_year": "2023",
+    "genre": "Animation, Sci-Fi",
+    "plot": "John Sheridan finds himself transported through multiple timelines and alternate realities in a quest to find his way back home.",
+    "runtime": "79 min",
+    "director": "Matt Peters",
+    "actors": "Bruce Boxleitner, Claudia Christian, Paul Guyet",
+    "production_country": "United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZmE5MjAxMTktNzYzNC00OTM2LWFhZjQtY2M0Njg5MzI0OGQ2XkEyXkFqcGdeQXVyNDc5NDc2Nw@@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/1121575.webp",
+    "imdb_rating": "6.9",
+    "imdb_votes": "855",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Babylon_5:_The_Road_Home",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/1121575.txt",
+    "plot_year_start": 2256,
+    "plot_year_end": 2282,
+    "epoch": "future-world",
+    "action_countries": [
+      "UNKNOWN"
+    ],
+    "action_continents": [
+      "UNKNOWN"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Babylon 5",
+    "categories": [
+      {
+        "label": "space travel opening new human frontiers",
+        "description": "Voyages beyond Earth are no longer rare wonders but the chief means by which people seek land, safety, knowledge, and a future for their kind. What you'll see: launch gantries, long-haul starships, cryosleep chambers, colony transports, lunar mines, Mars habitats, and maps that treat whole planets as destinations.",
+        "icon": "🚀"
+      }
+    ]
+  },
+  {
+    "movie_id": 620705,
+    "movie_idx": 419,
+    "imdb_id": "tt5264838",
+    "title": "Crater",
+    "production_year": "2023",
+    "genre": "Adventure, Drama, Sci-Fi",
+    "plot": "After the death of his father, a boy growing up on a lunar mining colony takes a trip to explore a legendary crater, along with his four best friends, prior to permanently leaving the Moon and relocated to another planet.",
+    "runtime": "105 min",
+    "director": "Kyle Patrick Alvarez",
+    "actors": "Isaiah Russell-Bailey, Mckenna Grace, Billy Barratt",
+    "production_country": "United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNmY4NWMzMjAtZjIzMC00NzgxLWI3OWQtMjZkNzQzYzY3NDJiXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/620705.webp",
+    "imdb_rating": "5.4",
+    "imdb_votes": "4,681",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Crater_(film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/620705.txt",
+    "plot_year_start": 2257,
+    "plot_year_end": 2257,
+    "epoch": "future-world",
+    "action_countries": [
+      "UNKNOWN"
+    ],
+    "action_continents": [
+      "UNKNOWN"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "people living inside sealed habitats",
+        "description": "Human settlement often survives only within ships, domes, underground colonies, orbital stations, trench bases, or single protected cities where life depends on unbroken systems. What you'll see: airlocks, pressure doors, recycled air, rationed supplies, maintenance corridors, control rooms, and constant fear of a breach or failing machinery.",
+        "icon": "🫧"
+      },
+      {
+        "label": "space travel opening new human frontiers",
+        "description": "Voyages beyond Earth are no longer rare wonders but the chief means by which people seek land, safety, knowledge, and a future for their kind. What you'll see: launch gantries, long-haul starships, cryosleep chambers, colony transports, lunar mines, Mars habitats, and maps that treat whole planets as destinations.",
+        "icon": "🚀"
+      }
+    ]
+  },
+  {
+    "movie_id": 603,
+    "movie_idx": 421,
+    "imdb_id": "tt0133093",
+    "title": "The Matrix",
+    "production_year": "1999",
+    "genre": "Action, Sci-Fi",
+    "plot": "Thomas A. Anderson is a man living two lives. By day he is an average computer programmer and by night a hacker known as Neo. Neo has always questioned his reality, but the truth is far beyond his imagination. Neo finds himself targeted by the police when he is contacted by Morpheus, a legendary computer hacker branded a terrorist by the government. As a rebel against the machines, Neo must confront the agents: super-powerful computer programs devoted to stopping Neo and the entire human rebellion.",
+    "runtime": "136 min",
+    "director": "Lana Wachowski, Lilly Wachowski",
+    "actors": "Keanu Reeves, Laurence Fishburne, Carrie-Anne Moss",
+    "production_country": "United States, Australia",
+    "poster": "https://m.media-amazon.com/images/M/MV5BN2NmN2VhMTQtMDNiOS00NDlhLTliMjgtODE2ZTY0ODQyNDRhXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/603.webp",
+    "imdb_rating": "8.7",
+    "imdb_votes": "2,228,203",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Matrix",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/603.txt",
+    "plot_year_start": 1999,
+    "plot_year_end": 2199,
+    "epoch": "future-world",
+    "action_countries": [
+      "UNKNOWN"
+    ],
+    "action_continents": [
+      "UNKNOWN"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "thinking machines serving and unsettling humans",
+        "description": "Robots, ship minds, drones, and crafted intelligences are woven into labor, travel, care, and command, even as people fear what such creations may become. What you'll see: repair bots, household automata, armed drones, synthetic companions, strict machine protocols, silent server spaces, and arguments over whether a made mind is merely a tool.",
+        "icon": "🤖"
+      },
+      {
+        "label": "earth left scarred by human ruin",
+        "description": "Many of these futures begin after Earth has been spoiled by war, poison, flood, frost, waste, or failing skies, so ordinary life unfolds amid a damaged home world. What you'll see: buried cities, ash deserts, frozen plains, drowned coasts, toxic wilds, derelict ruins, and survivors treating clean air, heat, water, and soil as precious things.",
+        "icon": "🏚️"
+      }
+    ]
+  },
+  {
+    "movie_id": 70981,
+    "movie_idx": 466,
+    "imdb_id": "tt1446714",
+    "title": "Prometheus",
+    "production_year": "2012",
+    "genre": "Adventure, Sci-Fi",
+    "plot": "Following a faint trail of clues, the accomplished archaeologist, Doctor Elizabeth Shaw, and her partner, Charlie Holloway, along with a seventeen-man crew, embark on an ambitious, deep-space scientific expedition. Aboard the revolutionary space-exploration starship, USCSS Prometheus, the team sets foot on the rocky terrain of the desolate exomoon, LV-223, in 2093, to investigate the existence of the superior extraterrestrial species known as the \"Engineers\". But, there, inside a mysterious, complex structure of cavernous dark chambers and an intricate underground system of tunnels, more enigmas await. Now, a terrifying discovery threatens not only the outcome of the bold outer-space mission but also the very future of humankind. Is the world prepared for the answers to the fundamental questions of human existence?",
+    "runtime": "124 min",
+    "director": "Ridley Scott",
+    "actors": "Noomi Rapace, Logan Marshall-Green, Michael Fassbender",
+    "production_country": "United Kingdom, United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTY3NzIyNTA2NV5BMl5BanBnXkFtZTcwNzE2NjI4Nw@@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/70981.webp",
+    "imdb_rating": "7.0",
+    "imdb_votes": "691,831",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Prometheus_(2012_film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/70981.txt",
+    "plot_year_start": 2093,
+    "plot_year_end": 2093,
+    "epoch": "future-world",
+    "action_countries": [
+      "UNKNOWN"
+    ],
+    "action_continents": [
+      "UNKNOWN"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Alien film series",
+    "categories": [
+      {
+        "label": "space travel opening new human frontiers",
+        "description": "Voyages beyond Earth are no longer rare wonders but the chief means by which people seek land, safety, knowledge, and a future for their kind. What you'll see: launch gantries, long-haul starships, cryosleep chambers, colony transports, lunar mines, Mars habitats, and maps that treat whole planets as destinations.",
+        "icon": "🚀"
+      },
+      {
+        "label": "thinking machines serving and unsettling humans",
+        "description": "Robots, ship minds, drones, and crafted intelligences are woven into labor, travel, care, and command, even as people fear what such creations may become. What you'll see: repair bots, household automata, armed drones, synthetic companions, strict machine protocols, silent server spaces, and arguments over whether a made mind is merely a tool.",
+        "icon": "🤖"
+      }
+    ]
+  },
+  {
+    "movie_id": 336843,
+    "movie_idx": 591,
+    "imdb_id": "tt4500922",
+    "title": "Maze Runner: The Death Cure",
+    "production_year": "2018",
+    "genre": "Action, Adventure, Sci-Fi",
+    "plot": "In the epic finale to The Maze Runner Saga, Thomas leads his group of escaped Gladers on their final and most dangerous mission yet. To save their friends, they must break into the legendary last city, a WCKD controlled labyrinth that may turn out to be the deadliest maze of all. Anyone who makes it out alive will get the answers to the questions the Gladers have been asking since they first arrived in the maze. Will Thomas and the crew make it out alive? Or will Ava Paige get her way?",
+    "runtime": "143 min",
+    "director": "Wes Ball",
+    "actors": "Dylan O'Brien, Ki Hong Lee, Kaya Scodelario",
+    "production_country": "United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTYyNzk3MDc2NF5BMl5BanBnXkFtZTgwMDk3OTM1NDM@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/336843.webp",
+    "imdb_rating": "6.3",
+    "imdb_votes": "188,591",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Maze_Runner:_The_Death_Cure",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/336843.txt",
+    "plot_year_start": 2035,
+    "plot_year_end": 2035,
+    "epoch": "future-world",
+    "action_countries": [
+      "UNKNOWN"
+    ],
+    "action_continents": [
+      "UNKNOWN"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "states managing life with hard rules",
+        "description": "Scarcity and fear give authorities cause to regulate births, movement, identity, memory, and information with a firm hand, often in the name of order or survival. What you'll see: identity checks, monitored apartments, official decrees, restricted records, one-child edicts, hidden archives, and bureaucracies deciding who may live where and as whom.",
+        "icon": "🪪"
+      },
+      {
+        "label": "science remaking bodies and bloodlines",
+        "description": "Medicine and statecraft alike reach deep into the flesh through cloning, altered genes, cybernetic bodies, suspended life, and engineered adaptation to harsh worlds. What you'll see: lab vats, memory copies, prosthetic limbs, gene trials, revived bodies, military enhancement schemes, and doctors speaking of the body as something that can be redesigned.",
+        "icon": "🧬"
+      }
+    ]
+  },
+  {
+    "movie_id": 10681,
+    "movie_idx": 606,
+    "imdb_id": "tt0910970",
+    "title": "WALL·E",
+    "production_year": "2008",
+    "genre": "Animation, Adventure, Family",
+    "plot": "In a distant, but not so unrealistic, future where mankind has abandoned earth because it has become covered with trash from products sold by the powerful multi-national Buy N Large corporation, WALL-E, a garbage collecting robot has been left to clean up the mess. Mesmerized with trinkets of Earth's history and show tunes, WALL-E is alone on Earth except for a sprightly pet cockroach. One day, EVE, a sleek (and dangerous) reconnaissance robot, is sent to Earth to find proof that life is once again sustainable. WALL-E falls in love with EVE. WALL-E rescues EVE from a dust storm and shows her a living plant he found amongst the rubble. Consistent with her \"directive\", EVE takes the plant and automatically enters a deactivated state except for a blinking green beacon. WALL-E, doesn't understand what has happened to his new friend, but, true to his love, he protects her from wind, rain, and lightning, even as she is unresponsive. One day a massive ship comes to reclaim EVE, but WALL-E, out of love or loneliness, hitches a ride on the outside of the ship to rescue EVE. The ship arrives back at a large space cruise ship, which is carrying all of the humans who evacuated Earth 700 years earlier. The people of Earth ride around this space resort on hovering chairs which give them a constant feed of TV and video chatting. They drink all of their meals through a straw out of laziness and/or bone loss, and are all so fat that they can barely move. When the auto-pilot computer, acting on hastily-given instructions sent many centuries before, tries to prevent the people of Earth from returning by stealing the plant, WALL-E, EVE, the portly captain, and a band of broken robots stage a mutiny.",
+    "runtime": "98 min",
+    "director": "Andrew Stanton",
+    "actors": "Ben Burtt, Elissa Knight, Jeff Garlin",
+    "production_country": "United States, Japan",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjExMTg5OTU0NF5BMl5BanBnXkFtZTcwMjMxMzMzMw@@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/10681.webp",
+    "imdb_rating": "8.4",
+    "imdb_votes": "1,306,354",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/WALL-E",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/10681.txt",
+    "plot_year_start": 2805,
+    "plot_year_end": 2805,
+    "epoch": "future-world",
+    "action_countries": [
+      "UNKNOWN"
+    ],
+    "action_continents": [
+      "UNKNOWN"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "people living inside sealed habitats",
+        "description": "Human settlement often survives only within ships, domes, underground colonies, orbital stations, trench bases, or single protected cities where life depends on unbroken systems. What you'll see: airlocks, pressure doors, recycled air, rationed supplies, maintenance corridors, control rooms, and constant fear of a breach or failing machinery.",
+        "icon": "🫧"
+      },
+      {
+        "label": "wealth and comfort divided by enclosure",
+        "description": "These futures often sort people into protected abundance and exposed want, with privilege gathered in high stations, guarded centers, or better decks while others endure the margins. What you'll see: gleaming upper levels, crowded lower quarters, salvage markets, luxury transport, labor colonies, hidden service passages, and social rank built into the very architecture.",
+        "icon": "🏙️"
+      }
+    ]
+  },
+  {
+    "movie_id": 605,
+    "movie_idx": 690,
+    "imdb_id": "tt0242653",
+    "title": "The Matrix Revolutions",
+    "production_year": "2003",
+    "genre": "Action, Sci-Fi",
+    "plot": "Neo finds himself trapped between the Matrix and the Real World. Meanwhile, Zion is preparing for the oncoming war with the machines with very little chances of survival. Neo's associates set out to free him from The Merovingian since it's believed that he is the One who will end the war between humans and the machines. What they do not know is that there is a threat from a third party, someone who has plans to destroy both worlds.",
+    "runtime": "129 min",
+    "director": "Lana Wachowski, Lilly Wachowski",
+    "actors": "Keanu Reeves, Laurence Fishburne, Carrie-Anne Moss",
+    "production_country": "United States, Australia",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMmNmMTEzODQtNmExMS00OGUxLWFkNTItMTM3NzBlNDk0YWU5XkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/605.webp",
+    "imdb_rating": "6.7",
+    "imdb_votes": "572,491",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Matrix_Revolutions",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/605.txt",
+    "plot_year_start": 2199,
+    "plot_year_end": 2199,
+    "epoch": "future-world",
+    "action_countries": [
+      "UNKNOWN"
+    ],
+    "action_continents": [
+      "UNKNOWN"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "thinking machines serving and unsettling humans",
+        "description": "Robots, ship minds, drones, and crafted intelligences are woven into labor, travel, care, and command, even as people fear what such creations may become. What you'll see: repair bots, household automata, armed drones, synthetic companions, strict machine protocols, silent server spaces, and arguments over whether a made mind is merely a tool.",
+        "icon": "🤖"
+      },
+      {
+        "label": "war making whole societies martial",
+        "description": "Alien threats, machine enemies, and struggles among human powers push government and daily custom toward drill, command, sacrifice, and readiness for battle. What you'll see: uniforms everywhere, cadet schools, fleet briefings, orbital defenses, propaganda screens, troop transports, and civilians taught to think in terms of survival campaigns.",
+        "icon": "🪖"
+      }
+    ]
+  },
+  {
+    "movie_id": 399579,
+    "movie_idx": 905,
+    "imdb_id": "tt0437086",
+    "title": "Alita: Battle Angel",
+    "production_year": "2019",
+    "genre": "Action, Adventure, Sci-Fi",
+    "plot": "Alita is a creation from an age of despair. Found by the mysterious Dr. Ido while trolling for cyborg parts, Alita becomes a lethal, dangerous being. She cannot remember who she is, or where she came from. But to Dr. Ido, the truth is all too clear. She is the one being who can break the cycle of death and destruction left behind from Tiphares. But to accomplish her true purpose, she must fight and kill. And that is where Alita's true significance comes to bear. She is an angel from heaven. She is an angel of death.",
+    "runtime": "122 min",
+    "director": "Robert Rodriguez",
+    "actors": "Rosa Salazar, Christoph Waltz, Jennifer Connelly",
+    "production_country": "United States, Japan, Canada",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYmZhZGQzM2MtMWEyZC00YTU1LTk4YTQtMTg3ZjEzM2U1NTkxXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/399579.webp",
+    "imdb_rating": "7.3",
+    "imdb_votes": "321,252",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Alita:_Battle_Angel",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/399579.txt",
+    "plot_year_start": 2563,
+    "plot_year_end": 2563,
+    "epoch": "future-world",
+    "action_countries": [
+      "UNKNOWN"
+    ],
+    "action_continents": [
+      "UNKNOWN"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "earth left scarred by human ruin",
+        "description": "Many of these futures begin after Earth has been spoiled by war, poison, flood, frost, waste, or failing skies, so ordinary life unfolds amid a damaged home world. What you'll see: buried cities, ash deserts, frozen plains, drowned coasts, toxic wilds, derelict ruins, and survivors treating clean air, heat, water, and soil as precious things.",
+        "icon": "🏚️"
+      },
+      {
+        "label": "wealth and comfort divided by enclosure",
+        "description": "These futures often sort people into protected abundance and exposed want, with privilege gathered in high stations, guarded centers, or better decks while others endure the margins. What you'll see: gleaming upper levels, crowded lower quarters, salvage markets, luxury transport, labor colonies, hidden service passages, and social rank built into the very architecture.",
+        "icon": "🏙️"
+      }
+    ]
+  },
+  {
+    "movie_id": 843794,
+    "movie_idx": 919,
+    "imdb_id": "tt22352848",
+    "title": "Jung_E",
+    "production_year": "2023",
+    "genre": "Action, Adventure, Drama",
+    "plot": "On an uninhabitable 22nd-century Earth, the outcome of a civil war hinges on cloning the brain of an elite soldier to create a robot mercenary.",
+    "runtime": "98 min",
+    "director": "Yeon Sang-ho",
+    "actors": "Kang Soo-youn, Kim Hyun-joo, Ryu Kyung-soo",
+    "production_country": "South Korea",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTMyNGY3NjMtNTRkMS00OWMwLWExNWEtMWJiZmI3MDExOWZhXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/843794.webp",
+    "imdb_rating": "5.5",
+    "imdb_votes": "11,614",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Jung_E",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/843794.txt",
+    "plot_year_start": 2135,
+    "plot_year_end": 2194,
+    "epoch": "future-world",
+    "action_countries": [
+      "UNKNOWN"
+    ],
+    "action_continents": [
+      "UNKNOWN"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "earth left scarred by human ruin",
+        "description": "Many of these futures begin after Earth has been spoiled by war, poison, flood, frost, waste, or failing skies, so ordinary life unfolds amid a damaged home world. What you'll see: buried cities, ash deserts, frozen plains, drowned coasts, toxic wilds, derelict ruins, and survivors treating clean air, heat, water, and soil as precious things.",
+        "icon": "🏚️"
+      },
+      {
+        "label": "thinking machines serving and unsettling humans",
+        "description": "Robots, ship minds, drones, and crafted intelligences are woven into labor, travel, care, and command, even as people fear what such creations may become. What you'll see: repair bots, household automata, armed drones, synthetic companions, strict machine protocols, silent server spaces, and arguments over whether a made mind is merely a tool.",
+        "icon": "🤖"
+      }
+    ]
+  },
+  {
+    "movie_id": 75612,
+    "movie_idx": 1041,
+    "imdb_id": "tt1483013",
+    "title": "Oblivion",
+    "production_year": "2013",
+    "genre": "Action, Adventure, Sci-Fi",
+    "plot": "One of the few remaining drone repairmen assigned to Earth, its surface devastated after decades of war with the alien Scavs, discovers a crashed spacecraft with contents that bring into question everything he believed about the war, and may even put the fate of mankind in his hands.",
+    "runtime": "124 min",
+    "director": "Joseph Kosinski",
+    "actors": "Tom Cruise, Morgan Freeman, Andrea Riseborough",
+    "production_country": "United States, United Kingdom, Japan, Iceland",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTQwMDY0MTA4MF5BMl5BanBnXkFtZTcwNzI3MDgxOQ@@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/75612.webp",
+    "imdb_rating": "7.0",
+    "imdb_votes": "583,313",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Oblivion_(2013_film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/75612.txt",
+    "plot_year_start": 2077,
+    "plot_year_end": 2080,
+    "epoch": "future-world",
+    "action_countries": [
+      "UNKNOWN"
+    ],
+    "action_continents": [
+      "UNKNOWN"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "daily survival tied to fragile systems",
+        "description": "Whether on a dead world or a living ship, ordinary existence depends on a thin chain of fuel, food, oxygen, heat, navigation, and repair that can break at any hour. What you'll see: crop modules, water reclaimers, pressure gauges, spare parts, improvised fixes, countdowns to depletion, and crews who treat technical upkeep as the difference between life and death.",
+        "icon": "🔧"
+      },
+      {
+        "label": "thinking machines serving and unsettling humans",
+        "description": "Robots, ship minds, drones, and crafted intelligences are woven into labor, travel, care, and command, even as people fear what such creations may become. What you'll see: repair bots, household automata, armed drones, synthetic companions, strict machine protocols, silent server spaces, and arguments over whether a made mind is merely a tool.",
+        "icon": "🤖"
+      }
+    ]
+  },
+  {
+    "movie_id": 339964,
+    "movie_idx": 1081,
+    "imdb_id": "tt2239822",
+    "title": "Valerian and the City of a Thousand Planets",
+    "production_year": "2017",
+    "genre": "Animation, Action, Adventure",
+    "plot": "In the twenty-eighth century, space station Alpha is a city where beings from different planets live together exchanging their knowledge and culture. Peace is granted by a human force, including Major Valerian (Dane DeHaan) and his partner Sergeant Laureline (Cara Delevingne). They are assigned by the Defense Minister (Herbie Hancock) to retrieve the last species of converter in a dangerous mission. They succeed and back to Alpha, unknown humanoids abduct Commander Arun Filitt (Clive Owen) expecting to steal the converter. They head to a forbidden area that is infected, but Valerian and Laureline follow them and disclose a hidden secret about the race and the infected area.",
+    "runtime": "136 min",
+    "director": "Luc Besson",
+    "actors": "Dane DeHaan, Cara Delevingne, Clive Owen",
+    "production_country": "France, China, Belgium, Germany, United Arab Emirates, United States, Canada, Qatar, Monaco, South Korea, Bahrain, Albania, Japan, United Kingdom, India, Taiwan, Russia, Australia, Hong Kong, Poland, Singapore, Thailand, Greece, South Africa, Netherlands, Israel, Italy, Ukraine, Denmark, Indonesia, Sweden, Iceland, Malaysia, Finland, Norway, Vietnam, Czech Republic, Estonia, Kazakhstan, Austria, Malta, Lithuania, Latvia, Serbia, Colombia, Argentina",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTkxMDAxNDUyNV5BMl5BanBnXkFtZTgwOTc3MzcxMjI@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/339964.webp",
+    "imdb_rating": "6.4",
+    "imdb_votes": "208,185",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Valerian_and_the_City_of_a_Thousand_Planets",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/339964.txt",
+    "plot_year_start": 2701,
+    "plot_year_end": 2800,
+    "epoch": "future-world",
+    "action_countries": [
+      "UNKNOWN"
+    ],
+    "action_continents": [
+      "UNKNOWN"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "humanity meeting rival and neighboring species",
+        "description": "The wider cosmos is peopled by other beings, so trade, hatred, curiosity, and uneasy fellowship shape the political order as much as purely human concerns do. What you'll see: alien languages, mixed-species cities, first-contact rituals, occupied worlds, sacred ruins of older races, and battle lines or marketplaces where very different peoples share space.",
+        "icon": "👽"
+      },
+      {
+        "label": "space travel opening new human frontiers",
+        "description": "Voyages beyond Earth are no longer rare wonders but the chief means by which people seek land, safety, knowledge, and a future for their kind. What you'll see: launch gantries, long-haul starships, cryosleep chambers, colony transports, lunar mines, Mars habitats, and maps that treat whole planets as destinations.",
+        "icon": "🚀"
+      }
+    ]
+  },
+  {
+    "movie_id": 869,
+    "movie_idx": 1131,
+    "imdb_id": "tt0133152",
+    "title": "Planet of the Apes",
+    "production_year": "2001",
+    "genre": "Action, Adventure, Sci-Fi",
+    "plot": "It is the year 2029: Astronaut Leo Davidson boards a pod cruiser on a Space Station on a rescue and recovery mission. But an abrupt detour through a space time wormhole lands him on a strange planet where talking apes rule over the human race. With the help of a sympathetic chimpanzee activist named Ari and a small band of human rebels, Leo leads the effort to evade the advancing Gorilla Army led by General Thade and his most trusted warrior Attar. Now the race is on to reach a sacred temple within the planet's Forbidden Zone to discover the shocking secrets of mankind's past - and the key to its future.",
+    "runtime": "120 min",
+    "director": "Tim Burton",
+    "actors": "Mark Wahlberg, Helena Bonham Carter, Tim Roth",
+    "production_country": "United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYjczODRhOTQtZjdkYi00MmM2LTg1ZmEtZDQ3YjA5MDJhODNhXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/869.webp",
+    "imdb_rating": "5.7",
+    "imdb_votes": "241,183",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Planet_of_the_Apes_(2001_film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/869.txt",
+    "plot_year_start": 2029,
+    "plot_year_end": 5021,
+    "epoch": "future-world",
+    "action_countries": [
+      "UNKNOWN"
+    ],
+    "action_continents": [
+      "UNKNOWN"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "war making whole societies martial",
+        "description": "Alien threats, machine enemies, and struggles among human powers push government and daily custom toward drill, command, sacrifice, and readiness for battle. What you'll see: uniforms everywhere, cadet schools, fleet briefings, orbital defenses, propaganda screens, troop transports, and civilians taught to think in terms of survival campaigns.",
+        "icon": "🪖"
+      },
+      {
+        "label": "humanity meeting rival and neighboring species",
+        "description": "The wider cosmos is peopled by other beings, so trade, hatred, curiosity, and uneasy fellowship shape the political order as much as purely human concerns do. What you'll see: alien languages, mixed-species cities, first-contact rituals, occupied worlds, sacred ruins of older races, and battle lines or marketplaces where very different peoples share space.",
+        "icon": "👽"
+      }
+    ]
+  },
+  {
+    "movie_id": 406990,
+    "movie_idx": 1176,
+    "imdb_id": "tt1536537",
+    "title": "What Happened to Monday",
+    "production_year": "2017",
+    "genre": "Action, Crime, Fantasy",
+    "plot": "In a not so distant future, where overpopulation and famine have forced governments to undertake a drastic One-Child Policy, seven identical sisters (all of them portrayed by Noomi Rapace) live a hide-and-seek existence pursued by the Child Allocation Bureau. The Bureau, directed by the fierce Nicolette Cayman (Glenn Close), enforces a strict family-planning agenda that the sisters outwit by taking turns assuming the identity of one person: Karen Settman. Taught by their grandfather (Willem Dafoe) who raised and named them - Monday, Tuesday, Wednesday, Thursday, Friday, Saturday and Sunday - each can go outside once a week as their common identity, but are only free to be themselves in the prison of their own apartment. That is until, one day, Monday does not come home.",
+    "runtime": "123 min",
+    "director": "Tommy Wirkola",
+    "actors": "Noomi Rapace, Glenn Close, Willem Dafoe",
+    "production_country": "United Kingdom, France, United States, Belgium",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjE4MDQxMDg3MF5BMl5BanBnXkFtZTgwNjQ0MTcwMzI@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/406990.webp",
+    "imdb_rating": "6.8",
+    "imdb_votes": "142,476",
+    "plot_year_start": 2043,
+    "plot_year_end": 2043,
+    "epoch": "future-world",
+    "action_countries": [
+      "UNKNOWN"
+    ],
+    "action_continents": [
+      "UNKNOWN"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "states managing life with hard rules",
+        "description": "Scarcity and fear give authorities cause to regulate births, movement, identity, memory, and information with a firm hand, often in the name of order or survival. What you'll see: identity checks, monitored apartments, official decrees, restricted records, one-child edicts, hidden archives, and bureaucracies deciding who may live where and as whom.",
+        "icon": "🪪"
+      },
+      {
+        "label": "wealth and comfort divided by enclosure",
+        "description": "These futures often sort people into protected abundance and exposed want, with privilege gathered in high stations, guarded centers, or better decks while others endure the margins. What you'll see: gleaming upper levels, crowded lower quarters, salvage markets, luxury transport, labor colonies, hidden service passages, and social rank built into the very architecture.",
+        "icon": "🏙️"
+      }
+    ],
+    "failures": {
+      "wikipedia": "no_wiki_article_found"
+    }
+  },
+  {
+    "movie_id": 286217,
+    "movie_idx": 1224,
+    "imdb_id": "tt3659388",
+    "title": "The Martian",
+    "production_year": "2015",
+    "genre": "Adventure, Drama, Sci-Fi",
+    "plot": "During a manned mission to Mars, Astronaut Mark Watney is presumed dead after a fierce storm and left behind by his crew. But Watney has survived and finds himself stranded and alone on the hostile planet. With only meager supplies, he must draw upon his ingenuity, wit and spirit to subsist and find a way to signal to Earth that he is alive. Millions of miles away, NASA and a team of international scientists work tirelessly to bring \"the Martian\" home, while his crewmates concurrently plot a daring, if not impossible, rescue mission. As these stories of incredible bravery unfold, the world comes together to root for Watney's safe return.",
+    "runtime": "144 min",
+    "director": "Ridley Scott",
+    "actors": "Matt Damon, Jessica Chastain, Kristen Wiig",
+    "production_country": "United States, United Kingdom, Hungary, Jordan",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTc2MTQ3MDA1Nl5BMl5BanBnXkFtZTgwODA3OTI4NjE@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/286217.webp",
+    "imdb_rating": "8.0",
+    "imdb_votes": "999,128",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Martian_(film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/286217.txt",
+    "plot_year_start": 2035,
+    "plot_year_end": 2040,
+    "epoch": "future-world",
+    "action_countries": [
+      "UNKNOWN"
+    ],
+    "action_continents": [
+      "UNKNOWN"
+    ],
+    "action_planet": "Mars",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "space travel opening new human frontiers",
+        "description": "Voyages beyond Earth are no longer rare wonders but the chief means by which people seek land, safety, knowledge, and a future for their kind. What you'll see: launch gantries, long-haul starships, cryosleep chambers, colony transports, lunar mines, Mars habitats, and maps that treat whole planets as destinations.",
+        "icon": "🚀"
+      },
+      {
+        "label": "daily survival tied to fragile systems",
+        "description": "Whether on a dead world or a living ship, ordinary existence depends on a thin chain of fuel, food, oxygen, heat, navigation, and repair that can break at any hour. What you'll see: crop modules, water reclaimers, pressure gauges, spare parts, improvised fixes, countdowns to depletion, and crews who treat technical upkeep as the difference between life and death.",
+        "icon": "🔧"
+      }
+    ]
+  },
+  {
+    "movie_id": 13475,
+    "movie_idx": 1406,
+    "imdb_id": "tt0796366",
+    "title": "Star Trek",
+    "production_year": "2009",
+    "genre": "Action, Adventure, Sci-Fi",
+    "plot": "On the day of James T. Kirk's birth, his father dies on his damaged starship in a last stand against a Romulan mining vessel looking for Ambassador Spock, who in this time, has grown on Vulcan disdained by his neighbors for his half-human heritage. 25 years later, James T. Kirk has grown into a young rebellious troublemaker. Challenged by Captain Christopher Pike to realize his potential in Starfleet, he comes to annoy academy instructors like Commander Spock. Suddenly, there is an emergency on Vulcan and the newly-commissioned USS Enterprise is crewed with promising cadets like Nyota Uhura, Hikaru Sulu, Pavel Chekov and even Kirk himself, thanks to Leonard McCoy's medical trickery. Together, this crew will have an adventure in the final frontier where the old legend is altered forever as a new version of the legend begins.",
+    "runtime": "127 min",
+    "director": "J.J. Abrams",
+    "actors": "Chris Pine, Zachary Quinto, Simon Pegg",
+    "production_country": "Germany, United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjE5NDQ5OTE4Ml5BMl5BanBnXkFtZTcwOTE3NDIzMw@@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/13475.webp",
+    "imdb_rating": "7.9",
+    "imdb_votes": "636,122",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Star_Trek_(2009_film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/13475.txt",
+    "plot_year_start": 2233,
+    "plot_year_end": 2233,
+    "epoch": "future-world",
+    "action_countries": [
+      "UNKNOWN"
+    ],
+    "action_continents": [
+      "UNKNOWN"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Star Trek Universe",
+    "categories": [
+      {
+        "label": "space travel opening new human frontiers",
+        "description": "Voyages beyond Earth are no longer rare wonders but the chief means by which people seek land, safety, knowledge, and a future for their kind. What you'll see: launch gantries, long-haul starships, cryosleep chambers, colony transports, lunar mines, Mars habitats, and maps that treat whole planets as destinations.",
+        "icon": "🚀"
+      },
+      {
+        "label": "humanity meeting rival and neighboring species",
+        "description": "The wider cosmos is peopled by other beings, so trade, hatred, curiosity, and uneasy fellowship shape the political order as much as purely human concerns do. What you'll see: alien languages, mixed-species cities, first-contact rituals, occupied worlds, sacred ruins of older races, and battle lines or marketplaces where very different peoples share space.",
+        "icon": "👽"
+      }
+    ]
+  },
+  {
+    "movie_id": 81,
+    "movie_idx": 1720,
+    "imdb_id": "tt0087544",
+    "title": "Nausicaä of the Valley of the Wind",
+    "production_year": "1984",
+    "genre": "Animation, Adventure, Sci-Fi",
+    "plot": "An animated fantasy-adventure. Set one thousand years from now, the Earth is ravaged by pollution and war. In the Valley of the Wind lives Nausicaä, Princess of her people. Their land borders on a toxic jungle, filled with dangerous over-sized insects. Meanwhile, two nearby nations are bitterly engaged in a war and the Valley of the Wind is stuck in the middle.",
+    "runtime": "117 min",
+    "director": "Hayao Miyazaki",
+    "actors": "Sumi Shimamoto, Mahito Tsujimura, Hisako Kyôda",
+    "production_country": "Japan",
+    "poster": "https://m.media-amazon.com/images/M/MV5BODBhMTI3YzMtNTRjYS00OTFkLWJmODUtNjJiNzcwYTVkNDhiXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/81.webp",
+    "imdb_rating": "8.0",
+    "imdb_votes": "195,783",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Nausica%C3%A4_of_the_Valley_of_the_Wind_(film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/81.txt",
+    "plot_year_start": 3024,
+    "plot_year_end": 3024,
+    "epoch": "future-world",
+    "action_countries": [
+      "UNKNOWN"
+    ],
+    "action_continents": [
+      "UNKNOWN"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "earth left scarred by human ruin",
+        "description": "Many of these futures begin after Earth has been spoiled by war, poison, flood, frost, waste, or failing skies, so ordinary life unfolds amid a damaged home world. What you'll see: buried cities, ash deserts, frozen plains, drowned coasts, toxic wilds, derelict ruins, and survivors treating clean air, heat, water, and soil as precious things.",
+        "icon": "🏚️"
+      },
+      {
+        "label": "war making whole societies martial",
+        "description": "Alien threats, machine enemies, and struggles among human powers push government and daily custom toward drill, command, sacrifice, and readiness for battle. What you'll see: uniforms everywhere, cadet schools, fleet briefings, orbital defenses, propaganda screens, troop transports, and civilians taught to think in terms of survival campaigns.",
+        "icon": "🪖"
+      }
+    ]
+  },
+  {
+    "movie_id": 597890,
+    "movie_idx": 1778,
+    "imdb_id": "tt9664108",
+    "title": "Voyagers",
+    "production_year": "2021",
+    "genre": "Adventure, Mystery, Sci-Fi",
+    "plot": "Set in the near future, the film chronicles the odyssey of 30 young men and women who are sent deep into space on a multi-generational mission in search of a new home. The mission descends into madness, as the crew reverts to its most primal state, not knowing if the real threat they face is what's outside the ship or who they're becoming inside it.",
+    "runtime": "108 min",
+    "director": "Neil Burger",
+    "actors": "Colin Farrell, Tye Sheridan, Lily-Rose Depp",
+    "production_country": "United States, Czech Republic, Romania, United Kingdom",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYThkMGFjMTctMDUxNi00MDVhLWFjYWMtMmIzNTRiZGQwODk2XkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/597890.webp",
+    "imdb_rating": "5.5",
+    "imdb_votes": "29,751",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Voyagers_(film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/597890.txt",
+    "plot_year_start": 2063,
+    "plot_year_end": 2150,
+    "epoch": "future-world",
+    "action_countries": [
+      "UNKNOWN"
+    ],
+    "action_continents": [
+      "UNKNOWN"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "people living inside sealed habitats",
+        "description": "Human settlement often survives only within ships, domes, underground colonies, orbital stations, trench bases, or single protected cities where life depends on unbroken systems. What you'll see: airlocks, pressure doors, recycled air, rationed supplies, maintenance corridors, control rooms, and constant fear of a breach or failing machinery.",
+        "icon": "🫧"
+      },
+      {
+        "label": "space travel opening new human frontiers",
+        "description": "Voyages beyond Earth are no longer rare wonders but the chief means by which people seek land, safety, knowledge, and a future for their kind. What you'll see: launch gantries, long-haul starships, cryosleep chambers, colony transports, lunar mines, Mars habitats, and maps that treat whole planets as destinations.",
+        "icon": "🚀"
+      }
+    ]
+  },
+  {
+    "movie_id": 8078,
+    "movie_idx": 1903,
+    "imdb_id": "tt0118583",
+    "title": "Alien: Resurrection",
+    "production_year": "1997",
+    "genre": "Action, Horror, Sci-Fi",
+    "plot": "The saga continues 200 years after Ripley sacrificed herself for the sake of humanity. Her erstwhile employers long gone, this time it is the military that resurrects the one-woman killing machine through genetic cloning to extract the alien from within her, but during the process her DNA is fused with the queen and then the aliens escape. Now Ripley must decide where her allegiance lies.",
+    "runtime": "109 min",
+    "director": "Jean-Pierre Jeunet",
+    "actors": "Sigourney Weaver, Winona Ryder, Dominique Pinon",
+    "production_country": "United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNDMyNmU5ZGQtNzhiZi00NjRjLTk3NGUtMmQ5YWU4ODlkNTBhXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/8078.webp",
+    "imdb_rating": "6.2",
+    "imdb_votes": "290,537",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Alien_Resurrection",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/8078.txt",
+    "plot_year_start": 2193,
+    "plot_year_end": 2193,
+    "epoch": "future-world",
+    "action_countries": [
+      "UNKNOWN"
+    ],
+    "action_continents": [
+      "UNKNOWN"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Alien",
+    "categories": [
+      {
+        "label": "science remaking bodies and bloodlines",
+        "description": "Medicine and statecraft alike reach deep into the flesh through cloning, altered genes, cybernetic bodies, suspended life, and engineered adaptation to harsh worlds. What you'll see: lab vats, memory copies, prosthetic limbs, gene trials, revived bodies, military enhancement schemes, and doctors speaking of the body as something that can be redesigned.",
+        "icon": "🧬"
+      },
+      {
+        "label": "people living inside sealed habitats",
+        "description": "Human settlement often survives only within ships, domes, underground colonies, orbital stations, trench bases, or single protected cities where life depends on unbroken systems. What you'll see: airlocks, pressure doors, recycled air, rationed supplies, maintenance corridors, control rooms, and constant fear of a breach or failing machinery.",
+        "icon": "🫧"
+      }
+    ]
+  },
+  {
+    "movie_id": 110415,
+    "movie_idx": 2294,
+    "imdb_id": "tt1706620",
+    "title": "Snowpiercer",
+    "production_year": "2013",
+    "genre": "Action, Sci-Fi, Thriller",
+    "plot": "Set in 2031, the entire world is frozen except for those aboard the Snowpiercer. For seventeen years, the world's survivors are on a train hurtling around the globe creating their own economy and class system. Led by Curtis (Chris Evans), a group of lower-class citizens living in squalor at the back of the train are determined to get to the front of the train and spread the wealth around. Each section of the train holds new surprises for the group who have to battle their way through. A revolution is underway.",
+    "runtime": "126 min",
+    "director": "Bong Joon Ho",
+    "actors": "Chris Evans, Jamie Bell, Tilda Swinton",
+    "production_country": "South Korea, Czech Republic",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTQ3NzA1MTY3MV5BMl5BanBnXkFtZTgwNzE2Mzg5MTE@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/110415.webp",
+    "imdb_rating": "7.1",
+    "imdb_votes": "417,858",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Snowpiercer",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/110415.txt",
+    "plot_year_start": 2031,
+    "plot_year_end": 2031,
+    "epoch": "future-world",
+    "action_countries": [
+      "UNKNOWN"
+    ],
+    "action_continents": [
+      "UNKNOWN"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "wealth and comfort divided by enclosure",
+        "description": "These futures often sort people into protected abundance and exposed want, with privilege gathered in high stations, guarded centers, or better decks while others endure the margins. What you'll see: gleaming upper levels, crowded lower quarters, salvage markets, luxury transport, labor colonies, hidden service passages, and social rank built into the very architecture.",
+        "icon": "🏙️"
+      },
+      {
+        "label": "daily survival tied to fragile systems",
+        "description": "Whether on a dead world or a living ship, ordinary existence depends on a thin chain of fuel, food, oxygen, heat, navigation, and repair that can break at any hour. What you'll see: crop modules, water reclaimers, pressure gauges, spare parts, improvised fixes, countdowns to depletion, and crews who treat technical upkeep as the difference between life and death.",
+        "icon": "🔧"
+      }
+    ]
+  },
+  {
+    "movie_id": 563,
+    "movie_idx": 2444,
+    "imdb_id": "tt0120201",
+    "title": "Starship Troopers",
+    "production_year": "1997",
+    "genre": "Action, Adventure, Sci-Fi",
+    "plot": "In the distant future high school kids are encouraged to become citizens by joining the military. What they don't know is that they'll soon be engaged in a full scale war against a planet of alien insects. The fight is on to ensure the safety of humanity.",
+    "runtime": "129 min",
+    "director": "Paul Verhoeven",
+    "actors": "Casper Van Dien, Denise Richards, Dina Meyer",
+    "production_country": "United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZTNiOGM1ZWUtZTZjZC00OWJmLWE2YzUtZjQ4ODZjZmVlMDU3XkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/563.webp",
+    "imdb_rating": "7.3",
+    "imdb_votes": "343,889",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Starship_Troopers_(film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/563.txt",
+    "plot_year_start": 2200,
+    "plot_year_end": 2299,
+    "epoch": "future-world",
+    "action_countries": [
+      "UNKNOWN"
+    ],
+    "action_continents": [
+      "UNKNOWN"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "war making whole societies martial",
+        "description": "Alien threats, machine enemies, and struggles among human powers push government and daily custom toward drill, command, sacrifice, and readiness for battle. What you'll see: uniforms everywhere, cadet schools, fleet briefings, orbital defenses, propaganda screens, troop transports, and civilians taught to think in terms of survival campaigns.",
+        "icon": "🪖"
+      },
+      {
+        "label": "space travel opening new human frontiers",
+        "description": "Voyages beyond Earth are no longer rare wonders but the chief means by which people seek land, safety, knowledge, and a future for their kind. What you'll see: launch gantries, long-haul starships, cryosleep chambers, colony transports, lunar mines, Mars habitats, and maps that treat whole planets as destinations.",
+        "icon": "🚀"
+      }
+    ]
+  },
+  {
+    "movie_id": 443791,
+    "movie_idx": 2462,
+    "imdb_id": "tt5774060",
+    "title": "Underwater",
+    "production_year": "2020",
+    "genre": "Action, Horror, Sci-Fi",
+    "plot": "An unknown, massive earthquake happens in a drilling station in the bottom of the Marianna Trench. A scientific crew must find their way across the ocean floor into another station under the threats of deep pressure, dark water, dangerous deep-sea creatures, and a constant lack of oxygen.",
+    "runtime": "95 min",
+    "director": "William Eubank",
+    "actors": "Kristen Stewart, Vincent Cassel, Mamoudou Athie",
+    "production_country": "United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BODljZWI2NTAtNzIxOC00NjM3LWI0NWEtMDA0YjcwYTEyNDM4XkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/443791.webp",
+    "imdb_rating": "5.9",
+    "imdb_votes": "106,059",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Underwater_(film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/443791.txt",
+    "plot_year_start": 2050,
+    "plot_year_end": 2050,
+    "epoch": "future-world",
+    "action_countries": [
+      "UNKNOWN"
+    ],
+    "action_continents": [
+      "UNKNOWN"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "people living inside sealed habitats",
+        "description": "Human settlement often survives only within ships, domes, underground colonies, orbital stations, trench bases, or single protected cities where life depends on unbroken systems. What you'll see: airlocks, pressure doors, recycled air, rationed supplies, maintenance corridors, control rooms, and constant fear of a breach or failing machinery.",
+        "icon": "🫧"
+      },
+      {
+        "label": "daily survival tied to fragile systems",
+        "description": "Whether on a dead world or a living ship, ordinary existence depends on a thin chain of fuel, food, oxygen, heat, navigation, and repair that can break at any hour. What you'll see: crop modules, water reclaimers, pressure gauges, spare parts, improvised fixes, countdowns to depletion, and crews who treat technical upkeep as the difference between life and death.",
+        "icon": "🔧"
+      }
+    ]
+  },
+  {
+    "movie_id": 9804,
+    "movie_idx": 2502,
+    "imdb_id": "tt0114898",
+    "title": "Waterworld",
+    "production_year": "1995",
+    "genre": "Action, Adventure, Sci-Fi",
+    "plot": "The polar ice caps have melted, and the earth is covered by water. The remaining people travel the seas, in search of survival. Several different societies exist. The Mariner falls from his customary and solitary existence into having to care for a woman and a young girl while being pursued by the evil forces of the Deacon.",
+    "runtime": "135 min",
+    "director": "Kevin Reynolds",
+    "actors": "Kevin Costner, Jeanne Tripplehorn, Dennis Hopper",
+    "production_country": "United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjI5ZmQ3NTAtNWVhMi00ZmI2LTg3YTMtN2Q1MmNjYzMwZGI1XkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/9804.webp",
+    "imdb_rating": "6.3",
+    "imdb_votes": "222,867",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Waterworld",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/9804.txt",
+    "plot_year_start": 2500,
+    "plot_year_end": 2500,
+    "epoch": "future-world",
+    "action_countries": [
+      "UNKNOWN"
+    ],
+    "action_continents": [
+      "UNKNOWN"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "earth left scarred by human ruin",
+        "description": "Many of these futures begin after Earth has been spoiled by war, poison, flood, frost, waste, or failing skies, so ordinary life unfolds amid a damaged home world. What you'll see: buried cities, ash deserts, frozen plains, drowned coasts, toxic wilds, derelict ruins, and survivors treating clean air, heat, water, and soil as precious things.",
+        "icon": "🏚️"
+      },
+      {
+        "label": "daily survival tied to fragile systems",
+        "description": "Whether on a dead world or a living ship, ordinary existence depends on a thin chain of fuel, food, oxygen, heat, navigation, and repair that can break at any hour. What you'll see: crop modules, water reclaimers, pressure gauges, spare parts, improvised fixes, countdowns to depletion, and crews who treat technical upkeep as the difference between life and death.",
+        "icon": "🔧"
+      }
+    ]
+  },
+  {
+    "movie_id": 8202,
+    "movie_idx": 2631,
+    "imdb_id": "tt0402022",
+    "title": "Æon Flux",
+    "production_year": "2005",
+    "genre": "Action, Adventure, Sci-Fi",
+    "plot": "Four hundred years in the future, set in the year 2415, Æon Flux is a mysterious assassin. Four centuries after a virus nearly annihilated the human race, leaving only five million survivors in a utopian city called Bregna. Aeon is struggling to destroy the Goodchild regime led by its namesake, Trevor Goodchild, the ruler of Bregna and a descendant of the man who found a cure for the deadly virus. As instructed by the Handler, Æon is assigned to assassinate Goodchild, but there are deeper secrets to be discovered, and conspiracies to be foiled.",
+    "runtime": "93 min",
+    "director": "Karyn Kusama",
+    "actors": "Charlize Theron, Frances McDormand, Sophie Okonedo",
+    "production_country": "Italy, Germany, Brazil, United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTc2Mzg0NjA2N15BMl5BanBnXkFtZTcwOTc5NjQzMw@@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/8202.webp",
+    "imdb_rating": "5.4",
+    "imdb_votes": "135,849",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/%C3%86on_Flux_(film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/8202.txt",
+    "plot_year_start": 2415,
+    "plot_year_end": 2415,
+    "epoch": "future-world",
+    "action_countries": [
+      "UNKNOWN"
+    ],
+    "action_continents": [
+      "UNKNOWN"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "states managing life with hard rules",
+        "description": "Scarcity and fear give authorities cause to regulate births, movement, identity, memory, and information with a firm hand, often in the name of order or survival. What you'll see: identity checks, monitored apartments, official decrees, restricted records, one-child edicts, hidden archives, and bureaucracies deciding who may live where and as whom.",
+        "icon": "🪪"
+      },
+      {
+        "label": "science remaking bodies and bloodlines",
+        "description": "Medicine and statecraft alike reach deep into the flesh through cloning, altered genes, cybernetic bodies, suspended life, and engineered adaptation to harsh worlds. What you'll see: lab vats, memory copies, prosthetic limbs, gene trials, revived bodies, military enhancement schemes, and doctors speaking of the body as something that can be redesigned.",
+        "icon": "🧬"
+      }
+    ]
+  },
+  {
+    "movie_id": 80274,
+    "movie_idx": 2685,
+    "imdb_id": "tt1731141",
+    "title": "Ender's Game",
+    "production_year": "2013",
+    "genre": "Action, Adventure, Sci-Fi",
+    "plot": "The Earth was ravaged by the Formics, an alien race seemingly determined to destroy humanity. Fifty years later, the people of Earth remain banded together to prevent their own annihilation from this technologically superior alien species. Ender Wiggin, a quiet but brilliant boy, may become the savior of the human race. He is separated from his beloved sister and his terrifying brother and brought to battle school in orbit around earth. He will be tested and honed into an empathetic killer who begins to despise what he does as he learns to fight in hopes of saving Earth and his family.",
+    "runtime": "114 min",
+    "director": "Gavin Hood",
+    "actors": "Harrison Ford, Asa Butterfield, Hailee Steinfeld",
+    "production_country": "United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjAzMzI5OTgzMl5BMl5BanBnXkFtZTgwMTU5MTAwMDE@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/80274.webp",
+    "imdb_rating": "6.6",
+    "imdb_votes": "263,151",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Ender%27s_Game_(film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/80274.txt",
+    "plot_year_start": 2060,
+    "plot_year_end": 2100,
+    "epoch": "future-world",
+    "action_countries": [
+      "UNKNOWN"
+    ],
+    "action_continents": [
+      "UNKNOWN"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "war making whole societies martial",
+        "description": "Alien threats, machine enemies, and struggles among human powers push government and daily custom toward drill, command, sacrifice, and readiness for battle. What you'll see: uniforms everywhere, cadet schools, fleet briefings, orbital defenses, propaganda screens, troop transports, and civilians taught to think in terms of survival campaigns.",
+        "icon": "🪖"
+      },
+      {
+        "label": "space travel opening new human frontiers",
+        "description": "Voyages beyond Earth are no longer rare wonders but the chief means by which people seek land, safety, knowledge, and a future for their kind. What you'll see: launch gantries, long-haul starships, cryosleep chambers, colony transports, lunar mines, Mars habitats, and maps that treat whole planets as destinations.",
+        "icon": "🚀"
+      }
+    ]
+  },
+  {
+    "movie_id": 2157,
+    "movie_idx": 2867,
+    "imdb_id": "tt0120738",
+    "title": "Lost in Space",
+    "production_year": "1998",
+    "genre": "Action, Adventure, Sci-Fi",
+    "plot": "In the year 2058, the Earth will soon be uninhabitable after the irreversible effects of pollution and global warming! Professor John Robinson, lead scientist of the Jupiter 2 Mission, will lead his family to the habitable planet Alpha Prime to prep it for colonization. The Jupiter 2 is equipped with a hyperdrive that allows faster-than-light travel, which will eventually be employed to evacuate the citizens of Earth. However hypergates must be constructed on Earth and Alpha Prime to provide stable points of departure and arrival. Dr. Zachary Smith is bribed by a terrorist organization to sabotage the mission, and ends up an unwilling stowaway as the ship blasts off.",
+    "runtime": "130 min",
+    "director": "Stephen Hopkins",
+    "actors": "Gary Oldman, William Hurt, Matt LeBlanc",
+    "production_country": "United Kingdom, United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMzViNDBjNDMtMmYxOS00ZDcyLTk4NGQtZGQwMmIyODc2NGZmXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/2157.webp",
+    "imdb_rating": "5.2",
+    "imdb_votes": "76,464",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Lost_in_Space_(film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/2157.txt",
+    "plot_year_start": 2058,
+    "plot_year_end": 2058,
+    "epoch": "future-world",
+    "action_countries": [
+      "UNKNOWN"
+    ],
+    "action_continents": [
+      "UNKNOWN"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "space travel opening new human frontiers",
+        "description": "Voyages beyond Earth are no longer rare wonders but the chief means by which people seek land, safety, knowledge, and a future for their kind. What you'll see: launch gantries, long-haul starships, cryosleep chambers, colony transports, lunar mines, Mars habitats, and maps that treat whole planets as destinations.",
+        "icon": "🚀"
+      },
+      {
+        "label": "people living inside sealed habitats",
+        "description": "Human settlement often survives only within ships, domes, underground colonies, orbital stations, trench bases, or single protected cities where life depends on unbroken systems. What you'll see: airlocks, pressure doors, recycled air, rationed supplies, maintenance corridors, control rooms, and constant fear of a breach or failing machinery.",
+        "icon": "🫧"
+      }
+    ]
+  },
+  {
+    "movie_id": 262543,
+    "movie_idx": 3654,
+    "imdb_id": "tt1971325",
+    "title": "Automata",
+    "production_year": "2014",
+    "genre": "Action, Drama, Sci-Fi",
+    "plot": "2044. The climate change and a series of solar storms have turned in a desert the surface of the planet and annihilated to the 99.7 % of Earth's population, leaving alive 21 million people across the world in a single city covered by mechanical clouds (zeppelins anchored to the city) to make rain. Trying to rebuild the world again, a robot company named ROC Corporation create Automata Pilgrim 7000 with two security protocols: 1st, a robot cannot harm human beings, and 2nd, a robot cannot alter himself or another robot. But this situation changes when police officer Sean Wallace shoots and destroys a robot claiming that it was altering himself. With the company worried by the possible implications if the case were known by the people, insurance agent Jacq Vaucan is chosen to investigate the happened, while Vaucan tries to convince his boss, friend and brother-in-law Robert Bold to transfer him and his pregnant wife Rachel to the coast, with Bold accepting the request if Vaucan solves the case. Going with Wallace to a brothel, they meets a robot in blue wig named Cleo, who is shot by Wallace in the belief that Cleo will go with the mysterious repairman that Vaucan calls The Clocksmith. However, Cleo travels a mechanical workshop property of Dr. Susan Dupré, who informs Vaucan about a terrible possibility: that the robots can alter their second protocol themselves to acquire self awareness, implying a non-human intelligence that easily it should overpass the human brain after a test where she mixed a biocore from the Wallace's shot robot with Cleo's own biocore. Vaucan reports secretly Bold about it, but ROC's chairman intercepts the message. When Dr. Dupré is killed in front of Vaucan by a ROC's squad group, he and Cleo run from the assassins, ending outside the city, lost in the white desert that surrounds the city. Forced to meet ROC's chairman, this reports Bold about the secret of the two protocols: that the Pilgrim 7000's prototype was created without them, and due to its unlimited intelligence and learning, he overcame to its human owners just eight days later. After to escape, all the next Pilgrims were created with the protocols to limit their capacity in order to have them under control. Fearing the extinction of human race if all the Pilgrims evolve beyond the protocols, ROC's chairman blames Vaucan of Dupré's assassination and the alteration of the robots to cover up to the public, and Wallace is hired to find Cleo and Vucan and kill them. According Vaucan, Cleo and three robots more travel across the desert to the forbidden and radioactive zone to meet The Clocksmith, Vaucan will find himself as witness of something that it would change the world as nobody could imagine.",
+    "runtime": "109 min",
+    "director": "Gabe Ibáñez",
+    "actors": "Antonio Banderas, Birgitte Hjort Sørensen, Dylan McDermott",
+    "production_country": "Spain, Bulgaria",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNzgyMDcyMjMwMV5BMl5BanBnXkFtZTgwNjY5MTA1MjE@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/262543.webp",
+    "imdb_rating": "6.0",
+    "imdb_votes": "61,417",
+    "plot_year_start": 2044,
+    "plot_year_end": 2044,
+    "epoch": "future-world",
+    "action_countries": [
+      "UNKNOWN"
+    ],
+    "action_continents": [
+      "UNKNOWN"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "daily survival tied to fragile systems",
+        "description": "Whether on a dead world or a living ship, ordinary existence depends on a thin chain of fuel, food, oxygen, heat, navigation, and repair that can break at any hour. What you'll see: crop modules, water reclaimers, pressure gauges, spare parts, improvised fixes, countdowns to depletion, and crews who treat technical upkeep as the difference between life and death.",
+        "icon": "🔧"
+      },
+      {
+        "label": "thinking machines serving and unsettling humans",
+        "description": "Robots, ship minds, drones, and crafted intelligences are woven into labor, travel, care, and command, even as people fear what such creations may become. What you'll see: repair bots, household automata, armed drones, synthetic companions, strict machine protocols, silent server spaces, and arguments over whether a made mind is merely a tool.",
+        "icon": "🤖"
+      }
+    ],
+    "failures": {
+      "wikipedia": "no_wiki_article_found"
+    }
+  },
+  {
+    "movie_id": 178809,
+    "movie_idx": 4041,
+    "imdb_id": "tt1160996",
+    "title": "The Colony",
+    "production_year": "2013",
+    "genre": "Action, Horror, Sci-Fi",
+    "plot": "Groups of people - colonies - are forced underground due to another ice age. Colony 7 goes to check on Colony 5, which they lost contact with. When they get there they find that the colony has fallen and there is a whole new enemy that they have to face on their way back.",
+    "runtime": "95 min",
+    "director": "Jeff Renfroe",
+    "actors": "Kevin Zegers, Laurence Fishburne, Bill Paxton",
+    "production_country": "Canada, United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNzAzNzEzNDA4OF5BMl5BanBnXkFtZTcwOTUwODA3OQ@@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/178809.webp",
+    "imdb_rating": "5.3",
+    "imdb_votes": "48,452",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Colony_(2013_film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/178809.txt",
+    "plot_year_start": 2045,
+    "plot_year_end": 2045,
+    "epoch": "future-world",
+    "action_countries": [
+      "UNKNOWN"
+    ],
+    "action_continents": [
+      "UNKNOWN"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "people living inside sealed habitats",
+        "description": "Human settlement often survives only within ships, domes, underground colonies, orbital stations, trench bases, or single protected cities where life depends on unbroken systems. What you'll see: airlocks, pressure doors, recycled air, rationed supplies, maintenance corridors, control rooms, and constant fear of a breach or failing machinery.",
+        "icon": "🫧"
+      },
+      {
+        "label": "daily survival tied to fragile systems",
+        "description": "Whether on a dead world or a living ship, ordinary existence depends on a thin chain of fuel, food, oxygen, heat, navigation, and repair that can break at any hour. What you'll see: crop modules, water reclaimers, pressure gauges, spare parts, improvised fixes, countdowns to depletion, and crews who treat technical upkeep as the difference between life and death.",
+        "icon": "🔧"
+      }
+    ]
+  },
+  {
+    "movie_id": 1272,
+    "movie_idx": 4100,
+    "imdb_id": "tt0448134",
+    "title": "Sunshine",
+    "production_year": "2007",
+    "genre": "Sci-Fi, Thriller",
+    "plot": "50 years into the future, the Sun begins to die, and Earth is dying as a result. A team of astronauts is sent to revive the Sun - but the mission fails. Seven years later, a new team is sent to finish the mission as mankind's last hope.",
+    "runtime": "107 min",
+    "director": "Danny Boyle",
+    "actors": "Cillian Murphy, Rose Byrne, Chris Evans",
+    "production_country": "United Kingdom, United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNmExYTA4MGYtNWUwNC00YTZhLWE0YzUtMjI0OGYyMmQ4YTVkXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/1272.webp",
+    "imdb_rating": "7.2",
+    "imdb_votes": "284,835",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Sunshine_(2007_film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/1272.txt",
+    "plot_year_start": 2057,
+    "plot_year_end": 2064,
+    "epoch": "future-world",
+    "action_countries": [
+      "UNKNOWN"
+    ],
+    "action_continents": [
+      "UNKNOWN"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "space travel opening new human frontiers",
+        "description": "Voyages beyond Earth are no longer rare wonders but the chief means by which people seek land, safety, knowledge, and a future for their kind. What you'll see: launch gantries, long-haul starships, cryosleep chambers, colony transports, lunar mines, Mars habitats, and maps that treat whole planets as destinations.",
+        "icon": "🚀"
+      },
+      {
+        "label": "daily survival tied to fragile systems",
+        "description": "Whether on a dead world or a living ship, ordinary existence depends on a thin chain of fuel, food, oxygen, heat, navigation, and repair that can break at any hour. What you'll see: crop modules, water reclaimers, pressure gauges, spare parts, improvised fixes, countdowns to depletion, and crews who treat technical upkeep as the difference between life and death.",
+        "icon": "🔧"
+      }
+    ]
+  },
+  {
+    "movie_id": 7450,
+    "movie_idx": 4252,
+    "imdb_id": "tt0120913",
+    "title": "Titan A.E.",
+    "production_year": "2000",
+    "genre": "Animation, Action, Adventure",
+    "plot": "Earth is a memory of the past; it's the 31st Century and humanity is on the brink of total annihilation, all except for one young man who holds the map to the universe's last hope: Titan. In a race against time, the human race has to find the Titan before the illusive Drej destroy it.",
+    "runtime": "94 min",
+    "director": "Don Bluth, Gary Goldman",
+    "actors": "Matt Damon, Drew Barrymore, Bill Pullman",
+    "production_country": "United States, United Kingdom",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMzYwZTRhMzMtMmRkNi00ODc2LWE0ODktNTUwYzVjMWJhMjViXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/7450.webp",
+    "imdb_rating": "6.6",
+    "imdb_votes": "66,405",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Titan_A.E.",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/7450.txt",
+    "plot_year_start": 3028,
+    "plot_year_end": 3043,
+    "epoch": "future-world",
+    "action_countries": [
+      "UNKNOWN"
+    ],
+    "action_continents": [
+      "UNKNOWN"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "space travel opening new human frontiers",
+        "description": "Voyages beyond Earth are no longer rare wonders but the chief means by which people seek land, safety, knowledge, and a future for their kind. What you'll see: launch gantries, long-haul starships, cryosleep chambers, colony transports, lunar mines, Mars habitats, and maps that treat whole planets as destinations.",
+        "icon": "🚀"
+      },
+      {
+        "label": "earth left scarred by human ruin",
+        "description": "Many of these futures begin after Earth has been spoiled by war, poison, flood, frost, waste, or failing skies, so ordinary life unfolds amid a damaged home world. What you'll see: buried cities, ash deserts, frozen plains, drowned coasts, toxic wilds, derelict ruins, and survivors treating clean air, heat, water, and soil as precious things.",
+        "icon": "🏚️"
+      }
+    ]
+  },
+  {
+    "movie_id": 8413,
+    "movie_idx": 4557,
+    "imdb_id": "tt0119081",
+    "title": "Event Horizon",
+    "production_year": "1997",
+    "genre": "Horror, Sci-Fi, Thriller",
+    "plot": "In the year 2047 a group of astronauts are sent to investigate and salvage the long lost starship \"Event Horizon\". The ship disappeared mysteriously 7 years before on its maiden voyage and with its return comes even more mystery as the crew of the \"Lewis and Clark\" discover the real truth behind its disappearance and something even more terrifying.",
+    "runtime": "96 min",
+    "director": "Paul W.S. Anderson",
+    "actors": "Laurence Fishburne, Sam Neill, Kathleen Quinlan",
+    "production_country": "United Kingdom, United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BM2M4ZTI2MjMtYjVlNy00Y2E3LTgzM2EtNDA0NTUzZmQxZjY3XkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/8413.webp",
+    "imdb_rating": "6.6",
+    "imdb_votes": "212,612",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Event_Horizon_(film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/8413.txt",
+    "plot_year_start": 2047,
+    "plot_year_end": 2047,
+    "epoch": "future-world",
+    "action_countries": [
+      "UNKNOWN"
+    ],
+    "action_continents": [
+      "UNKNOWN"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "space travel opening new human frontiers",
+        "description": "Voyages beyond Earth are no longer rare wonders but the chief means by which people seek land, safety, knowledge, and a future for their kind. What you'll see: launch gantries, long-haul starships, cryosleep chambers, colony transports, lunar mines, Mars habitats, and maps that treat whole planets as destinations.",
+        "icon": "🚀"
+      }
+    ]
+  },
+  {
+    "movie_id": 505914,
+    "movie_idx": 4888,
+    "imdb_id": "tt5215088",
+    "title": "A.I. Rising",
+    "production_year": "2018",
+    "genre": "Drama, Romance, Sci-Fi",
+    "plot": "Ederlezi Rising is an exciting science fiction romance set in near future about the pioneering space mission to Alpha Centauri undertaken by the multinational Ederlezi Corporation. Ederlezi recruits Milutin a Slav cosmonaut trained in the newly reformed futuristic Soviet Union and accompanies him with Nimani, a female android programmed to fulfill whatever he desires.",
+    "runtime": "85 min",
+    "director": "Lazar Bodroza",
+    "actors": "Sebastian Cavazza, Stoya, Marusa Majer",
+    "production_country": "Serbia",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNDNiY2IwYjktZGI0Yi00MzU3LTlhNjYtMTlmNzgxMzdlMGQ1XkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/505914.webp",
+    "imdb_rating": "4.9",
+    "imdb_votes": "11,901",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/A.I._Rising",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/505914.txt",
+    "plot_year_start": 2148,
+    "plot_year_end": 2148,
+    "epoch": "future-world",
+    "action_countries": [
+      "UNKNOWN"
+    ],
+    "action_continents": [
+      "UNKNOWN"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "space travel opening new human frontiers",
+        "description": "Voyages beyond Earth are no longer rare wonders but the chief means by which people seek land, safety, knowledge, and a future for their kind. What you'll see: launch gantries, long-haul starships, cryosleep chambers, colony transports, lunar mines, Mars habitats, and maps that treat whole planets as destinations.",
+        "icon": "🚀"
+      },
+      {
+        "label": "thinking machines serving and unsettling humans",
+        "description": "Robots, ship minds, drones, and crafted intelligences are woven into labor, travel, care, and command, even as people fear what such creations may become. What you'll see: repair bots, household automata, armed drones, synthetic companions, strict machine protocols, silent server spaces, and arguments over whether a made mind is merely a tool.",
+        "icon": "🤖"
+      }
+    ]
+  },
+  {
+    "movie_id": 681887,
+    "movie_idx": 4970,
+    "imdb_id": "tt11762434",
+    "title": "Cosmic Sin",
+    "production_year": "2021",
+    "genre": "Action, Sci-Fi",
+    "plot": "In the year 2524, four centuries after humans started colonizing the outer planets, retired Gen. James Ford gets called back into service after a hostile alien fleet attacks soldiers on a remote planet. The threat against mankind soon escalates into an interstellar war as Ford and a team of elite soldiers try to stop the imminent attack before it's too late.",
+    "runtime": "88 min",
+    "director": "Edward Drake",
+    "actors": "Frank Grillo, Bruce Willis, Brandon Thomas Lee",
+    "production_country": "United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BODI4MTg1NDMtNTg2MC00MjQwLThjNDUtMzk3MjkyNjc5OGMyXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/681887.webp",
+    "imdb_rating": "2.5",
+    "imdb_votes": "15,715",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Cosmic_Sin",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/681887.txt",
+    "plot_year_start": 2524,
+    "plot_year_end": 2524,
+    "epoch": "future-world",
+    "action_countries": [
+      "UNKNOWN"
+    ],
+    "action_continents": [
+      "UNKNOWN"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "war making whole societies martial",
+        "description": "Alien threats, machine enemies, and struggles among human powers push government and daily custom toward drill, command, sacrifice, and readiness for battle. What you'll see: uniforms everywhere, cadet schools, fleet briefings, orbital defenses, propaganda screens, troop transports, and civilians taught to think in terms of survival campaigns.",
+        "icon": "🪖"
+      },
+      {
+        "label": "humanity meeting rival and neighboring species",
+        "description": "The wider cosmos is peopled by other beings, so trade, hatred, curiosity, and uneasy fellowship shape the political order as much as purely human concerns do. What you'll see: alien languages, mixed-species cities, first-contact rituals, occupied worlds, sacred ruins of older races, and battle lines or marketplaces where very different peoples share space.",
+        "icon": "👽"
+      }
+    ]
+  },
+  {
+    "movie_id": 715658,
+    "movie_idx": 6127,
+    "imdb_id": "tt7741388",
+    "title": "The Scientist",
+    "production_year": "2020",
+    "genre": "Horror",
+    "plot": "A haunting psychological thriller about an unconventional scientist, Steve Unger, who struggles to care for his terminally-ill wife Darlene, who only has but a few weeks left to live. While trying to stay strong for his wife and 10-year-old daughter Lily, Steve hastily embarks on a journey to develop a cure to fix Darlene and keep his family together. Ignoring all legal and moral boundaries in search for his cure, his methods of treatment and tampering with human DNA, could lead to the extinction of humanity.",
+    "runtime": "93 min",
+    "director": "Derrick Granado",
+    "actors": "Daniel B. Davis, Shannon Denay, David Dittmeier",
+    "production_country": "United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BOWM5Mzk5YjQtZjNiNi00M2I5LWIxOTktYmExMDUzNGZjYjEzXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/715658.webp",
+    "imdb_rating": "2.9",
+    "imdb_votes": "309",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Archive_(film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/715658.txt",
+    "plot_year_start": 2038,
+    "plot_year_end": 2038,
+    "epoch": "future-world",
+    "action_countries": [
+      "UNKNOWN"
+    ],
+    "action_continents": [
+      "UNKNOWN"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "thinking machines serving and unsettling humans",
+        "description": "Robots, ship minds, drones, and crafted intelligences are woven into labor, travel, care, and command, even as people fear what such creations may become. What you'll see: repair bots, household automata, armed drones, synthetic companions, strict machine protocols, silent server spaces, and arguments over whether a made mind is merely a tool.",
+        "icon": "🤖"
+      },
+      {
+        "label": "science remaking bodies and bloodlines",
+        "description": "Medicine and statecraft alike reach deep into the flesh through cloning, altered genes, cybernetic bodies, suspended life, and engineered adaptation to harsh worlds. What you'll see: lab vats, memory copies, prosthetic limbs, gene trials, revived bodies, military enhancement schemes, and doctors speaking of the body as something that can be redesigned.",
+        "icon": "🧬"
+      }
+    ]
+  },
+  {
+    "movie_id": 193,
+    "movie_idx": 6711,
+    "imdb_id": "tt0111280",
+    "title": "Star Trek: Generations",
+    "production_year": "1994",
+    "genre": "Action, Adventure, Mystery",
+    "plot": "In the late twenty-third century, the gala maiden voyage of the newly-christened U.S.S. Enterprise NCC-1701-B boasts such luminaries as Pavel Chekov, Montgomery Scott, and the legendary Captain James T. Kirk as guests. But her maiden voyage turns into a disaster as the unprepared starship is forced to rescue two transport ships from a mysterious energy ribbon. The Enterprise manages to save a handful of the ships' passengers and barely succeeds out intact, but at the cost of Captain Kirk's life. Seventy-eight years later, Captain Jean-Luc Picard and the U.S.S. Enterprise NCC-1701-D crew find themselves at odds with renegade scientist Dr. Tolian Soran, who is destroying entire star systems. Only one man can help Picard stop Soran's scheme, and he has been dead for seventy-eight years.",
+    "runtime": "118 min",
+    "director": "David Carson",
+    "actors": "Patrick Stewart, William Shatner, Malcolm McDowell",
+    "production_country": "United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNDFjYmFmNmItODM5Ny00YzhlLWEzNjEtNTBlNjRiN2RlYTRhXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/193.webp",
+    "imdb_rating": "6.6",
+    "imdb_votes": "90,576",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Star_Trek_Generations",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/193.txt",
+    "plot_year_start": 2293,
+    "plot_year_end": 2371,
+    "epoch": "future-world",
+    "action_countries": [
+      "UNKNOWN"
+    ],
+    "action_continents": [
+      "UNKNOWN"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Star Trek Universe",
+    "categories": [
+      {
+        "label": "space travel opening new human frontiers",
+        "description": "Voyages beyond Earth are no longer rare wonders but the chief means by which people seek land, safety, knowledge, and a future for their kind. What you'll see: launch gantries, long-haul starships, cryosleep chambers, colony transports, lunar mines, Mars habitats, and maps that treat whole planets as destinations.",
+        "icon": "🚀"
+      }
+    ]
+  },
+  {
+    "movie_id": 476926,
+    "movie_idx": 6968,
+    "imdb_id": "tt4986098",
+    "title": "The Titan",
+    "production_year": "2018",
+    "genre": "Drama, Mystery, Romance",
+    "plot": "A military family takes part in a ground-breaking experiment of genetic evolution and space exploration.",
+    "runtime": "97 min",
+    "director": "Lennart Ruff",
+    "actors": "Sam Worthington, Taylor Schilling, Tom Wilkinson",
+    "production_country": "United Kingdom, Spain, United States, Germany",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjE4NDc5MDU2NV5BMl5BanBnXkFtZTgwNDI1ODEyNTM@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/476926.webp",
+    "imdb_rating": "4.8",
+    "imdb_votes": "34,960",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Titan_(film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/476926.txt",
+    "plot_year_start": 2048,
+    "plot_year_end": 2048,
+    "epoch": "future-world",
+    "action_countries": [
+      "UNKNOWN"
+    ],
+    "action_continents": [
+      "UNKNOWN"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "earth left scarred by human ruin",
+        "description": "Many of these futures begin after Earth has been spoiled by war, poison, flood, frost, waste, or failing skies, so ordinary life unfolds amid a damaged home world. What you'll see: buried cities, ash deserts, frozen plains, drowned coasts, toxic wilds, derelict ruins, and survivors treating clean air, heat, water, and soil as precious things.",
+        "icon": "🏚️"
+      },
+      {
+        "label": "science remaking bodies and bloodlines",
+        "description": "Medicine and statecraft alike reach deep into the flesh through cloning, altered genes, cybernetic bodies, suspended life, and engineered adaptation to harsh worlds. What you'll see: lab vats, memory copies, prosthetic limbs, gene trials, revived bodies, military enhancement schemes, and doctors speaking of the body as something that can be redesigned.",
+        "icon": "🧬"
+      }
+    ]
+  },
+  {
+    "movie_id": 11864,
+    "movie_idx": 7577,
+    "imdb_id": "tt0089092",
+    "title": "Enemy Mine",
+    "production_year": "1985",
+    "genre": "Action, Adventure, Drama",
+    "plot": "At the height of the devastating intergalactic war between humans and the bipedal reptilian humanoids known as Dracs, the earthling single-seat fighter pilot, Willis Davidge, and the saurian pilot, Jeriba Shigan, engage in a furious dogfight. As both sworn enemies crash-land on the desolate, inhospitable planet, Fyrine IV, they will have to put aside their hatred for each other, share knowledge and experience to fight the forces of nature and, above all, work in unison to survive. Can their forced coexistence and uneasy camaraderie pave the way for a genuine inter-species friendship?",
+    "runtime": "108 min",
+    "director": "Wolfgang Petersen",
+    "actors": "Dennis Quaid, Louis Gossett Jr., Brion James",
+    "production_country": "United Kingdom, West Germany, United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYjBjYzc3MTgtNTI2YS00YzNjLWEzM2YtMDQxYTU3YzE0OTkxXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/11864.webp",
+    "imdb_rating": "6.8",
+    "imdb_votes": "53,637",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Enemy_Mine_(film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/11864.txt",
+    "plot_year_start": 2092,
+    "plot_year_end": 2095,
+    "epoch": "future-world",
+    "action_countries": [
+      "UNKNOWN"
+    ],
+    "action_continents": [
+      "UNKNOWN"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "humanity meeting rival and neighboring species",
+        "description": "The wider cosmos is peopled by other beings, so trade, hatred, curiosity, and uneasy fellowship shape the political order as much as purely human concerns do. What you'll see: alien languages, mixed-species cities, first-contact rituals, occupied worlds, sacred ruins of older races, and battle lines or marketplaces where very different peoples share space.",
+        "icon": "👽"
+      }
+    ]
+  },
+  {
+    "movie_id": 183392,
+    "movie_idx": 7583,
+    "imdb_id": "tt1778212",
+    "title": "Capturing Avatar",
+    "production_year": "2010",
+    "genre": "Documentary",
+    "plot": "James Cameron always had an intense interest in the woods and the dwellers that might live within them. He wanted to delve deeply into the world of visual effects and what could be accomplished or even tried. There are four parts that capture this documentary in all of its areas of creation. Part One - (27:08); Part Two - (27:18); Part Three - (24:07); and Part Four - (19:52)",
+    "runtime": "98 min",
+    "director": "Laurent Bouzereau",
+    "actors": "James Cameron, Jon Landau, James Gianopulos, Yuri Bartoli",
+    "production_country": "USA",
+    "poster": "https://m.media-amazon.com/images/M/MV5BOGFkNWUzOWEtNjY0Ny00NGI0LWE5ZDktNGE0MTBkYTM4MjFjXkEyXkFqcGdeQXVyMjQ5NjgwMjA@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/183392.webp",
+    "imdb_rating": "8.0",
+    "imdb_votes": "76",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Avatar_(2009_film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/183392.txt",
+    "plot_year_start": 2140,
+    "plot_year_end": 2154,
+    "epoch": "future-world",
+    "action_countries": [
+      "UNKNOWN"
+    ],
+    "action_continents": [
+      "UNKNOWN"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "science remaking bodies and bloodlines",
+        "description": "Medicine and statecraft alike reach deep into the flesh through cloning, altered genes, cybernetic bodies, suspended life, and engineered adaptation to harsh worlds. What you'll see: lab vats, memory copies, prosthetic limbs, gene trials, revived bodies, military enhancement schemes, and doctors speaking of the body as something that can be redesigned.",
+        "icon": "🧬"
+      },
+      {
+        "label": "space travel opening new human frontiers",
+        "description": "Voyages beyond Earth are no longer rare wonders but the chief means by which people seek land, safety, knowledge, and a future for their kind. What you'll see: launch gantries, long-haul starships, cryosleep chambers, colony transports, lunar mines, Mars habitats, and maps that treat whole planets as destinations.",
+        "icon": "🚀"
+      }
+    ]
+  },
+  {
+    "movie_id": 606234,
+    "movie_idx": 8516,
+    "imdb_id": "tt6882604",
+    "title": "Archive",
+    "production_year": "2020",
+    "genre": "Drama, Mystery, Sci-Fi",
+    "plot": "2038: George Almore is working on a true human-equivalent AI. His latest prototype is almost ready. This sensitive phase is also the riskiest. Especially as he has a goal that must be hidden at all costs.",
+    "runtime": "109 min",
+    "director": "Gavin Rothery",
+    "actors": "Theo James, Stacy Martin, Rhona Mitra",
+    "production_country": "United Kingdom, Hungary, United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZjMxZjkxNjctNzFkOS00NjhhLWIxODUtMTdhZWQ1OGY5YzVlXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/606234.webp",
+    "imdb_rating": "6.4",
+    "imdb_votes": "29,070",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Archive_(film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/606234.txt",
+    "plot_year_start": 2038,
+    "plot_year_end": 2038,
+    "epoch": "future-world",
+    "action_countries": [
+      "UNKNOWN"
+    ],
+    "action_continents": [
+      "UNKNOWN"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "thinking machines serving and unsettling humans",
+        "description": "Robots, ship minds, drones, and crafted intelligences are woven into labor, travel, care, and command, even as people fear what such creations may become. What you'll see: repair bots, household automata, armed drones, synthetic companions, strict machine protocols, silent server spaces, and arguments over whether a made mind is merely a tool.",
+        "icon": "🤖"
+      },
+      {
+        "label": "science remaking bodies and bloodlines",
+        "description": "Medicine and statecraft alike reach deep into the flesh through cloning, altered genes, cybernetic bodies, suspended life, and engineered adaptation to harsh worlds. What you'll see: lab vats, memory copies, prosthetic limbs, gene trials, revived bodies, military enhancement schemes, and doctors speaking of the body as something that can be redesigned.",
+        "icon": "🧬"
+      }
+    ]
+  },
+  {
+    "movie_id": 111332,
+    "movie_idx": 8918,
+    "imdb_id": "tt1599280",
+    "title": "Avatar: Creating the World of Pandora",
+    "production_year": "2010",
+    "genre": "Documentary",
+    "plot": "N/A",
+    "runtime": "23 min",
+    "director": "Thomas C. Grane",
+    "actors": "Laz Alonso, Richard Baneham, Christopher Boyes",
+    "production_country": "United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNWE4MGY2YjgtYzU2YS00YmRkLWI3ZmYtN2ZiMmMwMTEwZDBiXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/111332.webp",
+    "imdb_rating": "7.4",
+    "imdb_votes": "194",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Avatar_(2009_film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/111332.txt",
+    "plot_year_start": 2154,
+    "plot_year_end": 2154,
+    "epoch": "future-world",
+    "action_countries": [
+      "UNKNOWN"
+    ],
+    "action_continents": [
+      "UNKNOWN"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Avatar Universe",
+    "categories": [
+      {
+        "label": "wealth and comfort divided by enclosure",
+        "description": "These futures often sort people into protected abundance and exposed want, with privilege gathered in high stations, guarded centers, or better decks while others endure the margins. What you'll see: gleaming upper levels, crowded lower quarters, salvage markets, luxury transport, labor colonies, hidden service passages, and social rank built into the very architecture.",
+        "icon": "🏙️"
+      },
+      {
+        "label": "humanity meeting rival and neighboring species",
+        "description": "The wider cosmos is peopled by other beings, so trade, hatred, curiosity, and uneasy fellowship shape the political order as much as purely human concerns do. What you'll see: alien languages, mixed-species cities, first-contact rituals, occupied worlds, sacred ruins of older races, and battle lines or marketplaces where very different peoples share space.",
+        "icon": "👽"
+      }
+    ]
+  },
+  {
+    "movie_id": 430474,
+    "movie_idx": 9147,
+    "imdb_id": "tt4105584",
+    "title": "Deep",
+    "production_year": "2017",
+    "genre": "Animation, Adventure, Comedy",
+    "plot": "In 2100, when humanity has abandoned the earth, a colony of extravagant creatures still thrives in the deepest abyss of the ocean. Deep, an adventurous \"dumbo\" octopus and the last one of his kind lives there with his two unconditional friends: Evo, a nerdy and clumsy angler fish, and Alice, a neurotic deep-sea shrimp. When an accident destroys their home, the guardian of the abyss, The Kraken, will send Deep and his friends on a perilous journey to find a new home. In their mission, they will be joined by Maura -a voracious moray eel- and together they will travel to amazing places like the submerged city of New York, the Titanic or the Arctic, facing formidable enemies and hilarious situations. Will they be able to bring the oceans back to their former glory?",
+    "runtime": "92 min",
+    "director": "Julio Soto Gurpide",
+    "actors": "Justin Felbinger, Stephen Hughes, Lindsey Alena",
+    "production_country": "Spain, Belgium, Switzerland, China, United Kingdom",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZDgzNzg1ZDMtYjRlNS00NmQ1LTlmMTctZjAwOTk3NjY4ZWI3XkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/430474.webp",
+    "imdb_rating": "4.2",
+    "imdb_votes": "1,707",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Deep_(2017_film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/430474.txt",
+    "plot_year_start": 2100,
+    "plot_year_end": 2100,
+    "epoch": "future-world",
+    "action_countries": [
+      "UNKNOWN"
+    ],
+    "action_continents": [
+      "UNKNOWN"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "earth left scarred by human ruin",
+        "description": "Many of these futures begin after Earth has been spoiled by war, poison, flood, frost, waste, or failing skies, so ordinary life unfolds amid a damaged home world. What you'll see: buried cities, ash deserts, frozen plains, drowned coasts, toxic wilds, derelict ruins, and survivors treating clean air, heat, water, and soil as precious things.",
+        "icon": "🏚️"
+      },
+      {
+        "label": "space travel opening new human frontiers",
+        "description": "Voyages beyond Earth are no longer rare wonders but the chief means by which people seek land, safety, knowledge, and a future for their kind. What you'll see: launch gantries, long-haul starships, cryosleep chambers, colony transports, lunar mines, Mars habitats, and maps that treat whole planets as destinations.",
+        "icon": "🚀"
+      }
+    ]
+  },
+  {
+    "movie_id": 399612,
+    "movie_idx": 9766,
+    "imdb_id": "tt4074928",
+    "title": "Realive",
+    "production_year": "2016",
+    "genre": "Drama, Sci-Fi",
+    "plot": "Marc (Tom Hughes) is diagnosed with a disease and is given one year left to live. Unable to accept his own end, he decides to freeze his body. Sixty years later, in the year 2084, he becomes the first man to be revived in history. It is then he discovers that the love of his life, Naomi (Oona Chaplin), has accompanied him this entire time in a way that he'd never expected.",
+    "runtime": "112 min",
+    "director": "Mateo Gil",
+    "actors": "Oona Chaplin, Barry Ward, Tom Hughes",
+    "production_country": "Belgium, Spain, France",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjAwNzA4OTE0Ml5BMl5BanBnXkFtZTgwODg3NTczMzI@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/399612.webp",
+    "imdb_rating": "5.9",
+    "imdb_votes": "5,615",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Realive",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/399612.txt",
+    "plot_year_start": 2024,
+    "plot_year_end": 2084,
+    "epoch": "future-world",
+    "action_countries": [
+      "UNKNOWN"
+    ],
+    "action_continents": [
+      "UNKNOWN"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "science remaking bodies and bloodlines",
+        "description": "Medicine and statecraft alike reach deep into the flesh through cloning, altered genes, cybernetic bodies, suspended life, and engineered adaptation to harsh worlds. What you'll see: lab vats, memory copies, prosthetic limbs, gene trials, revived bodies, military enhancement schemes, and doctors speaking of the body as something that can be redesigned.",
+        "icon": "🧬"
+      },
+      {
+        "label": "states managing life with hard rules",
+        "description": "Scarcity and fear give authorities cause to regulate births, movement, identity, memory, and information with a firm hand, often in the name of order or survival. What you'll see: identity checks, monitored apartments, official decrees, restricted records, one-child edicts, hidden archives, and bureaucracies deciding who may live where and as whom.",
+        "icon": "🪪"
+      }
+    ]
+  }
+]

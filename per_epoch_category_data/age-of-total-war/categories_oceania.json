@@ -1,0 +1,106 @@
+{
+  "epoch": "age-of-total-war",
+  "continent": "oceania",
+  "sample_size": 5,
+  "sample": [
+    {
+      "title": "Shadow in the Cloud",
+      "years": "1943..1943",
+      "countries": [
+        "NZ",
+        "UNKNOWN"
+      ],
+      "plot": "On a stormy night during World War II, a female pilot with top secret cargo talks her way on board a bomber plane about to take-off. The crass all-male crew reluctantly agrees, but their suspicions about her identity and the mysterious cargo quickly grow. Just then a shadow appears in the clouds - was it the incoming Japanese fleet? Or caused by some other sinister stowaway?"
+    },
+    {
+      "title": "The Light Between Oceans",
+      "years": "1918..1950",
+      "countries": [
+        "AU"
+      ],
+      "plot": "Tom, a war weary man takes a job as a lighthouse keeper on an island for the solitude. He meets a beautiful young woman, Isabelle and they eventually marry. One day they see a small dingy with an infant and man inside floating in the ocean. They rush to rescue them only to find the man is dead. They struggle over the decision to report it and whether to keep the baby. Heartbroken because she had already had miscarriages twice, Isabelle persuades Tom not to tell anyone about this and leave the girl to herself as if it were their child. He buries the man on the island, and the couple names the girl Lucy. He succumbs to her persuasion just to make her happy. It's only years later that they discover that the child still has a mother looking for her."
+    },
+    {
+      "title": "Australia",
+      "years": "1939..1942",
+      "countries": [
+        "AU"
+      ],
+      "plot": "In northern Australia at the beginning of World War II, an English aristocrat inherits a cattle station the size of Maryland. When English cattle barons plot to take her land, she reluctantly joins forces with a rough stock-man to drive 2,000 head of cattle across hundreds of miles of the country's most unforgiving land, only to still face the bombing of Darwin by the Japanese forces that had attacked Pearl Harbor only months earlier."
+    },
+    {
+      "title": "The Dressmaker",
+      "years": "1926..1926",
+      "countries": [
+        "AU",
+        "FR"
+      ],
+      "plot": "Based on Rosalie Ham's best selling novel, The Dressmaker is the story of femme fatale Tilly Dunnage who returns to her small home town in the country to right the wrongs of the past. A stylish drama with comic undertones about love, revenge and haute couture."
+    },
+    {
+      "title": "The Thin Red Line",
+      "years": "1942..1942",
+      "countries": [
+        "SB"
+      ],
+      "plot": "U.S. Army Private Witt (AWOL) is found and imprisoned on a troop carrier by his company First Sergeant, Welsh.The men of C Company,1st Battalion,27th Infantry Regiment,25th Infantry Division have been brought to Guadalcanal as reinforcements in the campaign to secure Henderson Field and seize the island from the Japanese. They arrive near Hill 210, a key Japanese position. Their task is to capture the hill at all costs. What happens next is a story of redemption and the meaninglessness of war. Regardless of the outcome."
+    }
+  ],
+  "categories": [
+    {
+      "label": "far-flung settlements tied by sea routes",
+      "description": "Across Oceania, towns, islands, and stations sit at great distances from one another, with ships and small craft carrying mail, goods, and news between them. What you'll see: harbours, dinghies, cargo runs, isolated jetties, and the long wait for something to appear on the horizon.",
+      "icon": "⚓"
+    },
+    {
+      "label": "islands and outback living on isolation",
+      "description": "Much of daily life unfolds in places cut off by distance, weather, and poor communications, so households and crews must make do with what is at hand. What you'll see: lonely lighthouses, remote cattle country, rough island posts, empty roads, and silence broken by wind and surf.",
+      "icon": "🏜️"
+    },
+    {
+      "label": "war reaching even distant ocean frontiers",
+      "description": "The global war overturns the old sense that Australia and the Pacific are safely removed from the great powers' battles. What you'll see: air raids, troop carriers, military aircraft, anxious talk of Japanese advance, and civilian places suddenly made vulnerable.",
+      "icon": "💣"
+    },
+    {
+      "label": "armed forces ruling by strict chain of command",
+      "description": "Military life is ordered through rank, discipline, and obedience, with men moved and expended according to plans made far above them. What you'll see: troop ships, bomber crews, shouted orders, punishments, drills, and officers directing men through danger.",
+      "icon": "🪖"
+    },
+    {
+      "label": "aircraft and radio shrinking great distances",
+      "description": "New machines of war and communication bind scattered places together more quickly, even as they bring danger from afar. What you'll see: bomber interiors, crackling wireless sets, flight gear, coded messages, and news or commands arriving over the air.",
+      "icon": "📻"
+    },
+    {
+      "label": "cattle stations feeding coastal markets",
+      "description": "Northern and rural Australia still rests on pastoral wealth, with vast holdings, droving, and ownership of stock shaping power and livelihood. What you'll see: herds on the move, stockmen at work, station homesteads, dusty yards, and arguments over land and cattle.",
+      "icon": "🐄"
+    },
+    {
+      "label": "small towns policed by gossip and reputation",
+      "description": "In country communities, everyone knows family history, old scandals linger, and social standing can be as binding as any formal law. What you'll see: main streets, churchgoing respectability, sidelong looks, whispered judgments, and long memories governing daily dealings.",
+      "icon": "🏘️"
+    },
+    {
+      "label": "british ways lingering at the empire's edge",
+      "description": "Even far from London, manners, property, and public life still bear the stamp of British rule and inherited social distinction. What you'll see: clipped speech, deference to class, colonial officials, inherited estates, and local people measuring themselves against imperial standards.",
+      "icon": "🎩"
+    },
+    {
+      "label": "women pushing against male preserves",
+      "description": "Workplaces and public authority remain strongly male, yet the strains of the age make women's competence harder to ignore. What you'll see: suspicion toward women in uniform or skilled trades, cramped masculine spaces, and women forcing entry into roles not readily given them.",
+      "icon": "👩‍✈️"
+    },
+    {
+      "label": "christian moral order shaping private choices",
+      "description": "Marriage, legitimacy, burial, sin, and forgiveness are understood through a Christian frame that still governs respectable life. What you'll see: church interiors, hymns, grave rites, wedding vows, moral shame, and households struggling under the weight of conscience.",
+      "icon": "⛪"
+    },
+    {
+      "label": "Aboriginal people living under settler rule",
+      "description": "In Australia, Indigenous lives are constrained by a settler order that claims the land, ranks people by race, and treats kinship as something authorities may override. What you'll see: segregated camps and homesteads, official interference, mixed households under strain, and everyday signs of unequal standing.",
+      "icon": "🪃"
+    }
+  ]
+}

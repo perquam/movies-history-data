@@ -1,0 +1,48 @@
+[
+  {
+    "movie_id": 9036,
+    "movie_idx": 4976,
+    "imdb_id": "tt0397313",
+    "title": "Eight Below",
+    "production_year": "2006",
+    "genre": "Adventure, Drama, Family",
+    "plot": "In the Antarctic, after an expedition with Dr. Davis McClaren, the sled dog trainer Jerry Shepherd has to leave the polar base with his colleagues due to the proximity of a heavy snow storm. He ties his dogs to be rescued after, but the mission is called-off and the dogs are left alone at their own fortune. For six months, Jerry tries to find a sponsor for a rescue mission while his dogs fight for survival.",
+    "runtime": "120 min",
+    "director": "Frank Marshall",
+    "actors": "Paul Walker, Jason Biggs, Bruce Greenwood",
+    "production_country": "United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjExMjAwNzE0N15BMl5BanBnXkFtZTYwMDY4NDk2._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/9036.webp",
+    "imdb_rating": "7.3",
+    "imdb_votes": "71,430",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Eight_Below",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/9036.txt",
+    "plot_year_start": 1993,
+    "plot_year_end": 1993,
+    "epoch": "the-nineties",
+    "action_countries": [
+      "AQ",
+      "NZ",
+      "US"
+    ],
+    "action_continents": [
+      "Antarctica",
+      "Oceania",
+      "North America"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "survival governed by savage polar weather",
+        "description": "Life on the ice is ruled by blizzards, killing cold, and sudden whiteout conditions that can halt all travel and force hard decisions. What you'll see: screaming wind, drifting snow burying equipment, frost-rimed clothing, and people watching the sky and forecasts with constant caution.",
+        "icon": "🌨️"
+      },
+      {
+        "label": "distance making rescue painfully difficult",
+        "description": "The continent's great emptiness means help is far away, transport is limited, and even small emergencies can become grave because relief cannot come quickly. What you'll see: long stretches of blank ice, delayed departures, anxious radio calls, and plans changing because the outside world is too distant to reach in time.",
+        "icon": "🆘"
+      }
+    ]
+  }
+]

@@ -1,0 +1,35 @@
+[
+  {
+    "movie_id": 504631,
+    "movie_idx": 5341,
+    "imdb_id": "tt3584496",
+    "title": "Mermaid Down",
+    "production_year": "2019",
+    "genre": "Fantasy, Horror, Mystery",
+    "plot": "A mermaid is ripped from the Pacific, her tail is chopped off and she's thrown into a mental home where no one believes she is a mermaid.",
+    "runtime": "91 min",
+    "director": "Jeffrey Grellman",
+    "actors": "Alexandra Bokova, Meggan Kaiser, Burt Culver",
+    "production_country": "United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMDcwY2IwNDctMDdjMS00YTdjLWFiMGYtNjJiNDgyNTBhM2RhXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/504631.webp",
+    "imdb_rating": "4.3",
+    "imdb_votes": "11,384",
+    "epoch": "Unanchored Time",
+    "action_countries": [
+      "UNKNOWN",
+      "UNKNOWN"
+    ],
+    "action_continents": [
+      "Pacific Ocean",
+      "UNKNOWN"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "failures": {
+      "wikipedia": "no_wiki_article_found",
+      "time_range": "unanchored",
+      "categories": "missing_category_list"
+    }
+  }
+]

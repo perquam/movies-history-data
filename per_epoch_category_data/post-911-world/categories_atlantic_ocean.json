@@ -1,0 +1,62 @@
+{
+  "epoch": "post-911-world",
+  "continent": "atlantic_ocean",
+  "sample_size": 1,
+  "sample": [
+    {
+      "title": "Open Water",
+      "years": "2003..2003",
+      "countries": [
+        "UNKNOWN"
+      ],
+      "plot": "A couple on a holiday in the Caribbean decide to spend the day on a scuba diving trip. But was it the wrong decision? When a mis-count happens on the boat, Susan and Daniel are left behind in the middle of the ocean, the boat long gone. With all their hopes set on the boat coming back to rescue them, they try to keep themselves safe, especially when sharks start to appear."
+    }
+  ],
+  "categories": [
+    {
+      "label": "cheap air travel feeding island holidays",
+      "description": "Warm-water Atlantic islands and coasts are tied into a mass holiday economy that brings short-stay visitors from far away for sun, beaches, and packaged excursions. What you'll see: resort bracelets, day-trip bookings, airport-to-marina transfers, and tourists treating the sea as a leisure ground.",
+      "icon": "🏖️"
+    },
+    {
+      "label": "small charter boats serving tourist marinas",
+      "description": "Much of the sea-going trade around holiday coasts runs through modest private operators who carry visitors out for fishing, diving, and sightseeing under practical but uneven routines. What you'll see: crowded decks, gear piled in open boats, handwritten lists, dockside briefings, and crews working fast between trips.",
+      "icon": "🚤"
+    },
+    {
+      "label": "reef diving sold as ordinary recreation",
+      "description": "Scuba has become a purchasable pastime rather than a specialist pursuit, with lessons, rentals, and guided outings folded into the holiday trade. What you'll see: wetsuits and fins, oxygen tanks and weight belts, basic safety talks, and underwater sights treated as part of a vacation package.",
+      "icon": "🤿"
+    },
+    {
+      "label": "open sea still beyond quick rescue",
+      "description": "Even in an age of regular travel and modern equipment, the ocean remains a vast space where distance, weather, and simple oversight can leave people far from immediate help. What you'll see: empty horizons, boats shrinking from view, long waits for search craft, and the sense that land authority stops at the shoreline.",
+      "icon": "🌊"
+    },
+    {
+      "label": "safety depending on head counts and habit",
+      "description": "On casual commercial outings, order often rests on routine checks, crew memory, and ordinary discipline rather than fail-safe oversight. What you'll see: clipboards, verbal roll calls, hurried departures, assumptions that everyone is aboard, and small procedural lapses carrying grave weight.",
+      "icon": "📋"
+    },
+    {
+      "label": "marine life sharing waters with tourists",
+      "description": "The tropical Atlantic is both playground and habitat, and human recreation takes place in waters governed by reefs, currents, and predators rather than by human wishes. What you'll see: clear blue drop-offs, floating bait fish, circling sharks, shifting swells, and divers exposed within a living sea.",
+      "icon": "🦈"
+    },
+    {
+      "label": "holiday confidence meeting indifferent nature",
+      "description": "The leisure world promises ease, pleasure, and managed adventure, yet the natural setting remains unmoved by schedules, money, or expectation. What you'll see: relaxed vacation manners set against sun glare, fatigue, dehydration, rough water, and the sea's refusal to become safe just because it is being sold.",
+      "icon": "😎"
+    },
+    {
+      "label": "caribbean coasts shaped by visitor economies",
+      "description": "Many Atlantic island and rimland communities are organised around serving outsiders through lodging, boat hire, guided activities, and waterfront commerce. What you'll see: beach hotels, marina kiosks, excursion counters, dive shops, and local working rhythms built around tourist arrivals.",
+      "icon": "🏨"
+    },
+    {
+      "label": "personal gear as a thin shield",
+      "description": "Modern leisure at sea relies on portable equipment that extends human reach but offers only limited protection once conditions turn against the body. What you'll see: masks, snorkels, tanks, buoyancy vests, and sun gear functioning as meagre defenses against exhaustion, exposure, and deep water.",
+      "icon": "🦺"
+    }
+  ]
+}

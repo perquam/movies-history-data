@@ -1,0 +1,82 @@
+{
+  "epoch": "future-world",
+  "continent": "oceania",
+  "sample_size": 3,
+  "sample": [
+    {
+      "title": "2067",
+      "years": "2067..2474",
+      "countries": [
+        "AU"
+      ],
+      "plot": "A lowly utility worker is called to the future by a mysterious radio signal, he must leave his dying wife to embark on a journey that will force him to face his deepest fears in an attempt to change the fabric of reality and save humankind from its greatest environmental crisis yet."
+    },
+    {
+      "title": "Cloud Atlas",
+      "years": "1849..2321",
+      "countries": [
+        "NZ",
+        "GB",
+        "US",
+        "KR",
+        "US"
+      ],
+      "plot": "Everything is connected: an 1849 diary of an ocean voyage across the Pacific, letters from a composer to his lover, a thriller about a conspiracy at a nuclear power plant, a farce about a publisher in a nursing home;, a rebellious clone in futuristic Korea, and the tale of a tribe living on post-apocalyptic Hawaii far in the future."
+    },
+    {
+      "title": "Upgrade",
+      "years": "2046..2046",
+      "countries": [
+        "AU"
+      ],
+      "plot": "Grey's a stay-at-home mechanic, whose wife is Asha. One day, Grey asks Asha to help him return a car to his client. Whilst Grey and Asha's self-driving car malfunctions, it crashes. Grey watches helplessly as Asha bleeds to death next to him. Grey returns home - a widowed quadriplegic, under the care of his mother. His wife's death and the inability of police to identify their attackers cause him to sink into a depression. After a suicide attempt, he's offered to have high tech chip implanted - enabling him to walk. Though initially hesitant, he's persuaded to have the surgery."
+    }
+  ],
+  "categories": [
+    {
+      "label": "climate damage remaking the land",
+      "description": "The natural world has been pushed into crisis, making breathable air, fertile ground, and stable seasons uncertain parts of life. What you'll see: red dust, failing crops, sealed interiors, improvised masks, and landscapes marked by ruin and scarcity.",
+      "icon": "🏜️"
+    },
+    {
+      "label": "machines woven into ordinary routines",
+      "description": "Advanced devices are not rare wonders but fixtures of transport, work, medicine, and the home. What you'll see: self-driving cars, talking systems, automated doors, diagnostic screens, and people moving through spaces built around constant machine service.",
+      "icon": "🤖"
+    },
+    {
+      "label": "human bodies altered by implanted craft",
+      "description": "The boundary between flesh and device has grown thin, with implanted mechanisms used to restore movement, sharpen ability, or extend control. What you'll see: surgical interfaces, hidden chips, body-scanning equipment, and people treating enhancement as a practical answer to injury or weakness.",
+      "icon": "🦾"
+    },
+    {
+      "label": "remote powers steering everyday lives",
+      "description": "Large systems of authority shape ordinary existence from a distance, whether through technical oversight, secretive planning, or commands carried across time. What you'll see: monitored spaces, controlled access, cryptic transmissions, and individuals hemmed in by decisions made elsewhere.",
+      "icon": "🛰️"
+    },
+    {
+      "label": "survival depending on fragile resources",
+      "description": "Basic continuance rests on supplies that can fail, be rationed, or be monopolised when the wider world is under strain. What you'll see: concern over air, energy, food, and water, along with storage rooms, failing infrastructure, and anxious talk about what remains.",
+      "icon": "🚰"
+    },
+    {
+      "label": "oceania split between enclaves and wastes",
+      "description": "The region appears as a patchwork of protected settlements, high-tech compounds, and exposed stretches where order has broken down. What you'll see: gleaming interiors set against harsh open country, guarded thresholds, isolated homesteads, and journeys across empty or dangerous ground.",
+      "icon": "🧱"
+    },
+    {
+      "label": "memory and record outlasting one lifetime",
+      "description": "In these futures, messages, archives, and traces of past lives carry unusual weight because they guide action long after their makers are gone. What you'll see: recorded voices, preserved documents, recovered data, and relics treated as keys to understanding the present world.",
+      "icon": "💾"
+    },
+    {
+      "label": "old belief returning after worldly collapse",
+      "description": "When advanced orders fail or become distant, people rebuild meaning through prophecy, omen, ritual, and reverence for half-understood remains. What you'll see: sacred storytelling, fearful respect for relics, warnings about forbidden knowledge, and communities reading destiny in the remnants around them.",
+      "icon": "🔮"
+    },
+    {
+      "label": "high craft beside broken public order",
+      "description": "Technical sophistication survives unevenly, so marvels of engineering exist alongside weak policing, social mistrust, and failing common institutions. What you'll see: elegant gadgets, advanced laboratories, underpowered authorities, vulnerable households, and streets where danger slips past the official watch.",
+      "icon": "⚗️"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "epoch": "platform-and-ai-world",
+  "continent": "antarctica",
+  "sample_size": 1,
+  "sample": [
+    {
+      "title": "A Frozen Rooster",
+      "years": "2022..2022",
+      "countries": [
+        "AQ",
+        "MX"
+      ],
+      "plot": "The movie centers on Toto's family journeying to the South Pole to return a polar bear and Spanish penguins home, facing obstacles that highlight the value of teamwork along the way."
+    }
+  ],
+  "categories": [
+    {
+      "label": "research stations surviving by constant resupply",
+      "description": "Antarctic life depends on supplies brought in from far away, because almost nothing needed for shelter, fuel, food, or medicine can be made there. What you'll see: cargo planes, icebreakers, packed storerooms, fuel drums, and every task measured against weather and limited provisions.",
+      "icon": "📦"
+    },
+    {
+      "label": "antarctica governed by treaties and science",
+      "description": "No single country rules the continent outright, and daily presence is shaped by international agreements that privilege research, cooperation, and protected zones. What you'll see: national flags at stations, scientists from different countries, mapped boundaries, and rules about where people may land, travel, or disturb the ground.",
+      "icon": "🤝"
+    },
+    {
+      "label": "distance bridged by satellites and screens",
+      "description": "Even at the end of the world, communication now leans on satellites, navigation systems, and networked devices that keep isolated people tied to wider systems. What you'll see: radio rooms, glowing monitors, tracked routes, weather updates, video calls, and digital maps guiding movement over empty white expanses.",
+      "icon": "🛰️"
+    },
+    {
+      "label": "ice and wind setting every timetable",
+      "description": "In Antarctica, weather is not background but the chief condition of movement, safety, and work, with storms and cold able to halt plans at once. What you'll see: whiteouts, heavy parkas, creaking ice, grounded aircraft, delayed departures, and people waiting for a safe break in the wind.",
+      "icon": "🌬️"
+    },
+    {
+      "label": "wildlife protected as part of shared stewardship",
+      "description": "Animals are treated less as local property than as species under international care, with strong expectations against harming breeding grounds and migration routes. What you'll see: penguin colonies, seals on the ice, marked-off areas, cautious human approach, and concern for returning animals to the right habitat.",
+      "icon": "🐧"
+    },
+    {
+      "label": "the south pole as remote world landmark",
+      "description": "The pole is both a real place and a symbolic destination, carrying the weight of exploration, endurance, and reaching the farthest edge of the map. What you'll see: ceremonial markers, endless white horizons, signs naming the pole, souvenir-style photo moments, and travel framed as arriving at Earth's extreme end.",
+      "icon": "📍"
+    },
+    {
+      "label": "daily life built inside artificial shelter",
+      "description": "Because the open environment is hostile, ordinary living happens in heated interiors where food, sleep, work, and repair are carefully managed. What you'll see: bunk rooms, mess halls, humming generators, drying gear, thick doors, and people moving quickly between insulated buildings.",
+      "icon": "🏠"
+    },
+    {
+      "label": "air and sea routes replacing roads",
+      "description": "There are no ordinary continental roads linking settlements, so travel depends on aircraft, ships, and carefully plotted surface crossings over ice. What you'll see: ski-equipped planes, helicopters, icebreakers, snow vehicles, marked tracks, and journeys planned around fuel range and landing conditions.",
+      "icon": "🛩️"
+    },
+    {
+      "label": "climate knowledge gathered from frozen landscapes",
+      "description": "Modern Antarctica is watched and studied as a key place for understanding weather, oceans, ice loss, and planetary change. What you'll see: measuring instruments, sample taking, observation towers, charts of temperature and wind, and a landscape treated as evidence as much as scenery.",
+      "icon": "🌡️"
+    },
+    {
+      "label": "multinational visitors moving through a thin human footprint",
+      "description": "Human presence on the continent is sparse and temporary, with crews, researchers, and occasional visitors passing through small enclaves in a vast unpeopled setting. What you'll see: compact stations in huge emptiness, mixed accents and uniforms, shared equipment, and tiny clusters of human activity against ice and sea.",
+      "icon": "👣"
+    }
+  ]
+}

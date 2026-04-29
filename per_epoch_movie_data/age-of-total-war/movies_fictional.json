@@ -1,0 +1,649 @@
+[
+  {
+    "movie_id": 10140,
+    "movie_idx": 1125,
+    "imdb_id": "tt0980970",
+    "title": "The Chronicles of Narnia: The Voyage of the Dawn Treader",
+    "production_year": "2010",
+    "genre": "Adventure, Family, Fantasy",
+    "plot": "Lucy and Edmund Pevensie are stranded in Cambridge, living in the house of their obnoxious cousin Eustace, while the grown-ups Susan and Peter are living in the USA with their parents. When a painting of a ship sailing on the sea of Narnia overflows water in their room, Lucy, Edmund and Eustace are transported to the ocean of Narnia and rescued by King Caspian and the crew of the ship The Dawn Treader. Caspian explains that Narnia has been in peace for three years but before he took his throne back, his uncle tried to kill the seven lords of Telmar, who were the closest and most loyal friends of his father. They fled to The Lone Island and no one has ever heard anything about them. Now Caspian is seeking out the lords of Telmar with his Captain Drinian, the talking mouse Reepicheep and his loyal men. Soon, they discover that an evil form of green mist is threatening Narnia and the siblings and their cousin join Caspian in a quest to retrieve the seven swords of the seven lords of Telmar to save Narnia from evil.",
+    "runtime": "113 min",
+    "director": "Michael Apted",
+    "actors": "Ben Barnes, Skandar Keynes, Georgie Henley",
+    "production_country": "United States, United Kingdom, Canada, Australia, Germany",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYjQ2YTdmMmEtZGRiZS00MTlmLThiMGMtYmM4MmRkMjkwZDNhXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/10140.webp",
+    "imdb_rating": "6.3",
+    "imdb_votes": "176,567",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Chronicles_of_Narnia:_The_Voyage_of_the_Dawn_Treader",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/10140.txt",
+    "plot_year_start": 1940,
+    "plot_year_end": 1940,
+    "epoch": "age-of-total-war",
+    "action_countries": [
+      "FICTIONAL"
+    ],
+    "action_continents": [
+      "FICTIONAL"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "FICTIONAL",
+    "quiz": [
+      {
+        "question": "What happens when the painting of the ship overflows in Lucy and Edmund's room?",
+        "type": "plot",
+        "options": {
+          "A": "They are trapped in the room until Caspian comes to rescue them.",
+          "B": "The painting turns into a map that leads them to the White Witch.",
+          "C": "Lucy, Edmund, and Eustace are pulled into Narnia and rescued by King Caspian and the Dawn Treader."
+        },
+        "correct": "C"
+      }
+    ],
+    "key_events": [
+      {
+        "event": "World War II",
+        "description": "The story opens with Peter and Susan in America while the war is raging in the background of the Pevensies' lives."
+      }
+    ],
+    "key_characters": [],
+    "failures": {
+      "categories": "missing_category_list"
+    }
+  },
+  {
+    "movie_id": 2454,
+    "movie_idx": 1211,
+    "imdb_id": "tt0499448",
+    "title": "The Chronicles of Narnia: Prince Caspian",
+    "production_year": "2008",
+    "genre": "Action, Adventure, Family",
+    "plot": "A year has passed by since the Pevensie children stepped through the wardrobe. In Narnia, centuries have passed since the defeat of the White Witch. Now the foursome are sent back to Narnia to find that everything was destroyed and the Narnia they once knew is gone forever. They come to aid the young Prince Caspian, who is leading a group of Old Narnians to wage war against his malicious uncle Miraz, who rules Narnia with an iron fist. Will they succeed? When will Aslan return?",
+    "runtime": "150 min",
+    "director": "Andrew Adamson",
+    "actors": "Ben Barnes, Skandar Keynes, Georgie Henley",
+    "production_country": "United States, Poland, Slovenia, Czech Republic, United Kingdom, Australia, Germany, New Zealand",
+    "poster": "https://m.media-amazon.com/images/M/MV5BOTBiYzYyYWYtYTZlMC00OGYyLTg1ZTYtYWU4OGY4NTRhMzg4XkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/2454.webp",
+    "imdb_rating": "6.5",
+    "imdb_votes": "238,224",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Chronicles_of_Narnia:_Prince_Caspian",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/2454.txt",
+    "plot_year_start": 1940,
+    "plot_year_end": 1940,
+    "epoch": "age-of-total-war",
+    "action_countries": [
+      "FICTIONAL"
+    ],
+    "action_continents": [
+      "FICTIONAL"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "quiz": [
+      {
+        "question": "Who do the Pevensie children return to Narnia to help fight against?",
+        "type": "plot",
+        "options": {
+          "A": "The White Witch",
+          "B": "Prince Caspian against his uncle Miraz",
+          "C": "A giant sea monster"
+        },
+        "correct": "B"
+      }
+    ],
+    "key_events": [],
+    "key_characters": [],
+    "failures": {
+      "categories": "missing_category_list"
+    }
+  },
+  {
+    "movie_id": 120467,
+    "movie_idx": 1542,
+    "imdb_id": "tt2278388",
+    "title": "The Grand Budapest Hotel",
+    "production_year": "2014",
+    "genre": "Comedy, Drama",
+    "plot": "This movie recounts the adventures of M. Gustave (Ralph Fiennes), a legendary concierge at a famous European hotel between the wars, and Zero Moustafa (Tony Revolori), the lobby boy who becomes his most trusted friend. The story involves the theft and recovery of a priceless Renaissance painting and the battle for an enormous family fortune - all against the backdrop of a suddenly and dramatically changing continent.",
+    "runtime": "99 min",
+    "director": "Wes Anderson",
+    "actors": "Ralph Fiennes, F. Murray Abraham, Mathieu Amalric",
+    "production_country": "United States, Germany",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMzM5NjUxOTEyMl5BMl5BanBnXkFtZTgwNjEyMDM0MDE@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/120467.webp",
+    "imdb_rating": "8.1",
+    "imdb_votes": "956,421",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Grand_Budapest_Hotel",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/120467.txt",
+    "plot_year_start": 1932,
+    "plot_year_end": 1932,
+    "epoch": "age-of-total-war",
+    "action_countries": [
+      "FICTIONAL"
+    ],
+    "action_continents": [
+      "FICTIONAL"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "quiz": [
+      {
+        "question": "What does Gustave and Zero spend much of the story trying to protect and recover?",
+        "type": "plot",
+        "options": {
+          "A": "A lost crown from the hotel basement",
+          "B": "A priceless Renaissance painting and a family fortune",
+          "C": "A secret map to a hidden mountain village"
+        },
+        "correct": "B"
+      }
+    ],
+    "key_events": [
+      {
+        "event": "Rise of fascism in Europe",
+        "description": "The hotel’s world is overtaken by an encroaching fascist regime and military occupation."
+      }
+    ],
+    "key_characters": [],
+    "failures": {
+      "categories": "missing_category_list"
+    }
+  },
+  {
+    "movie_id": 3034,
+    "movie_idx": 2954,
+    "imdb_id": "tt0072431",
+    "title": "Young Frankenstein",
+    "production_year": "1974",
+    "genre": "Comedy",
+    "plot": "A young neurosurgeon (Gene Wilder) inherits the castle of his grandfather, the famous Dr. Victor von Frankenstein. In the castle he finds a funny hunchback called Igor, a pretty lab assistant named Inga and the old housekeeper, frau Blucher -iiiiihhh!-. Young Frankenstein believes that the work of his grandfather is only crap, but when he discovers the book where the mad doctor described his reanimation experiment, he suddenly changes his mind...",
+    "runtime": "106 min",
+    "director": "Mel Brooks",
+    "actors": "Gene Wilder, Madeline Kahn, Marty Feldman",
+    "production_country": "United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTEwNjg2MjM2ODFeQTJeQWpwZ15BbWU4MDQ1MDU5OTEx._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/3034.webp",
+    "imdb_rating": "8.0",
+    "imdb_votes": "179,473",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Young_Frankenstein",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/3034.txt",
+    "plot_year_start": 1900,
+    "plot_year_end": 1930,
+    "epoch": "age-of-total-war",
+    "action_countries": [
+      "FICTIONAL"
+    ],
+    "action_continents": [
+      "FICTIONAL"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "quiz": [
+      {
+        "question": "What does Young Frankenstein discover in his grandfather’s castle that changes his mind about the old experiments?",
+        "type": "plot",
+        "options": {
+          "A": "A book describing the reanimation experiment",
+          "B": "A map to hidden treasure",
+          "C": "A letter telling him to leave the castle"
+        },
+        "correct": "A"
+      }
+    ],
+    "key_events": [],
+    "key_characters": [
+      {
+        "character": "Hans Delbrück",
+        "description": "Frederick orders his brain stolen and accidentally uses it in the Monster’s reanimation."
+      }
+    ],
+    "failures": {
+      "categories": "missing_category_list"
+    }
+  },
+  {
+    "movie_id": 776835,
+    "movie_idx": 3059,
+    "imdb_id": "tt2560092",
+    "title": "The Magician's Elephant",
+    "production_year": "2023",
+    "genre": "Animation, Adventure, Comedy",
+    "plot": "follows Peter, who is searching for his long-lost sister. When he crosses paths with a fortune teller in the market square, he want to know, is his sister still alive? To get the answer, he must find a mysterious elephant and the magician who will conjure it, setting Peter off on a journey to complete three seemingly impossible tasks that will change the face of his town.",
+    "runtime": "99 min",
+    "director": "Wendy Rogers",
+    "actors": "Noah Jupe, Mandy Patinkin, Brian Tyree Henry",
+    "production_country": "United States, Australia",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMzc5ZjMxZmQtNTg5Ny00NjBlLWI3YzctMDA0ODFjNDY1ODAzXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/776835.webp",
+    "imdb_rating": "6.6",
+    "imdb_votes": "6,572",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Magician%27s_Elephant_(film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/776835.txt",
+    "plot_year_start": 1918,
+    "plot_year_end": 1918,
+    "epoch": "age-of-total-war",
+    "action_countries": [
+      "FICTIONAL"
+    ],
+    "action_continents": [
+      "FICTIONAL"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "quiz": [
+      {
+        "question": "What is Peter trying to find in order to learn whether his sister is still alive?",
+        "type": "plot",
+        "options": {
+          "A": "A mysterious elephant and the magician who can conjure it",
+          "B": "A hidden treasure chest in the town square",
+          "C": "A lost map leading to the royal palace"
+        },
+        "correct": "A"
+      }
+    ],
+    "key_events": [
+      {
+        "event": "World War I",
+        "description": "The story is set just after the war, with soldiers, bombing, and a town recovering from wartime devastation."
+      }
+    ],
+    "key_characters": [],
+    "failures": {
+      "categories": "missing_category_list"
+    }
+  },
+  {
+    "movie_id": 663558,
+    "movie_idx": 3239,
+    "imdb_id": "tt13269670",
+    "title": "New Gods: Nezha Reborn",
+    "production_year": "2021",
+    "genre": "Animation, Action, Fantasy",
+    "plot": "The story happens after over 2000 years when Nezha conquered the Dragon King in the novel Fengshen Yanyi. A normal young deliveryman Li Yunxiang, though coming from the slum area, is living a satisfying life and enjoying motor racing at his spare time. But when the arrogant wealthy son of Boss De(the Dragon King) beats him down, takes away his beloved motor, and even wounds his innocent orphan sister, his deep anger turns into a blast of Truth Fire. The true identity-Nezha, is revealed. Nezha, the God of Rebel, violent and egocentric, empowers Yunxiang, but the newly obtained uncontrollable power brings new harm to Yunxiang's family and friends. Meanwhile Nezha's old enemies are seeking revenges too. Facing the twist of fate, Yunxiang has to find out his own way to become a true hero.",
+    "runtime": "118 min",
+    "director": "Ji Zhao",
+    "actors": "Victoria Grace, Jason Ko, Dashiell McGaha-Schletter",
+    "production_country": "China",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMmEwMTUxNjctNWE3NC00NDY4LThkZDQtNTk4MmJlYjdjZDMxXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/663558.webp",
+    "imdb_rating": "6.8",
+    "imdb_votes": "4,725",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/New_Gods:_Nezha_Reborn",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/663558.txt",
+    "plot_year_start": 1920,
+    "plot_year_end": 1920,
+    "epoch": "age-of-total-war",
+    "action_countries": [
+      "FICTIONAL"
+    ],
+    "action_continents": [
+      "FICTIONAL"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "FICTIONAL",
+    "quiz": [
+      {
+        "question": "What powers does Li Yunxiang discover after his anger is awakened?",
+        "type": "plot",
+        "options": {
+          "A": "He can turn invisible and read minds",
+          "B": "He can control ice and summon storms",
+          "C": "He gains Nezha's fire-based powers"
+        },
+        "correct": "C"
+      }
+    ],
+    "key_events": [],
+    "key_characters": [],
+    "failures": {
+      "categories": "missing_category_list"
+    }
+  },
+  {
+    "movie_id": 914,
+    "movie_idx": 3998,
+    "imdb_id": "tt0032553",
+    "title": "The Great Dictator",
+    "production_year": "1940",
+    "genre": "Comedy, Drama, War",
+    "plot": "20 years after the end of WWI, in which the nation of Tomainia was on the losing side, Adenoid Hynkel has risen to power as the ruthless dictator of the country. He believes in a pure Aryan state and the decimation of the Jews. This situation is unknown to a simple Jewish Tomainian barber who has been hospitalized since a WWI battle. Upon his release the barber, who had been suffering from memory loss about the war, is shown the new persecuted life of the Jews by many living in the Jewish ghetto, including a washerwoman named Hannah with whom he begins a relationship. The barber is ultimately spared such persecution by Commander Schultz, whom he saved in that WWI battle. The lives of all Jews in Tomainia are eventually spared with a policy shift by Hynkel himself, who is doing so for ulterior motives. But those motives include a desire for world domination, starting with the invasion of neighboring Osterlich, which may be threatened by Benzino Napaloni, the dictator of neighboring Bacteria. Ultimately Schultz, who has turned traitor against Hynkel's regime, and the barber may be able to join forces to take control of the situation, using Schultz's inside knowledge of the regime's workings and the barber's uncanny resemblance to one of those in power.",
+    "runtime": "125 min",
+    "director": "Charles Chaplin",
+    "actors": "Charles Chaplin, Paulette Goddard, Jack Oakie",
+    "production_country": "United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjc4ZjEwNDUtMjlmZS00NzQ4LTg2N2MtMGI3ZjMyMmM3ZDM2XkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/914.webp",
+    "imdb_rating": "8.4",
+    "imdb_votes": "258,304",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Great_Dictator",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/914.txt",
+    "plot_year_start": 1918,
+    "plot_year_end": 1938,
+    "epoch": "age-of-total-war",
+    "action_countries": [
+      "FICTIONAL",
+      "FICTIONAL"
+    ],
+    "action_continents": [
+      "FICTIONAL",
+      "FICTIONAL"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "quiz": [
+      {
+        "question": "What does the Jewish barber do at the end of the story?",
+        "type": "plot",
+        "options": {
+          "A": "He escapes to another country with Hannah and leaves Tomainia behind.",
+          "B": "He is crowned the new dictator of Tomainia.",
+          "C": "He is mistaken for Hynkel and gives a speech calling for peace and brotherhood."
+        },
+        "correct": "C"
+      }
+    ],
+    "key_events": [
+      {
+        "event": "World War I",
+        "description": "The barber and Schultz meet in 1918 on the Western Front during the war."
+      },
+      {
+        "event": "Rise of Nazism",
+        "description": "Hynkel's dictatorship and antisemitic rule mirror Hitler's rise in 1930s Germany."
+      },
+      {
+        "event": "Anschluss",
+        "description": "Hynkel orders the invasion of Osterlich, echoing Nazi Germany's annexation of Austria."
+      }
+    ],
+    "key_characters": [],
+    "failures": {
+      "categories": "missing_category_list"
+    }
+  },
+  {
+    "movie_id": 13683,
+    "movie_idx": 4992,
+    "imdb_id": "tt0313680",
+    "title": "Tarzan & Jane",
+    "production_year": "2002",
+    "genre": "Animation, Adventure, Family",
+    "plot": "As Tarzan and Jane's one-year wedding anniversary approaches, Jane searches the jungle for the perfect gift for Tarzan, even enlisting the help of Terk and Tantor. As they recall the many adventures they've shared so far, Jane realizes what an exciting year it's been in the jungle from encounters with old friends, outsmarting panthers to surfing the lava down an erupting volcano. But all of that is nothing compared to the surprise that Tarzan has in store for Jane.",
+    "runtime": "75 min",
+    "director": "Steve Loter, Victor Cook, Don MacKinnon, Lisa Schaffer(co-director)",
+    "actors": "Michael T. Weiss, Olivia d'Abo, Jeff Bennett, Jim Cummings",
+    "production_country": "USA",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjAwMTM5NzM4OF5BMl5BanBnXkFtZTcwOTE2NDkyMQ@@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/13683.webp",
+    "imdb_rating": "5.3",
+    "imdb_votes": "5,919",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Tarzan_%26_Jane",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/13683.txt",
+    "plot_year_start": 1919,
+    "plot_year_end": 1919,
+    "epoch": "age-of-total-war",
+    "action_countries": [
+      "FICTIONAL",
+      "GB"
+    ],
+    "action_continents": [
+      "FICTIONAL",
+      "Europe"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "quiz": [
+      {
+        "question": "What is Jane trying to find for Tarzan as their one-year wedding anniversary approaches?",
+        "type": "plot",
+        "options": {
+          "A": "A new jungle home",
+          "B": "The perfect gift",
+          "C": "A lost map to England"
+        },
+        "correct": "B"
+      }
+    ],
+    "key_events": [
+      {
+        "event": "World War I",
+        "description": "Robert Canler is revealed as a German double agent working for the Germans during the war."
+      }
+    ],
+    "key_characters": [],
+    "failures": {
+      "categories": "missing_category_list"
+    }
+  },
+  {
+    "movie_id": 72972,
+    "movie_idx": 5039,
+    "imdb_id": "tt2027255",
+    "title": "Tom and Jerry & The Wizard of Oz",
+    "production_year": "2011",
+    "genre": "Animation, Adventure, Comedy, Family, Fantasy, Musical",
+    "plot": "Tom the Cat and Jerry the Mouse get whisked away into The land of Oz.",
+    "runtime": "56 min",
+    "director": "Spike Brandt, Tony Cervone",
+    "actors": "Grey Griffin, Nikki Yanofsky, Joe Alaskey, Michael Gough",
+    "production_country": "USA",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMzI2MjY0NDE1NF5BMl5BanBnXkFtZTgwMjcyMDEwNzE@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/72972.webp",
+    "imdb_rating": "6.3",
+    "imdb_votes": "1,654",
+    "wikipedia_url": "https://simple.wikipedia.org/wiki/Tom_and_Jerry_%26_the_Wizard_of_Oz",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/72972.txt",
+    "plot_year_start": 1939,
+    "plot_year_end": 1939,
+    "epoch": "age-of-total-war",
+    "action_countries": [
+      "FICTIONAL",
+      "US"
+    ],
+    "action_continents": [
+      "FICTIONAL",
+      "North America"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "quiz": [
+      {
+        "question": "What happens to Tom and Jerry in the story?",
+        "type": "plot",
+        "options": {
+          "A": "They get whisked away into the Land of Oz.",
+          "B": "They become circus performers in New York City.",
+          "C": "They sail across the ocean to find a lost treasure."
+        },
+        "correct": "A"
+      }
+    ],
+    "key_events": [],
+    "key_characters": [],
+    "failures": {
+      "categories": "missing_category_list"
+    }
+  },
+  {
+    "movie_id": 6399,
+    "movie_idx": 6146,
+    "imdb_id": "tt0085327",
+    "title": "Who Finds a Friend Finds a Treasure",
+    "production_year": "1981",
+    "genre": "Adventure, Comedy, Action",
+    "plot": "Alan gets a map to some war treasure which the Japanese army left behind on a small Pacific island at the end of World War II. But some gangsters try to steal the map from him and so he hides on Charlie's boat which just leaves the harbor. He manipulates the ship's compass so that Charlie is not aware that he is sailing to the treasure island. But when they step on the island, they discover that it is not as abandoned as they believed: there are some natives - and a Japanese soldier still defending the treasure.",
+    "runtime": "108 min",
+    "director": "Sergio Corbucci",
+    "actors": "Terence Hill, Bud Spencer, John Fujioka",
+    "production_country": "Italy, United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BOGE4MmY0MjAtNGI4Yi00ZTQ3LWI5OTgtYTllZTg2YzdhMTYzXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/6399.webp",
+    "imdb_rating": "7.1",
+    "imdb_votes": "13,909",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Who_Finds_a_Friend_Finds_a_Treasure",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/6399.txt",
+    "plot_year_start": 1945,
+    "plot_year_end": 1945,
+    "epoch": "age-of-total-war",
+    "action_countries": [
+      "FICTIONAL",
+      "US"
+    ],
+    "action_continents": [
+      "FICTIONAL",
+      "North America"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "quiz": [
+      {
+        "question": "What do Alan and Charlie discover on the island?",
+        "type": "plot",
+        "options": {
+          "A": "A native settlement and a Japanese soldier still guarding the treasure",
+          "B": "An empty island with no one living there",
+          "C": "A buried pirate ship full of jewels"
+        },
+        "correct": "A"
+      }
+    ],
+    "key_events": [
+      {
+        "event": "End of World War II",
+        "description": "The treasure is said to have been left behind by the Japanese army at the war’s end in 1945."
+      },
+      {
+        "event": "Japanese holdouts in the Pacific",
+        "description": "A Japanese soldier on the island still believes the war continues and guards the hidden treasure."
+      }
+    ],
+    "key_characters": [],
+    "failures": {
+      "categories": "missing_category_list"
+    }
+  },
+  {
+    "movie_id": 57283,
+    "movie_idx": 8839,
+    "imdb_id": "tt0013257",
+    "title": "Häxan",
+    "production_year": "1922",
+    "genre": "Documentary, Fantasy, Horror",
+    "plot": "Part history lesson followed by re-enactments with actors, this film depicts the history of witchcraft from its earliest days through to the present day (in this case,1922 or thereabouts). The result is a documentary-like film that must be among the first to use re-enactments as a visual and narrative tool. From pagan worship to satanic rites to hysteria, the film takes you on a journey through the ages with highly effective visual sequences.",
+    "runtime": "91 min",
+    "director": "Benjamin Christensen",
+    "actors": "Benjamin Christensen, Elisabeth Christensen, Maren Pedersen",
+    "production_country": "Sweden, Denmark",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjEwMzgzMTEtYzI3ZS00M2M4LWJjZGYtY2UxZjgzNzNjNjc0XkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/57283.webp",
+    "imdb_rating": "7.6",
+    "imdb_votes": "18,391",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/H%C3%A4xan",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/57283.txt",
+    "plot_year_start": 1922,
+    "plot_year_end": 1922,
+    "epoch": "age-of-total-war",
+    "action_countries": [
+      "FICTIONAL"
+    ],
+    "action_continents": [
+      "FICTIONAL"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "quiz": [
+      {
+        "question": "What does the film mainly show about witchcraft?",
+        "type": "plot",
+        "options": {
+          "A": "A detective solving a murder case in modern times",
+          "B": "A family escaping from a haunted house",
+          "C": "The history of witchcraft through reenactments and documentary-style scenes"
+        },
+        "correct": "C"
+      }
+    ],
+    "key_events": [
+      {
+        "event": "European witch hunts",
+        "description": "The film surveys the history of witchcraft accusations, trials, torture, and executions across medieval and early modern Europe."
+      },
+      {
+        "event": "Witch trials",
+        "description": "Suspected witches are arrested, interrogated, forced into confessions, and sentenced by religious authorities."
+      },
+      {
+        "event": "Burning at the stake",
+        "description": "The film ends with accused witches being executed by fire as a punishment for witchcraft."
+      },
+      {
+        "event": "Medieval Inquisition",
+        "description": "Inquisitorial judges and torture are shown as the machinery behind witchcraft prosecutions."
+      },
+      {
+        "event": "Publication of the Malleus Maleficarum",
+        "description": "The film’s historical framework draws on the witch-hunting manual used by inquisitors."
+      }
+    ],
+    "key_characters": [
+      {
+        "character": "Gaston Maspero",
+        "description": "He is named in the lecture-like opening as a scholarly authority on ancient worldviews."
+      }
+    ],
+    "failures": {
+      "categories": "missing_category_list"
+    }
+  },
+  {
+    "movie_id": 940,
+    "movie_idx": 9726,
+    "imdb_id": "tt0030341",
+    "title": "The Lady Vanishes",
+    "production_year": "1938",
+    "genre": "Crime, Drama, Mystery",
+    "plot": "Passengers on a scheduled train out of the mountainous European country of Mandrika are delayed by a day due to an avalanche, and thus get up close and personal with each other out of necessity in the only and what becomes an overcrowded inn in the area. Once the train departs, the one person who it is uncertain is on the train is a middle aged English governess named Miss Froy (Dame May Whitty). Iris Henderson (Margaret Lockwood), who was vacationing in Mandrika with girlfriends before heading back to England to get married, is certain that Miss Froy was on the train as they were in the same compartment and they had tea together in the dining car, but all those people who can corroborate her story don't seem to want to do so. Iris' thoughts are easily dismissed as a possible concussion as Iris was hit over the head just before boarding the train. Iris will take anyone's help in finding Miss Froy, even that of an Englishman named Gilbert (Sir Michael Redgrave), a musicologist with whom she had a not so pleasant encounter at the inn the evening before. As Iris and Gilbert go on their quest throughout the train, they believe there is a conspiracy amongst many of the passengers against the validity of there being a Miss Froy. But if there is a conspiracy, Iris and Gilbert still have to find Miss Froy and find out why anyone would want to kidnap a middle aged English governess.",
+    "runtime": "96 min",
+    "director": "Alfred Hitchcock",
+    "actors": "Margaret Lockwood, Michael Redgrave, Paul Lukas",
+    "production_country": "United Kingdom",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMzQxY2M5ODUtYjQ5ZS00M2NmLWI2OTMtYzY3ZWJmZjcyNDIwXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/940.webp",
+    "imdb_rating": "7.7",
+    "imdb_votes": "60,724",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Lady_Vanishes",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/940.txt",
+    "plot_year_start": 1938,
+    "plot_year_end": 1938,
+    "epoch": "age-of-total-war",
+    "action_countries": [
+      "FICTIONAL",
+      "GB"
+    ],
+    "action_continents": [
+      "FICTIONAL",
+      "Europe"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "quiz": [
+      {
+        "question": "What does Miss Froy turn out to be?",
+        "type": "plot",
+        "options": {
+          "A": "A lost queen traveling in disguise",
+          "B": "A stolen child the passengers are hiding",
+          "C": "A British spy"
+        },
+        "correct": "C"
+      }
+    ],
+    "key_events": [],
+    "key_characters": [],
+    "failures": {
+      "categories": "missing_category_list"
+    }
+  }
+]

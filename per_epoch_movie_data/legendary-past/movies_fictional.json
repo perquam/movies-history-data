@@ -1,0 +1,207 @@
+[
+  {
+    "movie_id": 49519,
+    "movie_idx": 1161,
+    "imdb_id": "tt0481499",
+    "title": "The Croods",
+    "production_year": "2013",
+    "genre": "Animation, Adventure, Comedy",
+    "plot": "\"The Croods\" are an eccentric family of cavemen, who survive the harsh terrain by living accordingly to a strict set of rules. But when their home is destroyed in the wake of an impending disaster known as \"The End\", they are forced to leave their home of shelter and security, and into the wilderness of the unknown to find a new home.",
+    "runtime": "98 min",
+    "director": "Kirk DeMicco, Chris Sanders",
+    "actors": "Nicolas Cage, Ryan Reynolds, Emma Stone",
+    "production_country": "United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTcyOTc2OTA1Ml5BMl5BanBnXkFtZTcwOTI1MjkzOQ@@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/49519.webp",
+    "imdb_rating": "7.1",
+    "imdb_votes": "249,657",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Croods",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/49519.txt",
+    "plot_year_start": -500000,
+    "plot_year_end": -10000,
+    "epoch": "legendary-past",
+    "action_countries": [
+      "FICTIONAL"
+    ],
+    "action_continents": [
+      "FICTIONAL"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "everyday survival shaped by scarce food",
+        "description": "Much of life is governed by the need to find meat, roots, water, and warmth before the land or rivals take them away. What you'll see: hunting parties, scavenged meals, prized stores, disputes over useful things, and hard travel in search of better ground.",
+        "icon": "🍖"
+      },
+      {
+        "label": "wild lands shared with mighty beasts",
+        "description": "Human life sits inside a dangerous natural world where great animals are common and people are never far from hunger or attack. What you'll see: mammoths and predators, sudden chases, foraging and hunting, caves and rough shelters, and constant watchfulness in open country.",
+        "icon": "🦣"
+      }
+    ]
+  },
+  {
+    "movie_id": 79218,
+    "movie_idx": 3771,
+    "imdb_id": "tt2100546",
+    "title": "Ice Age: A Mammoth Christmas",
+    "production_year": "2011",
+    "genre": "Animation, Adventure, Comedy",
+    "plot": "When Sid accidentally destroys Manny's heirloom Christmas rock and ends up on Santa's naughty list, he leads a hilarious quest to the North Pole to make things right and ends up making things much worse. Now it's up to Manny and his prehistoric posse to band together and save Christmas for the entire world.",
+    "runtime": "26 min",
+    "director": "Karen Disher",
+    "actors": "Ray Romano, John Leguizamo, Denis Leary",
+    "production_country": "United States, United Kingdom",
+    "poster": "https://m.media-amazon.com/images/M/MV5BOWE2NDFjZmItOGM3Mi00YjkyLTk1MGUtZWVkMDdiMjEwNzc1XkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/79218.webp",
+    "imdb_rating": "6.4",
+    "imdb_votes": "12,043",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Ice_Age:_A_Mammoth_Christmas",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/79218.txt",
+    "plot_year_start": -20000,
+    "plot_year_end": -20000,
+    "epoch": "legendary-past",
+    "action_countries": [
+      "FICTIONAL"
+    ],
+    "action_continents": [
+      "FICTIONAL"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Ice Age Universe",
+    "categories": [
+      {
+        "label": "caves, camps, and wandering in search",
+        "description": "Settlements are temporary and fragile, so people move when shelter fails, game vanishes, or danger grows too near. What you'll see: cave mouths, brush huts, fireside sleeping places, packed belongings, and journeys across harsh country toward a safer home.",
+        "icon": "⛺"
+      },
+      {
+        "label": "belief in marvels at the world's edges",
+        "description": "The world is imagined as full of wondrous beings, special places, and half-understood powers woven easily into ordinary life. What you'll see: far northern gift-givers, legendary animals, sacred heirlooms, and matter-of-fact talk about marvels beyond the next ridge.",
+        "icon": "🦄"
+      }
+    ]
+  },
+  {
+    "movie_id": 280391,
+    "movie_idx": 4466,
+    "imdb_id": "tt1220911",
+    "title": "Animal Kingdom: Let's Go Ape",
+    "production_year": "2015",
+    "genre": "Animation, Adventure, Comedy",
+    "plot": "The outcast son of a primate King learns about being a monkey.",
+    "runtime": "101 min",
+    "director": "Jamel Debbouze",
+    "actors": "Jamel Debbouze, Mélissa Theuriau, Arié Elmaleh",
+    "production_country": "France, Italy, China, Belgium",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjBmNGFhMzAtNThhMS00N2U0LWIwYjctMzcxNTdlMmEyOTQ3XkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/280391.webp",
+    "imdb_rating": "4.9",
+    "imdb_votes": "1,382",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Animal_Kingdom:_Let%27s_Go_Ape",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/280391.txt",
+    "plot_year_start": -100000,
+    "plot_year_end": -100000,
+    "epoch": "legendary-past",
+    "action_countries": [
+      "FICTIONAL"
+    ],
+    "action_continents": [
+      "FICTIONAL"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "chiefs ruling through strength and custom",
+        "description": "Leadership rests on age, prowess, and accepted habit, not written law, so a chief must keep authority by force, reputation, and the support of the group. What you'll see: chieftains giving orders, public quarrels over rank, challenges to authority, and elders enforcing old ways.",
+        "icon": "👑"
+      }
+    ]
+  },
+  {
+    "movie_id": 21778,
+    "movie_idx": 4847,
+    "imdb_id": "tt0357111",
+    "title": "RRRrrrr!!!",
+    "production_year": "2004",
+    "genre": "Comedy, Crime, Mystery",
+    "plot": "In 35,000 BC, the tribe of the Dirty Hairs is in war against the tribe of the Clean Hairs for eight hundred years, trying to get their shampoo. The chief of the Dirty Hairs sends his daughter Guy disguised to the enemy tribe to get some shampoo for his tribe. When the healer of the Clean Hairs tribe surprisingly kills two cavemen of his tribe, their imbecile chief assigns Pierre with curled hair and Pierre blonde to investigate the murder and find the criminal.",
+    "runtime": "98 min",
+    "director": "Alain Chabat",
+    "actors": "Marina Foïs, Gérard Depardieu, Damien Jouillerot",
+    "production_country": "France",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZjUwZDNlZDMtNzFmMy00MWE4LWFjNzItZjA4OWRhMDE1Mjk4XkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/21778.webp",
+    "imdb_rating": "5.8",
+    "imdb_votes": "15,334",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/RRRrrrr!!!",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/21778.txt",
+    "plot_year_start": -35000,
+    "plot_year_end": -35000,
+    "epoch": "legendary-past",
+    "action_countries": [
+      "FICTIONAL"
+    ],
+    "action_continents": [
+      "FICTIONAL"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "war and raiding between neighbouring peoples",
+        "description": "Nearby groups compete for land, mates, prestige, and useful goods, so feuds can become a settled part of life from one generation to the next. What you'll see: taunting across tribal lines, skirmishes, captives, stealthy crossings into enemy ground, and long memories of old wrongs.",
+        "icon": "🗡️"
+      },
+      {
+        "label": "speech, signs, and custom before writing",
+        "description": "Without writing, memory, law, and identity live in spoken tales, repeated sayings, and visible marks of belonging. What you'll see: oral boasting, simple investigations by talk and witness, gestures and ritual phrases, and hairstyles or ornaments that mark each people apart.",
+        "icon": "🗣️"
+      }
+    ]
+  },
+  {
+    "movie_id": 581218,
+    "movie_idx": 5164,
+    "imdb_id": "tt10250750",
+    "title": "Boonie Bears: Blast Into the Past",
+    "production_year": "2019",
+    "genre": "Animation, Adventure, Fantasy",
+    "plot": "Vick and the bears find themselves stuck in the ancient past surrounded by gigantic animals who all seem to have one thing in mind: lunch. When our heroes get separated, Briar meets up with a young wolf named Feifei, who is intent on becoming a brave warrior. Meanwhile, Bramble and Vick run into problems of their own when they are captured by a tribe of primitive humans whose leader falls head over heels for Vick. This is an adventure unlike anything they've ever faced before. Will they be able to reunite and make it back before they are stuck forever in the past?",
+    "runtime": "90 min",
+    "director": "Leon Ding",
+    "actors": "Chris Boike, Joseph S. Lambert, Siobhan Lumsden",
+    "production_country": "China",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZTdmNWNlZmYtZGQ1Zi00OTk5LWE1YzQtYjY0MmY2NzEzN2FiXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/581218.webp",
+    "imdb_rating": "5.6",
+    "imdb_votes": "331",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Boonie_Bears",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/581218.txt",
+    "plot_year_start": -2000000,
+    "plot_year_end": -2000000,
+    "epoch": "legendary-past",
+    "action_countries": [
+      "FICTIONAL"
+    ],
+    "action_continents": [
+      "FICTIONAL"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "caves, camps, and wandering in search",
+        "description": "Settlements are temporary and fragile, so people move when shelter fails, game vanishes, or danger grows too near. What you'll see: cave mouths, brush huts, fireside sleeping places, packed belongings, and journeys across harsh country toward a safer home.",
+        "icon": "⛺"
+      },
+      {
+        "label": "wild lands shared with mighty beasts",
+        "description": "Human life sits inside a dangerous natural world where great animals are common and people are never far from hunger or attack. What you'll see: mammoths and predators, sudden chases, foraging and hunting, caves and rough shelters, and constant watchfulness in open country.",
+        "icon": "🦣"
+      }
+    ]
+  }
+]

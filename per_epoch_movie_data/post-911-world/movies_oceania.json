@@ -1,0 +1,625 @@
+[
+  {
+    "movie_id": 12,
+    "movie_idx": 330,
+    "imdb_id": "tt0266543",
+    "title": "Finding Nemo",
+    "production_year": "2003",
+    "genre": "Animation, Adventure, Comedy",
+    "plot": "A clown fish named Marlin lives in the Great Barrier Reef and loses his son, Nemo, after he ventures into the open sea, despite his father's constant warnings about many of the ocean's dangers. Nemo is abducted by a boat and netted up and sent to a dentist's office in Sydney. While Marlin ventures off to try to retrieve Nemo, Marlin meets a fish named Dory, a blue tang suffering from short-term memory loss. The companions travel a great distance, encountering various dangerous sea creatures such as sharks, anglerfish and jellyfish, in order to rescue Nemo from the dentist's office, which is situated by Sydney Harbour. While the two are searching the ocean far and wide, Nemo and the other sea animals in the dentist's fish tank plot a way to return to the sea to live their lives free again.",
+    "runtime": "100 min",
+    "director": "Andrew Stanton, Lee Unkrich",
+    "actors": "Albert Brooks, Ellen DeGeneres, Alexander Gould",
+    "production_country": "United States, Japan, Australia, Kazakhstan, Armenia",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTc5NjExNTA5OV5BMl5BanBnXkFtZTYwMTQ0ODY2._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/12.webp",
+    "imdb_rating": "8.2",
+    "imdb_votes": "1,196,544",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Finding_Nemo",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/12.txt",
+    "plot_year_start": 2000,
+    "plot_year_end": 2003,
+    "epoch": "post-911-world",
+    "action_countries": [
+      "AU",
+      "US"
+    ],
+    "action_continents": [
+      "Oceania",
+      "North America"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "the ocean as route and ordeal",
+        "description": "The surrounding sea remains a highway, a workplace, and a testing ground where distance, weather, and isolation still matter greatly. What you'll see: small craft and harbours, solo sailing, dive gear, caves and open water, storms, navigation, and the sheer scale of maritime space.",
+        "icon": "⛵"
+      },
+      {
+        "label": "beaches reefs and bush as everyday world",
+        "description": "In Oceania, sea and scrub are not distant scenery but constant parts of travel, leisure, identity, and danger. What you'll see: surf and sand, reefs and harbours, campsites, mangrove swamps, dusty roads, and long stretches of country where nature feels close at hand.",
+        "icon": "🏖️"
+      }
+    ]
+  },
+  {
+    "movie_id": 72545,
+    "movie_idx": 972,
+    "imdb_id": "tt1397514",
+    "title": "Journey 2: The Mysterious Island",
+    "production_year": "2012",
+    "genre": "Action, Adventure, Comedy",
+    "plot": "Ever since his adventure in the center of the Earth, Sean Anderson has been looking for other places mentioned by Verne and other Vernians. He is notified about a coded message, and breaks into a satellite facility to fully receive it. With the help from his stepfather Hank (Dwayne \"The Rock\" Johnson) he decodes the message leading him to find the map that leads him to Verne's mysterious island. Along with Gabato and Kailani, Sean embarks on a mission to find his grandfather, the legendary Vernian Alexander. But unexpected problems arise as Alexander made a mistake that could change everything.",
+    "runtime": "94 min",
+    "director": "Brad Peyton",
+    "actors": "Josh Hutcherson, Dwayne Johnson, Michael Caine",
+    "production_country": "United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjA5MTE1MjQyNV5BMl5BanBnXkFtZTcwODI4NDMwNw@@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/72545.webp",
+    "imdb_rating": "5.7",
+    "imdb_votes": "120,244",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Journey_2:_The_Mysterious_Island",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/72545.txt",
+    "plot_year_start": 2012,
+    "plot_year_end": 2012,
+    "epoch": "post-911-world",
+    "action_countries": [
+      "PW",
+      "FICTIONAL"
+    ],
+    "action_continents": [
+      "Oceania",
+      "FICTIONAL"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "beaches reefs and bush as everyday world",
+        "description": "In Oceania, sea and scrub are not distant scenery but constant parts of travel, leisure, identity, and danger. What you'll see: surf and sand, reefs and harbours, campsites, mangrove swamps, dusty roads, and long stretches of country where nature feels close at hand.",
+        "icon": "🏖️"
+      },
+      {
+        "label": "tourism selling paradise with managed adventure",
+        "description": "Islands and coasts are packaged for visitors as places of escape, therapy, guided thrills, and picturesque risk. What you'll see: resort compounds, tour boats, holiday activities, island staff, brochure-like tropical views, and visitors moving through carefully staged versions of local paradise.",
+        "icon": "🏝️"
+      }
+    ]
+  },
+  {
+    "movie_id": 19899,
+    "movie_idx": 2578,
+    "imdb_id": "tt1078940",
+    "title": "Couples Retreat",
+    "production_year": "2009",
+    "genre": "Comedy",
+    "plot": "Dave and Ronnie, Jason and Cynthia, and Joey and Lucy are close. The group used to include Shane and Jennifer, but they divorced and she's gone. Jason and Cynthia announce that their marriage is in trouble, and they beg their friends (and Shane's young girlfriend) to join them on a couples' retreat, at the package rate, on a tropical island. The others reluctantly agree, planning to play while Jason and Cynthia work on their marriage with an island psychologist. To everyone's surprise, the package is inflexible: each couple must participate in the couples' exercises. Soon fault lines appear in all four relationships. What's in store for each couple?",
+    "runtime": "113 min",
+    "director": "Peter Billingsley",
+    "actors": "Vince Vaughn, Malin Akerman, Jon Favreau",
+    "production_country": "United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTQxMjI1Nzc0M15BMl5BanBnXkFtZTcwMTc0Mzg2Mg@@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/19899.webp",
+    "imdb_rating": "5.5",
+    "imdb_votes": "118,707",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Couples_Retreat",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/19899.txt",
+    "plot_year_start": 2009,
+    "plot_year_end": 2009,
+    "epoch": "post-911-world",
+    "action_countries": [
+      "PF"
+    ],
+    "action_continents": [
+      "Oceania"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "beaches reefs and bush as everyday world",
+        "description": "In Oceania, sea and scrub are not distant scenery but constant parts of travel, leisure, identity, and danger. What you'll see: surf and sand, reefs and harbours, campsites, mangrove swamps, dusty roads, and long stretches of country where nature feels close at hand.",
+        "icon": "🏖️"
+      },
+      {
+        "label": "tourism selling paradise with managed adventure",
+        "description": "Islands and coasts are packaged for visitors as places of escape, therapy, guided thrills, and picturesque risk. What you'll see: resort compounds, tour boats, holiday activities, island staff, brochure-like tropical views, and visitors moving through carefully staged versions of local paradise.",
+        "icon": "🏝️"
+      }
+    ]
+  },
+  {
+    "movie_id": 460648,
+    "movie_idx": 3476,
+    "imdb_id": "tt5813366",
+    "title": "Bleeding Steel",
+    "production_year": "2017",
+    "genre": "Action, Sci-Fi, Thriller",
+    "plot": "A special-force agent/police officer is assigned to protect a young woman involved in a science experiment of longevity, from a gangster with an army of advanced technology who desires to obtain her power, while also having connections with him.",
+    "runtime": "109 min",
+    "director": "Leo Zhang",
+    "actors": "Jackie Chan, Show Lo, Nana Ouyang",
+    "production_country": "China, Hong Kong, United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYjliODZmMTUtNDA0Ny00YmFjLWJlMjktMDBkYzVjYmQ0NzBhXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/460648.webp",
+    "imdb_rating": "5.2",
+    "imdb_votes": "11,954",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Bleeding_Steel",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/460648.txt",
+    "plot_year_start": 2004,
+    "plot_year_end": 2017,
+    "epoch": "post-911-world",
+    "action_countries": [
+      "AU",
+      "CN",
+      "NO"
+    ],
+    "action_continents": [
+      "Oceania",
+      "Asia",
+      "Europe"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "remote places with thin lines of help",
+        "description": "Far from the city, survival can depend on whoever is present, because rescue, police, and medical aid may be hours away or absent altogether. What you'll see: patchy roads, buses to nowhere in particular, limited communications, improvised shelters, and characters confronting wilderness with scant support.",
+        "icon": "🛖"
+      },
+      {
+        "label": "the ocean as route and ordeal",
+        "description": "The surrounding sea remains a highway, a workplace, and a testing ground where distance, weather, and isolation still matter greatly. What you'll see: small craft and harbours, solo sailing, dive gear, caves and open water, storms, navigation, and the sheer scale of maritime space.",
+        "icon": "⛵"
+      }
+    ]
+  },
+  {
+    "movie_id": 848791,
+    "movie_idx": 3651,
+    "imdb_id": "tt11897478",
+    "title": "The Stranger",
+    "production_year": "2022",
+    "genre": "Crime, Drama, Thriller",
+    "plot": "Two men who meet on a bus strike up a conversation that turns into friendship. For Henry Teague, worn down by a lifetime of physical labour and crime, this is a dream come true.",
+    "runtime": "117 min",
+    "director": "Thomas M. Wright",
+    "actors": "Joel Edgerton, Sean Harris, Jada Alberts",
+    "production_country": "Australia, United States, United Kingdom",
+    "poster": "https://m.media-amazon.com/images/M/MV5BOGRlMWIyODMtNWVhNi00MjgxLWFhOGYtOGVlNjRiNmU0ZWNkXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/848791.webp",
+    "imdb_rating": "6.6",
+    "imdb_votes": "29,025",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Stranger_(2022_film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/848791.txt",
+    "plot_year_start": 2005,
+    "plot_year_end": 2005,
+    "epoch": "post-911-world",
+    "action_countries": [
+      "AU"
+    ],
+    "action_continents": [
+      "Oceania"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "security fears shadowing an open society",
+        "description": "The post-9/11 mood includes an unease that peaceful, ordinary places are not beyond sudden violence, coercion, or larger geopolitical shocks. What you'll see: military aircraft over quiet country, restricted facilities, watchfulness around strangers, and familiar landscapes made tense by the possibility of intrusion.",
+        "icon": "🪖"
+      },
+      {
+        "label": "remote places with thin lines of help",
+        "description": "Far from the city, survival can depend on whoever is present, because rescue, police, and medical aid may be hours away or absent altogether. What you'll see: patchy roads, buses to nowhere in particular, limited communications, improvised shelters, and characters confronting wilderness with scant support.",
+        "icon": "🛖"
+      }
+    ]
+  },
+  {
+    "movie_id": 43930,
+    "movie_idx": 4579,
+    "imdb_id": "tt1456941",
+    "title": "Tomorrow, When the War Began",
+    "production_year": "2010",
+    "genre": "Action, Adventure, Drama",
+    "plot": "In a small Australian town, seven teenage friends go on a camping trip to be with nature. During their trip, they see military aircraft fly overhead. What they don't know is that their country is being invaded. Returning home, they discover that they are at war. With no training, they band together to fight the enemy.",
+    "runtime": "104 min",
+    "director": "Stuart Beattie",
+    "actors": "Caitlin Stasey, Rachel Hurd-Wood, Lincoln Lewis",
+    "production_country": "Australia",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTk2MDMyNjUwOF5BMl5BanBnXkFtZTcwMjYzNjg1Mw@@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/43930.webp",
+    "imdb_rating": "6.1",
+    "imdb_votes": "32,446",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Tomorrow,_When_the_War_Began_(film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/43930.txt",
+    "plot_year_start": 2010,
+    "plot_year_end": 2010,
+    "epoch": "post-911-world",
+    "action_countries": [
+      "AU"
+    ],
+    "action_continents": [
+      "Oceania"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "security fears shadowing an open society",
+        "description": "The post-9/11 mood includes an unease that peaceful, ordinary places are not beyond sudden violence, coercion, or larger geopolitical shocks. What you'll see: military aircraft over quiet country, restricted facilities, watchfulness around strangers, and familiar landscapes made tense by the possibility of intrusion.",
+        "icon": "🪖"
+      }
+    ]
+  },
+  {
+    "movie_id": 48340,
+    "movie_idx": 5398,
+    "imdb_id": "tt0881320",
+    "title": "Sanctum",
+    "production_year": "2011",
+    "genre": "Action, Adventure, Drama",
+    "plot": "The 3-D action-thriller Sanctum follows a team of underwater cave divers on a treacherous expedition to the largest, most beautiful and least accessible cave system on Earth. When a tropical storm forces them deep into the caverns, they must fight raging water, deadly terrain and creeping panic as they search for an unknown escape route to the sea. Master diver Frank McGuire has explored the South Pacific's Esa-ala Caves for months. But when his exit is cut off in a flash flood, Frank's team-including 17-year-old son Josh and financier Carl Hurley are forced to radically alter plans. With dwindling supplies, the crew must navigate an underwater labyrinth to make it out. Soon, they are confronted with the unavoidable question: Can they survive, or will they be trapped forever?",
+    "runtime": "108 min",
+    "director": "Alister Grierson",
+    "actors": "Rhys Wakefield, Allison Cratchley, Christopher James Baker",
+    "production_country": "Australia, United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTM4MjY1NTEyNV5BMl5BanBnXkFtZTcwMTc3MjcxNA@@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/48340.webp",
+    "imdb_rating": "5.9",
+    "imdb_votes": "58,118",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Sanctum_(film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/48340.txt",
+    "plot_year_start": 2011,
+    "plot_year_end": 2011,
+    "epoch": "post-911-world",
+    "action_countries": [
+      "PG",
+      "AU"
+    ],
+    "action_continents": [
+      "Oceania",
+      "Oceania"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "the ocean as route and ordeal",
+        "description": "The surrounding sea remains a highway, a workplace, and a testing ground where distance, weather, and isolation still matter greatly. What you'll see: small craft and harbours, solo sailing, dive gear, caves and open water, storms, navigation, and the sheer scale of maritime space.",
+        "icon": "⛵"
+      }
+    ]
+  },
+  {
+    "movie_id": 46420,
+    "movie_idx": 6302,
+    "imdb_id": "tt1316536",
+    "title": "The Loved Ones",
+    "production_year": "2009",
+    "genre": "Crime, Horror",
+    "plot": "In order to avoid a ghostly figure in the road, high school senior Brent Mitchell wraps his car around a tree, killing his father. Constantly confronted by his mother's emotional collapse after the accident, Brent escapes into a marijuana fueled world of loud metal music to block the pain and guilt. Dejected and out of sorts, he has a shot at happiness with his girlfriend Holly, a grounded, caring girl with drop dead good looks, a dream date for the high school prom. But his plans are thwarted by a disturbing series of events that take place under a mirrored disco ball, involving pink satin, glitter, syringes, nails, power drills and a secret admirer. Brent has become the prom king at a macabre, sadistic event where he is the entertainment.",
+    "runtime": "84 min",
+    "director": "Sean Byrne",
+    "actors": "Xavier Samuel, Robin McLeavy, John Brumpton",
+    "production_country": "Australia",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjEzNDQ0MzM0N15BMl5BanBnXkFtZTcwMzA1NDM1Nw@@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/46420.webp",
+    "imdb_rating": "6.6",
+    "imdb_votes": "45,656",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Loved_Ones_(film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/46420.txt",
+    "plot_year_start": 2009,
+    "plot_year_end": 2009,
+    "epoch": "post-911-world",
+    "action_countries": [
+      "AU"
+    ],
+    "action_continents": [
+      "Oceania"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "young people under school and exam pressure",
+        "description": "Adolescence is tightly organised by schools, sporting expectations, parental ambition, and the demand to present a stable self while growing up in public. What you'll see: classrooms and corridors, uniforms and lockers, prom nights, training grounds, and private distress breaking through ordinary school routines.",
+        "icon": "📝"
+      },
+      {
+        "label": "mass media and leisure shaping common life",
+        "description": "Music contests, teen taste, office routine, television culture, and other shared entertainments knit together a recognisable everyday world across the region. What you'll see: metal songs and discos, photocopiers and coffee shops, talent events, sports broadcasts, and branded leisure spaces that feel broadly contemporary.",
+        "icon": "📺"
+      }
+    ]
+  },
+  {
+    "movie_id": 30074,
+    "movie_idx": 6776,
+    "imdb_id": "tt0357139",
+    "title": "Scooby-Doo and the Legend of the Vampire",
+    "production_year": "2003",
+    "genre": "Animation, Adventure, Comedy, Family, Music, Mystery",
+    "plot": "On vacation in Australia, Scooby and the gang attend a music contest held at Vampire Rock---where the legendary 'Yowie Yahoo' Vampire is kidnapping the musical acts, including the Hex Girls. Masquerading as heavy-metal band 'Those Meddling Kids,' Scooby and the others must discover the identity of the Vampire's minions.",
+    "runtime": "72 min",
+    "director": "Scott Jeralds",
+    "actors": "Casey Kasem, Frank Welker, Nicole Jaffe, Heather North",
+    "production_country": "USA",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjRiMmY3YmMtNWQ4Mi00OGJmLWJhZjMtMGRjNGRiNzc3NzY3XkEyXkFqcGdeQXVyNTgyNTA4MjM@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/30074.webp",
+    "imdb_rating": "6.6",
+    "imdb_votes": "4,274",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Scooby-Doo!_and_the_Legend_of_the_Vampire",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/30074.txt",
+    "plot_year_start": 2003,
+    "plot_year_end": 2003,
+    "epoch": "post-911-world",
+    "action_countries": [
+      "AU"
+    ],
+    "action_continents": [
+      "Oceania"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "beaches reefs and bush as everyday world",
+        "description": "In Oceania, sea and scrub are not distant scenery but constant parts of travel, leisure, identity, and danger. What you'll see: surf and sand, reefs and harbours, campsites, mangrove swamps, dusty roads, and long stretches of country where nature feels close at hand.",
+        "icon": "🏖️"
+      },
+      {
+        "label": "tourism selling paradise with managed adventure",
+        "description": "Islands and coasts are packaged for visitors as places of escape, therapy, guided thrills, and picturesque risk. What you'll see: resort compounds, tour boats, holiday activities, island staff, brochure-like tropical views, and visitors moving through carefully staged versions of local paradise.",
+        "icon": "🏝️"
+      }
+    ]
+  },
+  {
+    "movie_id": 739986,
+    "movie_idx": 6825,
+    "imdb_id": "tt2353868",
+    "title": "True Spirit",
+    "production_year": "2023",
+    "genre": "Adventure, Biography, Drama",
+    "plot": "The story of Australian teenager, Jessica Watson, the youngest person ever to sail solo nonstop around the world.",
+    "runtime": "109 min",
+    "director": "Sarah Spillane",
+    "actors": "Alyla Browne, Teagan Croft, Cliff Curtis",
+    "production_country": "Australia, United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BOWU4ZDBkNjAtMTk0ZS00ZDVmLTgwMDMtNmE5NzJhMTZhYWJiXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/739986.webp",
+    "imdb_rating": "6.8",
+    "imdb_votes": "11,041",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/True_Spirit_(film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/739986.txt",
+    "plot_year_start": 2009,
+    "plot_year_end": 2010,
+    "epoch": "post-911-world",
+    "action_countries": [
+      "AU",
+      "UNKNOWN",
+      "UNKNOWN",
+      "UNKNOWN"
+    ],
+    "action_continents": [
+      "Oceania",
+      "Atlantic Ocean",
+      "Indian Ocean",
+      "Pacific Ocean"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "beaches reefs and bush as everyday world",
+        "description": "In Oceania, sea and scrub are not distant scenery but constant parts of travel, leisure, identity, and danger. What you'll see: surf and sand, reefs and harbours, campsites, mangrove swamps, dusty roads, and long stretches of country where nature feels close at hand.",
+        "icon": "🏖️"
+      }
+    ]
+  },
+  {
+    "movie_id": 14138,
+    "movie_idx": 7232,
+    "imdb_id": "tt0816436",
+    "title": "Black Water",
+    "production_year": "2007",
+    "genre": "Adventure, Drama, Horror",
+    "plot": "While on vacation on Northern Australia, Gracie, her husband Adam, and her younger sister Lee decide to take the Blackwater Barry tour in the swamp for fishing. Their guide Jim uses a small motor boat and takes the tourist along the river to a remote spot. When they stop, they are attacked by a huge crocodile that capsizes their boat and immediately kills Jim. The three survivors climb a tree and when they realize that help will never come to rescue them, they decide to try to find a way out of their sheltered location. But in the muddy water, their boat is flipped and the crocodile stalks the trio under the water.",
+    "runtime": "90 min",
+    "director": "David Nerlich, Andrew Traucki",
+    "actors": "Diana Glenn, Maeve Dermody, Andy Rodoreda",
+    "production_country": "Australia, United Kingdom",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMzUzOTU1MjEwM15BMl5BanBnXkFtZTcwNjQ3Njk0MQ@@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/14138.webp",
+    "imdb_rating": "5.8",
+    "imdb_votes": "16,535",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Black_Water_(2007_film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/14138.txt",
+    "plot_year_start": 2003,
+    "plot_year_end": 2003,
+    "epoch": "post-911-world",
+    "action_countries": [
+      "AU"
+    ],
+    "action_continents": [
+      "Oceania"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "beaches reefs and bush as everyday world",
+        "description": "In Oceania, sea and scrub are not distant scenery but constant parts of travel, leisure, identity, and danger. What you'll see: surf and sand, reefs and harbours, campsites, mangrove swamps, dusty roads, and long stretches of country where nature feels close at hand.",
+        "icon": "🏖️"
+      },
+      {
+        "label": "the ocean as route and ordeal",
+        "description": "The surrounding sea remains a highway, a workplace, and a testing ground where distance, weather, and isolation still matter greatly. What you'll see: small craft and harbours, solo sailing, dive gear, caves and open water, storms, navigation, and the sheer scale of maritime space.",
+        "icon": "⛵"
+      }
+    ]
+  },
+  {
+    "movie_id": 10488,
+    "movie_idx": 7343,
+    "imdb_id": "tt0410377",
+    "title": "Nim's Island",
+    "production_year": "2008",
+    "genre": "Adventure, Family, Fantasy",
+    "plot": "Nim Rusoe is a girl who joins her father, a scientist, when he does research on marine life on an island. It's just the two of them but she spends her time making friends with all the animals she encounters, chatting on the computer and reading the adventure books of Alex Rover. When her father goes to do some research but when a storm strikes the island he doesn't come back, she gets worried and frightened. She then e-mails Alex Rover hoping that he will come but what she doesn't know is that Alex Rover is a woman who is agoraphobic and germaphobic. But her creation comes to life and eggs her to go. Unfortunately she has never gone anywhere before and is denied her necessities like her sanitary gel by the customs officer at the airport. In the meantime, Nim tries to be strong while waiting for Alex to arrive.",
+    "runtime": "96 min",
+    "director": "Jennifer Flackett, Mark Levin",
+    "actors": "Jodie Foster, Gerard Butler, Abigail Breslin",
+    "production_country": "United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BY2YyY2FjMzgtM2YxNi00NWYzLWIyMzUtZGJhZTY2YWJhYTU2XkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/10488.webp",
+    "imdb_rating": "6.0",
+    "imdb_votes": "37,841",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Nim%27s_Island",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/10488.txt",
+    "plot_year_start": 2008,
+    "plot_year_end": 2008,
+    "epoch": "post-911-world",
+    "action_countries": [
+      "PF",
+      "US"
+    ],
+    "action_continents": [
+      "Oceania",
+      "North America"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "beaches reefs and bush as everyday world",
+        "description": "In Oceania, sea and scrub are not distant scenery but constant parts of travel, leisure, identity, and danger. What you'll see: surf and sand, reefs and harbours, campsites, mangrove swamps, dusty roads, and long stretches of country where nature feels close at hand.",
+        "icon": "🏖️"
+      }
+    ]
+  },
+  {
+    "movie_id": 64586,
+    "movie_idx": 7533,
+    "imdb_id": "tt1588398",
+    "title": "Sleeping Beauty",
+    "production_year": "2011",
+    "genre": "Drama, Mystery, Romance",
+    "plot": "Lucy is a university student who is working a number of jobs. She volunteers at a research lab, works at a coffee shop, and as a photocopy clerk in an office. She responds to an advertisement and embarks on an erotic freelance job in which she is required to sleep in bed alongside paying customers.",
+    "runtime": "101 min",
+    "director": "Julia Leigh",
+    "actors": "Emily Browning, Rachael Blake, Ewen Leslie",
+    "production_country": "Australia",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjI5OTk3Mjg4MV5BMl5BanBnXkFtZTcwNzQ2NTQxNw@@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/64586.webp",
+    "imdb_rating": "5.3",
+    "imdb_votes": "36,296",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Sleeping_Beauty_(2011_film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/64586.txt",
+    "plot_year_start": 2010,
+    "plot_year_end": 2010,
+    "epoch": "post-911-world",
+    "action_countries": [
+      "AU"
+    ],
+    "action_continents": [
+      "Oceania"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "precarious work patching together a living",
+        "description": "Urban life often runs on casual jobs, temporary arrangements, and service work that ask for flexibility while offering little security in return. What you'll see: coffee counters, office copy rooms, classified advertisements, rented rooms, shift work, and young adults moving between poorly anchored occupations.",
+        "icon": "☕"
+      },
+      {
+        "label": "suburban households hiding strain behind comfort",
+        "description": "Material ease does not prevent loneliness, grief, marital trouble, or family breakdown, and much of this strain stays tucked behind neat homes and everyday manners. What you'll see: quiet streets, family cars, kitchen-table arguments, emotionally shuttered parents, and polished domestic spaces carrying unease.",
+        "icon": "🏡"
+      }
+    ]
+  },
+  {
+    "movie_id": 515743,
+    "movie_idx": 9178,
+    "imdb_id": "tt8211214",
+    "title": "Back of the Net",
+    "production_year": "2019",
+    "genre": "Comedy, Family",
+    "plot": "A new student at a soccer academy is determined to beat her rival's team in the national tournament.",
+    "runtime": "98 min",
+    "director": "Louise Alston",
+    "actors": "Sofia Wylie, Christopher Kirby, Melissa Bonne",
+    "production_country": "Australia",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMDUxMDE2YmMtMzc4Mi00Mzk4LTlkOWUtNWJjM2EzY2FjNzU2XkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/515743.webp",
+    "imdb_rating": "5.3",
+    "imdb_votes": "938",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Back_of_the_Net",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/515743.txt",
+    "plot_year_start": 2010,
+    "plot_year_end": 2010,
+    "epoch": "post-911-world",
+    "action_countries": [
+      "AU"
+    ],
+    "action_continents": [
+      "Oceania"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "sport shaping status and belonging",
+        "description": "Competitive games are a major way young people earn approval, discipline their bodies, and find a place in the wider social order. What you'll see: school teams, football fields and soccer academies, tournaments, coaches' authority, and peer hierarchies built around athletic performance.",
+        "icon": "🏉"
+      },
+      {
+        "label": "beaches reefs and bush as everyday world",
+        "description": "In Oceania, sea and scrub are not distant scenery but constant parts of travel, leisure, identity, and danger. What you'll see: surf and sand, reefs and harbours, campsites, mangrove swamps, dusty roads, and long stretches of country where nature feels close at hand.",
+        "icon": "🏖️"
+      }
+    ]
+  },
+  {
+    "movie_id": 2168,
+    "movie_idx": 9925,
+    "imdb_id": "tt0472582",
+    "title": "2:37",
+    "production_year": "2006",
+    "genre": "Drama",
+    "plot": "A contemporary, ensemble drama telling the complex tale of six high school students whose lives are interwoven with situations that so many of today's youth are faced with. The story takes place during a normal school day. At precisely 2:37 a tragedy will occur, affecting the lives of a group of students and their teachers. As the story unfolds, the individual stories of the six teenagers are revealed, each with its own explosive significance. An unwanted pregnancy unravels a terrible, dark secret; all is not as it appears for the seemingly confident school football hero; an outcast must deal with everyday taunts from his peers; a beautiful young girl battles an eating disorder; a stellar student constantly struggles to win his parents' approval; while another uses drugs to escape from his own demons.",
+    "runtime": "91 min",
+    "director": "Murali K. Thalluri",
+    "actors": "Teresa Palmer, Frank Sweet, Sam Harris",
+    "production_country": "Australia",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYzQ4NjdkYmUtYzM0YS00ZmE4LTgzMWQtMTU2MjQ3YmVkZGVkXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/2168.webp",
+    "imdb_rating": "6.8",
+    "imdb_votes": "7,476",
+    "wikipedia_url": "https://it.wikipedia.org/wiki/2:37",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/2168.txt",
+    "plot_year_start": 2006,
+    "plot_year_end": 2006,
+    "epoch": "post-911-world",
+    "action_countries": [
+      "AU"
+    ],
+    "action_continents": [
+      "Oceania"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "young people under school and exam pressure",
+        "description": "Adolescence is tightly organised by schools, sporting expectations, parental ambition, and the demand to present a stable self while growing up in public. What you'll see: classrooms and corridors, uniforms and lockers, prom nights, training grounds, and private distress breaking through ordinary school routines.",
+        "icon": "📝"
+      }
+    ]
+  }
+]

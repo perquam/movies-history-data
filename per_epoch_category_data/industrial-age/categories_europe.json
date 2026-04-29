@@ -1,0 +1,502 @@
+{
+  "epoch": "industrial-age",
+  "continent": "europe",
+  "sample_size": 50,
+  "sample": [
+    {
+      "title": "A Trip to the Moon",
+      "years": "1902..1902",
+      "countries": [
+        "FR",
+        "UNKNOWN"
+      ],
+      "plot": "An association of astronomers has convened to listen to the plan of Professor Barbenfouillis, their president, to fly to the moon. With the one dissenting voice quashed by Barbenfouillis and the other members, the plan is approved with Barbenfouillis choosing five others to accompany him. Most of the preparation for the trip is in building the vessel and launching mechanism, which resemble a large bullet and a large gun respectively. Hitting the moon in the eye, the six land safely at their destination. They find that much about the moon is wonderful and fantastical, but also that much is not what they would have liked to encounter as it is life threatening. They have to find a way to get out of their alien predicament to get back home safely."
+    },
+    {
+      "title": "Around the World in 80 Days",
+      "years": "1873..1873",
+      "countries": [
+        "GB",
+        "FR",
+        "TR",
+        "IN",
+        "CN",
+        "US",
+        "GB"
+      ],
+      "plot": "An adventurer, Passepartout, ends up accompanying time-obsessed English gentleman, Phileas Fogg, on a daring mission to journey around the world. Fogg has wagered with members of his London club that he can traverse the world in 80 days. Along the way, they encounter many interesting 19th Century figures and have many exciting and suspenseful situations in their voyage around the world."
+    },
+    {
+      "title": "The King's Man",
+      "years": "1902..1918",
+      "countries": [
+        "GB",
+        "RS",
+        "ZA",
+        "RU",
+        "US",
+        "UNKNOWN"
+      ],
+      "plot": "In the early years of the 20th century, the Kingsman agency is formed to stand against a cabal plotting a war to wipe out millions of people."
+    },
+    {
+      "title": "Curiosa",
+      "years": "1895..1897",
+      "countries": [
+        "FR",
+        "DZ"
+      ],
+      "plot": "Paris 1895; Pierre is a Parisian dandy and poet on the verge of fame. He and his poet friend Henri are both madly in love with Marie, the cheeky daughter of their mentor, Franco-Cuban poet José-Maria de Heredia. Although she loves Pierre, obeying her father she marries Henri to pay off her father's debt and in search of a better social position. Thereupon Pierre decides to flee to Algeria and there meets Zohar, with whom he shares a passion for erotic photography. Returning to Paris with her two years later, he finds Marie again, who confesses that he is the one she loves. They start an affair against the backdrop of Paris's erotic photography, in a cat-and-mouse game with people who involve their lives and breaking the codes set by society which will will make them one of the best-known writers and poets of 19th-century France."
+    },
+    {
+      "title": "The Canterville Ghost",
+      "years": "1900..1900",
+      "countries": [
+        "GB"
+      ],
+      "plot": "An American family moves into Canterville Chase, a stately countryside mansion that has been haunted by the ghost of Sir Simon De Canterville for 300 years."
+    },
+    {
+      "title": "Horror of Dracula",
+      "years": "1885..1885",
+      "countries": [
+        "DE",
+        "RO"
+      ],
+      "plot": "After Jonathan Harker attacks Dracula at his castle (apparently somewhere in Germany), the vampire travels to a nearby city, where he preys on the family of Harker's fiancée. The only one who may be able to protect them is Dr. van Helsing, Harker's friend and fellow-student of vampires, who is determined to destroy Dracula, whatever the cost."
+    },
+    {
+      "title": "Moulin Rouge!",
+      "years": "1899..1900",
+      "countries": [
+        "FR"
+      ],
+      "plot": "The year is 1899, and Christian, a young English writer, has come to Paris to follow the Bohemian revolution taking hold of the city's drug and prostitute infested underworld. And nowhere is the thrill of the underworld more alive than at the Moulin Rouge, a night club where the rich and poor men alike come to be entertained by the dancers, but things take a wicked turn for Christian as he starts a deadly love affair with the star courtesan of the club, Satine. But her affections are also coveted by the club's patron: the Duke. A dangerous love triangle ensues as Satine and Christian attempt to fight all odds to stay together but a force that not even love can conquer is taking its toll on Satine..."
+    },
+    {
+      "title": "The Extraordinary Adventures of Adèle Blanc-Sec",
+      "years": "1911..1912",
+      "countries": [
+        "FR"
+      ],
+      "plot": "Desperate to cure her near catatonic sister, intrepid authoress Adèle Blanc-Sec braves ancient Egyptian tombs and modern Egyptian lowlife to locate a mummified doctor and get him back to Paris. Her hope is that oddball Professor Espérandieu will then use his unusual powers to bring the doctor back to life so he, in turn, can use his centuries-old skills on the unfortunate sister. In Paris however Espérandieu is already causing mayhem, having brought to life what was a safe museum egg but is now a very active pterodactyl. Paris 1911 may not be the healthiest place to be."
+    },
+    {
+      "title": "The Quake",
+      "years": "1904..1904",
+      "countries": [
+        "NO"
+      ],
+      "plot": "In 1904 an earthquake of magnitude 5.4 on the Richter scale shook Oslo, with an epicenter in the \"Oslo Graben\" which runs under the Norwegian capital. There are now signs that indicate that we can expect a major future earthquake in Oslo."
+    },
+    {
+      "title": "Nosferatu the Vampyre",
+      "years": "1850..1850",
+      "countries": [
+        "DE",
+        "RO",
+        "NL",
+        "CZ",
+        "MX"
+      ],
+      "plot": "Jonathan Harker is sent away to Count Dracula's castle to sell him a house in Wismar where Jonathan lives. But Count Dracula is a vampire, an undead ghoul living off of men's blood. Inspired by a photograph of Lucy Harker, Jonathan's wife, Dracula moves to Wismar, bringing with him death and plague... An unusually contemplative version of Dracula, in which the vampire bears the curse of not being able to get old and die."
+    },
+    {
+      "title": "Battleship Potemkin",
+      "years": "1905..1905",
+      "countries": [
+        "UA",
+        "RU"
+      ],
+      "plot": "Based on the historical events the movie tells the story of a riot at the battleship Potemkin. What started as a protest strike when the crew was given rotten meat for dinner ended in a riot. The sailors raised the red flag and tried to ignite the revolution in their home port Odessa."
+    },
+    {
+      "title": "Total Eclipse",
+      "years": "1871..1873",
+      "countries": [
+        "FR",
+        "BE",
+        "DE",
+        "ET"
+      ],
+      "plot": "In 1871, Paul Verlaine (1844-1896), an established poet, invites boy genius Arthur Rimbaud (1854-1891) to live with Paul and his young pregnant wife, Mathiltde, in her father's home in Paris. Rimbaud's uncouth behavior disrupts the household as well as the insular society of French poets, but Verlaine finds the youth invigorating. Stewed in absinthe and resentment, Verlaine abuses Mathiltde; he and Rimbaud become lovers and abandon her. There are reconciliations and partings with Mathiltde and partings and reconciliations with Rimbaud, until an 1873 incident with a pistol sends one of them to prison. Codas dramatize the poets' final meeting and last illnesses."
+    },
+    {
+      "title": "Ripper Untold",
+      "years": "1888..1888",
+      "countries": [
+        "GB"
+      ],
+      "plot": "A detective and a medical examiner join forces to solve a series of horrific murders in Victorian London - but one of them harbours a deadly secret."
+    },
+    {
+      "title": "Silver Skates",
+      "years": "1899..1900",
+      "countries": [
+        "RU",
+        "FR"
+      ],
+      "plot": "The 20th century is just around the corner. In winter, St. Petersburg transforms into a fairy tale-like wonderland where frozen rivers and canals serve as the iced-over roads and bustle with skaters and markets. The city is home to 18-year-old Matvey who works as an ice-skating delivery boy at a local bakery. The son of a poor lamplighter, his only treasure is a pair of silver-plated skates he inherited from his father. When he is unjustly fired he joins a gang of pickpockets who work the canals, led by the revolutionary-minded Alex. Meanwhile, a high-ranking official's daughter Alisa feels like a prisoner in her father's mansion. She dreams of studying science which goes against her father's conservative views on a woman's role in society. One day their paths cross."
+    },
+    {
+      "title": "A Monster in Paris",
+      "years": "1910..1910",
+      "countries": [
+        "FR"
+      ],
+      "plot": "Paris, 1910. Emile, a shy movie projectionist, and Raoul, a colorful inventor, find themselves embarked on the hunt for a monster terrorizing citizens. They join forces with Lucille, the big-hearted star of the Rare Bird cabaret, an eccentric scientist and his irascible monkey to save the monster, who turns out to be an over-sized but harmless flea, from the city's ruthlessly ambitious police chief."
+    },
+    {
+      "title": "At Eternity's Gate",
+      "years": "1888..1890",
+      "countries": [
+        "FR"
+      ],
+      "plot": "During a self-imposed exile in Arles and Auvers-Sur-Oise, France, Dutch painter Vincent van Gogh develops his unique, colorful style of painting. While grappling with religion, mental illness and a tumultuous friendship with French artist Paul Gauguin, van Gogh begins to focus on his relationship with eternity rather than the pain his art causes him in the present."
+    },
+    {
+      "title": "Creation",
+      "years": "1851..1858",
+      "countries": [
+        "GB",
+        "BD",
+        "IN"
+      ],
+      "plot": "What happens when a world-renowned scientist, crushed by the loss of his eldest daughter, formulates a theory in conflict with religious dogma? This is the story of Charles Darwin and his master-work \"The Origin of Species\". It tells of a global revolution played out within the confines of a small English village; a passionate marriage torn apart by the most dangerous idea in history; and a theory saved from extinction by the logic of a child."
+    },
+    {
+      "title": "Hamlet",
+      "years": "1890..1890",
+      "countries": [
+        "DK",
+        "FR",
+        "GB"
+      ],
+      "plot": "Hamlet (Sir Kenneth Branagh), son of the King of Denmark (Brian Blessed), is summoned home for his father's funeral and his mother Gertrude's (Julie Christie's) wedding to his uncle Claudius (Sir Derek Jacobi). In a supernatural episode, he discovers that his uncle, who he hates anyway, murdered his father. In an incredibly convoluted plot, the most complicated and most interesting in all literature, he manages to (impossible to put this in exact order) feign (or perhaps not to feign) madness, murder the \"Prime Minister\", love and then unlove an innocent who he drives to madness, plot and then unplot against the uncle, direct a play within a play, successfully conspire against the lives of two well-meaning friends, and finally take his revenge on the uncle, but only at the cost of almost every life on-stage, including his own and his mother's."
+    },
+    {
+      "title": "The Limehouse Golem",
+      "years": "1880..1880",
+      "countries": [
+        "GB"
+      ],
+      "plot": "Victorian London is terrorized by an unknown serial killer who leaves cryptic messages with the victim's blood. When the killings increase, Scotland Yard assigns the case to a famous inspector."
+    },
+    {
+      "title": "The Aeronauts",
+      "years": "1862..1862",
+      "countries": [
+        "GB"
+      ],
+      "plot": "In 1862, pioneering meteorologist James Glaisher (Eddie Redmayne) teams up with daredevil balloon pilot Amelia Rennes (Felicity Jones) to advance human knowledge of the weather and fly higher than anyone in history. While their voyage to the very edge of existence helps the unlikely pair find their place in the world, they face physical and emotional challenges in the thin air, as the ascent becomes a fight for survival."
+    },
+    {
+      "title": "The Canterville Ghost",
+      "years": "1900..1900",
+      "countries": [
+        "GB",
+        "US"
+      ],
+      "plot": "An American family moves into Canterville Chase, a stately countryside mansion that has been haunted by the ghost of Sir Simon De Canterville for 300 years."
+    },
+    {
+      "title": "Fear the Invisible Man",
+      "years": "1880..1880",
+      "countries": [
+        "GB"
+      ],
+      "plot": "A young British widow shelters an old medical school colleague, a man who has somehow turned himself invisible. As his isolation grows and his sanity frays, he schemes to create a reign of wanton murder and terror across the city ..."
+    },
+    {
+      "title": "Moulin Rouge",
+      "years": "1890..1891",
+      "countries": [
+        "FR"
+      ],
+      "plot": "A fictionalized account of the latter part of the life of French artist Henri de Toulouse Lautrec (1864-1901) is presented, he who is arguably most renowned professionally for immortalizing the characters of the Paris can-can dance hall, the Moulin Rouge, on canvas. This phase of his story begins in 1890. Born into aristocracy, Toulouse-Lautrec moves to Paris to pursue his art as he hangs out at the Moulin Rouge where he feels like he fits in being a misfit among other misfits. His misfit status is due to his diminutive physical stature, his legs which were broken and stopped growing following a childhood fall down some stairs. Because of the way he looks, he believes he is never destined to experience the true love of a woman. That lack of love in his life may change as he meets two women. The first is prostitute Marie Charlet, who he saves from imprisonment in a white knight act. Their relationship ends up being a turbulent one, the downs where each feels the need to hurt the other with their core issues, namely Toulouse-Lautrec's disability and Marie's profession. The second is socialite Myriamme Hayam. In more indirect acts, Toulouse-Lautrec also ends up being her savior, one of those indirect acts being his painting, one which she has purchased, its subject making her reflect on what she sees as the troubles with her own life."
+    },
+    {
+      "title": "Princess Principal Crown Handler: Chapter 2",
+      "years": "1900..1900",
+      "countries": [
+        "GB"
+      ],
+      "plot": "I'm just leaving this here because no one else has (and if you're wondering you can watch this on gogoanime) but this series is crushingly underrated. It's super fun, interesting, action and mystery packed, the characters are good, the animation is good, there are good concepts that are executed well, idk man I just don't have any complaints really. I can't believe how few people have watched Princess Principal, and I would definitely recommend it."
+    },
+    {
+      "title": "The Phantom of the Opera",
+      "years": "1890..1890",
+      "countries": [
+        "FR"
+      ],
+      "plot": "At the Opera of Paris, a mysterious phantom threatens a famous lyric singer, Carlotta, and forces her to give up her role (Marguerite in Faust) for unknown Christine Daae. Christine meets this phantom (a masked man) in the catacombs, where he lives. What's his goal? What's his secret?"
+    },
+    {
+      "title": "Sherlock Holmes",
+      "years": "1890..1890",
+      "countries": [
+        "GB"
+      ],
+      "plot": "After finally catching serial killer and occult \"sorcerer\" Lord Blackwood, legendary sleuth Sherlock Holmes and his assistant Dr. Watson can close yet another successful case. But when Blackwood mysteriously returns from the grave and resumes his killing spree, Holmes must take up the hunt once again. Contending with his partner's new fiancée and the dimwitted head of Scotland Yard, the dauntless detective must unravel the clues that will lead him into a twisted web of murder, deceit, and black magic - and the deadly embrace of temptress Irene Adler."
+    },
+    {
+      "title": "Corpse Bride",
+      "years": "1870..1899",
+      "countries": [
+        "GB"
+      ],
+      "plot": "Set back in the late 1800s in a Victorian village, a man and woman by the names of Victor Van Dort and Victoria Everglot are betrothed because the Everglots need the money or else they'll be living on the streets and the Van Dorts want to be high in society. But when things go wrong at the wedding rehearsal, Victor goes into the woods to practice his vows. Just as soon as he gets them right, he finds himself married to Emily, the corpse bride. While Victoria waits on the other side, there's a rich newcomer that may take Victor's place. So two brides, one groom, who will Victor pick?"
+    },
+    {
+      "title": "The Leopard",
+      "years": "1860..1860",
+      "countries": [
+        "IT"
+      ],
+      "plot": "In the 1860s, a dying aristocracy struggles to maintain itself against a harsh Sicilian landscape. The film traces with a slow and deliberate rhythm the waning of the noble home of Fabrizio Corbero, Prince of Salina (the Leopard) and the corresponding rise to eminence of the enormously wealthy ex-peasant Don Calogero Sedara. The prince himself refuses to take active steps to halt the decline of his personal fortunes or help build a new Sicily, but his nephew Tancredi, Prince of Falconeri, swims with the tide and assures his own position by marrying Don Calogero's beautiful daughter Angelica. The climatic scene is the sumptuous 40-minute ball in which Tancredi introduces Angelica to society."
+    },
+    {
+      "title": "Steamboy",
+      "years": "1866..1866",
+      "countries": [
+        "GB",
+        "US"
+      ],
+      "plot": "Rei is a young inventor living in the U.K. in the middle of the nineteenth century. Shortly before the first World Expo, a marvelous invention called the \"Steam Ball\", behind which a menacing power is hidden, arrives at his door from his grandfather Roid in the U.S. Meanwhile, the nefarious O'Hara Foundation has sent men to acquire the Steam Ball, so that they can use its power towards their own illicit ends."
+    },
+    {
+      "title": "The Innocents",
+      "years": "1898..1898",
+      "countries": [
+        "GB"
+      ],
+      "plot": "A young governess for two children becomes convinced that the house and grounds are haunted."
+    },
+    {
+      "title": "The Aristocats",
+      "years": "1910..1910",
+      "countries": [
+        "FR"
+      ],
+      "plot": "Retired opera star Adelaide Bonfamille enjoys the good life in her Paris villa with even classier cat Duchess and three kittens: pianist Berlioz, painter Toulouse and sanctimonious Marie. When loyal butler Edgar overhears her will leaves everything to the cats until their death, he drugs and kidnaps them. However retired army dogs make his sidecar capsize on the country. Crafty stray cat Thomas O'Malley takes them under his wing back to Paris. Edgar tries to cover his tracks and catch them at return, but more animals turn on him, from the cart horse Frou-Frou to the tame mouse Roquefort and O'Malley's jazz friends."
+    },
+    {
+      "title": "Shanghai Knights",
+      "years": "1887..1887",
+      "countries": [
+        "GB",
+        "US",
+        "CN"
+      ],
+      "plot": "When a Chinese rebel murders Chon's estranged father and escapes to England, Chon and Roy make their way to London with revenge on their minds. Chon's sister, Lin, has the same idea, and uncovers a worldwide conspiracy to murder the royal family but almost no one will believe her."
+    },
+    {
+      "title": "A Room with a View",
+      "years": "1907..1907",
+      "countries": [
+        "IT",
+        "GB"
+      ],
+      "plot": "When Lucy Honeychurch (Helena Bonham Carter) and chaperone Charlotte Bartlett (Dame Maggie Smith) find themselves in Florence with rooms without views, fellow guests Mr. Emerson (Denholm Elliott) and son George (Julian Sands) step in to remedy the situation. Meeting the Emersons could change Lucy's life forever, but once back in England, how will her experiences in Tuscany affect her marriage plans?"
+    },
+    {
+      "title": "In Secret",
+      "years": "1860..1860",
+      "countries": [
+        "FR"
+      ],
+      "plot": "Set in the lower echelons of 1860s Paris, Therese Raquin, a sexually repressed beautiful young woman, is trapped into a loveless marriage to her sickly cousin, Camille, by her domineering aunt, Madame Raquin. Therese spends her days confined behind the counter of a small shop and her evenings watching Madame play dominoes with an eclectic group. After she meets her husband's alluring friend, Laurent, she embarks on an illicit affair that leads to tragic consequences."
+    },
+    {
+      "title": "Mathilde",
+      "years": "1890..1896",
+      "countries": [
+        "RU",
+        "DE"
+      ],
+      "plot": "This glorious costume drama is set at the twilight of Imperial Russia. It is based on the true story of a romantic relationship between the heir to the Russian throne, Nicholay Romanoff, and a ballerina in the Imperial Theater, Matilda Kshesinskaya, from the time the 22-year-old crown prince and 18-year-old dancer met in 1890 the coronation of Nicolay and his wife Aleksandra Fedorovna in 1896."
+    },
+    {
+      "title": "Ripper's Revenge",
+      "years": "1889..1889",
+      "countries": [
+        "GB"
+      ],
+      "plot": "One year on from the notorious \"Jack The Ripper\" murders, the killings have stopped, but the identity of the killer remains a mystery. Down-at-heel newspaper reporter Sebastian Stubb has moved on to reporting on other scandals, bu..."
+    },
+    {
+      "title": "Victoria & Abdul",
+      "years": "1888..1901",
+      "countries": [
+        "GB",
+        "IN"
+      ],
+      "plot": "Abdul Karim (Ali Fazal) arrives from India to participate in Queen Victoria's (Dame Judi Dench's) golden jubilee. The young clerk is surprised to find favor with the Queen. As Victoria questions the constrictions of her long-held position, the two forge an unlikely and devoted alliance that her household and inner circle try to destroy. As their friendship deepens, the Queen begins to see a changing world through new eyes, joyfully reclaiming her humanity."
+    },
+    {
+      "title": "Hysteria",
+      "years": "1880..1880",
+      "countries": [
+        "GB"
+      ],
+      "plot": "In 1880 pioneering doctor Mortimer Granville,sacked from various hospitals for challenging his superiors' out-moded methods,gets a job with Dr Dalrymple,who relieves female patients' frustrations - or hysteria - with pelvic massages which allow orgasm. The handsome young doctor attracts a large female clientele and gets engaged to Dalrymple's studious younger daughter Emily but after the constant massaging brings on a carpal injury he is sacked. Fortunately an enterprising inventor friend has come up with a power operated feather duster which will soon be transformed into a vibrator and make Mortimer a fortune. Along the way he also realises that his heart really lies with Emily's older sister Charlotte,an outspoken suffragette who runs a home for disadvantaged women in London's East End."
+    },
+    {
+      "title": "Sissi",
+      "years": "1854..1854",
+      "countries": [
+        "AT",
+        "DE"
+      ],
+      "plot": "The young Emperor Franz Joseph is on his way to his summer residence at Ischl, where his birthday will be celebrated with a big party. His mother, Archduchess Sophie, has decided that he shall marry her niece Princess Helene of Bayern, and that the engagement shall be proclaimed at the ball. Franz Joseph doesn't know Helene yet, but his mother has already prepared everything. To avoid suspicions of what is going on, her sister, Duchess Ludovika of Bavaria, brings not only Princess Helene, called Néné, to the ball, but also the younger Princess Elisabeth, called Sissi. Archduchess Sophie is particular about strict etiquette at the court, and dislikes her niece Sissi, who is a free spirit, just as her father, Duke Max of Bavaria. To keep Sissi inactive, her room in Ischl is locked from outside, but Sissi escapes through a window. She goes to the woods, and when she is fishing in a river, Emperor Franz Joseph passes by in his royal carriage. He is immediately enamored by Sissi, who doesn't reveal her true identity. When Franz Joseph recognizes Sissi at the ball the same evening, he defies his mother and proclaims that Sissi will become his wife and the new Empress of Austria."
+    },
+    {
+      "title": "Arsène Lupin",
+      "years": "1905..1905",
+      "countries": [
+        "FR"
+      ],
+      "plot": "Follows the adventures of Arsène Lupin, an aristocratic Belle Époque gentleman robber who preys on the rich and is kind to the poor. Fate teams him up with the beautiful and mysterious Countess of Cagliostro who is involved in a devious plot to recover the treasure of the kings of France. However, an underground monarchist network is also after the treasure."
+    },
+    {
+      "title": "The Portrait of a Lady",
+      "years": "1872..1872",
+      "countries": [
+        "GB",
+        "IT"
+      ],
+      "plot": "Isabel Archer, an American heiress and free thinker travels to Europe to find herself. She tactfully rebuffs the advances of Caspar Goodwood, another American who has followed her to England. Her cousin, Ralph Touchett, wise but sickly becomes a soulmate of sorts for her. She makes an unfortunate alliance with the creepy Madame Merle who leads her to make an even more unfortunate alliance with Gilbert Osmond, a smooth but cold collector of Objets' de art who seduces her with an intense but unattainable sexuality. Isabel marries Osmond only to realize she's just another piece of art for his collection and that Madame Merle and Osmond are lovers who had hatched a diabolical scheme to take Isabel's fortune. Isabel's only comfort is the innocent daughter of Osmond, Pansy, but even that friendship is spoiled when Countess Gemini, Osmond's sister, reveals the child's true parentage. Isabel finally breaks free of Osmond and returns to Ralph's bedside, where, while breathing his last, they both realize how truly connected they are, physically, emotionally, and spiritually."
+    },
+    {
+      "title": "An American Tail",
+      "years": "1885..1885",
+      "countries": [
+        "RU",
+        "DE",
+        "US"
+      ],
+      "plot": "Fievel is a young Russian mouse separated from his parents on the way to America, a land they think is without cats. When he arrives alone in the New World, he keeps up hope, searching for his family, making new friends, and running and dodging the cats he thought he'd be rid off."
+    },
+    {
+      "title": "Howards End",
+      "years": "1910..1911",
+      "countries": [
+        "GB",
+        "DE"
+      ],
+      "plot": "Encounter of three social classes of England at the beginning of the twentieth century: the Victorian capitalists (the Wilcoxes) considering themselves as aristocrats, whose only god is money; the enlightened bourgeois (the Schlegels), humanistic and philanthropic; and the workers (the Basts), fighting to survive. The Schlegel sisters' humanism will be torn apart as they try both to softly knock down the Wilcox's prejudices and to help the Basts."
+    },
+    {
+      "title": "A Werewolf in England",
+      "years": "1880..1889",
+      "countries": [
+        "GB"
+      ],
+      "plot": "In Victorian-era England, a Parish Councillor and criminal take refuge from a storm, at a remote countryside Inn, and soon uncover a deadly pact between the deranged Innkeepers and the flesh-hungry werewolves that inhabit the surrounding woodlands."
+    },
+    {
+      "title": "Pinocchio",
+      "years": "1900..1900",
+      "countries": [
+        "IT"
+      ],
+      "plot": "A live-action adaptation of Disney's 'Pinocchio'."
+    },
+    {
+      "title": "Remi, Nobody's Boy",
+      "years": "1860..1860",
+      "countries": [
+        "FR"
+      ],
+      "plot": "The adventures of the young Rémi, an orphan, collected by the gentle Madam Barberin. At the age of 10 years, he is snatched from his adoptive mother and entrusted to the signor Vitalis, a mysterious itinerant musician. Has its sides, he will learn the harsh life of acrobat and sing to win his bread. Accompanied by the faithful dog capi and of the small monkey Joli-Coeur, his long trip through France, made for meetings, friendships and mutual assistance, leads him to the secret of its origins."
+    },
+    {
+      "title": "Lady Macbeth",
+      "years": "1865..1865",
+      "countries": [
+        "GB"
+      ],
+      "plot": "Rural England, 1865. Katherine is stifled by her loveless marriage to a bitter man twice her age, whose family are cold and unforgiving. When she embarks on a passionate affair with a young worker on her husband's estate, a force is unleashed inside her, so powerful that she will stop at nothing to get what she wants."
+    },
+    {
+      "title": "Alice in Wonderland",
+      "years": "1865..1865",
+      "countries": [
+        "GB"
+      ],
+      "plot": "Alice is a daydreaming young girl. She finds learning poems and listening to literature boring. She prefers stories with pictures and to live inside her imagination. One day, while enduring just such a poetry reading, she spots a large white rabbit...dressed in a jacket and carrying a large watch. He scurries off, saying he's late, for a very important date. She follows him through the forest. He then disappears down a rabbit hole. Alice follows, leading her to all manner of discoveries, characters and adventures."
+    },
+    {
+      "title": "Princess Principal Crown Handler: Chapter 1",
+      "years": "1899..1899",
+      "countries": [
+        "GB"
+      ],
+      "plot": "In London at the end of the 19th century and after the events of Princess Principal (2017). The Empire is increasing counter-spy actions in the wake of the incident, and finds Control, the Commonwealth group in charge of covert operations against the Empire, at unease and suspecting its spy within the royal family as a double agent. Control assigns their spy ring Dove with a new mission to extract a secondhand bookstore owner and deliver him to Commonwealth hands. Ange, Dorothy, and Chise successfully spring the bookstore owner from an Imperial prison. Control also assigns Dove to make contact with Bishop, their spy within the royal family, to ascertain their loyalties."
+    },
+    {
+      "title": "Monty Python's the Meaning of Life",
+      "years": "1879..1879",
+      "countries": [
+        "GB",
+        "US",
+        "FR",
+        "ZA",
+        "LY"
+      ],
+      "plot": "Why are we here, what's it all about? The Monty Python team is trying to sort out the most important question on Earth: what is the meaning of life? They do so by exploring the various stages of life, starting with birth. A doctor seems more interested in his equipment than in delivering the baby or caring for the mother, a Roman Catholic couple have quite a lot of children because \"every sperm is sacred\". In the growing and learning part of life, Catholic schoolboys attend a rather strange church service and ditto sex education lesson. Onto war, where an officer's plan to attack is thwarted by his underlings wanting to celebrate his birthday, and an officer's leg is bitten off by presumably an African tiger. At middle age, a couple orders \"philosophy\" at a restaurant, after which, the movie continues with live organ transplants. The autumn years are played in a restaurant, which, after being treated to the song \"Isn't It Awfully Nice to Have a Penis?\" by an entertainer, sees the arrival of an extremely fat man. He can eat a lot, but also throw up quite copiously. The Grim Reaper brings for the final stage of human life, death, a visit to a mansion, where the people are rather interested in him. But life doesn't stop at death. It's onto heaven, where it's always Christmas."
+    }
+  ],
+  "categories": [
+    {
+      "label": "old aristocratic houses losing their grip",
+      "description": "Across Europe, titled families still command land, manners, and ceremony, but money, liberal politics, and ambitious newcomers are eating away at their unquestioned supremacy. What you'll see: decaying estates, rigid court etiquette, marriage bargains for rank or cash, and grand balls shadowed by social unease.",
+      "icon": "🏰"
+    },
+    {
+      "label": "steam and spectacle remaking public life",
+      "description": "Steam power, new engines, and a taste for invention make mechanical progress seem both marvelous and dangerous, turning science into public entertainment as well as practical change. What you'll see: locomotives and stations, balloons and launch devices, workshops full of brass contraptions, exhibition halls, and crowds gawking at feats of modern ingenuity.",
+      "icon": "🚂"
+    },
+    {
+      "label": "great capitals swelling with strangers",
+      "description": "Big cities draw artists, clerks, labourers, migrants, and the desperate into dense neighborhoods where wealth, misery, and anonymity stand side by side. What you'll see: gaslit streets, alleys and boarding houses, market stalls, riverside traffic, cramped shops, and the constant press of urban crowds.",
+      "icon": "🌆"
+    },
+    {
+      "label": "cabarets, opera houses, and café society",
+      "description": "Entertainment is a central part of city life, with music halls, opera, dance venues, and cafés linking bohemian circles, respectable audiences, and wealthy patrons. What you'll see: backstage corridors, painted posters, can-can halls, orchestra pits, absinthe at café tables, and performance rooms where art and commerce mingle.",
+      "icon": "🎭"
+    },
+    {
+      "label": "marriage and inheritance ruling family life",
+      "description": "Households are ordered by property, reputation, and parental authority, so courtship is rarely just personal feeling and often a matter of dowry, alliance, and respectability. What you'll see: arranged matches, anxious discussions of fortunes, governesses and chaperones, wills and settlements, and domestic interiors thick with social expectation.",
+      "icon": "💍"
+    },
+    {
+      "label": "women pushing against narrow respectability",
+      "description": "Middle- and upper-class women live under strict ideas about duty, purity, and obedience, yet education, work, pleasure, and political causes open contested new possibilities. What you'll see: corseted drawing rooms, suffrage talk, women barred from study or profession, sexual double standards, and small acts of defiance inside polite society.",
+      "icon": "👒"
+    },
+    {
+      "label": "science challenging church and old certainties",
+      "description": "New learning in medicine, natural history, and the study of the heavens weakens inherited beliefs and raises fears about what human reason ought to uncover. What you'll see: laboratories and lecture rooms, specimens and microscopes, arguments over Darwin and faith, physicians with new instruments, and wonders treated as scientific puzzles.",
+      "icon": "🔬"
+    },
+    {
+      "label": "police files, newspapers, and public panic",
+      "description": "Modern cities are increasingly watched and narrated through detectives, morgues, official inquiries, and mass reporting, so crime becomes a matter of public obsession rather than local rumor alone. What you'll see: Scotland Yard offices, medical examiners, sensational headlines, street gossip, wanted notices, and crowds gathering around scenes of alarm.",
+      "icon": "🕵️"
+    },
+    {
+      "label": "empires tying Europe to distant lands",
+      "description": "European life is bound to overseas dominion, global travel, and colonial extraction, bringing foreign goods, people, and ideas into the metropolis while reinforcing imperial rank. What you'll see: ocean voyages, gentlemen's clubs discussing the wider world, colonial servants or visitors, Egyptian antiquities, Indian connections at court, and maps of far-flung routes.",
+      "icon": "🗺️"
+    },
+    {
+      "label": "workers and servants beneath polite society",
+      "description": "Behind refined manners stands a world of servants, clerks, sailors, delivery boys, and laboring families whose lives are precarious and whose grievances feed unrest. What you'll see: kitchens and servants' stairs, shop counters, barracks and ship decks, frozen delivery routes, exhausted lodgings, and talk of strikes, radicals, or revolution.",
+      "icon": "🧹"
+    }
+  ]
+}

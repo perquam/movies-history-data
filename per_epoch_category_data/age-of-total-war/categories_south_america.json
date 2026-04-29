@@ -1,0 +1,135 @@
+{
+  "epoch": "age-of-total-war",
+  "continent": "south_america",
+  "sample_size": 8,
+  "sample": [
+    {
+      "title": "Jungle Cruise",
+      "years": "1916..1916",
+      "countries": [
+        "BR",
+        "GB"
+      ],
+      "plot": "1916. Dreaming about saving countless lives and having another adventure, the feisty English feminist and doctor of botany, Dr Lily Houghton, embarks on a peril-laden mission to change the world. Along with her fashionable brother, MacGregor, Dr Houghton enlists the help of the arrogant, wisecracking riverboat skipper, Captain Frank Wolff, to guide them through the serpentine Amazon River in La Quila, his swift wooden boat. Now, as the intrepid trio ventures deeper and deeper into the heart of an impenetrable green maze, searching for something that cannot be found, a centuries-old curse and the ruthless aristocrat, Prince Joachim, threaten to put an end to their ambitious plans. And, sooner or later, the jungle always wins. Is it true that the Spanish conquistador, Don Aguirre, was lost in the same God-forsaken part of the world?"
+    },
+    {
+      "title": "Papillon",
+      "years": "1933..1941",
+      "countries": [
+        "GF",
+        "CO"
+      ],
+      "plot": "Based on the international best-selling autobiographical books \"Papillon\" and \"Banco\", PAPILLON follows the epic story of Henri \"Papillon\" Charrière (Charlie Hunnam), a safecracker from the Parisian underworld who is framed for murder and condemned to life in the notorious penal colony on Devil's Island. Determined to regain his freedom, Papillon forms an unlikely alliance with quirky convicted counterfeiter Louis Dega (Rami Malek), who in exchange for protection, agrees to finance Papillon's escape."
+    },
+    {
+      "title": "Encanto",
+      "years": "1910..1950",
+      "countries": [
+        "CO"
+      ],
+      "plot": "Encanto tells the tale of an extraordinary family, the Madrigals, who live hidden in the mountains of Colombia, in a magical house, in a vibrant town, in a wondrous, charmed place called an Encanto. The magic of the Encanto has blessed every child in the family with a unique gift from super strength to the power to heal-every child except one, Mirabel. But when she discovers that the magic surrounding the Encanto is in danger, Mirabel decides that she, the only ordinary Madrigal, might just be her exceptional family's last hope."
+    },
+    {
+      "title": "Saludos Amigos",
+      "years": "1941..1941",
+      "countries": [
+        "BR",
+        "BO",
+        "PE",
+        "CL",
+        "AR"
+      ],
+      "plot": "Live-action segments show members of the Disney staff touring South America and recording their impressions in sketches. These segue into four animated sections: \"Lake Titicaca\" depicts tourist Donald Duck's troubles with a stubborn llama; \"Pedro\" tells of a little mail plane's adventures flying over the treacherous Andes; \"El Gaucho Goofy\" transplants an American cowboy into the Argentine pampas; and in \"Aquarela do Brasil,\" Jose Carioca shows Donald the sights and sounds of Rio de Janiero."
+    },
+    {
+      "title": "Love Strange Love",
+      "years": "1937..1937",
+      "countries": [
+        "BR",
+        "FR"
+      ],
+      "plot": "In 1937, in São Paulo, 12-year-old Hugo comes from Santa Catarina. His grandmother is returning him to his mother, Anna, who is now with Osmar, the most influential politician in the state."
+    },
+    {
+      "title": "The House of the Spirits",
+      "years": "1926..1973",
+      "countries": [
+        "CL",
+        "CA"
+      ],
+      "plot": "In mid-20th-century, the impoverished Esteban marries Clara and they have a daughter, Blanca. Esteban works hard and eventually has enough money to buy a hacienda, and he eventually becomes a local patriarch. He becomes very conservative and is feared by his workers. When Blanca grows up, she falls in love with a young revolutionary, Pedro, who urges the workers to fight for socialism. It is unavoidable that Pedro and Esteban are pitted against each other. Esteban tries to stop the love affair between Pedro and his daughter by all means possible, but soon Blanca becomes pregnant and has a daughter. The void between father and daughter seems unbridgeable when Blanca moves in with Pedro."
+    },
+    {
+      "title": "Encanto at the Hollywood Bowl",
+      "years": "1900..1940",
+      "countries": [
+        "CO"
+      ],
+      "plot": "A musical celebrating the world, characters, and songs of Disney Animation's \"Encanto.\""
+    },
+    {
+      "title": "Raiders of the Lost Ark",
+      "years": "1936..1936",
+      "countries": [
+        "PE",
+        "NP",
+        "EG",
+        "GB",
+        "GR"
+      ],
+      "plot": "The year is 1936. An archeology professor named Indiana Jones is venturing in the jungles of South America searching for a golden statue. Unfortunately, he sets off a deadly trap but miraculously escapes. Then, Jones hears from a museum curator named Marcus Brody about a biblical artifact called The Ark of the Covenant, which can hold the key to human existence. Jones has to venture to vast places such as Nepal and Egypt to find this artifact. However, he will have to fight his enemy Rene Belloq and a band of Nazis in order to reach it."
+    }
+  ],
+  "categories": [
+    {
+      "label": "remote interiors reached by river and mule",
+      "description": "Much of the continent still lies beyond easy road or rail reach, so jungle rivers, mountain passes, and pack trails remain the ordinary ways into the interior. What you'll see: paddle steamers and launch boats, mule paths, rope bridges, steep Andean air routes, and long journeys where weather and terrain rule the pace.",
+      "icon": "🐴"
+    },
+    {
+      "label": "export ports tying republics to abroad",
+      "description": "Coastal capitals and river ports are bound to overseas markets, foreign visitors, and imported fashions even while the interior keeps older rhythms. What you'll see: bustling quays, customs houses, elegant city avenues, European goods, and ships carrying coffee, rubber, minerals, and letters across the sea.",
+      "icon": "⚓"
+    },
+    {
+      "label": "great estates ruling the countryside",
+      "description": "Large landed properties still dominate rural life, with owners acting as employers, patrons, judges, and political bosses over dependent workers and tenants. What you'll see: haciendas and plantations, peons in tied labour, manor houses above village huts, and daily deference mixed with simmering resentment.",
+      "icon": "🏡"
+    },
+    {
+      "label": "party bosses and strongmen shaping public life",
+      "description": "Republican institutions exist, but influence often flows through local caudillos, provincial patrons, and men who trade favours, police power, and family ties for obedience. What you'll see: back-room political visits, uniformed escorts, electioneering under pressure, and household life entangled with public office.",
+      "icon": "🪖"
+    },
+    {
+      "label": "prisons and penal colonies at empire's edge",
+      "description": "States use distant islands, jungle outposts, and hard-labour camps to remove the condemned far from ordinary society and hope of appeal. What you'll see: prison hulks, brutal barracks, chain gangs, guards in tropical stations, and escape plans measured against sea, fever, and sharks.",
+      "icon": "⛓️"
+    },
+    {
+      "label": "science, exploration, and treasure-seeking in the wilds",
+      "description": "The continent is treated by outsiders and city elites alike as a place of specimens, ruins, medicinal wonders, and hidden riches waiting to be claimed or catalogued. What you'll see: maps and field journals, archaeological idols, botanical quests, expedition gear, and arguments over who has the right to possess what is found.",
+      "icon": "🧭"
+    },
+    {
+      "label": "old Catholic forms beside local wonder",
+      "description": "Catholic belief shapes calendars, morals, and ceremonies, yet it sits alongside folk cures, household devotions, omens, and a living sense that places and ancestors hold power. What you'll see: chapels, candles, saints' images, blessings at home, reverence for miracles, and everyday talk that treats the marvellous as near at hand.",
+      "icon": "🕯️"
+    },
+    {
+      "label": "families carrying rank, duty, and silence",
+      "description": "Households are built around stern elders, inherited honour, and expectations about marriage, obedience, and the proper place of women, children, and dependants. What you'll see: grand family homes, tense meals, chaperoned courtship, secrets kept for reputation's sake, and domestic authority treated as law.",
+      "icon": "👪"
+    },
+    {
+      "label": "labour unrest and new leftward politics",
+      "description": "By the interwar years, rural workers and the urban poor are increasingly drawn into unions, reform movements, and socialist language that challenge old hierarchies. What you'll see: speeches to labourers, strikes and organising, clashes with landowners, and politics entering the village and the home.",
+      "icon": "✊"
+    },
+    {
+      "label": "aviation and modern travel crossing hard terrain",
+      "description": "New machines shorten distance across mountains and jungle, but they remain precarious, costly, and unevenly spread beside older forms of travel. What you'll see: small mail planes, river launches, motor cars in the city, improvised airstrips, and modern conveyance set against vast difficult landscapes.",
+      "icon": "🛩️"
+    }
+  ]
+}

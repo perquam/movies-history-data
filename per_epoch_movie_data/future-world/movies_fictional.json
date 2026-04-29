@@ -1,0 +1,1875 @@
+[
+  {
+    "movie_id": 76600,
+    "movie_idx": 63,
+    "imdb_id": "tt1630029",
+    "title": "Avatar: The Way of Water",
+    "production_year": "2022",
+    "genre": "Animation, Action, Adventure",
+    "plot": "Jake Sully lives with his newfound family formed on the extrasolar moon Pandora. Once a familiar threat returns to finish what was previously started, Jake must work with Neytiri and the army of the Na'vi race to protect their home.",
+    "runtime": "192 min",
+    "director": "James Cameron",
+    "actors": "Sam Worthington, Zoe Saldaña, Sigourney Weaver",
+    "production_country": "United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNWI0Y2NkOWEtMmM2OC00MjQ3LWI1YzItZGQxYzQ3NzI4NWZmXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/76600.webp",
+    "imdb_rating": "7.5",
+    "imdb_votes": "601,100",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Avatar:_The_Way_of_Water",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/76600.txt",
+    "plot_year_start": 2149,
+    "plot_year_end": 2151,
+    "epoch": "future-world",
+    "action_countries": [
+      "FICTIONAL"
+    ],
+    "action_continents": [
+      "FICTIONAL"
+    ],
+    "action_planet": "Pandora",
+    "action_universum": "Avatar",
+    "categories": [
+      {
+        "label": "colonies carved into hostile new worlds",
+        "description": "Human settlement pushes onto moons, deserts, and alien planets where air, water, and shelter are never taken for granted. What you'll see: domed towns, mining camps, terraforming schemes, survey crews, and settlers trying to make a life on dangerous ground.",
+        "icon": "🏕️"
+      },
+      {
+        "label": "frontier life under strange native worlds",
+        "description": "New worlds are not empty stages but places with their own ecologies, ancient inhabitants, and forces that settlers neither master nor fully comprehend. What you'll see: sentient forests, immense beasts, indigenous tribes, alien plagues, sacred landscapes, and newcomers learning the land can answer back.",
+        "icon": "🌳"
+      }
+    ]
+  },
+  {
+    "movie_id": 120,
+    "movie_idx": 219,
+    "imdb_id": "tt0120737",
+    "title": "The Lord of the Rings: The Fellowship of the Ring",
+    "production_year": "2001",
+    "genre": "Adventure, Drama, Fantasy",
+    "plot": "An ancient Ring thought lost for centuries has been found, and through a strange twist of fate has been given to a small Hobbit named Frodo. When Gandalf discovers the Ring is in fact the One Ring of the Dark Lord Sauron, Frodo must make an epic quest to the Cracks of Doom in order to destroy it. However, he does not go alone. He is joined by Gandalf, Legolas the elf, Gimli the Dwarf, Aragorn, Boromir, and his three Hobbit friends Merry, Pippin, and Samwise. Through mountains, snow, darkness, forests, rivers and plains, facing evil and danger at every corner the Fellowship of the Ring must go. Their quest to destroy the One Ring is the only hope for the end of the Dark Lords reign.",
+    "runtime": "178 min",
+    "director": "Peter Jackson",
+    "actors": "Elijah Wood, Ian McKellen, Orlando Bloom",
+    "production_country": "New Zealand, United States, United Kingdom",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNzIxMDQ2YTctNDY4MC00ZTRhLTk4ODQtMTVlOWY4NTdiYmMwXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/120.webp",
+    "imdb_rating": "8.9",
+    "imdb_votes": "2,190,837",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Lord_of_the_Rings:_The_Fellowship_of_the_Ring",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/120.txt",
+    "plot_year_start": 3001,
+    "plot_year_end": 3019,
+    "epoch": "future-world",
+    "action_countries": [
+      "FICTIONAL"
+    ],
+    "action_continents": [
+      "FICTIONAL"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Middle-earth",
+    "categories": [
+      {
+        "label": "old faiths persisting beside high devices",
+        "description": "Even amid star travel and artificed life, prophecy, sacred relics, rites, and godlike myths still organise how people understand fate and authority. What you'll see: desert messiahs, ancestral visions, holy books, ritual taboos, priestly orders, and machines treated with reverence or dread.",
+        "icon": "📿"
+      }
+    ]
+  },
+  {
+    "movie_id": 19995,
+    "movie_idx": 236,
+    "imdb_id": "tt0499549",
+    "title": "Avatar",
+    "production_year": "2009",
+    "genre": "Action, Adventure, Fantasy",
+    "plot": "When his brother is killed in a robbery, paraplegic Marine Jake Sully decides to take his place in a mission on the distant world of Pandora. There he learns of greedy corporate figurehead Parker Selfridge's intentions of driving off the native humanoid \"Na'vi\" in order to mine for the precious material scattered throughout their rich woodland. In exchange for the spinal surgery that will fix his legs, Jake gathers knowledge, of the Indigenous Race and their Culture, for the cooperating military unit spearheaded by gung-ho Colonel Quaritch, while simultaneously attempting to infiltrate the Na'vi people with the use of an \"avatar\" identity. While Jake begins to bond with the native tribe and quickly falls in love with the beautiful alien Neytiri, the restless Colonel moves forward with his ruthless extermination tactics, forcing the soldier to take a stand - and fight back in an epic battle for the fate of Pandora.",
+    "runtime": "162 min",
+    "director": "James Cameron",
+    "actors": "Sam Worthington, Zoe Saldaña, Sigourney Weaver",
+    "production_country": "United States, United Kingdom",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMDEzMmQwZjctZWU2My00MWNlLWE0NjItMDJlYTRlNGJiZjcyXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/19995.webp",
+    "imdb_rating": "7.9",
+    "imdb_votes": "1,486,308",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Avatar_(2009_film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/19995.txt",
+    "plot_year_start": 2154,
+    "plot_year_end": 2154,
+    "epoch": "future-world",
+    "action_countries": [
+      "FICTIONAL"
+    ],
+    "action_continents": [
+      "FICTIONAL"
+    ],
+    "action_planet": "Pandora",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "precious substances driving conquest and trade",
+        "description": "Whole worlds are prized for one rare thing—spice, ore, energy, or other singular wealth—and power gathers around whoever controls its source. What you'll see: extraction sites, guarded shipments, monopolies, bargaining over supply, and local peoples caught where wealth is dug from the land.",
+        "icon": "💎"
+      },
+      {
+        "label": "colonies carved into hostile new worlds",
+        "description": "Human settlement pushes onto moons, deserts, and alien planets where air, water, and shelter are never taken for granted. What you'll see: domed towns, mining camps, terraforming schemes, survey crews, and settlers trying to make a life on dangerous ground.",
+        "icon": "🏕️"
+      }
+    ]
+  },
+  {
+    "movie_id": 122917,
+    "movie_idx": 250,
+    "imdb_id": "tt2310332",
+    "title": "The Hobbit: The Battle of the Five Armies",
+    "production_year": "2014",
+    "genre": "Adventure, Fantasy",
+    "plot": "After the Dragon leaves the Lonely Mountain, the people of Lake-town see a threat coming. Orcs, dwarves, elves and people prepare for war. Bilbo sees Thorin going mad and tries to help. Meanwhile, Gandalf is rescued from the Necromancer's prison and his rescuers realize who the Necromancer is.",
+    "runtime": "144 min",
+    "director": "Peter Jackson",
+    "actors": "Ian McKellen, Martin Freeman, Richard Armitage",
+    "production_country": "New Zealand, United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTYzNDE3OTQ3MF5BMl5BanBnXkFtZTgwODczMTg4MjE@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/122917.webp",
+    "imdb_rating": "7.4",
+    "imdb_votes": "613,512",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Hobbit:_The_Battle_of_the_Five_Armies",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/122917.txt",
+    "plot_year_start": 3000,
+    "plot_year_end": 3019,
+    "epoch": "future-world",
+    "action_countries": [
+      "FICTIONAL"
+    ],
+    "action_continents": [
+      "FICTIONAL"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Middle-earth",
+    "categories": [
+      {
+        "label": "ruined earths and wounded homelands",
+        "description": "The home world is often spent, poisoned, overcrowded, or broken by old wars, forcing survivors into enclaves, megacities, or exile among the stars. What you'll see: wastelands, cursed zones, crowded towers, scavenged settlements, dead seas, and memories of a greener world.",
+        "icon": "🏚️"
+      }
+    ]
+  },
+  {
+    "movie_id": 438631,
+    "movie_idx": 290,
+    "imdb_id": "tt1160419",
+    "title": "Dune: Part One",
+    "production_year": "2021",
+    "genre": "Action, Adventure, Drama",
+    "plot": "A mythic and emotionally charged hero's journey, \"Dune\" tells the story of Paul Atreides, a brilliant and gifted young man born into a great destiny beyond his understanding, who must travel to the most dangerous planet in the universe to ensure the future of his family and his people. As malevolent forces explode into conflict over the planet's exclusive supply of the most precious resource in existence-a commodity capable of unlocking humanity's greatest potential-only those who can conquer their fear will survive.",
+    "runtime": "155 min",
+    "director": "Denis Villeneuve",
+    "actors": "Timothée Chalamet, Rebecca Ferguson, Zendaya",
+    "production_country": "United States, Canada",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNWIyNmU5MGYtZDZmNi00ZjAwLWJlYjgtZTc0ZGIxMDE4ZGYwXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/438631.webp",
+    "imdb_rating": "8.0",
+    "imdb_votes": "1,026,107",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Dune_(2021_film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/438631.txt",
+    "plot_year_start": 10000,
+    "plot_year_end": 30000,
+    "epoch": "future-world",
+    "action_countries": [
+      "FICTIONAL"
+    ],
+    "action_continents": [
+      "FICTIONAL"
+    ],
+    "action_planet": "Arrakis",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "precious substances driving conquest and trade",
+        "description": "Whole worlds are prized for one rare thing—spice, ore, energy, or other singular wealth—and power gathers around whoever controls its source. What you'll see: extraction sites, guarded shipments, monopolies, bargaining over supply, and local peoples caught where wealth is dug from the land.",
+        "icon": "💎"
+      },
+      {
+        "label": "colonies carved into hostile new worlds",
+        "description": "Human settlement pushes onto moons, deserts, and alien planets where air, water, and shelter are never taken for granted. What you'll see: domed towns, mining camps, terraforming schemes, survey crews, and settlers trying to make a life on dangerous ground.",
+        "icon": "🏕️"
+      }
+    ]
+  },
+  {
+    "movie_id": 121,
+    "movie_idx": 349,
+    "imdb_id": "tt0167261",
+    "title": "The Lord of the Rings: The Two Towers",
+    "production_year": "2002",
+    "genre": "Adventure, Drama, Fantasy",
+    "plot": "The continuing quest of Frodo and the Fellowship to destroy the One Ring. Frodo and Sam discover they are being followed by the mysterious Gollum. Aragorn, the Elf archer Legolas, and Gimli the Dwarf encounter the besieged Rohan kingdom, whose once great King Theoden has fallen under Saruman's deadly spell.",
+    "runtime": "179 min",
+    "director": "Peter Jackson",
+    "actors": "Elijah Wood, Ian McKellen, Viggo Mortensen",
+    "production_country": "New Zealand, United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMGQxMDdiOWUtYjc1Ni00YzM1LWE2NjMtZTg3Y2JkMjEzMTJjXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/121.webp",
+    "imdb_rating": "8.8",
+    "imdb_votes": "1,939,468",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Lord_of_the_Rings:_The_Two_Towers",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/121.txt",
+    "plot_year_start": 3018,
+    "plot_year_end": 3019,
+    "epoch": "future-world",
+    "action_countries": [
+      "FICTIONAL"
+    ],
+    "action_continents": [
+      "FICTIONAL"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "ruined earths and wounded homelands",
+        "description": "The home world is often spent, poisoned, overcrowded, or broken by old wars, forcing survivors into enclaves, megacities, or exile among the stars. What you'll see: wastelands, cursed zones, crowded towers, scavenged settlements, dead seas, and memories of a greener world.",
+        "icon": "🏚️"
+      }
+    ]
+  },
+  {
+    "movie_id": 122,
+    "movie_idx": 354,
+    "imdb_id": "tt0167260",
+    "title": "The Lord of the Rings: The Return of the King",
+    "production_year": "2003",
+    "genre": "Adventure, Drama, Fantasy",
+    "plot": "The final confrontation between the forces of good and evil fighting for control of the future of Middle-earth. Frodo and Sam reach Mordor in their quest to destroy the One Ring, while Aragorn leads the forces of good against Sauron's evil army at the stone city of Minas Tirith.",
+    "runtime": "201 min",
+    "director": "Peter Jackson",
+    "actors": "Elijah Wood, Viggo Mortensen, Ian McKellen",
+    "production_country": "New Zealand, United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTZkMjBjNWMtZGI5OC00MGU0LTk4ZTItODg2NWM3NTVmNWQ4XkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/122.webp",
+    "imdb_rating": "9.0",
+    "imdb_votes": "2,142,025",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Lord_of_the_Rings:_The_Return_of_the_King",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/122.txt",
+    "plot_year_start": 3018,
+    "plot_year_end": 3019,
+    "epoch": "future-world",
+    "action_countries": [
+      "FICTIONAL"
+    ],
+    "action_continents": [
+      "FICTIONAL"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Middle-earth",
+    "categories": [
+      {
+        "label": "ruined earths and wounded homelands",
+        "description": "The home world is often spent, poisoned, overcrowded, or broken by old wars, forcing survivors into enclaves, megacities, or exile among the stars. What you'll see: wastelands, cursed zones, crowded towers, scavenged settlements, dead seas, and memories of a greener world.",
+        "icon": "🏚️"
+      }
+    ]
+  },
+  {
+    "movie_id": 18095,
+    "movie_idx": 537,
+    "imdb_id": "tt0142232",
+    "title": "Dragon Ball GT: A Hero's Legacy",
+    "production_year": "1997",
+    "genre": "Animation, Action, Adventure",
+    "plot": "Goku Jr. is the great-great-grandson of the legendary warrior Goku, but unlike his predecessor he's not a brave fighter. He's constantly picked on by school bullies--his grandmother Pan sees this and is worried, but even though Goku Jr. is not a strong and powerful saiyan, he has a kind heart, and Pan loves him. When Pan gets sick, Goku Jr. realizes that he must do something if he doesn't want to lose her. Then he remembers about the legends of the Dragon Balls. It was told that they grant a wish to the bearer, and Goku Jr. needs a magical wish more than ever, so he sets out to find the dragon ball that his grandmother told him about.",
+    "runtime": "65 min",
+    "director": "Osamu Kasai",
+    "actors": "Masako Nozawa, Tôru Furuya, Miki Itô",
+    "production_country": "Japan",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZWYyZmZmYzQtMzVmYS00MWI5LWJiMzctNGEzMTM3N2ZjYTJlXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/18095.webp",
+    "imdb_rating": "6.4",
+    "imdb_votes": "2,924",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Dragon_Ball_GT:_A_Hero%27s_Legacy",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/18095.txt",
+    "plot_year_start": 2090,
+    "plot_year_end": 2090,
+    "epoch": "future-world",
+    "action_countries": [
+      "FICTIONAL"
+    ],
+    "action_continents": [
+      "FICTIONAL"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Dragon Ball Universe",
+    "categories": [
+      {
+        "label": "old faiths persisting beside high devices",
+        "description": "Even amid star travel and artificed life, prophecy, sacred relics, rites, and godlike myths still organise how people understand fate and authority. What you'll see: desert messiahs, ancestral visions, holy books, ritual taboos, priestly orders, and machines treated with reverence or dread.",
+        "icon": "📿"
+      }
+    ]
+  },
+  {
+    "movie_id": 49051,
+    "movie_idx": 556,
+    "imdb_id": "tt0903624",
+    "title": "The Hobbit: An Unexpected Journey",
+    "production_year": "2012",
+    "genre": "Adventure, Fantasy",
+    "plot": "Bilbo Baggins is swept into a quest to reclaim the lost Dwarf Kingdom of Erebor from the fearsome dragon Smaug. Approached out of the blue by the wizard Gandalf the Grey, Bilbo finds himself joining a company of thirteen dwarves led by the legendary warrior, Thorin Oakenshield. Their journey will take them into the Wild; through treacherous lands swarming with Goblins and Orcs, deadly Wargs and Giant Spiders, Shapeshifters and Sorcerers. Although their goal lies to the East and the wastelands of the Lonely Mountain first they must escape the goblin tunnels, where Bilbo meets the creature that will change his life forever ... Gollum. Here, alone with Gollum, on the shores of an underground lake, the unassuming Bilbo Baggins not only discovers depths of guile and courage that surprise even him, he also gains possession of Gollum's \"precious\" ring that holds unexpected and useful qualities ... A simple, gold ring that is tied to the fate of all Middle-earth in ways Bilbo cannot begin to know.",
+    "runtime": "169 min",
+    "director": "Peter Jackson",
+    "actors": "Martin Freeman, Ian McKellen, Richard Armitage",
+    "production_country": "New Zealand, United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTcwNTE4MTUxMl5BMl5BanBnXkFtZTcwMDIyODM4OA@@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/49051.webp",
+    "imdb_rating": "7.8",
+    "imdb_votes": "923,382",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Hobbit:_An_Unexpected_Journey",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/49051.txt",
+    "plot_year_start": 2941,
+    "plot_year_end": 2941,
+    "epoch": "future-world",
+    "action_countries": [
+      "FICTIONAL"
+    ],
+    "action_continents": [
+      "FICTIONAL"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Middle-earth",
+    "categories": [
+      {
+        "label": "frontier life under strange native worlds",
+        "description": "New worlds are not empty stages but places with their own ecologies, ancient inhabitants, and forces that settlers neither master nor fully comprehend. What you'll see: sentient forests, immense beasts, indigenous tribes, alien plagues, sacred landscapes, and newcomers learning the land can answer back.",
+        "icon": "🌳"
+      },
+      {
+        "label": "precious substances driving conquest and trade",
+        "description": "Whole worlds are prized for one rare thing—spice, ore, energy, or other singular wealth—and power gathers around whoever controls its source. What you'll see: extraction sites, guarded shipments, monopolies, bargaining over supply, and local peoples caught where wealth is dug from the land.",
+        "icon": "💎"
+      }
+    ]
+  },
+  {
+    "movie_id": 679,
+    "movie_idx": 660,
+    "imdb_id": "tt0090605",
+    "title": "Aliens",
+    "production_year": "1986",
+    "genre": "Action, Adventure, Horror",
+    "plot": "57 years after Ellen Ripley had a close encounter with the reptilian alien creature from the first movie, she is called back, this time, to help a group of highly trained colonial marines fight off against the sinister extraterrestrials. But this time, the aliens have taken over a space colony on the moon LV-426. When the colonial marines are called upon to search the deserted space colony, they later find out that they are up against more than what they bargained for. Using specially modified machine guns and enough firepower, it's either fight or die as the space marines battle against the aliens. As the Marines do their best to defend themselves, Ripley must attempt to protect a young girl who is the sole survivor of the nearly wiped out space colony.",
+    "runtime": "137 min",
+    "director": "James Cameron",
+    "actors": "Sigourney Weaver, Michael Biehn, Carrie Henn",
+    "production_country": "United Kingdom, United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZjIyNGJhYzYtN2I1My00OTVhLWEyMzItZTVjNDMzOTVkYWViXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/679.webp",
+    "imdb_rating": "8.4",
+    "imdb_votes": "835,609",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Aliens_(film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/679.txt",
+    "plot_year_start": 2179,
+    "plot_year_end": 2179,
+    "epoch": "future-world",
+    "action_countries": [
+      "FICTIONAL"
+    ],
+    "action_continents": [
+      "FICTIONAL"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "soldiering as an everyday way of life",
+        "description": "Many of these worlds are ordered by permanent readiness for war, where marines, judges, guards, and trained fighters stand close to civil power. What you'll see: barracks discipline, armed patrols, dropships, special units, fortress cities, and children or recruits shaped early for combat.",
+        "icon": "🪖"
+      },
+      {
+        "label": "colonies carved into hostile new worlds",
+        "description": "Human settlement pushes onto moons, deserts, and alien planets where air, water, and shelter are never taken for granted. What you'll see: domed towns, mining camps, terraforming schemes, survey crews, and settlers trying to make a life on dangerous ground.",
+        "icon": "🏕️"
+      }
+    ]
+  },
+  {
+    "movie_id": 131634,
+    "movie_idx": 689,
+    "imdb_id": "tt1951266",
+    "title": "The Hunger Games: Mockingjay - Part 2",
+    "production_year": "2015",
+    "genre": "Action, Adventure, Sci-Fi",
+    "plot": "After young Katniss Everdeen agrees to be the symbol of rebellion, the Mockingjay, she tries to return Peeta to his normal state, tries to get to the Capitol, and tries to deal with the battles coming her way...but all for her main goal: assassinating President Snow and returning peace to the Districts of Panem. As her squad starts to get smaller and smaller, will she make it to the Capitol? Will she get revenge on Snow or will her target change? Will she be with her \"Star-Crossed Lover,\" Peeta, or her long-time friend, Gale? Deaths, bombs, bow and arrows, a love triangle, hope... What will happen?",
+    "runtime": "137 min",
+    "director": "Francis Lawrence",
+    "actors": "Jennifer Lawrence, Josh Hutcherson, Liam Hemsworth",
+    "production_country": "United States, Germany, Canada, France",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNjQzNDI2NTU1Ml5BMl5BanBnXkFtZTgwNTAyMDQ5NjE@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/131634.webp",
+    "imdb_rating": "6.6",
+    "imdb_votes": "410,756",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Hunger_Games:_Mockingjay_%E2%80%93_Part_2",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/131634.txt",
+    "plot_year_start": 2070,
+    "plot_year_end": 2090,
+    "epoch": "future-world",
+    "action_countries": [
+      "FICTIONAL"
+    ],
+    "action_continents": [
+      "FICTIONAL"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "The Hunger Games",
+    "categories": [
+      {
+        "label": "ruined earths and wounded homelands",
+        "description": "The home world is often spent, poisoned, overcrowded, or broken by old wars, forcing survivors into enclaves, megacities, or exile among the stars. What you'll see: wastelands, cursed zones, crowded towers, scavenged settlements, dead seas, and memories of a greener world.",
+        "icon": "🏚️"
+      }
+    ]
+  },
+  {
+    "movie_id": 57158,
+    "movie_idx": 793,
+    "imdb_id": "tt1170358",
+    "title": "The Hobbit: The Desolation of Smaug",
+    "production_year": "2013",
+    "genre": "Adventure, Fantasy",
+    "plot": "After successfully crossing over (and under) the Misty Mountains, Thorin and Company must seek aid from a powerful stranger before taking on the dangers of Mirkwood Forest--without their Wizard. If they reach the human settlement of Lake-town it will be time for the hobbit Bilbo Baggins to fulfill his contract with the dwarves. The party must complete the journey to Lonely Mountain and burglar Baggins must seek out the Secret Door that will give them access to the hoard of the dragon Smaug. And, where has Gandalf got off to? And what is his secret business to the south?",
+    "runtime": "161 min",
+    "director": "Peter Jackson",
+    "actors": "Ian McKellen, Martin Freeman, Richard Armitage",
+    "production_country": "New Zealand, United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMzU0NDY0NDEzNV5BMl5BanBnXkFtZTgwOTIxNDU1MDE@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/57158.webp",
+    "imdb_rating": "7.8",
+    "imdb_votes": "749,778",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Hobbit:_The_Desolation_of_Smaug",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/57158.txt",
+    "plot_year_start": 2941,
+    "plot_year_end": 2941,
+    "epoch": "future-world",
+    "action_countries": [
+      "FICTIONAL"
+    ],
+    "action_continents": [
+      "FICTIONAL"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Middle-earth",
+    "categories": [
+      {
+        "label": "precious substances driving conquest and trade",
+        "description": "Whole worlds are prized for one rare thing—spice, ore, energy, or other singular wealth—and power gathers around whoever controls its source. What you'll see: extraction sites, guarded shipments, monopolies, bargaining over supply, and local peoples caught where wealth is dug from the land.",
+        "icon": "💎"
+      }
+    ]
+  },
+  {
+    "movie_id": 9016,
+    "movie_idx": 1084,
+    "imdb_id": "tt0133240",
+    "title": "Treasure Planet",
+    "production_year": "2002",
+    "genre": "Animation, Action, Adventure",
+    "plot": "In this science fiction rendering of the classic novel \"Treasure Island\", Jim Hawkins (Joseph Gordon-Levitt) is a rebellious teen seen by the world as an aimless slacker. After he receives a map from a dying pirate, he embarks on an odyssey across the universe to find the legendary Treasure Planet.",
+    "runtime": "95 min",
+    "director": "Ron Clements, John Musker",
+    "actors": "Joseph Gordon-Levitt, Emma Thompson, Martin Short",
+    "production_country": "United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BN2VjNjk5MTAtNDE3Ni00NjczLWFhN2EtNGQ1ZmZmOWRjZjIyXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/9016.webp",
+    "imdb_rating": "7.2",
+    "imdb_votes": "146,751",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Treasure_Planet",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/9016.txt",
+    "plot_year_start": 2100,
+    "plot_year_end": 2200,
+    "epoch": "future-world",
+    "action_countries": [
+      "FICTIONAL"
+    ],
+    "action_continents": [
+      "FICTIONAL"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "colonies carved into hostile new worlds",
+        "description": "Human settlement pushes onto moons, deserts, and alien planets where air, water, and shelter are never taken for granted. What you'll see: domed towns, mining camps, terraforming schemes, survey crews, and settlers trying to make a life on dangerous ground.",
+        "icon": "🏕️"
+      },
+      {
+        "label": "precious substances driving conquest and trade",
+        "description": "Whole worlds are prized for one rare thing—spice, ore, energy, or other singular wealth—and power gathers around whoever controls its source. What you'll see: extraction sites, guarded shipments, monopolies, bargaining over supply, and local peoples caught where wealth is dug from the land.",
+        "icon": "💎"
+      }
+    ]
+  },
+  {
+    "movie_id": 841,
+    "movie_idx": 1324,
+    "imdb_id": "tt0087182",
+    "title": "Dune",
+    "production_year": "1984",
+    "genre": "Action, Adventure, Sci-Fi",
+    "plot": "In the distant year of 10191, all the planets of the known Universe are under the control of Padishah Emperor Shaddam IV and the most important commodity in the Universe is a substance called the spice \"MELANGE\" which is said to have the power of extending life, expanding the consciousness and even to \"fold space\" ; being able to travel to any distance without physically moving. This spice \"MELANGE\" is said to only be produced in the desert planet of Arrakis, where the FREMEN people have the prophecy of a man who will lead them to true freedom. This \"desert planet\"of Arrakis is also known as DUNE. A secret report of the space \"GUILD\" talks about some circumstances and plans that could jeopardize the production of \"SPICE\" with four planets involved: ARRAKIS, CALADAN, GIEDI PRIME and KAITAIN, a world at least visually very alike to Earth and house of the Emperor of the known Universe. The \"GUILD\" sends a third stage navigator to KAITAIN to ask details from the Emperor and to demand him the killing of young Paul Atreides, son of the Duke Leto Atreides of CALADAN.",
+    "runtime": "137 min",
+    "director": "David Lynch",
+    "actors": "Kyle MacLachlan, Virginia Madsen, Francesca Annis",
+    "production_country": "United States, Mexico",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMGJlMGM3NDAtOWNhMy00MWExLWI2MzEtMDQ0ZDIzZDY5ZmQ2XkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/841.webp",
+    "imdb_rating": "6.3",
+    "imdb_votes": "191,067",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Dune_(1984_film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/841.txt",
+    "plot_year_start": 10191,
+    "plot_year_end": 10193,
+    "epoch": "future-world",
+    "action_countries": [
+      "FICTIONAL"
+    ],
+    "action_continents": [
+      "FICTIONAL"
+    ],
+    "action_planet": "Arrakis",
+    "action_universum": "Dune",
+    "categories": [
+      {
+        "label": "precious substances driving conquest and trade",
+        "description": "Whole worlds are prized for one rare thing—spice, ore, energy, or other singular wealth—and power gathers around whoever controls its source. What you'll see: extraction sites, guarded shipments, monopolies, bargaining over supply, and local peoples caught where wealth is dug from the land.",
+        "icon": "💎"
+      },
+      {
+        "label": "frontier life under strange native worlds",
+        "description": "New worlds are not empty stages but places with their own ecologies, ancient inhabitants, and forces that settlers neither master nor fully comprehend. What you'll see: sentient forests, immense beasts, indigenous tribes, alien plagues, sacred landscapes, and newcomers learning the land can answer back.",
+        "icon": "🌳"
+      }
+    ]
+  },
+  {
+    "movie_id": 861,
+    "movie_idx": 1701,
+    "imdb_id": "tt0100802",
+    "title": "Total Recall",
+    "production_year": "1990",
+    "genre": "Action, Adventure, Sci-Fi",
+    "plot": "Douglas Quaid is haunted by a recurring dream about a journey to Mars. He hopes to find out more about this dream and buys a holiday at Rekall Inc. where they sell implanted memories. But something goes wrong with the memory implantation and he remembers being a secret agent fighting against the evil Mars administrator Cohaagen. Now the story really begins and it's a rollercoaster ride until the massive end of the movie.",
+    "runtime": "113 min",
+    "director": "Paul Verhoeven",
+    "actors": "Arnold Schwarzenegger, Sharon Stone, Michael Ironside",
+    "production_country": "United States, Mexico, Netherlands",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZjRlMzBkOGMtMTA1Ny00ZWI4LTkzMDItOGVkNWJkN2E4ZTkwXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/861.webp",
+    "imdb_rating": "7.5",
+    "imdb_votes": "378,339",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Total_Recall_(1990_film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/861.txt",
+    "plot_year_start": 2084,
+    "plot_year_end": 2084,
+    "epoch": "future-world",
+    "action_countries": [
+      "FICTIONAL"
+    ],
+    "action_continents": [
+      "FICTIONAL"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "colonies carved into hostile new worlds",
+        "description": "Human settlement pushes onto moons, deserts, and alien planets where air, water, and shelter are never taken for granted. What you'll see: domed towns, mining camps, terraforming schemes, survey crews, and settlers trying to make a life on dangerous ground.",
+        "icon": "🏕️"
+      },
+      {
+        "label": "precious substances driving conquest and trade",
+        "description": "Whole worlds are prized for one rare thing—spice, ore, energy, or other singular wealth—and power gathers around whoever controls its source. What you'll see: extraction sites, guarded shipments, monopolies, bargaining over supply, and local peoples caught where wealth is dug from the land.",
+        "icon": "💎"
+      }
+    ]
+  },
+  {
+    "movie_id": 188927,
+    "movie_idx": 1712,
+    "imdb_id": "tt2660888",
+    "title": "Star Trek Beyond",
+    "production_year": "2016",
+    "genre": "Action, Adventure, Sci-Fi",
+    "plot": "After stopping off at Starbase Yorktown, a remote outpost on the fringes of Federation space, the USS Enterprise, halfway into their five-year mission, is destroyed by an unstoppable wave of unknown aliens. With the crew stranded on an unknown planet and with no apparent means of rescue, they find themselves fighting against a ruthless enemy with a well-earned hatred of the Federation and everything it stands for. Only a rebellious alien warrior can help them reunite and leave the planet to stop this deadly menace from beginning a possible galactic war.",
+    "runtime": "122 min",
+    "director": "Justin Lin",
+    "actors": "Chris Pine, Zachary Quinto, Karl Urban",
+    "production_country": "China, United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BN2FhNDI1YTYtNWI0OC00ZjYxLWJlYWEtN2ZiZjRmZDY1MWJjXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/188927.webp",
+    "imdb_rating": "7.0",
+    "imdb_votes": "268,984",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Star_Trek_Beyond",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/188927.txt",
+    "plot_year_start": 2258,
+    "plot_year_end": 2258,
+    "epoch": "future-world",
+    "action_countries": [
+      "FICTIONAL"
+    ],
+    "action_continents": [
+      "FICTIONAL"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Star Trek Universe",
+    "categories": [
+      {
+        "label": "spacefaring realms ruled from far capitals",
+        "description": "Vast distances are held together by empires, federations, alliances, and great houses whose decrees reach worlds they barely know. What you'll see: courtly titles beside starships, governors and admirals, tribute-bearing planets, and frontier stations living under distant authority.",
+        "icon": "👑"
+      },
+      {
+        "label": "ruined earths and wounded homelands",
+        "description": "The home world is often spent, poisoned, overcrowded, or broken by old wars, forcing survivors into enclaves, megacities, or exile among the stars. What you'll see: wastelands, cursed zones, crowded towers, scavenged settlements, dead seas, and memories of a greener world.",
+        "icon": "🏚️"
+      }
+    ]
+  },
+  {
+    "movie_id": 8077,
+    "movie_idx": 1818,
+    "imdb_id": "tt0103644",
+    "title": "Alien³",
+    "production_year": "1992",
+    "genre": "Action, Horror, Sci-Fi",
+    "plot": "Ellen Ripley (Sigourney Weaver) is the only survivor when she crash lands on Fiorina 161, a bleak wasteland inhabited by former inmates of the planet's maximum security prison. Once again, Ripley must face skepticism and the alien as it hunts down the prisoners and guards. Without weapons or modern technology of any kind, Ripley leads the men into battle against the terrifying creature.",
+    "runtime": "114 min",
+    "director": "David Fincher",
+    "actors": "Sigourney Weaver, Charles S. Dutton, Charles Dance",
+    "production_country": "United Kingdom, United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BOGZiNmVlZGEtM2VmMi00ZTFkLTliMzEtZDNhYzUzNTcxMGY3XkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/8077.webp",
+    "imdb_rating": "6.4",
+    "imdb_votes": "349,847",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Alien_3",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/8077.txt",
+    "plot_year_start": 2183,
+    "plot_year_end": 2183,
+    "epoch": "future-world",
+    "action_countries": [
+      "FICTIONAL"
+    ],
+    "action_continents": [
+      "FICTIONAL"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Alien franchise",
+    "categories": [
+      {
+        "label": "ruined earths and wounded homelands",
+        "description": "The home world is often spent, poisoned, overcrowded, or broken by old wars, forcing survivors into enclaves, megacities, or exile among the stars. What you'll see: wastelands, cursed zones, crowded towers, scavenged settlements, dead seas, and memories of a greener world.",
+        "icon": "🏚️"
+      },
+      {
+        "label": "colonies carved into hostile new worlds",
+        "description": "Human settlement pushes onto moons, deserts, and alien planets where air, water, and shelter are never taken for granted. What you'll see: domed towns, mining camps, terraforming schemes, survey crews, and settlers trying to make a life on dangerous ground.",
+        "icon": "🏕️"
+      }
+    ]
+  },
+  {
+    "movie_id": 11299,
+    "movie_idx": 2646,
+    "imdb_id": "tt0275277",
+    "title": "Cowboy Bebop: The Movie - Knockin' on Heaven's Door",
+    "production_year": "2001",
+    "genre": "Animation, Action, Crime",
+    "plot": "The year is 2071. Following a terrorist bombing, a deadly virus is released on the populace of Mars and the government has issued a 300 million woo-long reward, the largest bounty in history, for the capture of whoever is behind it. The bounty hunter crew of the spaceship Bebop; Spike, Faye, Jet and Ed, take the case with hopes of cashing in the bounty. However, the mystery surrounding the man responsible, Vincent, goes deeper than they ever imagined, and they aren't the only ones hunting him. The original creators of the virus have dispatched Electra to deal with Vincent and take out anyone who may stumble on the truth behind him. As the hunt for the man with no past and no future continues to escalate, they begin to question what about the world is reality and what is a dream as the line between sanity and insanity becomes more apparent.",
+    "runtime": "115 min",
+    "director": "Shin'ichirô Watanabe, Tensai Okamura, Hiroyuki Okiura",
+    "actors": "Beau Billingslea, Melissa Fahn, Nicholas Guest",
+    "production_country": "Japan, United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNzZkZDZhMWQtNzgyZi00NGQxLWE0ZWEtMWQ1OWNlMTNiNDJjXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/11299.webp",
+    "imdb_rating": "7.8",
+    "imdb_votes": "56,951",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Cowboy_Bebop:_The_Movie",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/11299.txt",
+    "plot_year_start": 2071,
+    "plot_year_end": 2071,
+    "epoch": "future-world",
+    "action_countries": [
+      "FICTIONAL"
+    ],
+    "action_continents": [
+      "FICTIONAL"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "spacefaring realms ruled from far capitals",
+        "description": "Vast distances are held together by empires, federations, alliances, and great houses whose decrees reach worlds they barely know. What you'll see: courtly titles beside starships, governors and admirals, tribute-bearing planets, and frontier stations living under distant authority.",
+        "icon": "👑"
+      },
+      {
+        "label": "colonies carved into hostile new worlds",
+        "description": "Human settlement pushes onto moons, deserts, and alien planets where air, water, and shelter are never taken for granted. What you'll see: domed towns, mining camps, terraforming schemes, survey crews, and settlers trying to make a life on dangerous ground.",
+        "icon": "🏕️"
+      }
+    ]
+  },
+  {
+    "movie_id": 19898,
+    "movie_idx": 3172,
+    "imdb_id": "tt1188729",
+    "title": "Pandorum",
+    "production_year": "2009",
+    "genre": "Action, Horror, Mystery",
+    "plot": "Two crew members are stranded on a spacecraft and quickly - and horrifically - realize they are not alone. Two astronauts awaken in a hyper-sleep chamber aboard a seemingly abandoned spacecraft. It's pitch black, they are disoriented, and the only sound is a low rumble and creak from the belly of the ship. They can't remember anything: Who are they? What is their mission? With Lt. Payton staying behind to guide him via radio transmitter, Cpl. Bower ventures deep into the ship and begins to uncover a terrifying reality. Slowly the spacecraft's shocking, deadly secrets are revealed...and the astronauts find their own survival is more important than they could ever have imagined.",
+    "runtime": "108 min",
+    "director": "Christian Alvart",
+    "actors": "Dennis Quaid, Ben Foster, Cam Gigandet",
+    "production_country": "United Kingdom, Germany",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNDQxNjc5NTMxNl5BMl5BanBnXkFtZTcwNjg2NDE4Mg@@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/19898.webp",
+    "imdb_rating": "6.7",
+    "imdb_votes": "166,931",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Pandorum",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/19898.txt",
+    "plot_year_start": 2140,
+    "plot_year_end": 2140,
+    "epoch": "future-world",
+    "action_countries": [
+      "FICTIONAL"
+    ],
+    "action_continents": [
+      "FICTIONAL"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "great machines outrunning their makers",
+        "description": "Weapons, robots, ships, and thinking systems have grown so mighty that they often escape command or turn human designs against humankind. What you'll see: automated killing devices, hacked bodies, malfunctioning systems, sealed laboratories, and crews trapped with tools that no longer serve them.",
+        "icon": "🤖"
+      },
+      {
+        "label": "frontier life under strange native worlds",
+        "description": "New worlds are not empty stages but places with their own ecologies, ancient inhabitants, and forces that settlers neither master nor fully comprehend. What you'll see: sentient forests, immense beasts, indigenous tribes, alien plagues, sacred landscapes, and newcomers learning the land can answer back.",
+        "icon": "🌳"
+      }
+    ]
+  },
+  {
+    "movie_id": 16577,
+    "movie_idx": 3284,
+    "imdb_id": "tt0375568",
+    "title": "Astro Boy",
+    "production_year": "2009",
+    "genre": "Animation, Action, Adventure",
+    "plot": "Set in futuristic Metro City, Astro Boy is about a young robot with incredible powers created by a brilliant scientist in the image of the son he has lost. Unable to fulfill the grieving man's expectations, our hero embarks on a journey in search of acceptance, experiencing betrayal and a netherworld of robot gladiators, before he returns to save Metro City and reconcile with the father who had rejected him.",
+    "runtime": "94 min",
+    "director": "David Bowers",
+    "actors": "Freddie Highmore, Nicolas Cage, Kristen Bell",
+    "production_country": "Hong Kong, United States, Japan, United Kingdom",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTI5NTEwNTcxMl5BMl5BanBnXkFtZTcwMDEyMTE4Mg@@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/16577.webp",
+    "imdb_rating": "6.2",
+    "imdb_votes": "42,139",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Astro_Boy_(film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/16577.txt",
+    "plot_year_start": 2200,
+    "plot_year_end": 2200,
+    "epoch": "future-world",
+    "action_countries": [
+      "FICTIONAL"
+    ],
+    "action_continents": [
+      "FICTIONAL"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "ruined earths and wounded homelands",
+        "description": "The home world is often spent, poisoned, overcrowded, or broken by old wars, forcing survivors into enclaves, megacities, or exile among the stars. What you'll see: wastelands, cursed zones, crowded towers, scavenged settlements, dead seas, and memories of a greener world.",
+        "icon": "🏚️"
+      },
+      {
+        "label": "altered bodies blurring the human shape",
+        "description": "Cyborg parts, bred castes, cloned lines, avatars, mutants, and other changed forms make personhood a matter of dispute rather than certainty. What you'll see: artificial limbs, laboratory-made peoples, body redesign, transformed soldiers, hidden origins, and unease over who counts as fully human.",
+        "icon": "🦾"
+      }
+    ]
+  },
+  {
+    "movie_id": 843269,
+    "movie_idx": 3292,
+    "imdb_id": "tt11951334",
+    "title": "Eureka: Eureka Seven Hi-Evolution",
+    "production_year": "2021",
+    "genre": "Animation, Action, Adventure",
+    "plot": "A virtual world in a scab coral created by Eureka. Ten years have passed since the people of the virtual world appeared on this earth with the collapse. The future to wait for the ends of the wishes of Eureka.",
+    "runtime": "116 min",
+    "director": "Hayato Sakai, Hisatoshi Shimizu, Tomoki Kyôda",
+    "actors": "Kaori Nazuka, Rina Endô, Ami Koshimizu",
+    "production_country": "Japan",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNjBjOWEyY2YtNjQ1ZS00ZGE2LWE0MTgtOTE0Y2MxMjEzMjBkXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/843269.webp",
+    "imdb_rating": "6.8",
+    "imdb_votes": "53",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Eureka_Seven",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/843269.txt",
+    "plot_year_start": 12005,
+    "plot_year_end": 12015,
+    "epoch": "future-world",
+    "action_countries": [
+      "FICTIONAL"
+    ],
+    "action_continents": [
+      "FICTIONAL"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "altered bodies blurring the human shape",
+        "description": "Cyborg parts, bred castes, cloned lines, avatars, mutants, and other changed forms make personhood a matter of dispute rather than certainty. What you'll see: artificial limbs, laboratory-made peoples, body redesign, transformed soldiers, hidden origins, and unease over who counts as fully human.",
+        "icon": "🦾"
+      },
+      {
+        "label": "frontier life under strange native worlds",
+        "description": "New worlds are not empty stages but places with their own ecologies, ancient inhabitants, and forces that settlers neither master nor fully comprehend. What you'll see: sentient forests, immense beasts, indigenous tribes, alien plagues, sacred landscapes, and newcomers learning the land can answer back.",
+        "icon": "🌳"
+      }
+    ]
+  },
+  {
+    "movie_id": 16320,
+    "movie_idx": 3334,
+    "imdb_id": "tt0379786",
+    "title": "Serenity",
+    "production_year": "2005",
+    "genre": "Action, Adventure, Sci-Fi",
+    "plot": "Serenity continues the story of the TV series it was based upon (\"Firefly\"). River Tam had a secret - one in which she's not even aware - so dangerous, no one's safe, as an Alliance operative's sent to capture her, and all others are considered irrelevant to his job.",
+    "runtime": "119 min",
+    "director": "Joss Whedon",
+    "actors": "Nathan Fillion, Gina Torres, Chiwetel Ejiofor",
+    "production_country": "United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZWYwN2M1NWItMWI0YS00ZmJjLTk1Y2QtZjIxYmNhNGZkZDcwXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/16320.webp",
+    "imdb_rating": "7.8",
+    "imdb_votes": "314,280",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Serenity_(2005_film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/16320.txt",
+    "plot_year_start": 2517,
+    "plot_year_end": 2517,
+    "epoch": "future-world",
+    "action_countries": [
+      "FICTIONAL"
+    ],
+    "action_continents": [
+      "FICTIONAL"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Firefly Universe",
+    "categories": [
+      {
+        "label": "colonies carved into hostile new worlds",
+        "description": "Human settlement pushes onto moons, deserts, and alien planets where air, water, and shelter are never taken for granted. What you'll see: domed towns, mining camps, terraforming schemes, survey crews, and settlers trying to make a life on dangerous ground.",
+        "icon": "🏕️"
+      },
+      {
+        "label": "spacefaring realms ruled from far capitals",
+        "description": "Vast distances are held together by empires, federations, alliances, and great houses whose decrees reach worlds they barely know. What you'll see: courtly titles beside starships, governors and admirals, tribute-bearing planets, and frontier stations living under distant authority.",
+        "icon": "👑"
+      }
+    ]
+  },
+  {
+    "movie_id": 647,
+    "movie_idx": 3374,
+    "imdb_id": "tt0385700",
+    "title": "Final Fantasy VII: Advent Children",
+    "production_year": "2005",
+    "genre": "Animation, Action, Adventure",
+    "plot": "Two years after the events in \"Final Fantasy VII\", a disease called 'Seikon-Shoukougun', or 'Geostigma', is spreading through the planet. This disease is believed to have been caused by the body fighting off foreign material that invaded the body two years earlier, at the end of \"Final Fantasy VII\". Guilt-ridden and haunted by his past, ex-SOLDIER Cloud Strife has decided to live a secluded, solitary life away from his friends while maintaining \"Strife's Delivery Service\", whose headquarters is located in Tifa Lockheart's bar, the Seventh Heaven. Tifa's bar serves as an orphanage for children stricken with Geostigma. Here, Tifa keeps an eye on Barret's six-year-old daughter, Marlene, while Barret searches the planet for an alternative energy source to the Planet's energy, Mako. One day, Cloud receives a phone call from the former Shinra, Inc. president, Rufus, asking him for protection from a mysterious man named Kadaj. Kadaj, in the meantime, along with his brothers Loz and Yazoo, are searching for their \"mother\", and seem to believe that Cloud knows where to find her. Meanwhile, Vincent Valentine has been wandering the planet gathering information on Kadaj's scheme, and Cloud and his friends must come together again to fight these new enemies.",
+    "runtime": "101 min",
+    "director": "Tetsuya Nomura, Takeshi Nozue",
+    "actors": "Takahiro Sakurai, Ayumi Ito, Shôtarô Morikubo",
+    "production_country": "Japan",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMzc3MDg5ZjQtYjZmOS00NWQzLWFjMjAtNzI0NDJhYWE0OWY0XkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/647.webp",
+    "imdb_rating": "7.1",
+    "imdb_votes": "59,568",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Final_Fantasy_VII:_Advent_Children",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/647.txt",
+    "plot_year_start": 4998,
+    "plot_year_end": 4998,
+    "epoch": "future-world",
+    "action_countries": [
+      "FICTIONAL"
+    ],
+    "action_continents": [
+      "FICTIONAL"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Final Fantasy Universe",
+    "categories": [
+      {
+        "label": "ruined earths and wounded homelands",
+        "description": "The home world is often spent, poisoned, overcrowded, or broken by old wars, forcing survivors into enclaves, megacities, or exile among the stars. What you'll see: wastelands, cursed zones, crowded towers, scavenged settlements, dead seas, and memories of a greener world.",
+        "icon": "🏚️"
+      },
+      {
+        "label": "soldiering as an everyday way of life",
+        "description": "Many of these worlds are ordered by permanent readiness for war, where marines, judges, guards, and trained fighters stand close to civil power. What you'll see: barracks discipline, armed patrols, dropships, special units, fortress cities, and children or recruits shaped early for combat.",
+        "icon": "🪖"
+      }
+    ]
+  },
+  {
+    "movie_id": 9482,
+    "movie_idx": 3445,
+    "imdb_id": "tt0113492",
+    "title": "Judge Dredd",
+    "production_year": "1995",
+    "genre": "Action, Crime, Sci-Fi",
+    "plot": "In the year 2139, the Earth has changed into a virtually uninhabitable place called the Cursed Earth. All of the Earth's population have crowded into the cities across the planet, now known as Mega-Cities. The crimes in these Mega-Cities became so violent and so powerful, that the regular justice system was powerless to contain, then it collapsed completely. However, a new justice system came from the ashes, there were three justice systems in one (police, jury and executioner), they were called Judges. In Mega-City One (formerly, New York City), there was a Judge, named Joseph Dredd, who was the toughest and most stringent Judge in history. One day, he was charged with murder, and was tried and sentenced to life in prison because of it.",
+    "runtime": "96 min",
+    "director": "Danny Cannon",
+    "actors": "Sylvester Stallone, Armand Assante, Rob Schneider",
+    "production_country": "United States, Netherlands, United Kingdom",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZWM0MjExNzMtNGJkMy00MDNhLTlkOTctNDFiYzVjNTVmNGFjXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/9482.webp",
+    "imdb_rating": "5.6",
+    "imdb_votes": "131,046",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Judge_Dredd_(film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/9482.txt",
+    "plot_year_start": 2139,
+    "plot_year_end": 2139,
+    "epoch": "future-world",
+    "action_countries": [
+      "FICTIONAL"
+    ],
+    "action_continents": [
+      "FICTIONAL"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "ruined earths and wounded homelands",
+        "description": "The home world is often spent, poisoned, overcrowded, or broken by old wars, forcing survivors into enclaves, megacities, or exile among the stars. What you'll see: wastelands, cursed zones, crowded towers, scavenged settlements, dead seas, and memories of a greener world.",
+        "icon": "🏚️"
+      },
+      {
+        "label": "soldiering as an everyday way of life",
+        "description": "Many of these worlds are ordered by permanent readiness for war, where marines, judges, guards, and trained fighters stand close to civil power. What you'll see: barracks discipline, armed patrols, dropships, special units, fortress cities, and children or recruits shaped early for combat.",
+        "icon": "🪖"
+      }
+    ]
+  },
+  {
+    "movie_id": 1705,
+    "movie_idx": 3947,
+    "imdb_id": "tt0069768",
+    "title": "Battle for the Planet of the Apes",
+    "production_year": "1973",
+    "genre": "Action, Sci-Fi",
+    "plot": "After conquering the oppressive humans in \"Conquest for the Planet of the Apes\", Caesar must now keep the peace among the humans and apes. Gorilla General Aldo views things differently, and tries to cause an ape civil war. In the meantime, other human survivors learn of the ape city, and decide they want to take back civilization for themselves, thus setting the stage of warring ape factions and humans.",
+    "runtime": "93 min",
+    "director": "J. Lee Thompson",
+    "actors": "Roddy McDowall, Claude Akins, Natalie Trundy",
+    "production_country": "United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTZiODVlNjQtYjVmNS00MjIyLThhMTctMzQzMWE2YTY0YjNjXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/1705.webp",
+    "imdb_rating": "5.4",
+    "imdb_votes": "37,221",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Battle_for_the_Planet_of_the_Apes",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/1705.txt",
+    "plot_year_start": 2100,
+    "plot_year_end": 2100,
+    "epoch": "future-world",
+    "action_countries": [
+      "FICTIONAL"
+    ],
+    "action_continents": [
+      "FICTIONAL"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Planet of the Apes",
+    "categories": [
+      {
+        "label": "ruined earths and wounded homelands",
+        "description": "The home world is often spent, poisoned, overcrowded, or broken by old wars, forcing survivors into enclaves, megacities, or exile among the stars. What you'll see: wastelands, cursed zones, crowded towers, scavenged settlements, dead seas, and memories of a greener world.",
+        "icon": "🏚️"
+      },
+      {
+        "label": "altered bodies blurring the human shape",
+        "description": "Cyborg parts, bred castes, cloned lines, avatars, mutants, and other changed forms make personhood a matter of dispute rather than certainty. What you'll see: artificial limbs, laboratory-made peoples, body redesign, transformed soldiers, hidden origins, and unease over who counts as fully human.",
+        "icon": "🦾"
+      }
+    ]
+  },
+  {
+    "movie_id": 412656,
+    "movie_idx": 4250,
+    "imdb_id": "tt2076822",
+    "title": "Chaos Walking",
+    "production_year": "2021",
+    "genre": "Action, Adventure, Drama",
+    "plot": "In the not-too-distant future, Todd Hewitt (Tom Holland) discovers Viola (Daisy Ridley), a mysterious girl who crash lands on his planet, where all the women have disappeared and the men are afflicted by \"the Noise\" - a force that puts all their thoughts on display. In this dangerous landscape, Viola's life is threatened - and as Todd vows to protect her, he will have to discover his own inner power and unlock the planet's dark secrets. From the director of The Bourne Identity and Edge of Tomorrow and based on the best-selling novel The Knife of Never Letting Go, Daisy Ridley and Tom Holland star with Mads Mikkelsen, Demián Bichir, Cynthia Erivo, Nick Jonas, Kurt Sutter, and David Oyelowo in Chaos Walking.",
+    "runtime": "109 min",
+    "director": "Doug Liman",
+    "actors": "Tom Holland, Daisy Ridley, Demián Bichir",
+    "production_country": "United States, Canada, Hong Kong, Luxembourg",
+    "poster": "https://m.media-amazon.com/images/M/MV5BODI3NjZiZDAtZWRlZi00MzYyLWEwOTctNjFhMmQ3MzBjMGJhXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/412656.webp",
+    "imdb_rating": "5.7",
+    "imdb_votes": "61,612",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Chaos_Walking_(film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/412656.txt",
+    "plot_year_start": 2257,
+    "plot_year_end": 2257,
+    "epoch": "future-world",
+    "action_countries": [
+      "FICTIONAL"
+    ],
+    "action_continents": [
+      "FICTIONAL"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "colonies carved into hostile new worlds",
+        "description": "Human settlement pushes onto moons, deserts, and alien planets where air, water, and shelter are never taken for granted. What you'll see: domed towns, mining camps, terraforming schemes, survey crews, and settlers trying to make a life on dangerous ground.",
+        "icon": "🏕️"
+      },
+      {
+        "label": "frontier life under strange native worlds",
+        "description": "New worlds are not empty stages but places with their own ecologies, ancient inhabitants, and forces that settlers neither master nor fully comprehend. What you'll see: sentient forests, immense beasts, indigenous tribes, alien plagues, sacred landscapes, and newcomers learning the land can answer back.",
+        "icon": "🌳"
+      }
+    ]
+  },
+  {
+    "movie_id": 492719,
+    "movie_idx": 4627,
+    "imdb_id": "tt8015080",
+    "title": "Godzilla: City on the Edge of Battle",
+    "production_year": "2018",
+    "genre": "Animation, Action, Sci-Fi",
+    "plot": "Following their crushing defeat at the hands of Godzilla Earth, Haruo Sakaki and his allies encounter a mysterious aboriginal tribe descended from the humans left behind on Earth 20,000 years ago, and uncover a mechanized city-sized fortress formed from the long-lost anti-Godzilla weapon Mechagodzilla.",
+    "runtime": "101 min",
+    "director": "Hiroyuki Seshita, Kôbun Shizuno",
+    "actors": "Mamoru Miyano, Takahiro Sakurai, Kana Hanazawa",
+    "production_country": "Japan",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNGMxNzZhYzItMGYxNy00NTE5LThkZTYtOTEyOTIyMDViN2NiXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/492719.webp",
+    "imdb_rating": "5.8",
+    "imdb_votes": "6,009",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Godzilla:_City_on_the_Edge_of_Battle",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/492719.txt",
+    "plot_year_start": 2473,
+    "plot_year_end": 2473,
+    "epoch": "future-world",
+    "action_countries": [
+      "FICTIONAL"
+    ],
+    "action_continents": [
+      "FICTIONAL"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Godzilla Universe",
+    "categories": [
+      {
+        "label": "ruined earths and wounded homelands",
+        "description": "The home world is often spent, poisoned, overcrowded, or broken by old wars, forcing survivors into enclaves, megacities, or exile among the stars. What you'll see: wastelands, cursed zones, crowded towers, scavenged settlements, dead seas, and memories of a greener world.",
+        "icon": "🏚️"
+      },
+      {
+        "label": "frontier life under strange native worlds",
+        "description": "New worlds are not empty stages but places with their own ecologies, ancient inhabitants, and forces that settlers neither master nor fully comprehend. What you'll see: sentient forests, immense beasts, indigenous tribes, alien plagues, sacred landscapes, and newcomers learning the land can answer back.",
+        "icon": "🌳"
+      }
+    ]
+  },
+  {
+    "movie_id": 651571,
+    "movie_idx": 4724,
+    "imdb_id": "tt9820556",
+    "title": "Breach",
+    "production_year": "2020",
+    "genre": "Action, Horror, Sci-Fi",
+    "plot": "On the cusp of fatherhood, a junior mechanic aboard an interstellar ark to New Earth must outwit a malevolent cosmic terror intent on using the spaceship as a weapon.",
+    "runtime": "92 min",
+    "director": "John Suits",
+    "actors": "Cody Kearsley, Bruce Willis, Rachel Nichols",
+    "production_country": "United States, Canada, Germany",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjdlMmFlZWEtZjFhZC00NmRiLTkzYzYtMmYzYzQzMjRmZWE4XkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/651571.webp",
+    "imdb_rating": "2.9",
+    "imdb_votes": "20,742",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Breach_(2020_film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/651571.txt",
+    "plot_year_start": 2242,
+    "plot_year_end": 2242,
+    "epoch": "future-world",
+    "action_countries": [
+      "FICTIONAL"
+    ],
+    "action_continents": [
+      "FICTIONAL"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "colonies carved into hostile new worlds",
+        "description": "Human settlement pushes onto moons, deserts, and alien planets where air, water, and shelter are never taken for granted. What you'll see: domed towns, mining camps, terraforming schemes, survey crews, and settlers trying to make a life on dangerous ground.",
+        "icon": "🏕️"
+      }
+    ]
+  },
+  {
+    "movie_id": 8069,
+    "movie_idx": 4986,
+    "imdb_id": "tt0062711",
+    "title": "Barbarella",
+    "production_year": "1968",
+    "genre": "Action, Adventure, Fantasy",
+    "plot": "The year is 40,000. After peaceful floating in zero-gravity, astronaut Barbarella lands on the frozen planet Lythion and sets out to find renowned scientist Durand Durand in the City of Night, Sogo, where a new sin is invented every hour. There, she encounters such objects as the Excessive Machine, a genuine sex organ on which an expert artist of the keyboard, in this case, Durand Durand himself, can drive a victim to death by pleasure, a lesbian queen who can make her fantasies take form in her Chamber of Dreams, and a group of ladies smoking a giant hookah which dispenses Essence of Man through a poor victim struggling in its glass globe. You can not help but be impressed by the special effects crew and the various ways that were found to tear off what minimal clothes our heroine seemed to possess.",
+    "runtime": "98 min",
+    "director": "Roger Vadim",
+    "actors": "Jane Fonda, John Phillip Law, Anita Pallenberg",
+    "production_country": "France, Italy",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjExMzcwMjU4OV5BMl5BanBnXkFtZTgwNzYzMjU2MTE@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/8069.webp",
+    "imdb_rating": "5.9",
+    "imdb_votes": "39,225",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Barbarella_(film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/8069.txt",
+    "plot_year_start": 40000,
+    "plot_year_end": 40000,
+    "epoch": "future-world",
+    "action_countries": [
+      "FICTIONAL"
+    ],
+    "action_continents": [
+      "FICTIONAL"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "colonies carved into hostile new worlds",
+        "description": "Human settlement pushes onto moons, deserts, and alien planets where air, water, and shelter are never taken for granted. What you'll see: domed towns, mining camps, terraforming schemes, survey crews, and settlers trying to make a life on dangerous ground.",
+        "icon": "🏕️"
+      }
+    ]
+  },
+  {
+    "movie_id": 4923,
+    "movie_idx": 5217,
+    "imdb_id": "tt0070948",
+    "title": "Zardoz",
+    "production_year": "1974",
+    "genre": "Adventure, Fantasy, Sci-Fi",
+    "plot": "2293. Zardoz, an unseen \"God\" who speaks through an idol, a large stone statue of a head, leads a barbaric race called the Brutals, who live a harsh existence in the Outlands. Zardoz tells the Brutals that once they die, they will be transported to the Vortex, where they will live happily as immortals. He has armed a small group, the Exterminators, with guns, as Zardoz's philosophy is that killing is good, and procreation is the root of all that is bad. In reality, Zardoz is Arthur Frayn, from a competing, more advanced race, called \"the Eternals\", who live in paradise in the Vortex. The Eternals truly are immortal as they do not age and their bodies undergo reconstruction if they \"die\". As such, they truly do not believe in procreation as their society has reached perfect equilibrium. Past human acts such as sex and sleep are obsolete in their advanced state. All major decisions are achieved through pure democracy. The Eternals, however, are not immune to non life threatening disease or sin, the latter which is punishable by aging, only making their life less pleasant, but not ever killing them. Arthur's mission as Zardoz is to control, monitor, and study the Brutals for the Eternals. Being in the Outlands, Arthur is isolated without communication back to the Vortex and the Eternals. In his work as an Exterminator, Zed, by accident, is able to find his way to the Vortex as a still alive being. The Eternals vote to keep Zed alive temporarily so that they can study him before they kill him. Amongst the Eternals who have direct interactions with Zed are: May, the lead scientist, who believes Zed is a blessing in that they have not had access to a Brutal in some time; Friend, a hedonist who wants to use Zed as the animal he considers him to be; and Consuela, the hard lined one who believes in vigilante justice. In the Eternals' access to Zed, they may learn if he making it to the Vortex was indeed an accident. In addition, their so-called Utopian society may be exposed for what it truly is.",
+    "runtime": "105 min",
+    "director": "John Boorman",
+    "actors": "Sean Connery, Charlotte Rampling, Sara Kestelman",
+    "production_country": "Ireland, United States, United Kingdom",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNGRmYzRkMmQtZmFlMC00YmZjLWI5NDktNGM4ZmI4YzNkNTcwXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/4923.webp",
+    "imdb_rating": "5.8",
+    "imdb_votes": "26,793",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Zardoz",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/4923.txt",
+    "plot_year_start": 2293,
+    "plot_year_end": 2293,
+    "epoch": "future-world",
+    "action_countries": [
+      "FICTIONAL",
+      "IE"
+    ],
+    "action_continents": [
+      "FICTIONAL",
+      "Europe"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "ruined earths and wounded homelands",
+        "description": "The home world is often spent, poisoned, overcrowded, or broken by old wars, forcing survivors into enclaves, megacities, or exile among the stars. What you'll see: wastelands, cursed zones, crowded towers, scavenged settlements, dead seas, and memories of a greener world.",
+        "icon": "🏚️"
+      },
+      {
+        "label": "colonies carved into hostile new worlds",
+        "description": "Human settlement pushes onto moons, deserts, and alien planets where air, water, and shelter are never taken for granted. What you'll see: domed towns, mining camps, terraforming schemes, survey crews, and settlers trying to make a life on dangerous ground.",
+        "icon": "🏕️"
+      }
+    ]
+  },
+  {
+    "movie_id": 19287,
+    "movie_idx": 5307,
+    "imdb_id": "tt0116861",
+    "title": "Leprechaun 4: In Space",
+    "production_year": "1996",
+    "genre": "Comedy, Fantasy, Horror, Sci-Fi",
+    "plot": "On a distant planet, a power hungry Leprechaun kidnaps a Dominian princess, Princess Zarina, and plans to make himself king, but not if a bumbling brigade of space marines have anything to say about it. Their commander is a mad scientist by the name of Dr. Mittenhand, who's half machine thanks to one of his \"experiments\". Once on the planet, Leprechaun is blown up, but quickly is reborn through one of the marines (ala Alien) and wreaks havoc aboard the ship, meanwhile Dr. Mittenhand plans to use the princess for his experiments to make himself whole again. But now, after many of the marines are killed, Leprechaun turns Dr. Mittenhand into a grotesque monster and plans to blow up the ship. The remaining marines have to stop his evil plans and blow *him* up.",
+    "runtime": "95 min",
+    "director": "Brian Trenchard-Smith",
+    "actors": "Warwick Davis, Brent Jasmer, Jessica Collins, Guy Siner",
+    "production_country": "USA",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTU2MTUxOTU0N15BMl5BanBnXkFtZTcwOTgzOTgxMQ@@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/19287.webp",
+    "imdb_rating": "3.5",
+    "imdb_votes": "6,928",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Leprechaun_4:_In_Space",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/19287.txt",
+    "plot_year_start": 2096,
+    "plot_year_end": 2096,
+    "epoch": "future-world",
+    "action_countries": [
+      "FICTIONAL"
+    ],
+    "action_continents": [
+      "FICTIONAL"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "soldiering as an everyday way of life",
+        "description": "Many of these worlds are ordered by permanent readiness for war, where marines, judges, guards, and trained fighters stand close to civil power. What you'll see: barracks discipline, armed patrols, dropships, special units, fortress cities, and children or recruits shaped early for combat.",
+        "icon": "🪖"
+      },
+      {
+        "label": "great machines outrunning their makers",
+        "description": "Weapons, robots, ships, and thinking systems have grown so mighty that they often escape command or turn human designs against humankind. What you'll see: automated killing devices, hacked bodies, malfunctioning systems, sealed laboratories, and crews trapped with tools that no longer serve them.",
+        "icon": "🤖"
+      }
+    ]
+  },
+  {
+    "movie_id": 212167,
+    "movie_idx": 5501,
+    "imdb_id": "tt2981768",
+    "title": "Patema Inverted",
+    "production_year": "2013",
+    "genre": "Animation, Adventure, Drama",
+    "plot": "A young girl, from a civilization that resides in deep underground tunnels, finds herself trapped in an inverted world and teams up with a resident to escape and return home.",
+    "runtime": "98 min",
+    "director": "Yasuhiro Yoshiura",
+    "actors": "Yukiyo Fujii, Nobuhiko Okamoto, Shintarô Ôhata",
+    "production_country": "Japan",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNjkzN2NlOTAtYTdiYS00Mzk4LWFjNDAtMzIyOTQzNTAyNDM5XkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/212167.webp",
+    "imdb_rating": "7.3",
+    "imdb_votes": "10,932",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Patema_Inverted",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/212167.txt",
+    "plot_year_start": 2067,
+    "plot_year_end": 2067,
+    "epoch": "future-world",
+    "action_countries": [
+      "FICTIONAL"
+    ],
+    "action_continents": [
+      "FICTIONAL"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "ruined earths and wounded homelands",
+        "description": "The home world is often spent, poisoned, overcrowded, or broken by old wars, forcing survivors into enclaves, megacities, or exile among the stars. What you'll see: wastelands, cursed zones, crowded towers, scavenged settlements, dead seas, and memories of a greener world.",
+        "icon": "🏚️"
+      }
+    ]
+  },
+  {
+    "movie_id": 200,
+    "movie_idx": 5513,
+    "imdb_id": "tt0120844",
+    "title": "Star Trek: Insurrection",
+    "production_year": "1998",
+    "genre": "Action, Adventure, Sci-Fi",
+    "plot": "While on a mission to observe the peaceful Ba'ku race, Lieutenant Commander Data suddenly behaves as if having to fear for his existence. The immortal Ba'ku, whose planet offers regenerative radiation, and therefore incredible lifespans, live in harmony with nature and reject advanced technology. Their planet and their culture is secretly researched by the Federation associated with an alien race called the Son'a. But the Son'a intend to abduct the Ba'ku in order to take the planet for themselves and for the Starfleet officials who all would like to regenerate their bodies. But they did not think of the loyalty of Captain Jean-Luc Picard and the crew of the U.S.S. Enterprise NCC-1701-E to the Prime Directive.",
+    "runtime": "103 min",
+    "director": "Jonathan Frakes",
+    "actors": "Patrick Stewart, Jonathan Frakes, Brent Spiner",
+    "production_country": "United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNTQwZDg2NGQtNjEwNS00ZWVhLWE0YTEtYjhkZWM0NjdkOWIzXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/200.webp",
+    "imdb_rating": "6.4",
+    "imdb_votes": "82,821",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Star_Trek:_Insurrection",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/200.txt",
+    "plot_year_start": 2374,
+    "plot_year_end": 2374,
+    "epoch": "future-world",
+    "action_countries": [
+      "FICTIONAL"
+    ],
+    "action_continents": [
+      "FICTIONAL"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Star Trek Universe",
+    "categories": [
+      {
+        "label": "frontier life under strange native worlds",
+        "description": "New worlds are not empty stages but places with their own ecologies, ancient inhabitants, and forces that settlers neither master nor fully comprehend. What you'll see: sentient forests, immense beasts, indigenous tribes, alien plagues, sacred landscapes, and newcomers learning the land can answer back.",
+        "icon": "🌳"
+      },
+      {
+        "label": "spacefaring realms ruled from far capitals",
+        "description": "Vast distances are held together by empires, federations, alliances, and great houses whose decrees reach worlds they barely know. What you'll see: courtly titles beside starships, governors and admirals, tribute-bearing planets, and frontier stations living under distant authority.",
+        "icon": "👑"
+      }
+    ]
+  },
+  {
+    "movie_id": 9463,
+    "movie_idx": 5680,
+    "imdb_id": "tt0090248",
+    "title": "Vampire Hunter D",
+    "production_year": "1985",
+    "genre": "Animation, Action, Fantasy",
+    "plot": "A young girl requests the help of a vampire hunter to kill the vampire who has bitten her, and thus prevent her from becoming a vampire herself.",
+    "runtime": "80 min",
+    "director": "Toyoo Ashida",
+    "actors": "Kaneto Shiozawa, Michie Tomizawa, Seizô Katô",
+    "production_country": "Japan",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNDVlYmU5N2MtYTQxMC00ODk0LThiZTYtZTFkODMwMzFhODIzXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/9463.webp",
+    "imdb_rating": "7.0",
+    "imdb_votes": "19,293",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Vampire_Hunter_D_(1985_film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/9463.txt",
+    "plot_year_start": 12090,
+    "plot_year_end": 12090,
+    "epoch": "future-world",
+    "action_countries": [
+      "FICTIONAL"
+    ],
+    "action_continents": [
+      "FICTIONAL"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "ruined earths and wounded homelands",
+        "description": "The home world is often spent, poisoned, overcrowded, or broken by old wars, forcing survivors into enclaves, megacities, or exile among the stars. What you'll see: wastelands, cursed zones, crowded towers, scavenged settlements, dead seas, and memories of a greener world.",
+        "icon": "🏚️"
+      }
+    ]
+  },
+  {
+    "movie_id": 13256,
+    "movie_idx": 5765,
+    "imdb_id": "tt0490181",
+    "title": "Mutant Chronicles",
+    "production_year": "2008",
+    "genre": "Action, Adventure, Mystery",
+    "plot": "At the end of the Ice Age, The Machine came from outer space to change men into mutants. However, a hero defeated the device and a great seal was laid over The Machine. In 2707, the depleted world is ruled by four Corporations: Mishima, Bauhaus, Capitol, and Imperial that are in a constant state of war. During a battle between Capitol and Bauhaus, the great seal is broken and The Machine works again transforming soldiers and civilians into hordes of mutants. A small part of the population escapes to Mars, leaving millions of people behind. The man of faith and leader of an ancient brotherhood, Brother Samuel, is a believer in God and the Chronicles, a Bible about the mutants from ancient times. With the city besieged by the mutants, he visits the Corporations' leader Constantine, asking for an aircraft and twenty men for a suicide mission to destroy The Machine, planting a bomb and a detonator following the knowledge of the Chronicles. He recruits the tough Major 'Mitch' Hunter; the Bauhaus Lieutenant Maximillian von Steiner; the keeper of the Chronicles Severian that is under a vow of silence; the gorgeous and lethal Corporal Valerie Duval; Corporal Juba Kim Wu; Captain John McGuire; and Corporal Jesus 'El Jesus' de Barrera. Together they become the last hope of Earth against the evil mutants.",
+    "runtime": "111 min",
+    "director": "Simon Hunter",
+    "actors": "Thomas Jane, Ron Perlman, Devon Aoki",
+    "production_country": "United Kingdom, United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTEzMTQ4MjQ1ODFeQTJeQWpwZ15BbWU4MDU4MTUyNTEx._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/13256.webp",
+    "imdb_rating": "5.2",
+    "imdb_votes": "27,322",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Mutant_Chronicles_(film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/13256.txt",
+    "plot_year_start": 2707,
+    "plot_year_end": 2707,
+    "epoch": "future-world",
+    "action_countries": [
+      "FICTIONAL",
+      "UNKNOWN"
+    ],
+    "action_continents": [
+      "FICTIONAL",
+      "UNKNOWN"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "company power standing above common folk",
+        "description": "Merchant combines and chartered concerns command labour, transport, and settlement so fully that they rival or replace public rule. What you'll see: branded colonies, company men, hired troops, work crews in debt or danger, and profit weighing more than local lives.",
+        "icon": "🏢"
+      },
+      {
+        "label": "ruined earths and wounded homelands",
+        "description": "The home world is often spent, poisoned, overcrowded, or broken by old wars, forcing survivors into enclaves, megacities, or exile among the stars. What you'll see: wastelands, cursed zones, crowded towers, scavenged settlements, dead seas, and memories of a greener world.",
+        "icon": "🏚️"
+      }
+    ]
+  },
+  {
+    "movie_id": 830,
+    "movie_idx": 6052,
+    "imdb_id": "tt0049223",
+    "title": "Forbidden Planet",
+    "production_year": "1956",
+    "genre": "Adventure, Sci-Fi",
+    "plot": "When Commander Adams and his crew are sent to investigate why there were no communications from a previous mission to a planet explored 20 years earlier by scientists, he finds only two survivors, Dr. Morbius and his daughter. Unknown to Adams, Morbius has made a discovery, a discovery of great power, and has no intention of sharing it with anyone.",
+    "runtime": "98 min",
+    "director": "Fred M. Wilcox",
+    "actors": "Walter Pidgeon, Anne Francis, Leslie Nielsen",
+    "production_country": "United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjY4NGVmMzctYjFmYS00MDk3LTlkNDktNDdjMjhlYmY1YmI3XkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/830.webp",
+    "imdb_rating": "7.5",
+    "imdb_votes": "55,938",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Forbidden_Planet",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/830.txt",
+    "plot_year_start": 2320,
+    "plot_year_end": 2320,
+    "epoch": "future-world",
+    "action_countries": [
+      "FICTIONAL"
+    ],
+    "action_continents": [
+      "FICTIONAL"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "colonies carved into hostile new worlds",
+        "description": "Human settlement pushes onto moons, deserts, and alien planets where air, water, and shelter are never taken for granted. What you'll see: domed towns, mining camps, terraforming schemes, survey crews, and settlers trying to make a life on dangerous ground.",
+        "icon": "🏕️"
+      }
+    ]
+  },
+  {
+    "movie_id": 154,
+    "movie_idx": 6057,
+    "imdb_id": "tt0084726",
+    "title": "Star Trek II: The Wrath of Khan",
+    "production_year": "1982",
+    "genre": "Action, Adventure, Sci-Fi",
+    "plot": "It is the 23rd century. Admiral James T. Kirk is an instructor at Starfleet Academy and feeling old; the prospect of attending his ship, the USS Enterprise--now a training ship--on a two-week cadet cruise does not make him feel any younger. But the training cruise becomes a deadly serious mission when his nemesis Khan Noonien Singh--infamous conqueror from late 20th century Earth--appears after years of exile. Khan later revealed that the planet Ceti Alpha VI exploded, and shifted the orbit of the fifth planet as a Mars-like haven. He begins capturing Project Genesis, a top secret device holding the power of creation itself, and schemes the utter destruction of Kirk.",
+    "runtime": "113 min",
+    "director": "Nicholas Meyer",
+    "actors": "William Shatner, Leonard Nimoy, DeForest Kelley",
+    "production_country": "United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BOTFkZDY5NWQtMjY4Yy00OThiLTk3YjQtMDdhYTllMTI4MTdiXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/154.webp",
+    "imdb_rating": "7.7",
+    "imdb_votes": "134,088",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Star_Trek_II:_The_Wrath_of_Khan",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/154.txt",
+    "plot_year_start": 2285,
+    "plot_year_end": 2285,
+    "epoch": "future-world",
+    "action_countries": [
+      "FICTIONAL"
+    ],
+    "action_continents": [
+      "FICTIONAL"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Star Trek Universe",
+    "categories": [
+      {
+        "label": "precious substances driving conquest and trade",
+        "description": "Whole worlds are prized for one rare thing—spice, ore, energy, or other singular wealth—and power gathers around whoever controls its source. What you'll see: extraction sites, guarded shipments, monopolies, bargaining over supply, and local peoples caught where wealth is dug from the land.",
+        "icon": "💎"
+      },
+      {
+        "label": "colonies carved into hostile new worlds",
+        "description": "Human settlement pushes onto moons, deserts, and alien planets where air, water, and shelter are never taken for granted. What you'll see: domed towns, mining camps, terraforming schemes, survey crews, and settlers trying to make a life on dangerous ground.",
+        "icon": "🏕️"
+      }
+    ]
+  },
+  {
+    "movie_id": 9425,
+    "movie_idx": 6452,
+    "imdb_id": "tt0120157",
+    "title": "Soldier",
+    "production_year": "1998",
+    "genre": "Action, Drama, Sci-Fi",
+    "plot": "In a futuristic society, some people are selected at birth to become soldiers, and trained in such a manner that they become inhuman killing machines. One of the most succesfull and older of these soldiers (Russell) is pitted against a new breed of soldiers, and after the confrontation is believed to be dead. His body is left behind in a semi-abandoned colonial planet, where everything is peaceful, and he is taught about the other aspects of life. But eventually he has to fight the new breed of soldiers again, this time to defend his new home...",
+    "runtime": "99 min",
+    "director": "Paul W.S. Anderson",
+    "actors": "Kurt Russell, Jason Scott Lee, Jason Isaacs",
+    "production_country": "United States, United Kingdom",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZjY2ZDg4ZTktNDU2Zi00NzA0LThlZDktZjUwOTQwMDgyZjhjXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/9425.webp",
+    "imdb_rating": "6.1",
+    "imdb_votes": "62,406",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Soldier_(1998_American_film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/9425.txt",
+    "plot_year_start": 2036,
+    "plot_year_end": 2036,
+    "epoch": "future-world",
+    "action_countries": [
+      "FICTIONAL"
+    ],
+    "action_continents": [
+      "FICTIONAL"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "soldiering as an everyday way of life",
+        "description": "Many of these worlds are ordered by permanent readiness for war, where marines, judges, guards, and trained fighters stand close to civil power. What you'll see: barracks discipline, armed patrols, dropships, special units, fortress cities, and children or recruits shaped early for combat.",
+        "icon": "🪖"
+      },
+      {
+        "label": "altered bodies blurring the human shape",
+        "description": "Cyborg parts, bred castes, cloned lines, avatars, mutants, and other changed forms make personhood a matter of dispute rather than certainty. What you'll see: artificial limbs, laboratory-made peoples, body redesign, transformed soldiers, hidden origins, and unease over who counts as fully human.",
+        "icon": "🦾"
+      }
+    ]
+  },
+  {
+    "movie_id": 484886,
+    "movie_idx": 6928,
+    "imdb_id": "tt7312940",
+    "title": "Singularity",
+    "production_year": "2017",
+    "genre": "Action, Adventure, Drama",
+    "plot": "In 2020, Elias van Dorne (John Cusack), CEO of VA Industries, the world's largest robotics company, introduces his most powerful invention--Kronos, a super computer designed to end all wars. When Kronos goes online, it quickly determines that mankind, itself, is the biggest threat to world peace and launches a worldwide robot attack to rid the world of the \"infection\" of man. Ninety-seven years later, a small band of humans remain alive but on the run from the robot army. A teenage boy, Andrew (Julian Schaffner) and a teenage girl, Calia (Jeannine Wacker), form an unlikely alliance to reach a new world, where it is rumored mankind exists without fear of robot persecution. But does this world actually exist? And will they live long enough to find out?",
+    "runtime": "92 min",
+    "director": "Robert Kouba",
+    "actors": "Julian Schaffner, John Cusack, Carmen Argenziano",
+    "production_country": "Switzerland, United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYzcyMzZlY2ItMjgwNy00MjliLTkwNDgtNjg1MmIzMTIxMmI5XkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/484886.webp",
+    "imdb_rating": "3.6",
+    "imdb_votes": "11,908",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Singularity_(2017_film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/484886.txt",
+    "plot_year_start": 2020,
+    "plot_year_end": 2117,
+    "epoch": "future-world",
+    "action_countries": [
+      "FICTIONAL"
+    ],
+    "action_continents": [
+      "FICTIONAL"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "ruined earths and wounded homelands",
+        "description": "The home world is often spent, poisoned, overcrowded, or broken by old wars, forcing survivors into enclaves, megacities, or exile among the stars. What you'll see: wastelands, cursed zones, crowded towers, scavenged settlements, dead seas, and memories of a greener world.",
+        "icon": "🏚️"
+      },
+      {
+        "label": "great machines outrunning their makers",
+        "description": "Weapons, robots, ships, and thinking systems have grown so mighty that they often escape command or turn human designs against humankind. What you'll see: automated killing devices, hacked bodies, malfunctioning systems, sealed laboratories, and crews trapped with tools that no longer serve them.",
+        "icon": "🤖"
+      }
+    ]
+  },
+  {
+    "movie_id": 14945,
+    "movie_idx": 6936,
+    "imdb_id": "tt0493247",
+    "title": "Origin: Spirits of the Past",
+    "production_year": "2006",
+    "genre": "Animation, Adventure, Drama",
+    "plot": "It is 300 years into the future. Earth's environment had been devastated by mankind's own foolish plans and humankind is beleaguered by the sentient forests which they have awoken. The world balance is tipped when a young boy named Agito stumbles across a machine that glowed in a strange blue hue inside a forbidden sanctuary. The machine, which has preserved a beautiful girl named Tula from the past, is activated. Tula has a \"mission\" that had been entrusted to her by the past ...",
+    "runtime": "94 min",
+    "director": "Makoto Bessho, Kentarô Mizuno, Ken'ichi Shimizu",
+    "actors": "Ryô Katsuji, Aoi Miyazaki, Yûko Kotegawa",
+    "production_country": "Japan",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNTI4MWNjNGEtNzUxNC00MWY2LWI3MjQtYzk2ZDMyMWFiMDkyXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/14945.webp",
+    "imdb_rating": "6.3",
+    "imdb_votes": "4,918",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Origin:_Spirits_of_the_Past",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/14945.txt",
+    "plot_year_start": 2300,
+    "plot_year_end": 2300,
+    "epoch": "future-world",
+    "action_countries": [
+      "FICTIONAL"
+    ],
+    "action_continents": [
+      "FICTIONAL"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "ruined earths and wounded homelands",
+        "description": "The home world is often spent, poisoned, overcrowded, or broken by old wars, forcing survivors into enclaves, megacities, or exile among the stars. What you'll see: wastelands, cursed zones, crowded towers, scavenged settlements, dead seas, and memories of a greener world.",
+        "icon": "🏚️"
+      },
+      {
+        "label": "frontier life under strange native worlds",
+        "description": "New worlds are not empty stages but places with their own ecologies, ancient inhabitants, and forces that settlers neither master nor fully comprehend. What you'll see: sentient forests, immense beasts, indigenous tribes, alien plagues, sacred landscapes, and newcomers learning the land can answer back.",
+        "icon": "🌳"
+      }
+    ]
+  },
+  {
+    "movie_id": 330070,
+    "movie_idx": 7151,
+    "imdb_id": "tt4433646",
+    "title": "Terra Formars",
+    "production_year": "2016",
+    "genre": "Action, Horror, Sci-Fi",
+    "plot": "In an attempt to colonize Mars, 21st century scientists seed the planet with algae to absorb sun light and purify the atmosphere, and cockroaches who in turn spread the algae as they feed. 500 years later, the first manned mission to Mars loses contact with Earth, and a second ship is sent to investigate.",
+    "runtime": "108 min",
+    "director": "Takashi Miike",
+    "actors": "Rinko Kikuchi, Rila Fukushima, Tomohisa Yamashita",
+    "production_country": "Japan",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYWZiNjY2ZjctYjhmYy00OWU5LWE0ODMtZDViZTM0ZTU4YmNhXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/330070.webp",
+    "imdb_rating": "4.7",
+    "imdb_votes": "3,505",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Terra_Formars_(film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/330070.txt",
+    "plot_year_start": 2599,
+    "plot_year_end": 2599,
+    "epoch": "future-world",
+    "action_countries": [
+      "FICTIONAL"
+    ],
+    "action_continents": [
+      "FICTIONAL"
+    ],
+    "action_planet": "Mars",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "colonies carved into hostile new worlds",
+        "description": "Human settlement pushes onto moons, deserts, and alien planets where air, water, and shelter are never taken for granted. What you'll see: domed towns, mining camps, terraforming schemes, survey crews, and settlers trying to make a life on dangerous ground.",
+        "icon": "🏕️"
+      },
+      {
+        "label": "frontier life under strange native worlds",
+        "description": "New worlds are not empty stages but places with their own ecologies, ancient inhabitants, and forces that settlers neither master nor fully comprehend. What you'll see: sentient forests, immense beasts, indigenous tribes, alien plagues, sacred landscapes, and newcomers learning the land can answer back.",
+        "icon": "🌳"
+      }
+    ]
+  },
+  {
+    "movie_id": 9102,
+    "movie_idx": 7723,
+    "imdb_id": "tt0114367",
+    "title": "Screamers",
+    "production_year": "1995",
+    "genre": "Horror, Sci-Fi, Thriller",
+    "plot": "On the distant mining planet Sirius 6B ravaged by a decade of war in the year 2078, scientists have created the perfect weapon. The blade-wielding, self-replicating race of killing devices known as Screamers is designed for one purpose - to hunt down and destroy all enemy life forms. This so dubbed man's greatest weapon has continued to evolve without human guidance, and devised a new mission: to obliterate all life. Colonel Hendricksson (Peter Weller) commands a handful of Alliance soldiers still alive on Sirius. Betrayed by his own political leaders and disgusted by the atrocities of a never-ending war, Hendricksson decides to negotiate a separate peace with the New Economic Bloc's decimated forces. But to do so, he will have to cross a treacherous wasteland where the deadliest threat comes from the very weapons he helped to create.",
+    "runtime": "108 min",
+    "director": "Christian Duguay",
+    "actors": "Peter Weller, Roy Dupuis, Jennifer Rubin",
+    "production_country": "Canada, Japan",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMmVkMjcwMjktOGY2MC00ZGFkLWI1NWQtYTJjNTk2N2U0NWZmXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/9102.webp",
+    "imdb_rating": "6.3",
+    "imdb_votes": "31,565",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Screamers_(1995_film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/9102.txt",
+    "plot_year_start": 2078,
+    "plot_year_end": 2078,
+    "epoch": "future-world",
+    "action_countries": [
+      "FICTIONAL",
+      "US"
+    ],
+    "action_continents": [
+      "FICTIONAL",
+      "North America"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "great machines outrunning their makers",
+        "description": "Weapons, robots, ships, and thinking systems have grown so mighty that they often escape command or turn human designs against humankind. What you'll see: automated killing devices, hacked bodies, malfunctioning systems, sealed laboratories, and crews trapped with tools that no longer serve them.",
+        "icon": "🤖"
+      },
+      {
+        "label": "ruined earths and wounded homelands",
+        "description": "The home world is often spent, poisoned, overcrowded, or broken by old wars, forcing survivors into enclaves, megacities, or exile among the stars. What you'll see: wastelands, cursed zones, crowded towers, scavenged settlements, dead seas, and memories of a greener world.",
+        "icon": "🏚️"
+      }
+    ]
+  },
+  {
+    "movie_id": 13190,
+    "movie_idx": 8502,
+    "imdb_id": "tt1267379",
+    "title": "Dead Space: Downfall",
+    "production_year": "2008",
+    "genre": "Animation, Action, Adventure, Family, Horror, Sci-Fi, Thriller",
+    "plot": "The USG Ishimura, a miner spaceship, is transporting a strange artifact called the Red Marker. In the Aegis VII colony, where the Red Marker was found, there are some suicides and murders and the people are slowly going mad. The people are being infected by something. Barrow, the foreman, finds the body of his wife having committed suicide. Barrow decides to escape the colony's madness and, taking his wife's body, goes on board the Ishimura. But something happens to Barrow's wife on board the Ishimura.",
+    "runtime": "74 min",
+    "director": "Chuck Patton, Curt Geda, Vinton Heuck",
+    "actors": "Nika Futterman, Keith Szarabajka, Jim Cummings, Kevin Michael Richardson",
+    "production_country": "USA",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYjNiMmU2YmUtMGMzYy00ODc1LTk2ZmEtZjc3ZDZjMDAxOWZmXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/13190.webp",
+    "imdb_rating": "6.3",
+    "imdb_votes": "10,259",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Dead_Space:_Downfall",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/13190.txt",
+    "plot_year_start": 2508,
+    "plot_year_end": 2508,
+    "epoch": "future-world",
+    "action_countries": [
+      "FICTIONAL"
+    ],
+    "action_continents": [
+      "FICTIONAL"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Dead Space Universe",
+    "categories": [
+      {
+        "label": "colonies carved into hostile new worlds",
+        "description": "Human settlement pushes onto moons, deserts, and alien planets where air, water, and shelter are never taken for granted. What you'll see: domed towns, mining camps, terraforming schemes, survey crews, and settlers trying to make a life on dangerous ground.",
+        "icon": "🏕️"
+      },
+      {
+        "label": "old faiths persisting beside high devices",
+        "description": "Even amid star travel and artificed life, prophecy, sacred relics, rites, and godlike myths still organise how people understand fate and authority. What you'll see: desert messiahs, ancestral visions, holy books, ritual taboos, priestly orders, and machines treated with reverence or dread.",
+        "icon": "📿"
+      }
+    ]
+  },
+  {
+    "movie_id": 16220,
+    "movie_idx": 8805,
+    "imdb_id": "tt0076929",
+    "title": "Wizards",
+    "production_year": "1977",
+    "genre": "Animation, Adventure, Fantasy",
+    "plot": "In a post apocalyptic future that appears as a blend of World War II Europe and J.R.R. Tolkien's Middle-earth, a pint-size wizard named Avatar must save the world from a band of fascist mutants controlled by his evil twin brother, Blackwolf, who likes to confuse enemy armies by projecting films of Adolf Hitler speeches during attacks. Painted live-action footage of advancing Nazi armies contrasts with Saturday-morning-cartoon-style animation of fairies and elves as Avatar travels through various magical and radioactive realms on his quest. Aiding him are the beautiful Fairy princess Elinore, hot-blooded warrior elf Weehawk, and Peace, a misunderstood robot rebelling against his Blackwolf-controlled programming. A bizarre and psychedelic meditation on magic vs. technology, this ultimate futuristic fantastic epic cult film still finds an audience on college campuses and will prove quite rewarding to viewers in the right frame of mind.",
+    "runtime": "80 min",
+    "director": "Ralph Bakshi",
+    "actors": "Bob Holt, Jesse Welles, Richard Romanus",
+    "production_country": "United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZjhjOTIwNDItOGUwNC00YjMxLTkxM2QtMzAzYzg0ZDQyN2U4XkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/16220.webp",
+    "imdb_rating": "6.3",
+    "imdb_votes": "13,841",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Wizards_(film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/16220.txt",
+    "plot_year_start": 2966,
+    "plot_year_end": 2966,
+    "epoch": "future-world",
+    "action_countries": [
+      "FICTIONAL"
+    ],
+    "action_continents": [
+      "FICTIONAL"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "ruined earths and wounded homelands",
+        "description": "The home world is often spent, poisoned, overcrowded, or broken by old wars, forcing survivors into enclaves, megacities, or exile among the stars. What you'll see: wastelands, cursed zones, crowded towers, scavenged settlements, dead seas, and memories of a greener world.",
+        "icon": "🏚️"
+      },
+      {
+        "label": "altered bodies blurring the human shape",
+        "description": "Cyborg parts, bred castes, cloned lines, avatars, mutants, and other changed forms make personhood a matter of dispute rather than certainty. What you'll see: artificial limbs, laboratory-made peoples, body redesign, transformed soldiers, hidden origins, and unease over who counts as fully human.",
+        "icon": "🦾"
+      }
+    ]
+  },
+  {
+    "movie_id": 10016,
+    "movie_idx": 8999,
+    "imdb_id": "tt0228333",
+    "title": "Ghosts of Mars",
+    "production_year": "2001",
+    "genre": "Action, Horror, Sci-Fi",
+    "plot": "200 years in the future a Martian police unit is dispatched to transport a dangerous prisoner from a mining outpost back to justice. But when the team arrives they find the town deserted and some of the inhabitants possessed by the former inhabitants of the planet.",
+    "runtime": "98 min",
+    "director": "John Carpenter",
+    "actors": "Natasha Henstridge, Ice Cube, Pam Grier",
+    "production_country": "United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNTY5MWQ2YzUtNGM4YS00ZTYxLWJkMGUtMTg2ODlkNDUwMzY1XkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/10016.webp",
+    "imdb_rating": "4.9",
+    "imdb_votes": "61,438",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Ghosts_of_Mars",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/10016.txt",
+    "plot_year_start": 2176,
+    "plot_year_end": 2176,
+    "epoch": "future-world",
+    "action_countries": [
+      "FICTIONAL"
+    ],
+    "action_continents": [
+      "FICTIONAL"
+    ],
+    "action_planet": "Mars",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "colonies carved into hostile new worlds",
+        "description": "Human settlement pushes onto moons, deserts, and alien planets where air, water, and shelter are never taken for granted. What you'll see: domed towns, mining camps, terraforming schemes, survey crews, and settlers trying to make a life on dangerous ground.",
+        "icon": "🏕️"
+      },
+      {
+        "label": "soldiering as an everyday way of life",
+        "description": "Many of these worlds are ordered by permanent readiness for war, where marines, judges, guards, and trained fighters stand close to civil power. What you'll see: barracks discipline, armed patrols, dropships, special units, fortress cities, and children or recruits shaped early for combat.",
+        "icon": "🪖"
+      }
+    ]
+  },
+  {
+    "movie_id": 13981,
+    "movie_idx": 9010,
+    "imdb_id": "tt1043842",
+    "title": "Appleseed: Ex Machina",
+    "production_year": "2007",
+    "genre": "Animation, Action, Adventure",
+    "plot": "When a paramilitary task force called E.S.W.A.T. and its operations in the year 2133 Olympus, a futuristic utopia where humans, cyborgs, and bio-engineered human beings called \"Bioroids\" are attempting to live in perfect harmony. However, a series of random terrorist attacks perpetrated by cyborgs and humans alike threaten to throw Olympus into total chaos. As it turns out, these humans and machines have come under the influence of an unknown electronic signal that hacks into their nervous systems and they then become the unwilling servants of a malevolent computerized entity. Thrown into the action is the plucky female E.S.W.A.T. warrior Deunan Knute and her cyborg lover/partner Briareos as they investigate these bizarre occurrences with the other members of their unit. Things become complicated when a bioroid named Tereus, who resembles Briareous in his human form, joins their unit and threatens to come between their relationship. But these three must put aside their differences to face an even greater threat that promises world destruction in its wake.",
+    "runtime": "105 min",
+    "director": "Shinji Aramaki",
+    "actors": "Ai Kobayashi, Kôichi Yamadera, Yûji Kishi",
+    "production_country": "Japan",
+    "poster": "https://m.media-amazon.com/images/M/MV5BODNhNThjZDUtYjk4MC00MjJkLTgyMzUtYjExZWNhZGIxZjgyXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/13981.webp",
+    "imdb_rating": "7.0",
+    "imdb_votes": "9,967",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Appleseed_Ex_Machina",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/13981.txt",
+    "plot_year_start": 2133,
+    "plot_year_end": 2133,
+    "epoch": "future-world",
+    "action_countries": [
+      "FICTIONAL"
+    ],
+    "action_continents": [
+      "FICTIONAL"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "company power standing above common folk",
+        "description": "Merchant combines and chartered concerns command labour, transport, and settlement so fully that they rival or replace public rule. What you'll see: branded colonies, company men, hired troops, work crews in debt or danger, and profit weighing more than local lives.",
+        "icon": "🏢"
+      }
+    ]
+  }
+]

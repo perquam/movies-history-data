@@ -1,0 +1,343 @@
+[
+  {
+    "movie_id": 8095,
+    "movie_idx": 757,
+    "imdb_id": "tt0056937",
+    "title": "Cleopatra",
+    "production_year": "1963",
+    "genre": "Biography, Drama, History",
+    "plot": "In 48 B.C., Julius Caesar (Sir Rex Harrison) pursues Pompey from Pharsalia to Egypt. Pharaoh Ptolemy XIII (Richard O'Sullivan), now supreme ruler after deposing his older sister, Cleopatra VII (Dame Elizabeth Taylor), attempts to gain favor with Caesar by presenting the conquerer with the head of Pompey, borne by his governors, Pothinus (Grégoire Aslan) and Achillas (John Doucette). To win Caesar's support from her brother, Cleopatra hides herself in a rug, which Apollodorus (Cesare Danova), her servant, presents to Caesar. The Roman is immediately infatuated. Banishing Ptolemy, he declares Cleopatra Egypt's sole ruler and takes her as his mistress. A son, Caesarion (Loris Loddi), is born of their union. Caesar, however, must return to Italy. Although he is briefly reunited with Cleopatra during a magnificent reception for the Queen in Rome, Caesar is assassinated shortly thereafter, and Cleopatra returns to Egypt. When Mark Antony (Richard Burton), Caesar's protégé, beholds Cleopatra aboard her elaborate barge at Tarsus some years later, he is smitten and becomes both her lover and military ally. Their liaison notwithstanding, Antony, to consolidate his position in Rome, marries Octavia (Jean Marsh), sister of the ambitious Octavian (Roddy McDowall). The marriage satisfies no one. Cleopatra is infuriated, and Antony, tiring of his Roman wife, returns to Egypt. There he flaunts his liaison by marrying Cleopatra in a public ceremony. Sensing Antony's weakness, Octavian attacks and defeats his forces at Actium. Alarmed, Cleopatra withdraws her fleet and seeks refuge in her tomb.",
+    "runtime": "320 min",
+    "director": "Joseph L. Mankiewicz, Rouben Mamoulian",
+    "actors": "Elizabeth Taylor, Richard Burton, Rex Harrison",
+    "production_country": "Switzerland, United Kingdom, United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNDM0NzA2MTUtZTVhOC00MDYxLTk2MWMtNTY2ZjkyN2U5ZjM0XkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/8095.webp",
+    "imdb_rating": "7.0",
+    "imdb_votes": "40,521",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Cleopatra_(1963_film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/8095.txt",
+    "plot_year_start": -48,
+    "plot_year_end": -30,
+    "epoch": "ancient-world",
+    "action_countries": [
+      "EG",
+      "IT",
+      "GB"
+    ],
+    "action_continents": [
+      "Africa",
+      "Europe",
+      "Europe"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "palaces entangled with foreign empires",
+        "description": "African kingdoms stand in constant negotiation with stronger neighbours or rival powers, so local rule is tied to tribute, alliance, and outside armies. What you'll see: envoys, treaty talk, foreign generals at court, mixed customs in elite circles, and the sense that the fate of a kingdom is decided beyond its borders as well as within them.",
+        "icon": "🤝"
+      },
+      {
+        "label": "kingship displayed through court and ceremony",
+        "description": "Rule is centred on a sacred or exalted monarch whose power is shown in formal audiences, dynastic households, and carefully staged public display. What you'll see: thrones, processions, royal apartments, insignia of rank, and ceremonies where status is made visible.",
+        "icon": "👑"
+      }
+    ]
+  },
+  {
+    "movie_id": 6844,
+    "movie_idx": 1219,
+    "imdb_id": "tt0049833",
+    "title": "The Ten Commandments",
+    "production_year": "1956",
+    "genre": "Adventure, Drama, Family",
+    "plot": "To escape the edict of Egypt's Pharaoh Rameses I (Ian Keith), condemning all newborn Hebrew males, the infant Moses (Fraser C. Heston) is set adrift on the Nile in a reed basket. Saved by the pharaoh's daughter Bithiah (Nina Foch), he is adopted by her and brought up in the court of her brother, Pharaoh Sethi (Sir Cedric Hardwicke). Moses (Charlton Heston) gains Sethi's favor and the love of the throne Princess Nefretiri (Anne Baxter), as well as the hatred of Sethi's son, Rameses II (Yul Brynner). When his Hebrew heritage is revealed, Moses is cast out of Egypt, and makes his way across the desert where he marries, has a son, and is commanded by God to return to Egypt to free the Hebrews from slavery. In Egypt, Moses' fiercest enemy proves to be not Rameses II, but someone near to him who can \"harden his heart\".",
+    "runtime": "220 min",
+    "director": "Cecil B. DeMille",
+    "actors": "Charlton Heston, Yul Brynner, Anne Baxter",
+    "production_country": "United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMDRiZmNjZDAtN2I0Ny00YjIyLTk3NTUtODUyYTJlMTJhY2U0XkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/6844.webp",
+    "imdb_rating": "7.9",
+    "imdb_votes": "83,457",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Ten_Commandments_(1956_film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/6844.txt",
+    "plot_year_start": -1300,
+    "plot_year_end": -1200,
+    "epoch": "ancient-world",
+    "action_countries": [
+      "EG"
+    ],
+    "action_continents": [
+      "Africa"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "forced labour building royal grandeur",
+        "description": "Great states command labour on a massive scale through slavery, bondage, tribute, and compulsory service to rulers and temples. What you'll see: gangs of workers, overseers with rods, stone hauled into place, workshops, and bodies treated as part of the realm's wealth.",
+        "icon": "⛓️"
+      },
+      {
+        "label": "kingship displayed through court and ceremony",
+        "description": "Rule is centred on a sacred or exalted monarch whose power is shown in formal audiences, dynastic households, and carefully staged public display. What you'll see: thrones, processions, royal apartments, insignia of rank, and ceremonies where status is made visible.",
+        "icon": "👑"
+      }
+    ]
+  },
+  {
+    "movie_id": 9837,
+    "movie_idx": 1339,
+    "imdb_id": "tt0120794",
+    "title": "The Prince of Egypt",
+    "production_year": "1998",
+    "genre": "Animation, Adventure, Drama",
+    "plot": "This is the extraordinary tale of two brothers named Rameses II (Ralph Fiennes) and Moses (Val Kilmer), one born of royal blood, and one an orphan with a secret past. Growing up the best of friends, they share a strong bond of free-spirited youth and good-natured rivalry. But the truth will ultimately set them at odds, as one becomes the ruler of the most powerful empire on Earth, and the other the chosen leader of his people. Their final confrontation will forever change their lives and the world.",
+    "runtime": "99 min",
+    "director": "Brenda Chapman, Steve Hickner, Simon Wells",
+    "actors": "Val Kilmer, Ralph Fiennes, Michelle Pfeiffer",
+    "production_country": "United States, Canada",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjc4NzU5MDUtNmFkNi00NzI5LWE3NjQtNjJlZDRlNjdhZWYwXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/9837.webp",
+    "imdb_rating": "7.2",
+    "imdb_votes": "158,262",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Prince_of_Egypt",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/9837.txt",
+    "plot_year_start": -1300,
+    "plot_year_end": -1200,
+    "epoch": "ancient-world",
+    "action_countries": [
+      "EG"
+    ],
+    "action_continents": [
+      "Africa"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "kingship displayed through court and ceremony",
+        "description": "Rule is centred on a sacred or exalted monarch whose power is shown in formal audiences, dynastic households, and carefully staged public display. What you'll see: thrones, processions, royal apartments, insignia of rank, and ceremonies where status is made visible.",
+        "icon": "👑"
+      },
+      {
+        "label": "forced labour building royal grandeur",
+        "description": "Great states command labour on a massive scale through slavery, bondage, tribute, and compulsory service to rulers and temples. What you'll see: gangs of workers, overseers with rods, stone hauled into place, workshops, and bodies treated as part of the realm's wealth.",
+        "icon": "⛓️"
+      }
+    ]
+  },
+  {
+    "movie_id": 2899,
+    "movie_idx": 3063,
+    "imdb_id": "tt0250223",
+    "title": "Asterix & Obelix: Mission Cleopatra",
+    "production_year": "2002",
+    "genre": "Adventure, Comedy, Family",
+    "plot": "The Egyptian Queen Cleopatra bets against the Roman Emperor, Julius Caesar, that her people are still great, even if the times of the Pharaohs has long passed. She vows (against all logic) to build a new palace for Caesar within three months. Since all her architects are either busy otherwise or too conservative in style, this ambivalent honor falls to Edifis. He is to build the palace and be covered in gold or, if not, his fate is to be eaten by crocodiles. Edifis calls upon an old friend to help him out: The fabulous Druid Getafix from Gaul, who brews a fantastic potion that gives supernatural strength. In order to help and protect the old Druid, Asterix and Obelix accompany him on his journey to Egypt. When Julius Caesar gets wind of the project succeeding, he has the building site attacked by his troops in order to win the bet and not lose face. But just like the local pirates, he hasn't counted on Asterix and Obelix.",
+    "runtime": "107 min",
+    "director": "Alain Chabat",
+    "actors": "Gérard Depardieu, Christian Clavier, Jamel Debbouze",
+    "production_country": "France, Germany, Belgium",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMGYxYzkwZGUtNzkzNS00YTE2LWE2MjUtN2Q4YWY1ZjQ4ZDFjXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/2899.webp",
+    "imdb_rating": "6.7",
+    "imdb_votes": "61,857",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Asterix_%26_Obelix:_Mission_Cleopatra",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/2899.txt",
+    "plot_year_start": -52,
+    "plot_year_end": -52,
+    "epoch": "ancient-world",
+    "action_countries": [
+      "EG",
+      "GR"
+    ],
+    "action_continents": [
+      "Africa",
+      "Europe"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Asterix Universe",
+    "categories": [
+      {
+        "label": "cities thriving on Mediterranean sea routes",
+        "description": "Ports and river mouths bind African capitals to a wider world of merchants, grain fleets, luxury goods, and political news. What you'll see: harbours, barges, warehouses, sailors, cosmopolitan streets, and wealth arriving by ship as much as by land.",
+        "icon": "⛵"
+      },
+      {
+        "label": "forced labour building royal grandeur",
+        "description": "Great states command labour on a massive scale through slavery, bondage, tribute, and compulsory service to rulers and temples. What you'll see: gangs of workers, overseers with rods, stone hauled into place, workshops, and bodies treated as part of the realm's wealth.",
+        "icon": "⛓️"
+      }
+    ]
+  },
+  {
+    "movie_id": 885110,
+    "movie_idx": 4733,
+    "imdb_id": "tt15847872",
+    "title": "Amina",
+    "production_year": "2021",
+    "genre": "Action, Adventure, Biography",
+    "plot": "In 16th-century Zazzau, now Zaria, Nigeria, Amina must utilize her military skills and tactics to defend her family's kingdom.",
+    "runtime": "105 min",
+    "director": "Izu Ojukwu",
+    "actors": "Usman Tijani Abubakar, Jennifer Ezekiel Ade, Paul Adubazi",
+    "production_country": "Nigeria",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMGNjNmE2ZTQtNzhlNi00OTdhLThkNzMtZGQ0MTJmYzM0MDZiXkEyXkFqcGdeQXVyNzc5NDg5Mjc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/885110.webp",
+    "imdb_rating": "4.1",
+    "imdb_votes": "496",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Amina_(2021_film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/885110.txt",
+    "plot_year_start": 16,
+    "plot_year_end": 16,
+    "epoch": "ancient-world",
+    "action_countries": [
+      "NG"
+    ],
+    "action_continents": [
+      "Africa"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "public authority enforced by armed might",
+        "description": "Rulers hold their realms through organised soldiers, chariots or fleets, garrisons, and exemplary punishment against rebels and rivals. What you'll see: ranks of troops, armour and standards, fortress walls, military reviews, and violence used as a lesson in obedience.",
+        "icon": "🛡️"
+      },
+      {
+        "label": "households ordered by rank and dependence",
+        "description": "Daily life is steeply hierarchical, with nobles, officials, servants, slaves, and dependants bound together in unequal households and patronage ties. What you'll see: attendants waiting on elites, masters issuing commands, domestic labour, guarded entrances, and deference built into ordinary speech and movement.",
+        "icon": "🧎"
+      }
+    ]
+  },
+  {
+    "movie_id": 522417,
+    "movie_idx": 5011,
+    "imdb_id": "tt7338690",
+    "title": "The Scorpion King: Book of Souls",
+    "production_year": "2018",
+    "genre": "Action, Adventure, Fantasy",
+    "plot": "In ancient Egypt, the mighty warlord, Nebserek, steals the fabled Fang of Anubis--a cursed sword imbued with the power of hell and the strength of its countless victims--intent on creating his evil empire. As the ruthless monarch burns down to the ground a small village, the wounded Akkadian mercenary, Mathayus, joins forces with the Nubian princess, Tala, to embark on a long and dangerous quest to find the mystical Book of Souls: the only thing that can put an end to Nebserek's tyranny. Will the legendary Scorpion King bring hope and restore peace?",
+    "runtime": "102 min",
+    "director": "Don Michael Paul",
+    "actors": "Zach McGowan, Nathan Jones, Mayling Ng",
+    "production_country": "United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZjY4M2NiNjktYzJjNS00MDdmLWJlNzctMGJjNTg4MDMyYmZmXkEyXkFqcGdeQXVyMTYzMDM0NTU@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/522417.webp",
+    "imdb_rating": "4.6",
+    "imdb_votes": "2,746",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Scorpion_King:_Book_of_Souls",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/522417.txt",
+    "plot_year_start": -3000,
+    "plot_year_end": -3000,
+    "epoch": "ancient-world",
+    "action_countries": [
+      "EG",
+      "SD"
+    ],
+    "action_continents": [
+      "Africa",
+      "Africa"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "The Mummy Universe",
+    "categories": [
+      {
+        "label": "public authority enforced by armed might",
+        "description": "Rulers hold their realms through organised soldiers, chariots or fleets, garrisons, and exemplary punishment against rebels and rivals. What you'll see: ranks of troops, armour and standards, fortress walls, military reviews, and violence used as a lesson in obedience.",
+        "icon": "🛡️"
+      },
+      {
+        "label": "many gods sharing space with new faiths",
+        "description": "Public life is shaped by temples, sacrifices, priests, and sacred images, even as newer creeds press against older worship and claim authority for themselves. What you'll see: idols and shrines, ritual offerings, sacred chants, processions, and bitter quarrels over whose rites may rule the city.",
+        "icon": "🛕"
+      }
+    ]
+  },
+  {
+    "movie_id": 26428,
+    "movie_idx": 6111,
+    "imdb_id": "tt1186830",
+    "title": "Agora",
+    "production_year": "2009",
+    "genre": "Adventure, Biography, Drama",
+    "plot": "Alexandria, 391 AD: Hypatia teaches astronomy, mathematics, and philosophy. Her student Orestes is in love with her, as is Davus, her personal slave. As the city's Christians, led by Ammonius and Cyril, gain political power, the institutions of learning may crumble along with the governance of slavery. Jump ahead 20 years: Orestes, the city's prefect, has an uneasy peace with the Christians, led by Cyril. A group from the newly empowered Christians has now taken to enforce their cultural hegemony zealously; first they see the Jews as their obstacle, then nonbelievers. Hypatia has no interest in faith; she's concerned about the movement of celestial bodies and \"the brotherhood of all\". Although her former slave doesn't see it that way.",
+    "runtime": "127 min",
+    "director": "Alejandro Amenábar",
+    "actors": "Rachel Weisz, Max Minghella, Oscar Isaac",
+    "production_country": "Spain, Malta, Bulgaria, United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMzFkMjcyMTMtYWNhYy00ZjY3LWFkZjEtMDk3NjUwNTgzYzUyXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/26428.webp",
+    "imdb_rating": "7.1",
+    "imdb_votes": "76,043",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Agora_(film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/26428.txt",
+    "plot_year_start": 391,
+    "plot_year_end": 415,
+    "epoch": "ancient-world",
+    "action_countries": [
+      "EG"
+    ],
+    "action_continents": [
+      "Africa"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "many gods sharing space with new faiths",
+        "description": "Public life is shaped by temples, sacrifices, priests, and sacred images, even as newer creeds press against older worship and claim authority for themselves. What you'll see: idols and shrines, ritual offerings, sacred chants, processions, and bitter quarrels over whose rites may rule the city.",
+        "icon": "🛕"
+      }
+    ]
+  },
+  {
+    "movie_id": 318850,
+    "movie_idx": 6907,
+    "imdb_id": "tt1002563",
+    "title": "The Young Messiah",
+    "production_year": "2016",
+    "genre": "Drama, Fantasy",
+    "plot": "At the age of 7, Jesus Bar-Joseph lives with his family in Alexandria, Egypt, where they have fled to avoid a massacre of children by King Herod of Israel. Jesus knows that his parents Joseph and Mary have secrets they are keeping from him, secrets about his birth and about traits that make him very different from other boys. His parents, however, believe him too young to grasp the truth of his miraculous birth and purpose. Learning that the murderous Herod is dead, they set out to return to their home of Nazareth in Israel, unaware that Herod's namesake son is, like his father, determined to see the boy Jesus dead.",
+    "runtime": "111 min",
+    "director": "Cyrus Nowrasteh",
+    "actors": "Adam Greaves-Neal, Vincent Walsh, Sara Lazzaro",
+    "production_country": "United States, South Korea",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTU4NzM3NzczMF5BMl5BanBnXkFtZTgwMzM0NjkwNzE@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/318850.webp",
+    "imdb_rating": "5.7",
+    "imdb_votes": "4,016",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Young_Messiah",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/318850.txt",
+    "plot_year_start": 7,
+    "plot_year_end": 7,
+    "epoch": "ancient-world",
+    "action_countries": [
+      "EG",
+      "IL"
+    ],
+    "action_continents": [
+      "Africa",
+      "Asia"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "public authority enforced by armed might",
+        "description": "Rulers hold their realms through organised soldiers, chariots or fleets, garrisons, and exemplary punishment against rebels and rivals. What you'll see: ranks of troops, armour and standards, fortress walls, military reviews, and violence used as a lesson in obedience.",
+        "icon": "🛡️"
+      },
+      {
+        "label": "many gods sharing space with new faiths",
+        "description": "Public life is shaped by temples, sacrifices, priests, and sacred images, even as newer creeds press against older worship and claim authority for themselves. What you'll see: idols and shrines, ritual offerings, sacred chants, processions, and bitter quarrels over whose rites may rule the city.",
+        "icon": "🛕"
+      }
+    ]
+  }
+]

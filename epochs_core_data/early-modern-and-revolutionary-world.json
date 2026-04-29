@@ -1,0 +1,76 @@
+{
+  "id": "early-modern-and-revolutionary-world",
+  "label": "Early Modern and Revolutionary World",
+  "aliases": [
+    "Age of Enlightenment and Revolution",
+    "Colonial and Revolutionary Era",
+    "Age of Empire and Reason",
+    "The Long Eighteenth Century and Beyond",
+    "Age of Sail and Gunpowder"
+  ],
+  "time_range": {
+    "start_year": 1600,
+    "end_year": 1849,
+    "label": "1600 to 1849"
+  },
+  "headline": "Old crowns tighten their grip on the world — and one by one, the world starts cutting off their hands.",
+  "epoch_summary": "Two and a half centuries of slave ships and sugar fortunes, musket smoke and philosophical pamphlets, absolutist kings building Versailles while hungry crowds sharpen the idea that maybe kings aren't necessary — ending with revolutions that redraw maps and an industrial machine just beginning to growl to life.",
+  "regions": [
+    {
+      "region_name": "Africa",
+      "description_of_an_epoch_in_the_region": "The Atlantic slave trade tears a wound across the continent that will never fully close. Coastal kingdoms like Dahomey and Ashanti grow rich and powerful by selling captives to European ships; interior communities are raided, scattered, depopulated. Millions of people cross the ocean in chains and never come back. Meanwhile, in the east, Swahili trade cities deal in ivory and gold, and in the south, the Zulu are still a generation away from reshaping everything."
+    },
+    {
+      "region_name": "Antarctica",
+      "description_of_an_epoch_in_the_region": "A rumor at the bottom of the world. Sailors suspect something is down there — Cook crosses the Antarctic Circle in 1773 and finds nothing but ice and fog. The continent stays untouched, unseen, and unnamed."
+    },
+    {
+      "region_name": "Asia",
+      "description_of_an_epoch_in_the_region": "The Mughal Empire dazzles and then crumbles. The Qing Dynasty conquers China and builds an empire so vast it thinks it needs nothing from the outside world — until British merchants start pushing opium through the door. Japan slams itself shut under the Tokugawa shoguns: no foreigners in, no Japanese out, for two hundred years. The spice islands bleed under Dutch control. Empires here don't fall to revolutions — they rot from within while European trading companies circle like patient vultures."
+    },
+    {
+      "region_name": "Europe",
+      "description_of_an_epoch_in_the_region": "Kings build palaces so enormous they need entire towns to service them. Then the ideas start: reason, rights, liberty, the radical suggestion that ordinary people might govern themselves. France leads the experiment — a king loses his head, a republic rises, drowns in its own blood, and a Corsican artillery officer picks up the pieces and marches armies across the entire continent. By 1849, the old order has been patched back together, but the cracks are everywhere and everyone can see them."
+    },
+    {
+      "region_name": "North America",
+      "description_of_an_epoch_in_the_region": "First it's colonies — tobacco, fur, timber, enslaved labor, and the slow, systematic displacement of every nation that was already here. Then thirteen of those colonies decide they'd rather not pay taxes to a king three thousand miles away, and they fight a war over it that accidentally invents a new kind of country. By the 1840s, that country is pushing west with a hunger it calls destiny, and Mexico is learning what it means to share a border with something that won't stop expanding."
+    },
+    {
+      "region_name": "Oceania",
+      "description_of_an_epoch_in_the_region": "Pacific islanders navigate vast ocean distances by stars and currents, living in worlds Europeans don't even know exist. Then Cook arrives, and everything changes. Australia becomes a dumping ground for British convicts. New Zealand's Māori meet muskets and missionaries. The contact is often fatal — disease travels faster than diplomats."
+    },
+    {
+      "region_name": "South America",
+      "description_of_an_epoch_in_the_region": "Spanish and Portuguese empires squeeze the continent for silver, sugar, and souls. Enslaved Africans and Indigenous peoples do the dying; colonial governors and Catholic missions do the ordering. But by the early 1800s, Bolívar and San Martín ride through the mountains with armies and a dream of independence, and one by one the old colonial flags come down. What replaces them is messy, violent, and free — at least on paper."
+    },
+    {
+      "region_name": "Atlantic Ocean",
+      "description_of_an_epoch_in_the_region": "The most trafficked and most haunted ocean on Earth. Slave ships cross it in one direction, sugar and cotton cross it in the other, and revolutionary ideas cross it in both. Every European war is also an Atlantic war — fought for islands, trade routes, and the right to keep taking what doesn't belong to you."
+    },
+    {
+      "region_name": "Pacific Ocean",
+      "description_of_an_epoch_in_the_region": "Still mostly unknown to Europeans for most of this period — a blue mystery dotted with islands that won't appear on Western maps until someone with a sextant bumps into them. Spanish galleons run the Manila-Acapulco route hauling silver and silk, but the ocean itself remains too big to control."
+    },
+    {
+      "region_name": "Indian Ocean",
+      "description_of_an_epoch_in_the_region": "A trade superhighway that the Portuguese, Dutch, and British fight over like dogs over a bone. Spices, textiles, and tea flow through ports from Zanzibar to Canton. Whoever controls the chokepoints controls the money — and eventually, the East India Company controls almost everything."
+    },
+    {
+      "region_name": "Southern Ocean",
+      "description_of_an_epoch_in_the_region": "Freezing, violent water that kills sailors and wrecks ships. Whalers start hunting its edges. Nobody goes further south than they have to."
+    },
+    {
+      "region_name": "Arctic Ocean",
+      "description_of_an_epoch_in_the_region": "Explorers keep trying to find a northwest passage through the ice and keep failing, freezing, or disappearing. The Arctic doesn't care about European ambition. It just waits."
+    },
+    {
+      "region_name": "FICTIONAL",
+      "description_of_an_epoch_in_the_region": "Invented worlds built on the furniture of this era — tricorn hats, candlelit salons, tall ships, secret societies, and revolutions against tyrant kings. Pirate republics that never existed, enlightened kingdoms run by philosopher-queens, fantasy versions of colonial frontiers where the moral math is cleaner than it ever was in real life. The aesthetic is powder and sail and ink-stained manifestos."
+    },
+    {
+      "region_name": "UNKNOWN",
+      "description_of_an_epoch_in_the_region": "The feel is unmistakable even when the map is vague — candlelight and quill pens, mud roads and horse-drawn carriages, a world where news travels at the speed of a ship and power still belongs to whoever holds the land, the title, or the gun. Something is shifting under the surface, but nobody can agree on what comes next."
+    }
+  ]
+}

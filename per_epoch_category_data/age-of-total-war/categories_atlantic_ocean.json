@@ -1,0 +1,67 @@
+{
+  "epoch": "age-of-total-war",
+  "continent": "atlantic_ocean",
+  "sample_size": 1,
+  "sample": [
+    {
+      "title": "Below",
+      "years": "1943..1943",
+      "countries": [
+        "UNKNOWN"
+      ],
+      "plot": "In the dark silence of the sea during World War II, the submarine U.S.S. Tiger Shark prowls on what should be a routine rescue mission. But, for the shell-shocked crew, trapped together in the sub's narrow corridors and constricted spaces, this is about to become a journey into the sensory delusions, mental deceptions and runaway fear that lurk just below the surface of the ocean and deep inside the human psyche."
+    }
+  ],
+  "categories": [
+    {
+      "label": "convoys and raiders fighting for sea lanes",
+      "description": "The Atlantic has become a war road where food, fuel, troops, and munitions must cross under constant threat from submarines and surface hunters. What you'll see: freighters in convoy columns, escort vessels scanning the horizon, torpedo wakes, and blacked-out seas treated as a battlefield.",
+      "icon": "🚢"
+    },
+    {
+      "label": "submarines as cramped machines of war",
+      "description": "Undersea craft are powerful yet fragile vessels whose crews live packed among engines, batteries, torpedoes, and stale air for long stretches. What you'll see: narrow passages, low steel bulkheads, dripping valves, bunks tucked beside machinery, and every task performed shoulder to shoulder.",
+      "icon": "🛥️"
+    },
+    {
+      "label": "sonar, depth charges, and blind pursuit",
+      "description": "Battle below the waves is fought largely by instruments, guesswork, and nerve, with each side listening for the other in darkness they cannot see through. What you'll see: headphone watches, plotting boards, pinging signals, shouted bearings, and violent depth-charge blasts shaking every rivet.",
+      "icon": "🎧"
+    },
+    {
+      "label": "navies ruled by drill and command",
+      "description": "Life at sea is ordered by strict rank, routine, and obedience because hesitation can doom an entire boat or convoy. What you'll see: clipped orders, watches changing by the clock, salutes and formal address, and officers carrying the burden of every decision.",
+      "icon": "🫡"
+    },
+    {
+      "label": "merchant shipping turned into lifeline",
+      "description": "Civilian cargo vessels are drawn into the war effort because whole nations depend on ocean traffic for survival and continued fighting. What you'll see: rescue work among wreckage, lifeboats in heavy seas, holds packed with supplies, and ordinary seamen exposed to front-line danger.",
+      "icon": "📦"
+    },
+    {
+      "label": "war service wearing down body and mind",
+      "description": "Long patrols, interrupted sleep, fear of unseen attack, and the knowledge of entrapment put severe strain on crews even when no enemy is in sight. What you'll see: drawn faces, trembling hands, sudden outbursts, superstitious talk, and the oppressive stillness between alarms.",
+      "icon": "😣"
+    },
+    {
+      "label": "sealed steel worlds vulnerable to the sea",
+      "description": "A warship at depth is an enclosed world where flooding, fire, bad air, or mechanical failure can be as deadly as enemy action. What you'll see: watertight doors clanging shut, gauges watched with dread, leaks spreading across plates, and men racing to contain damage.",
+      "icon": "🚪"
+    },
+    {
+      "label": "rescue, wrecks, and survivors adrift",
+      "description": "Naval war on the Atlantic leaves shattered ships and castaway crews scattered across cold water, making rescue both a duty and a hazard. What you'll see: debris fields, oil-slicked waves, exhausted survivors hauled aboard, and the grim calculations of whom a vessel can save.",
+      "icon": "🛟"
+    },
+    {
+      "label": "wartime secrecy surrounding every movement",
+      "description": "Positions, orders, cargoes, and even identities are guarded closely because leaked knowledge can turn the sea into a trap. What you'll see: coded signals, sealed instructions, tight-lipped officers, censored information, and crews who know only part of the larger plan.",
+      "icon": "🔐"
+    },
+    {
+      "label": "faith and superstition aboard fighting ships",
+      "description": "In a setting ruled by danger, confinement, and chance, formal religion and sailors' lore both help men make sense of what cannot be controlled. What you'll see: whispered prayers, lucky charms, ghost stories, chapel words mixed with sea superstitions, and ritual habits repeated under stress.",
+      "icon": "🙏"
+    }
+  ]
+}

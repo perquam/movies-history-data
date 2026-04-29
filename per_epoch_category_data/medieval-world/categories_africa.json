@@ -1,0 +1,67 @@
+{
+  "epoch": "medieval-world",
+  "continent": "africa",
+  "sample_size": 1,
+  "sample": [
+    {
+      "title": "Exodus: Gods and Kings",
+      "years": "970..1300",
+      "countries": [
+        "EG"
+      ],
+      "plot": "Biblical epic Exodus: Gods and Kings stars Christian Bale as Moses who, as the film opens, fights alongside his brother Ramses (a shaved-headed Joel Edgerton), to help defend Egypt, which is ruled by their father, Seti (John Turturro). During battle, Moses saves Ramses life, causing Ramses to fear that his brother will one day be King because it fits with a prophecy handed down by one of Seti's trusted spiritualists. Soon after Seti's death, Moses, who is actually Jewish and not Egyptian, is banished. However, he becomes the leader of the Jewish people and leads a rebellion, with the help of a wrathful God, against that Egyptians.."
+    }
+  ],
+  "categories": [
+    {
+      "label": "kings ruling as sacred household heads",
+      "description": "Rule is gathered into the person of a king whose court, kin, and household servants are the centre of power, judgement, and favour. What you'll see: palace chambers, royal audiences, succession fears, and commands flowing outward from the throne.",
+      "icon": "👑"
+    },
+    {
+      "label": "the Nile ordering the whole land",
+      "description": "Life depends on the river's flooding, canals, and fertile banks, so the country is shaped by water more than by open desert. What you'll see: green strips beside the river, barges and marshes, irrigation works, and desert wastes pressing close beyond cultivation.",
+      "icon": "🏞️"
+    },
+    {
+      "label": "great works raised by bound labour",
+      "description": "Monumental building rests on masses of labourers driven by overseers, quotas, and punishment rather than free village work. What you'll see: mud brick pits, hauling crews, storehouses, lash-bearing foremen, and vast unfinished works under the sun.",
+      "icon": "🧱"
+    },
+    {
+      "label": "priests reading the gods' will",
+      "description": "Religion is woven into rule, war, and daily decision, with priests, omens, and ritual experts treating the gods as active powers in public life. What you'll see: temple rites, sacred images, prophecy, formal offerings, and rulers seeking divine approval.",
+      "icon": "🛕"
+    },
+    {
+      "label": "many peoples living under Pharaoh",
+      "description": "The kingdom holds different subject peoples within one royal order, marked by unequal status, separate customs, and forced service. What you'll see: crowded labour camps, ethnic distinction in dress and speech, hard treatment of subject communities, and officials sorting people by rank.",
+      "icon": "👥"
+    },
+    {
+      "label": "war chariots and bronze arms",
+      "description": "Royal power is defended by trained fighters, chariot forces, and close-ranked infantry using the weapons and armour of the age. What you'll see: horse teams, chariot charges, bronze blades, shields, and battlefield ceremony around noble commanders.",
+      "icon": "🛡️"
+    },
+    {
+      "label": "law carried by stewards and scribes",
+      "description": "A great realm is managed through record-keepers, messengers, tax gatherers, and household officials who turn royal will into everyday order. What you'll see: scrolls and tallies, sealings, busy officials, guarded store rooms, and orders delivered through layers of servants.",
+      "icon": "📜"
+    },
+    {
+      "label": "grain stores guarding against hunger",
+      "description": "Food security depends on harvest collection and storage, giving the state strong reason to count produce and control labour. What you'll see: granaries, rationing, fields under watch, carts of grain, and anxiety over scarcity or ruinous loss.",
+      "icon": "🌾"
+    },
+    {
+      "label": "slaves and servants filling every household",
+      "description": "Domestic and public life alike rest on steep hierarchies, with slaves, servants, and labour gangs doing the work that sustains elite comfort and royal ambition. What you'll see: attendants in palace rooms, menial tasks assigned by rank, beatings and commands, and constant displays of submission.",
+      "icon": "🧎"
+    },
+    {
+      "label": "plague and disaster as divine judgement",
+      "description": "Natural calamity is understood not as blind chance but as a sign that heaven has turned against a ruler or a people. What you'll see: dread before strange afflictions, ritual attempts to answer them, terrified crowds, and rulers measuring worldly power against sacred wrath.",
+      "icon": "⚡"
+    }
+  ]
+}

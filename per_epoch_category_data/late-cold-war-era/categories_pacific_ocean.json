@@ -1,0 +1,57 @@
+{
+  "epoch": "late-cold-war-era",
+  "continent": "pacific_ocean",
+  "sample_size": 1,
+  "sample": [
+    {
+      "title": "Phantom",
+      "years": "1968..1968",
+      "countries": [
+        "UNKNOWN"
+      ],
+      "plot": "The Cold War has cast an ominous chill over the entire globe, and when a Soviet submarine targets the U.S. Navy's Pacific fleet for nuclear attack, it appears that the final battle has begun. But Captain Dmitri Zubov has a choice - one that could pull the world back from the brink of annihilation. Meanwhile, it begins to seem as if other forces are at work on Captain Zubov's submarine. Now, in the depths of the South Pacific, Captain Zubov will fight to reconcile his past in order to ensure that there will be a future. Not just for him, but for every man, woman, and child on the planet.."
+    }
+  ],
+  "categories": [
+    {
+      "label": "superpowers facing off across the Pacific",
+      "description": "The Pacific is one of the widest reaches of the Cold War, where American and Soviet forces watch, test, and threaten one another far from their own shores. What you'll see: vast empty ocean, fleet movements, maps marked with patrol zones, and constant fear that a distant order could ignite a world crisis.",
+      "icon": "🚢"
+    },
+    {
+      "label": "submarines hiding with world-ending weapons",
+      "description": "Nuclear-armed submarines turn the deep ocean into a concealed battlefield, where a single vessel can carry enough force to destroy cities and alter history. What you'll see: cramped steel compartments, missile tubes, sonar stations, whispered alerts, and the oppressive sense that catastrophe travels underwater.",
+      "icon": "☢️"
+    },
+    {
+      "label": "military life ruled by sealed commands",
+      "description": "Naval service in this era depends on strict chains of command, secret orders, and obedience under conditions where crews often know only part of the wider design. What you'll see: coded messages, officers conferring behind closed hatches, formal salutes, and tense pauses before a command is carried out.",
+      "icon": "🫡"
+    },
+    {
+      "label": "machines and sensors probing the deep",
+      "description": "Power at sea rests on listening devices, engines, guidance systems, and other instruments that let men navigate and hunt in a realm they cannot directly see. What you'll see: sonar pings, glowing dials, plotting boards, mechanical checks, and men reading the fate of the ship through instruments.",
+      "icon": "📡"
+    },
+    {
+      "label": "crews living shut inside steel hulls",
+      "description": "Submarine duty compresses daily life into a sealed and airless world where sleep, labour, meals, and fear all unfold within the same narrow passageways. What you'll see: bunks stacked close, sweat and condensation, shared mess tables, dim red lighting, and every movement shaped by confinement.",
+      "icon": "🛏️"
+    },
+    {
+      "label": "secrecy and suspicion inside armed services",
+      "description": "Cold War institutions are built on mistrust, with loyalty tested constantly because hidden motives, political pressure, and rival services can matter as much as enemy action. What you'll see: guarded conversations, incomplete information, watchful officers, anxious glances over procedure, and the sense that danger may come from within as well as without.",
+      "icon": "🕵️"
+    },
+    {
+      "label": "the Pacific as a remote killing ground",
+      "description": "The South Pacific serves as a distant theatre where powers can position weapons and fleets away from civilian eyes while still holding the whole world at risk. What you'll see: featureless horizons, isolated coordinates, long stretches without land, and the eerie feeling that history is being decided in emptiness.",
+      "icon": "🧭"
+    },
+    {
+      "label": "men trained for duty under nuclear dread",
+      "description": "Service members in the late Cold War live with the knowledge that their routine patrols may at any moment become the opening move of a final war. What you'll see: strained faces during drills, disciplined effort under extreme pressure, references to irreversible consequences, and ordinary naval tasks shadowed by apocalyptic stakes.",
+      "icon": "🎖️"
+    }
+  ]
+}

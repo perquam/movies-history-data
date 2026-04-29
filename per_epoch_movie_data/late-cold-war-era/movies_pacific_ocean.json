@@ -1,0 +1,44 @@
+[
+  {
+    "movie_id": 152259,
+    "movie_idx": 5078,
+    "imdb_id": "tt1922685",
+    "title": "Phantom",
+    "production_year": "2013",
+    "genre": "Drama, History, Thriller",
+    "plot": "The Cold War has cast an ominous chill over the entire globe, and when a Soviet submarine targets the U.S. Navy's Pacific fleet for nuclear attack, it appears that the final battle has begun. But Captain Dmitri Zubov has a choice - one that could pull the world back from the brink of annihilation. Meanwhile, it begins to seem as if other forces are at work on Captain Zubov's submarine. Now, in the depths of the South Pacific, Captain Zubov will fight to reconcile his past in order to ensure that there will be a future. Not just for him, but for every man, woman, and child on the planet..",
+    "runtime": "98 min",
+    "director": "Todd Robinson",
+    "actors": "Ed Harris, Julian Adams, David Duchovny",
+    "production_country": "United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNzcxNzg0MTU1M15BMl5BanBnXkFtZTcwODQ0NDcxOQ@@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/152259.webp",
+    "imdb_rating": "5.9",
+    "imdb_votes": "15,360",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Phantom_(2013_film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/152259.txt",
+    "plot_year_start": 1968,
+    "plot_year_end": 1968,
+    "epoch": "late-cold-war-era",
+    "action_countries": [
+      "UNKNOWN"
+    ],
+    "action_continents": [
+      "Pacific Ocean"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "submarines hiding with world-ending weapons",
+        "description": "Nuclear-armed submarines turn the deep ocean into a concealed battlefield, where a single vessel can carry enough force to destroy cities and alter history. What you'll see: cramped steel compartments, missile tubes, sonar stations, whispered alerts, and the oppressive sense that catastrophe travels underwater.",
+        "icon": "☢️"
+      },
+      {
+        "label": "the Pacific as a remote killing ground",
+        "description": "The South Pacific serves as a distant theatre where powers can position weapons and fleets away from civilian eyes while still holding the whole world at risk. What you'll see: featureless horizons, isolated coordinates, long stretches without land, and the eerie feeling that history is being decided in emptiness.",
+        "icon": "🧭"
+      }
+    ]
+  }
+]

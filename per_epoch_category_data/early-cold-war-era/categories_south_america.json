@@ -1,0 +1,128 @@
+{
+  "epoch": "early-cold-war-era",
+  "continent": "south_america",
+  "sample_size": 7,
+  "sample": [
+    {
+      "title": "Indiana Jones and the Kingdom of the Crystal Skull",
+      "years": "1957..1957",
+      "countries": [
+        "PE",
+        "US",
+        "RU"
+      ],
+      "plot": "During the Cold War, Soviet Agents watch Professor Henry \"Indiana\" Jones, Jr. (Harrison Ford), when a young man brings him a coded message from an aged, demented colleague, Professor Harold Oxley (Sir John Hurt). Led by the brilliant Irina Spalko (Cate Blanchett), the Soviets tail Jones and the young man, Mutt Williams (Shia LeBeouf), to Peru. With Oxley's code, they find a legendary skull made of a single piece of quartz. If Jones can deliver the skull to its rightful place, all may be well. But if Irina takes it to its origin, she'll gain powers that could endanger the West. Aging professor and young buck join forces with a woman from Jones' past, Marion Ravenwood (Karen Allen), to face the dangers of the jungle, Russia, and the supernatural."
+    },
+    {
+      "title": "Operation Finale",
+      "years": "1960..1961",
+      "countries": [
+        "AR",
+        "IL",
+        "AT"
+      ],
+      "plot": "Director Chris Weitz's historical thriller is based on the story of how a group of Israeli secret agents arrested notorious SS officer Adolf Eichmann - the man who masterminded the \"Final Solution\" - in Argentina. Oscar Isaac plays the legendary Mossad agent Peter Malkin, while Ben Kingsley plays his emotionally manipulative arch-nemesis. After tracking Eichmann down to Buenos Aires, Malkin and his men captured him and brought him to Israel for a historic 8-month trial."
+    },
+    {
+      "title": "The Motorcycle Diaries",
+      "years": "1952..1952",
+      "countries": [
+        "AR",
+        "CL",
+        "PE",
+        "CO",
+        "VE"
+      ],
+      "plot": "In 1952, twenty-three year old medical student Ernesto Guevara de la Serna - Fuser to his friends and later better known as 'Ernesto Che Guevara' - one semester away from graduation, decides to postpone his last semester to accompany his twenty-nine year old biochemist friend 'Alberto Granado' - Mial to his friends - on his four month, 8,000 km long dream motorcycle trip throughout South America starting from their home in Buenos Aires. Their quest is to see things they've only read about in books about the continent on which they live, and to finish that quest on Alberto's thirtieth birthday on the other side of the continent in the Guajira Peninsula in Venezuela. Not all on this trip goes according to their rough plan due to a broken down motorbike, a continual lack of money (they often stretching the truth to gain the favor of a variety of strangers to help them), arguments between the two in their frequent isolation solely with each other, their raging libidos which sometimes get them into trouble, and dealing with Fuser's chronic asthma. But a chance encounter with a couple of Communists in the Chilean desert and an extended visit to the San Pablo Leper Colony in the Perúvian Amazon Basin among other things profoundly affects what each will want to do with his life and the bond each has with the other."
+    },
+    {
+      "title": "Kon-Tiki",
+      "years": "1947..1947",
+      "countries": [
+        "PE",
+        "UNKNOWN",
+        "NO",
+        "US"
+      ],
+      "plot": "The Norwegian explorer Thor Heyerdahl crossed the Pacific Ocean in a balsawood raft in 1947, together with five men, to prove that South Americans back in pre-Columbian times could have crossed the ocean and settled on Polynesian islands. After financing the trips with loans and donations, they set off on an epic 101-day-long trip across 8000 kilometers, while the world was waiting for the result of the trip. The film tells about the origin of the idea, the preparations, and the events on the trip. The \"Kon-Tiki\" was named after the Inca sun god, Viracocha, and \"Kon-Tiki\" is an old name for this god. Heyerdahl filmed the expedition, which later became the Academy Award winning documentary in 1951, and he wrote a book about the expedition that was translated into 70 languages and sold more than 50 millions copies around the world. Heyerdahl believed that people from South America could have settled Polynesia in pre-Columbian times, although most anthropologists now believe they did not. Anyway he proved that it was possible by using only the materials and technologies available to those people at that time. The trip took 101 days over 4,300 miles across the Pacific Ocean before the \"Kon-Tiki\" crashed onto the dangerous reefs outside Raroia in the Tuamotu Islands on August 7, 1947. All crewmen survived, and the \"Kon-Tiki\" was taken back to Norway. She is now featured in the Kon-Tiki Museum."
+    },
+    {
+      "title": "Notorious",
+      "years": "1946..1946",
+      "countries": [
+        "BR",
+        "US"
+      ],
+      "plot": "Following the conviction of her German father for treason against the U.S., Alicia Huberman takes to drink and men. She is approached by a government agent (T.R. Devlin) who asks her to spy on a group of her father's Nazi friends operating out of Rio de Janeiro. A romance develops between Alicia and Devlin, but she starts to get too involved in her work."
+    },
+    {
+      "title": "Pele: Birth of a Legend",
+      "years": "1950..1958",
+      "countries": [
+        "BR",
+        "SE"
+      ],
+      "plot": "Pele's meteoric rise from the slums of Sao Paulo to leading Brazil to its first World Cup victory at the age of 17 is chronicled in this biographical drama."
+    },
+    {
+      "title": "Kiss of the Spider Woman",
+      "years": "1964..1964",
+      "countries": [
+        "BR"
+      ],
+      "plot": "Luis Molina and Valentin Arregui are cell mates in a South American prison. Luis, a trans individual, is found guilty of immoral behavior and Valentin is a political prisoner. To escape reality Luis invents romantic movies, while Valentin tries to keep his mind on the situation he's in. During the time they spend together, the two men come to understand and respect one another."
+    }
+  ],
+  "categories": [
+    {
+      "label": "foreign spies moving through port cities",
+      "description": "South American capitals and coastal cities sit inside the early Cold War contest, where foreign services watch harbours, hotels, embassies, and expatriate circles for enemies and defectors. What you'll see: discreet surveillance, coded messages, consular offices, airport and dockside arrivals, and polished urban districts shadowed by suspicion.",
+      "icon": "🕵️"
+    },
+    {
+      "label": "Nazi exiles sheltered in new homelands",
+      "description": "In the years after the war, parts of the continent become refuge and hiding place for former fascists, helped by sympathetic networks, false identities, and governments more concerned with present alliances than past crimes. What you'll see: German-speaking enclaves, respectable villas concealing old loyalties, forged papers, guarded family homes, and fugitives blending into Buenos Aires or Rio society.",
+      "icon": "🧳"
+    },
+    {
+      "label": "police cells holding political dissenters",
+      "description": "States answer unrest with prisons, interrogations, and morality laws, treating radicals and other unwanted people as threats to public order. What you'll see: cramped cells, warders and informers, whispered ideological arguments, official files, and the daily humiliations of confinement.",
+      "icon": "⛓️"
+    },
+    {
+      "label": "vast journeys over poor continental roads",
+      "description": "The continent is connected unevenly, so travel between regions depends on battered roads, riverboats, rail links, and the goodwill of strangers rather than smooth national networks. What you'll see: broken motorcycles, roadside repairs, hitching rides, ferries and river crossings, long dusty stretches, and distances that wear down men and machines.",
+      "icon": "🏍️"
+    },
+    {
+      "label": "rural poverty beside landed wealth",
+      "description": "Across much of the countryside, wealth is concentrated in estates and company zones while labourers, migrants, and Indigenous communities live with chronic hardship and little protection. What you'll see: shanties and worker camps, hungry families, harsh mine or plantation landscapes, fenced property, and sharp contrasts between elite comfort and village want.",
+      "icon": "🏚️"
+    },
+    {
+      "label": "jungle rivers and frontiers beyond capitals",
+      "description": "Large parts of South America remain frontier country to city dwellers, where state power is thin and life is shaped by river travel, forest knowledge, and physical isolation. What you'll see: Amazon waterways, dense jungle tracks, remote missions or colonies, improvised boats, insects and mud, and settlements cut off from urban routines.",
+      "icon": "🛶"
+    },
+    {
+      "label": "ancient ruins feeding modern myths",
+      "description": "Pre-Columbian remains are treated both as scholarly inheritance and as living source of national pride, speculation, and wonder in an age still eager for grand discoveries. What you'll see: Andean stonework, excavation sites, museum pieces, old codices and symbols, local legends, and outsiders projecting fantasies onto Indigenous pasts.",
+      "icon": "🗿"
+    },
+    {
+      "label": "medicine confronting neglected human suffering",
+      "description": "Doctors, clinics, and charitable institutions meet diseases that spread where poverty, remoteness, and weak public provision leave whole communities on the margins. What you'll see: leper colonies, crowded wards, improvised treatments, riverbank medical posts, masked caregivers, and the social distance between the healthy and the afflicted.",
+      "icon": "🩺"
+    },
+    {
+      "label": "radio fame and football binding nations",
+      "description": "Mass spectatorship grows through radio, newsreels, and packed stadiums, turning athletes and public events into emblems of national possibility. What you'll see: street football, roaring crowds, microphones and announcers, boys copying heroes in poor neighborhoods, and victory presented as proof that a nation has arrived.",
+      "icon": "⚽"
+    },
+    {
+      "label": "cosmopolitan capitals shaped by foreign ties",
+      "description": "Cities like Buenos Aires, Rio, and Lima carry strong European and North American connections in their manners, trade, and elite life even as distinctly local worlds press in around them. What you'll see: grand boulevards, fashionable nightspots, imported cars and suits, multilingual social circles, and abrupt crossings from polished districts into working-class streets.",
+      "icon": "🌃"
+    }
+  ]
+}

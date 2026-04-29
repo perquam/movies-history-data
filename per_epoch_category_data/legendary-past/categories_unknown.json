@@ -1,0 +1,103 @@
+{
+  "epoch": "legendary-past",
+  "continent": "unknown",
+  "sample_size": 5,
+  "sample": [
+    {
+      "title": "Dinosaur",
+      "years": "-66000000..-66000000",
+      "countries": [
+        "UNKNOWN"
+      ],
+      "plot": "During an attack on a pack of Iguanodon, an egg is separated and ends up with the possession of a group of lemurs. The lemurs care for this egg and the young creature born from it, which they call Aladar (D.B. Sweeney). When meteorites hit Earth, Aladar and his family must leave their homeland. Away from home and as close to danger as they have ever been, they meet up with a huge group of dinosaurs, led by Kron (Samuel E. Wright) and Bruton (Peter Siragusa). All together they are trying to reach the nesting grounds, but it's not going to be easy."
+    },
+    {
+      "title": "Quest for Fire",
+      "years": "-80000..-80000",
+      "countries": [
+        "UNKNOWN"
+      ],
+      "plot": "Anthony Burgess created the primitive language for the early humans in this prehistoric adventure about a trio of warriors who travel the savanna, encountering sabre-toothed tigers, mammoths and cannibalistic tribes in search of a flame that would replace the fire their tribe has lost."
+    },
+    {
+      "title": "Ice Age",
+      "years": "-250000..-10000",
+      "countries": [
+        "UNKNOWN"
+      ],
+      "plot": "Back when the Earth was being overrun by glaciers, and animals were scurrying to save themselves from the upcoming Ice Age, a sloth named Sid, a woolly mammoth named Manny, and a saber-toothed tiger named Diego are forced to become unlikely heroes. The three reluctantly come together when they have to return a human child to its father while braving the deadly elements of the impending Ice Age."
+    },
+    {
+      "title": "History of the World: Part I",
+      "years": "-100000..-1000",
+      "countries": [
+        "UNKNOWN",
+        "IT",
+        "IL",
+        "ES",
+        "FR"
+      ],
+      "plot": "From the dawn of man to the distant future, mankind's evolution (or lack thereof) is traced. Often ridiculous but never serious, we learn the truth behind the Roman Emperor, we learn what really happened at the Last Supper, the circumstances that surrounded the French Revolution, how to test eunuchs, and what kind of shoes the Spanish Inquisitor wore."
+    },
+    {
+      "title": "Caveman",
+      "years": "-1000000..-1000000",
+      "countries": [
+        "UNKNOWN"
+      ],
+      "plot": "In the Stone Age, strong caveman Tonda is the leader of a hostile tribe and the outcast Atouk feels unrequited desire for Tonda's mate Lana. One day, Atouk is walking with his best friend Lar (Dennis Quaid) and they meet the cavewoman Tala. They save her blind father Gog from a tar pit and Tala fells unrequited affection for Atouk. Soon the smart Atouk becomes the leader of the misfit tribe and dispute the leadership of the whole clan and Lana with Tonda. But in the end, the leader needs a worthwhile mate."
+    }
+  ],
+  "categories": [
+    {
+      "label": "small bands living by kin ties",
+      "description": "People and animals alike are gathered in close bands where belonging, protection, and rank come from family attachment and group loyalty rather than any settled state. What you'll see: tight clusters on the move, elders and dominant figures setting the pace, and outsiders treated with suspicion or need.",
+      "icon": "👪"
+    },
+    {
+      "label": "migration driven by harsh changing seasons",
+      "description": "Life is ruled by shifts in weather, drought, cold, and sudden ruin, so survival often means leaving familiar ground and following safer country. What you'll see: long treks across bare landscapes, herds in motion, failing waterholes, ice, ash, and desperate searches for refuge.",
+      "icon": "👣"
+    },
+    {
+      "label": "fire as guarded power and warmth",
+      "description": "Mastery of flame stands as a precious advantage for warmth, protection, cooking, and status, and losing it can endanger the whole band. What you'll see: embers carried carefully, fear of darkness, awe around a blaze, and contests over who controls this life-giving skill.",
+      "icon": "🔥"
+    },
+    {
+      "label": "speech still forming from cries and signs",
+      "description": "Communication is limited, physical, and immediate, with gesture, mimicry, calls, and a few learned sounds doing the work of longer speech. What you'll see: pointing, grunts, ritualised noises, puzzled misunderstandings, and meaning carried through bodies as much as words.",
+      "icon": "👋"
+    },
+    {
+      "label": "strength deciding rank within the group",
+      "description": "Authority often rests on physical dominance, hunting prowess, and the ability to protect or command, rather than on written law or lasting office. What you'll see: challenges to leaders, intimidation at mealtimes, pecking orders in marches, and deference won through force.",
+      "icon": "💪"
+    },
+    {
+      "label": "survival amid great beasts and predators",
+      "description": "The world is shared with immense animals and deadly hunters, making every journey, meal, and resting place a contest with powerful nonhuman life. What you'll see: mammoths, saber-toothed cats, towering reptiles, stampedes, stalking predators, and constant watchfulness at the edge of camp.",
+      "icon": "🦣"
+    },
+    {
+      "label": "wandering before fields or permanent towns",
+      "description": "Daily life is not built around ploughed land or lasting settlements, but around roaming, foraging, hunting, and making use of whatever the land offers. What you'll see: caves and rough shelters, gathered roots and eggs, scavenged food, hunting parties, and camps that can be left behind quickly.",
+      "icon": "🏕️"
+    },
+    {
+      "label": "simple tools opening new ways to live",
+      "description": "A small gain in craft knowledge can change a band's chances, because sharpened stone, carried fire, or other basic contrivances make survival easier. What you'll see: chipped tools, improvised weapons, experimental making, wonder at a useful invention, and social prestige attached to know-how.",
+      "icon": "🪓"
+    },
+    {
+      "label": "mates and offspring shaping group order",
+      "description": "Pairing, fertility, and care of the young are central to group continuity, and disputes over mates or infants can carry the weight of wider social order. What you'll see: nesting grounds, protective parenting, jealousy over partners, vulnerable young carried along, and courtship bound up with status.",
+      "icon": "👶"
+    },
+    {
+      "label": "a sacred fear of the raw world",
+      "description": "Nature appears overwhelming and half-mythic, with storm, sky-fire, beasts, and strange places inspiring dread, reverence, and superstition. What you'll see: fearful reactions to eclipsing skies and falling stones, taboo places, communal awe before natural force, and ritual-like responses to danger.",
+      "icon": "🌩️"
+    }
+  ]
+}

@@ -1,0 +1,481 @@
+{
+  "epoch": "late-cold-war-era",
+  "continent": "north_america",
+  "sample_size": 50,
+  "sample": [
+    {
+      "title": "My Dinner with Andre",
+      "years": "1975..1975",
+      "countries": [
+        "US"
+      ],
+      "plot": "Wallace Shawn and Andre Gregory, apparently playing themselves, share their lives over the course of an evening meal at a restaurant. Gregory, a theater director from New York, is the more talkative of the pair. He relates to Shawn his tales of dropping out, traveling around the world, and experiencing the variety of ways people live, such as a monk who could balance his entire weight on his fingertips. Shawn listens avidly, but questions the value of Gregory's seeming abandonment of the pragmatic aspects of life."
+    },
+    {
+      "title": "Donnie Brasco",
+      "years": "1978..1978",
+      "countries": [
+        "US"
+      ],
+      "plot": "This true story follows FBI agent Joe Pistone as he infiltrates the mafia of New York. Befriending Lefty Ruggiero, Pistone (under the name Donnie Brasco) is able to embed himself in a mafia faction led by Sonny Black. Ruggiero and Pistone become tight as the group goes about collecting money for 'the bosses'. Eventually, the group become big-time when Black himself becomes a boss; all the while, Pistone collects evidence. However, the trials and tribulations of the undercover work become more than Pistone can bear. His marriage falls apart, and to top it off, the mafia suspect a mole in the organization. The real dilemma is afforded to Pistone, who knows if he walks away from the mafia, Ruggiero will be the one punished."
+    },
+    {
+      "title": "Shocker",
+      "years": "1989..1989",
+      "countries": [
+        "US"
+      ],
+      "plot": "A murderous TV repairman, Horace Pinker is killing people in a small town left, right and center. He eventually finds the home of Lt. Parker, who is investigating his crimes, and savagely murders Parker's wife, son and daughter. His other son, Jonathan has a strange connection to Pinker through his dreams, and he directs his father to Pinker's business, where a small group of officers enter. Pinker escapes in a horrific spree, killing four officers and then targeting Jonathan's girlfriend, Alison. Another dream leads Jonathan and his dad to a residence where they catch Pinker in in the act of kidnapping. Pinker is arrested after a fight with Jonathan and sentenced to die in the electric chair. When executed, Pinker - who supposedly had given his soul to the devil in exchange for the power to come back as an energy source - takes over people's bodies and continues committing murders, until Jonathan devises a plan to bring Pinker into the real world, and then cut off his power source..."
+    },
+    {
+      "title": "Road House",
+      "years": "1989..1989",
+      "countries": [
+        "US"
+      ],
+      "plot": "Serene and laconic, yet powerful and lethal, Dalton is an expert in martial arts and the best professional bouncer in the business. With such a reputation, Dalton is summoned in a small town in Missouri to clean up the sleazy bar called The Double Deuce from the troublemakers who terrorize the customers, without knowing, however, that the villainous local entrepreneur, Brad Wesley, wants things to remain unchanged. As Dalton cleans up the nightclub, and with it, the town from Wesley's hired goons, a deep wound from a knife will inspire a passionate affair with local Dr. Elizabeth \"Doc\" Clay. Now, the corrupt Wesley has enough reasons to take Dalton out of the way, nevertheless, the bouncer has the final say."
+    },
+    {
+      "title": "Endless Love",
+      "years": "1980..1981",
+      "countries": [
+        "US"
+      ],
+      "plot": "David and Jade are high-school sweethearts and happy in love. But when Jades grades starts to drop her father forbid the young couple to see each other. Mad with frustration and desire David tries to reverse the decision, with catastrophic results."
+    },
+    {
+      "title": "X",
+      "years": "1979..1979",
+      "countries": [
+        "US"
+      ],
+      "plot": "Set in 1979, adult movie actors and a small film crew arrive to a farmhouse occupied by an elderly couple in the desolate Texas countryside to film an adult movie. As the day shifts to night, the visitors slowly realize that they are not safe, and are being targeted by a nearby enemy."
+    },
+    {
+      "title": "Cannonball Run II",
+      "years": "1983..1983",
+      "countries": [
+        "US"
+      ],
+      "plot": "The Sheik who competed at the last Cannonball Run, is berated by his father for not winning it. So he tells him to go and win. Problem is that there is no Cannonball Run. So his father tells him to make one of his own. He puts up a million dollars as the prize. So former Cannonballers J.J. and his buddy Vince join, as does Blake and Fenderbaum and some other characters. But Blake and Fenderbaum owe a mobster some money, and the mobster owes some other guy more. He then decides to grab the Sheik and hold him for ransom so he can pay the guy back."
+    },
+    {
+      "title": "The Case for Christ",
+      "years": "1980..1980",
+      "countries": [
+        "US"
+      ],
+      "plot": "An award-winning investigative journalist -- and avowed atheist -- who applies his well-honed journalistic and legal skills to disprove the newfound Christian faith of his wife... with unexpected, life-altering results."
+    },
+    {
+      "title": "Charlie Wilson's War",
+      "years": "1980..1989",
+      "countries": [
+        "US",
+        "PK",
+        "AF",
+        "IL",
+        "EG",
+        "SA"
+      ],
+      "plot": "In the early 1980s, Charlie Wilson is a womanizing US congressional representative from Texas who seemed to be in the minor leagues, except for the fact that he is a member of two major foreign policy and covert-ops committees. However, prodded by his major conservative supporter, Houston Socialite Joanne Herring, Wilson learns about the plight the people are suffering in the brutal Soviet occupation of Afghanistan. With the help of the maverick CIA agent, Gustav \"Gust\" Avrakotos, Wilson dedicates his canny political efforts to supply the Afghan mujahideen with the weapons and support to defeat the Soviet Union. However, Charlie Wilson eventually learns that while military victory can be had, there are other consequences and prices to that fight that are ignored to everyone's sorrow."
+    },
+    {
+      "title": "Licorice Pizza",
+      "years": "1973..1973",
+      "countries": [
+        "US"
+      ],
+      "plot": "LICORICE PIZZA is the story of Alana Kane and Gary Valentine growing up, running around and falling in love in the San Fernando Valley, 1973. Written and Directed by Paul Thomas Anderson, the film tracks the treacherous navigation of first love."
+    },
+    {
+      "title": "A Dog's Purpose",
+      "years": "1950..2014",
+      "countries": [
+        "US"
+      ],
+      "plot": "Lasse Hallström \"The Hundred-Foot Journey\" directed this adaptation of the best-selling novel of the same name by W. Bruce Cameron, which follows a dog voiced by Josh Gad as he is reincarnated as different breeds belonging to various owners. Over the course of multiple lifetimes, the canine's existence intersects with that of a young boy who rescued him in 1962."
+    },
+    {
+      "title": "Judas and the Black Messiah",
+      "years": "1968..1968",
+      "countries": [
+        "US"
+      ],
+      "plot": "Fred Hampton, a young, charismatic activist, becomes Chairman of the Illinois chapter of the Black Panther Party - putting him directly in the crosshairs of the government, the FBI, and the Chicago Police. But to destroy the revolution, the authorities are going to need a man on the inside."
+    },
+    {
+      "title": "Sleepaway Camp",
+      "years": "1975..1983",
+      "countries": [
+        "US"
+      ],
+      "plot": "After a horrible boating accident kills her family, shy, sullen Angela moves in with her eccentric Aunt Martha and protective cousin Ricky. One summer, Martha sends the kids to Camp Arawak. Soon after their arrival, bizarre, increasingly violent accidents claim the lives of various campers. Who is the twisted individual behind these murders? The disclosure of the murderer's identity is one of the most shocking climaxes in the history of American cinema."
+    },
+    {
+      "title": "The Rocky Horror Picture Show",
+      "years": "1974..1974",
+      "countries": [
+        "US",
+        "GB"
+      ],
+      "plot": "On a wild and rain-swept late-November evening, somewhere at an empty stretch of road outside Ohio's merry Denton, blissfully-affianced, prudish, boringly-innocent young pair Brad Majors (Barry Bostwick) and Janet Weiss (Susan Sarandon) find themselves stranded on their way to visit an ex-tutor. Instead, the couple will inadvertently unearth the cross-dressing Dr. Frank-N-Furter's (Tim Curry's) spooky lair of inexhaustible oddities, just in time to partake in the out-of-this-world mad scientist's proud unveiling of his latest, delightfully extravagant, most daring creation: the ultimate male and the perfect sex symbol: the flaxen-haired Rocky Horror (Peter Hinwood). But, little by little, as the effervescent transgressive force gobbles up whole the unsuspecting visitors of the night, Brad and Janet slowly begin to embrace the potent fascinations of seduction, while an idolized Rocky roams free in the mansion. Who can interrupt man's union with the absolute pleasure?"
+    },
+    {
+      "title": "A Turtle's Tale: Sammy's Adventures",
+      "years": "1959..2009",
+      "countries": [
+        "MX",
+        "AQ",
+        "UNKNOWN"
+      ],
+      "plot": "A sea turtle, who was hatched in 1959, spends the next fifty years travelling the world, while it is being changed by global warming."
+    },
+    {
+      "title": "Wrong Turn 4: Bloody Beginnings",
+      "years": "1974..2003",
+      "countries": [
+        "US"
+      ],
+      "plot": "Follows a group of friends that decide to go snowmobiling during their winter break. They make a \"wrong turn\", getting lost in a storm, and seek shelter in an abandoned sanatorium. They are completely isolated by the storm and are thankful they can get out of the elements. But the sanatorium has a troubled past, and some of its former patients still reside there and are not happy about the intrusion. In a deadly game of cat and mouse, the college kids must fight to survive the night."
+    },
+    {
+      "title": "Dressed to Kill",
+      "years": "1980..1980",
+      "countries": [
+        "US"
+      ],
+      "plot": "While taking a shower, Kate Miller, a middle-aged, sexually frustrated New York City housewife, has a rape fantasy while her husband stands at the sink shaving. Later that day, after complaining to her psychiatrist Dr. Robert Elliott about her husband's pathetic performance in bed, she meets a strange man at a museum and returns to his apartment where they continue an adulterous encounter that began in the taxicab. Before she leaves his apartment, she finds papers which certify that the man has a venereal disease. Panicked, Kate rushes into the elevator, but has to return to his apartment when she realizes she's forgotten her wedding ring. When the elevator doors open, she's brutally slashed to death by a tall blonde woman wearing dark sunglasses. Liz Blake, a high-class call girl, is the only witness to the murder and she becomes the prime suspect and the murderer's next target. Liz is rescued from being killed by Kate's son Peter, who enlists the help of Liz to catch his mother's killer as Detective Marino, who's in charge of the case, is uncooperative in the investigation."
+    },
+    {
+      "title": "The Last House on the Left",
+      "years": "1972..1972",
+      "countries": [
+        "US",
+        "CA"
+      ],
+      "plot": "On the eve of her seventeenth birthday, Mari Collingwood tells her parents that she is going to the concert of underground band Bloodlust in New York with her friend Phyllis Stone. She borrows the family's car and heads with her friend to a dangerous neighborhood in the city. Meanwhile, the sadistic and cruel escapees Krug Stillo and Fred 'Weasel' Podowski are hidden in a hideout with their partners Sadie (Jeramie Rain) and Krug's addicted son Junior Stillo (Marc Sheffler) after killing two guards and one shepherd in their runaway. The two girls seek marijuana near the theater and meet Junior that offers some Colombian grass to them. They go to his apartment and are subdued by the criminals that rape Phyllis. On the next morning, they hide the girls in the trunk of their convertible and head to Canada. However, they have a problem with the car's rod and they stop on the road close to Mari's house. When Phyllis tries to escape, the gang stabs her to death and shots Mari after humiliating and raping them. They seek shelter in Mari's home, but during the night, her mother overhears a conversation of the criminals telling that they have killed her daughter. She tells her husband and they plot a scheme to revenge the death of their princess."
+    },
+    {
+      "title": "National Lampoon's Vacation",
+      "years": "1983..1983",
+      "countries": [
+        "US"
+      ],
+      "plot": "Having it all planned down to the last detail, the American, well-meaning paterfamilias, Clark Griswold, and his supportive wife, Ellen, take their two teenage children, Rusty and Audrey, on a cross-country trip from the suburbs of Chicago, all the way to sunny California's Walley World amusement park. However, anything that can go wrong will go wrong, and before long, Ellen's cousin, Catherine, and her husband, Eddie, enter the picture, and Clark is on the verge of blowing a gasket. Now, Roy Walley's wonderful park seems so far away, and even though the prospect of a clandestine meeting with the alluring blonde in a fast, 1981 Ferrari 308 GTSi sounds tempting, Clark must do the right thing, and find the promised land. How hard can it be to have the perfect vacation?"
+    },
+    {
+      "title": "The Muppet Movie",
+      "years": "1979..1979",
+      "countries": [
+        "US"
+      ],
+      "plot": "While living the quiet life in a swamp, Kermit the Frog is approached by a Hollywood agent to audition for the chance of a lifetime. So Kermit takes this chance for his big break as he makes the journey to Hollywood. Along the way, Kermit comes across several quirky new friends including comedic Fozzie Bear, beautiful but feisty Miss Piggy, and the Great Gonzo. But Kermit must also watch out for ruthless Doc Hopper, who plans to use him as his spokesman for his frog legs food chain."
+    },
+    {
+      "title": "Invasion U.S.A.",
+      "years": "1985..1985",
+      "countries": [
+        "US",
+        "GA"
+      ],
+      "plot": "A terrorist, Rostov, is planning to unleash a reign of terror on the U.S.. But before he does he decides to go after Matt Hunter, a former CIA agent who lives in Florida. Hunter once had Rostov's life in his hands, but on orders took him alive, and now Rostov is plagued by nightmares of Hunter killing him. So Rostov goes after him but misses, so Hunter, who has already been approached by his former employers to go after Rostov, after initially turning down the job, because he believed that they should have let him terminate Rostov when he had the chance, decides to go after him. But he is only one man and Rostov has hundreds of men ripping the country apart, so how will he stop it?"
+    },
+    {
+      "title": "First Man",
+      "years": "1961..1969",
+      "countries": [
+        "US"
+      ],
+      "plot": "A Biopic on the life of the legendary American Astronaut Neil Armstrong from 1961-1969, on his journey to becoming the first human to walk the moon. Exploring the sacrifices and costs on the Nation and Neil himself, during one of the most dangerous missions in the history of space travel."
+    },
+    {
+      "title": "Pretty in Pink",
+      "years": "1986..1986",
+      "countries": [
+        "US"
+      ],
+      "plot": "Teenager Andie is one of the not-so-popular girls in high school. She usually hangs out with her friends Iona or Duckie. Duckie has always had a crush on her, but now she has met a new guy at school, Blane. He's one of the rich and popular guys but can the two worlds meet?"
+    },
+    {
+      "title": "The Warriors",
+      "years": "1979..1979",
+      "countries": [
+        "US"
+      ],
+      "plot": "Cyrus, the leader of the most powerful gang in New York City, the Gramercy Riffs, calls a midnight summit for all the area gangs, with all asked to send nine unarmed representatives for the conclave. A gang called The Warriors are blamed for killing Cyrus as he gives his speech. They now have to cross the territory of rivals in order to get to their own 'hood. The Warriors slowly cross the dangerous Bronx and Manhattan territories, narrowly escaping police and other gangs every step of the way."
+    },
+    {
+      "title": "Herbie Goes Bananas",
+      "years": "1980..1980",
+      "countries": [
+        "MX",
+        "PA",
+        "BR"
+      ],
+      "plot": "Pete Stancheck inherits from his Uncle Jim Douglas a race car being stored in Puerto Vallarta. With his friend Davy Johns (D.J. to his friends) accompanying him to P.V., Pete is dismayed to learn that the car is an older model Volkswagen Beetle. But when Pete and D.J. see what the car can do and learn that it somewhat has a mind of its own, they decide to enter it into the Brazil Grand Primeo formula one race. En route to Rio de Janeiro, Herbie, the car, gets Pete and D.J. into one predicament after another as it tries to help its new friend, a streetwise orphan named Paco, who Pete and D.J. encountered in P.V. and who stowed away in Herbie's trunk. Because of these predicaments, Pete and D.J. end up requiring a quick influx of cash and slyly enlist the help of wealthy Louise Trent and her bookish niece, anthropology doctoral candidate Melissa, to be their financiers. Pete's role in the scheme is to woo the shy Melissa, about which he feels guilty. But initially unknown to all of them, Paco, who picks pockets to survive, is being chased by criminals from who Paco inadvertently stole some film which shows the whereabouts of some Incan treasures. As they collectively and individually work their way to Rio, Herbie must ultimately protect Paco, Pete, D.J., Louise and Melissa from the bad guys, while conversely prevent the bad guys from pillaging the treasures. Through it all, will romance bloom between Pete and Melissa, and between Louise and the object of her affection, a cruise ship captain named Blythe, who is more reminiscent of a captain of a ship called the Bounty than of a cruise kind?"
+    },
+    {
+      "title": "Carrie",
+      "years": "1976..1976",
+      "countries": [
+        "US"
+      ],
+      "plot": "It's nearing the end of the school year. High school senior Carrie White is a social outcast, largely due to being unwise to the ways of the world based on her upbringing. Her mother, Margaret White, is a religious fanatic, her extreme views primarily targeted against sex, which she believes is a sin. She even believes natural associated processes such as menstruation are a sin, about which she has refused to mention to Carrie. Mrs. White's beliefs were taken to that extreme largely because of her own failed marriage and her husband Ralph long ago having run off with another woman. The only adult authority figure who tries to help Carrie with her life is her phys ed teacher, Miss Collins, who is nonetheless warned not to get too close to go against how Mrs. White chooses to raise Carrie, Mrs. White whose beliefs are well known in the community. An impromptu event that happens among Carrie's phys ed classmates against her leads to her classmates being punished. One of those students, self absorbed Chris Hargensen, vows revenge against Carrie for that punishment, the method of the revenge associated to the phys ed class incident. Another student however, the popular Sue Snell, begins to feel sorry for Carrie. In wanting to help her get out of her shell, Sue asks her boyfriend, the equally popular Tommy Ross, to take Carrie to the senior prom instead of her. This move does not sit well with Mrs. White, who in her extreme view believes Carrie will fall prey to sin. All these competing issues lead to Carrie deciding on an impulse to use a newfound skill to free herself from the figurative chains that have long been placed around her, with tragic consequences."
+    },
+    {
+      "title": "Death Wish II",
+      "years": "1982..1982",
+      "countries": [
+        "US"
+      ],
+      "plot": "After using himself as bait to rid New York City of its muggers in Death Wish (1974), Paul Kersey relocates to Los Angeles with his traumatised daughter, trying to wipe the slate clean, and bury the past. However, once again, Paul catches the eye of a new bunch of savage street thugs, and before long, rape and murder destroy his family. Now, armed with his unforgiving semi-automatic Beretta 84 pistol, Kersey prowls the filthy backstreets of L.A., eager to pick up where he left off, and clean up the city. But, Paul's brutal method of justice is starting to attract unwanted attention. Will the police corner the notorious vigilante this time?"
+    },
+    {
+      "title": "Michael Jackson: The Life of an Icon",
+      "years": "1964..2009",
+      "countries": [
+        "US"
+      ],
+      "plot": "Featuring never before seen footage and exclusive interviews with Michael's mother Katherine and siblings Tito and Rebbie Jackson covering all the highs and also the lows in the King of Pop's extraordinary life story uniquely told by those who knew him best. Producer David Gest presents a feature length, definitive portrait of his best friend Michael Jackson."
+    },
+    {
+      "title": "Dog Gone",
+      "years": "1980..1980",
+      "countries": [
+        "US"
+      ],
+      "plot": "Based on the true story of a father and son who repair their fractured relationship during a forced hike of the Appalachian trail to find their beloved lost dog."
+    },
+    {
+      "title": "Tomorrowland",
+      "years": "1964..2015",
+      "countries": [
+        "US",
+        "FR"
+      ],
+      "plot": "Bound by a shared destiny, a bright, optimistic teen bursting with scientific curiosity and a former boy-genius inventor jaded by disillusionment embark on a danger-filled mission to unearth the secrets of an enigmatic place somewhere in time and space that exists in their collective memory as \"Tomorrowland.\""
+    },
+    {
+      "title": "Lethal Weapon",
+      "years": "1986..1986",
+      "countries": [
+        "US"
+      ],
+      "plot": "Martin Riggs is an L.A. cop with suicidal tendencies and Roger Murtaugh is the unlucky police officer with whom Riggs is assigned. Together they uncover a huge drug-smuggling operation, and as their success rate grows so does their friendship."
+    },
+    {
+      "title": "Damien: Omen II",
+      "years": "1971..1971",
+      "countries": [
+        "US",
+        "IL",
+        "GB"
+      ],
+      "plot": "Seven years later, Damien Thorn is about to turn 13 and is just discovering who he really is, and what he is destined to do. Now living with his Aunt, Uncle, and cousin in a wealthy suburb of Chicago, Damien is in line to inherit everything from his family. Can Richard Thorn finish the job that Damien's father (Ambassador Robert Thorn) started?"
+    },
+    {
+      "title": "The Karate Kid",
+      "years": "1984..1984",
+      "countries": [
+        "US"
+      ],
+      "plot": "Daniel and his mother move from New Jersey to California. She has a wonderful new job, but Daniel quickly discovers that a dark haired Italian boy with a Jersey accent doesn't fit into the blond surfer crowd. Daniel manages to talk his way out of some fights, but he is finally cornered by several who belong to the same karate school. As Daniel is passing out from the beating he sees Miyagi, the elderly gardener leaps into the fray and save him by outfighting half a dozen teenagers. Miyagi and Daniel soon find out the real motivator behind the boys' violent attitude in the form of their karate teacher. Miyagi promises to teach Daniel karate and arranges a fight at the all-valley tournament some months off. When his training begins, Daniel doesn't understand what he is being shown. Miyagi seems more interested in having Daniel paint fences and wax cars than teaching him Karate."
+    },
+    {
+      "title": "The Experiment",
+      "years": "1971..1971",
+      "countries": [
+        "US"
+      ],
+      "plot": "For a handsome $1,000-a-day reward, the unemployed pacifist, Travis, decides to take part in a controversial two-week behavioural experiment that will attempt to simulate life within the prison walls. Now, inside a controlled environment, two hand-picked groups of twenty inmates and six guards must follow a simple set of basic rules, while high-tech cameras monitor the entire makeshift jail. However, devoid of their civil rights and their identities, the volunteers will soon find themselves dragged into a dangerous and volatile situation, as the sadistic warders begin to take extreme pleasure in enforcing their authority. Under those circumstances, Travis, or the rebellious Prisoner #77, will have to explore his limits. How long can he last?"
+    },
+    {
+      "title": "The Dead Pool",
+      "years": "1988..1988",
+      "countries": [
+        "US"
+      ],
+      "plot": "Even though he detests publicity, for once, the tough-as-nails San Francisco Police Department officer, Inspector Dirty Harry (1971), has hit the headlines for a good cause, after putting behind bars an infamous mobster. But now, Callahan's name is on a macabre list of soon-to-be-dead celebrities. Before long, the first one dies, the drug-addled rock star, Johnny Squares, and as more violent deaths follow, Callahan now fears that he is next in line. In the meantime, more and more, all indications point to the British horror-film director, Peter Swan. Who is the mastermind behind the anonymous hit-list and the twisted gambling game known as the Dead Pool? Can Harry get to the bottom of this deadly conundrum before it is too late?"
+    },
+    {
+      "title": "The Strangers: Prey at Night",
+      "years": "1980..1980",
+      "countries": [
+        "US"
+      ],
+      "plot": "A family's road trip takes a dangerous turn when they arrive at a secluded mobile home park to stay with some relatives and find it mysteriously deserted. Under the cover of darkness, three masked psychopaths pay them a visit to test the family's every limit as they struggle to survive."
+    },
+    {
+      "title": "Gotti",
+      "years": "1973..1992",
+      "countries": [
+        "US"
+      ],
+      "plot": "John Gotti rises to head the powerful Gambino crime family before being convicted in 1992 of racketeering and murder."
+    },
+    {
+      "title": "Blind Fury",
+      "years": "1975..1975",
+      "countries": [
+        "US"
+      ],
+      "plot": "Nick Parker (Rutger Hauer) is a Vietnam vet who was blinded during the war. He was found by one of the local tribes who taught him to enhance his remaining senses and to expertly wield a sword. On his return to the United States, he goes to visit an old Army buddy, Frank Devereaux (Terrance O'Quinn), but discovers that he and his wife, Lynn (Meg Foster) are divorced, and Frank no longer lives there. What they don't know is that Devereaux was playing in a crooked casino in Reno, Nevada, and accumulated a large debt. Casino boss MacCready (Noble Willingham) is willing to forgive his debt if he does something for him: Devereaux is a chemist, and they want him to make designer drugs. In order to make sure he does it, they try to kidnap his son, Billy (Brandon Call). But Nick is there, and Nick saves the boy. Thus begins a road trip to Las Vegas, Nevada, to protect the boy and save his friend with the boss' henchmen in pursuit."
+    },
+    {
+      "title": "Soapdish",
+      "years": "1980..1990",
+      "countries": [
+        "US"
+      ],
+      "plot": "Celeste Talbert has been the queen of the soaps for over two decades. Montana Moorehead needs to get her out of her way before she can move on and begins her program to get her to leave. She hires an old boyfriend of Celeste to be on the show and has Celeste become a murderer in the script, but each attempt has unforseen consequences."
+    },
+    {
+      "title": "The House by the Cemetery",
+      "years": "1970..1970",
+      "countries": [
+        "US"
+      ],
+      "plot": "In New York, Dr. Norman Boyle assumes the research about Dr. Freudstein of his colleague Dr. Petersen, who committed suicide after killing his mistress. Norman heads to Boston with his wife Lucy Boyle and their son Bob to live in an isolated house in the woods that belonged to Dr. Petersen. Bob befriends the girl Mae that only he can see and she warns him to leave the house. Soon his parents hire the mysterious babysitter Ann and creepy things happen in the house. When Bobby goes to the basement, his parents discover the secret of the house."
+    },
+    {
+      "title": "An Officer and a Gentleman",
+      "years": "1979..1979",
+      "countries": [
+        "US"
+      ],
+      "plot": "Zack Mayo is a young man who has signed up for Navy Aviation Officer Candidate School. He is a Navy brat who has a bad attitude problem. Gunnery Sergeant Emil Foley is there to train and evaluate him, and will clearly find Zack wanting. Zack meets Paula, a girl who has little beyond family, and must decide what it is he wants to do with his life."
+    },
+    {
+      "title": "American Gigolo",
+      "years": "1979..1979",
+      "countries": [
+        "US"
+      ],
+      "plot": "Los Angeles escort Julian Kay is accused of a murder which he did not commit."
+    },
+    {
+      "title": "Pete's Dragon",
+      "years": "1983..1983",
+      "countries": [
+        "US"
+      ],
+      "plot": "A young boy, Pete, is found in a forest where he's been living for six year after an accident took his parents' lives. A ranger, Grace, takes him in and asks him how he survived all by himself. He says he had a friend named Elliott and draws a picture of a dragon, saying it's Elliott. Grace takes the picture to her father who claims that years ago he encountered a dragon in the forest. Grace takes Pete back to the forest and he shows her his home and Elliott. A man sees Elliott, and when he tells about his experience and isn't believed, he sets out to capture the dragon to prove it."
+    },
+    {
+      "title": "Police Academy 3: Back in Training",
+      "years": "1986..1986",
+      "countries": [
+        "CA"
+      ],
+      "plot": "After completing their mission in Police Academy 2: Their First Assignment (1985), Officer Carey Mahoney, and the rest of the original graduates from Commandant Eric Lassard's Police Academy (1984) find themselves with their backs to the wall. It seems that, due to funding cutbacks, there can only be one police institution in the city, and Commandants Lassard and Mauser must do their best to get Governor Neilson's approval. Of course, conniving Mauser has already concocted an ingeniously evil plan to sabotage his rivals. Can Mahoney, along with a handful of recruits, save the day and their beloved academy?"
+    },
+    {
+      "title": "Throw Momma from the Train",
+      "years": "1987..1988",
+      "countries": [
+        "US",
+        "MX",
+        "UNKNOWN"
+      ],
+      "plot": "Larry Donner is an author and writing professor who tutors people that want to write books. Larry's life has become a misery when his ex-wife Margaret has published a book he wrote under her name and has gotten rich over it. Owen Lift, one of Larry's students, offers Larry to kill Margaret, and in return Owen, wants Larry to kill his horrible mother. Larry thinks it's a joke, until he learns Owen killed his ex-wife. And Larry has now become the prime suspect."
+    },
+    {
+      "title": "Empire State",
+      "years": "1982..1991",
+      "countries": [
+        "US"
+      ],
+      "plot": "After failing to get into the police academy, Chris Potamitis (Liam Hemsworth), settles for a security guard job with the EMPIRE STATE Armored Truck Company. Chris makes the mistake of mentioning the company's lax security to his best friend, Eddie (Michael Angarano), and is soon unwittingly drawn into an elaborate scheme to rob the abundant amounts of cash being stored there - resulting in the largest cash heist in U.S. History. As the stakes continue to rise, Chris and Eddie must outwit Detective James Ransone (Dwayne Johnson), an NYPD veteran who is hot on their trail, as well as the local crime lords that want to know who pulled off a job on their turf, or suffer the consequences."
+    },
+    {
+      "title": "Friday the 13th",
+      "years": "1957..1979",
+      "countries": [
+        "US"
+      ],
+      "plot": "In 1957, a young boy named Jason drowns in a lake near Camp Crystal Lake. The next year, two counselors are murdered. In 1980, a descendant of the original owners reopens Camp Crystal Lake with some counselors' help. The counselors gets killed one by one by a mysterious person. Could it be Jason, out for revenge?"
+    },
+    {
+      "title": "Do the Right Thing",
+      "years": "1989..1989",
+      "countries": [
+        "US"
+      ],
+      "plot": "This film looks at life in the Bedford-Stuyvesant district of Brooklyn on a hot summer Sunday. As he does everyday, Sal Fragione opens the pizza parlor he's owned for 25 years. The neighborhood has changed considerably in the time he's been there and is now composed primarily of African-Americans and Hispanics. His son Pino hates it there and would like nothing better than to relocate the eatery to their own neighborhood. For Sal however, the restaurant represents something that is part of his life and sees it as a part of the community. What begins as a simple complaint by one of his customers, Buggin Out - who wonders why he has only pictures of famous Italian-Americans on the wall when most of his customers are black - eventually disintegrates into violence as frustration seemingly brings out the worst in everyone."
+    },
+    {
+      "title": "Sexology",
+      "years": "1980..1980",
+      "countries": [
+        "US"
+      ],
+      "plot": "In a post sexual revolution world, where you can purchase a vibrator just as easily as a pair of shoes, roughly one-third of all women have never experienced an orgasm. Armed with shocking sexual data, a bunch of insecurities and a determination to unlock the key to feminine sexual energy, filmmakers/actresses Catherine Oxenberg and Gabrielle Anwar seek out sexual experts, tantric masters, researchers and everyday women to unearth feminism's full potential."
+    },
+    {
+      "title": "Dragnet",
+      "years": "1987..1987",
+      "countries": [
+        "US"
+      ],
+      "plot": "The equally strait-laced and \"by-the-book\" nephew of Joe Friday must work with his more laid-back partner to solve a mystery."
+    }
+  ],
+  "categories": [
+    {
+      "label": "television saturating homes and public life",
+      "description": "By the late Cold War, broadcast television binds the continent together as a common source of news, amusement, advertising, and shared fantasies. What you'll see: glowing sets in living rooms, soap-opera studios, commercial jingles, televised spectacle, and people measuring themselves against images on a screen.",
+      "icon": "📺"
+    },
+    {
+      "label": "suburbs built around cars and malls",
+      "description": "Postwar prosperity has spread daily life outward into ranch houses, parking lots, strip plazas, and long roads that make the automobile nearly unavoidable. What you'll see: station wagons and vans, fast-food stops, gas stations, tract homes, amusement parks, and teenagers roaming the spaces between school, mall, and driveway.",
+      "icon": "🚗"
+    },
+    {
+      "label": "high schools sorting class and belonging",
+      "description": "Teen life is ruled by school hierarchies, family expectations, and the sharp line between the well-off and everyone else. What you'll see: proms and gym class, lockers and cafeterias, rich kids' fashions, after-school jobs, and romance tangled with status and reputation.",
+      "icon": "🏫"
+    },
+    {
+      "label": "cities living with crime and distrust",
+      "description": "Large American cities are pictured as places of frayed trust, street violence, gangs, narcotics, and fear that official authority is losing its grip. What you'll see: grimy subways and alleyways, police radios, armed holdups, territorial crews, vigilante talk, and neighborhoods tense after dark.",
+      "icon": "🚇"
+    },
+    {
+      "label": "police, feds, and covert state power",
+      "description": "Law officers, federal agencies, and intelligence services carry great reach in this era, from undercover work at home to secret struggles abroad. What you'll see: wiretaps and informants, badge culture, interrogation rooms, surveillance, congressional backrooms, and the shadow traffic between crime, policing, and espionage.",
+      "icon": "🕵️"
+    },
+    {
+      "label": "mob families thriving beside legitimate business",
+      "description": "Organised crime endures not as a hidden relic but as a parallel order tied to unions, gambling, extortion, trucking, bars, and neighborhood loyalty. What you'll see: back-room collections, social clubs, coded rituals, cash businesses, fear of informers, and gangsters moving easily through ordinary city life.",
+      "icon": "🤵"
+    },
+    {
+      "label": "cold war fears entering daily imagination",
+      "description": "Superpower rivalry shapes popular feeling even when the Soviets are offscreen, feeding invasion fantasies, militarised patriotism, and a sense that distant conflicts matter at home. What you'll see: veterans carrying war memories, anti-communist talk, weapons and training, covert foreign aid, and a mood of national peril beneath ordinary routines.",
+      "icon": "☢️"
+    },
+    {
+      "label": "religion and self-help competing for souls",
+      "description": "Traditional Christianity, revivalist fervor, therapy talk, and newer quests for meaning all jostle for authority in a society unsure what fulfillment should look like. What you'll see: churchgoing and conversion, scripture in the household, psychiatrists' offices, spiritual searching, dinner-table arguments about belief, and private hunger dressed in moral language.",
+      "icon": "⛪"
+    },
+    {
+      "label": "sexual manners loosening then colliding",
+      "description": "After the sexual revolution, old rules have weakened, but shame, double standards, and alarm over desire still shape public and private conduct. What you'll see: frank talk about sex, adult bookstores and blue movies, uneasy parents, liberated fashions, marriage strain, and panic when freedom crosses local notions of decency.",
+      "icon": "💋"
+    },
+    {
+      "label": "race and neighborhood power under strain",
+      "description": "The gains of civil rights have not settled urban life, and many communities remain marked by segregation, police hostility, ethnic turf, and unresolved grievance. What you'll see: block-level businesses, arguments over who belongs, activist language, simmering street heat, and public encounters where everyday slights carry historical weight.",
+      "icon": "🏘️"
+    },
+    {
+      "label": "consumer plenty mixed with rough edges",
+      "description": "This is a world of plentiful goods, branded aspiration, and leisure for many, yet cut through by layoffs, cutbacks, shabby institutions, and places left to decay. What you'll see: glossy restaurants and fashionable clothes alongside run-down bars, failing camps, mobile home parks, budget squeezes, and people chasing comfort in a worn landscape.",
+      "icon": "🛒"
+    }
+  ]
+}

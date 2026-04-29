@@ -1,0 +1,63 @@
+{
+  "epoch": "late-cold-war-era",
+  "continent": "atlantic_ocean",
+  "sample_size": 1,
+  "sample": [
+    {
+      "title": "The Boat That Rocked",
+      "years": "1966..1966",
+      "countries": [
+        "UNKNOWN",
+        "GB"
+      ],
+      "plot": "This movie is an ensemble comedy in which the romance takes place between the young people of the 1960s and pop music. It's about a band of rogue DJs that captivated Britain, playing the music that defined a generation and standing up to a government that wanted classical music, and nothing else, on the airwaves. The Count (Philip Seymour Hoffman), a big, brash, American god of the airwaves; Quentin (Bill Nighy), the boss of Radio Rock - a pirate radio station in the middle of the North Sea that's populated by an eclectic crew of rock and roll DJs; Gavin (Rhys Ifans), the greatest DJ in Britain who has just returned from his drug tour of America to reclaim his rightful position; Dave (Nick Frost), an ironic, intelligent, and cruelly funny co-broadcaster; and a fearsome British government official out for blood against the drug takers and lawbreakers of a once-great nation."
+    }
+  ],
+  "categories": [
+    {
+      "label": "state broadcasters policing the airwaves",
+      "description": "Radio is treated as a public trust to be licensed, supervised, and kept within moral and cultural bounds by the state. What you'll see: broadcasting offices, ministers and civil servants, formal rules about who may transmit, and arguments over what belongs on the air.",
+      "icon": "🏛️"
+    },
+    {
+      "label": "offshore ships slipping past national law",
+      "description": "Waters beyond the coast offer a narrow space where entrepreneurs can evade licensing and operate just outside ordinary reach. What you'll see: rusting vessels at anchor, cramped cabins turned into studios, supply runs from shore, and weather as a constant hazard.",
+      "icon": "🏴‍☠️"
+    },
+    {
+      "label": "rock and pop remaking youth culture",
+      "description": "A new sound gives the young a shared language of style, freedom, and generational defiance that older authorities do not fully command. What you'll see: nonstop records, dancing, sharp fashions, slang, fan devotion, and music treated as the pulse of the age.",
+      "icon": "🎸"
+    },
+    {
+      "label": "britain torn between deference and looseness",
+      "description": "Older habits of restraint, class decorum, and official respectability are being challenged by a more casual and irreverent public life. What you'll see: clipped official speech set against bawdy humour, relaxed manners, sexual frankness, and institutions looking faintly old-fashioned.",
+      "icon": "🎩"
+    },
+    {
+      "label": "mass media turning voices into celebrities",
+      "description": "The spread of popular broadcasting makes unseen presenters into household figures whose taste and personality matter as much as the songs they play. What you'll see: nicknames and on-air personas, listeners speaking of broadcasters as intimates, charts and requests, and fame built from the microphone.",
+      "icon": "🎙️"
+    },
+    {
+      "label": "atlantic currents carrying American popular sound",
+      "description": "British life in this period is strongly shaped by records, styles, and speaking manners arriving from across the Atlantic. What you'll see: American accents on the air, rhythm and blues influences, imported records, and a sense that cultural fashion travels by sea and signal.",
+      "icon": "🌊"
+    },
+    {
+      "label": "censorship fought through moral language",
+      "description": "Efforts to curb new entertainment are often framed as a defence of decency, order, and the nation's standards rather than as naked repression. What you'll see: condemnations of vulgarity, official concern about youth behaviour, speeches about standards, and respectable opinion set against pleasure.",
+      "icon": "🛡️"
+    },
+    {
+      "label": "small technical crews making modern spectacle",
+      "description": "A handful of operators with turntables, transmitters, records, and electrical know-how can reach vast audiences and build a powerful presence. What you'll see: analogue decks, tape machines, aerials and wires, vinyl stacks, improvised studios, and men constantly keeping the signal alive.",
+      "icon": "📡"
+    },
+    {
+      "label": "the sea as working space and exile",
+      "description": "Life offshore is both liberating and isolating, creating its own routines apart from shore society and ordinary domestic order. What you'll see: bunks and galley meals, rough weather, damp corridors, watches and maintenance, and long stretches of horizon around the ship.",
+      "icon": "⚓"
+    }
+  ]
+}

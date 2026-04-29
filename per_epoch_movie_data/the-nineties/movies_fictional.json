@@ -1,0 +1,638 @@
+[
+  {
+    "movie_id": 585,
+    "movie_idx": 233,
+    "imdb_id": "tt0198781",
+    "title": "Monsters, Inc.",
+    "production_year": "2001",
+    "genre": "Animation, Adventure, Comedy",
+    "plot": "A city of monsters with no humans called Monstropolis centers around the city's power company, Monsters, Inc. The lovable, confident, tough, furry blue behemoth-like giant monster named James P. Sullivan (better known as Sulley) and his wisecracking best friend, short, green cyclops monster Mike Wazowski, discover what happens when the real world interacts with theirs in the form of a 2-year-old baby girl dubbed \"Boo,\" who accidentally sneaks into the monster world with Sulley one night. And now it's up to Sulley and Mike to send Boo back in her door before anybody finds out, especially two evil villains such as Sulley's main rival as a scarer, chameleon-like Randall (a monster that Boo is very afraid of), who possesses the ability to change the color of his skin, and Mike and Sulley's boss Mr. Waternoose, the chairman and chief executive officer of Monsters, Inc.",
+    "runtime": "92 min",
+    "director": "Pete Docter, David Silverman, Lee Unkrich",
+    "actors": "Billy Crystal, John Goodman, Mary Gibbs",
+    "production_country": "United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTY1NTI0ODUyOF5BMl5BanBnXkFtZTgwNTEyNjQ0MDE@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/585.webp",
+    "imdb_rating": "8.1",
+    "imdb_votes": "1,065,059",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Monsters,_Inc.",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/585.txt",
+    "plot_year_start": 2001,
+    "plot_year_end": 2001,
+    "epoch": "the-nineties",
+    "action_countries": [
+      "FICTIONAL"
+    ],
+    "action_continents": [
+      "FICTIONAL"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "failures": {
+      "categories": "missing_category_list"
+    }
+  },
+  {
+    "movie_id": 8871,
+    "movie_idx": 603,
+    "imdb_id": "tt0170016",
+    "title": "How the Grinch Stole Christmas",
+    "production_year": "2000",
+    "genre": "Comedy, Family, Fantasy",
+    "plot": "Inside a snowflake exists the magical land of Whoville, wherein live the Whos, an almost-mutated sort of Munchkin-like people who all love Christmas. Just outside of their beloved town lives the Grinch (Jim Carrey), a nasty creature that hates Christmas and plans to steal it from the Whos, which he equally abhors. Little Cindy Lou Who (Taylor Momsen) decides to befriend the Grinch.",
+    "runtime": "104 min",
+    "director": "Ron Howard",
+    "actors": "Jim Carrey, Taylor Momsen, Kelley",
+    "production_country": "Germany, United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNDAwMjFhYTEtNzYyMS00YmY2LTg3MGEtZTRkNWNiMDI4MDRkXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/8871.webp",
+    "imdb_rating": "6.4",
+    "imdb_votes": "331,546",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/How_the_Grinch_Stole_Christmas_(2000_film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/8871.txt",
+    "plot_year_start": 2000,
+    "plot_year_end": 2000,
+    "epoch": "the-nineties",
+    "action_countries": [
+      "FICTIONAL"
+    ],
+    "action_continents": [
+      "FICTIONAL"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "failures": {
+      "categories": "missing_category_list"
+    }
+  },
+  {
+    "movie_id": 1045944,
+    "movie_idx": 808,
+    "imdb_id": "tt23546646",
+    "title": "The Boss Baby: Christmas Bonus",
+    "production_year": "2022",
+    "genre": "Animation, Adventure, Comedy",
+    "plot": "Christmas Eve takes a twisty turn when the Boss Baby accidentally swaps places with one of Santa's elves and gets stranded at the North Pole.",
+    "runtime": "45 min",
+    "director": "Matt Engstrom, Christo Stamboliev",
+    "actors": "JP Karliak, Pierce Gagnon, Amaryllis Aubel",
+    "production_country": "United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMzJhMWMyMzctYjJjOS00ZjIyLTkxZjgtZmQwODdlZWI2OWU0XkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/1045944.webp",
+    "imdb_rating": "5.3",
+    "imdb_votes": "1,033",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Boss_Baby",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/1045944.txt",
+    "plot_year_start": 2000,
+    "plot_year_end": 2000,
+    "epoch": "the-nineties",
+    "action_countries": [
+      "FICTIONAL"
+    ],
+    "action_continents": [
+      "FICTIONAL"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "failures": {
+      "categories": "missing_category_list"
+    }
+  },
+  {
+    "movie_id": 39106,
+    "movie_idx": 1127,
+    "imdb_id": "tt0142234",
+    "title": "Dragon Ball Z: Bio-Broly",
+    "production_year": "1994",
+    "genre": "Animation, Action, Sci-Fi",
+    "plot": "Mr. Satan is challenged to a fight by an old rival, and he is taken to an island where the fight is to be held. Accompanying him are Android 18, who is making sure he doesn't skip town before paying the money he owes her for letting him win the World Martial Arts Tournament, and Trunks and Goten, who are stowaways. When they get there they find that the rival doesn't want to fight himself, but rather has created a force of genetically engineered bio-warriors to fight Satan. Unfortunately for everyone involved, one of these bio-warriors was made from the DNA of Broly, and when he is released, all bets are off.",
+    "runtime": "47 min",
+    "director": "Yoshihiro Ueda",
+    "actors": "Masako Nozawa, Takeshi Kusao, Daisuke Gôri",
+    "production_country": "Japan",
+    "poster": "https://m.media-amazon.com/images/M/MV5BM2MyZjViODMtMmNiZi00Y2U5LWEyNDktOTAyYzRhNjFhNTc3XkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/39106.webp",
+    "imdb_rating": "5.8",
+    "imdb_votes": "6,640",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Dragon_Ball_Z:_Bio-Broly",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/39106.txt",
+    "plot_year_start": 1994,
+    "plot_year_end": 1994,
+    "epoch": "the-nineties",
+    "action_countries": [
+      "FICTIONAL"
+    ],
+    "action_continents": [
+      "FICTIONAL"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Dragon Ball",
+    "failures": {
+      "categories": "missing_category_list"
+    }
+  },
+  {
+    "movie_id": 9823,
+    "movie_idx": 1507,
+    "imdb_id": "tt0119707",
+    "title": "Mortal Kombat: Annihilation",
+    "production_year": "1997",
+    "genre": "Action, Adventure, Fantasy",
+    "plot": "Mortal Kombat is an ancient tournament where the Earth Realm warriors battle against the forces of Outworld. Liu Kang and a few chosen fighters fought and defeated the powerful sorcerer Shang Tsung, their victory would preserve the peace on Earth for one more generation. Taking place now where the first movie left off, the Earth realm warriors live a short period of peace when evil forces from another dimension come to invade and wreak havoc on Earth. They are guided by the forces of Outworld leader, Shao Kahn and his generals such as: Motaro, Rain, Ermac, Sheeva and Sindel. Now Liu Kang, Raiden, Jax, Sonya and Kitana must defeat Shao Kahn in six days before the Earth realm merges with the Outworld.",
+    "runtime": "95 min",
+    "director": "John R. Leonetti",
+    "actors": "Robin Shou, Talisa Soto, James Remar",
+    "production_country": "United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZTI4MzkzYmEtNTU1NC00ZDk5LWI4OTktNmRkNWMxN2E1NWNhXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/9823.webp",
+    "imdb_rating": "3.6",
+    "imdb_votes": "60,881",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Mortal_Kombat_Annihilation",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/9823.txt",
+    "plot_year_start": 1997,
+    "plot_year_end": 1997,
+    "epoch": "the-nineties",
+    "action_countries": [
+      "FICTIONAL"
+    ],
+    "action_continents": [
+      "FICTIONAL"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Mortal Kombat",
+    "failures": {
+      "categories": "missing_category_list"
+    }
+  },
+  {
+    "movie_id": 287590,
+    "movie_idx": 1704,
+    "imdb_id": "tt2231489",
+    "title": "Saint Seiya: Legend of Sanctuary",
+    "production_year": "2014",
+    "genre": "Animation, Action, Fantasy",
+    "plot": "Warriors called \"Saints\" are the champions of hope who have always appeared since the Age of Myth whenever evil threatens the world. In this present day story, many years since the long fought \"Holy War\" we find Saori Kido, a girl troubled by her mysterious powers. She is saved by a boy, Seiya \"Bronze Saint\" from a sudden attack by an assassin, through the accident Saori realizes her destiny and mission and decides to go to \"Sanctuary\" with Seiya and his company of Bronze Saints. In Sanctuary they confront \"Pope\" and wage a desperate battle against the greatest Saints, the \"Gold Saints\".",
+    "runtime": "93 min",
+    "director": "Kei'ichi Sato",
+    "actors": "Kaito Ishikawa, Kenji Akabane, Kenshô Ono",
+    "production_country": "Japan",
+    "poster": "https://m.media-amazon.com/images/M/MV5BM2I2NmQ1ZWUtOTYzNi00NWI4LWJjOGYtN2I2ZTJhZDIxNGYyXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/287590.webp",
+    "imdb_rating": "5.4",
+    "imdb_votes": "4,756",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Saint_Seiya:_Legend_of_Sanctuary",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/287590.txt",
+    "plot_year_start": 1998,
+    "plot_year_end": 1998,
+    "epoch": "the-nineties",
+    "action_countries": [
+      "FICTIONAL"
+    ],
+    "action_continents": [
+      "FICTIONAL"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "failures": {
+      "categories": "missing_category_list"
+    }
+  },
+  {
+    "movie_id": 118340,
+    "movie_idx": 1983,
+    "imdb_id": "tt2015381",
+    "title": "Guardians of the Galaxy",
+    "production_year": "2014",
+    "genre": "Action, Adventure, Comedy",
+    "plot": "After stealing a mysterious orb in the far reaches of outer space, Peter Quill from Earth is now the main target of a manhunt led by the villain known as Ronan the Accuser. To help fight Ronan and his team and save the galaxy from his power, Quill creates a team of space heroes known as the \"Guardians of the Galaxy\" to save the galaxy.",
+    "runtime": "121 min",
+    "director": "James Gunn",
+    "actors": "Chris Pratt, Vin Diesel, Bradley Cooper",
+    "production_country": "United States, United Kingdom",
+    "poster": "https://m.media-amazon.com/images/M/MV5BM2ZmNjQ2MzAtNDlhNi00MmQyLWJhZDMtNmJiMjFlOWY4MzcxXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/118340.webp",
+    "imdb_rating": "8.0",
+    "imdb_votes": "1,352,030",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Guardians_of_the_Galaxy_(film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/118340.txt",
+    "plot_year_start": 1988,
+    "plot_year_end": 2014,
+    "epoch": "the-nineties",
+    "action_countries": [
+      "FICTIONAL"
+    ],
+    "action_continents": [
+      "FICTIONAL"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Marvel Cinematic Universe",
+    "failures": {
+      "categories": "missing_category_list"
+    }
+  },
+  {
+    "movie_id": 436931,
+    "movie_idx": 2055,
+    "imdb_id": "tt6595896",
+    "title": "Pokémon the Movie: I Choose You!",
+    "production_year": "2017",
+    "genre": "Animation, Action, Adventure",
+    "plot": "Ash Ketchum, a kid from Pallet Town, embarks on a journey across the Kanto region to become a Pokemon Master. With his partner Pikachu, who at first hated Ash. But the bond of Pikachu and Ash builds as they travel to beat gyms and enter the league of Kanto.",
+    "runtime": "98 min",
+    "director": "Kunihiko Yuyama",
+    "actors": "Unshô Ishizuka, Rica Matsumoto, Sarah Natochenny",
+    "production_country": "Japan, United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYTI5M2RmMWUtOGFlMC00M2YxLThiZjUtMjZkNjI3NWQ5NjkwXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/436931.webp",
+    "imdb_rating": "6.3",
+    "imdb_votes": "7,990",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Pok%C3%A9mon_the_Movie:_I_Choose_You!",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/436931.txt",
+    "plot_year_start": 1997,
+    "plot_year_end": 1997,
+    "epoch": "the-nineties",
+    "action_countries": [
+      "FICTIONAL"
+    ],
+    "action_continents": [
+      "FICTIONAL"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "failures": {
+      "categories": "missing_category_list"
+    }
+  },
+  {
+    "movie_id": 2666,
+    "movie_idx": 2731,
+    "imdb_id": "tt0118929",
+    "title": "Dark City",
+    "production_year": "1998",
+    "genre": "Fantasy, Mystery, Sci-Fi",
+    "plot": "John Murdoch awakens alone in a strange hotel to find that he has lost his memory and is wanted for a series of brutal and bizarre murders. While trying to piece together his past, he stumbles upon a fiendish underworld controlled by a group of beings known as The Strangers who possess the ability to put people to sleep and alter the city and its inhabitants. Now Murdoch must find a way to stop them before they take control of his mind and destroy him.",
+    "runtime": "100 min",
+    "director": "Alex Proyas",
+    "actors": "Rufus Sewell, William Hurt, Kiefer Sutherland",
+    "production_country": "Australia, United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTFhMmE1YzgtNTFhYS00MTRlLWI3ZDMtMWJkMTBmOWMzOTk5XkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/2666.webp",
+    "imdb_rating": "7.6",
+    "imdb_votes": "223,194",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Dark_City_(1998_film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/2666.txt",
+    "plot_year_start": 1998,
+    "plot_year_end": 1998,
+    "epoch": "the-nineties",
+    "action_countries": [
+      "FICTIONAL"
+    ],
+    "action_continents": [
+      "FICTIONAL"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "failures": {
+      "categories": "missing_category_list"
+    }
+  },
+  {
+    "movie_id": 9273,
+    "movie_idx": 3062,
+    "imdb_id": "tt0112281",
+    "title": "Ace Ventura: When Nature Calls",
+    "production_year": "1995",
+    "genre": "Adventure, Comedy, Crime",
+    "plot": "Ace Ventura, emerging from self-imposed exile in a remote Himalayan hideaway, travels to Africa with explorer Fulton Greenwall to find a sacred bat which is told will avert a war between with Wachootoo and Wachati tribes. Of course, when Ace gets involved, all hell breaks loose...",
+    "runtime": "90 min",
+    "director": "Steve Oedekerk",
+    "actors": "Jim Carrey, Ian McNeice, Simon Callow",
+    "production_country": "United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjk3ZDUwYTMtYmQyYy00NTg1LWExOTItNTcxODM3NDZiNjMyXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/9273.webp",
+    "imdb_rating": "6.4",
+    "imdb_votes": "247,519",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Ace_Ventura:_When_Nature_Calls",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/9273.txt",
+    "plot_year_start": 1995,
+    "plot_year_end": 1995,
+    "epoch": "the-nineties",
+    "action_countries": [
+      "FICTIONAL",
+      "FICTIONAL"
+    ],
+    "action_continents": [
+      "FICTIONAL",
+      "FICTIONAL"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "failures": {
+      "categories": "missing_category_list"
+    }
+  },
+  {
+    "movie_id": 10228,
+    "movie_idx": 3346,
+    "imdb_id": "tt0190641",
+    "title": "Pokémon: The First Movie - Mewtwo Strikes Back",
+    "production_year": "1998",
+    "genre": "Animation, Action, Adventure",
+    "plot": "When a group of scientists are offered funding into genetic research if they agree to try and clone the greatest ever Pokémon, Mew, the end result is success and Mewtwo is born. However Mewtwo is bitter about his purpose in life and kills his masters. In order to become the greatest he throws open a challenge to the world to battle him and his Pokémon. Ash and his friends are one of the few groups of trainers who pass the first test and prepare for battle. However they soon find out about further cloning and Mewtwo's ultimate plan for the earth.",
+    "runtime": "96 min",
+    "director": "Kunihiko Yuyama",
+    "actors": "Veronica Taylor, Rachael Lillis, Eric Stuart",
+    "production_country": "Japan",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNDg0ZDk2N2QtZDQzYi00ZTljLWExODgtZWQ2Y2YzZTA1NjVjXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/10228.webp",
+    "imdb_rating": "6.3",
+    "imdb_votes": "49,565",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Pok%C3%A9mon:_The_First_Movie",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/10228.txt",
+    "plot_year_start": 1998,
+    "plot_year_end": 1998,
+    "epoch": "the-nineties",
+    "action_countries": [
+      "FICTIONAL"
+    ],
+    "action_continents": [
+      "FICTIONAL"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "failures": {
+      "categories": "missing_category_list"
+    }
+  },
+  {
+    "movie_id": 277834,
+    "movie_idx": 3826,
+    "imdb_id": "tt3521164",
+    "title": "Moana",
+    "production_year": "2016",
+    "genre": "Animation, Adventure, Comedy",
+    "plot": "Moana Waialiki is a sea voyaging enthusiast and the only daughter of a chief in a long line of navigators. When her island's fishermen can't catch any fish and the crops fail, she learns that the demigod Maui caused the blight by stealing the heart of the goddess, Te Fiti. The only way to heal the island is to persuade Maui to return Te Fiti's heart, so Moana sets off on an epic journey across the Pacific. The film is based on stories from Polynesian mythology.",
+    "runtime": "107 min",
+    "director": "Ron Clements, John Musker, Don Hall",
+    "actors": "Auli'i Cravalho, Dwayne Johnson, Rachel House",
+    "production_country": "United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjI4MzU5NTExNF5BMl5BanBnXkFtZTgwNzY1MTEwMDI@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/277834.webp",
+    "imdb_rating": "7.6",
+    "imdb_votes": "436,011",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Moana_(2016_film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/277834.txt",
+    "plot_year_start": 2000,
+    "plot_year_end": 2000,
+    "epoch": "the-nineties",
+    "action_countries": [
+      "FICTIONAL",
+      "UNKNOWN"
+    ],
+    "action_continents": [
+      "FICTIONAL",
+      "UNKNOWN"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "FICTIONAL",
+    "failures": {
+      "categories": "missing_category_list"
+    }
+  },
+  {
+    "movie_id": 428836,
+    "movie_idx": 5928,
+    "imdb_id": "tt10392858",
+    "title": "Ophelia",
+    "production_year": "2019",
+    "genre": "Short, Drama",
+    "plot": "Set in the early 2000s, 'Ophelia' is a dark-comedy that follows a theater troupe about to premiere a new show based off the classic Shakespeare story 'Hamlet'. As the show gears up to debut, the lead actress is kidnapped, spiraling the shows director, Frank, and her best friend, Molly, to go into panic to come up with the ransom money to payback the kidnappers.",
+    "runtime": "15 min",
+    "director": "Hunter Hudson",
+    "actors": "Sarya Rajabali, Ashley Brooke James, David Ruffin",
+    "production_country": "United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BOWZiYmM2N2ItYWM2OC00MzIwLWE1YjEtYzBhNmQ2MTQ1NTg3XkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/428836.webp",
+    "imdb_rating": "N/A",
+    "imdb_votes": "N/A",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Ophelia_(2018_film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/428836.txt",
+    "plot_year_start": 2000,
+    "plot_year_end": 2000,
+    "epoch": "the-nineties",
+    "action_countries": [
+      "FICTIONAL"
+    ],
+    "action_continents": [
+      "FICTIONAL"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "failures": {
+      "categories": "missing_category_list"
+    }
+  },
+  {
+    "movie_id": 242546,
+    "movie_idx": 6059,
+    "imdb_id": "tt3306776",
+    "title": "Bayonetta: Bloody Fate",
+    "production_year": "2013",
+    "genre": "Animation, Action, Fantasy",
+    "plot": "Based on the 2009 game, Bayonetta: Bloody Fate follows the story of the witch Bayonetta, as she defeats the blood-thirsty Angels and tries to remember her past from before the time she awoke, 20 years ago. Along her side are a mysterious little girl who keeps calling her \"Mummy\", a journalist that holds a personal grudge against Bayonetta and a unknown white-haired woman who seems to know more than she is willing to reveal about Bayonetta's time before her sleep.",
+    "runtime": "90 min",
+    "director": "Fuminori Kizaki",
+    "actors": "Atsuko Tanaka, Mie Sonozaki, Miyuki Sawashiro",
+    "production_country": "Japan",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMzkyNTg3MDYxOF5BMl5BanBnXkFtZTgwODM5ODcxMzE@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/242546.webp",
+    "imdb_rating": "5.7",
+    "imdb_votes": "1,856",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Bayonetta:_Bloody_Fate",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/242546.txt",
+    "plot_year_start": 1993,
+    "plot_year_end": 1993,
+    "epoch": "the-nineties",
+    "action_countries": [
+      "FICTIONAL",
+      "UNKNOWN"
+    ],
+    "action_continents": [
+      "FICTIONAL",
+      "UNKNOWN"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "failures": {
+      "categories": "missing_category_list"
+    }
+  },
+  {
+    "movie_id": 162092,
+    "movie_idx": 7659,
+    "imdb_id": "tt0306741",
+    "title": "Doraemon: Nobita and the Winged Braves",
+    "production_year": "2001",
+    "genre": "Animation, Action, Adventure",
+    "plot": "Doraemon, Nobita and friends help the humanoid birds of Birdopia to stop Seagrid from awakening Phoenicia a Dragon like Monster Which can bring an End to Both Birdopia and Human World.",
+    "runtime": "95 min",
+    "director": "Tsutomu Shibayama",
+    "actors": "Nobuyo Ôyama, Noriko Ohara, Sachiko Chijimatsu",
+    "production_country": "Japan",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMmZhYmE0NWQtNWUyNy00MzA3LWI4MzEtZGYxNTY5N2Q1MDgzXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/162092.webp",
+    "imdb_rating": "6.8",
+    "imdb_votes": "754",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Doraemon:_Nobita_and_the_Winged_Braves",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/162092.txt",
+    "plot_year_start": 2001,
+    "plot_year_end": 2001,
+    "epoch": "the-nineties",
+    "action_countries": [
+      "FICTIONAL"
+    ],
+    "action_continents": [
+      "FICTIONAL"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "failures": {
+      "categories": "missing_category_list"
+    }
+  },
+  {
+    "movie_id": 449574,
+    "movie_idx": 8145,
+    "imdb_id": "tt5979874",
+    "title": "Godzilla: Planet of the Monsters",
+    "production_year": "2017",
+    "genre": "Animation, Action, Sci-Fi",
+    "plot": "Years into the future and the human race has been defeated several times by the new ruling force of the planet: \"kaijus\". And the ruler of that force is Godzilla, The King of the Monsters. Humanity is in such defeat, plans to leave the planet have been made, and several people have been chosen to look at a new planet to see if it is inhabitable. Realizing it's not, though, the human race resorts to plan B: to defeat Godzilla and take back their planet.",
+    "runtime": "89 min",
+    "director": "Hiroyuki Seshita, Kôbun Shizuno",
+    "actors": "Mamoru Miyano, Takahiro Sakurai, Kana Hanazawa",
+    "production_country": "Japan",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNDY2ODQ5YzgtYjc3Mi00MDk5LWE5MDEtYjNlMWU2NzAxZTQ4XkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/449574.webp",
+    "imdb_rating": "6.0",
+    "imdb_votes": "10,326",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Godzilla:_Planet_of_the_Monsters",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/449574.txt",
+    "plot_year_start": 1999,
+    "plot_year_end": 1999,
+    "epoch": "the-nineties",
+    "action_countries": [
+      "FICTIONAL"
+    ],
+    "action_continents": [
+      "FICTIONAL"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Godzilla Universe",
+    "failures": {
+      "categories": "missing_category_list"
+    }
+  },
+  {
+    "movie_id": 12561,
+    "movie_idx": 8357,
+    "imdb_id": "tt0113187",
+    "title": "Godzilla vs. Destoroyah",
+    "production_year": "1995",
+    "genre": "Action, Drama, Horror",
+    "plot": "Something has destroyed Birth Island, home of Godzilla and Little Godzilla and soon, it is discovered that Godzilla has developed a bright flaming glow, indicating that his nuclear energy is growing out of control. Fearing that Godzilla will soon explode, the G-Force tries to freeze him, thus cooling his temperature. But another problem arises as a horde of human sized creatures, formed from a combination of Godzilla cells, and the weapon that destroyed the original one, The Oxygen Destroyer. Now the military must try to stop these creatures and stop Godzilla from going through a nuclear meltdown that could destroy the world.",
+    "runtime": "103 min",
+    "director": "Takao Okawara, Ishirô Honda, Kôji Hashimoto",
+    "actors": "Takurô Tatsumi, Yôko Ishino, Yasufumi Hayashi",
+    "production_country": "Japan",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMDcwNTA1ZGYtYTJlZS00ODllLTg2ZjMtYWEzMDc1NWQ1MDM5XkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/12561.webp",
+    "imdb_rating": "6.9",
+    "imdb_votes": "7,978",
+    "plot_year_start": 1995,
+    "plot_year_end": 1995,
+    "epoch": "the-nineties",
+    "action_countries": [
+      "FICTIONAL",
+      "UNKNOWN"
+    ],
+    "action_continents": [
+      "FICTIONAL",
+      "UNKNOWN"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "failures": {
+      "wikipedia": "no_wiki_article_found",
+      "categories": "missing_category_list"
+    }
+  },
+  {
+    "movie_id": 283587,
+    "movie_idx": 8407,
+    "imdb_id": "tt1365050",
+    "title": "Beasts of No Nation",
+    "production_year": "2015",
+    "genre": "Drama, War",
+    "plot": "Follows the journey of a young boy, Agu, who is forced to join a group of soldiers in a fictional West African country. While Agu fears his commander and many of the men around him, his fledgling childhood has been brutally shattered by the war raging through his country, and he is at first torn between conflicting revulsion and fascination Depicts the mechanics of war and does not shy away from explicit, visceral detail, and paints a complex, difficult picture of Agu as a child soldier.",
+    "runtime": "137 min",
+    "director": "Cary Joji Fukunaga",
+    "actors": "Abraham Attah, Emmanuel Affadzi, Ricky Adelayitar",
+    "production_country": "United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTYwMzMzMDI0NF5BMl5BanBnXkFtZTgwNDQ3NjI3NjE@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/283587.webp",
+    "imdb_rating": "7.7",
+    "imdb_votes": "90,320",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Beasts_of_No_Nation_(film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/283587.txt",
+    "plot_year_start": 1990,
+    "plot_year_end": 1990,
+    "epoch": "the-nineties",
+    "action_countries": [
+      "FICTIONAL"
+    ],
+    "action_continents": [
+      "FICTIONAL"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "failures": {
+      "categories": "missing_category_list"
+    }
+  },
+  {
+    "movie_id": 11983,
+    "movie_idx": 9121,
+    "imdb_id": "tt0228750",
+    "title": "Proof of Life",
+    "production_year": "2000",
+    "genre": "Action, Drama, Thriller",
+    "plot": "Americans Alice and Peter Bowman have traveled from third world country to third world country working on humanitarian projects. They are currently in Tecala, a country nestled in the Andes, as Peter, an engineer, has been hired by QUAD Carbon, an oil company - the moral \"enemy\" - to lead a project to construct a dam to prevent what is the constant flooding in the country. Alice and Peter eventually learn that QUAD Carbon cares nothing about the dam, which is just a smoke-screen to get an oil pipeline approved and built. Despite loving each other, they have had problems in the marriage of late because of being in Tecala, where Alice has not been able to find her place, and needing to deal with the aftermath of Alice's recent miscarriage. On his way to work one day, Peter, along with a group of others, are random kidnap victims of left wing guerrillas, the Liberation Army of Tecala (ELT), whose reason for being has changed from a political agenda to a monetary one, primarily getting said money through kidnapping and the drug trade in cocaine. The ELT may believe they can get good money for Peter being an oil company executive, despite he not being wealthy as he is not on the oil side of the business. Luthan Risk International, who is the contracted agency for QUAD Carbon's kidnap and ransom (K&amp;R) requirements, dispatches Australian-British Terry Thorne to negotiate Peter's release, Terry an ex-special ops soldier who is known as the best in the business within his own circles. But QUAD Carbon's financial troubles may prevent Terry or anyone else from Luthan Risk helping to get Peter back. Regardless, Alice has to decide whether to trust Terry, the global expert, or locals assigned by QUAD Carbon whose actions are on the surface more promising despite Terry's assertions to the contrary. All, however, need constant proof that Peter is indeed still alive to continue with their work to get him back. But what Alice and Terry begin to feel for each other ultimately factors into what they decide to do in relation to Peter.",
+    "runtime": "135 min",
+    "director": "Taylor Hackford",
+    "actors": "Meg Ryan, Russell Crowe, David Morse",
+    "production_country": "United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTMyODkwNzM3OV5BMl5BanBnXkFtZTYwMTc5Nzc5._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/11983.webp",
+    "imdb_rating": "6.3",
+    "imdb_votes": "60,394",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Proof_of_Life",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/11983.txt",
+    "plot_year_start": 1994,
+    "plot_year_end": 1994,
+    "epoch": "the-nineties",
+    "action_countries": [
+      "FICTIONAL",
+      "US"
+    ],
+    "action_continents": [
+      "FICTIONAL",
+      "North America"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "failures": {
+      "categories": "missing_category_list"
+    }
+  }
+]

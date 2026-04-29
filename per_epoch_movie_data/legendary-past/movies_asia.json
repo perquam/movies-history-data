@@ -1,0 +1,46 @@
+[
+  {
+    "movie_id": 384345,
+    "movie_idx": 9403,
+    "imdb_id": "tt5544700",
+    "title": "Doraemon the Movie: Nobita and the Birth of Japan",
+    "production_year": "2016",
+    "genre": "Animation, Adventure, Comedy",
+    "plot": "Doraemon and friends trying to save a boy name Kukuru and his tribe from Gigazombie who want to change history for his own sake in the ancient times.",
+    "runtime": "104 min",
+    "director": "Shinnosuke Yakuwa",
+    "actors": "Chiaki, Miki Fukui, Aya Hisakawa",
+    "production_country": "Japan",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjRhYjRhYTktOGNlNS00ZmM4LWFiNmItZDZlN2QxNGU4NzBiXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/384345.webp",
+    "imdb_rating": "6.7",
+    "imdb_votes": "1,249",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Doraemon:_Nobita_and_the_Birth_of_Japan_2016",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/384345.txt",
+    "plot_year_start": -70000,
+    "plot_year_end": 2100,
+    "epoch": "legendary-past",
+    "action_countries": [
+      "JP",
+      "FICTIONAL"
+    ],
+    "action_continents": [
+      "Asia",
+      "FICTIONAL"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Doraemon Universe",
+    "categories": [
+      {
+        "label": "stone tools beside early craft skills",
+        "description": "Daily work depends on simple hand tools, fire, pottery, weaving, and other basic crafts made close to home with little separation between maker and user. What you'll see: chipped blades, hearths, clay vessels, hides and woven cloth, hand-built shelters, and people shaping what they need from wood, bone, and stone.",
+        "icon": "🏺"
+      },
+      {
+        "label": "outside powers appearing as uncanny intrusions",
+        "description": "In a legendary past, anything beyond the tribe's known world can arrive as something frighteningly advanced, godlike, or unnatural against the simplicity of ordinary life. What you'll see: awe before strange devices or powers, sacred and fearful reactions to the unfamiliar, and old ways thrown into confusion by wonders.",
+        "icon": "🌠"
+      }
+    ]
+  }
+]

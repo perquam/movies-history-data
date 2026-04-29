@@ -1,0 +1,44 @@
+[
+  {
+    "movie_id": 152747,
+    "movie_idx": 5679,
+    "imdb_id": "tt2017038",
+    "title": "All Is Lost",
+    "production_year": "2013",
+    "genre": "Action, Adventure, Drama",
+    "plot": "Deep into a solo voyage in the Indian Ocean, an unnamed man (Redford) wakes to find his 39-foot yacht taking on water after a collision with a shipping container left floating on the high seas. With his navigation equipment and radio disabled, the man sails unknowingly into the path of a violent storm. Despite his success in patching the breached hull, his mariner's intuition and a strength that belies his age, the man barely survives the tempest. Using only a sextant and nautical maps to chart his progress, he is forced to rely on ocean currents to carry him into a shipping lane in hopes of hailing a passing vessel. But with the sun unrelenting, sharks circling and his meager supplies dwindling, the ever-resourceful sailor soon finds himself staring his mortality in the face.",
+    "runtime": "106 min",
+    "director": "J.C. Chandor",
+    "actors": "Robert Redford",
+    "production_country": "United States, Canada, Mexico",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjI0MzIyMjU1N15BMl5BanBnXkFtZTgwOTk1MjQxMDE@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/152747.webp",
+    "imdb_rating": "6.9",
+    "imdb_votes": "87,409",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/All_Is_Lost",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/152747.txt",
+    "plot_year_start": 2013,
+    "plot_year_end": 2013,
+    "epoch": "post-911-world",
+    "action_countries": [
+      "UNKNOWN"
+    ],
+    "action_continents": [
+      "Indian Ocean"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "debris drifting far from any shore",
+        "description": "Open water is no longer untouched emptiness, because lost cargo and other flotsam can travel immense distances on currents and become hazards in mid-ocean. What you'll see: a stray shipping container, scattered wreckage, fouled hulls, and the unsettling presence of human refuse at sea.",
+        "icon": "📦"
+      },
+      {
+        "label": "small yachts sharing waters with freighters",
+        "description": "Private blue-water sailing now occupies the same ocean spaces as heavy merchant shipping, where a small craft can be nearly invisible beside global trade. What you'll see: a modest yacht against empty horizons, distant cargo ships, collision peril, and the mismatch in size between vessels.",
+        "icon": "⛵"
+      }
+    ]
+  }
+]

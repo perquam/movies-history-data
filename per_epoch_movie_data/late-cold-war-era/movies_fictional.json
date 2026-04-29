@@ -1,0 +1,529 @@
+[
+  {
+    "movie_id": 83091,
+    "movie_idx": 1179,
+    "imdb_id": "tt0322918",
+    "title": "Saint Seiya: The Heated Battle of the Gods",
+    "production_year": "1988",
+    "genre": "Animation, Action, Fantasy",
+    "plot": "Hyoga is missing somewhere in Asgard - When Seiya and the others are looking for him, Athena is kidnapped and they have to rescue her from Dolvar and some mysterious warriors.",
+    "runtime": "45 min",
+    "director": "Shigeyasu Yamauchi",
+    "actors": "Tôru Furuya, Hirotaka Suzuoki, Kôichi Hashimoto",
+    "production_country": "Japan",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNmU1NWQ2MmEtNmZjMS00YjA1LTk1Y2UtNzVlYzFhNzA1OGNjXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/83091.webp",
+    "imdb_rating": "6.6",
+    "imdb_votes": "1,297",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/List_of_Saint_Seiya_films",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/83091.txt",
+    "plot_year_start": 1988,
+    "plot_year_end": 1988,
+    "epoch": "late-cold-war-era",
+    "action_countries": [
+      "FICTIONAL"
+    ],
+    "action_continents": [
+      "FICTIONAL"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "failures": {
+      "categories": "missing_category_list"
+    }
+  },
+  {
+    "movie_id": 9602,
+    "movie_idx": 1372,
+    "imdb_id": "tt0094898",
+    "title": "Coming to America",
+    "production_year": "1988",
+    "genre": "Comedy, Romance",
+    "plot": "Immersed in luxury and riches, courteous Prince Akeem, the refined heir apparent to Africa's prosperous kingdom of Zamunda, summons up the courage to reject an arranged marriage proposal on his twenty-first birthday. As a result, bent on finding true love, the young blue blood finds himself in the strange urban jungle of New York City's Queens. Now, to mask his regal descent, Akeem, and his trusted valet, Semmi, have to pose as humble exchange students, doing their best to mingle with their neighbours. But, more than anything in the world, the noble bachelor yearns to be loved for who he is, and not for his title. Is Prince Akeem destined to find his soulmate in America's bustling Big Apple?",
+    "runtime": "117 min",
+    "director": "John Landis",
+    "actors": "Eddie Murphy, Paul Bates, Garcelle Beauvais",
+    "production_country": "United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMDY1N2RiYWMtMTNmMy00MWQzLTlkYzAtYzRlZmM5OGZhMjUwXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/9602.webp",
+    "imdb_rating": "7.1",
+    "imdb_votes": "238,307",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Coming_to_America",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/9602.txt",
+    "plot_year_start": 1987,
+    "plot_year_end": 1988,
+    "epoch": "late-cold-war-era",
+    "action_countries": [
+      "FICTIONAL",
+      "US"
+    ],
+    "action_continents": [
+      "FICTIONAL",
+      "North America"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "failures": {
+      "categories": "missing_category_list"
+    }
+  },
+  {
+    "movie_id": 709,
+    "movie_idx": 1448,
+    "imdb_id": "tt0097742",
+    "title": "Licence to Kill",
+    "production_year": "1989",
+    "genre": "Action, Adventure, Thriller",
+    "plot": "James Bond is on possibly his most brutal mission yet. Bond's good friend, Felix Leiter, is left near death, by drug baron Franz Sanchez. Bond sets off on the hunt for Sanchez, but not everyone is happy. MI6 does not feel Sanchez is their problem and strips Bond of his license to kill making Bond more dangerous than ever. Bond gains the aid of one of Leiter's friends, known as Pam Bouvier and sneaks his way into the drug factories, which Sanchez owns. Will Bond be able to keep his identity secret, or will Sanchez see Bond's true intentions?",
+    "runtime": "133 min",
+    "director": "John Glen",
+    "actors": "Timothy Dalton, Robert Davi, Carey Lowell",
+    "production_country": "United Kingdom, United States, Mexico",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYjY3OWJkMjMtYTgwYS00MjJjLWE4M2ItOWVhOWMxNGM1NDk3XkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/709.webp",
+    "imdb_rating": "6.7",
+    "imdb_votes": "119,328",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Licence_to_Kill",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/709.txt",
+    "plot_year_start": 1988,
+    "plot_year_end": 1989,
+    "epoch": "late-cold-war-era",
+    "action_countries": [
+      "FICTIONAL",
+      "US",
+      "MX",
+      "PA",
+      "BS",
+      "HK"
+    ],
+    "action_continents": [
+      "FICTIONAL",
+      "North America",
+      "North America",
+      "North America",
+      "North America",
+      "Asia"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "failures": {
+      "categories": "missing_category_list"
+    }
+  },
+  {
+    "movie_id": 16859,
+    "movie_idx": 1573,
+    "imdb_id": "tt0097814",
+    "title": "Kiki's Delivery Service",
+    "production_year": "1989",
+    "genre": "Animation, Family, Fantasy",
+    "plot": "This is the story of a young witch, named Kiki who is now 13 years old. But she is still a little green and plenty headstrong, but also resourceful, imaginative, and determined. With her trusty wisp of a talking cat named Jiji by her side she's ready to take on the world, or at least the quaintly European seaside village she's chosen as her new home.",
+    "runtime": "103 min",
+    "director": "Hayao Miyazaki",
+    "actors": "Minami Takayama, Rei Sakuma, Mieko Nobusawa",
+    "production_country": "Japan",
+    "poster": "https://m.media-amazon.com/images/M/MV5BOTFhYWI1NGUtZWFhZS00MTdkLWIzZTItMDBhNWNiZDNlMjYyXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/16859.webp",
+    "imdb_rating": "7.8",
+    "imdb_votes": "185,670",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Kiki%27s_Delivery_Service",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/16859.txt",
+    "plot_year_start": 1980,
+    "plot_year_end": 1989,
+    "epoch": "late-cold-war-era",
+    "action_countries": [
+      "FICTIONAL"
+    ],
+    "action_continents": [
+      "FICTIONAL"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "failures": {
+      "categories": "missing_category_list"
+    }
+  },
+  {
+    "movie_id": 14873,
+    "movie_idx": 3165,
+    "imdb_id": "tt0283426",
+    "title": "The Jungle Book 2",
+    "production_year": "2003",
+    "genre": "Animation, Adventure, Comedy",
+    "plot": "Jungle boy Mowgli (voiced by Osment) decides to forsake civilized village life for the \"bare necessities\" of the wild with his old friends. However, the evil tiger Shere Khan is looking for a little payback after Mowgli's last adventure. Trouble's a-brewing!",
+    "runtime": "72 min",
+    "director": "Steve Trenbirth",
+    "actors": "John Goodman, Haley Joel Osment, Tony Jay",
+    "production_country": "United States, Australia, France",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNDk2NTk1NzQxN15BMl5BanBnXkFtZTYwMDMyMTg5._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/14873.webp",
+    "imdb_rating": "5.3",
+    "imdb_votes": "19,093",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Jungle_Book_2",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/14873.txt",
+    "plot_year_start": 1967,
+    "plot_year_end": 1967,
+    "epoch": "late-cold-war-era",
+    "action_countries": [
+      "FICTIONAL"
+    ],
+    "action_continents": [
+      "FICTIONAL"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "failures": {
+      "categories": "missing_category_list"
+    }
+  },
+  {
+    "movie_id": 870671,
+    "movie_idx": 4933,
+    "imdb_id": "tt39719730",
+    "title": "The Hunting",
+    "production_year": "2022",
+    "genre": "Action, Adventure, Drama",
+    "plot": "Ma, who lost his son, had hatred for the poachers and was caught in a grudge thirsty for revenge. However, was gradually moved by Xiao Gu's sincerity and kindness and eventually regained hope. The poachers, on the other hand, are ...",
+    "runtime": "79 min",
+    "director": "Yan Jia",
+    "actors": "Cao Wei Yu, Pema Jyad Ban Ma Jia, Yu Kang",
+    "production_country": "China",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZjhkMzg4ZGYtYzkxZS00MDQ4LWE3MGQtM2Q3MGFjYTg5NGI0XkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/870671.webp",
+    "imdb_rating": "N/A",
+    "imdb_votes": "N/A",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Hunt_(2022_film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/870671.txt",
+    "plot_year_start": 1980,
+    "plot_year_end": 1983,
+    "epoch": "late-cold-war-era",
+    "action_countries": [
+      "FICTIONAL",
+      "TH",
+      "US",
+      "JP",
+      "KR"
+    ],
+    "action_continents": [
+      "FICTIONAL",
+      "Asia",
+      "North America",
+      "Asia",
+      "Asia"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "failures": {
+      "categories": "missing_category_list"
+    }
+  },
+  {
+    "movie_id": 37211,
+    "movie_idx": 6122,
+    "imdb_id": "tt0189072",
+    "title": "Scooby-Doo and the Reluctant Werewolf",
+    "production_year": "1988",
+    "genre": "Animation, Comedy, Family",
+    "plot": "Shaggy is turned into a werewolf, and it's up to Scooby, Scrappy and his girlfriend to help him win the contest.",
+    "runtime": "92 min",
+    "director": "Ray Patterson",
+    "actors": "Don Messick, Casey Kasem, Hamilton Camp",
+    "production_country": "United States, Taiwan",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYmFjMDRlOWYtMGE4YS00ZmZmLTkyNjMtMWQ3MTMyZWE5YTMzXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/37211.webp",
+    "imdb_rating": "6.6",
+    "imdb_votes": "5,683",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Scooby-Doo!_and_the_Reluctant_Werewolf",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/37211.txt",
+    "plot_year_start": 1988,
+    "plot_year_end": 1988,
+    "epoch": "late-cold-war-era",
+    "action_countries": [
+      "FICTIONAL",
+      "US",
+      "UNKNOWN"
+    ],
+    "action_continents": [
+      "FICTIONAL",
+      "North America",
+      "UNKNOWN"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Scooby-Doo Universe",
+    "failures": {
+      "categories": "missing_category_list"
+    }
+  },
+  {
+    "movie_id": 743814,
+    "movie_idx": 6245,
+    "imdb_id": "tt18372308",
+    "title": "Serve the People",
+    "production_year": "2022",
+    "genre": "Drama, Romance",
+    "plot": "Serve the People is a 2022 South Korean romantic drama film, written and directed by Jang Cheol-soo and starring Yeon Woo-jin, Ji An, Jo Sung-ha and Kim Ji-chul. Based on the eponymous novel by Yan Lianke, it depicts a romance between Mu Gwang, a model soldier, and Su-ryun, the young wife of the division commander and the inner conflicts of Mu Gwang. The film set in a fictional socialist country much similar to North Korea in the 1970s, was released theatrically on February 23, 2022 in South Korea.",
+    "runtime": "146 min",
+    "director": "Cheol-soo Jang",
+    "actors": "Yeon Woo-jin, Jee An, Jo Sung-ha",
+    "production_country": "South Korea",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMzdkNzhmNTYtMjFjNC00MTQzLTg0OGQtNTJiNDk5MjYzZjBkXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/743814.webp",
+    "imdb_rating": "6.3",
+    "imdb_votes": "801",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Serve_the_People_(film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/743814.txt",
+    "plot_year_start": 1970,
+    "plot_year_end": 1970,
+    "epoch": "late-cold-war-era",
+    "action_countries": [
+      "FICTIONAL"
+    ],
+    "action_continents": [
+      "FICTIONAL"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "failures": {
+      "categories": "missing_category_list"
+    }
+  },
+  {
+    "movie_id": 11843,
+    "movie_idx": 7110,
+    "imdb_id": "tt0072081",
+    "title": "The Return of the Pink Panther",
+    "production_year": "1975",
+    "genre": "Comedy, Crime, Mystery",
+    "plot": "That famous jewel, The Pink Panther, has once again been stolen and Inspector Jacque Clouseau (Peter Sellers) is called in to catch the thief. The Inspector is convinced that \"The Phantom\" has returned and utilizes all of his resources, himself and his oriental manservant, to reveal the true identity of \"The Phantom\".",
+    "runtime": "113 min",
+    "director": "Blake Edwards",
+    "actors": "Peter Sellers, Christopher Plummer, Catherine Schell",
+    "production_country": "United Kingdom, United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZTFkNDljYjgtZmQ3NS00MDkxLTk3OGItNzZlZTgxZTAzN2JlXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/11843.webp",
+    "imdb_rating": "7.0",
+    "imdb_votes": "30,393",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Return_of_the_Pink_Panther",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/11843.txt",
+    "plot_year_start": 1975,
+    "plot_year_end": 1975,
+    "epoch": "late-cold-war-era",
+    "action_countries": [
+      "FICTIONAL",
+      "FR",
+      "CH",
+      "JP"
+    ],
+    "action_continents": [
+      "FICTIONAL",
+      "Europe",
+      "Europe",
+      "Asia"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "failures": {
+      "categories": "missing_category_list"
+    }
+  },
+  {
+    "movie_id": 3115,
+    "movie_idx": 8400,
+    "imdb_id": "tt0060464",
+    "title": "Ebirah, Horror of the Deep",
+    "production_year": "1966",
+    "genre": "Adventure, Fantasy, Sci-Fi",
+    "plot": "Ryota is a young man searching for his missing brother Yata. He joins up with Nita and Ichino as they sneak on a ship supposedly belonging to Yoshimura, a career criminal escaping from the authorities. As the group sets sail, they are caught in a storm and attacked by a monstrous crustacean creature. Shipwrecked on Letchi Island, they find that the natives of Mothra's Infant Island have been enslaved by a terrorist organization called Red Bamboo. The terrorists force the natives process a juice that holds off the crustacean monster, Ebirah. The men meet up with a native escapee named Daiyo as they stumble upon Godzilla sleeping on the island. The groups sets up a plan to awaken Godzilla to defeat Red Bamboo terrorists and liberate the natives.",
+    "runtime": "83 min",
+    "director": "Jun Fukuda",
+    "actors": "Akira Takarada, Kumi Mizuno, Chôtarô Tôgin",
+    "production_country": "Japan",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYjdiNzA4MWYtODY4NC00NmRiLWIyZDEtYjIxZWNlMWMxODAxXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/3115.webp",
+    "imdb_rating": "5.5",
+    "imdb_votes": "6,790",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Ebirah,_Horror_of_the_Deep",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/3115.txt",
+    "plot_year_start": 1966,
+    "plot_year_end": 1966,
+    "epoch": "late-cold-war-era",
+    "action_countries": [
+      "FICTIONAL"
+    ],
+    "action_continents": [
+      "FICTIONAL"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Godzilla Universe",
+    "failures": {
+      "categories": "missing_category_list"
+    }
+  },
+  {
+    "movie_id": 11649,
+    "movie_idx": 8438,
+    "imdb_id": "tt0093507",
+    "title": "Masters of the Universe",
+    "production_year": "1987",
+    "genre": "Action, Adventure, Fantasy",
+    "plot": "On the planet Eternia, Skeletor and his dark army overthrow the Sorceress of Castle Grayskull expecting to acquire her power. He-Man, his old friend Duncan \"Man-at-Arms\" and his daughter Teela are attacked by Skeletor's soldiers and they defeat them. They also rescue their prisoner, the inventor and locksmith Gwildor. He explains that he was lured by Evil-Lyn that used his invention the Cosmic Key to open the gates and seize the Castle Grayskull. He-Man and his friends retrieve the prototype of the Cosmic Key trying to release the Sorcereress but they are defeated by Skeletor and his army and Gwildor uses his key to open and portal for them to flee. They come to Earth but lose the key. Meanwhile, Julie Winston, who grieves the loss of her parents in a plane crash, and her boyfriend Kevin Corrigan find and activate the key, believing it is a foreign musical instrument. On Eternia, Evil-Lyn locates the Cosmic Key and Skeletor sends her with a group of mercenaries and soldiers to vanquish He-Han and his friends and bring the key back. Will they succeed?",
+    "runtime": "106 min",
+    "director": "Gary Goddard",
+    "actors": "Dolph Lundgren, Frank Langella, Meg Foster",
+    "production_country": "United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BOGM4ZDMxMjMtMmFhYi00OGJhLThiYzktMTVmYTgwNTk4ZDJhXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/11649.webp",
+    "imdb_rating": "5.4",
+    "imdb_votes": "47,073",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Masters_of_the_Universe_(1987_film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/11649.txt",
+    "plot_year_start": 1987,
+    "plot_year_end": 1987,
+    "epoch": "late-cold-war-era",
+    "action_countries": [
+      "FICTIONAL",
+      "US"
+    ],
+    "action_continents": [
+      "FICTIONAL",
+      "North America"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Masters of the Universe",
+    "failures": {
+      "categories": "missing_category_list"
+    }
+  },
+  {
+    "movie_id": 13350,
+    "movie_idx": 8950,
+    "imdb_id": "tt0189071",
+    "title": "Scooby-Doo and the Ghoul School",
+    "production_year": "1988",
+    "genre": "Animation, Comedy, Family",
+    "plot": "While working as gym teachers at an all-girls finishing school, Scooby-Doo, Shaggy and Scrappy-Doo get tangled up in a monstrous mystery.",
+    "runtime": "92 min",
+    "director": "Charles Nichols, Ray Patterson",
+    "actors": "Remy Auberjonois, Susan Blu, Hamilton Camp",
+    "production_country": "United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNDAzMmVjMTAtYTE3Ni00Zjk0LWEwYjktNTA4ZmMwOGEzMmMyXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/13350.webp",
+    "imdb_rating": "6.8",
+    "imdb_votes": "6,498",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Scooby-Doo_and_the_Ghoul_School",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/13350.txt",
+    "plot_year_start": 1988,
+    "plot_year_end": 1988,
+    "epoch": "late-cold-war-era",
+    "action_countries": [
+      "FICTIONAL"
+    ],
+    "action_continents": [
+      "FICTIONAL"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Scooby-Doo Universe",
+    "failures": {
+      "categories": "missing_category_list"
+    }
+  },
+  {
+    "movie_id": 11891,
+    "movie_idx": 9193,
+    "imdb_id": "tt0240468",
+    "title": "Kung Pow: Enter the Fist",
+    "production_year": "2002",
+    "genre": "Action, Comedy",
+    "plot": "Kung Pow: Enter the Fist is a movie within a movie, created to spoof the martial arts genre. Writer/director Steve Oedekerk uses contemporary characters and splices them into a 1970s kung-fu film, weaving the new and old together. As the main character, The Chosen One, Oedekerk sets off to avenge the deaths of his parents at the hands of kung-fu legend Master Pain. Along the way, he encounters some strange characters, one of which is a cow trained in the martial arts.",
+    "runtime": "81 min",
+    "director": "Steve Oedekerk",
+    "actors": "Steve Oedekerk, Fei Lung, Leo Lee",
+    "production_country": "United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMDBkMDY0MTQtMzUzMS00OTk2LTlmNmItZmQ2ODc5MmEwMDA1XkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/11891.webp",
+    "imdb_rating": "6.2",
+    "imdb_votes": "50,110",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Kung_Pow!_Enter_the_Fist",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/11891.txt",
+    "plot_year_start": 1976,
+    "plot_year_end": 1976,
+    "epoch": "late-cold-war-era",
+    "action_countries": [
+      "FICTIONAL"
+    ],
+    "action_continents": [
+      "FICTIONAL"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "failures": {
+      "categories": "missing_category_list"
+    }
+  },
+  {
+    "movie_id": 25678,
+    "movie_idx": 9652,
+    "imdb_id": "tt0092548",
+    "title": "American Ninja 2: The Confrontation",
+    "production_year": "1987",
+    "genre": "Action, Comedy, Drama",
+    "plot": "On a remote Caribbean island, Army Ranger Joe Armstrong investigates the disappearance of several marines, which leads him to The Lion, a super-criminal who has kidnapped a local scientist and mass-produced an army of mutant Ninja warriors.",
+    "runtime": "90 min",
+    "director": "Sam Firstenberg",
+    "actors": "Michael Dudikoff, Steve James, Larry Poindexter",
+    "production_country": "United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjM1MjU0ZTYtNDA4NS00MWI2LWE3ZDctZDU0Mjc5OWYyNDNjXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/25678.webp",
+    "imdb_rating": "4.9",
+    "imdb_votes": "10,520",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/American_Ninja_2:_The_Confrontation",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/25678.txt",
+    "plot_year_start": 1987,
+    "plot_year_end": 1987,
+    "epoch": "late-cold-war-era",
+    "action_countries": [
+      "FICTIONAL"
+    ],
+    "action_continents": [
+      "FICTIONAL"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "failures": {
+      "categories": "missing_category_list"
+    }
+  },
+  {
+    "movie_id": 28277,
+    "movie_idx": 9933,
+    "imdb_id": "tt0063977",
+    "title": "99 Women",
+    "production_year": "1969",
+    "genre": "Crime, Drama, Horror",
+    "plot": "New inmate Marie arrives at an island prison in the women's sector and receives the number 99. The inmates are controlled by the sadistic lesbian warden Thelma Diaz and Governor Santos and submitted to torture, rape, sexual harassment and abuse. When the Justice minister replaces Diaz, Marie believes that her life will improve and her case will be reopened. Marie's disappointed with the new warden and plans to escape. But their scheme fails and the abuse they've undergone had been but a paltry hint of the torture in store.",
+    "runtime": "86 min",
+    "director": "Jesús Franco, Bruno Mattei",
+    "actors": "Maria Schell, Luciana Paluzzi, Mercedes McCambridge",
+    "production_country": "United Kingdom, Italy, West Germany, Spain",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNmVmYmRkMTctMjBkYS00MDYyLWFkOGItOGIzOTY4ZDBkY2VmXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/28277.webp",
+    "imdb_rating": "4.6",
+    "imdb_votes": "1,646",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/99_Women",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/28277.txt",
+    "plot_year_start": 1969,
+    "plot_year_end": 1969,
+    "epoch": "late-cold-war-era",
+    "action_countries": [
+      "FICTIONAL"
+    ],
+    "action_continents": [
+      "FICTIONAL"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "failures": {
+      "categories": "missing_category_list"
+    }
+  }
+]

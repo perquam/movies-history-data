@@ -1,0 +1,84 @@
+{
+  "epoch": "early-cold-war-era",
+  "continent": "oceania",
+  "sample_size": 3,
+  "sample": [
+    {
+      "title": "The World's Fastest Indian",
+      "years": "1962..1963",
+      "countries": [
+        "NZ",
+        "US"
+      ],
+      "plot": "For twenty-five years in Invercargill, New Zealand, Burt Munro (1899-1978) has been working on increasing the speed of his motorcycle, a 1920 Indian. He dreams of taking it to the Bonneville Salt Flats to see how fast it will go. By the early 1960s, heart disease threatens his life, so he mortgages his house and takes a boat to Los Angeles, buys an old car, builds a makeshift trailer, gets the Indian through customs, and heads for Utah. Along the way, people he meets are charmed by his open, direct friendliness. If he makes it to Bonneville, will they let an old guy on bthe flats with makeshift tires, no brakes, and no chute? And will the Indian actually respond?"
+    },
+    {
+      "title": "The Other Side of Heaven 2: Fire of Faith",
+      "years": "1960..1960",
+      "countries": [
+        "TO"
+      ],
+      "plot": "Missionary John H. Groberg returns to Tonga in the 1960s with his wife and their five young daughters. When their sixth child is born with a serious illness, the Grobergs face their ultimate test of faith, only to find themselves surrounded by the love and prayers of thousands of Tongans. Barriers of inter religious strife are soon broken down as all unite in hopes of a miracle that will save the baby's life, as well as the life of a Tongan minister's son."
+    },
+    {
+      "title": "Heavenly Creatures",
+      "years": "1952..1954",
+      "countries": [
+        "NZ"
+      ],
+      "plot": "Pauline Parker and Juliet Hulme met in school during the 1950s. Instant best friends, they proceeded to spend every minute possible together, often writing about a fantasy land of their own invention. More and more estranged from their respective families, the two girls realise that they are extremely different from most other people, and agree to take any steps necessary to ensure that they are not seperated. The two families are increasingly concerned about the girls' friendship in a strictly moralistic era."
+    }
+  ],
+  "categories": [
+    {
+      "label": "small towns tied by watchful neighbours",
+      "description": "Much of life unfolds in close communities where people know one another's business, reputation carries weight, and private troubles quickly become public knowledge. What you'll see: main streets and corner shops, neighbours dropping in, gossip moving fast, and local opinion pressing on family decisions.",
+      "icon": "🏘️"
+    },
+    {
+      "label": "churches shaping public morals and duty",
+      "description": "Christian churches stand near the centre of social life, setting standards for conduct, family order, charity, and respectability across both settler and island communities. What you'll see: services and prayers, ministers and missionaries, religious talk in ordinary conversation, and moral judgment falling on behaviour seen as improper.",
+      "icon": "⛪"
+    },
+    {
+      "label": "families ruled by discipline and respectability",
+      "description": "Households are expected to keep firm order, with parents guarding children's conduct and measuring success by decency, obedience, and a good name. What you'll see: strict home routines, worried parents, rules about companionship and behaviour, and domestic life framed by duty rather than self-expression.",
+      "icon": "👨‍👩‍👧"
+    },
+    {
+      "label": "islands linked by sea lanes",
+      "description": "Across Oceania, travel, trade, and communication still depend heavily on ships and long sea passages, making distance a constant fact of life. What you'll see: harbours and wharves, ocean crossings, baggage and crates, customs formalities, and the feeling that journeys abroad are major undertakings.",
+      "icon": "🛳️"
+    },
+    {
+      "label": "english-speaking worlds under British shadow",
+      "description": "Even after formal imperial power has loosened, public life still bears British habits in schooling, manners, law, and ideas of proper conduct, especially in New Zealand and the Pacific. What you'll see: school uniforms and classrooms, clipped formal speech, deference to officials, and institutions that feel inherited from Empire.",
+      "icon": "🎓"
+    },
+    {
+      "label": "modest prosperity built on practical skills",
+      "description": "The period brings greater comfort than earlier hard times, yet most people still rely on thrift, repair, and hands-on competence rather than abundance. What you'll see: sheds and workshops, patched machines, homemade fixes, careful spending, and pride in making do with what is at hand.",
+      "icon": "🧰"
+    },
+    {
+      "label": "machines entering ordinary postwar life",
+      "description": "Motor cars, motorbikes, telephones, and modern transport are becoming familiar parts of daily life, widening horizons without erasing the older pace of distance and delay. What you'll see: roadside travel, garages and spare parts, household telephones, ferries and buses, and excitement around speed and mechanical know-how.",
+      "icon": "🚗"
+    },
+    {
+      "label": "schools training youth into conformity",
+      "description": "Education is not only for learning but for shaping children into respectable adults who fit the expectations of family, church, and nation. What you'll see: classrooms and assemblies, uniforms and rules, teachers policing conduct, and adolescent lives measured against strict social standards.",
+      "icon": "🏫"
+    },
+    {
+      "label": "faith crossing between settlers and islanders",
+      "description": "Religious life in Oceania often moves through encounters between overseas missionaries and Pacific communities, creating shared devotions while keeping unequal histories close at hand. What you'll see: mission houses, congregations in island settings, prayer joining different groups, and Christian practice woven into local communal life.",
+      "icon": "🙏"
+    },
+    {
+      "label": "public institutions carrying quiet authority",
+      "description": "Officials, schools, hospitals, and border offices exercise a steady everyday power, less dramatic than force but deeply felt in ordinary lives. What you'll see: paperwork and permissions, medical wards, school discipline, and people adjusting themselves to rules handed down by trusted authorities.",
+      "icon": "📋"
+    }
+  ]
+}

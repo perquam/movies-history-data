@@ -1,0 +1,99 @@
+{
+  "epoch": "legendary-past",
+  "continent": "fictional",
+  "sample_size": 5,
+  "sample": [
+    {
+      "title": "Animal Kingdom: Let's Go Ape",
+      "years": "-100000..-100000",
+      "countries": [
+        "FICTIONAL"
+      ],
+      "plot": "The outcast son of a primate King learns about being a monkey."
+    },
+    {
+      "title": "Ice Age: A Mammoth Christmas",
+      "years": "-20000..-20000",
+      "countries": [
+        "FICTIONAL"
+      ],
+      "plot": "When Sid accidentally destroys Manny's heirloom Christmas rock and ends up on Santa's naughty list, he leads a hilarious quest to the North Pole to make things right and ends up making things much worse. Now it's up to Manny and his prehistoric posse to band together and save Christmas for the entire world."
+    },
+    {
+      "title": "The Croods",
+      "years": "-500000..-10000",
+      "countries": [
+        "FICTIONAL"
+      ],
+      "plot": "\"The Croods\" are an eccentric family of cavemen, who survive the harsh terrain by living accordingly to a strict set of rules. But when their home is destroyed in the wake of an impending disaster known as \"The End\", they are forced to leave their home of shelter and security, and into the wilderness of the unknown to find a new home."
+    },
+    {
+      "title": "RRRrrrr!!!",
+      "years": "-35000..-35000",
+      "countries": [
+        "FICTIONAL"
+      ],
+      "plot": "In 35,000 BC, the tribe of the Dirty Hairs is in war against the tribe of the Clean Hairs for eight hundred years, trying to get their shampoo. The chief of the Dirty Hairs sends his daughter Guy disguised to the enemy tribe to get some shampoo for his tribe. When the healer of the Clean Hairs tribe surprisingly kills two cavemen of his tribe, their imbecile chief assigns Pierre with curled hair and Pierre blonde to investigate the murder and find the criminal."
+    },
+    {
+      "title": "Boonie Bears: Blast Into the Past",
+      "years": "-2000000..-2000000",
+      "countries": [
+        "FICTIONAL"
+      ],
+      "plot": "Vick and the bears find themselves stuck in the ancient past surrounded by gigantic animals who all seem to have one thing in mind: lunch. When our heroes get separated, Briar meets up with a young wolf named Feifei, who is intent on becoming a brave warrior. Meanwhile, Bramble and Vick run into problems of their own when they are captured by a tribe of primitive humans whose leader falls head over heels for Vick. This is an adventure unlike anything they've ever faced before. Will they be able to reunite and make it back before they are stuck forever in the past?"
+    }
+  ],
+  "categories": [
+    {
+      "label": "small tribes living by kin bonds",
+      "description": "People belong first to a family band or tribe, with safety, food, and standing coming from close kin rather than any larger realm. What you'll see: clan camps, bickering elders, marriage ties, rival groups, and decisions made before the whole band.",
+      "icon": "👨‍👩‍👧‍👦"
+    },
+    {
+      "label": "chiefs ruling through strength and custom",
+      "description": "Leadership rests on age, prowess, and accepted habit, not written law, so a chief must keep authority by force, reputation, and the support of the group. What you'll see: chieftains giving orders, public quarrels over rank, challenges to authority, and elders enforcing old ways.",
+      "icon": "👑"
+    },
+    {
+      "label": "wild lands shared with mighty beasts",
+      "description": "Human life sits inside a dangerous natural world where great animals are common and people are never far from hunger or attack. What you'll see: mammoths and predators, sudden chases, foraging and hunting, caves and rough shelters, and constant watchfulness in open country.",
+      "icon": "🦣"
+    },
+    {
+      "label": "everyday survival shaped by scarce food",
+      "description": "Much of life is governed by the need to find meat, roots, water, and warmth before the land or rivals take them away. What you'll see: hunting parties, scavenged meals, prized stores, disputes over useful things, and hard travel in search of better ground.",
+      "icon": "🍖"
+    },
+    {
+      "label": "caves, camps, and wandering in search",
+      "description": "Settlements are temporary and fragile, so people move when shelter fails, game vanishes, or danger grows too near. What you'll see: cave mouths, brush huts, fireside sleeping places, packed belongings, and journeys across harsh country toward a safer home.",
+      "icon": "⛺"
+    },
+    {
+      "label": "old taboos guiding fear of danger",
+      "description": "Knowledge is carried as warnings, prohibitions, and inherited habits that help a people survive a world they do not fully understand. What you'll see: strict household rules, dread of forbidden places, obedience to elders' sayings, and fear of straying beyond known ground.",
+      "icon": "☠️"
+    },
+    {
+      "label": "craft knowledge prized as tribal treasure",
+      "description": "Useful skills and rare substances can set one group above another, because practical know-how is guarded and passed on as a source of standing. What you'll see: valued grooming mixtures and remedies, healers and tinkerers, jealousy over secret methods, and fascination with new tools or tricks.",
+      "icon": "⚒️"
+    },
+    {
+      "label": "belief in marvels at the world's edges",
+      "description": "The world is imagined as full of wondrous beings, special places, and half-understood powers woven easily into ordinary life. What you'll see: far northern gift-givers, legendary animals, sacred heirlooms, and matter-of-fact talk about marvels beyond the next ridge.",
+      "icon": "🦄"
+    },
+    {
+      "label": "war and raiding between neighbouring peoples",
+      "description": "Nearby groups compete for land, mates, prestige, and useful goods, so feuds can become a settled part of life from one generation to the next. What you'll see: taunting across tribal lines, skirmishes, captives, stealthy crossings into enemy ground, and long memories of old wrongs.",
+      "icon": "🗡️"
+    },
+    {
+      "label": "speech, signs, and custom before writing",
+      "description": "Without writing, memory, law, and identity live in spoken tales, repeated sayings, and visible marks of belonging. What you'll see: oral boasting, simple investigations by talk and witness, gestures and ritual phrases, and hairstyles or ornaments that mark each people apart.",
+      "icon": "🗣️"
+    }
+  ]
+}

@@ -1,0 +1,477 @@
+{
+  "epoch": "industrial-age",
+  "continent": "north_america",
+  "sample_size": 50,
+  "sample": [
+    {
+      "title": "Against the Ice",
+      "years": "1909..1912",
+      "countries": [
+        "GL"
+      ],
+      "plot": "In 1909, Denmark's Alabama Expedition led by Captain Ejnar Mikkelsen was attempting to disprove the United States' claim to North Eastern Greenland, a claim that was rooted in the idea that Greenland was broken up into two different pieces of land. Leaving their crew behind with the ship, Mikkelsen sleds across the ice with his inexperienced crew member, Iver Iversen. The two men succeed in finding the proof that Greenland is one island, but returning to the ship takes longer and is much harder than expected. Battling extreme hunger, fatigue and a polar bear attack, they finally arrive to find their ship crushed in the ice and the camp abandoned."
+    },
+    {
+      "title": "The Greatest Showman",
+      "years": "1830..1870",
+      "countries": [
+        "US"
+      ],
+      "plot": "Orphaned, penniless, but ambitious and with a mind crammed with imagination and fresh ideas, the American entertainer, Phineas Taylor Barnum, will always be remembered as the man with the gift to blur the line between reality and fiction. Thirsty for innovation and hungry for success, the son of a tailor manages to open a wax museum; however, he soon shifts focus to the unique and the peculiar, introducing extraordinary, never-seen-before live acts on the circus stage. Now, some people call Barnum's rich collection of oddities, an outright freak show; but, when Phineas, obsessed for cheers and respectability, gambles everything on the opera singer, Jenny Lind, to appeal to a high-brow audience, he will lose sight of the most crucial aspect of his life: his family. Will Barnum, the greatest showman, risk it all to be accepted?"
+    },
+    {
+      "title": "They Call Me Trinity",
+      "years": "1870..1870",
+      "countries": [
+        "US"
+      ],
+      "plot": "A drifter comes to town where his brother is sheriff. His brother is actually a robber who broke the real sheriff's leg and left him for dead, and became sheriff in order to hide out. They team up against the local land baron who is trying to get rid of the Mormon settlers in a valley he wishes to own."
+    },
+    {
+      "title": "Calamity Jane",
+      "years": "1870..1870",
+      "countries": [
+        "US"
+      ],
+      "plot": "Deadwood, Dakota Territory, is largely the abode of men, where Indian scout Calamity Jane is as hard-riding, boastful, and handy with a gun as any; quite an overpowering personality. But the army lieutenant she favors doesn't really appreciate her finer qualities. One of Jane's boasts brings her to Chicago to recruit an actress for the Golden Garter stage. Arrived, the lady in question appears (at first) to be a more feminine rival for the favors of Jane's male friends...including her friendly enemy Wild Bill Hickock."
+    },
+    {
+      "title": "Badland",
+      "years": "1875..1875",
+      "countries": [
+        "US",
+        "MX"
+      ],
+      "plot": "Detective Matthias Breecher is hired to track down the worst of the Confederate war criminals. As he roams the Old West seeking justice, his resolve is tested when he meets a determined pioneer woman who is far more than she seems."
+    },
+    {
+      "title": "Pale Rider",
+      "years": "1880..1880",
+      "countries": [
+        "US"
+      ],
+      "plot": "A gold mining camp in the California foothills is besieged by a neighboring landowner intent on stealing their claims. A preacher (Clint Eastwood) rides into camp and uses all of his powers of persuasion to convince the landowner to give up his attacks on the miners."
+    },
+    {
+      "title": "Rio Bravo",
+      "years": "1850..1899",
+      "countries": [
+        "US"
+      ],
+      "plot": "Sheriff John T. Chance has his hands full after arresting Joe Burdette for murder. He knows that Burdette's brother Nathan, a powerful rancher, will go to any lengths to get him out of jail. Chance's good friend Pat Wheeler offers to help but within 20 minutes of making the offer is gunned down in the street, shot in the back. That leaves his elderly deputy Stumpy, the town drunk Dude - once a deputy and a pretty good shot when he was sober - and a young hand, Colorado, who used to work for Wheeler. Nathan Burdette meanwhile has a couple of dozen men at his disposal. Chance does his best to prepare all the while romancing a pretty gambler who goes by the name of Feathers."
+    },
+    {
+      "title": "The Man Who Shot Liberty Valance",
+      "years": "1880..1905",
+      "countries": [
+        "US"
+      ],
+      "plot": "When Senator Ransom Stoddard returns home to Shinbone for the funeral of Tom Doniphon, he recounts to a local newspaper editor the story behind it all. He had come to town many years before, a lawyer by profession. The stage was robbed on its way in by the local ruffian, Liberty Valance, and Stoddard has nothing to his name left save a few law books. He gets a job in the kitchen at the Ericson's restaurant and there meets his future wife, Hallie. The territory is vying for Statehood and Stoddard is selected as a representative over Valance, who continues terrorizing the town. When he destroys the local newspaper office and attacks the editor, Stoddard calls him out, though the conclusion is not quite as straightforward as legend would have it."
+    },
+    {
+      "title": "Little Women",
+      "years": "1861..1865",
+      "countries": [
+        "US",
+        "GB",
+        "FR",
+        "CH"
+      ],
+      "plot": "Louisa May Alcott's autobiographical account of her life with her three sisters in Concord, Massachusetts in the 1860s. With their father fighting in the American Civil War, sisters Jo, Meg, Amy and Beth are at home with their mother, a very outspoken women for her time. The story tells of how the sisters grow up, find love and find their place in the world."
+    },
+    {
+      "title": "Surrounded",
+      "years": "1866..1866",
+      "countries": [
+        "US"
+      ],
+      "plot": "Former Buffalo Soldier Mo Washington travels West to lay claim on a gold mine. After her stagecoach is ambushed, Mo is tasked with holding a dangerous outlaw captive and must survive the day when the bandit's gang tries to free him."
+    },
+    {
+      "title": "White Fang",
+      "years": "1898..1898",
+      "countries": [
+        "US"
+      ],
+      "plot": "Based on the timeless novel by Jack London. A loyal wolfdog's curiosity leads him on the adventure of a lifetime while serving a series of three distinctly different masters."
+    },
+    {
+      "title": "For a Few Dollars More",
+      "years": "1860..1880",
+      "countries": [
+        "US"
+      ],
+      "plot": "Drifting from town to town, the poncho-clad Man with No Name and the lightning-fast right hand rides into the town of El Paso in search of maniacal escaped convict El Indio. It's been 18 short months since the deadly confrontation in Per un pugno di dollari (1964), and this time, the solitary stranger, now a professional bounty hunter, must go against his beliefs and do the unthinkable: join forces with hawk-eyed marksman Colonel Douglas Mortimer to collect the hefty reward. Now, as El Indio and his cut-throats have already set their sights on robbing the crammed-with-cash Bank of El Paso, the stage is set for a bloody showdown at high noon, against the backdrop of silent double-crosses and fragile allegiances. But, is it worth dicing with death for a few dollars more?"
+    },
+    {
+      "title": "The Ox-Bow Incident",
+      "years": "1885..1885",
+      "countries": [
+        "US"
+      ],
+      "plot": "Two drifters are passing through a Western town, when news comes in that a local farmer has been murdered and his cattle stolen. The townspeople, joined by the drifters, form a posse to catch the perpetrators. They find three men in possession of the cattle, and are determined to see justice done on the spot."
+    },
+    {
+      "title": "Organ Trail",
+      "years": "1870..1870",
+      "countries": [
+        "US"
+      ],
+      "plot": "A young Abigale Archer alone in the Montana winter during the 1870s who fights for her survival and to retrieve her one earthly possession, a family horse, from a gang of bloodthirsty bandits."
+    },
+    {
+      "title": "Tesla",
+      "years": "1884..1901",
+      "countries": [
+        "US",
+        "CZ",
+        "FR",
+        "UNKNOWN"
+      ],
+      "plot": "A freewheeling take on visionary inventor Nikola Tesla, his interactions with Thomas Edison and J.P. Morgan's daughter Anne, and his breakthroughs in transmitting electrical power and light."
+    },
+    {
+      "title": "The Bear",
+      "years": "1885..1885",
+      "countries": [
+        "CA"
+      ],
+      "plot": "The director of La guerre du feu (1981) creates yet another film in nature with almost no human dialogue in this picturesque story of an orphaned bear cub who is adopted by an adult male bear and must avoid hunters. Bart the Bear stars in this anthropomorphic fantasy."
+    },
+    {
+      "title": "The Assassination of Jesse James by the Coward Robert Ford",
+      "years": "1881..1882",
+      "countries": [
+        "US"
+      ],
+      "plot": "Taking place in Missouri in the early 1880s, the film dramatizes the last seven months in the life of famed outlaw Jesse James, beginning with the Blue Cut train robbery of 1881 and culminating in his assassination at the hands of Robert Ford the following April. In the time between these two fateful events, the young and jealous Ford befriends the increasingly mistrustful outlaw, even as he plots his demise."
+    },
+    {
+      "title": "Gunfight at the O.K. Corral",
+      "years": "1880..1881",
+      "countries": [
+        "US"
+      ],
+      "plot": "After a long career as a lawman that made him a legend, Wyatt Earp (Burt Lancaster) decides to quit and join his brothers in Tombstone, Arizona. There, he would see them in a feud with the Clantons, a local clan of thugs and cattle thieves. When the showdown becomes inevitable, the help will come from Doc Holliday (Kirk Douglas), a terminally-ill gambler who happens to be another Wild West legend."
+    },
+    {
+      "title": "A Place in the Sun",
+      "years": "1906..1906",
+      "countries": [
+        "US"
+      ],
+      "plot": "A chance meeting with his uncle leads to George Eastman (Montgomery Clift) being caught in the middle of two worlds, neither side in which he truly belongs. The son of poor missionaries, his father who has passed away, George met his wealthy paternal uncle Charles Eastman (Herbert Heyes) while George was working as a bellhop in his uncle's hotel in Chicago, Illinois. Wanting a better life for himself, George takes his uncle up on his offer for a placement somewhere in one of the Eastman factories, Charles' want in this offer being for any Eastman to take his proper place in the world. Under the directive of his cousin Earl (Keefe Brasselle), George is placed on the factory assembly line, largely neglected by the Eastmans as a whole. Regardless, George still does see this position as a stepping stone to something better, for which he is willing to work hard to achieve. George, lonely in his new surroundings, breaks the company rule of no fraternizing with fellow employees when he starts to date fellow Eastman assembly line worker Alice Tripp (Shelley Winters). Several months later, Charles, remembering about his nephew, promotes George both professionally and personally. Although uncomfortable in society gatherings, George eventually is befriended by one person in this new world, the beautiful society maiden Angela Vickers (Dame Elizabeth Taylor), who George fell in love with at first sight even before he arrived in town. Angela too falls in love with George, which does not sit well with her parents if only because they know nothing of him. George is caught between his want for prosperity and being with Angela, the woman he truly loves, and his obligations to needy Alice, who learns of his society friends and Angela, who ends up getting pregnant by him, and who uses whatever means in her limited powers to pressure him to do right by her in marrying her."
+    },
+    {
+      "title": "Comanche Station",
+      "years": "1880..1880",
+      "countries": [
+        "US"
+      ],
+      "plot": "Loner Cody trades with the Comanches to get a white girl released. He is joined on his way back to the girl's husband by an outlaw and his sidekicks. It turns out there is a large reward for the return of the girl, and with the Indians on the warpath and the outlaw being an old enemy of Cody's, things are set for several showdowns."
+    },
+    {
+      "title": "Red Sun",
+      "years": "1890..1890",
+      "countries": [
+        "US"
+      ],
+      "plot": "The Japanese ambassador is traveling through the Wild West by train, when gangsters hold up the train, to rob a gold shipment. They also carry an ancient Japanese sword the ambassador was carrying as a present for the US president. The ambassador's bodyguard (Toshiro Mifune) will go after them, with the aid of one of the gang's leaders betrayed by his pals..."
+    },
+    {
+      "title": "Missing Link",
+      "years": "1886..1886",
+      "countries": [
+        "US",
+        "CN",
+        "IN"
+      ],
+      "plot": "The charismatic Sir Lionel Frost (Hugh Jackman) considers himself to be the world's foremost investigator of myths and monsters. The trouble is none of his small-minded high-society peers seems to recognize this. Sir Lionel's last chance for acceptance by the adventuring elite rests on traveling to America's Pacific Northwest to prove the existence of a legendary creature. A living remnant of Man's primitive ancestry. The Missing Link (Zach Galifianakis)."
+    },
+    {
+      "title": "Bury My Heart at Wounded Knee",
+      "years": "1880..1890",
+      "countries": [
+        "US"
+      ],
+      "plot": "In the 1880s, after the U. S. Army's defeat at the Battle of the Little Bighorn, the government continues to push Sioux Indians off their land. In Washington, D.C., Senator Henry Dawes introduces legislation to protect Native Americans rights. In South Dakota, school teacher Elaine Goodale joins Sioux native and Western-educated Dr. Charles Eastman in working with tribe members. Meanwhile, Lakota Chief Sitting Bull refuses to give into mounting government pressures."
+    },
+    {
+      "title": "Blazing Saddles",
+      "years": "1874..1874",
+      "countries": [
+        "US"
+      ],
+      "plot": "The Ultimate Western Spoof. A town where everyone seems to be named Johnson is in the way of the railroad. In order to grab their land, Hedley Lemar (Harvey Korman), a politically connected nasty person, sends in his henchmen to make the town unlivable. After the sheriff is killed, the town demands a new sheriff from the Governor (Mel Brooks). Hedley convinces him to send the town the first Black sheriff (Cleavon Little) in the west. Bart is a sophisticated urbanite who will have some difficulty winning over the townspeople."
+    },
+    {
+      "title": "The Call of the Wild",
+      "years": "1896..1898",
+      "countries": [
+        "US",
+        "CA"
+      ],
+      "plot": "The Call of the Wild is a vibrant story of Buck, a big and kindhearted dog, a crossbreed between a St. Bernard and a Scotch Collie, whose carefree life of leisure was suddenly upset when he was stolen from his home in Santa Clara County, California and deported up north, to be sold in Skagway, Alaska, and taken further north, to Dawson City, Yukon, during the late 1890s Klondike Gold Rush, when strong sled dogs were in high demand. As a newcomer to the dog team delivery service - and not before long their front-runner - Buck, a dog like no other, who had been spoiled, and who had suffered, but he could not be broken, is having the time of his life. Forced to fight to survive, eventually taken by his last owner, John Thornton, to proximity of the Arctic Circle, somewhere between Yukon and Alaska, he progressively depends on his primal instincts, sheds the comforts of civilization and responds to \"the call of the wild\", as master of his own."
+    },
+    {
+      "title": "A Million Ways to Die in the West",
+      "years": "1882..1882",
+      "countries": [
+        "US"
+      ],
+      "plot": "Set in 1882 in the American west, Albert is a lowly farmer with a nice girlfriend. But when she leaves him for the more successful and handsome owner of a moustachery store, Albert returns to his lonely daily life of trying to avoid death. Then the mysterious Anna rides into town and captures Albert's interest and heart, but with her deadly husband in town, Albert is going to have to become the western gun-slinging hero he never was. It won't be easy because there are a million ways to die in the west."
+    },
+    {
+      "title": "Old Yeller",
+      "years": "1860..1869",
+      "countries": [
+        "US"
+      ],
+      "plot": "Young Travis Coates is left to take care of the family ranch with his mother and younger brother while his father goes off on a cattle drive in the 1860's. When a yellow mongrel comes for an uninvited stay with the family, Travis reluctantly adopts the dog. After a series of scrapes involving raccoons, snakes, bears, wild hogs and wolves, Travis grows to love and respect Old Yeller, who comes to have a profound effect on the boy's life."
+    },
+    {
+      "title": "Shanghai Noon",
+      "years": "1881..1881",
+      "countries": [
+        "US",
+        "CN"
+      ],
+      "plot": "A 19th century Western. Chon Wang is a clumsy Imperial Guard to the Emperor of China. When Princess Pei Pei is kidnapped from the Forbidden City, Wang feels personally responsible and insists on joining the guards sent to rescue the Princess, who has been whisked away to the United States. In Nevada and hot on the trail of the kidnappers, Wang is separated from the group and soon finds himself an unlikely partner with Roy O'Bannon, a small time robber with delusions of grandeur. Together, the two forge onto one misadventure after another."
+    },
+    {
+      "title": "Seven Brides for Seven Brothers",
+      "years": "1850..1850",
+      "countries": [
+        "US"
+      ],
+      "plot": "Adam, the eldest of seven brothers, goes to town to get a wife. He convinces Milly to marry him that same day. They return to his backwoods home. Only then does she discover he has six brothers - all living in his cabin. Milly sets out to reform the uncouth siblings, who are anxious to get wives of their own. Then, after reading about the Roman capture of the Sabine women, Adam develops an inspired solution to his brothers' loneliness."
+    },
+    {
+      "title": "The Beguiled",
+      "years": "1863..1863",
+      "countries": [
+        "US"
+      ],
+      "plot": "As the costly American Civil War still rages on, a twelve-year-old student of the forgotten Miss Martha Farnsworth's Seminary for Young Ladies in warm and humid Louisiana stumbles upon a gravely wounded Union soldier, Corporal John McBurney. Taken in to recover from his injuries, before long, McBurney will find himself imprisoned in a small room inside the mansion. Little by little, the seductive but unwanted guest tries to take advantage of the female inhabitants' wartime-subdued desires; however, is McBurney really in control over the situation?"
+    },
+    {
+      "title": "How the West Was Won",
+      "years": "1839..1889",
+      "countries": [
+        "US"
+      ],
+      "plot": "Setting off on a journey to the west in the 1830s, the Prescott family run into a man named Linus who helps them fight off a pack of thieves. Linus then marries daughter Eve Prescott (Carroll Baker), and 30 years later goes off with their son to fight in the Civil War, with bloody results. Eve's sister Lily heads farther west and has adventures with a professional gambler, stretching all the way to 1880s San Francisco."
+    },
+    {
+      "title": "The Ballad of Buster Scruggs",
+      "years": "1865..1880",
+      "countries": [
+        "US"
+      ],
+      "plot": "Six tales of life and violence in the Old West, following a singing gunslinger, a bank robber, a traveling impresario, an elderly prospector, a wagon train and a perverse pair of bounty hunters."
+    },
+    {
+      "title": "The Sisters Brothers",
+      "years": "1851..1851",
+      "countries": [
+        "US"
+      ],
+      "plot": "Based on Patrick DeWitt's novel, This movie revolves around the colorfully named gold prospector Hermann Kermit Warm (Riz Ahmed), who's being pursued across one thousand miles of 1850s Oregon desert to San Francisco, California by the notorious assassins Eli Sisters (John C. Reilly) and Charlie Sisters (Joaquin Phoenix). Except Eli is having a personal crisis and beginning to doubt the longevity of his chosen career. And Hermann might have a better offer."
+    },
+    {
+      "title": "Melody Time",
+      "years": "1800..1920",
+      "countries": [
+        "US",
+        "BR"
+      ],
+      "plot": "Segments: \"Once Upon a Wintertime,\" two lovers rescued from an icy river by friendly animals; \"Bumble Boogie,\" bee beset by musical instruments and symbols come to life; \"Johnny Appleseed,\" story of the legendary pioneer tree-planter; \"Trees,\" mood piece set to musical treatment of Joyce Kilmer's poem; \"Little Toot,\" story of a heroic little tugboat who saves an ocean liner; \"Blame it on the Samba,\" Donald Duck and Jose Carioca have the blues blown away at a Latin cafe; \"Pecos Bill,\" story of the legendary cowpoke, his trusty mount Widowmaker and his sweetheart Slue Foot Sue."
+    },
+    {
+      "title": "Two Mules for Sister Sara",
+      "years": "1865..1865",
+      "countries": [
+        "MX"
+      ],
+      "plot": "Set in Mexico, nun Sister Sara (Shirley MacLaine) is rescued from three cowboys by Hogan (Clint Eastwood), who is on his way to do some reconnaissance for a future mission to capture a French fort. The French are chasing Sara, but not for the reasons she tells Hogan, so he decides to help her in return for information about the fort defenses. Inevitably, the two become good friends, but Sara has a secret."
+    },
+    {
+      "title": "Terror on the Prairie",
+      "years": "1875..1875",
+      "countries": [
+        "US"
+      ],
+      "plot": "On the Montana plains, a frontier woman must protect herself against a ruthless gang of outlaws hell-bent on revenge."
+    },
+    {
+      "title": "Fort Apache",
+      "years": "1876..1876",
+      "countries": [
+        "US",
+        "MX"
+      ],
+      "plot": "Deep into the territory of the great Apache chief, Cochise, the demoted Civil War general, Lieutenant Colonel Owen Thursday, reports for duty as a commanding officer at the remote U.S. cavalry outpost known as Fort Apache, along with his daughter, Philadelphia. There, the arrogant commander will soon lock horns with the realistic and sensible second-in-command, Captain Kirby York, who, as an expert in the local Apaches, disagrees with Thursday who wants to make a name for himself in the Arizona frontier. In the end, is it wise to engage in battle when personal glory is all you seek?"
+    },
+    {
+      "title": "Butch Cassidy and the Sundance Kid",
+      "years": "1899..1899",
+      "countries": [
+        "US",
+        "BO"
+      ],
+      "plot": "Butch and Sundance are the two leaders of the Hole-in-the-Wall Gang. Butch is all ideas, Sundance is all action and skill. The west is becoming civilized, and when Butch and Sundance rob a train once too often, a special posse begins trailing them no matter where they run. Over rocks, through towns, across rivers, the group is always just behind them. When they finally escape through sheer luck, Butch has another idea, \"Let's go to Bolivia\". Based on the exploits of the historical characters."
+    },
+    {
+      "title": "Holes",
+      "years": "1903..1903",
+      "countries": [
+        "US"
+      ],
+      "plot": "\"But if you forget to come back for Madame Zeroni, you and your family will be cursed for always and eternity.\" Those were the exact words spoken to young Elya Yelnats the day he forgot to repay Madame Zeroni. From then on his family was cursed with bad luck. One hundred years later Stanley Yelnats IV is accused of stealing a pair of cleats from a major league baseball player and sent to Camp Green Lake (a dry lake bed in the middle of the desert). It never rains at Camp Green Lake, it hasn't for one hundred years. The secretive and mysterious Warden has each inmate spend every day digging one hole to \"build character.\" But when an artifact from the famous \"Kissin' Kate\" Barlow is found in a hole, the Warden forces the boys to work double time leading Stanley to deduce they're digging because the Warden is looking for something. But what? And how is the mystery of Camp Green Lake connected to Stanley's family curse?"
+    },
+    {
+      "title": "Hang 'Em High",
+      "years": "1889..1889",
+      "countries": [
+        "US"
+      ],
+      "plot": "A band of vigilantes catch Jed Cooper (Clint Eastwood) and, incorrectly believing him guilty of cattle rustling and murder, hang him, and leave him for dead. But he doesn't die. He returns to his former profession of lawman to hunt down his lynchers and bring them to justice."
+    },
+    {
+      "title": "Broken Arrow",
+      "years": "1870..1870",
+      "countries": [
+        "US"
+      ],
+      "plot": "By 1870, there has been 10 years of cruel war between settlers and Cochise's Apaches. Ex-soldier Tom Jeffords saves the life of an Apache boy and starts to wonder if Indians are human, after all; soon, he determines to use this chance to make himself an ambassador. Against all odds, his solitary mission into Cochise's stronghold opens a dialogue. Opportunely, the president sends General Howard with orders to conclude peace. But even with Jeffords's luck, the deep grievance and hatred on both sides make tragic failure all too likely."
+    },
+    {
+      "title": "The Magnificent Seven",
+      "years": "1879..1879",
+      "countries": [
+        "US"
+      ],
+      "plot": "Director Antoine Fuqua brings his modern vision to a classic story in The Magnificent Seven. With the town of Rose Creek under the deadly control of industrialist Bartholomew Bogue, the desperate townspeople employ protection from seven outlaws, bounty hunters, gamblers and hired guns. As they prepare the town for the violent showdown that they know is coming, these seven mercenaries find themselves fighting for more than money."
+    },
+    {
+      "title": "The Fox and the Hound",
+      "years": "1800..1950",
+      "countries": [
+        "US"
+      ],
+      "plot": "When an adopted fox and a to-be hunting hound become inseparable friends as pups, their friendship grows stronger every day in their \"childhood.\" But as they grow older, they grow farther and farther apart, to the day when the two old comrades' bond is put to the ultimate test."
+    },
+    {
+      "title": "Dead for a Dollar",
+      "years": "1897..1897",
+      "countries": [
+        "US",
+        "MX"
+      ],
+      "plot": "A famed bounty hunter runs into his sworn enemy, a professional gambler and outlaw that he had sent to prison years before."
+    },
+    {
+      "title": "Free State of Jones",
+      "years": "1862..1949",
+      "countries": [
+        "US"
+      ],
+      "plot": "Set during the Civil War, Free State of Jones tells the story of defiant Southern farmer, Newt Knight, and his extraordinary armed rebellion against the Confederacy. Banding together with other small farmers and local slaves, Knight launched an uprising that led Jones County, Mississippi to secede from the Confederacy, creating a Free State of Jones. Knight continued his struggle into Reconstruction, distinguishing him as a compelling, if controversial, figure of defiance long beyond the War."
+    },
+    {
+      "title": "A Fistful of Dollars",
+      "years": "1880..1890",
+      "countries": [
+        "MX"
+      ],
+      "plot": "Drifter gunman Joe (Clint Eastwood) arrives in the Mexican village of San Miguel at the border of the United States of America, and befriends the owner of the local bar, Silvanito. Joe discovers that the town is dominated by two gangster lords: John Baxter (Wolfgang Lukschy) and the cruel Ramón Rojo (Gian Maria Volontè). When Joe kills four men of Baxter's gang, he is hired by Ramón's brother Esteban Rojo (Sieghardt Rupp) to join their gang. However, Joe decides to work for both sides, playing one side against the other."
+    },
+    {
+      "title": "The Greatest Game Ever Played",
+      "years": "1900..1913",
+      "countries": [
+        "US",
+        "GB"
+      ],
+      "plot": "Near the turn of the twentieth century, young Harry Vardon becomes a champion golfer but learns that his amazing skill is no match for the class boundaries that exclude him from \"gentlemanly\" English society. A dozen years later, a young American, Francis Ouimet, fights against the same prejudice, as well as his own father's disdain, for a chance to participate in the U.S. Open against his idol -- Harry Vardon. The struggles of both men for acceptance provides the background for an amazing contest of skills."
+    },
+    {
+      "title": "Behind the Scenes of 'Seraphim Falls'",
+      "years": "1868..1868",
+      "countries": [
+        "US",
+        "FICTIONAL",
+        "US"
+      ],
+      "plot": "A behind-the-scenes look at the making of the film Seraphim Falls (2006)."
+    },
+    {
+      "title": "The Beguiled",
+      "years": "1864..1864",
+      "countries": [
+        "US"
+      ],
+      "plot": "Three years into the American Civil War, in 1864, the dilapidated mansion of Miss Martha Farnsworth's Seminary for Young Ladies is still running, occupied by the matriarch, a teacher, and five students in Spanish-moss-draped Virginia. However, when a young student stumbles upon Corporal John McBurney, a wounded Union deserter on the verge of death, the already frail balance of things will be disrupted, as the hesitant headmistress decides to take him in to heal from his injury. Little by little, as the unwelcome guest arouses an uneasy sexual excitation among the women of the secluded boarding school, it is not before long that they will find themselves competing for the alluring man's favour. Undoubtedly, this handsome devil is a manipulator; nevertheless, will the ladies stay forever beguiled by his charm?"
+    },
+    {
+      "title": "Bone Tomahawk",
+      "years": "1899..1900",
+      "countries": [
+        "US"
+      ],
+      "plot": "After an outlaw unknowingly leads a band of cannibalistic Troglodytes into the peaceful western town of Bright Hope, the monsters kidnap several settlers, including the wife of a local rancher. Despite his injured leg the rancher joins a small rescue party with the sheriff, his aging deputy and a strong-willed gunslinger. What follows is a journey into hell on earth as the posse comes to realize it is up against a foe whose savagery knows no bounds. The film takes place at the turn of the century around the border of what is now Texas and New Mexico."
+    }
+  ],
+  "categories": [
+    {
+      "label": "settlers pushing across contested western land",
+      "description": "North American settlement keeps moving westward, with homesteads, wagon roads, mining camps, and new towns planted on ground already claimed, used, or defended by others. What you'll see: cabins on open prairie, wagon trains and stage routes, rough main streets, isolated ranches, and families trying to hold a patch of land.",
+      "icon": "🛖"
+    },
+    {
+      "label": "Native nations facing war and removal",
+      "description": "Expansion brings treaties, army pressure, reservation policy, and repeated violence as Native nations struggle to defend land, autonomy, and ways of life. What you'll see: cavalry forts, peace parleys under strain, displaced communities, scouts and interpreters, and plains and desert country treated as battleground and homeland at once.",
+      "icon": "🏹"
+    },
+    {
+      "label": "law riding behind faster-growing towns",
+      "description": "Public authority is uneven, with sheriffs, marshals, judges, and posses trying to impose order where wealth, kinship, and fear often rule first. What you'll see: jailhouses and saloons, wanted posters, hurried trials, lynch mobs, armed deputies, and streets where private force easily overmatches the law.",
+      "icon": "⭐"
+    },
+    {
+      "label": "railroads and telegraph binding distant places",
+      "description": "Iron track and electric wire shrink distance, tying frontier settlements to markets, armies, newspapers, and the federal state. What you'll see: locomotives crossing empty country, depots and sidings, telegraph offices, stage lines losing ground, and towns rising or withering along the route.",
+      "icon": "🚂"
+    },
+    {
+      "label": "gold strikes and speculative boom camps",
+      "description": "Mineral wealth draws prospectors, merchants, gamblers, and claim jumpers into sudden settlements where fortunes seem near and ownership stays uncertain. What you'll see: sluices and pans, raw hillside diggings, crowded assay rooms, tent camps turned to wooden streets, and violence over claims, water, and transport.",
+      "icon": "⛏️"
+    },
+    {
+      "label": "the Civil War haunting peacetime society",
+      "description": "The war and its aftermath keep shaping loyalties, grief, race relations, and public power long after the fighting itself ends. What you'll see: veterans in uniform or worn civilian clothes, divided households, ruined Southern estates, Confederate memories, Reconstruction tensions, and old wounds carried into western life.",
+      "icon": "🎖️"
+    },
+    {
+      "label": "households ruled by work and reputation",
+      "description": "Daily life rests on family labour, strict ideas of respectability, and clear expectations for women, men, children, and courtship. What you'll see: boarding schools and parlours, sewing and cooking, farm chores, marriage talk, churchgoing manners, and social standing measured in dress, speech, and propriety.",
+      "icon": "🧵"
+    },
+    {
+      "label": "show business selling wonder to mass crowds",
+      "description": "Growing towns and cities support traveling shows, music halls, circuses, and spectacles that turn novelty and celebrity into paying entertainment. What you'll see: canvas tents, posters and handbills, gaslit stages, rail-borne performers, gawking audiences, and the blur between respectable amusement and vulgar display.",
+      "icon": "🎪"
+    },
+    {
+      "label": "new machines and electric light remaking cities",
+      "description": "Late-century North America is increasingly shaped by inventors, financiers, factories, and networks of power and illumination. What you'll see: workshops and laboratories, dynamos and bulbs, demonstration halls, businessmen backing inventions, urban night lit by new systems, and workers moving through regimented factory space.",
+      "icon": "💡"
+    },
+    {
+      "label": "class lines hardening in the new century",
+      "description": "Prosperity widens the distance between wage earners and the well-born, even as clubs, resorts, sport, and urban leisure advertise a grander national life. What you'll see: assembly lines and servant work, fine hotels and country houses, tailored leisure clothes, exclusive social gatherings, and awkward crossings between rich society and working people.",
+      "icon": "🎩"
+    }
+  ]
+}

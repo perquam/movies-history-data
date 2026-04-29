@@ -1,0 +1,62 @@
+{
+  "epoch": "early-cold-war-era",
+  "continent": "antarctica",
+  "sample_size": 1,
+  "sample": [
+    {
+      "title": "Whiteout",
+      "years": "1957..1957",
+      "countries": [
+        "AQ"
+      ],
+      "plot": "U.S. Marshal Carrie Stetko is three days from the end of her tour at an international research station in Antarctica after which she'll resign. An incident from her past haunts her. The continent's first winter storm is coming when a body, wearing no gear, is discovered in the tundra. She investigates, soon finds more bodies, and must find a motive and a murderer before the storm and her departure. A U.N. agent, Robert Pryce, appears, seemingly out of nowhere, to help. An aging physician about to retire, a nervous mission chief, a downed Soviet plane, and the weather's deadly elements add to the story. Can Carrie trust Pryce and does she still have what it takes?"
+    }
+  ],
+  "categories": [
+    {
+      "label": "research stations held together by supply lines",
+      "description": "Life on the ice depends on a few remote stations that can function only while ships and aircraft bring in fuel, food, medicines, and spare parts. What you'll see: prefabricated buildings, rationed stores, radio rooms, cargo crates, and constant worry about what cannot be replaced once winter closes in.",
+      "icon": "📦"
+    },
+    {
+      "label": "winter darkness cutting people off",
+      "description": "The Antarctic season can shut down travel and rescue for long stretches, turning distance and weather into the first law of the place. What you'll see: white horizons, blizzards swallowing tracks, boarded windows, emergency routines, and the sense that help is days away or impossible.",
+      "icon": "🌨️"
+    },
+    {
+      "label": "aircraft as the continent's lifeline",
+      "description": "Before any broad network of roads or ports, aircraft link scattered camps, carry urgent messages, and make survival possible across vast ice. What you'll see: ski planes, rough landings, fuel drums on the snow, weather briefings, and wreckage that remains where it fell.",
+      "icon": "✈️"
+    },
+    {
+      "label": "international claims and uneasy cooperation",
+      "description": "Antarctica is a place where several nations seek standing, yet practical survival forces scientists, officials, and visitors from rival countries into close quarters. What you'll see: mixed crews, foreign insignia, formal introductions, guarded exchanges, and shared facilities used by people who do not fully trust one another.",
+      "icon": "🤝"
+    },
+    {
+      "label": "cold war rivalries reaching the polar ice",
+      "description": "Even at the end of the earth, the wider contest between East and West shapes suspicions, intelligence work, and the reading of every unexplained event. What you'll see: Soviet traces, U.N. figures, sealed information, tense questioning, and small signs that scientific ground also carries political weight.",
+      "icon": "🕵️"
+    },
+    {
+      "label": "law and authority improvised at the station",
+      "description": "On a remote station, ordinary courts and police are far away, so order rests on whoever holds rank, jurisdiction, or the nearest badge. What you'll see: cramped offices serving as command posts, ad hoc investigations, mission chiefs asserting control, and rules enforced through radios, keys, and personal authority.",
+      "icon": "🎖️"
+    },
+    {
+      "label": "survival governed by gear and routine",
+      "description": "In this climate, staying alive depends on strict habits, proper clothing, and respect for procedures that might seem excessive anywhere else. What you'll see: parkas and goggles, checklists before going outside, warnings about exposure, secured doorways, and how one mistake in the cold becomes fatal very quickly.",
+      "icon": "🧥"
+    },
+    {
+      "label": "small closed communities under strain",
+      "description": "A station population is tiny, isolated, and forced to live together for months, so private tensions, old grievances, and frayed nerves become part of the landscape. What you'll see: narrow corridors, mess halls, shared bunks, cabin fever, gossip, and people reading every glance for signs of loyalty or fear.",
+      "icon": "🛏️"
+    },
+    {
+      "label": "science work overshadowed by harsh elements",
+      "description": "The continent is entered in the name of research and observation, yet the labor of keeping bodies warm and machinery running often outweighs lofty scientific purpose. What you'll see: laboratories beside utility rooms, weather instruments, doctors and mechanics as essential figures, and research interrupted by storms, injuries, and breakdowns.",
+      "icon": "🔬"
+    }
+  ]
+}

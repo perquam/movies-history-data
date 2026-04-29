@@ -1,0 +1,76 @@
+{
+  "id": "future-world",
+  "label": "Future World",
+  "aliases": [
+    "The Future",
+    "Far Future",
+    "Post-Contemporary Era",
+    "Tomorrow's World",
+    "The World Ahead"
+  ],
+  "time_range": {
+    "start_year": 2031,
+    "end_year": 99999,
+    "label": "2031 to 99999"
+  },
+  "headline": "Everything after now — the part of history that hasn't been written yet, where every fear and every hope gets projected onto a screen and played back at full volume.",
+  "epoch_summary": "A canvas stretching from next Tuesday to the heat death of the universe, holding every version of tomorrow filmmakers have ever imagined — cities that float, cities that burn, plagues that thin the species to nothing, machines that outgrow their makers, stars that become destinations, and silence that swallows everything when the last light goes out.",
+  "regions": [
+    {
+      "region_name": "Africa",
+      "description_of_an_epoch_in_the_region": "The continent that got strip-mined for centuries finally writes its own future. In some visions it leads — megacities rising from the Sahel, technology leapfrogging the old world, Pan-African federations speaking with one voice. In darker ones the extraction just changes hands: water wars, climate collapse, corporate colonies wearing new flags. Either way, the old Western habit of ignoring this continent doesn't survive contact with tomorrow."
+    },
+    {
+      "region_name": "Antarctica",
+      "description_of_an_epoch_in_the_region": "The ice melts or it doesn't. If it melts, there's a land rush — research bases become towns, towns become territorial claims, and the last empty continent on Earth gets carved up like every one before it. If it doesn't, it stays what it's always been: the loneliest place on the planet, useful for hiding things you don't want found."
+    },
+    {
+      "region_name": "Asia",
+      "description_of_an_epoch_in_the_region": "The center of gravity it already was, amplified. Neon-soaked megacities stacked forty floors deep, surveillance states that know what you'll do before you do it, ancient cultures wrestling with artificial minds that have no culture at all. The Pacific Rim becomes the stage where the big questions get answered first — not because the West gave permission, but because it got there faster. Temples sit in the shadow of orbital elevators and somehow both still make sense."
+    },
+    {
+      "region_name": "Europe",
+      "description_of_an_epoch_in_the_region": "The old continent ages. Sometimes gracefully — cobblestone streets with quiet automation humming underneath, democratic traditions adapting to a world that moves too fast for votes. Sometimes badly — fortress borders, demographic collapse, museums of a greatness that packed up and moved east. Europe in the future is almost always a place that used to matter more than it does now, and knows it, and that knowledge makes it either wise or bitter."
+    },
+    {
+      "region_name": "North America",
+      "description_of_an_epoch_in_the_region": "The default setting for the end of the world and the invention of the next one. Hollowed-out suburbs reclaimed by forest, walled cities where the rich breathe filtered air, dustbowl highways leading nowhere, gleaming corporate campuses that function as their own nations. America in the future is always eating itself or reinventing itself, often both at once. Canada and Mexico exist mostly as the places people flee to or from, depending on which way the collapse is leaning."
+    },
+    {
+      "region_name": "Oceania",
+      "description_of_an_epoch_in_the_region": "The Pacific Islands face the ocean rising to meet them. Australia bakes or adapts — inland deserts spreading, coastlines retreating, a country deciding whether to dig in or look up. New Zealand becomes the bunker of choice for billionaires who think money buys survival. The smaller islands become the first places the future erases from the map entirely, and nobody with power does much about it."
+    },
+    {
+      "region_name": "South America",
+      "description_of_an_epoch_in_the_region": "The Amazon is either the last lung the planet has left or a memory — a brown scar where green used to be. The continent swings between lush solarpunk futures where it figured out what nobody else could and brutal extractive nightmares where it didn't. Favelas go vertical and get wired. Jungles get fenced and monetized. Revolutions still happen here — they just come with drones now."
+    },
+    {
+      "region_name": "Atlantic Ocean",
+      "description_of_an_epoch_in_the_region": "Warmer, higher, angrier. Shipping lanes reroute, hurricanes get names nobody wants to remember, and the coastlines that defined civilization for five thousand years start to blur. Somewhere under the surface, cables still carry the world's data — or whatever replaced it."
+    },
+    {
+      "region_name": "Pacific Ocean",
+      "description_of_an_epoch_in_the_region": "The biggest thing on the planet becomes a highway, a graveyard, and a mine. Floating cities, plastic continents, deep-sea harvesting rigs pulling up metals from vents that have been boiling since before life existed. The Pacific doesn't care about any of it. It was here before people and it'll be here after."
+    },
+    {
+      "region_name": "Indian Ocean",
+      "description_of_an_epoch_in_the_region": "Monsoons that don't follow the old rules anymore. Trade routes that now connect the two biggest economies on Earth — or whatever those economies became. The water warms and the coral dies and the fishermen who fed a billion people start coming home with empty nets."
+    },
+    {
+      "region_name": "Southern Ocean",
+      "description_of_an_epoch_in_the_region": "The ring of water around Antarctica gets warmer and the currents that kept the whole planet's climate in check start to stutter. Most futures treat it as a backdrop — grey, enormous, indifferent."
+    },
+    {
+      "region_name": "Arctic Ocean",
+      "description_of_an_epoch_in_the_region": "The ice opens and suddenly it's the shortest route between everywhere. Nations that spent centuries ignoring the top of the map start planting flags on the seabed. A frozen nothing becomes a shipping lane, a battlefield, and a resource grab — all because it stopped being frozen."
+    },
+    {
+      "region_name": "FICTIONAL",
+      "description_of_an_epoch_in_the_region": "This is where the guardrails come off entirely. Space stations with their own governments. Generation ships drifting between stars for centuries. Planets terraformed into someone's idea of paradise. Virtual worlds more real than the physical one. Post-human civilizations that don't remember what a body felt like. The settings aren't real but the anxieties are — every invented future is just the present with the volume turned up and the safety nets removed."
+    },
+    {
+      "region_name": "UNKNOWN",
+      "description_of_an_epoch_in_the_region": "A corridor that could be anywhere. A sky the wrong color. Technology that looks thirty years away or three hundred — hard to tell. The future is the easiest era to leave geographically vague because the whole point is that the familiar has been stripped away. If the world feels slightly off, slightly too clean or too broken, slightly emptied of something you can't name — it belongs here."
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "epoch": "legendary-past",
+  "continent": "asia",
+  "sample_size": 1,
+  "sample": [
+    {
+      "title": "Doraemon the Movie: Nobita and the Birth of Japan",
+      "years": "-70000..2100",
+      "countries": [
+        "JP",
+        "FICTIONAL"
+      ],
+      "plot": "Doraemon and friends trying to save a boy name Kukuru and his tribe from Gigazombie who want to change history for his own sake in the ancient times."
+    }
+  ],
+  "categories": [
+    {
+      "label": "small tribes living by kin and custom",
+      "description": "People belong first to a clan or village band, with safety, marriage, and duty governed by elders and inherited custom rather than written law. What you'll see: huts and encampments, councils of elders, shared food and labour, and strangers treated with caution or ritual welcome.",
+      "icon": "🛖"
+    },
+    {
+      "label": "wild land pressing close to settlement",
+      "description": "Human communities occupy only small clearings within a much larger world of forests, mountains, rivers, and untamed coasts that still rules the pace of life. What you'll see: deep woods, caves, rough tracks, sudden storms, animal threats, and villages that seem fragile beside the landscape.",
+      "icon": "🌲"
+    },
+    {
+      "label": "stone tools beside early craft skills",
+      "description": "Daily work depends on simple hand tools, fire, pottery, weaving, and other basic crafts made close to home with little separation between maker and user. What you'll see: chipped blades, hearths, clay vessels, hides and woven cloth, hand-built shelters, and people shaping what they need from wood, bone, and stone.",
+      "icon": "🏺"
+    },
+    {
+      "label": "survival tied to hunting and gathering",
+      "description": "Food comes from the seasons, the movement of animals, and local knowledge of plants, so hunger and plenty are always near each other. What you'll see: foraging, trapping, fishing, shared butchering, stores of roots and berries, and constant attention to weather, water, and game.",
+      "icon": "🏹"
+    },
+    {
+      "label": "spirits and marvels woven into nature",
+      "description": "The world is understood as alive with unseen powers, so mountains, beasts, strange places, and unusual events carry sacred or fearful meaning. What you'll see: reverence toward notable creatures and places, ritual gestures, taboos, omens, and wonders treated as part of the order of things.",
+      "icon": "🐉"
+    },
+    {
+      "label": "chiefs holding power through personal loyalty",
+      "description": "Authority rests in the strength, wisdom, or sacred standing of a local leader rather than in lasting offices or far-reaching state rule. What you'll see: followers gathered around a chief, disputes settled face to face, gifts and promises binding people together, and leadership tested in moments of danger.",
+      "icon": "👑"
+    },
+    {
+      "label": "migration and settlement still remaking the land",
+      "description": "Peoples are still moving, splitting, and founding new homes, so territory is not fixed and the map of who belongs where remains unsettled. What you'll see: journeys into unknown country, newly cleared living places, rival claims over hunting grounds, and encounters between neighbouring tribes.",
+      "icon": "🚶"
+    },
+    {
+      "label": "memory kept by tale and spoken lineage",
+      "description": "The past survives through storytelling, names, and ritual remembrance because there are no records to fix events in writing. What you'll see: fireside tales, elders reciting origins, warnings preserved as legend, and community identity tied to remembered ancestors.",
+      "icon": "🗣️"
+    },
+    {
+      "label": "healing mixed with herb lore and rite",
+      "description": "Illness and injury are met with practical remedies, prayer, and ritual acts, since bodily harm and spiritual danger are not sharply separated. What you'll see: gathered herbs, tending by hand, chants and charms, protective ceremonies, and healers working beside family members.",
+      "icon": "🌿"
+    },
+    {
+      "label": "outside powers appearing as uncanny intrusions",
+      "description": "In a legendary past, anything beyond the tribe's known world can arrive as something frighteningly advanced, godlike, or unnatural against the simplicity of ordinary life. What you'll see: awe before strange devices or powers, sacred and fearful reactions to the unfamiliar, and old ways thrown into confusion by wonders.",
+      "icon": "🌠"
+    }
+  ]
+}

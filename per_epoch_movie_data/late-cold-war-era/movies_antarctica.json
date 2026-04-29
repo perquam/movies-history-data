@@ -1,0 +1,35 @@
+[
+  {
+    "movie_id": 60935,
+    "movie_idx": 1850,
+    "imdb_id": "tt0905372",
+    "title": "The Thing",
+    "production_year": "2011",
+    "genre": "Horror, Mystery, Sci-Fi",
+    "plot": "Paleontologist Kate Lloyd is invited by Dr. Sandor Halvorson to join his team who have found something extraordinary. Deep below the Antarctic ice, they have found an alien spacecraft that has been there for perhaps 100,000 years. Not far from where the craft landed, they find the remains of the occupant. It's cut out of the ice and taken back to their camp but as the ice melts, the creature reanimates and not only begins to attack them but manages to infect them, with team members devolving into the alien creature.",
+    "runtime": "103 min",
+    "director": "Matthijs van Heijningen Jr.",
+    "actors": "Mary Elizabeth Winstead, Joel Edgerton, Ulrich Thomsen",
+    "production_country": "United States, Canada",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTMxMjI0MzUyNl5BMl5BanBnXkFtZTcwNjc1NzE5NQ@@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/60935.webp",
+    "imdb_rating": "6.2",
+    "imdb_votes": "153,684",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Thing_(2011_film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/60935.txt",
+    "plot_year_start": 1982,
+    "plot_year_end": 1982,
+    "epoch": "late-cold-war-era",
+    "action_countries": [
+      "AQ"
+    ],
+    "action_continents": [
+      "Antarctica"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "failures": {
+      "categories": "missing_category_list"
+    }
+  }
+]

@@ -1,0 +1,303 @@
+[
+  {
+    "movie_id": 12155,
+    "movie_idx": 700,
+    "imdb_id": "tt1014759",
+    "title": "Alice in Wonderland",
+    "production_year": "2010",
+    "genre": "Adventure, Family, Fantasy",
+    "plot": "Alice, an unpretentious and individual 19-year-old, is betrothed to a dunce of an English nobleman. At her engagement party, she escapes the crowd to consider whether to go through with the marriage and falls down a hole in the garden after spotting an unusual rabbit. Arriving in a strange and surreal place called \"Underland,\" she finds herself in a world that resembles the nightmares she had as a child, filled with talking animals, villainous queens and knights, and frumious bandersnatches. Alice realizes that she is there for a reason--to conquer the horrific Jabberwocky and restore the rightful queen to her throne.",
+    "runtime": "108 min",
+    "director": "Tim Burton",
+    "actors": "Mia Wasikowska, Johnny Depp, Helena Bonham Carter",
+    "production_country": "United States, Italy, Canada, Japan, United Kingdom",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYjgxMTQ3NjMtOTI1Yy00Yzg4LWJlNWQtMjFkNjVlYjU0OWIyXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/12155.webp",
+    "imdb_rating": "6.4",
+    "imdb_votes": "464,214",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Alice_in_Wonderland_(2010_film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/12155.txt",
+    "plot_year_start": 1890,
+    "plot_year_end": 1890,
+    "epoch": "industrial-age",
+    "action_countries": [
+      "FICTIONAL"
+    ],
+    "action_continents": [
+      "FICTIONAL"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "failures": {
+      "categories": "missing_category_list"
+    }
+  },
+  {
+    "movie_id": 10515,
+    "movie_idx": 1223,
+    "imdb_id": "tt0092067",
+    "title": "Castle in the Sky",
+    "production_year": "1986",
+    "genre": "Animation, Adventure, Family",
+    "plot": "A young boy stumbles into a mysterious girl who floats down from the sky. The girl, Sheeta, was chased by pirates, army and government secret agents. In saving her life, they begin a high flying adventure that goes through all sorts of flying machines, eventually searching for Sheeta's identity in a floating castle of a lost civilization.",
+    "runtime": "124 min",
+    "director": "Hayao Miyazaki",
+    "actors": "Mayumi Tanaka, Keiko Yokozawa, Kotoe Hatsui",
+    "production_country": "Japan",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZjcyMjg2MzktNjg4YS00MjQzLTg0YWQtMjUyZDk2Y2Y0YzZjXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/10515.webp",
+    "imdb_rating": "8.0",
+    "imdb_votes": "196,825",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Castle_in_the_Sky",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/10515.txt",
+    "plot_year_start": 1860,
+    "plot_year_end": 1890,
+    "epoch": "industrial-age",
+    "action_countries": [
+      "FICTIONAL"
+    ],
+    "action_continents": [
+      "FICTIONAL"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "failures": {
+      "categories": "missing_category_list"
+    }
+  },
+  {
+    "movie_id": 241259,
+    "movie_idx": 2326,
+    "imdb_id": "tt2567026",
+    "title": "Alice Through the Looking Glass",
+    "production_year": "2016",
+    "genre": "Adventure, Family, Fantasy",
+    "plot": "Alice returns to the magical world of Underland, only to find the Hatter in a horrible state. With the help of her friends, Alice must travel through time to save the Mad Hatter and Underland's fate from the evil clutches of the Red Queen and a clock like creature, known as Time.",
+    "runtime": "113 min",
+    "director": "James Bobin",
+    "actors": "Mia Wasikowska, Johnny Depp, Helena Bonham Carter",
+    "production_country": "United States, Thailand, United Kingdom, India, Canada",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTc2NjExMTIyN15BMl5BanBnXkFtZTgwMjg0OTIwODE@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/241259.webp",
+    "imdb_rating": "6.2",
+    "imdb_votes": "133,655",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Alice_Through_the_Looking_Glass_(2016_film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/241259.txt",
+    "plot_year_start": 1875,
+    "plot_year_end": 1875,
+    "epoch": "industrial-age",
+    "action_countries": [
+      "FICTIONAL",
+      "GB"
+    ],
+    "action_continents": [
+      "FICTIONAL",
+      "Europe"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "failures": {
+      "categories": "missing_category_list"
+    }
+  },
+  {
+    "movie_id": 5689,
+    "movie_idx": 2601,
+    "imdb_id": "tt0080453",
+    "title": "The Blue Lagoon",
+    "production_year": "1980",
+    "genre": "Adventure, Drama, Romance",
+    "plot": "On a journey to San Francisco, Richard, his father and cousin Emmeline find themselves on a ship about to explode. Rushed to a lifeboat with Paddy Button, the two children escape while their father (and uncle) are on another lifeboat. In the chaos following, the lifeboats are separated. Paddy, Richard and Emmeline find themselves with no food and no water stuck in the middle of nowhere. After some time, the three come across an uncharted paradise, where Paddy quickly teaches the children fishing, hunting and building. After maybe a month or two, Paddy gets very drunk off a barrel of rum found on the island when they first arrive, and drowns in the middle of the night. Emmeline and Richard, now alone and very scared, move location and rebuild their island home. Many years later, the two young teenagers have developed a very real home, but hormones and feelings between the two strain their friendship, until Richard, who is still very determined to reach San Francisco, is let down by Emmeline when a ship passes by the island and she does not light the signal fire. Throwing her out of the home they had built together, Emmeline attempts to survive on her own but is hurt. After Richard finds her dying, he realizes how he really feels for her and manages to save her. Nature runs its course and their friendship turns into love as the couple learn about the facts of life, when Emmeline has a baby and does not understand why.",
+    "runtime": "104 min",
+    "director": "Randal Kleiser",
+    "actors": "Brooke Shields, Christopher Atkins, Leo McKern",
+    "production_country": "United States, Fiji, Jamaica",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYWJiNTViMTUtNzAwNy00OGNkLWI2NzQtYWFiNTBmMjA4ODI0XkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/5689.webp",
+    "imdb_rating": "5.8",
+    "imdb_votes": "82,702",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Blue_Lagoon_(1980_film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/5689.txt",
+    "plot_year_start": 1890,
+    "plot_year_end": 1890,
+    "epoch": "industrial-age",
+    "action_countries": [
+      "FICTIONAL"
+    ],
+    "action_continents": [
+      "FICTIONAL"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "failures": {
+      "categories": "missing_category_list"
+    }
+  },
+  {
+    "movie_id": 170687,
+    "movie_idx": 4266,
+    "imdb_id": "tt0787474",
+    "title": "The Boxtrolls",
+    "production_year": "2014",
+    "genre": "Animation, Adventure, Comedy",
+    "plot": "THE BOXTROLLS are a community of quirky, mischievous creatures who have lovingly raised an orphaned human boy named Eggs in the amazing cavernous home they've built beneath the streets of a city called Cheesebridge. The story is about a young orphaned boy raised by underground cave-dwelling trash collectors who tries to save his friends from an evil exterminator, the town's villain, Archibald Snatcher. When Snatcher comes up with a plot to get rid of the Boxtrolls. Eggs decides to venture above ground and \"into the light,\" where he meets and teams up with fabulously feisty Winnie. Together, they devise a daring plan to save The BoxTrolls family. The film is based upon the children's novel 'Here Be Monsters' by Alan Snow.",
+    "runtime": "96 min",
+    "director": "Graham Annable, Anthony Stacchi",
+    "actors": "Ben Kingsley, Jared Harris, Nick Frost",
+    "production_country": "United States, Canada",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTQxODA5MDkyNV5BMl5BanBnXkFtZTgwMDMyNjkzMjE@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/170687.webp",
+    "imdb_rating": "6.8",
+    "imdb_votes": "64,639",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Boxtrolls",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/170687.txt",
+    "plot_year_start": 1897,
+    "plot_year_end": 1897,
+    "epoch": "industrial-age",
+    "action_countries": [
+      "FICTIONAL"
+    ],
+    "action_continents": [
+      "FICTIONAL"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "failures": {
+      "categories": "missing_category_list"
+    }
+  },
+  {
+    "movie_id": 227707,
+    "movie_idx": 7305,
+    "imdb_id": "tt1376213",
+    "title": "The Adventurer: The Curse of the Midas Box",
+    "production_year": "2013",
+    "genre": "Adventure, Family, Fantasy",
+    "plot": "Ancient mysteries. Powerful evil. And a fearless hero's quest through a fantastical realm of steam-powered wonders and sinister magic... In THE ADVENTURER: THE CURSE OF THE MIDAS BOX, seventeen-year-old Mariah Mundi's life is turned upside down when his parents vanish and his younger brother is kidnapped. Following a trail of clues to the darkly majestic Prince Regent Hotel, Mariah discovers a hidden realm of child-stealing monsters, deadly secrets and a long-lost artifact that grants limitless wealth - but also devastating supernatural power. With the fate of his world, and his family at stake, Mariah will risk everything to unravel the Curse of the Midas Box!",
+    "runtime": "100 min",
+    "director": "Jonathan Newman",
+    "actors": "Aneurin Barnard, Michael Sheen, Lena Headey",
+    "production_country": "United Kingdom, Spain, Belgium",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNTAwODA2NDUxMF5BMl5BanBnXkFtZTgwNTgyNDc1MDE@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/227707.webp",
+    "imdb_rating": "5.5",
+    "imdb_votes": "7,324",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Adventurer:_The_Curse_of_the_Midas_Box",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/227707.txt",
+    "plot_year_start": 1887,
+    "plot_year_end": 1887,
+    "epoch": "industrial-age",
+    "action_countries": [
+      "FICTIONAL",
+      "EG"
+    ],
+    "action_continents": [
+      "FICTIONAL",
+      "Africa"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "failures": {
+      "categories": "missing_category_list"
+    }
+  },
+  {
+    "movie_id": 575094,
+    "movie_idx": 8007,
+    "imdb_id": "tt7025388",
+    "title": "Abigail",
+    "production_year": "2019",
+    "genre": "Action, Adventure, Family",
+    "plot": "A young girl Abigail lives in a city whose borders were closed many years ago because of an epidemic of a mysterious disease. Abby's father was one of the sick - and he was taken when she was six years old. Going against the authorities to find her father, Abby learns that her city is actually full of magic. And she discovers in herself extraordinary magical abilities.",
+    "runtime": "110 min",
+    "director": "Aleksandr Boguslavskiy",
+    "actors": "Tinatin Dalakishvili, Gleb Bochkov, Artyom Tkachenko",
+    "production_country": "Russia",
+    "poster": "https://m.media-amazon.com/images/M/MV5BOTQ0ZTQyMzAtZmU5Mi00ZGVjLWE0NzgtYTUwZGI0ZTQzNTAwXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/575094.webp",
+    "imdb_rating": "4.8",
+    "imdb_votes": "4,871",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Abigail_(2019_film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/575094.txt",
+    "plot_year_start": 1910,
+    "plot_year_end": 1910,
+    "epoch": "industrial-age",
+    "action_countries": [
+      "FICTIONAL"
+    ],
+    "action_continents": [
+      "FICTIONAL"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "failures": {
+      "categories": "missing_category_list"
+    }
+  },
+  {
+    "movie_id": 449459,
+    "movie_idx": 8240,
+    "imdb_id": "tt9054380",
+    "title": "The Vanishing Princess",
+    "production_year": "2019",
+    "genre": "Short, Comedy, Drama",
+    "plot": "On a theatre stage, a princess lives alone in a tower. When two soldiers happen upon her, they are intrigued by how little she knows or needs. A darkly comedic tale about a woman who discovers she exists.",
+    "runtime": "15 min",
+    "director": "Makenzie Leigh",
+    "actors": "Santino Fontana, Victoria Hamilton, Makenzie Leigh",
+    "production_country": "United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZWUwYjJmOGUtMjc0ZS00ZDM0LThiNzctNzljNzdkNjg0NjgxXkEyXkFqcGdeQXVyNDIzNjk2ODU@._V1_SX300.jpg",
+    "imdb_rating": "7.9",
+    "imdb_votes": "14",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Vanishing_(2018_film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/449459.txt",
+    "plot_year_start": 1900,
+    "plot_year_end": 1900,
+    "epoch": "industrial-age",
+    "action_countries": [
+      "FICTIONAL"
+    ],
+    "action_continents": [
+      "FICTIONAL"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "failures": {
+      "poster": "poster_download_failed",
+      "categories": "missing_category_list"
+    }
+  },
+  {
+    "movie_id": 135812,
+    "movie_idx": 8696,
+    "imdb_id": "tt1852770",
+    "title": "Dracula 3D",
+    "production_year": "2012",
+    "genre": "Drama, Horror, Romance",
+    "plot": "Asia Argento stars in horror legend Dario Argento's sexy spin on the classic tale about the sharp-toothed count who craves human blood.",
+    "runtime": "110 min",
+    "director": "Dario Argento",
+    "actors": "Thomas Kretschmann, Marta Gastini, Asia Argento",
+    "production_country": "Italy, France, Spain",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTUwOTg2Mjg1NV5BMl5BanBnXkFtZTgwODAzMzcyMDE@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/135812.webp",
+    "imdb_rating": "3.6",
+    "imdb_votes": "5,503",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Dracula_3D",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/135812.txt",
+    "plot_year_start": 1897,
+    "plot_year_end": 1897,
+    "epoch": "industrial-age",
+    "action_countries": [
+      "FICTIONAL"
+    ],
+    "action_continents": [
+      "FICTIONAL"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "failures": {
+      "categories": "missing_category_list"
+    }
+  }
+]

@@ -1,0 +1,785 @@
+[
+  {
+    "movie_id": 246655,
+    "movie_idx": 947,
+    "imdb_id": "tt3385516",
+    "title": "X-Men: Apocalypse",
+    "production_year": "2016",
+    "genre": "Action, Adventure, Sci-Fi",
+    "plot": "Since the dawn of civilization, he was worshiped as a god. Apocalypse, the first and most powerful mutant from Marvel's X-Men universe, amassed the powers of many other mutants, becoming immortal and invincible. Upon awakening after thousands of years, he is disillusioned with the world as he finds it and recruits a team of powerful mutants, including a disheartened Magneto, to cleanse mankind and create a new world order, over which he will reign. As the fate of the Earth hangs in the balance, Raven with the help of Professor X must lead a team of young X-Men to stop their greatest nemesis and save mankind from complete destruction.",
+    "runtime": "144 min",
+    "director": "Bryan Singer",
+    "actors": "James McAvoy, Michael Fassbender, Jennifer Lawrence",
+    "production_country": "United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNjVhNWY3NjItNmZjOS00NTU3LWFiZTctNzdjNGM5Y2Y0MDUwXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/246655.webp",
+    "imdb_rating": "6.8",
+    "imdb_votes": "489,702",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/X-Men:_Apocalypse",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/246655.txt",
+    "plot_year_start": 1983,
+    "plot_year_end": 1983,
+    "epoch": "late-cold-war-era",
+    "action_countries": [
+      "EG",
+      "PL",
+      "DE",
+      "GB",
+      "US"
+    ],
+    "action_continents": [
+      "Africa",
+      "Europe",
+      "Europe",
+      "Europe",
+      "North America"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Marvel's X-Men Universe",
+    "categories": [
+      {
+        "label": "foreign powers working through local regimes",
+        "description": "Cold War rivalry and older imperial habits keep outside states deeply involved through advisers, arms, trade, intelligence, and favored rulers. What you'll see: expatriate compounds, foreign accents in cabinet rooms, imported weapons, embassy channels, and local crises shaped by distant capitals.",
+        "icon": "🕵️"
+      }
+    ]
+  },
+  {
+    "movie_id": 40132,
+    "movie_idx": 1012,
+    "imdb_id": "tt0076878",
+    "title": "Emanuelle and the White Slave Trade",
+    "production_year": "1978",
+    "genre": "Drama, Horror",
+    "plot": "While attempting to interview an elusive gangster, photojournalist Emanuelle notices a man pushing a girl in a wheelchair through the airport. Later, in another country she sees the same man and the girl up and walking. Intrigued, she does a bit of investigating and uncovers an organization dealing in the buying and selling of young women. She goes undercover into the organization but finds that getting out again could cost her her career...and her life.",
+    "runtime": "88 min",
+    "director": "Joe D'Amato",
+    "actors": "Laura Gemser, Ely Galleani, Gabriele Tinti",
+    "production_country": "Italy",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYjVmNDg2NjYtYTE3MS00YTYyLTlmNzktMmRhZGIzZThkOTZjXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/40132.webp",
+    "imdb_rating": "4.4",
+    "imdb_votes": "890",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Emanuelle_and_the_White_Slave_Trade",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/40132.txt",
+    "plot_year_start": 1978,
+    "plot_year_end": 1978,
+    "epoch": "late-cold-war-era",
+    "action_countries": [
+      "KE",
+      "US",
+      "IT"
+    ],
+    "action_continents": [
+      "Africa",
+      "North America",
+      "Europe"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "smuggling routes for people and contraband",
+        "description": "Weak borders, war, and want create routes that carry refugees, poached goods, trafficked women, and clandestine passengers across seas, deserts, and frontiers. What you'll see: false papers, lorries on back roads, hidden rooms, fishing boats and cargo craft, bribed officials, and night crossings.",
+        "icon": "🚚"
+      }
+    ]
+  },
+  {
+    "movie_id": 2164,
+    "movie_idx": 2723,
+    "imdb_id": "tt0111282",
+    "title": "Stargate",
+    "production_year": "1994",
+    "genre": "Action, Adventure, Sci-Fi",
+    "plot": "In 1928, in Egypt, a strange device is found by an expedition. In the present days, the outcast linguist Dr. Daniel Jackson is invited by a mysterious woman to decipher an ancient hieroglyph in a military facility. Soon he finds that the device was developed by an advanced civilization and opens a portal to teletransport to another planet. Dr. Jackson is invited to join a military team under the command of Colonel Jonathan 'Jack' O'Neil that will explore the new world. They find a land that recalls Egypt and humans in a primitive culture that worship and are slaves to Ra, the God of the Sun. But soon they discover the secret of the mysterious \"stargate\".",
+    "runtime": "121 min",
+    "director": "Roland Emmerich",
+    "actors": "Kurt Russell, James Spader, Jaye Davidson",
+    "production_country": "France, United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNGRmZmNhMTctZTBiMy00ZmJhLWE3MmMtMDNmZWRkZjczMGVkXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/2164.webp",
+    "imdb_rating": "7.0",
+    "imdb_votes": "217,810",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Stargate_(film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/2164.txt",
+    "plot_year_start": 1928,
+    "plot_year_end": 1994,
+    "epoch": "late-cold-war-era",
+    "action_countries": [
+      "EG",
+      "US"
+    ],
+    "action_continents": [
+      "Africa",
+      "North America"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "airports and airfields as front lines",
+        "description": "Long distances and weak overland links make aircraft vital, while hijackings, rescues, and covert departures turn runways into political ground. What you'll see: old terminals, prop planes and passenger jets, control towers, military transports, runway floodlights, and tense waits on the tarmac.",
+        "icon": "🛬"
+      }
+    ]
+  },
+  {
+    "movie_id": 7364,
+    "movie_idx": 3460,
+    "imdb_id": "tt0318649",
+    "title": "Sahara",
+    "production_year": "2005",
+    "genre": "Action, Adventure, Comedy",
+    "plot": "Retired US admiral Sandecker's foundation finances various projects worldwide, including high tech marine salvage by brilliant Dirk Pitt's US Navy Seal veterans team including buddy Al Giordino, which dreams of finding the mysteriously missing Confederal gold aboard the ironclad battleship 'of Death'. Pitts bumps into evidence for his theory it crossed the Atlantic up the river Niger, where the admiral has an environmental project. Alas, it's a West African dictatorship where the ruthless president suppresses the desert people, in league with billionaire French energy industrialist Yves Massarde. Saving reckless WHO epidemics researcher Dr. Eva Rojas, he learns the secret abducted tribal slaves-run waste plant's toxic output threatens, through an underground fluvial system, to pollute the ocean and hence cause a global killer epidemic.",
+    "runtime": "124 min",
+    "director": "Breck Eisner",
+    "actors": "Matthew McConaughey, Penélope Cruz, Steve Zahn",
+    "production_country": "United Kingdom, France, Germany, Spain, United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjExOTM4NDUzNV5BMl5BanBnXkFtZTcwOTgzNzczMw@@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/7364.webp",
+    "imdb_rating": "6.1",
+    "imdb_votes": "108,721",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Sahara_(2005_film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/7364.txt",
+    "plot_year_start": 1965,
+    "plot_year_end": 1965,
+    "epoch": "late-cold-war-era",
+    "action_countries": [
+      "ML",
+      "NG",
+      "UNKNOWN"
+    ],
+    "action_continents": [
+      "Africa",
+      "Africa",
+      "UNKNOWN"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "foreign powers working through local regimes",
+        "description": "Cold War rivalry and older imperial habits keep outside states deeply involved through advisers, arms, trade, intelligence, and favored rulers. What you'll see: expatriate compounds, foreign accents in cabinet rooms, imported weapons, embassy channels, and local crises shaped by distant capitals.",
+        "icon": "🕵️"
+      },
+      {
+        "label": "desert and bush beyond state reach",
+        "description": "Large stretches of Kalahari, savannah, and scrub lie far from firm government control, where local custom matters more than official rule. What you'll see: tracking on dry ground, isolated wells, hunting and herding, rough tracks, scattered homesteads, and sudden encounters with trucks or aircraft.",
+        "icon": "🏜️"
+      }
+    ]
+  },
+  {
+    "movie_id": 8393,
+    "movie_idx": 3566,
+    "imdb_id": "tt0080801",
+    "title": "The Gods Must Be Crazy",
+    "production_year": "1980",
+    "genre": "Adventure, Comedy",
+    "plot": "A Sho in the Kalahari desert encounters technology for the first time--in the shape of a Coke bottle. He takes it back to his people, and they use it for many tasks. The people start to fight over it, so he decides to return it to the God--where he thinks it came from. Meanwhile, we are introduced to a clumsy biologist, a schoolteacher assigned to a small village, and a despotic revolutionary.",
+    "runtime": "109 min",
+    "director": "Jamie Uys",
+    "actors": "Marius Weyers, Sandra Prinsloo, N!xau",
+    "production_country": "South Africa, Botswana",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMDUzNmJjOTEtMmNhZi00YTY1LTg0MTQtOTkwNjFkNjZjMDU5XkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/8393.webp",
+    "imdb_rating": "7.3",
+    "imdb_votes": "62,276",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Gods_Must_Be_Crazy",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/8393.txt",
+    "plot_year_start": 1980,
+    "plot_year_end": 1980,
+    "epoch": "late-cold-war-era",
+    "action_countries": [
+      "BW",
+      "NA"
+    ],
+    "action_continents": [
+      "Africa",
+      "Africa"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "desert and bush beyond state reach",
+        "description": "Large stretches of Kalahari, savannah, and scrub lie far from firm government control, where local custom matters more than official rule. What you'll see: tracking on dry ground, isolated wells, hunting and herding, rough tracks, scattered homesteads, and sudden encounters with trucks or aircraft.",
+        "icon": "🏜️"
+      },
+      {
+        "label": "old custom meeting imported goods",
+        "description": "Many communities live within older rhythms of kinship and custom while outside goods, machines, and habits arrive unevenly and alter relations. What you'll see: bottles and radios treated as novelties, barter beside cash purchase, village gatherings, handmade tools next to engines, and comic or painful misunderstanding.",
+        "icon": "📻"
+      }
+    ]
+  },
+  {
+    "movie_id": 1523,
+    "movie_idx": 4327,
+    "imdb_id": "tt0455590",
+    "title": "The Last King of Scotland",
+    "production_year": "2006",
+    "genre": "Biography, Drama, History",
+    "plot": "Having graduated recently from the University of Edinburgh, the Scottish doctor, Nicholas Garrigan, flies to Uganda to work at a missionary clinic run by Dr David Merrit and his wife, Sarah. Before long, Garrigan has a chance encounter with the new President, General Idi Amin, who, right from the start, feels an immediate sympathy for him. As one thing leads to another, after a while, Idi Amin invites Nicholas to become his physician and modernise Uganda's health care system: a once-in-a-lifetime offer that the doctor cannot refuse. However, more and more, Garrigan finds himself trapped in the moral abyss of Idi Amin's murderous megalomania, putting his very soul at risk. When Nicholas finally summons up the courage to rise above the madness, he becomes embroiled in a desperate fight for survival.",
+    "runtime": "123 min",
+    "director": "Kevin Macdonald",
+    "actors": "James McAvoy, Forest Whitaker, Gillian Anderson",
+    "production_country": "United Kingdom, Germany, United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZDg4NjA0YzctNWMzMi00NmY1LTkyMGYtZjI4ZjFmZjMzMGE0XkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/1523.webp",
+    "imdb_rating": "7.6",
+    "imdb_votes": "203,023",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Last_King_of_Scotland_(film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/1523.txt",
+    "plot_year_start": 1970,
+    "plot_year_end": 1979,
+    "epoch": "late-cold-war-era",
+    "action_countries": [
+      "UG",
+      "GB",
+      "SA"
+    ],
+    "action_continents": [
+      "Africa",
+      "Europe",
+      "Asia"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "new nations under strongman rule",
+        "description": "Across much of the continent, recently independent states are marked by personal rule, military men in office, and governments that treat the state as the property of one circle. What you'll see: presidential motorcades, uniforms in government buildings, portraits of rulers, sudden decrees, and fear around official notice.",
+        "icon": "🪖"
+      },
+      {
+        "label": "mission clinics and thin public services",
+        "description": "Health care, schooling, and administration are often patchy, with missionary stations, aid projects, and a few overstretched officials filling the gaps. What you'll see: rural dispensaries, crowded wards, chalkboards in village schools, battered Land Rovers, and long journeys for basic treatment.",
+        "icon": "🩺"
+      }
+    ]
+  },
+  {
+    "movie_id": 823610,
+    "movie_idx": 5536,
+    "imdb_id": "tt8456190",
+    "title": "Seal Team",
+    "production_year": "2021",
+    "genre": "Animation, Action, Comedy",
+    "plot": "After his best friend is killed in a shark attack, Quinn, a lovable yet tenacious seal assembles a SEAL TEAM to fight back against a gang of sharks overtaking the neighborhood. But this merry band of international seals are not at all trained for such a mission. They seek the help of a much more skillful combatant, Claggart, but even his tricks and flips can't whip these guys into shape. However, with a little bit of ingenuity, intelligence and a lot of heart, our SEAL TEAM may actually be able to bring peace back to their undersea community.",
+    "runtime": "101 min",
+    "director": "Greig Cameron, Kane Croudace",
+    "actors": "J.K. Simmons, Dolph Lundgren, Sharlto Copley",
+    "production_country": "South Africa, United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMzFmMTAwNjQtMTcwMC00Nzg4LTg2MzMtNGU3ZGEzYWRlMGU1XkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/823610.webp",
+    "imdb_rating": "5.6",
+    "imdb_votes": "1,897",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Seal_Team_(film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/823610.txt",
+    "plot_year_start": 1980,
+    "plot_year_end": 1981,
+    "epoch": "late-cold-war-era",
+    "action_countries": [
+      "ZA"
+    ],
+    "action_continents": [
+      "Africa"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "desert and bush beyond state reach",
+        "description": "Large stretches of Kalahari, savannah, and scrub lie far from firm government control, where local custom matters more than official rule. What you'll see: tracking on dry ground, isolated wells, hunting and herding, rough tracks, scattered homesteads, and sudden encounters with trucks or aircraft.",
+        "icon": "🏜️"
+      }
+    ]
+  },
+  {
+    "movie_id": 502425,
+    "movie_idx": 5714,
+    "imdb_id": "tt5797184",
+    "title": "Escape from Pretoria",
+    "production_year": "2020",
+    "genre": "Action, Biography, Crime",
+    "plot": "Based on the real-life prison break of two political captives, Escape From Pretoria is a race-against-time thriller set in the tumultuous apartheid days of South Africa.",
+    "runtime": "106 min",
+    "director": "Francis Annan",
+    "actors": "Daniel Radcliffe, Daniel Webber, Ian Hart",
+    "production_country": "United Kingdom, Australia, United States, South Africa, Germany",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYTFmODhiMzMtYjM3MC00MzNjLWEzYjctNzIxZjk2M2JiMDA4XkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/502425.webp",
+    "imdb_rating": "6.8",
+    "imdb_votes": "47,435",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Escape_from_Pretoria",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/502425.txt",
+    "plot_year_start": 1978,
+    "plot_year_end": 1979,
+    "epoch": "late-cold-war-era",
+    "action_countries": [
+      "ZA",
+      "GB",
+      "MZ",
+      "TZ"
+    ],
+    "action_continents": [
+      "Africa",
+      "Europe",
+      "Africa",
+      "Africa"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "apartheid ordering South African life",
+        "description": "In southern Africa, law and police power enforce racial separation in movement, housing, work, schooling, and political rights. What you'll see: passes and checkpoints, segregated streets and institutions, township life under surveillance, prison cells, and the blunt presence of Security Police.",
+        "icon": "⛓️"
+      },
+      {
+        "label": "liberation struggle crossing borders",
+        "description": "Southern Africa is bound together by guerrilla war, exile networks, neighbouring sanctuaries, and states pulled into each other's conflicts. What you'll see: border posts, bush fighting, military patrols, safe houses, coded meetings, and roads where civilians and soldiers meet uneasily.",
+        "icon": "🥾"
+      }
+    ]
+  },
+  {
+    "movie_id": 10603,
+    "movie_idx": 6045,
+    "imdb_id": "tt0119190",
+    "title": "George of the Jungle",
+    "production_year": "1997",
+    "genre": "Action, Adventure, Comedy",
+    "plot": "Baby George got into a plane crash in a jungle, stayed alive and was adopted by a wise ape. Ursula Stanhope, US noble woman is saved from death on safari by grown-up George, and he takes her to jungle to live with him. He slowly learns a rules of human relationships, while Ursula's lover Lyle is looking for her and the one who took her. After they are found, Ursula takes George to the USA.",
+    "runtime": "92 min",
+    "director": "Sam Weisman",
+    "actors": "Brendan Fraser, Leslie Mann, Thomas Haden Church",
+    "production_country": "United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BOWYwMzU2MDgtNTJmNy00MGRjLWI4N2ItNjA2ZGZkMTVjNjhmXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/10603.webp",
+    "imdb_rating": "5.6",
+    "imdb_votes": "88,109",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/George_of_the_Jungle_(film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/10603.txt",
+    "plot_year_start": 1965,
+    "plot_year_end": 1965,
+    "epoch": "late-cold-war-era",
+    "action_countries": [
+      "BI",
+      "US",
+      "UNKNOWN"
+    ],
+    "action_continents": [
+      "Africa",
+      "North America",
+      "UNKNOWN"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "desert and bush beyond state reach",
+        "description": "Large stretches of Kalahari, savannah, and scrub lie far from firm government control, where local custom matters more than official rule. What you'll see: tracking on dry ground, isolated wells, hunting and herding, rough tracks, scattered homesteads, and sudden encounters with trucks or aircraft.",
+        "icon": "🏜️"
+      },
+      {
+        "label": "old custom meeting imported goods",
+        "description": "Many communities live within older rhythms of kinship and custom while outside goods, machines, and habits arrive unevenly and alter relations. What you'll see: bottles and radios treated as novelties, barter beside cash purchase, village gatherings, handmade tools next to engines, and comic or painful misunderstanding.",
+        "icon": "📻"
+      }
+    ]
+  },
+  {
+    "movie_id": 951470,
+    "movie_idx": 6072,
+    "imdb_id": "tt18563148",
+    "title": "Silverton Siege",
+    "production_year": "2022",
+    "genre": "Action, Crime, Drama",
+    "plot": "Following a high speed car chase with the police after a thwarted sabotage mission, the trio end up seeking refuge in a South African bank in Silverton, Pretoria. Taking the bank and its customers hostage and demanding the release of Nelson Mandela in exchange for release of the prisoners, the stakes and tensions run high.",
+    "runtime": "100 min",
+    "director": "Mandla Dube",
+    "actors": "Thabo Rametsi, Arnold Vosloo, Noxolo Dlamini",
+    "production_country": "South Africa",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNDUwZjBiNjYtOTJlMS00Njg5LThhMWQtZTNlMmQwYzZhYjNhXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/951470.webp",
+    "imdb_rating": "6.3",
+    "imdb_votes": "4,726",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Silverton_Siege",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/951470.txt",
+    "plot_year_start": 1980,
+    "plot_year_end": 1980,
+    "epoch": "late-cold-war-era",
+    "action_countries": [
+      "ZA"
+    ],
+    "action_continents": [
+      "Africa"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "apartheid ordering South African life",
+        "description": "In southern Africa, law and police power enforce racial separation in movement, housing, work, schooling, and political rights. What you'll see: passes and checkpoints, segregated streets and institutions, township life under surveillance, prison cells, and the blunt presence of Security Police.",
+        "icon": "⛓️"
+      },
+      {
+        "label": "liberation struggle crossing borders",
+        "description": "Southern Africa is bound together by guerrilla war, exile networks, neighbouring sanctuaries, and states pulled into each other's conflicts. What you'll see: border posts, bush fighting, military patrols, safe houses, coded meetings, and roads where civilians and soldiers meet uneasily.",
+        "icon": "🥾"
+      }
+    ]
+  },
+  {
+    "movie_id": 433627,
+    "movie_idx": 6135,
+    "imdb_id": "tt5466186",
+    "title": "7 Days in Entebbe",
+    "production_year": "2018",
+    "genre": "Action, Drama, History",
+    "plot": "In July 1976, an Air France flight from Tel-Aviv to Paris via Athens was hijacked and forced to land in Entebbe, Uganda. The Jewish passengers were separated and held hostage in demand to release many terrorists held in Israeli prisons. After much debate, the Israeli government sent an elite commando unit to raid the airfield and release the hostages.",
+    "runtime": "107 min",
+    "director": "José Padilha",
+    "actors": "Batsheva Dance Company, Zina Zinchenko, Ben Schnetzer",
+    "production_country": "United Kingdom, United States, France, Malta",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjAwNDMzNzg0Nl5BMl5BanBnXkFtZTgwOTkxNjY2NDM@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/433627.webp",
+    "imdb_rating": "5.9",
+    "imdb_votes": "18,049",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Entebbe_(film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/433627.txt",
+    "plot_year_start": 1976,
+    "plot_year_end": 1976,
+    "epoch": "late-cold-war-era",
+    "action_countries": [
+      "UG",
+      "IL",
+      "GR",
+      "FR"
+    ],
+    "action_continents": [
+      "Africa",
+      "Asia",
+      "Europe",
+      "Europe"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "airports and airfields as front lines",
+        "description": "Long distances and weak overland links make aircraft vital, while hijackings, rescues, and covert departures turn runways into political ground. What you'll see: old terminals, prop planes and passenger jets, control towers, military transports, runway floodlights, and tense waits on the tarmac.",
+        "icon": "🛬"
+      },
+      {
+        "label": "foreign powers working through local regimes",
+        "description": "Cold War rivalry and older imperial habits keep outside states deeply involved through advisers, arms, trade, intelligence, and favored rulers. What you'll see: expatriate compounds, foreign accents in cabinet rooms, imported weapons, embassy channels, and local crises shaped by distant capitals.",
+        "icon": "🕵️"
+      }
+    ]
+  },
+  {
+    "movie_id": 11937,
+    "movie_idx": 6427,
+    "imdb_id": "tt0097443",
+    "title": "The Gods Must Be Crazy II",
+    "production_year": "1989",
+    "genre": "Comedy",
+    "plot": "Xixo returns. This time, his children accidentally stow away on a fast-moving poachers' truck, unable to get off, and Xixo sets out to rescue them. Along the way, he encounters a couple of soldiers trying to capture each other and a pilot and passenger of a small plane, each having their own problems.",
+    "runtime": "98 min",
+    "director": "Jamie Uys",
+    "actors": "N!xau, Lena Farugia, Hans Strydom",
+    "production_country": "South Africa, Botswana, United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNmViMTliY2EtZTg2YS00ZDQwLThiMTUtYWU1Yjg3ODkyZmE3XkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/11937.webp",
+    "imdb_rating": "6.8",
+    "imdb_votes": "18,740",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Gods_Must_Be_Crazy_II",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/11937.txt",
+    "plot_year_start": 1980,
+    "plot_year_end": 1980,
+    "epoch": "late-cold-war-era",
+    "action_countries": [
+      "BW",
+      "ZA",
+      "AO",
+      "CU"
+    ],
+    "action_continents": [
+      "Africa",
+      "Africa",
+      "Africa",
+      "North America"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "desert and bush beyond state reach",
+        "description": "Large stretches of Kalahari, savannah, and scrub lie far from firm government control, where local custom matters more than official rule. What you'll see: tracking on dry ground, isolated wells, hunting and herding, rough tracks, scattered homesteads, and sudden encounters with trucks or aircraft.",
+        "icon": "🏜️"
+      },
+      {
+        "label": "old custom meeting imported goods",
+        "description": "Many communities live within older rhythms of kinship and custom while outside goods, machines, and habits arrive unevenly and alter relations. What you'll see: bottles and radios treated as novelties, barter beside cash purchase, village gatherings, handmade tools next to engines, and comic or painful misunderstanding.",
+        "icon": "📻"
+      }
+    ]
+  },
+  {
+    "movie_id": 465003,
+    "movie_idx": 6719,
+    "imdb_id": "tt4995776",
+    "title": "The Red Sea Diving Resort",
+    "production_year": "2019",
+    "genre": "Drama, History, Thriller",
+    "plot": "Inspired by remarkable true life rescue missions, this is the incredible story of a group of Mossad agents and brave Ethiopians who in the early 80s used a deserted holiday retreat in Sudan as a front to smuggle thousands of refugees to Israel. The undercover team carrying out this mission is led by the charismatic Ari Kidron and courageous local Kabede Bimro.",
+    "runtime": "129 min",
+    "director": "Gideon Raff",
+    "actors": "Mbulelo Grootboom, Sizo Mahlangu, Michael Kenneth Williams",
+    "production_country": "Canada, United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BODk5ZmI1MTItZmU1Zi00MTMzLTk3ZDctYzM5YzYyMTI2YzE3XkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/465003.webp",
+    "imdb_rating": "6.6",
+    "imdb_votes": "34,817",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Red_Sea_Diving_Resort",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/465003.txt",
+    "plot_year_start": 1984,
+    "plot_year_end": 1985,
+    "epoch": "late-cold-war-era",
+    "action_countries": [
+      "SD",
+      "ET",
+      "IL"
+    ],
+    "action_continents": [
+      "Africa",
+      "Africa",
+      "Asia"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "airports and airfields as front lines",
+        "description": "Long distances and weak overland links make aircraft vital, while hijackings, rescues, and covert departures turn runways into political ground. What you'll see: old terminals, prop planes and passenger jets, control towers, military transports, runway floodlights, and tense waits on the tarmac.",
+        "icon": "🛬"
+      },
+      {
+        "label": "smuggling routes for people and contraband",
+        "description": "Weak borders, war, and want create routes that carry refugees, poached goods, trafficked women, and clandestine passengers across seas, deserts, and frontiers. What you'll see: false papers, lorries on back roads, hidden rooms, fishing boats and cargo craft, bribed officials, and night crossings.",
+        "icon": "🚚"
+      }
+    ]
+  },
+  {
+    "movie_id": 12506,
+    "movie_idx": 7007,
+    "imdb_id": "tt0092804",
+    "title": "Cry Freedom",
+    "production_year": "1987",
+    "genre": "Biography, Drama, History",
+    "plot": "Donald Woods (Kevin Kline) is chief editor of the liberal newspaper \"Daily Dispatch\" in South Africa. He has written several editorials critical of the views of Steve Biko (Denzel Washington). But after having met him for the first time, he changes his opinion. They meet several times, and this means that Woods and his family get attention from the Security Police. When Steve Biko dies in Police custody, he writes a book about Biko. The only way to get it published is for Woods to illegally escape the country.",
+    "runtime": "157 min",
+    "director": "Richard Attenborough",
+    "actors": "Denzel Washington, Kevin Kline, Josette Simon",
+    "production_country": "United Kingdom, Zimbabwe, United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYjJkMWQyMzctZGQ5ZS00YWM3LWI2OWQtNjIxNzNlMWY3YzY2XkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/12506.webp",
+    "imdb_rating": "7.4",
+    "imdb_votes": "15,034",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Cry_Freedom",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/12506.txt",
+    "plot_year_start": 1977,
+    "plot_year_end": 1977,
+    "epoch": "late-cold-war-era",
+    "action_countries": [
+      "ZA",
+      "GB",
+      "LS"
+    ],
+    "action_continents": [
+      "Africa",
+      "Europe",
+      "Africa"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "apartheid ordering South African life",
+        "description": "In southern Africa, law and police power enforce racial separation in movement, housing, work, schooling, and political rights. What you'll see: passes and checkpoints, segregated streets and institutions, township life under surveillance, prison cells, and the blunt presence of Security Police.",
+        "icon": "⛓️"
+      },
+      {
+        "label": "liberation struggle crossing borders",
+        "description": "Southern Africa is bound together by guerrilla war, exile networks, neighbouring sanctuaries, and states pulled into each other's conflicts. What you'll see: border posts, bush fighting, military patrols, safe houses, coded meetings, and roads where civilians and soldiers meet uneasily.",
+        "icon": "🥾"
+      }
+    ]
+  },
+  {
+    "movie_id": 274109,
+    "movie_idx": 7603,
+    "imdb_id": "tt3202202",
+    "title": "Palm Trees in the Snow",
+    "production_year": "2015",
+    "genre": "Drama, Romance",
+    "plot": "Killian is a young man who has never left the remote mountains of Huesca (Spain) which saw him grow up. In 1953, he travels back to the exotic Equatorial African island of Fernando Poo, in Spanish Guinee, where he was born, to work in a cacao plantation alongside his father and his brother. During 20 years in this island, until the troubled days of independence, he will undertake a journey towards maturity and knowledge, but will also have to deal with pain and loss.",
+    "runtime": "163 min",
+    "director": "Fernando González Molina",
+    "actors": "Mario Casas, Adriana Ugarte, Macarena García",
+    "production_country": "Spain",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTU2OTY5NTM3M15BMl5BanBnXkFtZTgwMDA1MDYxNjE@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/274109.webp",
+    "imdb_rating": "7.3",
+    "imdb_votes": "12,693",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Palm_Trees_in_the_Snow",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/274109.txt",
+    "plot_year_start": 1953,
+    "plot_year_end": 2003,
+    "epoch": "late-cold-war-era",
+    "action_countries": [
+      "GQ",
+      "ES"
+    ],
+    "action_continents": [
+      "Africa",
+      "Europe"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "cash-crop estates after colonial rule",
+        "description": "Plantation agriculture and export farming remain central, preserving colonial hierarchies of landholding, labour discipline, and dependence on distant markets. What you'll see: cacao fields and drying yards, overseers' houses, labour lines, port traffic, and the lingering authority of settler families.",
+        "icon": "🌴"
+      },
+      {
+        "label": "foreign powers working through local regimes",
+        "description": "Cold War rivalry and older imperial habits keep outside states deeply involved through advisers, arms, trade, intelligence, and favored rulers. What you'll see: expatriate compounds, foreign accents in cabinet rooms, imported weapons, embassy channels, and local crises shaped by distant capitals.",
+        "icon": "🕵️"
+      }
+    ]
+  },
+  {
+    "movie_id": 10837,
+    "movie_idx": 7743,
+    "imdb_id": "tt0099472",
+    "title": "DuckTales the Movie: Treasure of the Lost Lamp",
+    "production_year": "1990",
+    "genre": "Animation, Adventure, Comedy",
+    "plot": "Scrooge McDuck, his dimwitted pilot Launch Pad, and his newphews Huey, Dewey and Louie, with Webby, arrive in Egypt where Scrooge finds the lost treasure of Collie Baba, unbeknownst to Scrooge, a magic lamp was included inside the treasure, so while the nephews have fun with the genie, they all have no idea that they're being stalked by a power hungry sorceror named Murlock and his dimwitted thief counterpart, Dijon.",
+    "runtime": "74 min",
+    "director": "Bob Hathcock",
+    "actors": "Alan Young, Christopher Lloyd, Terence McGovern",
+    "production_country": "United States, France, United Kingdom",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZTFmNTU1ZGQtOGI4Zi00NjQ4LWJkYWYtYjU2NjY5M2NjZmFjXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/10837.webp",
+    "imdb_rating": "6.8",
+    "imdb_votes": "30,233",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/DuckTales_the_Movie:_Treasure_of_the_Lost_Lamp",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/10837.txt",
+    "plot_year_start": 1980,
+    "plot_year_end": 1980,
+    "epoch": "late-cold-war-era",
+    "action_countries": [
+      "EG",
+      "US"
+    ],
+    "action_continents": [
+      "Africa",
+      "North America"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "DuckTales",
+    "categories": [
+      {
+        "label": "old custom meeting imported goods",
+        "description": "Many communities live within older rhythms of kinship and custom while outside goods, machines, and habits arrive unevenly and alter relations. What you'll see: bottles and radios treated as novelties, barter beside cash purchase, village gatherings, handmade tools next to engines, and comic or painful misunderstanding.",
+        "icon": "📻"
+      }
+    ]
+  },
+  {
+    "movie_id": 33997,
+    "movie_idx": 8504,
+    "imdb_id": "tt1054580",
+    "title": "Desert Flower",
+    "production_year": "2009",
+    "genre": "Biography, Drama",
+    "plot": "The autobiography of a Somalian nomad circumcised at 3, sold in marriage at 13, fled from Africa a while later to become finally an American supermodel and is now at the age of 38, the UN spokeswoman against female genital mutilation (FGM).",
+    "runtime": "120 min",
+    "director": "Sherry Hormann",
+    "actors": "Soraya Omar-Scego, Idriss Abdillahi Houfaneh, Awa Saïd Darar",
+    "production_country": "United Kingdom, Germany, Austria, France",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTcwODMwMzA0MV5BMl5BanBnXkFtZTcwMTc3ODc1NA@@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/33997.webp",
+    "imdb_rating": "7.3",
+    "imdb_votes": "15,348",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Desert_Flower_(film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/33997.txt",
+    "plot_year_start": 1968,
+    "plot_year_end": 2006,
+    "epoch": "late-cold-war-era",
+    "action_countries": [
+      "SO",
+      "US"
+    ],
+    "action_continents": [
+      "Africa",
+      "North America"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "women constrained by patriarchal custom",
+        "description": "In many settings, marriage, sexuality, and bodily control are governed by male authority, family bargaining, and custom that leaves women with little say. What you'll see: bride arrangements, domestic labor, ritual cutting, guarded female mobility, and the risks faced by women traveling alone.",
+        "icon": "👰"
+      }
+    ]
+  },
+  {
+    "movie_id": 24264,
+    "movie_idx": 9693,
+    "imdb_id": "tt0088103",
+    "title": "Sheena",
+    "production_year": "1984",
+    "genre": "Adventure, Fantasy",
+    "plot": "Sheena's white parents are killed while on Safari. She is raised by the mystical witch woman of an African tribe. When her foster mother is framed for the murder of a political leader, Sheena and a newsman, Vic Casey are forced to flee while pursued by the mercenaries hired by the real killer, who hopes to assume power. Sheena's ability to talk to the animals and knowledge of jungle lore give them a chance against the high tech weapons of the mercenaries.",
+    "runtime": "117 min",
+    "director": "John Guillermin",
+    "actors": "Tanya Roberts, Ted Wass, Donovan Scott",
+    "production_country": "United Kingdom, United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZTNkN2I1OTgtMjAyOS00YWUwLTg3NDYtOTlmZjY4ZDE1N2M5XkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/24264.webp",
+    "imdb_rating": "4.9",
+    "imdb_votes": "5,848",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Sheena_(film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/24264.txt",
+    "plot_year_start": 1984,
+    "plot_year_end": 1984,
+    "epoch": "late-cold-war-era",
+    "action_countries": [
+      "KE",
+      "US"
+    ],
+    "action_continents": [
+      "Africa",
+      "North America"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "new nations under strongman rule",
+        "description": "Across much of the continent, recently independent states are marked by personal rule, military men in office, and governments that treat the state as the property of one circle. What you'll see: presidential motorcades, uniforms in government buildings, portraits of rulers, sudden decrees, and fear around official notice.",
+        "icon": "🪖"
+      }
+    ]
+  }
+]

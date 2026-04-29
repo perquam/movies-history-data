@@ -1,0 +1,1884 @@
+[
+  {
+    "movie_id": 976573,
+    "movie_idx": 19,
+    "imdb_id": "tt15789038",
+    "title": "Elemental",
+    "production_year": "2023",
+    "genre": "Animation, Adventure, Comedy",
+    "plot": "Follow Ember and Wade, in a city where fire, water, earth and air live together.",
+    "runtime": "101 min",
+    "director": "Peter Sohn",
+    "actors": "Leah Lewis, Mamoudou Athie, Ronnie Del Carmen",
+    "production_country": "United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNjU2MjE1OGItZjdmYS00ZmIyLTljNjYtOWI5ZGRkZjM4NDEwXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/976573.webp",
+    "imdb_rating": "7.0",
+    "imdb_votes": "160,997",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Elemental_(2023_film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/976573.txt",
+    "plot_year_start": 2023,
+    "plot_year_end": 2023,
+    "epoch": "platform-and-ai-world",
+    "action_countries": [
+      "FICTIONAL"
+    ],
+    "action_continents": [
+      "FICTIONAL"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "failures": {
+      "categories": "missing_category_list"
+    }
+  },
+  {
+    "movie_id": 505642,
+    "movie_idx": 126,
+    "imdb_id": "tt9114286",
+    "title": "Black Panther: Wakanda Forever",
+    "production_year": "2022",
+    "genre": "Action, Adventure, Drama",
+    "plot": "The people of Wakanda fight to protect their home from intervening world powers as they mourn the death of King T'Challa.",
+    "runtime": "161 min",
+    "director": "Ryan Coogler",
+    "actors": "Letitia Wright, Lupita Nyong'o, Danai Gurira",
+    "production_country": "United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYWY5NDY1ZjItZDQxMy00MTAzLTgyOGQtNTQxYjFiMzZjMjUyXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/505642.webp",
+    "imdb_rating": "6.6",
+    "imdb_votes": "365,500",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Black_Panther:_Wakanda_Forever",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/505642.txt",
+    "plot_year_start": 2023,
+    "plot_year_end": 2024,
+    "epoch": "platform-and-ai-world",
+    "action_countries": [
+      "FICTIONAL",
+      "MX",
+      "HT",
+      "US"
+    ],
+    "action_continents": [
+      "FICTIONAL",
+      "North America",
+      "North America",
+      "North America"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Marvel Cinematic Universe",
+    "failures": {
+      "categories": "missing_category_list"
+    }
+  },
+  {
+    "movie_id": 269149,
+    "movie_idx": 215,
+    "imdb_id": "tt2948356",
+    "title": "Zootopia",
+    "production_year": "2016",
+    "genre": "Animation, Action, Adventure",
+    "plot": "From the largest elephant to the smallest shrew, the city of Zootopia is a mammal metropolis where various animals live and thrive. When Judy Hopps becomes the first rabbit to join the police force, she quickly learns how tough it is to enforce the law. Determined to prove herself, Judy jumps at the opportunity to solve a mysterious case. Unfortunately, that means working with Nick Wilde, a wily fox who makes her job even harder.",
+    "runtime": "108 min",
+    "director": "Byron Howard, Rich Moore, Jared Bush",
+    "actors": "Ginnifer Goodwin, Jason Bateman, Idris Elba",
+    "production_country": "United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BOTMyMjEyNzIzMV5BMl5BanBnXkFtZTgwNzIyNjU0NzE@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/269149.webp",
+    "imdb_rating": "8.0",
+    "imdb_votes": "625,023",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Zootopia",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/269149.txt",
+    "plot_year_start": 2016,
+    "plot_year_end": 2016,
+    "epoch": "platform-and-ai-world",
+    "action_countries": [
+      "FICTIONAL"
+    ],
+    "action_continents": [
+      "FICTIONAL"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "failures": {
+      "categories": "missing_category_list"
+    }
+  },
+  {
+    "movie_id": 616037,
+    "movie_idx": 231,
+    "imdb_id": "tt10648342",
+    "title": "Thor: Love and Thunder",
+    "production_year": "2022",
+    "genre": "Action, Adventure, Comedy",
+    "plot": "Thor enlists the help of Valkyrie, Korg and ex-girlfriend Jane Foster to fight Gorr the God Butcher, who intends to make the gods extinct.",
+    "runtime": "118 min",
+    "director": "Taika Waititi",
+    "actors": "Chris Hemsworth, Natalie Portman, Christian Bale",
+    "production_country": "Australia, United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZjRiMDhiZjQtNjk5Yi00ZDcwLTkyYTEtMDc1NjdmNjFhNGIzXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/616037.webp",
+    "imdb_rating": "6.1",
+    "imdb_votes": "455,566",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Thor:_Love_and_Thunder",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/616037.txt",
+    "plot_year_start": 2024,
+    "plot_year_end": 2024,
+    "epoch": "platform-and-ai-world",
+    "action_countries": [
+      "FICTIONAL"
+    ],
+    "action_continents": [
+      "FICTIONAL"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Marvel Cinematic Universe",
+    "failures": {
+      "categories": "missing_category_list"
+    }
+  },
+  {
+    "movie_id": 646385,
+    "movie_idx": 235,
+    "imdb_id": "tt11245972",
+    "title": "Scream",
+    "production_year": "2022",
+    "genre": "Horror, Mystery, Thriller",
+    "plot": "Like the original movie 25 years ago, a cute teenage girl is at home alone when the phone rings. A man wants to play a game with her. With the threat of killing her best friend, Tara's forced to play along. She barely survives the ghost face masked intruder's stabbing. Her 5 year older sister, Sam(antha), who left home at 18 due to mental problems, Sam's boyfriend and Tara's high school friends visit her at the hospital. Later on in a bar, a guy provokes the friends and is later attacked outside in the parking lot by Ghostface. Sam receives a call from him at the hospital and then he unsuccessfully attacks her. She later reveals family secrets to her sister. Sam contacts one of the original victims, Dewey, for help. He warns two other original victims, Sidney Prescott and Gale Weathers, about Ghostface being back. Who is Ghostface? How many more must die?",
+    "runtime": "114 min",
+    "director": "Matt Bettinelli-Olpin, Tyler Gillett",
+    "actors": "Neve Campbell, Courteney Cox, David Arquette",
+    "production_country": "United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BN2NkYTYzOGUtMzk1Yy00YmI0LWIzODEtMjQ0MWU0NWI4ODdlXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/646385.webp",
+    "imdb_rating": "6.3",
+    "imdb_votes": "184,069",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Scream_(2022_film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/646385.txt",
+    "plot_year_start": 2021,
+    "plot_year_end": 2021,
+    "epoch": "platform-and-ai-world",
+    "action_countries": [
+      "FICTIONAL"
+    ],
+    "action_continents": [
+      "FICTIONAL"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "failures": {
+      "categories": "missing_category_list"
+    }
+  },
+  {
+    "movie_id": 901362,
+    "movie_idx": 242,
+    "imdb_id": "tt14362112",
+    "title": "Trolls Band Together",
+    "production_year": "2023",
+    "genre": "Animation, Adventure, Comedy",
+    "plot": "As they grow closer, Poppy discovers that Branch was once part of her favorite boy band phenomenon, BroZone, with his four brothers. When one of them, Floyd, is kidnapped by villains, Branch and Poppy embark on a journey to rescue...",
+    "runtime": "91 min",
+    "director": "Walt Dohrn, Tim Heitz",
+    "actors": "Anna Kendrick, Justin Timberlake, Kenan Thompson",
+    "production_country": "United States, United Kingdom",
+    "poster": "https://m.media-amazon.com/images/M/MV5BY2EzNTY0N2MtMTAyZS00ZTIwLTk5MmUtNWJhMmIwYmM5OWFiXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/901362.webp",
+    "imdb_rating": "6.0",
+    "imdb_votes": "19,119",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Trolls_Band_Together",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/901362.txt",
+    "plot_year_start": 2023,
+    "plot_year_end": 2023,
+    "epoch": "platform-and-ai-world",
+    "action_countries": [
+      "FICTIONAL"
+    ],
+    "action_continents": [
+      "FICTIONAL"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "failures": {
+      "categories": "missing_category_list"
+    }
+  },
+  {
+    "movie_id": 585083,
+    "movie_idx": 244,
+    "imdb_id": "tt9848626",
+    "title": "Hotel Transylvania 4: Transformania",
+    "production_year": "2022",
+    "genre": "Animation, Adventure, Comedy",
+    "plot": "When Van Helsing's mysterious invention, the \"Monsterfication Ray\", goes haywire, Drac and his monster pals are all transformed into humans, and Johnny becomes a monster. In their new mismatched bodies, Drac, stripped of his powers, and an exuberant Johnny, loving life as a monster, must team up and race across the globe to find a cure before it's too late, and before they drive each other crazy. With help from Mavis and the hilariously human Drac Pack, the heat is on to find a way to switch themselves back before their transformations become permanent.",
+    "runtime": "87 min",
+    "director": "Derek Drymon, Jennifer Kluska",
+    "actors": "Andy Samberg, Selena Gomez, Kathryn Hahn",
+    "production_country": "United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNGYyN2Q5NGQtYWI3OS00MDMxLTlhNTktNjBkOWIwMTIzNGZkXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/585083.webp",
+    "imdb_rating": "6.0",
+    "imdb_votes": "46,388",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Hotel_Transylvania:_Transformania",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/585083.txt",
+    "plot_year_start": 2021,
+    "plot_year_end": 2022,
+    "epoch": "platform-and-ai-world",
+    "action_countries": [
+      "FICTIONAL"
+    ],
+    "action_continents": [
+      "FICTIONAL"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "failures": {
+      "categories": "missing_category_list"
+    }
+  },
+  {
+    "movie_id": 841755,
+    "movie_idx": 261,
+    "imdb_id": "tt14901058",
+    "title": "Mortal Kombat Legends: Battle of the Realms",
+    "production_year": "2021",
+    "genre": "Animation, Action, Adventure",
+    "plot": "The movie picks up right after Scorpion's Revenge where the heroes are attacked by Shao Kahn, which will force \"Raiden and his group of warriors into a deal to compete in a final Mortal Kombat that will determine the fate of the realms.\" This forces the good guys to travel to Outworld defend Earthrealm while Scorpion journeys to find the Kamidogu (a mystic relic made by the almighty Elder Gods) before it is used to bring back the mysterious One Being, who would destroy the universe.",
+    "runtime": "80 min",
+    "director": "Ethan Spaulding",
+    "actors": "Jennifer Carpenter, Joel McHale, Ike Amadi",
+    "production_country": "United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNzE5OTNhMDktOGIxOC00NmQ2LWE5MTMtMjdmNjExNzQyOGNiXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/841755.webp",
+    "imdb_rating": "6.5",
+    "imdb_votes": "9,016",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Mortal_Kombat_Legends:_Battle_of_the_Realms",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/841755.txt",
+    "plot_year_start": 2020,
+    "plot_year_end": 2021,
+    "epoch": "platform-and-ai-world",
+    "action_countries": [
+      "FICTIONAL"
+    ],
+    "action_continents": [
+      "FICTIONAL"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Mortal Kombat Universe",
+    "failures": {
+      "categories": "missing_category_list"
+    }
+  },
+  {
+    "movie_id": 502345,
+    "movie_idx": 357,
+    "imdb_id": "tt4556264",
+    "title": "Scarygirl",
+    "production_year": "2023",
+    "genre": "Animation, Adventure, Fantasy",
+    "plot": "As her world is shrouded in darkness, a young girl must overcome her fears and travel to a mysterious city of light, save her father from a dangerous scientist and prevent the destruction of her planet.",
+    "runtime": "90 min",
+    "director": "Ricard Cussó, Tania Vincent",
+    "actors": "Sam Neill, Anna Torv, Liv Hewson",
+    "production_country": "Australia, United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjZiYTViNDQtZTJlZi00ZTc0LTlkMDMtNDg0ZjRmZDE4M2IyXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/502345.webp",
+    "imdb_rating": "5.3",
+    "imdb_votes": "693",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Scarygirl_(film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/502345.txt",
+    "plot_year_start": 2023,
+    "plot_year_end": 2023,
+    "epoch": "platform-and-ai-world",
+    "action_countries": [
+      "FICTIONAL"
+    ],
+    "action_continents": [
+      "FICTIONAL"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "failures": {
+      "categories": "missing_category_list"
+    }
+  },
+  {
+    "movie_id": 99861,
+    "movie_idx": 440,
+    "imdb_id": "tt2395427",
+    "title": "Avengers: Age of Ultron",
+    "production_year": "2015",
+    "genre": "Action, Adventure, Sci-Fi",
+    "plot": "Tony Stark creates the Ultron Program to protect the world, but when the peacekeeping program becomes hostile, The Avengers go into action to try and defeat a virtually impossible enemy together. Earth's mightiest heroes must come together once again to protect the world from global extinction.",
+    "runtime": "141 min",
+    "director": "Joss Whedon",
+    "actors": "Robert Downey Jr., Chris Evans, Mark Ruffalo",
+    "production_country": "United States, South Korea, Cambodia",
+    "poster": "https://m.media-amazon.com/images/M/MV5BODBhYTg1NGQtNGVmNS00ZTdiLThjYTYtZDFkNzRiNTZmNDZjXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/99861.webp",
+    "imdb_rating": "7.3",
+    "imdb_votes": "992,968",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Avengers:_Age_of_Ultron",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/99861.txt",
+    "plot_year_start": 2015,
+    "plot_year_end": 2015,
+    "epoch": "platform-and-ai-world",
+    "action_countries": [
+      "FICTIONAL",
+      "ZA",
+      "KR",
+      "US",
+      "GB"
+    ],
+    "action_continents": [
+      "FICTIONAL",
+      "Africa",
+      "Asia",
+      "North America",
+      "Europe"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Marvel Cinematic Universe",
+    "failures": {
+      "categories": "missing_category_list"
+    }
+  },
+  {
+    "movie_id": 284053,
+    "movie_idx": 481,
+    "imdb_id": "tt3501632",
+    "title": "Thor: Ragnarok",
+    "production_year": "2017",
+    "genre": "Action, Adventure, Comedy",
+    "plot": "Imprisoned on the other side of the universe, the mighty Thor (Chris Hemsworth) finds himself in a deadly gladiatorial contest that puts him against The Incredible Hulk (Mark Ruffalo), his former ally and fellow Avenger. Thor's quest for survival leads him in a race against time to prevent the all-powerful Hela (Cate Blanchett) from destroying his home world and the Asgardian civilization.",
+    "runtime": "130 min",
+    "director": "Taika Waititi",
+    "actors": "Chris Hemsworth, Tom Hiddleston, Cate Blanchett",
+    "production_country": "United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjMyNDkzMzI1OF5BMl5BanBnXkFtZTgwODcxODg5MjI@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/284053.webp",
+    "imdb_rating": "7.9",
+    "imdb_votes": "886,443",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Thor:_Ragnarok",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/284053.txt",
+    "plot_year_start": 2018,
+    "plot_year_end": 2018,
+    "epoch": "platform-and-ai-world",
+    "action_countries": [
+      "FICTIONAL",
+      "NO"
+    ],
+    "action_continents": [
+      "FICTIONAL",
+      "Europe"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Marvel Cinematic Universe",
+    "failures": {
+      "categories": "missing_category_list"
+    }
+  },
+  {
+    "movie_id": 283995,
+    "movie_idx": 529,
+    "imdb_id": "tt3896198",
+    "title": "Guardians of the Galaxy Vol. 2",
+    "production_year": "2017",
+    "genre": "Action, Adventure, Comedy",
+    "plot": "After saving Xandar from Ronan's wrath, the Guardians are now recognized as heroes. Now the team must help their leader Star Lord (Chris Pratt) uncover the truth behind his true heritage. Along the way, old foes turn to allies and betrayal is blooming. And the Guardians find that they are up against a devastating new menace who is out to rule the galaxy.",
+    "runtime": "136 min",
+    "director": "James Gunn",
+    "actors": "Chris Pratt, Zoe Saldaña, Dave Bautista",
+    "production_country": "United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNWE5MGI3MDctMmU5Ni00YzI2LWEzMTQtZGIyZDA5MzQzNDBhXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/283995.webp",
+    "imdb_rating": "7.6",
+    "imdb_votes": "823,054",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Guardians_of_the_Galaxy_Vol._2",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/283995.txt",
+    "plot_year_start": 2014,
+    "plot_year_end": 2014,
+    "epoch": "platform-and-ai-world",
+    "action_countries": [
+      "FICTIONAL"
+    ],
+    "action_continents": [
+      "FICTIONAL"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Marvel Cinematic Universe",
+    "failures": {
+      "categories": "missing_category_list"
+    }
+  },
+  {
+    "movie_id": 181812,
+    "movie_idx": 709,
+    "imdb_id": "tt2527338",
+    "title": "Star Wars: Episode IX - The Rise of Skywalker",
+    "production_year": "2019",
+    "genre": "Action, Adventure, Fantasy",
+    "plot": "While the First Order continues to ravage the galaxy, Rey finalizes her training as a Jedi. But danger suddenly rises from the ashes as the evil Emperor Palpatine mysteriously returns from the dead. While working with Finn and Poe Dameron to fulfill a new mission, Rey will not only face Kylo Ren once more, but she will also finally discover the truth about her parents as well as a deadly secret that could determine her future and the fate of the ultimate final showdown that is to come.",
+    "runtime": "141 min",
+    "director": "J.J. Abrams",
+    "actors": "Daisy Ridley, John Boyega, Oscar Isaac",
+    "production_country": "United States, United Kingdom",
+    "poster": "https://m.media-amazon.com/images/M/MV5BODg5ZTNmMTUtYThlNy00NjljLWE0MGUtYmQ1NDg4NWU5MjQ1XkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/181812.webp",
+    "imdb_rating": "6.3",
+    "imdb_votes": "536,918",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Star_Wars:_The_Rise_of_Skywalker",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/181812.txt",
+    "plot_year_start": 2019,
+    "plot_year_end": 2019,
+    "epoch": "platform-and-ai-world",
+    "action_countries": [
+      "FICTIONAL"
+    ],
+    "action_continents": [
+      "FICTIONAL"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Star Wars Universe",
+    "failures": {
+      "categories": "missing_category_list"
+    }
+  },
+  {
+    "movie_id": 360920,
+    "movie_idx": 730,
+    "imdb_id": "tt2709692",
+    "title": "The Grinch",
+    "production_year": "2018",
+    "genre": "Animation, Comedy, Family",
+    "plot": "For their eighth fully animated feature, Illumination and Universal Pictures present The Grinch, based on Dr. Seuss' beloved holiday classic. The Grinch tells the story of a cynical grump who goes on a mission to steal Christmas, only to have his heart changed by a young girl's generous holiday spirit. Funny, heartwarming, and visually stunning, it's a universal story about the spirit of Christmas and the indomitable power of optimism. Academy Award nominee Benedict Cumberbatch lends his voice to the infamous Grinch, who lives a solitary life inside a cave on Mt. Crumpet with only his loyal dog, Max, for company. With a cave rigged with inventions and contraptions for his day-to-day needs, the Grinch only sees his neighbors in Whoville when he runs out of food. Each year at Christmas they disrupt his tranquil solitude with their increasingly bigger, brighter, and louder celebrations. When the Whos declare they are going to make Christmas three times bigger this year, the Grinch realizes there is only one way for him to gain some peace and quiet: he must steal Christmas. To do so, he decides to pose as Santa Claus on Christmas Eve, even going so far as to trap a lackadaisical misfit reindeer to pull his sleigh. Meanwhile, down in Whoville, Cindy-Lou Who (Cameron Seely), a young girl overflowing with holiday cheer, plots with her gang of friends to trap Santa Claus as he makes his Christmas Eve rounds so that she can thank him for help for her overworked single mother. As Christmas approaches, however, her good-natured scheme threatens to collide with the Grinch's more nefarious one. Will Cindy-Lou achieve her goal of finally meeting Santa Claus? Will the Grinch succeed in silencing the Whos' holiday cheer once and for all?",
+    "runtime": "85 min",
+    "director": "Yarrow Cheney, Scott Mosier",
+    "actors": "Benedict Cumberbatch, Cameron Seely, Rashida Jones",
+    "production_country": "United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BODQwOGFjNGEtMTg1ZS00MmY4LTg0NTctYjVlNTNjZjRmZTcxXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/360920.webp",
+    "imdb_rating": "6.4",
+    "imdb_votes": "111,173",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Grinch_(film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/360920.txt",
+    "plot_year_start": 2018,
+    "plot_year_end": 2018,
+    "epoch": "platform-and-ai-world",
+    "action_countries": [
+      "FICTIONAL"
+    ],
+    "action_continents": [
+      "FICTIONAL"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "failures": {
+      "categories": "missing_category_list"
+    }
+  },
+  {
+    "movie_id": 351286,
+    "movie_idx": 747,
+    "imdb_id": "tt4881806",
+    "title": "Jurassic World: Fallen Kingdom",
+    "production_year": "2018",
+    "genre": "Action, Adventure, Sci-Fi",
+    "plot": "Three years after the Jurassic World theme park was closed down, Owen and Claire return to Isla Nublar to save the dinosaurs when they learn that a once dormant volcano on the island is active and is threatening to extinguish all life there. Along the way, Owen sets out to find Blue, his lead raptor, and discovers a conspiracy that could disrupt the natural order of the entire planet. Life has found a way, again.",
+    "runtime": "128 min",
+    "director": "J.A. Bayona",
+    "actors": "Chris Pratt, Bryce Dallas Howard, Rafe Spall",
+    "production_country": "United States, China",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNzIxMjYwNDEwN15BMl5BanBnXkFtZTgwMzk5MDI3NTM@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/351286.webp",
+    "imdb_rating": "6.1",
+    "imdb_votes": "377,561",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Jurassic_World:_Fallen_Kingdom",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/351286.txt",
+    "plot_year_start": 2018,
+    "plot_year_end": 2021,
+    "epoch": "platform-and-ai-world",
+    "action_countries": [
+      "FICTIONAL",
+      "US"
+    ],
+    "action_continents": [
+      "FICTIONAL",
+      "North America"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Jurassic Park",
+    "failures": {
+      "categories": "missing_category_list"
+    }
+  },
+  {
+    "movie_id": 446893,
+    "movie_idx": 837,
+    "imdb_id": "tt6587640",
+    "title": "Trolls World Tour",
+    "production_year": "2020",
+    "genre": "Animation, Adventure, Comedy",
+    "plot": "Poppy and Branch discover that they are but one of six different Troll tribes scattered over six different lands devoted to six different kinds of music: Funk, Country, Techno, Classical, Pop and Rock. Their world is about to get a lot bigger and a whole lot louder. A member of hard-rock royalty, Queen Barb, aided by her father King Thrash, wants to destroy all other kinds of music to let rock reign supreme. With the fate of the world at stake, Poppy and Branch, along with their friends, set out to visit all the other lands to unify the Trolls in harmony against Barb, who's looking to upstage them all.",
+    "runtime": "91 min",
+    "director": "Walt Dohrn, David P. Smith",
+    "actors": "Anna Kendrick, Justin Timberlake, Rachel Bloom",
+    "production_country": "United States, Japan",
+    "poster": "https://m.media-amazon.com/images/M/MV5BN2Q3MDEyMjctZjNhZi00MzVhLTk3OTUtNjlhYzg0ZjllOWExXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/446893.webp",
+    "imdb_rating": "6.1",
+    "imdb_votes": "32,498",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Trolls_World_Tour",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/446893.txt",
+    "plot_year_start": 2020,
+    "plot_year_end": 2020,
+    "epoch": "platform-and-ai-world",
+    "action_countries": [
+      "FICTIONAL"
+    ],
+    "action_continents": [
+      "FICTIONAL"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "failures": {
+      "categories": "missing_category_list"
+    }
+  },
+  {
+    "movie_id": 335797,
+    "movie_idx": 865,
+    "imdb_id": "tt3470600",
+    "title": "Sing",
+    "production_year": "2016",
+    "genre": "Animation, Comedy, Family",
+    "plot": "In a world of anthropomorphic animals, koala Buster Moon owns a theater, having been interested in show business since his father took him to his first music show as a child. Following financial problems brought up by the bank representative Judith, he tells his wealthy friend Eddie that he will host a singing competition with a prize of $1,000. But Buster's assistant, Miss Crawly, accidentally appends two extra zeroes, and the promotional fliers showing $100,000 are blown out of Buster's office into the city streets.",
+    "runtime": "108 min",
+    "director": "Garth Jennings, Christophe Lourdelet",
+    "actors": "Matthew McConaughey, Reese Witherspoon, Seth MacFarlane",
+    "production_country": "Japan, United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTYzODYzODU2Ml5BMl5BanBnXkFtZTgwNTc1MTA2NzE@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/335797.webp",
+    "imdb_rating": "7.1",
+    "imdb_votes": "210,521",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Sing_(2016_American_film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/335797.txt",
+    "plot_year_start": 2016,
+    "plot_year_end": 2016,
+    "epoch": "platform-and-ai-world",
+    "action_countries": [
+      "FICTIONAL"
+    ],
+    "action_continents": [
+      "FICTIONAL"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "failures": {
+      "categories": "missing_category_list"
+    }
+  },
+  {
+    "movie_id": 135397,
+    "movie_idx": 917,
+    "imdb_id": "tt0369610",
+    "title": "Jurassic World",
+    "production_year": "2015",
+    "genre": "Action, Adventure, Sci-Fi",
+    "plot": "Twenty-two years after the original Jurassic Park failed, the new park, also known as Jurassic World, is open for business. After years of studying genetics, the scientists on the park genetically engineer a new breed of dinosaur, the Indominus Rex. When everything goes horribly wrong, will our heroes make it off the island?",
+    "runtime": "124 min",
+    "director": "Colin Trevorrow",
+    "actors": "Chris Pratt, Bryce Dallas Howard, Ty Simpkins",
+    "production_country": "United States, Japan",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNzBhNzlkM2UtZTQyOC00NjUyLTkzMmMtNDQ1YTM5N2NmMGE5XkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/135397.webp",
+    "imdb_rating": "6.9",
+    "imdb_votes": "723,175",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Jurassic_World",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/135397.txt",
+    "plot_year_start": 2015,
+    "plot_year_end": 2015,
+    "epoch": "platform-and-ai-world",
+    "action_countries": [
+      "FICTIONAL"
+    ],
+    "action_continents": [
+      "FICTIONAL"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Jurassic Park",
+    "failures": {
+      "categories": "missing_category_list"
+    }
+  },
+  {
+    "movie_id": 667216,
+    "movie_idx": 1115,
+    "imdb_id": "tt10365998",
+    "title": "Infinity Pool",
+    "production_year": "2023",
+    "genre": "Crime, Horror, Mystery",
+    "plot": "James and Em Foster are enjoying an all-inclusive beach vacation in the fictional island of La Tolqa, when a fatal accident exposes the resort's perverse subculture of hedonistic tourism, reckless violence and surreal horrors.",
+    "runtime": "117 min",
+    "director": "Brandon Cronenberg",
+    "actors": "Alexander Skarsgård, Mia Goth, Cleopatra Coleman",
+    "production_country": "Canada, Croatia, Hungary, United States, France",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZjZiNGUxNDUtN2QwZi00ZmE5LTgyZjctYzQwOTQ1NWY1MWViXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/667216.webp",
+    "imdb_rating": "6.0",
+    "imdb_votes": "72,880",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Infinity_Pool_(film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/667216.txt",
+    "plot_year_start": 2020,
+    "plot_year_end": 2023,
+    "epoch": "platform-and-ai-world",
+    "action_countries": [
+      "FICTIONAL"
+    ],
+    "action_continents": [
+      "FICTIONAL"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "failures": {
+      "categories": "missing_category_list"
+    }
+  },
+  {
+    "movie_id": 506574,
+    "movie_idx": 1226,
+    "imdb_id": "tt8022928",
+    "title": "Descendants 3",
+    "production_year": "2019",
+    "genre": "Adventure, Family, Musical",
+    "plot": "Her life in turmoil Audrey has nothing left to loose, she steals the crown and Maleficent's scepter becoming an evil witch, casting a sleeping spell throughout the land. Mal, Evie, Jay, Carlos, Celia, and former foes team up to de...",
+    "runtime": "111 min",
+    "director": "Kenny Ortega",
+    "actors": "Dove Cameron, Cameron Boyce, Sofia Carson",
+    "production_country": "United States, Canada",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjM1MTgyNDQyOF5BMl5BanBnXkFtZTgwOTgwMjQ4NzM@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/506574.webp",
+    "imdb_rating": "6.4",
+    "imdb_votes": "13,953",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Descendants_3",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/506574.txt",
+    "plot_year_start": 2019,
+    "plot_year_end": 2019,
+    "epoch": "platform-and-ai-world",
+    "action_countries": [
+      "FICTIONAL"
+    ],
+    "action_continents": [
+      "FICTIONAL"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "failures": {
+      "categories": "missing_category_list"
+    }
+  },
+  {
+    "movie_id": 159824,
+    "movie_idx": 1234,
+    "imdb_id": "tt2510894",
+    "title": "Hotel Transylvania 2",
+    "production_year": "2015",
+    "genre": "Animation, Adventure, Comedy",
+    "plot": "The Drac pack is back for an all-new monster comedy adventure in Sony Pictures Animation's Hotel Transylvania 2! Everything seems to be changing for the better at Hotel Transylvania... Dracula's rigid monster-only hotel policy has finally relaxed, opening up its doors to human guests. But behind closed coffins, Drac is worried that his adorable half-human, half-vampire grandson, Dennis, isn't showing signs of being a vampire. So while Mavis is busy visiting her human in-laws with Johnny - and in for a major cultural shock of her own - \"Vampa\" Drac enlists his friends Frank, Murray, Wayne and Griffin to put Dennis through a \"monster-in-training\" boot camp. But little do they know that Drac's grumpy and very old, old, old school dad Vlad is about to pay a family visit to the hotel. And when Vlad finds out that his great-grandson is not a pure blood - and humans are now welcome at Hotel Transylvania - things are going to get batty!",
+    "runtime": "89 min",
+    "director": "Genndy Tartakovsky",
+    "actors": "Adam Sandler, Andy Samberg, Selena Gomez",
+    "production_country": "United States, Canada",
+    "poster": "https://m.media-amazon.com/images/M/MV5BY2ExYWJhMDYtYjcwMy00YjA2LTk2YzQtY2FhMWYxZThiNDQzXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/159824.webp",
+    "imdb_rating": "6.6",
+    "imdb_votes": "160,207",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Hotel_Transylvania_2",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/159824.txt",
+    "plot_year_start": 2015,
+    "plot_year_end": 2015,
+    "epoch": "platform-and-ai-world",
+    "action_countries": [
+      "FICTIONAL",
+      "US"
+    ],
+    "action_continents": [
+      "FICTIONAL",
+      "North America"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "failures": {
+      "categories": "missing_category_list"
+    }
+  },
+  {
+    "movie_id": 768744,
+    "movie_idx": 1310,
+    "imdb_id": "tt13544716",
+    "title": "My Hero Academia: World Heroes' Mission",
+    "production_year": "2021",
+    "genre": "Animation, Action, Adventure",
+    "plot": "When a cult of terrorists ruins a city by releasing a toxin that causes people's abilities to spiral out of control, Japan's greatest heroes spread around the world in an attempt to track down the mastermind and put him to justice.",
+    "runtime": "101 min",
+    "director": "Kenji Nagasaki",
+    "actors": "Daiki Yamashita, Nobuhiko Okamoto, Yûki Kaji",
+    "production_country": "Japan",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZGRmNTM5NWQtOWZlNi00NWFmLWFmODctMTBhZjZkM2U5NDFlXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/768744.webp",
+    "imdb_rating": "7.0",
+    "imdb_votes": "7,254",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/My_Hero_Academia:_World_Heroes%27_Mission",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/768744.txt",
+    "plot_year_start": 2021,
+    "plot_year_end": 2021,
+    "epoch": "platform-and-ai-world",
+    "action_countries": [
+      "FICTIONAL"
+    ],
+    "action_continents": [
+      "FICTIONAL"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "failures": {
+      "categories": "missing_category_list"
+    }
+  },
+  {
+    "movie_id": 277217,
+    "movie_idx": 1652,
+    "imdb_id": "tt3440298",
+    "title": "Descendants",
+    "production_year": "2015",
+    "genre": "Action, Adventure, Comedy",
+    "plot": "In present-day Auradon, Ben, the teenage son of King Adam and Queen Belle, is poised to take the throne. He offers a chance for redemption to the trouble-making teen descendants of defeated villains exiled to the remote Isle of the Lost. The villains' descendants have been granted permission to attend prep school in the kingdom with the Disney heroes' kids.",
+    "runtime": "115 min",
+    "director": "Kenny Ortega",
+    "actors": "Dove Cameron, Cameron Boyce, Booboo Stewart",
+    "production_country": "United States, New Zealand, United Kingdom, Canada",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTA5MTE2Mzc5MjReQTJeQWpwZ15BbWU4MDk0Njg2ODUx._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/277217.webp",
+    "imdb_rating": "6.3",
+    "imdb_votes": "31,240",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Descendants_(2015_film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/277217.txt",
+    "plot_year_start": 2015,
+    "plot_year_end": 2015,
+    "epoch": "platform-and-ai-world",
+    "action_countries": [
+      "FICTIONAL"
+    ],
+    "action_continents": [
+      "FICTIONAL"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "failures": {
+      "categories": "missing_category_list"
+    }
+  },
+  {
+    "movie_id": 417320,
+    "movie_idx": 1669,
+    "imdb_id": "tt5117876",
+    "title": "Descendants 2",
+    "production_year": "2017",
+    "genre": "Action, Adventure, Family",
+    "plot": "When the pressure to be royally perfect becomes too much for Mal, she returns to her rotten roots on the Isle of the Lost where her archenemy Uma, the daughter of Ursula from The Little Mermaid, has taken her spot as self-proclaimed queen of the run-down town. Uma, still resentful over not being selected by Ben to go to Auradon Prep with the other Villain Kids, stirs her pirate gang including Captain Hook's son Harry and Gaston's son Gil, to break the barrier between the Isle of the Lost and Auradon, and unleash all the villains imprisoned on the Isle once and for all.",
+    "runtime": "111 min",
+    "director": "Kenny Ortega",
+    "actors": "Dove Cameron, Cameron Boyce, Sofia Carson",
+    "production_country": "United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjI5MTA4MTk2N15BMl5BanBnXkFtZTgwNjY2NDUwMjI@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/417320.webp",
+    "imdb_rating": "6.3",
+    "imdb_votes": "18,089",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Descendants_2",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/417320.txt",
+    "plot_year_start": 2017,
+    "plot_year_end": 2017,
+    "epoch": "platform-and-ai-world",
+    "action_countries": [
+      "FICTIONAL"
+    ],
+    "action_continents": [
+      "FICTIONAL"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "failures": {
+      "categories": "missing_category_list"
+    }
+  },
+  {
+    "movie_id": 662708,
+    "movie_idx": 1726,
+    "imdb_id": "tt11819890",
+    "title": "Pokémon the Movie: Secrets of the Jungle",
+    "production_year": "2020",
+    "genre": "Animation, Action, Adventure",
+    "plot": "The story of Koko, a young boy raised by Pokémon, and the creation of a new bond between humans and Pokémon.",
+    "runtime": "99 min",
+    "director": "Tetsuo Yajima",
+    "actors": "Sarah Natochenny, Kimlinh Tran, Edward Bosco",
+    "production_country": "Japan",
+    "poster": "https://m.media-amazon.com/images/M/MV5BY2NlMTFlNjMtNTg2Yi00MzkwLTk2NDUtMWNjZjU2MmEwOTkzXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/662708.webp",
+    "imdb_rating": "6.4",
+    "imdb_votes": "2,858",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Pok%C3%A9mon_the_Movie:_Secrets_of_the_Jungle",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/662708.txt",
+    "plot_year_start": 2020,
+    "plot_year_end": 2020,
+    "epoch": "platform-and-ai-world",
+    "action_countries": [
+      "FICTIONAL"
+    ],
+    "action_continents": [
+      "FICTIONAL"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Pokemon",
+    "failures": {
+      "categories": "missing_category_list"
+    }
+  },
+  {
+    "movie_id": 897087,
+    "movie_idx": 1806,
+    "imdb_id": "tt15744298",
+    "title": "Freelance",
+    "production_year": "2023",
+    "genre": "Action, Comedy",
+    "plot": "An ex-special forces operative takes a job to provide security for a journalist as she interviews a dictator, but when a military coup breaks out in the middle of the interview, they are forced to escape into the jungle.",
+    "runtime": "108 min",
+    "director": "Pierre Morel",
+    "actors": "John Cena, Alison Brie, Juan Pablo Raba",
+    "production_country": "United States, Colombia, United Kingdom",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMDcwYzM1YTEtYmU3YS00YjAzLTg1OGMtZjZmOWVhNTUyMmUxXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/897087.webp",
+    "imdb_rating": "5.6",
+    "imdb_votes": "28,861",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Freelance_(2023_film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/897087.txt",
+    "plot_year_start": 2023,
+    "plot_year_end": 2023,
+    "epoch": "platform-and-ai-world",
+    "action_countries": [
+      "FICTIONAL"
+    ],
+    "action_continents": [
+      "FICTIONAL"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "failures": {
+      "categories": "missing_category_list"
+    }
+  },
+  {
+    "movie_id": 447404,
+    "movie_idx": 1924,
+    "imdb_id": "tt5884052",
+    "title": "Pokémon: Detective Pikachu",
+    "production_year": "2019",
+    "genre": "Adventure, Comedy, Family",
+    "plot": "The story begins when ace detective Harry Goodman goes mysteriously missing, prompting his 21-year-old son Tim to find out what happened. Aiding in the investigation is Harry's former Pokémon partner, Detective Pikachu: a hilariously wise-cracking, adorable super-sleuth who is a puzzlement even to himself. Finding that they are uniquely equipped to communicate with one another, Tim and Pikachu join forces on a thrilling adventure to unravel the tangled mystery. Chasing clues together through the neon-lit streets of Ryme City--a sprawling, modern metropolis where humans and Pokémon live side by side in a hyper-realistic live-action world--they encounter a diverse cast of Pokémon characters and uncover a shocking plot that could destroy this peaceful co-existence and threaten the whole Pokémon universe.",
+    "runtime": "104 min",
+    "director": "Rob Letterman",
+    "actors": "Ryan Reynolds, Justice Smith, Kathryn Newton",
+    "production_country": "United States, Japan, United Kingdom, Canada",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNDU4Mzc3NzE5NV5BMl5BanBnXkFtZTgwMzE1NzI1NzM@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/447404.webp",
+    "imdb_rating": "6.5",
+    "imdb_votes": "192,442",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Detective_Pikachu_(film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/447404.txt",
+    "plot_year_start": 2018,
+    "plot_year_end": 2019,
+    "epoch": "platform-and-ai-world",
+    "action_countries": [
+      "FICTIONAL"
+    ],
+    "action_continents": [
+      "FICTIONAL"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "failures": {
+      "categories": "missing_category_list"
+    }
+  },
+  {
+    "movie_id": 228165,
+    "movie_idx": 1950,
+    "imdb_id": "tt2279373",
+    "title": "The SpongeBob Movie: Sponge Out of Water",
+    "production_year": "2015",
+    "genre": "Animation, Adventure, Comedy",
+    "plot": "During a fight between the Krusty Krab and Plankton, the secret formula disappears and all of Bikini Bottom goes into a terrible apocalypse. The Bikini Bottomites go crazy and they all believe that Spongebob and Plankton stole the secret formula. The two new teammates create a time machine to get the secret formula before it disappears and also go to some weird places along the way including a time paralex where they meet a time wizard named Bubbles who is a dolphin. The two later get to the time when the formula disappeared and take it back to the present day time. They then realized that it's a fake formula Plankton made when he was taking the real one and the Bikini Bottomites try to destroy Spongebob (Plankton runs away) Spongebob smells Krabby patties and so does everyone else so the Bikini Bottomites follow it (instead of destroying Spongebob) and they arrive at the bank of the surface. Everyone except Spongebob, Patrick, Mr. Krabs, Squidward, Sandy, and a stowaway Plankton go back home while the six characters that stayed are greeted by Bubbles who takes them to the surface where a pirate is selling Krabby Patties. The team learns that they can write in a magic book and it'll make whatever they write in it become true. They decide to turn themselves into superheroes and battle the pirate. Meanwhile, Plankton writes himself as a superhero too.",
+    "runtime": "92 min",
+    "director": "Paul Tibbitt, Mike Mitchell",
+    "actors": "Tom Kenny, Antonio Banderas, Bill Fagerbakke",
+    "production_country": "United States, South Korea, Australia",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNDhlMDM3ZDUtMGNhZi00ZTFmLTg1YjYtZTM3ZTE1MGIwNWFjXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/228165.webp",
+    "imdb_rating": "6.0",
+    "imdb_votes": "66,947",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/The_SpongeBob_Movie:_Sponge_Out_of_Water",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/228165.txt",
+    "plot_year_start": 2015,
+    "plot_year_end": 2015,
+    "epoch": "platform-and-ai-world",
+    "action_countries": [
+      "FICTIONAL"
+    ],
+    "action_continents": [
+      "FICTIONAL"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "failures": {
+      "categories": "missing_category_list"
+    }
+  },
+  {
+    "movie_id": 137106,
+    "movie_idx": 1989,
+    "imdb_id": "tt1490017",
+    "title": "The Lego Movie",
+    "production_year": "2014",
+    "genre": "Animation, Action, Adventure",
+    "plot": "The LEGO Movie is a 3D animated film which follows lead character, Emmet a completely ordinary LEGO mini-figure who is identified as the most \"extraordinary person\" and the key to saving the Lego universe. Emmet and his friends go on an epic journey to stop the evil tyrant, Lord Business.",
+    "runtime": "100 min",
+    "director": "Phil Lord, Christopher Miller",
+    "actors": "Chris Pratt, Will Ferrell, Elizabeth Banks",
+    "production_country": "United States, Denmark, Australia, Norway",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTg4MDk1ODExN15BMl5BanBnXkFtZTgwNzIyNjg3MDE@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/137106.webp",
+    "imdb_rating": "7.7",
+    "imdb_votes": "411,857",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Lego_Movie",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/137106.txt",
+    "plot_year_start": 2014,
+    "plot_year_end": 2014,
+    "epoch": "platform-and-ai-world",
+    "action_countries": [
+      "FICTIONAL"
+    ],
+    "action_continents": [
+      "FICTIONAL"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "failures": {
+      "categories": "missing_category_list"
+    }
+  },
+  {
+    "movie_id": 896221,
+    "movie_idx": 1995,
+    "imdb_id": "tt15720718",
+    "title": "Trolls Holiday in Harmony",
+    "production_year": "2021",
+    "genre": "Animation, Adventure, Comedy",
+    "plot": "Queen Poppy plans the first annual Trolls Kingdom Secret Holiday Gift Swap, but, things don't go as expected.",
+    "runtime": "26 min",
+    "director": "Sean Charmatz, Tim Heitz",
+    "actors": "Anna Kendrick, Justin Timberlake, Kenan Thompson",
+    "production_country": "United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BOTE4NzhhZjgtOWZlZS00NGVmLTgxZGMtNDllZmFhNmYwZGExXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/896221.webp",
+    "imdb_rating": "6.1",
+    "imdb_votes": "781",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Trolls_Holiday",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/896221.txt",
+    "plot_year_start": 2017,
+    "plot_year_end": 2017,
+    "epoch": "platform-and-ai-world",
+    "action_countries": [
+      "FICTIONAL"
+    ],
+    "action_continents": [
+      "FICTIONAL"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Trolls",
+    "failures": {
+      "categories": "missing_category_list"
+    }
+  },
+  {
+    "movie_id": 592350,
+    "movie_idx": 2267,
+    "imdb_id": "tt11107074",
+    "title": "My Hero Academia: Heroes Rising",
+    "production_year": "2019",
+    "genre": "Animation, Action, Adventure",
+    "plot": "After the events of Season 4 of the Anime, Izuku Midoriya and Katsuki Bakugo go from fighting against each other to fighting side by side as they face the biggest threat that dares to dominate the domain: NINE.",
+    "runtime": "104 min",
+    "director": "Kenji Nagasaki",
+    "actors": "Daiki Yamashita, Nobuhiko Okamoto, Yuka Terasaki",
+    "production_country": "Japan",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjRhY2NiNzItZjM1Mi00NDBiLWI5YTctMTU0ZTFlNzA3ZjlkXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/592350.webp",
+    "imdb_rating": "7.8",
+    "imdb_votes": "12,330",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/My_Hero_Academia:_Heroes_Rising",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/592350.txt",
+    "plot_year_start": 2019,
+    "plot_year_end": 2019,
+    "epoch": "platform-and-ai-world",
+    "action_countries": [
+      "FICTIONAL"
+    ],
+    "action_continents": [
+      "FICTIONAL"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "My Hero Academia",
+    "failures": {
+      "categories": "missing_category_list"
+    }
+  },
+  {
+    "movie_id": 509967,
+    "movie_idx": 2288,
+    "imdb_id": "tt8106534",
+    "title": "6 Underground",
+    "production_year": "2019",
+    "genre": "Action, Thriller",
+    "plot": "What's the best part of being dead? It's the freedom. The freedom to fight the evil which lurks in our world. 6 Underground's group of unnamed individuals have chosen to change the future. The team's brought together by enigmatic leader code-named 'One', whose sole mission is to ensure that, he and his fellow teammates will have their actions remembered.",
+    "runtime": "128 min",
+    "director": "Michael Bay",
+    "actors": "Ryan Reynolds, Mélanie Laurent, Manuel Garcia-Rulfo",
+    "production_country": "United States, Canada, United Arab Emirates, Italy, Hungary",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNTNmZDgzMmMtMzJhMy00NGI3LWI5YTktYjg5MTllZmYyYTMxXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/509967.webp",
+    "imdb_rating": "6.1",
+    "imdb_votes": "207,885",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/6_Underground_(film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/509967.txt",
+    "plot_year_start": 2019,
+    "plot_year_end": 2019,
+    "epoch": "platform-and-ai-world",
+    "action_countries": [
+      "FICTIONAL",
+      "IT",
+      "HK",
+      "AE",
+      "US"
+    ],
+    "action_continents": [
+      "FICTIONAL",
+      "Europe",
+      "Asia",
+      "Asia",
+      "North America"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "failures": {
+      "categories": "missing_category_list"
+    }
+  },
+  {
+    "movie_id": 593910,
+    "movie_idx": 2345,
+    "imdb_id": "tt10155932",
+    "title": "Cinderella",
+    "production_year": "2021",
+    "genre": "Comedy, Family, Fantasy",
+    "plot": "A modern movie musical with a bold take on the classic fairy tale. Our ambitious heroine has big dreams and with the help of her fab Godmother, she perseveres to make them come true.",
+    "runtime": "112 min",
+    "director": "Kay Cannon",
+    "actors": "Camila Cabello, Billy Porter, Nicholas Galitzine",
+    "production_country": "United States, United Kingdom",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZjdjNTYwYjQtYTBmNC00MjRlLTljZTctZDBiNTY5NWFiZDhhXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/593910.webp",
+    "imdb_rating": "4.4",
+    "imdb_votes": "49,533",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Cinderella_(2021_American_film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/593910.txt",
+    "plot_year_start": 2021,
+    "plot_year_end": 2021,
+    "epoch": "platform-and-ai-world",
+    "action_countries": [
+      "FICTIONAL"
+    ],
+    "action_continents": [
+      "FICTIONAL"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "failures": {
+      "categories": "missing_category_list"
+    }
+  },
+  {
+    "movie_id": 484718,
+    "movie_idx": 2481,
+    "imdb_id": "tt6802400",
+    "title": "Coming 2 America",
+    "production_year": "2021",
+    "genre": "Comedy, Music",
+    "plot": "Sensing that trouble is brewing in the African kingdom of Zamunda, three long and prosperous decades after Prince Akeem and Lisa McDowell's opulent wedding in Coming to America (1988), King Jaffe Joffer and Semmi drop a bombshell. As a result, with three lovely daughters and no sons, it seems that Prince Akeem is with his back to the wall, as General Izzi, the megalomaniac despot of the neighbouring country of Nexdoria, dreams of seizing power through a political marriage of convenience. Now, newly crowned King Akeem and his trusted confidante, Semmi, have to return where it all began, the bustling borough of Queens, New York, to retrieve Lavelle: the illegitimate son unsuspecting Akeem never knew existed. Can the prince of Zamunda restore peace and stability in less than a week?",
+    "runtime": "110 min",
+    "director": "Craig Brewer",
+    "actors": "Eddie Murphy, Arsenio Hall, Shari Headley",
+    "production_country": "United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BN2NhODZjMTktOGNmOC00OTllLTk3NWItYzNiNmRlNTYwMTcxXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/484718.webp",
+    "imdb_rating": "5.3",
+    "imdb_votes": "80,613",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Coming_2_America",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/484718.txt",
+    "plot_year_start": 2018,
+    "plot_year_end": 2021,
+    "epoch": "platform-and-ai-world",
+    "action_countries": [
+      "FICTIONAL",
+      "US"
+    ],
+    "action_continents": [
+      "FICTIONAL",
+      "North America"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "failures": {
+      "categories": "missing_category_list"
+    }
+  },
+  {
+    "movie_id": 1142785,
+    "movie_idx": 2507,
+    "imdb_id": "tt28133763",
+    "title": "The Royal Bake Off",
+    "production_year": "2023",
+    "genre": "Comedy, Romance",
+    "plot": "The rivalries of bakers Allie and Marily intensify when the Royal Prince of Samavia rolls into town looking for a royal baker. When Allie and the Prince hit it off, it seems he might be in the market for more than just a terrific ...",
+    "runtime": "89 min",
+    "director": "Bruno Hernández, Damián Romay",
+    "actors": "Ansley Gordon, Christian Howard, Hannah Brantley",
+    "production_country": "United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMDRhZTE4YjUtMGQ4ZC00OWVkLWFmYjItMzFmYjM2ZTZkNmM1XkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/1142785.webp",
+    "imdb_rating": "5.4",
+    "imdb_votes": "128",
+    "plot_year_start": 2020,
+    "plot_year_end": 2020,
+    "epoch": "platform-and-ai-world",
+    "action_countries": [
+      "FICTIONAL"
+    ],
+    "action_continents": [
+      "FICTIONAL"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "failures": {
+      "wikipedia": "no_wiki_article_found",
+      "categories": "missing_category_list"
+    }
+  },
+  {
+    "movie_id": 454640,
+    "movie_idx": 2652,
+    "imdb_id": "tt6095472",
+    "title": "The Angry Birds Movie 2",
+    "production_year": "2019",
+    "genre": "Animation, Action, Adventure",
+    "plot": "After saving Bird Island from an all-out green-pig invasion in Angry Birds (2016), the isle's always cranky local hero, Red, still finds himself doing battle with Pig Island. As the prank war between pigs and birds is raging, massive icy projectiles coming from the feathery tyrant Zeta's ice-capped Eagle Island threaten the security of both havens, unless Red and King Leonard agree to form a difficult but honest truce. Now, Red, Bomb, Mighty Eagle, Chuck, and his brilliant sister, Silver, have to join forces with Leonard's mighty porcine team to thwart the megalomaniac Zeta's bold schemes for world domination. However, is Red capable of change?",
+    "runtime": "97 min",
+    "director": "Thurop Van Orman, John Rice",
+    "actors": "Jason Sudeikis, Josh Gad, Leslie Jones",
+    "production_country": "Finland, United States, Australia, Canada, Japan, Kazakhstan",
+    "poster": "https://m.media-amazon.com/images/M/MV5BOGJkNzYyZmYtOGJkNy00NDExLWEwOWEtZDcxYmRmYTg1YTI3XkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/454640.webp",
+    "imdb_rating": "6.4",
+    "imdb_votes": "41,503",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Angry_Birds_Movie_2",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/454640.txt",
+    "plot_year_start": 2019,
+    "plot_year_end": 2019,
+    "epoch": "platform-and-ai-world",
+    "action_countries": [
+      "FICTIONAL"
+    ],
+    "action_continents": [
+      "FICTIONAL"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "failures": {
+      "categories": "missing_category_list"
+    }
+  },
+  {
+    "movie_id": 354556,
+    "movie_idx": 2804,
+    "imdb_id": "tt3896198",
+    "title": "Guardians of the Galaxy Vol. 2",
+    "production_year": "2017",
+    "genre": "Action, Adventure, Comedy",
+    "plot": "After saving Xandar from Ronan's wrath, the Guardians are now recognized as heroes. Now the team must help their leader Star Lord (Chris Pratt) uncover the truth behind his true heritage. Along the way, old foes turn to allies and betrayal is blooming. And the Guardians find that they are up against a devastating new menace who is out to rule the galaxy.",
+    "runtime": "136 min",
+    "director": "James Gunn",
+    "actors": "Chris Pratt, Zoe Saldaña, Dave Bautista",
+    "production_country": "United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNWE5MGI3MDctMmU5Ni00YzI2LWEzMTQtZGIyZDA5MzQzNDBhXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/354556.webp",
+    "imdb_rating": "7.6",
+    "imdb_votes": "823,054",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Guardians_of_the_Galaxy_Vol._2",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/354556.txt",
+    "plot_year_start": 2014,
+    "plot_year_end": 2014,
+    "epoch": "platform-and-ai-world",
+    "action_countries": [
+      "FICTIONAL"
+    ],
+    "action_continents": [
+      "FICTIONAL"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Marvel Cinematic Universe",
+    "failures": {
+      "categories": "missing_category_list"
+    }
+  },
+  {
+    "movie_id": 484510,
+    "movie_idx": 2839,
+    "imdb_id": "tt6645614",
+    "title": "Trolls Holiday",
+    "production_year": "2017",
+    "genre": "Animation, Adventure, Comedy",
+    "plot": "When the Queen of the Trolls, Poppy, finds out that the Bergens do not have holidays, she enlists help from her friends, Branch and the Snack Pack, to help her bring holidays to the Bergens.",
+    "runtime": "26 min",
+    "director": "Joel Crawford",
+    "actors": "Anna Kendrick, Justin Timberlake, Zooey Deschanel",
+    "production_country": "United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BODFkNTMzZTQtMmZmNC00YTNjLWFlZWUtNjJlMTc1NWRhODNiXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/484510.webp",
+    "imdb_rating": "6.1",
+    "imdb_votes": "3,787",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Trolls_Holiday",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/484510.txt",
+    "plot_year_start": 2017,
+    "plot_year_end": 2017,
+    "epoch": "platform-and-ai-world",
+    "action_countries": [
+      "FICTIONAL"
+    ],
+    "action_continents": [
+      "FICTIONAL"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Trolls",
+    "failures": {
+      "categories": "missing_category_list"
+    }
+  },
+  {
+    "movie_id": 805411,
+    "movie_idx": 2847,
+    "imdb_id": "tt14250912",
+    "title": "Descendants: The Royal Wedding",
+    "production_year": "2021",
+    "genre": "Animation, Short, Action",
+    "plot": "Happily-ever-after continues for Auradon's power couple, Mal and Ben, as they prepare to say \"I do\" at an epic celebration with their friends and family, but Hades threatens to ruin it all.",
+    "runtime": "22 min",
+    "director": "Salvador Simó",
+    "actors": "Dove Cameron, Sofia Carson, Booboo Stewart",
+    "production_country": "United States, Spain, China",
+    "poster": "https://m.media-amazon.com/images/M/MV5BOGI1MzYyYTMtMDdkZC00OGE5LTgwZTktZWJhNWMyMTc4YzFiXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/805411.webp",
+    "imdb_rating": "5.6",
+    "imdb_votes": "989",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Descendants_3",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/805411.txt",
+    "plot_year_start": 2019,
+    "plot_year_end": 2019,
+    "epoch": "platform-and-ai-world",
+    "action_countries": [
+      "FICTIONAL"
+    ],
+    "action_continents": [
+      "FICTIONAL"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Descendants",
+    "failures": {
+      "categories": "missing_category_list"
+    }
+  },
+  {
+    "movie_id": 516806,
+    "movie_idx": 3342,
+    "imdb_id": "tt5153956",
+    "title": "Last Sentinel",
+    "production_year": "2023",
+    "genre": "Drama, Horror, Mystery",
+    "plot": "A platoon of soldiers are stranded in an abandoned military base on a near future Earth waiting for the relief or the enemy, whichever comes first.",
+    "runtime": "117 min",
+    "director": "Tanel Toom",
+    "actors": "Kate Bosworth, Lucien Laviscount, Martin McCann",
+    "production_country": "United Kingdom, Estonia, Germany",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjgwNDA0YWUtYWE5Ny00MzRhLTk4YWUtZjgzMGU2NzhmZmMxXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/516806.webp",
+    "imdb_rating": "4.9",
+    "imdb_votes": "8,130",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Last_Sentinel",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/516806.txt",
+    "plot_year_start": 2030,
+    "plot_year_end": 2030,
+    "epoch": "platform-and-ai-world",
+    "action_countries": [
+      "FICTIONAL"
+    ],
+    "action_continents": [
+      "FICTIONAL"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "failures": {
+      "categories": "missing_category_list"
+    }
+  },
+  {
+    "movie_id": 452557,
+    "movie_idx": 3627,
+    "imdb_id": "tt7131870",
+    "title": "Wolf Warrior 2",
+    "production_year": "2017",
+    "genre": "Action, Adventure, Drama",
+    "plot": "Leng Feng (acted by Jing Wu), a former soldier being discharged from the Chinese Army for his fierce action - having killed a real estate company boss in town, was wandering for his life in Africa, serving as a mercenary providing security to passengers abroad. No matter how badly off Feng was, someone was still in his mind: Long Xiaoyun, Feng's fiancee, who had been kidnapped and lost contact with him for three years. Feng was wearing a bullet as a clue to represent her. One night in a pub, Feng and his local friends were attacked by some rebel forces who aimed to overthrow the African government. The Rebels and mercenaries troops arrived. Bullets, fire and bombs were hitting the place with blood everywhere. The Chinese nationals were in great danger. The Chinese fleet arrived to evacuate the Chinese nationals, but later Feng learned that some Chinese workers were still stuck in a factory whereas a doctor, who knew the deadly virus Lamanla, was stuck in a hospital. Feng headed to save the doctor but he was shot almost dead. With his last few dying breaths, Dr Chen told Feng to take care of Pasha, his African daughter. Feng strove to save the Chinese workers but he caught the deadly virus accidentally. Soon when Feng, Pasha and an American doctor Rachel Smith (acted by Celina Jade) arrived at the factory, they encountered a hard battle with Big Daddy (acted by Frank Grillo), head of European mercenaries, starting their blood shedding slaughter plan. The war never ended until the moment when the Chinese Army learned the casualties in Africa, so they fired missiles and sent out tanks to help. Feng finally killed Big Daddy in the hard battle to end the civil war. Feng succeeded and he sent all the crew members back to China. He was allowed by his commander of the Chinese Army to return to his military squadron.",
+    "runtime": "123 min",
+    "director": "Jing Wu",
+    "actors": "Jing Wu, Frank Grillo, Celina Jade",
+    "production_country": "China",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTY0NjU4NjE4Nl5BMl5BanBnXkFtZTgwNjk0ODY5MjI@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/452557.webp",
+    "imdb_rating": "5.9",
+    "imdb_votes": "9,482",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Wolf_Warrior_2",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/452557.txt",
+    "plot_year_start": 2017,
+    "plot_year_end": 2017,
+    "epoch": "platform-and-ai-world",
+    "action_countries": [
+      "FICTIONAL",
+      "CN"
+    ],
+    "action_continents": [
+      "FICTIONAL",
+      "Asia"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "failures": {
+      "categories": "missing_category_list"
+    }
+  },
+  {
+    "movie_id": 326359,
+    "movie_idx": 4032,
+    "imdb_id": "tt4007502",
+    "title": "Frozen Fever",
+    "production_year": "2015",
+    "genre": "Animation, Short, Adventure",
+    "plot": "It's Anna's birthday and Elsa plans to throw her the perfect surprise party with the help of Kristoff and Olaf. However, after planning the huge party and as Anna is being led on a \"party treasure hunt,\" Elsa finds that she has caught a cold (presumingly from the eternal winter). She starts sneezing and produces a group of small, cute snow people, much like Olaf, with each sneeze. After some near-misses, a very exhausted Elsa finally makes it with Anna to the courtyard where the party has been arranged. It is a big hit, and at last Anna manages to convince Elsa into letting her to lead her to bed and take care of her. Meanwhile, Olaf has taken the tiny snow creatures under his wing and takes them to Elsa's ice castle with the help of Kristoff.",
+    "runtime": "8 min",
+    "director": "Chris Buck, Jennifer Lee",
+    "actors": "Kristen Bell, Idina Menzel, Jonathan Groff",
+    "production_country": "United States, Japan",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTNmNTU0ZjQtOTMwMC00NGVjLWJmNTgtZTIyYmQwNTI0NzY2XkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/326359.webp",
+    "imdb_rating": "6.7",
+    "imdb_votes": "18,787",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Frozen_Fever",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/326359.txt",
+    "plot_year_start": 2014,
+    "plot_year_end": 2014,
+    "epoch": "platform-and-ai-world",
+    "action_countries": [
+      "FICTIONAL"
+    ],
+    "action_continents": [
+      "FICTIONAL"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Frozen Universe",
+    "failures": {
+      "categories": "missing_category_list"
+    }
+  },
+  {
+    "movie_id": 19,
+    "movie_idx": 4096,
+    "imdb_id": "tt0017136",
+    "title": "Metropolis",
+    "production_year": "1927",
+    "genre": "Drama, Sci-Fi",
+    "plot": "Sometime in the future, the city of Metropolis is home to a Utopian society where its wealthy residents live a carefree life. One of those is Freder Fredersen. One day, he spots a beautiful woman with a group of children, she and the children quickly disappear. Trying to follow her, he is horrified to find an underground world of workers who apparently run the machinery that keeps the Utopian world above ground functioning. One of the few people above ground who knows about the world below is Freder's father, John Fredersen, who is the founder and master of Metropolis. Freder learns that the woman is called Maria, who espouses the need to join the \"hands\" - the workers - to the \"head\" - those in power above - by a mediator who will act as the \"heart\". Freder wants to help the plight of the workers in their struggle for a better life. But when John learns of what Maria is advocating and that Freder has joined their cause, with the assistance of an old colleague. an inventor called Rotwang, who turns out to be But their nemesis goes to works towards quashing a proposed uprising, with Maria at the centre of their plan. John, unaware that Rotwang has his own agenda., makes plans that include shutting down the machines, with the prospect of unleashing total anarchy both above and below ground.",
+    "runtime": "153 min",
+    "director": "Fritz Lang",
+    "actors": "Brigitte Helm, Alfred Abel, Gustav Fröhlich",
+    "production_country": "Germany",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjhjMGYyMjAtMzJkYy00NzhlLWIwY2MtMWQ2ODIxZDUyOGYyXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/19.webp",
+    "imdb_rating": "8.2",
+    "imdb_votes": "199,601",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Metropolis_(1927_film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/19.txt",
+    "plot_year_start": 2026,
+    "plot_year_end": 2026,
+    "epoch": "platform-and-ai-world",
+    "action_countries": [
+      "FICTIONAL"
+    ],
+    "action_continents": [
+      "FICTIONAL"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "failures": {
+      "categories": "missing_category_list"
+    }
+  },
+  {
+    "movie_id": 458305,
+    "movie_idx": 4776,
+    "imdb_id": "tt8368406",
+    "title": "Vivarium",
+    "production_year": "2019",
+    "genre": "Horror, Mystery, Sci-Fi",
+    "plot": "A young couple is thinking about buying their starter home. And to this end, they visit a real estate agency where they are received by a strange sales agent, who accompanies them to a new, mysterious, peculiar housing development to show them a single-family home. There they get trapped in a surreal, maze-like nightmare.",
+    "runtime": "97 min",
+    "director": "Lorcan Finnegan",
+    "actors": "Imogen Poots, Danielle Ryan, Molly McCann",
+    "production_country": "Ireland, Belgium, Denmark",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZjdlZmRmOTUtN2IxZi00ZmY2LWE5MWMtOTYxNTkyNzA3ZGFjXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/458305.webp",
+    "imdb_rating": "5.9",
+    "imdb_votes": "86,624",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Vivarium_(film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/458305.txt",
+    "plot_year_start": 2019,
+    "plot_year_end": 2019,
+    "epoch": "platform-and-ai-world",
+    "action_countries": [
+      "FICTIONAL"
+    ],
+    "action_continents": [
+      "FICTIONAL"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "failures": {
+      "categories": "missing_category_list"
+    }
+  },
+  {
+    "movie_id": 303903,
+    "movie_idx": 5229,
+    "imdb_id": "tt3918368",
+    "title": "Pokémon the Movie: Diancie and the Cocoon of Destruction",
+    "production_year": "2014",
+    "genre": "Animation, Action, Adventure",
+    "plot": "When Diancie a Pokémon said to create diamond travels to find Xerneas to help her make a heart diamond to save her home, Ash, Serena, Clemont and Bonnie help her to be safe on the way from thieves.",
+    "runtime": "76 min",
+    "director": "Kunihiko Yuyama",
+    "actors": "Ikue Ôtani, Caitlin Glass, Sarah Natochenny",
+    "production_country": "Japan",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZmIxNTYzODctY2ZlNS00Njc1LWFkMGUtNTI1MTlhZTFjMjNjXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/303903.webp",
+    "imdb_rating": "5.5",
+    "imdb_votes": "2,094",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Pok%C3%A9mon_the_Movie:_Diancie_and_the_Cocoon_of_Destruction",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/303903.txt",
+    "plot_year_start": 2014,
+    "plot_year_end": 2014,
+    "epoch": "platform-and-ai-world",
+    "action_countries": [
+      "FICTIONAL"
+    ],
+    "action_continents": [
+      "FICTIONAL"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Pokémon",
+    "failures": {
+      "categories": "missing_category_list"
+    }
+  },
+  {
+    "movie_id": 955644,
+    "movie_idx": 5363,
+    "imdb_id": "tt5790684",
+    "title": "Mia and Me: The Hero of Centopia",
+    "production_year": "2022",
+    "genre": "Animation, Adventure, Family",
+    "plot": "Mia discovers her magic stone is part of an ancient prophecy and embarks on a thrilling journey to the farthest islands of Centopia to face a great evil, and shape her own destiny.",
+    "runtime": "85 min",
+    "director": "Adam Gunn",
+    "actors": "Gedeon Burkhard, Bettina Kenney, Sabine Walkenbach",
+    "production_country": "Germany, Australia, Belgium, India, Italy",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZjA2NjI1MTQtZmI4Yy00Njc3LTk3Y2ItZWNhMjRlYWM5OGFhXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/955644.webp",
+    "imdb_rating": "6.0",
+    "imdb_votes": "1,400",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Mia_and_Me",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/955644.txt",
+    "plot_year_start": 2015,
+    "plot_year_end": 2015,
+    "epoch": "platform-and-ai-world",
+    "action_countries": [
+      "FICTIONAL"
+    ],
+    "action_continents": [
+      "FICTIONAL"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "failures": {
+      "categories": "missing_category_list"
+    }
+  },
+  {
+    "movie_id": 384521,
+    "movie_idx": 5391,
+    "imdb_id": "tt2548396",
+    "title": "The Cloverfield Paradox",
+    "production_year": "2018",
+    "genre": "Horror, Sci-Fi, Thriller",
+    "plot": "In the near future, there is an energy crisis on Earth. The Cloverfield Station with a multinational crew will test the Shepard particle accelerator expecting to generate energy for all countries solving the energy problem. However, the experiment goes wrong, damages the station and opens a portal to another dimension with a parallel Earth. They also find a woman entwined with wires behind a bulkhead of the station and they learn she worked in an identical Cloverfield Station in another dimension. Now the scientists need to find a way to return to their own dimension.",
+    "runtime": "102 min",
+    "director": "Julius Onah",
+    "actors": "Gugu Mbatha-Raw, David Oyelowo, Daniel Brühl",
+    "production_country": "United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTAwOTIxMDA0MjZeQTJeQWpwZ15BbWU4MDg1MjgzNzQz._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/384521.webp",
+    "imdb_rating": "5.5",
+    "imdb_votes": "120,304",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Cloverfield_Paradox",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/384521.txt",
+    "plot_year_start": 2028,
+    "plot_year_end": 2028,
+    "epoch": "platform-and-ai-world",
+    "action_countries": [
+      "FICTIONAL"
+    ],
+    "action_continents": [
+      "FICTIONAL"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Cloverfield Universe",
+    "failures": {
+      "categories": "missing_category_list"
+    }
+  },
+  {
+    "movie_id": 763788,
+    "movie_idx": 5407,
+    "imdb_id": "tt3876910",
+    "title": "Dangerous",
+    "production_year": "2021",
+    "genre": "Action, Thriller",
+    "plot": "Ex-con and reformed sociopath Dylan Forrester is trying to quietly serve out his parole, with the help of a steady supply of antidepressants from his eccentric psychiatrist. However, when his brother dies under mysterious circumstances, Dylan breaks parole. With a determined FBI agent on his trail, Dylan goes to uncover the truth. Meanwhile, a band of armed mercenaries wants something Dylan's brother was hiding, and Dylan will need all his cunning and tactical skills to survive.",
+    "runtime": "99 min",
+    "director": "David Hackl",
+    "actors": "Scott Eastwood, Kevin Durand, Famke Janssen",
+    "production_country": "United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNTU0MzJiZjctMjIyNS00ZjI4LWI0MWQtNzdmYzdkNzQzMDA4XkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/763788.webp",
+    "imdb_rating": "5.2",
+    "imdb_votes": "10,928",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Dangerous_(2021_film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/763788.txt",
+    "plot_year_start": 2021,
+    "plot_year_end": 2021,
+    "epoch": "platform-and-ai-world",
+    "action_countries": [
+      "FICTIONAL",
+      "CA"
+    ],
+    "action_continents": [
+      "FICTIONAL",
+      "North America"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "failures": {
+      "categories": "missing_category_list"
+    }
+  },
+  {
+    "movie_id": 587693,
+    "movie_idx": 5524,
+    "imdb_id": "tt10006006",
+    "title": "A Christmas Prince: The Royal Baby",
+    "production_year": "2019",
+    "genre": "Family, Romance",
+    "plot": "It's Christmastime in Aldovia, and a a royal baby is on the way. Queen Amber (Rose McIver) and King Richard (Ben Lamb) are getting ready to take some time off to prepare for their first child's arrival, but first they have to host King Tai (Kevin Shen) and Queen Ming (Momo Yeung) of Penglia to renew a 600-year-old sacred truce. But when a snowstorm hits on Christmas Eve and the priceless treaty goes missing, peace is jeopardized and an ancient curse looms. Amber will have to figure out who the thief is before before the clock strikes midnight, for the safety of her family and the kingdom.",
+    "runtime": "84 min",
+    "director": "John Schultz",
+    "actors": "Rose McIver, Ben Lamb, Alice Krige",
+    "production_country": "United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNzEyM2UyMTYtZDI4ZS00MzM2LWE0MjgtMTU4YjI5NmNkMjU2XkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/587693.webp",
+    "imdb_rating": "5.4",
+    "imdb_votes": "8,602",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/A_Christmas_Prince:_The_Royal_Baby",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/587693.txt",
+    "plot_year_start": 2018,
+    "plot_year_end": 2018,
+    "epoch": "platform-and-ai-world",
+    "action_countries": [
+      "FICTIONAL"
+    ],
+    "action_continents": [
+      "FICTIONAL"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "failures": {
+      "categories": "missing_category_list"
+    }
+  },
+  {
+    "movie_id": 350499,
+    "movie_idx": 6148,
+    "imdb_id": "tt4503906",
+    "title": "Pokémon the Movie: Hoopa and the Clash of Ages",
+    "production_year": "2015",
+    "genre": "Animation, Action, Adventure",
+    "plot": "When Ash, Pikachu, and their friends visit a desert city by the sea, they meet the Mythical Pokémon Hoopa, who has the ability to summon things-including people and Pokémon-through its magic ring. After a scary incident, they learn a story about a brave hero who stopped the rampage of a terrifying Pokémon long ago. Now, the threat that has been bottled up for years is in danger of breaking loose again! Can Ash help his new friend overcome the darkness within...or will a dangerous secret erupt into a clash of legends?",
+    "runtime": "79 min",
+    "director": "Kunihiko Yuyama",
+    "actors": "Rica Matsumoto, Ikue Ôtani, Mayuki Makiguchi",
+    "production_country": "Japan",
+    "poster": "https://m.media-amazon.com/images/M/MV5BOTc4MzA2OTg1OF5BMl5BanBnXkFtZTgwNzcyNDAwODE@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/350499.webp",
+    "imdb_rating": "5.9",
+    "imdb_votes": "2,568",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Pok%C3%A9mon_the_Movie:_Hoopa_and_the_Clash_of_Ages",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/350499.txt",
+    "plot_year_start": 2015,
+    "plot_year_end": 2015,
+    "epoch": "platform-and-ai-world",
+    "action_countries": [
+      "FICTIONAL"
+    ],
+    "action_continents": [
+      "FICTIONAL"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Pokémon Universe",
+    "failures": {
+      "categories": "missing_category_list"
+    }
+  },
+  {
+    "movie_id": 258893,
+    "movie_idx": 6875,
+    "imdb_id": "tt2337576",
+    "title": "Scooby-Doo! WrestleMania Mystery",
+    "production_year": "2014",
+    "genre": "Animation, Comedy, Family, Mystery, Sport",
+    "plot": "When Shaggy and Scooby win tickets to WrestleMania, the entire gang travels in the Mystery Machine to WWE City to attend the epic event. However, when a mysterious ghostly bear appears and threatens to ruin the show, Scooby, Shaggy, Velma, Daphne and Fred work with WWE Superstars to solve the case.",
+    "runtime": "84 min",
+    "director": "Brandon Vietti, Seung-goo Jo, Young Won Jung, Jinsung Kim",
+    "actors": "Frank Welker, Mindy Cohn, Grey Griffin, Matthew Lillard",
+    "production_country": "USA",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNjE3NzE1MDQ2Nl5BMl5BanBnXkFtZTgwNDMyNzE4MDE@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/258893.webp",
+    "imdb_rating": "6.3",
+    "imdb_votes": "2,883",
+    "plot_year_start": 2014,
+    "plot_year_end": 2014,
+    "epoch": "platform-and-ai-world",
+    "action_countries": [
+      "FICTIONAL"
+    ],
+    "action_continents": [
+      "FICTIONAL"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "failures": {
+      "wikipedia": "no_wiki_article_found",
+      "categories": "missing_category_list"
+    }
+  },
+  {
+    "movie_id": 521720,
+    "movie_idx": 7051,
+    "imdb_id": "tt8159584",
+    "title": "Avengers Grimm: Time Wars",
+    "production_year": "2018",
+    "genre": "Action, Adventure, Fantasy",
+    "plot": "When Rumpelstiltskin tries to take over Earth once and for all, The Avengers Grimm must track him down through time in order to defeat him.",
+    "runtime": "88 min",
+    "director": "Maximilian Elfeldt",
+    "actors": "Lauren Parkinson, Elizabeth Eileen, Marah Fairclough, Christina Licciardi",
+    "production_country": "USA",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMDQwYTMwODItNWQ5Zi00ZTkyLWEzMDctOGM0NGVlOTg3MGRlXkEyXkFqcGdeQXVyMjM0ODM1NTE@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/521720.webp",
+    "imdb_rating": "2.5",
+    "imdb_votes": "476",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Avengers_Grimm",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/521720.txt",
+    "plot_year_start": 2015,
+    "plot_year_end": 2015,
+    "epoch": "platform-and-ai-world",
+    "action_countries": [
+      "FICTIONAL",
+      "US"
+    ],
+    "action_continents": [
+      "FICTIONAL",
+      "North America"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "failures": {
+      "categories": "missing_category_list"
+    }
+  },
+  {
+    "movie_id": 10447,
+    "movie_idx": 7502,
+    "imdb_id": "tt0110678",
+    "title": "No Escape",
+    "production_year": "1994",
+    "genre": "Action, Drama, Sci-Fi",
+    "plot": "Robbins is sentenced to prison for the assassination of his general officer, a prison you leave only when you die. Since nobody ever leaves the prison, nobody knows what the prison is like. The prison manager realizes this and buys himself an island playground called \"Absolom,\" where the worst prisoners are free to create an isolated barbaric society, and where the strongest men rule...a living hell. Robbins is sent to Absolom after he almost kills the prison manager.",
+    "runtime": "118 min",
+    "director": "Martin Campbell",
+    "actors": "Ray Liotta, Lance Henriksen, Stuart Wilson",
+    "production_country": "United States, United Kingdom",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNzQ3ODA1ODc4N15BMl5BanBnXkFtZTgwMDI4MzgxMTE@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/10447.webp",
+    "imdb_rating": "6.1",
+    "imdb_votes": "23,992",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/No_Escape_(1994_film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/10447.txt",
+    "plot_year_start": 2022,
+    "plot_year_end": 2022,
+    "epoch": "platform-and-ai-world",
+    "action_countries": [
+      "FICTIONAL"
+    ],
+    "action_continents": [
+      "FICTIONAL"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "failures": {
+      "categories": "missing_category_list"
+    }
+  },
+  {
+    "movie_id": 525041,
+    "movie_idx": 8058,
+    "imdb_id": "tt8709036",
+    "title": "A Christmas Prince: The Royal Wedding",
+    "production_year": "2018",
+    "genre": "Comedy, Drama, Romance",
+    "plot": "A year after helping Richard get to the throne, Amber is about to become his wife. But is she really made to be queen?",
+    "runtime": "92 min",
+    "director": "John Schultz",
+    "actors": "Rose McIver, Ben Lamb, Alice Krige",
+    "production_country": "United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BODU5M2FmMmUtMjQ1ZC00YTAzLWJiYjEtMTk5ZjI3MTYzZWQ0XkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/525041.webp",
+    "imdb_rating": "5.3",
+    "imdb_votes": "12,496",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/A_Christmas_Prince:_The_Royal_Wedding",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/525041.txt",
+    "plot_year_start": 2018,
+    "plot_year_end": 2018,
+    "epoch": "platform-and-ai-world",
+    "action_countries": [
+      "FICTIONAL"
+    ],
+    "action_continents": [
+      "FICTIONAL"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "failures": {
+      "categories": "missing_category_list"
+    }
+  },
+  {
+    "movie_id": 279254,
+    "movie_idx": 8775,
+    "imdb_id": "tt4016942",
+    "title": "Ghost in the Shell: Arise - Border 4: Ghost Stands Alone",
+    "production_year": "2014",
+    "genre": "Animation, Action, Sci-Fi",
+    "plot": "In the year 2027, a year following the end of the non-nuclear World War IV, a bomb has gone off in Newport City, killing a major arms dealer who may have ties with the mysterious 501 Organization. Public Security official Daisuke Aramaki hires full-body cyber prosthesis user and hacker extraordinaire, Motoko Kusanagi, to investigate.",
+    "runtime": "59 min",
+    "director": "Susumu Kudô, Kazuchika Kise",
+    "actors": "Maaya Sakamoto, Ikkyû Jaku, Ken'ichirô Matsuda",
+    "production_country": "Japan",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNmM0NjI4OTAtZGQxYy00NzNmLWJmZWMtM2MzMTkxZWNiNmVjXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/279254.webp",
+    "imdb_rating": "7.1",
+    "imdb_votes": "2,468",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Ghost_in_the_Shell:_Arise",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/279254.txt",
+    "plot_year_start": 2027,
+    "plot_year_end": 2027,
+    "epoch": "platform-and-ai-world",
+    "action_countries": [
+      "FICTIONAL"
+    ],
+    "action_continents": [
+      "FICTIONAL"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Ghost in the Shell Universe",
+    "failures": {
+      "categories": "missing_category_list"
+    }
+  },
+  {
+    "movie_id": 254263,
+    "movie_idx": 9574,
+    "imdb_id": "tt3559422",
+    "title": "The Swan Princess: A Royal Family Tale",
+    "production_year": "2014",
+    "genre": "Animation, Family, Fantasy, Musical",
+    "plot": "Prince Derek and Princess Odette adopt a little girl named Alise. Then, Alise gets captured by a group of flying squirrels, who believe that the Swan Princess is evil, according to a prophecy. Now, it's up to Derek and Odette to save Alise, convince the flying squirrels Odette isn't evil and defeat the evil Forbidden Arts.",
+    "runtime": "79 min",
+    "director": "Richard Rich",
+    "actors": "James Arrington, Laura Bailey, Joel Bishop, Joel Bishop",
+    "production_country": "USA, India, South Korea",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNjAxODUxOTAyNV5BMl5BanBnXkFtZTgwMjYwMjEwNzE@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/254263.webp",
+    "imdb_rating": "4.7",
+    "imdb_votes": "1,278",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Swan_Princess:_A_Royal_Family_Tale",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/254263.txt",
+    "plot_year_start": 2014,
+    "plot_year_end": 2014,
+    "epoch": "platform-and-ai-world",
+    "action_countries": [
+      "FICTIONAL"
+    ],
+    "action_continents": [
+      "FICTIONAL"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Middle-earth",
+    "failures": {
+      "categories": "missing_category_list"
+    }
+  }
+]

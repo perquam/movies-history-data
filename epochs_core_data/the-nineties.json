@@ -1,0 +1,76 @@
+{
+  "id": "the-nineties",
+  "label": "The Nineties",
+  "aliases": [
+    "The 1990s",
+    "Post-Cold War Era",
+    "The End of History",
+    "The Dot-Com Age",
+    "The Unipolar Moment"
+  ],
+  "time_range": {
+    "start_year": 1990,
+    "end_year": 2001,
+    "label": "1990 to 2001"
+  },
+  "headline": "The Cold War ends, the West declares victory, and for one strange decade the world pretends that history is over — while genocide, famine and collapse keep proving it isn't.",
+  "epoch_summary": "A decade of American supremacy, ethnic slaughter in the Balkans and Rwanda, the birth of the internet, the Asian financial crash, the slow tick of Islamist anger nobody is watching, grunge and hip-hop and a booming stock market — all riding a wave of optimism that shatters on a clear Tuesday morning in September.",
+  "regions": [
+    {
+      "region_name": "Africa",
+      "description_of_an_epoch_in_the_region": "South Africa walks out of apartheid and into democracy — Mandela votes for the first time at seventy-six and the world cries. But the continent's other story is Rwanda, where eight hundred thousand people are hacked to death in a hundred days while the UN argues about the word genocide. Somalia collapses into warlord territory, Sierra Leone eats itself in a diamond-fueled civil war, and the West mostly looks the other way because there's no oil and no Soviets to worry about anymore."
+    },
+    {
+      "region_name": "Antarctica",
+      "description_of_an_epoch_in_the_region": "Still ice, still silence, still no permanent residents. Scientists rotate through research stations and start measuring ozone holes that make the rest of the world nervous."
+    },
+    {
+      "region_name": "Asia",
+      "description_of_an_epoch_in_the_region": "China opens its economy and closes its politics — Tiananmen is fresh in everyone's memory and the Party makes a deal with its people: get rich, shut up. The Asian Tigers roar through the early nineties and then crash spectacularly in '97, wiping out savings and governments overnight. Hong Kong goes back to China with a handshake and a promise. India liberalizes, Japan stagnates, and Afghanistan — abandoned by everyone after the Soviets left — hands itself to the Taliban."
+    },
+    {
+      "region_name": "Europe",
+      "description_of_an_epoch_in_the_region": "The Berlin Wall is rubble and souvenirs. Eastern Europe stumbles into capitalism — some countries sprint toward the EU, others fall into the hands of oligarchs who buy entire industries for pocket change. Then Yugoslavia tears itself apart in the worst violence Europe has seen since 1945: siege, snipers, concentration camps, mass graves, all on the evening news. The West says never again, then waits three years before doing anything about it."
+    },
+    {
+      "region_name": "North America",
+      "description_of_an_epoch_in_the_region": "America wins the Cold War and doesn't know what to do with itself. The economy booms, the internet arrives, teenagers build websites in their bedrooms that turn into companies worth billions. But underneath the prosperity: Oklahoma City, Columbine, the LA riots, a president impeached over a stained dress, and a growing anger in the heartland that nobody in Washington takes seriously. Canada quietly builds its own identity. Mexico signs NAFTA and watches its factories multiply while its drug cartels do the same."
+    },
+    {
+      "region_name": "Oceania",
+      "description_of_an_epoch_in_the_region": "Australia buries its head in a mining boom and a culture war over Aboriginal land rights. New Zealand reinvents itself as a clean, green brand. The Pacific islands start measuring sea levels and wondering how long they have left."
+    },
+    {
+      "region_name": "South America",
+      "description_of_an_epoch_in_the_region": "The dictators are gone but the damage stays. Countries try democracy and free markets at the same time and the result is uneven — shiny malls in São Paulo, hunger in the favelas ten minutes away. Colombia is three wars at once: guerrillas, paramilitaries, and cocaine cartels that own judges and kill candidates. Argentina rides a dollar peg that feels like magic until it doesn't."
+    },
+    {
+      "region_name": "Atlantic Ocean",
+      "description_of_an_epoch_in_the_region": "No longer the line between two superpowers. Now it's a trade highway — container ships cross it fat and constant, carrying everything the new global economy produces. Underneath, fiber-optic cables start connecting continents at the speed of light."
+    },
+    {
+      "region_name": "Pacific Ocean",
+      "description_of_an_epoch_in_the_region": "The ocean of the future. Asian manufacturing feeds American consumption and the ships run day and night. Nuclear testing finally stops in the atolls, but the damage is already done — and the water is already rising."
+    },
+    {
+      "region_name": "Indian Ocean",
+      "description_of_an_epoch_in_the_region": "Oil tankers and trade routes, same as always. East African coasts start seeing piracy again. The ocean connects a booming India to a Middle East that is quietly radicalizing."
+    },
+    {
+      "region_name": "Southern Ocean",
+      "description_of_an_epoch_in_the_region": "Empty, freezing, indifferent. Whale populations begin recovering now that nobody is hunting them, and scientists sail through to study ice cores that tell the story of a warming planet."
+    },
+    {
+      "region_name": "Arctic Ocean",
+      "description_of_an_epoch_in_the_region": "Still frozen, but the ice is thinner than it used to be. Satellite images start showing what nobody wants to admit — the top of the world is melting, slowly, year by year."
+    },
+    {
+      "region_name": "FICTIONAL",
+      "description_of_an_epoch_in_the_region": "Invented worlds that borrow the nineties' strange cocktail of optimism and dread. Virtual realities, corporate dystopias, paranoid conspiracies — stories set in places that don't exist but run on the decade's suspicion that the comfortable surface is hiding something rotten. The technology is new and nobody knows the rules yet, which makes the fiction feel like a warning."
+    },
+    {
+      "region_name": "UNKNOWN",
+      "description_of_an_epoch_in_the_region": "Somewhere in the nineties. Strip malls, dial-up modems, VHS tapes, flannel shirts, a vague sense that things are fine but maybe shouldn't be. The geography doesn't matter — the feeling does: a world between eras, exhaling after the Cold War, not yet inhaling for what comes next."
+    }
+  ]
+}

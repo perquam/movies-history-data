@@ -1,0 +1,69 @@
+{
+  "epoch": "the-nineties",
+  "continent": "antarctica",
+  "sample_size": 1,
+  "sample": [
+    {
+      "title": "Eight Below",
+      "years": "1993..1993",
+      "countries": [
+        "AQ",
+        "NZ",
+        "US"
+      ],
+      "plot": "In the Antarctic, after an expedition with Dr. Davis McClaren, the sled dog trainer Jerry Shepherd has to leave the polar base with his colleagues due to the proximity of a heavy snow storm. He ties his dogs to be rescued after, but the mission is called-off and the dogs are left alone at their own fortune. For six months, Jerry tries to find a sponsor for a rescue mission while his dogs fight for survival."
+    }
+  ],
+  "categories": [
+    {
+      "label": "research stations living by strict routines",
+      "description": "Antarctica in the 1990s is inhabited mainly through small scientific bases where work, meals, weather checks, and maintenance follow tight schedules for safety. What you'll see: bunk rooms, mess halls, radios, storage sheds, notice boards, and crews moving through the same cramped buildings each day.",
+      "icon": "🛖"
+    },
+    {
+      "label": "survival governed by savage polar weather",
+      "description": "Life on the ice is ruled by blizzards, killing cold, and sudden whiteout conditions that can halt all travel and force hard decisions. What you'll see: screaming wind, drifting snow burying equipment, frost-rimed clothing, and people watching the sky and forecasts with constant caution.",
+      "icon": "🌨️"
+    },
+    {
+      "label": "distance making rescue painfully difficult",
+      "description": "The continent's great emptiness means help is far away, transport is limited, and even small emergencies can become grave because relief cannot come quickly. What you'll see: long stretches of blank ice, delayed departures, anxious radio calls, and plans changing because the outside world is too distant to reach in time.",
+      "icon": "🆘"
+    },
+    {
+      "label": "aircraft and sleds linking scattered camps",
+      "description": "Movement across Antarctica depends on a narrow set of tools suited to the terrain, especially light aircraft for long hops and dog teams or sleds where wheels are useless. What you'll see: rough airstrips on snow, loaded sledges, harnesses, cargo lashed down against the wind, and journeys measured by weather and endurance.",
+      "icon": "🛷"
+    },
+    {
+      "label": "working dogs as polar transport partners",
+      "description": "Even in the late twentieth century, sled dogs remain part of Antarctic travel culture in places where engines and machines are not always the safer answer. What you'll see: kennels beside the station, feeding and harnessing routines, commands shouted into the wind, and the close daily bond between handlers and teams.",
+      "icon": "🐕"
+    },
+    {
+      "label": "science expeditions depending on field support",
+      "description": "Research in Antarctica relies not only on scientists but on guides, mechanics, pilots, and animal handlers who make fieldwork possible in dangerous country. What you'll see: specimens and gear packed together, practical talk about routes and storms, and scientific purpose resting on hard physical labour.",
+      "icon": "🥼"
+    },
+    {
+      "label": "international presence under shared polar rules",
+      "description": "By the 1990s the continent is shaped less by settlement than by treaty-governed scientific presence, with different nations operating bases under common practical understandings. What you'll see: station insignia, mixed crews and accents, supply systems tied to distant homelands, and a landscape marked by flags rather than towns.",
+      "icon": "🏳️"
+    },
+    {
+      "label": "supplies treasured because nothing grows there",
+      "description": "Almost everything needed for life must be brought in, so food, fuel, medical stores, and equipment are counted carefully and never taken for granted. What you'll see: stacked crates, rationed provisions, repair work on worn gear, and constant attention to what can be spared and what must be saved.",
+      "icon": "📦"
+    },
+    {
+      "label": "machines and radios as lifelines",
+      "description": "Communication and mechanical reliability are matters of survival in a place where a broken set, failed engine, or missed message can isolate a whole party. What you'll see: crackling wireless sets, maintenance benches, generators, vehicle checks, and crews relying on weather reports and call-ins to stay alive.",
+      "icon": "📻"
+    },
+    {
+      "label": "human life reduced to a narrow outpost",
+      "description": "On Antarctica there are no ordinary streets, farms, or cities, only tiny inhabited islands of warmth and order set against a vast unpeopled wilderness. What you'll see: a few buildings surrounded by endless whiteness, improvised recreation indoors, heavy parkas hung by heaters, and solitude pressing in beyond the station lights.",
+      "icon": "🏚️"
+    }
+  ]
+}

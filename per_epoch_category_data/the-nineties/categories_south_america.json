@@ -1,0 +1,128 @@
+{
+  "epoch": "the-nineties",
+  "continent": "south_america",
+  "sample_size": 8,
+  "sample": [
+    {
+      "title": "Sicario",
+      "years": "1994..1994",
+      "countries": [
+        "VE"
+      ],
+      "plot": "Jairo (Laureano Olivares) is a teenager who lives in a squalid neighborhood in Caracas, Venezuela, devastated by drugs and violence. Tired of these influences and the unhealthy living conditions, he starts working as a hit man for the mafia for the purpose of helping his family. Despite the profits, he wants to leave the criminal world, but his boss in the drug cartel doesn't think the same way."
+    },
+    {
+      "title": "Colombiana",
+      "years": "1992..2007",
+      "countries": [
+        "CO",
+        "US"
+      ],
+      "plot": "A young woman grows up to be a stone-cold assassin after witnessing her parents' murder as a child in Bogota. She works for her uncle as a hitman by day, but her personal time is spent engaging in vigilante murders that she hopes will lead her to her ultimate target - the mobster responsible for her parents' death."
+    },
+    {
+      "title": "Anaconda",
+      "years": "1997..1997",
+      "countries": [
+        "BR"
+      ],
+      "plot": "When a documentary crew traveling through the Amazon jungle, picks up a stranded man, they are unaware of the trouble that will occur. This stranger's hobby is to capture the giant Anaconda snake, and plans to continue targeting it on their boat, by any means necessary."
+    },
+    {
+      "title": "Stigmata",
+      "years": "1999..1999",
+      "countries": [
+        "BR",
+        "US"
+      ],
+      "plot": "A priest from the Vatican is sent to Sao Paulo, Brazil to investigate the appearance of the face of the Virgin Mary on the side of a building. While there he hears of a statue of the Virgin Mary bleeding tears in a small town outside of the city. Meanwhile, a young woman in the U.S. begins to show signs of stigmata, the wounds of Christ. The priest from the Vatican links up with her and cares for her as she is increasingly afflicted by the stigmata. Her ranting and raving finally begins to make sense to the priest who starts to question what his religion has stood for for the last 1900 years."
+    },
+    {
+      "title": "Elite Squad",
+      "years": "1997..1997",
+      "countries": [
+        "BR"
+      ],
+      "plot": "In 1997, before the visit of the pope to Rio de Janeiro, Captain Nascimento from BOPE (Special Police Operation Battalion) is assigned to eliminate the risks of the drug dealers in a dangerous slum nearby where the pope intends to be lodged. Captain Nascimento is trying to find a man to replace him because his wife is pregnant and he intends to quit the command and become a trainer of the new recruits. Meanwhile, the two idealistic friends Neto and Matias join the Military Police force expecting to become honest policemen and fight the criminals. However, they see only corruption, lack of competence and stupid bureaucracy in the Military Police, and after a serious incident in the Morro da Babilônia, they decide to join the BOPE. The lives of Capitain Nascimento, Neto and Matias are entwined along the next months, first in the tough training period and then in action against drug dealers. Nascimento believes that Neto could be his substitute, but his impulsive attitudes jeopardizes his choice. Later, the intelligent Matias seems to be the correct choice, but he needs to prove that he has heart."
+    },
+    {
+      "title": "Messi",
+      "years": "1987..2014",
+      "countries": [
+        "AR",
+        "ES"
+      ],
+      "plot": "Lionel Messi from early life to international stardom."
+    },
+    {
+      "title": "Central Station",
+      "years": "1998..1998",
+      "countries": [
+        "BR"
+      ],
+      "plot": "Dora, a dour old woman who hates customers and calls them 'trash,' works at a Rio de Janeiro central station writing and mailing letters for customers. Josue is a 9-year-old boy who never met his father. His mother is sending letters to his father through Dora. When she dies in a car accident, Dora takes Josue on a trip to find his father."
+    },
+    {
+      "title": "Happy Together",
+      "years": "1997..1997",
+      "countries": [
+        "AR",
+        "HK",
+        "TW"
+      ],
+      "plot": "Yiu-Fai and Po-Wing arrive in Argentina from Hong Kong and take to the road for a holiday. Something is wrong and their relationship goes adrift. A disillusioned Yiu-Fai starts working at a tango bar to save up for his trip home. When a beaten and bruised Po-Wing reappears, Yiu-Fai is empathetic but is unable to enter a more intimate relationship. After all, Po-Wing is not ready to settle down. Yiu-Fai now works in a Chinese restaurant and meets the youthful Chang from Taiwan. Yiu-Fai's life takes on a new spin, while Po-Wing's life shatters continually in contrast."
+    }
+  ],
+  "categories": [
+    {
+      "label": "drug gangs ruling poor neighborhoods",
+      "description": "In many big-city districts, the drug trade acts like a shadow government, bringing money, weapons, fear, and local rule where the state is weak. What you'll see: alley lookouts, armed boys on corners, bosses giving orders, and whole hillsides living by gang territory.",
+      "icon": "🔫"
+    },
+    {
+      "label": "police forces hardened by urban war",
+      "description": "Public order is pursued through heavily armed raids, rough training, and special units formed for districts treated as battle zones rather than ordinary neighborhoods. What you'll see: black-clad squads, sweat-soaked drills, battered patrol cars, checkpoints, and sudden incursions into crowded streets.",
+      "icon": "🚔"
+    },
+    {
+      "label": "shantytowns climbing the edges of cities",
+      "description": "Fast-growing cities hold vast informal settlements where families build with scrap, services are uncertain, and overcrowding shapes daily life. What you'll see: stacked brick houses, open drains, tangled wires, steep alleys, rooftop views, and children moving through cramped lanes.",
+      "icon": "🏚️"
+    },
+    {
+      "label": "corruption thinning out public authority",
+      "description": "Officials, police, and intermediaries often bend rules for pay, favor, or survival, leaving ordinary people to face a state that is present yet unreliable. What you'll see: bribes, missing paperwork, cynical station-house routine, stalled justice, and people searching for help outside formal channels.",
+      "icon": "💸"
+    },
+    {
+      "label": "Catholic devotion filling streets and homes",
+      "description": "Religious life remains a public force, mixing Vatican authority with local miracles, saints, shrines, and deeply rooted popular belief. What you'll see: Virgin images on walls, processions, prayer candles, priests in cassocks, and crowds gathering around signs and wonders.",
+      "icon": "✝️"
+    },
+    {
+      "label": "long journeys by bus, train, and boat",
+      "description": "Distance still weighs heavily across the continent, and travel depends on worn public conveyance that ties together capitals, backlands, and river country. What you'll see: crowded stations, handwritten tickets, roadside stops, riverboats, luggage piled high, and slow crossings through immense landscapes.",
+      "icon": "🚉"
+    },
+    {
+      "label": "informal work keeping the poor afloat",
+      "description": "Many people live by small cash trades, odd jobs, and services offered without security, contract, or steady wage. What you'll see: street vending, letter writing for the illiterate, restaurant kitchen labor, dockside hustling, and money counted day by day.",
+      "icon": "🧺"
+    },
+    {
+      "label": "the Amazon as remote frontier country",
+      "description": "Beyond the great cities, the rainforest appears as a hard-to-govern world of rivers, thick heat, danger, and extractive ambition. What you'll see: muddy water channels, dense green canopy, outboard motors, makeshift camps, mosquitoes, and outsiders treating the forest as both livelihood and prey.",
+      "icon": "🛶"
+    },
+    {
+      "label": "migration remaking belonging and loneliness",
+      "description": "The decade carries constant movement across borders and within countries, with people leaving home for work, refuge, or reinvention and finding themselves unmoored. What you'll see: foreign boarding rooms, accented speech, homesickness, remittances, road maps, and strangers building temporary lives far from family.",
+      "icon": "🧳"
+    },
+    {
+      "label": "family ties stretched by absence",
+      "description": "Economic strain, migration, death, and urban disorder often leave households broken, improvised, or held together by fragile kin networks. What you'll see: missing fathers, surrogate caretakers, children navigating adult worlds, letters sent to distant relatives, and reunions charged with uncertainty.",
+      "icon": "✉️"
+    }
+  ]
+}

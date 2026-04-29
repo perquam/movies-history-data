@@ -1,0 +1,239 @@
+[
+  {
+    "movie_id": 126963,
+    "movie_idx": 752,
+    "imdb_id": "tt2263944",
+    "title": "Dragon Ball Z: Battle of Gods",
+    "production_year": "2013",
+    "genre": "Animation, Action, Adventure",
+    "plot": "The events of Battle of Gods take place some years after the battle with Majin Buu, which determined the fate of the entire universe. Bills, the God of Destruction, is tasked with maintaining some sort of balance in the universe. After awakening from a long slumber, Bills is visited by Whis and learns that the galactic overlord Frieza has been defeated by a Super Saiyan from the North Quadrant of the universe named Goku, who is also a former student of the North Kai. Ecstatic over the new challenge, Goku ignores King Kai's advice and battles Bills, but he is easily overwhelmed and defeated. Bills leaves, but his eerie remark of \"Is there nobody on Earth more worthy to destroy?\" lingers on. Now it is up to the heroes to stop the God of Destruction before all is lost.",
+    "runtime": "85 min",
+    "director": "Masahiro Hosoda",
+    "actors": "Masako Nozawa, Hiromi Tsuru, Ryô Horikawa",
+    "production_country": "Japan",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNTkwZTkzZDEtMmFjYy00Y2FmLTkxOTgtZWExMjAwMjZlYmM4XkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/126963.webp",
+    "imdb_rating": "7.1",
+    "imdb_votes": "31,247",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Dragon_Ball_Z:_Battle_of_Gods",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/126963.txt",
+    "plot_year_start": 517,
+    "plot_year_end": 517,
+    "epoch": "ancient-world",
+    "action_countries": [
+      "UNKNOWN"
+    ],
+    "action_continents": [
+      "UNKNOWN"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "gods intervening in earthly affairs",
+        "description": "The boundary between heaven and earth is thin, and divine beings are treated as active powers who reward, punish, test, and overturn human plans. What you'll see: prayer answered by signs, holy dread before supernatural visitors, and mortal lives shaped by the favor or wrath of powers above.",
+        "icon": "⚡"
+      }
+    ]
+  },
+  {
+    "movie_id": 615,
+    "movie_idx": 844,
+    "imdb_id": "tt0335345",
+    "title": "The Passion of the Christ",
+    "production_year": "2004",
+    "genre": "Drama",
+    "plot": "A depiction of the last twelve hours in the life of Jesus of Nazareth, on the day of his crucifixion in Jerusalem. The story opens in the Garden of Olives where Jesus has gone to pray after the Last Supper. Betrayed by Judas Iscariot, the controversial Jesus--who has performed 'miracles' and has publicly announced that he is 'the Son of God'--is arrested and taken back within the city walls of Jerusalem. There, the leaders of the Pharisees confront him with accusations of blasphemy; subsequently, his trial results with the leaders condemning him to his death. Jesus is brought before Pontius Pilate, the prefect of the Roman province of Judaea, for his sentencing. Pilate listens to the accusations leveled at Jesus by the Pharisees. Realizing that his own decision will cause him to become embroiled in a political conflict, Pilate defers to King Herod in deciding the matter of how to persecute Jesus. However, Herod returns Jesus to Pilate who, in turn, gives the crowd a choice between which prisoner they would rather to see set free--Jesus, or Barrabas. The crowd chooses to have Barrabas set free. Thus, Jesus is handed over to the Roman soldiers and is brutally flagellated. Bloody and unrecognizable, he is brought back before Pilate who, once again, presents him to the thirsty crowd--assuming they will see that Jesus has been punished enough. The crowd, however, is not satisfied. Thus, Pilate washes his hands of the entire dilemma, ordering his men to do as the crowd wishes. Whipped and weakened, Jesus is presented with the cross and is ordered to carry it through the streets of Jerusalem, all the way up to Golgotha. There, more corporal cruelty takes place as Jesus is nailed to the cross--suffering, he hangs there, left to die. Initially, in his dazed suffering, Jesus is alarmed that he has been abandoned by God his father. He then beseeches God. At the moment of his death, nature itself over-turns.",
+    "runtime": "127 min",
+    "director": "Mel Gibson",
+    "actors": "Jim Caviezel, Monica Bellucci, Maia Morgenstern",
+    "production_country": "United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNzMxY2Y4MzktMGNkNC00ODFjLWI3MGMtMzM2M2ExNmQxMGFmXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/615.webp",
+    "imdb_rating": "7.3",
+    "imdb_votes": "265,963",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Passion_of_the_Christ",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/615.txt",
+    "plot_year_start": 30,
+    "plot_year_end": 33,
+    "epoch": "ancient-world",
+    "action_countries": [
+      "UNKNOWN"
+    ],
+    "action_continents": [
+      "UNKNOWN"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "justice displayed through bodily punishment",
+        "description": "Authority makes itself visible through scourging, imprisonment, mutilation, execution, and other punishments carried out before witnesses. What you'll see: guards and chains, public beatings, condemned prisoners, and the body treated as the place where judgment is written.",
+        "icon": "⛓️"
+      },
+      {
+        "label": "subject peoples living under stronger powers",
+        "description": "Many communities live under the shadow of conquest, tribute, occupation, or domination by a stronger neighbour or empire. What you'll see: foreign soldiers, anxious local leaders, conquered towns, and everyday resentment shaped by imposed rule.",
+        "icon": "🛡️"
+      }
+    ]
+  },
+  {
+    "movie_id": 11052,
+    "movie_idx": 2212,
+    "imdb_id": "tt0403703",
+    "title": "Yu-Gi-Oh!: The Movie",
+    "production_year": "2004",
+    "genre": "Animation, Action, Adventure",
+    "plot": "Yugi, a smaller than average high school student, and an easy target for bullies, is given an ancient Egyptian riddle called the \"Millennium Puzzle\" by his grandfather, a local game shop manager. Yugi pieces the puzzle together and unexpectedly becomes the powerful \"Game King.\" Now when Yugi gets into sticky situations, the \"Game King\" takes over and protects Yugi and his friends.",
+    "runtime": "90 min",
+    "director": "Hatsuki Tsuji",
+    "actors": "Dan Green, Eric Stuart, Amy Birnbaum",
+    "production_country": "Japan, United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNTQ4NzM0NTAyMF5BMl5BanBnXkFtZTYwOTc2MTg3._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/11052.webp",
+    "imdb_rating": "5.0",
+    "imdb_votes": "9,610",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Yu-Gi-Oh!_The_Movie:_Pyramid_of_Light",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/11052.txt",
+    "plot_year_start": -3000,
+    "plot_year_end": 2004,
+    "epoch": "ancient-world",
+    "action_countries": [
+      "UNKNOWN"
+    ],
+    "action_continents": [
+      "UNKNOWN"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "gods intervening in earthly affairs",
+        "description": "The boundary between heaven and earth is thin, and divine beings are treated as active powers who reward, punish, test, and overturn human plans. What you'll see: prayer answered by signs, holy dread before supernatural visitors, and mortal lives shaped by the favor or wrath of powers above.",
+        "icon": "⚡"
+      },
+      {
+        "label": "omens and wonders proving the unseen",
+        "description": "The world is read for signs, and miracles, portents, and uncanny events are accepted as evidence that hidden powers are at work. What you'll see: darkened skies, trembling earth, prophetic warnings, and extraordinary feats taken as tokens of divine purpose.",
+        "icon": "🌠"
+      }
+    ]
+  },
+  {
+    "movie_id": 474392,
+    "movie_idx": 2673,
+    "imdb_id": "tt6951892",
+    "title": "Samson",
+    "production_year": "2018",
+    "genre": "Action, Drama",
+    "plot": "A Hebrew with an unusual gift of strength must respond properly to the call of God on his life in order to lead his people out of enslavement. After his youthful ambition leads to a tragic marriage, his acts of revenge thrust him into direct conflict with the Philistine Army. As his brother mounts a tribal rebellion, only Samson's (Taylor James') relationship with a Philistine seductress and his final surrender - to the Philistines and to God - turns imprisonment and blindness into final victory.",
+    "runtime": "110 min",
+    "director": "Bruce Macdonald, Gabriel Sabloff",
+    "actors": "Taylor James, Billy Zane, Lindsay Wagner",
+    "production_country": "South Africa, United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BOTUxODU4ODQtYmU4YS00MjBhLWE3ZGYtZTI4YzVlNDNiNDI0XkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/474392.webp",
+    "imdb_rating": "4.5",
+    "imdb_votes": "5,153",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Samson_(2018_film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/474392.txt",
+    "plot_year_start": -1200,
+    "plot_year_end": -1100,
+    "epoch": "ancient-world",
+    "action_countries": [
+      "UNKNOWN"
+    ],
+    "action_continents": [
+      "UNKNOWN"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "gods intervening in earthly affairs",
+        "description": "The boundary between heaven and earth is thin, and divine beings are treated as active powers who reward, punish, test, and overturn human plans. What you'll see: prayer answered by signs, holy dread before supernatural visitors, and mortal lives shaped by the favor or wrath of powers above.",
+        "icon": "⚡"
+      }
+    ]
+  },
+  {
+    "movie_id": 77951,
+    "movie_idx": 3237,
+    "imdb_id": "tt1762399",
+    "title": "Walking with Dinosaurs 3D",
+    "production_year": "2013",
+    "genre": "Animation, Adventure, Comedy",
+    "plot": "For the first time in movie history, audiences will truly see and feel what it was like when dinosaurs ruled the Earth. \"Walking with Dinosaurs\" is the ultimate immersive experience, utilizing state of the art 3D to put audiences in the middle of a thrilling and epic prehistoric world, where an underdog dino triumphs to become a hero for the ages.",
+    "runtime": "87 min",
+    "director": "Barry Cook, Neil Nightingale",
+    "actors": "Charlie Rowe, Karl Urban, Angourie Rice",
+    "production_country": "India, United Kingdom, Australia, United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjE2OTc2MTk1Nl5BMl5BanBnXkFtZTgwNDg5NDU1MDE@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/77951.webp",
+    "imdb_rating": "5.2",
+    "imdb_votes": "12,212",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Walking_with_Dinosaurs_(film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/77951.txt",
+    "plot_year_start": -70,
+    "plot_year_end": -70,
+    "epoch": "ancient-world",
+    "action_countries": [
+      "UNKNOWN"
+    ],
+    "action_continents": [
+      "UNKNOWN"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "war fought at arm's reach",
+        "description": "Conflict is decided with muscle, nerve, and simple weapons rather than distant engines, so battle remains intensely personal. What you'll see: swords, spears, shields, chariots or marching troops, and contests of strength where bodies meet in close combat.",
+        "icon": "⚔️"
+      },
+      {
+        "label": "tribes and households binding social life",
+        "description": "Belonging begins with kin, clan, and peoplehood, and loyalty to household and tribe often matters more than any wider realm. What you'll see: elders, family obligations, arranged bonds and feuds, and whole communities acting as one people under ancestral custom.",
+        "icon": "🏠"
+      }
+    ]
+  },
+  {
+    "movie_id": 537061,
+    "movie_idx": 5064,
+    "imdb_id": "tt10515852",
+    "title": "Steven Universe: The Movie",
+    "production_year": "2019",
+    "genre": "Animation, Action, Adventure",
+    "plot": "Two years have passed since Steven Universe resolved the ongoing conflict between Earth and the Diamonds and brought peace to the galaxy, seemingly allowing Steven and the Crystal Gems to live happily ever after. However, Steven's past comes back to haunt him in the shape of a mysterious Gem hellbent on destroying him and everything he holds dear, including the Earth itself. Steven must now face the consequences of Pink Diamond's actions, save the Earth and, once again, go on a path of self discovery and change to truly earn his happily ever after.",
+    "runtime": "82 min",
+    "director": "Rebecca Sugar, Joseph D. Johnston, Kat Morris",
+    "actors": "Zach Callison, Michaela Dietz, Estelle",
+    "production_country": "United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZTAxMTY1ZDAtMmY0Yy00Mzk1LTk3MzItZTA3YjM1NTMxMmRiXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/537061.webp",
+    "imdb_rating": "7.7",
+    "imdb_votes": "10,579",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Steven_Universe:_The_Movie",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/537061.txt",
+    "plot_year_start": 2,
+    "plot_year_end": 2,
+    "epoch": "ancient-world",
+    "action_countries": [
+      "UNKNOWN"
+    ],
+    "action_continents": [
+      "UNKNOWN"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Steven Universe Universe",
+    "categories": [
+      {
+        "label": "gods intervening in earthly affairs",
+        "description": "The boundary between heaven and earth is thin, and divine beings are treated as active powers who reward, punish, test, and overturn human plans. What you'll see: prayer answered by signs, holy dread before supernatural visitors, and mortal lives shaped by the favor or wrath of powers above.",
+        "icon": "⚡"
+      }
+    ]
+  }
+]

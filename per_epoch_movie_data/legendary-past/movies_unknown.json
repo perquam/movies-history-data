@@ -1,0 +1,210 @@
+[
+  {
+    "movie_id": 425,
+    "movie_idx": 291,
+    "imdb_id": "tt0268380",
+    "title": "Ice Age",
+    "production_year": "2002",
+    "genre": "Animation, Adventure, Comedy",
+    "plot": "Back when the Earth was being overrun by glaciers, and animals were scurrying to save themselves from the upcoming Ice Age, a sloth named Sid, a woolly mammoth named Manny, and a saber-toothed tiger named Diego are forced to become unlikely heroes. The three reluctantly come together when they have to return a human child to its father while braving the deadly elements of the impending Ice Age.",
+    "runtime": "81 min",
+    "director": "Chris Wedge, Carlos Saldanha",
+    "actors": "Denis Leary, John Leguizamo, Ray Romano",
+    "production_country": "United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMDBlYzU2OGMtOGJjNi00ZGZjLWIwNjMtYzdiZjkwYWNjZDljXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/425.webp",
+    "imdb_rating": "7.5",
+    "imdb_votes": "560,233",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Ice_Age_(2002_film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/425.txt",
+    "plot_year_start": -250000,
+    "plot_year_end": -10000,
+    "epoch": "legendary-past",
+    "action_countries": [
+      "UNKNOWN"
+    ],
+    "action_continents": [
+      "UNKNOWN"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "migration driven by harsh changing seasons",
+        "description": "Life is ruled by shifts in weather, drought, cold, and sudden ruin, so survival often means leaving familiar ground and following safer country. What you'll see: long treks across bare landscapes, herds in motion, failing waterholes, ice, ash, and desperate searches for refuge.",
+        "icon": "👣"
+      }
+    ]
+  },
+  {
+    "movie_id": 10567,
+    "movie_idx": 1216,
+    "imdb_id": "tt0130623",
+    "title": "Dinosaur",
+    "production_year": "2000",
+    "genre": "Animation, Adventure, Drama",
+    "plot": "During an attack on a pack of Iguanodon, an egg is separated and ends up with the possession of a group of lemurs. The lemurs care for this egg and the young creature born from it, which they call Aladar (D.B. Sweeney). When meteorites hit Earth, Aladar and his family must leave their homeland. Away from home and as close to danger as they have ever been, they meet up with a huge group of dinosaurs, led by Kron (Samuel E. Wright) and Bruton (Peter Siragusa). All together they are trying to reach the nesting grounds, but it's not going to be easy.",
+    "runtime": "82 min",
+    "director": "Eric Leighton, Ralph Zondag",
+    "actors": "D.B. Sweeney, Julianna Margulies, Samuel E. Wright",
+    "production_country": "United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYjFlNjFkNmUtNDRmNi00ZWIwLTg3ZjQtNTIxNmJkMjc1OTlhXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/10567.webp",
+    "imdb_rating": "6.4",
+    "imdb_votes": "72,205",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Dinosaur_(2000_film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/10567.txt",
+    "plot_year_start": -66000000,
+    "plot_year_end": -66000000,
+    "epoch": "legendary-past",
+    "action_countries": [
+      "UNKNOWN"
+    ],
+    "action_continents": [
+      "UNKNOWN"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "migration driven by harsh changing seasons",
+        "description": "Life is ruled by shifts in weather, drought, cold, and sudden ruin, so survival often means leaving familiar ground and following safer country. What you'll see: long treks across bare landscapes, herds in motion, failing waterholes, ice, ash, and desperate searches for refuge.",
+        "icon": "👣"
+      },
+      {
+        "label": "survival amid great beasts and predators",
+        "description": "The world is shared with immense animals and deadly hunters, making every journey, meal, and resting place a contest with powerful nonhuman life. What you'll see: mammoths, saber-toothed cats, towering reptiles, stampedes, stalking predators, and constant watchfulness at the edge of camp.",
+        "icon": "🦣"
+      }
+    ]
+  },
+  {
+    "movie_id": 10156,
+    "movie_idx": 6036,
+    "imdb_id": "tt0082517",
+    "title": "History of the World: Part I",
+    "production_year": "1981",
+    "genre": "Comedy, History, Musical",
+    "plot": "From the dawn of man to the distant future, mankind's evolution (or lack thereof) is traced. Often ridiculous but never serious, we learn the truth behind the Roman Emperor, we learn what really happened at the Last Supper, the circumstances that surrounded the French Revolution, how to test eunuchs, and what kind of shoes the Spanish Inquisitor wore.",
+    "runtime": "92 min",
+    "director": "Mel Brooks",
+    "actors": "Mel Brooks, Gregory Hines, Dom DeLuise",
+    "production_country": "United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMDk3Zjc4MWYtNjVjYS00NTBjLTg4NmUtNzA4ODRjYzEyMDgzXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/10156.webp",
+    "imdb_rating": "6.8",
+    "imdb_votes": "58,818",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/History_of_the_World,_Part_I",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/10156.txt",
+    "plot_year_start": -100000,
+    "plot_year_end": -1000,
+    "epoch": "legendary-past",
+    "action_countries": [
+      "UNKNOWN",
+      "IT",
+      "IL",
+      "ES",
+      "FR"
+    ],
+    "action_continents": [
+      "UNKNOWN",
+      "Europe",
+      "Asia",
+      "Europe",
+      "Europe"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "fire as guarded power and warmth",
+        "description": "Mastery of flame stands as a precious advantage for warmth, protection, cooking, and status, and losing it can endanger the whole band. What you'll see: embers carried carefully, fear of darkness, awe around a blaze, and contests over who controls this life-giving skill.",
+        "icon": "🔥"
+      }
+    ]
+  },
+  {
+    "movie_id": 18905,
+    "movie_idx": 6511,
+    "imdb_id": "tt0082146",
+    "title": "Caveman",
+    "production_year": "1981",
+    "genre": "Comedy, Romance",
+    "plot": "In the Stone Age, strong caveman Tonda is the leader of a hostile tribe and the outcast Atouk feels unrequited desire for Tonda's mate Lana. One day, Atouk is walking with his best friend Lar (Dennis Quaid) and they meet the cavewoman Tala. They save her blind father Gog from a tar pit and Tala fells unrequited affection for Atouk. Soon the smart Atouk becomes the leader of the misfit tribe and dispute the leadership of the whole clan and Lana with Tonda. But in the end, the leader needs a worthwhile mate.",
+    "runtime": "91 min",
+    "director": "Carl Gottlieb",
+    "actors": "Ringo Starr, Dennis Quaid, Shelley Long",
+    "production_country": "Mexico, United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZmY3OWNhNWUtYTRkYS00OGM0LWFlOTgtZmVjNGM5MzhiNGIxXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/18905.webp",
+    "imdb_rating": "5.8",
+    "imdb_votes": "8,960",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Caveman_(film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/18905.txt",
+    "plot_year_start": -1000000,
+    "plot_year_end": -1000000,
+    "epoch": "legendary-past",
+    "action_countries": [
+      "UNKNOWN"
+    ],
+    "action_continents": [
+      "UNKNOWN"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "strength deciding rank within the group",
+        "description": "Authority often rests on physical dominance, hunting prowess, and the ability to protect or command, rather than on written law or lasting office. What you'll see: challenges to leaders, intimidation at mealtimes, pecking orders in marches, and deference won through force.",
+        "icon": "💪"
+      },
+      {
+        "label": "mates and offspring shaping group order",
+        "description": "Pairing, fertility, and care of the young are central to group continuity, and disputes over mates or infants can carry the weight of wider social order. What you'll see: nesting grounds, protective parenting, jealousy over partners, vulnerable young carried along, and courtship bound up with status.",
+        "icon": "👶"
+      }
+    ]
+  },
+  {
+    "movie_id": 62204,
+    "movie_idx": 7182,
+    "imdb_id": "tt0082484",
+    "title": "Quest for Fire",
+    "production_year": "1981",
+    "genre": "Adventure, Drama",
+    "plot": "Anthony Burgess created the primitive language for the early humans in this prehistoric adventure about a trio of warriors who travel the savanna, encountering sabre-toothed tigers, mammoths and cannibalistic tribes in search of a flame that would replace the fire their tribe has lost.",
+    "runtime": "100 min",
+    "director": "Jean-Jacques Annaud",
+    "actors": "Everett McGill, Ron Perlman, Nicholas Kadi",
+    "production_country": "Canada, France",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNDcxMTFlZmItYzY5OS00ZDJkLTgwZGQtNDk3NjgwYjIxNWM3XkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/62204.webp",
+    "imdb_rating": "7.3",
+    "imdb_votes": "24,979",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Quest_for_Fire_(film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/62204.txt",
+    "plot_year_start": -80000,
+    "plot_year_end": -80000,
+    "epoch": "legendary-past",
+    "action_countries": [
+      "UNKNOWN"
+    ],
+    "action_continents": [
+      "UNKNOWN"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "fire as guarded power and warmth",
+        "description": "Mastery of flame stands as a precious advantage for warmth, protection, cooking, and status, and losing it can endanger the whole band. What you'll see: embers carried carefully, fear of darkness, awe around a blaze, and contests over who controls this life-giving skill.",
+        "icon": "🔥"
+      },
+      {
+        "label": "survival amid great beasts and predators",
+        "description": "The world is shared with immense animals and deadly hunters, making every journey, meal, and resting place a contest with powerful nonhuman life. What you'll see: mammoths, saber-toothed cats, towering reptiles, stampedes, stalking predators, and constant watchfulness at the edge of camp.",
+        "icon": "🦣"
+      }
+    ]
+  }
+]

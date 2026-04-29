@@ -1,0 +1,1370 @@
+[
+  {
+    "movie_id": 957992,
+    "movie_idx": 197,
+    "imdb_id": "tt21874008",
+    "title": "The Great Arms Robbery",
+    "production_year": "2022",
+    "genre": "Action",
+    "plot": "Agent Wen goes undercover to locate weapons for an arms dealer. He's attacked after finding them, so he teams up with his partner to recover the munitions and prevent disaster.",
+    "runtime": "107 min",
+    "director": "Hao Jin",
+    "actors": "Die Cai, Fang Hong, Waise Lee",
+    "production_country": "China",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNGJhYTRlNmItZjczYi00Zjc3LWE5MGYtZDFjNGI4ODg1MjE1XkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/957992.webp",
+    "imdb_rating": "N/A",
+    "imdb_votes": "158",
+    "plot_year_start": 1990,
+    "plot_year_end": 2000,
+    "epoch": "the-nineties",
+    "action_countries": [
+      "UNKNOWN"
+    ],
+    "action_continents": [
+      "UNKNOWN"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "authority split between law and underworld",
+        "description": "Public order often depends on uneasy bargains among police, soldiers, businessmen, and criminal networks rather than on clean trust in institutions. What you'll see: special task forces, undercover deals, weapons caches, mayoral ambitions, and officials crossing lines they claim to defend.",
+        "icon": "⚖️"
+      },
+      {
+        "label": "cold war habits lingering after the thaw",
+        "description": "Even as the old standoff fades, spies, missiles, secret files, and military chains of command still organise how states imagine danger. What you'll see: agents with aliases, hidden bases, court-martial rooms, coded exchanges, and officials treating suspicion as ordinary business.",
+        "icon": "🕵️"
+      }
+    ],
+    "failures": {
+      "wikipedia": "no_wiki_article_found"
+    }
+  },
+  {
+    "movie_id": 1180445,
+    "movie_idx": 240,
+    "imdb_id": "tt29438301",
+    "title": "Ahasss",
+    "production_year": "2023",
+    "genre": "Drama, Thriller",
+    "plot": "Jake, a young houseboy, falls for his boss' battered wife. As he helps her escape from her abusive husband, things get wild, messy, and bloody.",
+    "runtime": "107 min",
+    "director": "Ato Bautista",
+    "actors": "Jao Mapa, Gold Aceron, Angela Morena",
+    "production_country": "Philippines",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZDEzYTI2ODctMzdjYi00NWZhLWEzMjMtYWJhOTg2Y2RhMjBhXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/1180445.webp",
+    "imdb_rating": "N/A",
+    "imdb_votes": "439",
+    "plot_year_start": 1990,
+    "plot_year_end": 1999,
+    "epoch": "the-nineties",
+    "action_countries": [
+      "UNKNOWN"
+    ],
+    "action_continents": [
+      "UNKNOWN"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "middle-class homes under money pressure",
+        "description": "Comfortable domestic life rests on loans, promotions, and steady wages, so injury, stalled advancement, or bad luck can quickly threaten the household. What you'll see: suburbs, bank demands, workplace rivalry, family kitchens, and respectable homes strained by bills and disappointment.",
+        "icon": "🏠"
+      }
+    ],
+    "failures": {
+      "wikipedia": "no_wiki_article_found"
+    }
+  },
+  {
+    "movie_id": 1152238,
+    "movie_idx": 300,
+    "imdb_id": "tt16986596",
+    "title": "Sons of Summer",
+    "production_year": "2023",
+    "genre": "Action, Crime, Mystery",
+    "plot": "Four surfing sons plan a tribute 'surfari' to a small beach town for one of their fathers murdered three decades earlier. But some road trips are to die for.",
+    "runtime": "88 min",
+    "director": "Clive Fleury",
+    "actors": "Isabel Lucas, Temuera Morrison, Joe Davidson",
+    "production_country": "Australia",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZmMzMzAyMzYtM2U3My00NWJjLThlYjAtZDAyNDRjNTE3ZWEwXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/1152238.webp",
+    "imdb_rating": "3.6",
+    "imdb_votes": "2,512",
+    "plot_year_start": 1990,
+    "plot_year_end": 1990,
+    "epoch": "the-nineties",
+    "action_countries": [
+      "UNKNOWN"
+    ],
+    "action_continents": [
+      "UNKNOWN"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "global travel shrinking distance and danger",
+        "description": "Cheap flights, cruise ships, and holiday trips make movement across sea and sky feel routine, while also carrying strangers into sudden peril far from home. What you'll see: airplane cabins, luxury liners, island caretakers, graduation trips, and travellers discovering that leisure offers no safety.",
+        "icon": "✈️"
+      }
+    ],
+    "failures": {
+      "wikipedia": "no_wiki_article_found"
+    }
+  },
+  {
+    "movie_id": 999278,
+    "movie_idx": 482,
+    "imdb_id": "tt15307448",
+    "title": "The Goldsmith",
+    "production_year": "2022",
+    "genre": "Horror, Thriller",
+    "plot": "A trio of desperate criminals break into the isolated country house of an elderly goldsmith and his wife. But their chosen targets turn out to be far less defenseless than they seem.",
+    "runtime": "89 min",
+    "director": "Vincenzo Ricchiuto",
+    "actors": "Stefania Casini, Giuseppe Pambieri, Tania Bambaci",
+    "production_country": "Italy",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNjZlMzNlNjUtOTZjOS00ZTJjLWJhNjktNDJmZjBjNzFiODE3XkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/999278.webp",
+    "imdb_rating": "4.9",
+    "imdb_votes": "760",
+    "plot_year_start": 1990,
+    "plot_year_end": 1999,
+    "epoch": "the-nineties",
+    "action_countries": [
+      "UNKNOWN"
+    ],
+    "action_continents": [
+      "UNKNOWN"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "cities shaped by crime and private fear",
+        "description": "Urban life is marked by corruption, gang influence, unsafe buildings, and the feeling that danger sits close to home rather than at a distant frontier. What you'll see: cramped flats, night streets, back rooms, police pressure, and households trying to keep violence outside the door.",
+        "icon": "🏙️"
+      }
+    ],
+    "failures": {
+      "wikipedia": "no_wiki_article_found"
+    }
+  },
+  {
+    "movie_id": 987507,
+    "movie_idx": 1046,
+    "imdb_id": "tt21243618",
+    "title": "Bad City",
+    "production_year": "2022",
+    "genre": "Action, Crime",
+    "plot": "When a corrupt businessman decides to run for mayor and starts eliminating opponents from the rival mafia, a former police captain serving time for murder is secretly released and put in charge of a special task force to arrest him.",
+    "runtime": "118 min",
+    "director": "Kensuke Sonomura",
+    "actors": "Hitoshi Ozawa, Akane Sakanoue, Katsuya Takagi",
+    "production_country": "Japan",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZGJiYTE3YTYtZThjNS00ODRjLWE4ODEtYzVhODg0NjgzM2YyXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/987507.webp",
+    "imdb_rating": "5.9",
+    "imdb_votes": "537",
+    "plot_year_start": 1990,
+    "plot_year_end": 1995,
+    "epoch": "the-nineties",
+    "action_countries": [
+      "UNKNOWN"
+    ],
+    "action_continents": [
+      "UNKNOWN"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "authority split between law and underworld",
+        "description": "Public order often depends on uneasy bargains among police, soldiers, businessmen, and criminal networks rather than on clean trust in institutions. What you'll see: special task forces, undercover deals, weapons caches, mayoral ambitions, and officials crossing lines they claim to defend.",
+        "icon": "⚖️"
+      }
+    ],
+    "failures": {
+      "wikipedia": "no_wiki_article_found"
+    }
+  },
+  {
+    "movie_id": 390845,
+    "movie_idx": 1069,
+    "imdb_id": "tt6077598",
+    "title": "A Delicious Flight",
+    "production_year": "2015",
+    "genre": "Romance",
+    "plot": "An innocent actress runs away from the scandal with an idol, the impudent idol that ruined her career, a passionate manager who is devoted to her and his ex-girlfriend who is now a sexy stewardess. These four that should never be together run into each other in an airplane. No one can run away and the most cheeky and erotic things happen here.",
+    "runtime": "97 min",
+    "director": "Sang-hoon Choi",
+    "actors": "Deok-gi Son, Yoo-jin Jeong, Yoo-Joo Shin",
+    "production_country": "South Korea",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNDljM2M5ZmQtOTYzMi00YTUwLWJmYjktOGM4OWIyZjNjZTBkXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/390845.webp",
+    "imdb_rating": "5.9",
+    "imdb_votes": "190",
+    "plot_year_start": 1990,
+    "plot_year_end": 1999,
+    "epoch": "the-nineties",
+    "action_countries": [
+      "UNKNOWN"
+    ],
+    "action_continents": [
+      "UNKNOWN"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "sex moving into the open market",
+        "description": "The decade treats desire less as a hidden matter of honour and more as something bought, advertised, discussed, and experimented with in urban life. What you'll see: coffee shops, swingers' ads, therapists' offices, erotic workplaces, porn studios, and relationships negotiated in franker terms.",
+        "icon": "💋"
+      },
+      {
+        "label": "global travel shrinking distance and danger",
+        "description": "Cheap flights, cruise ships, and holiday trips make movement across sea and sky feel routine, while also carrying strangers into sudden peril far from home. What you'll see: airplane cabins, luxury liners, island caretakers, graduation trips, and travellers discovering that leisure offers no safety.",
+        "icon": "✈️"
+      }
+    ],
+    "failures": {
+      "wikipedia": "no_wiki_article_found"
+    }
+  },
+  {
+    "movie_id": 62,
+    "movie_idx": 1097,
+    "imdb_id": "tt0062622",
+    "title": "2001: A Space Odyssey",
+    "production_year": "1968",
+    "genre": "Adventure, Sci-Fi",
+    "plot": "\"2001\" is a story of evolution. Sometime in the distant past, someone or something nudged evolution by placing a monolith on Earth (presumably elsewhere throughout the universe as well). Evolution then enabled humankind to reach the moon's surface, where yet another monolith is found, one that signals the monolith placers that humankind has evolved that far. Now a race begins between computers (HAL) and human (Bowman) to reach the monolith placers. The winner will achieve the next step in evolution, whatever that may be.",
+    "runtime": "149 min",
+    "director": "Stanley Kubrick",
+    "actors": "Keir Dullea, Gary Lockwood, William Sylvester",
+    "production_country": "United Kingdom, United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNjU0NDFkMTQtZWY5OS00MmZhLTg3Y2QtZmJhMzMzMWYyYjc2XkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/62.webp",
+    "imdb_rating": "8.3",
+    "imdb_votes": "772,787",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/2001:_A_Space_Odyssey",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/62.txt",
+    "plot_year_start": 2001,
+    "plot_year_end": 2001,
+    "epoch": "the-nineties",
+    "action_countries": [
+      "UNKNOWN"
+    ],
+    "action_continents": [
+      "UNKNOWN"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "consumer gadgets entering every room",
+        "description": "Daily life is being rewired by compact electronics, surveillance devices, computer chips, and automated systems that promise convenience while widening control. What you'll see: screens glowing in homes and compounds, bugs and cameras, clever household machines, and people trusting devices they barely understand.",
+        "icon": "📺"
+      }
+    ]
+  },
+  {
+    "movie_id": 34851,
+    "movie_idx": 1113,
+    "imdb_id": "tt1424381",
+    "title": "Predators",
+    "production_year": "2010",
+    "genre": "Action, Adventure, Sci-Fi",
+    "plot": "When a group of elite warriors find themselves in a jungle they realize that they are on a completely different planet and it's home to a race of extraterrestrial hunters. The group consists of a mercenary known as Royce, an IDF sniper known as Isabelle, a Russian Spetsnaz known as Nikolai, a drug cartel enforcer known as Cuchillo, an RUF officer known as Mombasa, a death row inmate known as Stans, a Yakuza assassin known as Hanzo, and an American doctor known as Edwin. It's up to these 8 individuals to stop their hunters and get off the planet.",
+    "runtime": "107 min",
+    "director": "Nimród Antal",
+    "actors": "Adrien Brody, Laurence Fishburne, Topher Grace",
+    "production_country": "United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BODNhMWY0MDQtNjgwZC00YjM3LWEwMDItMWM3MTg4ZjA5ODgwXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/34851.webp",
+    "imdb_rating": "6.4",
+    "imdb_votes": "260,920",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Predators_(2010_film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/34851.txt",
+    "plot_year_start": 1987,
+    "plot_year_end": 2010,
+    "epoch": "the-nineties",
+    "action_countries": [
+      "UNKNOWN"
+    ],
+    "action_continents": [
+      "UNKNOWN"
+    ],
+    "action_planet": "Unknown",
+    "action_universum": "Predator",
+    "categories": [
+      {
+        "label": "global travel shrinking distance and danger",
+        "description": "Cheap flights, cruise ships, and holiday trips make movement across sea and sky feel routine, while also carrying strangers into sudden peril far from home. What you'll see: airplane cabins, luxury liners, island caretakers, graduation trips, and travellers discovering that leisure offers no safety.",
+        "icon": "✈️"
+      }
+    ]
+  },
+  {
+    "movie_id": 39107,
+    "movie_idx": 1244,
+    "imdb_id": "tt0142236",
+    "title": "Dragon Ball Z: Fusion Reborn",
+    "production_year": "1995",
+    "genre": "Animation, Action, Sci-Fi",
+    "plot": "When a worker at King Yemma's spiritual check-in station is accidentally covered in spiritual waste, he is transformed into a powerful monster named Janemba, who destroys the barrier between the real world and Other World, allowing the dead to walk the Earth. As the living Z Fighters fend off the dead, it is up to Goku, Pikkon, and Vegeta to stop Janemba.",
+    "runtime": "51 min",
+    "director": "Shigeyasu Yamauchi",
+    "actors": "Masako Nozawa, Ryô Horikawa, Takeshi Kusao",
+    "production_country": "Japan",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNjIyNGY0OWYtY2JlNS00ODVjLWJiODEtYWNlNWZjNDMzZjUzXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/39107.webp",
+    "imdb_rating": "7.6",
+    "imdb_votes": "13,732",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Dragon_Ball_Z:_Fusion_Reborn",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/39107.txt",
+    "plot_year_start": 1995,
+    "plot_year_end": 1995,
+    "epoch": "the-nineties",
+    "action_countries": [
+      "UNKNOWN"
+    ],
+    "action_continents": [
+      "UNKNOWN"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Dragon Ball",
+    "categories": [
+      {
+        "label": "authority split between law and underworld",
+        "description": "Public order often depends on uneasy bargains among police, soldiers, businessmen, and criminal networks rather than on clean trust in institutions. What you'll see: special task forces, undercover deals, weapons caches, mayoral ambitions, and officials crossing lines they claim to defend.",
+        "icon": "⚖️"
+      }
+    ]
+  },
+  {
+    "movie_id": 39102,
+    "movie_idx": 1351,
+    "imdb_id": "tt0142244",
+    "title": "Dragon Ball Z: Lord Slug",
+    "production_year": "1991",
+    "genre": "Animation, Action, Fantasy",
+    "plot": "When an asteroid nearly destroys Planet Earth, a space ship emerges from the asteroid and lands on Earth. The new terror is Lord Slug, a nomadic alien who plans to destroy all life on Earth, and the only one who can stop him is Goku!",
+    "runtime": "43 min",
+    "director": "Mitsuo Hashimoto",
+    "actors": "Masako Nozawa, Toshio Furukawa, Mayumi Tanaka",
+    "production_country": "Japan",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNjE0OTMzZmQtZmYxMi00YzcxLTkzZmYtOTEwMDlkZjI2YTE3XkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/39102.webp",
+    "imdb_rating": "6.5",
+    "imdb_votes": "7,481",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Dragon_Ball_Z:_Lord_Slug",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/39102.txt",
+    "plot_year_start": 1990,
+    "plot_year_end": 1991,
+    "epoch": "the-nineties",
+    "action_countries": [
+      "UNKNOWN"
+    ],
+    "action_continents": [
+      "UNKNOWN"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Dragon Ball",
+    "categories": [
+      {
+        "label": "old bloodlines haunting new property",
+        "description": "Modern families inherit houses, coastal land, and local secrets that carry older regional fears into the present, showing how the past still clings to place. What you'll see: abandoned estates, family lore, weathered caretakers, ancestral rumours, and newcomers uncovering what a district remembers.",
+        "icon": "🏚️"
+      }
+    ]
+  },
+  {
+    "movie_id": 10054,
+    "movie_idx": 1436,
+    "imdb_id": "tt0227538",
+    "title": "Spy Kids",
+    "production_year": "2001",
+    "genre": "Action, Adventure, Comedy",
+    "plot": "Gregorio and Ingrid are the two greatest secret agents the world has ever known: masters of disguise, mavens of invention, able to stop wars before they even start. Working for separate countries, they are sent to eliminate their most dangerous enemy...each other. But in an exotic corner of the world when they finally come face to face, they fall in love instead and embark on the most dangerous mission they have ever faced: raising a family. Now nine years later, after their retirement, having exchanged the adventure of espionage for parenthood, Gregorio and Ingrid Cortez are called back in to action. When their former colleagues, the world's most formidable spies, start disappearing one by one, the Cortez's are forced to take on techno-wizard Fegan Floop and his evil, egg-headed sidekick, Minion. But when the unthinkable happens and they too disappear, unfortunately there are only two people in the world who can rescue them...their kids.",
+    "runtime": "88 min",
+    "director": "Robert Rodriguez",
+    "actors": "Alexa PenaVega, Daryl Sabara, Antonio Banderas",
+    "production_country": "United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZTQyNDA0ZDctZjFkMC00NDA1LWI3Y2QtOWY5OWE0NTQ2YzJjXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/10054.webp",
+    "imdb_rating": "5.6",
+    "imdb_votes": "131,798",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Spy_Kids_(film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/10054.txt",
+    "plot_year_start": 2001,
+    "plot_year_end": 2001,
+    "epoch": "the-nineties",
+    "action_countries": [
+      "UNKNOWN"
+    ],
+    "action_continents": [
+      "UNKNOWN"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "consumer gadgets entering every room",
+        "description": "Daily life is being rewired by compact electronics, surveillance devices, computer chips, and automated systems that promise convenience while widening control. What you'll see: screens glowing in homes and compounds, bugs and cameras, clever household machines, and people trusting devices they barely understand.",
+        "icon": "📺"
+      },
+      {
+        "label": "children raised inside branded modern plenty",
+        "description": "Many families inhabit a world of packaged entertainment, bright consumer goods, and child-centred comfort, where young people are expected to be clever, confident, and amused. What you'll see: colourful bedrooms, toys and snacks, wisecracking kids, suburban routines, and adventure framed by familiar comforts.",
+        "icon": "🧸"
+      }
+    ]
+  },
+  {
+    "movie_id": 1098160,
+    "movie_idx": 1465,
+    "imdb_id": "tt14687418",
+    "title": "The Tank",
+    "production_year": "2023",
+    "genre": "Horror, Mystery, Thriller",
+    "plot": "After mysteriously inheriting an abandoned coastal property, Ben and his family accidentally unleash an ancient, long-dormant creature that terrorized the entire region-including his own ancestors-for generations.",
+    "runtime": "100 min",
+    "director": "Scott Walker",
+    "actors": "Luciane Buchanan, Matt Whelan, Zara Nausbaum",
+    "production_country": "New Zealand",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYjYyNzdhYTUtMjU4YS00YTg4LTliYjEtZmI3MzVhMDJjYjgwXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/1098160.webp",
+    "imdb_rating": "4.6",
+    "imdb_votes": "5,085",
+    "plot_year_start": 2000,
+    "plot_year_end": 2000,
+    "epoch": "the-nineties",
+    "action_countries": [
+      "UNKNOWN"
+    ],
+    "action_continents": [
+      "UNKNOWN"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "old bloodlines haunting new property",
+        "description": "Modern families inherit houses, coastal land, and local secrets that carry older regional fears into the present, showing how the past still clings to place. What you'll see: abandoned estates, family lore, weathered caretakers, ancestral rumours, and newcomers uncovering what a district remembers.",
+        "icon": "🏚️"
+      }
+    ],
+    "failures": {
+      "wikipedia": "no_wiki_article_found"
+    }
+  },
+  {
+    "movie_id": 105904,
+    "movie_idx": 1603,
+    "imdb_id": "tt0311792",
+    "title": "Naked Poison",
+    "production_year": "2000",
+    "genre": "Crime, Horror, Thriller",
+    "plot": "Office worker, ugly and shy Man, not only suffers from a lack of success in women, but is also humiliated by everyone around. He gets his kicks taking sneaky snaps of his female co-workers, spying on his neighbors having rough sex; things change, however, when he mixes ingredients from his late grandfather's medicine shop to create the ultimate aphrodisiac drug.",
+    "runtime": "88 min",
+    "director": "Man-Kei Chin",
+    "actors": "Sammuel Leung, Gwennie Tam, Sophie Chin Man Ngan",
+    "production_country": "Hong Kong",
+    "poster": "https://m.media-amazon.com/images/M/MV5BOGY4ZmVkMjItYzliYi00Y2MyLTkwNjMtMWQxNWZjNWZiOTk2XkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/105904.webp",
+    "imdb_rating": "5.1",
+    "imdb_votes": "210",
+    "plot_year_start": 1990,
+    "plot_year_end": 1999,
+    "epoch": "the-nineties",
+    "action_countries": [
+      "UNKNOWN"
+    ],
+    "action_continents": [
+      "UNKNOWN"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "sex moving into the open market",
+        "description": "The decade treats desire less as a hidden matter of honour and more as something bought, advertised, discussed, and experimented with in urban life. What you'll see: coffee shops, swingers' ads, therapists' offices, erotic workplaces, porn studios, and relationships negotiated in franker terms.",
+        "icon": "💋"
+      },
+      {
+        "label": "mass media turning scandal into currency",
+        "description": "Fame, publicity, and entertainment publicity machines can make or ruin reputations with startling speed, and private troubles easily become public spectacle. What you'll see: idols, writers, backstage chatter, gossip, magazines, and careers shaken by rumour, obsession, and exposure.",
+        "icon": "📰"
+      }
+    ],
+    "failures": {
+      "wikipedia": "no_wiki_article_found"
+    }
+  },
+  {
+    "movie_id": 33380,
+    "movie_idx": 1631,
+    "imdb_id": "tt0274518",
+    "title": "Gayniggers from Outer Space",
+    "production_year": "1992",
+    "genre": "Short, Comedy, Sci-Fi",
+    "plot": "Extraterrestrial beings travel the galaxy to free men oppressed by females to make way for an entirely-homosexual society.",
+    "runtime": "26 min",
+    "director": "Morten Lindberg",
+    "actors": "Coco C.P. Dalbert, Sammy Salomon, Gbatokai Dakinah",
+    "production_country": "Denmark",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjI3NTFlMjItNjA5OS00MTRlLWE3NzAtNDA0ZDk2OTUyYTI3XkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/33380.webp",
+    "imdb_rating": "5.8",
+    "imdb_votes": "8,627",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Gayniggers_from_Outer_Space",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/33380.txt",
+    "plot_year_start": 1992,
+    "plot_year_end": 1992,
+    "epoch": "the-nineties",
+    "action_countries": [
+      "UNKNOWN"
+    ],
+    "action_continents": [
+      "UNKNOWN"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "sex moving into the open market",
+        "description": "The decade treats desire less as a hidden matter of honour and more as something bought, advertised, discussed, and experimented with in urban life. What you'll see: coffee shops, swingers' ads, therapists' offices, erotic workplaces, porn studios, and relationships negotiated in franker terms.",
+        "icon": "💋"
+      }
+    ]
+  },
+  {
+    "movie_id": 9312,
+    "movie_idx": 1783,
+    "imdb_id": "tt0113855",
+    "title": "Mortal Kombat",
+    "production_year": "1995",
+    "genre": "Action, Adventure, Fantasy",
+    "plot": "Based on the popular video game of the same name \"Mortal Kombat\" tells the story of an ancient tournament where the best of the best of different Realms fight each other. The goal - ten wins to be able to legally invade the losing Realm. Outworld has so far collected nine wins against Earthrealm, so it's up to Lord Rayden and his fighters to stop Outworld from reaching the final victory...",
+    "runtime": "101 min",
+    "director": "Paul W.S. Anderson",
+    "actors": "Christopher Lambert, Robin Shou, Linden Ashby",
+    "production_country": "United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNjQyYjJjMzEtZTYzYy00ZjFmLTlkNTktNDI5ZjIwNTAxOWE0XkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/9312.webp",
+    "imdb_rating": "5.8",
+    "imdb_votes": "131,146",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Mortal_Kombat_(1995_film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/9312.txt",
+    "plot_year_start": 1995,
+    "plot_year_end": 1995,
+    "epoch": "the-nineties",
+    "action_countries": [
+      "UNKNOWN"
+    ],
+    "action_continents": [
+      "UNKNOWN"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "authority split between law and underworld",
+        "description": "Public order often depends on uneasy bargains among police, soldiers, businessmen, and criminal networks rather than on clean trust in institutions. What you'll see: special task forces, undercover deals, weapons caches, mayoral ambitions, and officials crossing lines they claim to defend.",
+        "icon": "⚖️"
+      }
+    ]
+  },
+  {
+    "movie_id": 329,
+    "movie_idx": 2681,
+    "imdb_id": "tt0107290",
+    "title": "Jurassic Park",
+    "production_year": "1993",
+    "genre": "Action, Adventure, Sci-Fi",
+    "plot": "Huge advancements in scientific technology have enabled a mogul to create an island full of living dinosaurs. John Hammond has invited four individuals, along with his two grandchildren, to join him at Jurassic Park. But will everything go according to plan? A park employee attempts to steal dinosaur embryos, critical security systems are shut down and it now becomes a race for survival with dinosaurs roaming freely over the island.",
+    "runtime": "127 min",
+    "director": "Steven Spielberg",
+    "actors": "Sam Neill, Laura Dern, Jeff Goldblum",
+    "production_country": "United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjM2MDgxMDg0Nl5BMl5BanBnXkFtZTgwNTM2OTM5NDE@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/329.webp",
+    "imdb_rating": "8.2",
+    "imdb_votes": "1,167,043",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Jurassic_Park",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/329.txt",
+    "plot_year_start": 1993,
+    "plot_year_end": 1993,
+    "epoch": "the-nineties",
+    "action_countries": [
+      "UNKNOWN"
+    ],
+    "action_continents": [
+      "UNKNOWN"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "global travel shrinking distance and danger",
+        "description": "Cheap flights, cruise ships, and holiday trips make movement across sea and sky feel routine, while also carrying strangers into sudden peril far from home. What you'll see: airplane cabins, luxury liners, island caretakers, graduation trips, and travellers discovering that leisure offers no safety.",
+        "icon": "✈️"
+      }
+    ]
+  },
+  {
+    "movie_id": 1946,
+    "movie_idx": 2722,
+    "imdb_id": "tt0120907",
+    "title": "eXistenZ",
+    "production_year": "1999",
+    "genre": "Horror, Mystery, Sci-Fi",
+    "plot": "Allegra Geller, the leading game designer in the world, is testing her new virtual reality game, eXistenZ with a focus group. As they begin, she is attacked by a fanatic assassin employing a bizarre organic gun. She flees with a young marketing trainee, Ted Pikul, who is suddenly assigned as her bodyguard. Unfortunately, her pod, an organic gaming device that contains the only copy of the eXistenZ game program, is damaged. To inspect it, she talks Ted into accepting a gameport in his own body so he can play the game with her. The events leading up to this, and the resulting game lead the pair on a strange adventure where reality and their actions are impossible to determine from either their own or the game's perspective.",
+    "runtime": "97 min",
+    "director": "David Cronenberg",
+    "actors": "Jude Law, Jennifer Jason Leigh, Ian Holm",
+    "production_country": "United Kingdom, France, Canada",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZjk3MGRhN2EtN2IyYi00NjFkLWFmNTUtNWI3MzZiYjI2ZjRkXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/1946.webp",
+    "imdb_rating": "6.8",
+    "imdb_votes": "111,094",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Existenz",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/1946.txt",
+    "plot_year_start": 1999,
+    "plot_year_end": 1999,
+    "epoch": "the-nineties",
+    "action_countries": [
+      "UNKNOWN"
+    ],
+    "action_continents": [
+      "UNKNOWN"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "consumer gadgets entering every room",
+        "description": "Daily life is being rewired by compact electronics, surveillance devices, computer chips, and automated systems that promise convenience while widening control. What you'll see: screens glowing in homes and compounds, bugs and cameras, clever household machines, and people trusting devices they barely understand.",
+        "icon": "📺"
+      }
+    ]
+  },
+  {
+    "movie_id": 10991,
+    "movie_idx": 2755,
+    "imdb_id": "tt0235679",
+    "title": "Pokémon 3 the Movie: Spell of the Unown",
+    "production_year": "2000",
+    "genre": "Animation, Action, Adventure",
+    "plot": "Professor Shuri is a scientist looking for rare Pocket Monsters. He reads a storybook to his daughter Mi about the powerful Pokemon Entei. Shuri is currently searching for the heiroglyph Pokemon \"Unknown\". While searching through some ancient artifacts, Shuri awakens Unknown and is sucked into it. Mi next awakens Unknown while looking for her father. Unknown bonds with her and turns her mansion into a Crystal Tower. The crystallization begins to spread. Unknown lives to serve Mi and creates an Entei with the personality of her father to make her happy. When Mi next desires a mother, Entei kidnaps Satoshi's mother Hanako to give to Mi. Satoshi, Kasumi, Takeshi, and of course Pikachu set out to get her back.",
+    "runtime": "93 min",
+    "director": "Kunihiko Yuyama",
+    "actors": "Veronica Taylor, Eric Stuart, Rica Matsumoto",
+    "production_country": "Japan",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTk0NzM3MDY1OV5BMl5BanBnXkFtZTYwNTkwODc5._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/10991.webp",
+    "imdb_rating": "5.9",
+    "imdb_votes": "16,319",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Pok%C3%A9mon_3:_The_Movie",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/10991.txt",
+    "plot_year_start": 2000,
+    "plot_year_end": 2000,
+    "epoch": "the-nineties",
+    "action_countries": [
+      "UNKNOWN"
+    ],
+    "action_continents": [
+      "UNKNOWN"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Pokémon",
+    "categories": [
+      {
+        "label": "global travel shrinking distance and danger",
+        "description": "Cheap flights, cruise ships, and holiday trips make movement across sea and sky feel routine, while also carrying strangers into sudden peril far from home. What you'll see: airplane cabins, luxury liners, island caretakers, graduation trips, and travellers discovering that leisure offers no safety.",
+        "icon": "✈️"
+      }
+    ]
+  },
+  {
+    "movie_id": 9457,
+    "movie_idx": 3893,
+    "imdb_id": "tt0118956",
+    "title": "Deep Rising",
+    "production_year": "1998",
+    "genre": "Action, Adventure, Horror",
+    "plot": "When a band of ruthless hijackers invade the world's most luxurious cruise ship, they're shocked to discover the passengers have mysteriously vanished! But that doesn't mean they are alone! Something terrifying is lurking just out of sight: a deadly force from the unexplored depths of the ocean that begins to snatch the horrified intruders one by one!",
+    "runtime": "106 min",
+    "director": "Stephen Sommers",
+    "actors": "Treat Williams, Famke Janssen, Anthony Heald",
+    "production_country": "United States, Canada",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNGY3MmNiZTgtMmY0OS00NmNjLWI0MjAtNDVjYTNlNWQwZGE1XkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/9457.webp",
+    "imdb_rating": "6.1",
+    "imdb_votes": "43,756",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Deep_Rising",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/9457.txt",
+    "plot_year_start": 1998,
+    "plot_year_end": 1998,
+    "epoch": "the-nineties",
+    "action_countries": [
+      "UNKNOWN",
+      "SC",
+      "CN"
+    ],
+    "action_continents": [
+      "UNKNOWN",
+      "Africa",
+      "Asia"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "global travel shrinking distance and danger",
+        "description": "Cheap flights, cruise ships, and holiday trips make movement across sea and sky feel routine, while also carrying strangers into sudden peril far from home. What you'll see: airplane cabins, luxury liners, island caretakers, graduation trips, and travellers discovering that leisure offers no safety.",
+        "icon": "✈️"
+      }
+    ]
+  },
+  {
+    "movie_id": 619433,
+    "movie_idx": 3946,
+    "imdb_id": "tt13717514",
+    "title": "I Don't Like Younger Men 4",
+    "production_year": "2019",
+    "genre": "Romance",
+    "plot": "Yoo-jin runs a coffee shop. One day he runs into his childhood friend Mi-ae. She is unemployed and helps Yoo-jin at the coffee shop. Min-soo stops by to see his daughter, but realizes that he is attracted to Mi-ae.",
+    "runtime": "70 min",
+    "director": "Kim Tae-soo",
+    "actors": "Seo-ah Han, Do-Yoon Min, Se Rin",
+    "production_country": "South Korea",
+    "poster": "https://m.media-amazon.com/images/M/MV5BOGQwMDA1NWItOGI0YS00NWRjLWEyN2MtYTk5M2JmYTVlZjJjXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/619433.webp",
+    "imdb_rating": "N/A",
+    "imdb_votes": "135",
+    "plot_year_start": 2000,
+    "plot_year_end": 2000,
+    "epoch": "the-nineties",
+    "action_countries": [
+      "UNKNOWN"
+    ],
+    "action_continents": [
+      "UNKNOWN"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "sex moving into the open market",
+        "description": "The decade treats desire less as a hidden matter of honour and more as something bought, advertised, discussed, and experimented with in urban life. What you'll see: coffee shops, swingers' ads, therapists' offices, erotic workplaces, porn studios, and relationships negotiated in franker terms.",
+        "icon": "💋"
+      }
+    ],
+    "failures": {
+      "wikipedia": "no_wiki_article_found"
+    }
+  },
+  {
+    "movie_id": 15601,
+    "movie_idx": 3987,
+    "imdb_id": "tt0290057",
+    "title": "Scooby-Doo and the Cyber Chase",
+    "production_year": "2001",
+    "genre": "Animation, Action, Adventure, Comedy, Family, Mystery, Sci-Fi",
+    "plot": "When Scooby and the gang visit a scientist at a university to check out the game he created about them, they get trapped in the game itself and have to play the game to get out of it once and for all, while they face an enemy known as the 'Phantom Virus'.",
+    "runtime": "74 min",
+    "director": "Jim Stenstrum",
+    "actors": "Scott Innes, Joe Alaskey, Bob Bergen, Grey Griffin",
+    "production_country": "USA",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNDJlMWQ3YjAtOGFiOS00N2IxLThmYTUtYzZiOTFmZDc4NzFiXkEyXkFqcGdeQXVyNDQ5MDYzMTk@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/15601.webp",
+    "imdb_rating": "7.0",
+    "imdb_votes": "6,825",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Scooby-Doo_and_the_Cyber_Chase",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/15601.txt",
+    "plot_year_start": 2001,
+    "plot_year_end": 2001,
+    "epoch": "the-nineties",
+    "action_countries": [
+      "UNKNOWN"
+    ],
+    "action_continents": [
+      "UNKNOWN"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "consumer gadgets entering every room",
+        "description": "Daily life is being rewired by compact electronics, surveillance devices, computer chips, and automated systems that promise convenience while widening control. What you'll see: screens glowing in homes and compounds, bugs and cameras, clever household machines, and people trusting devices they barely understand.",
+        "icon": "📺"
+      },
+      {
+        "label": "children raised inside branded modern plenty",
+        "description": "Many families inhabit a world of packaged entertainment, bright consumer goods, and child-centred comfort, where young people are expected to be clever, confident, and amused. What you'll see: colourful bedrooms, toys and snacks, wisecracking kids, suburban routines, and adventure framed by familiar comforts.",
+        "icon": "🧸"
+      }
+    ]
+  },
+  {
+    "movie_id": 9447,
+    "movie_idx": 4732,
+    "imdb_id": "tt0120595",
+    "title": "Babe: Pig in the City",
+    "production_year": "1998",
+    "genre": "Adventure, Comedy, Drama",
+    "plot": "After Babe's great victory in the shepherding contest, Farmer Arthur Hoggett turns down all offers to make money with his pig's talents. But when he gets hurt severely in the well, his wife has to take up farming. She does her best but cannot meet the bank's requirements, which results in the necessity of getting back to Babe. Soon, Esme Hoggett is sitting in a plane headed for \"the\" city. There, Babe unwillingly causes deep trouble. He has to stay with Mrs. Hoggett in the only hotel in town that accepts pets. Friendly neighbours send officials who catch all animals from the hotel: Cats, dogs, chimpanzees and many others. Babe, who managed to stay free, decides to help his new friends and gets unexpected help - not only by Ferdinand, who flew all the way to the city.",
+    "runtime": "97 min",
+    "director": "George Miller",
+    "actors": "Magda Szubanski, Elizabeth Daily, Mickey Rooney",
+    "production_country": "Australia, United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BOWY0NzY1NTgtODRhMC00MWM5LTk1OGMtNGNlNTBhY2RhOTg3XkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/9447.webp",
+    "imdb_rating": "5.9",
+    "imdb_votes": "37,237",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Babe:_Pig_in_the_City",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/9447.txt",
+    "plot_year_start": 1995,
+    "plot_year_end": 1995,
+    "epoch": "the-nineties",
+    "action_countries": [
+      "UNKNOWN"
+    ],
+    "action_continents": [
+      "UNKNOWN"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "middle-class homes under money pressure",
+        "description": "Comfortable domestic life rests on loans, promotions, and steady wages, so injury, stalled advancement, or bad luck can quickly threaten the household. What you'll see: suburbs, bank demands, workplace rivalry, family kitchens, and respectable homes strained by bills and disappointment.",
+        "icon": "🏠"
+      },
+      {
+        "label": "global travel shrinking distance and danger",
+        "description": "Cheap flights, cruise ships, and holiday trips make movement across sea and sky feel routine, while also carrying strangers into sudden peril far from home. What you'll see: airplane cabins, luxury liners, island caretakers, graduation trips, and travellers discovering that leisure offers no safety.",
+        "icon": "✈️"
+      }
+    ]
+  },
+  {
+    "movie_id": 59940,
+    "movie_idx": 4744,
+    "imdb_id": "tt0271884",
+    "title": "Zebra Lounge",
+    "production_year": "2001",
+    "genre": "Crime, Drama, Thriller",
+    "plot": "The upper middle class Wendy Barnet and Alan Barnet are married with children and live in the suburbs. Alan is disputing a promotion with his co-worker Neil Bradley (Vincent Corazza) but his relationship with Wendy is boring. They decide to buy a swingers magazine and contact an attractive couple to rekindle their sex life. The couple Louise and Jack Bauer schedule a date with them at the Zebra Lounge and they go to a place where they swap wives. Wendy and Alan feel satisfied with the encounter but Louise and Jack want to meet them again. Soon they find how persistent Jack is.",
+    "runtime": "93 min",
+    "director": "Kari Skogland",
+    "actors": "Stephen Baldwin, Cameron Daddo, Kristy Swanson",
+    "production_country": "Canada",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNjk1MjE0MDgyNl5BMl5BanBnXkFtZTcwNzM4OTQyMQ@@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/59940.webp",
+    "imdb_rating": "4.7",
+    "imdb_votes": "2,168",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Zebra_Lounge",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/59940.txt",
+    "plot_year_start": 2001,
+    "plot_year_end": 2001,
+    "epoch": "the-nineties",
+    "action_countries": [
+      "UNKNOWN"
+    ],
+    "action_continents": [
+      "UNKNOWN"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "sex moving into the open market",
+        "description": "The decade treats desire less as a hidden matter of honour and more as something bought, advertised, discussed, and experimented with in urban life. What you'll see: coffee shops, swingers' ads, therapists' offices, erotic workplaces, porn studios, and relationships negotiated in franker terms.",
+        "icon": "💋"
+      },
+      {
+        "label": "middle-class homes under money pressure",
+        "description": "Comfortable domestic life rests on loans, promotions, and steady wages, so injury, stalled advancement, or bad luck can quickly threaten the household. What you'll see: suburbs, bank demands, workplace rivalry, family kitchens, and respectable homes strained by bills and disappointment.",
+        "icon": "🏠"
+      }
+    ]
+  },
+  {
+    "movie_id": 9070,
+    "movie_idx": 4808,
+    "imdb_id": "tt0899194",
+    "title": "Mighty Morphin Power Rangers the Movie: Secrets Revealed",
+    "production_year": "1995",
+    "genre": "Documentary, Short",
+    "plot": "A behind the scenes look at the making of 'Mighty Morphin Power Rangers the Movie'.",
+    "runtime": "20 min",
+    "director": "Thomas C. Grane",
+    "actors": "Karan Ashley, Johnny Yong Bosch, Steve Cardenas",
+    "production_country": "United States, Australia",
+    "poster": "N/A",
+    "imdb_rating": "6.3",
+    "imdb_votes": "50",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Mighty_Morphin_Power_Rangers:_The_Movie",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/9070.txt",
+    "plot_year_start": 1995,
+    "plot_year_end": 1995,
+    "epoch": "the-nineties",
+    "action_countries": [
+      "UNKNOWN"
+    ],
+    "action_continents": [
+      "UNKNOWN"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "children raised inside branded modern plenty",
+        "description": "Many families inhabit a world of packaged entertainment, bright consumer goods, and child-centred comfort, where young people are expected to be clever, confident, and amused. What you'll see: colourful bedrooms, toys and snacks, wisecracking kids, suburban routines, and adventure framed by familiar comforts.",
+        "icon": "🧸"
+      }
+    ],
+    "failures": {
+      "poster": "no_poster_url"
+    }
+  },
+  {
+    "movie_id": 450932,
+    "movie_idx": 5563,
+    "imdb_id": "tt4557208",
+    "title": "Armed Response",
+    "production_year": "2017",
+    "genre": "Action, Horror, Thriller",
+    "plot": "A team of highly trained operatives find themselves trapped inside an isolated military compound after its AI is suddenly shut down. The crew begins to experience strange and horrific phenomena as they attempt to uncover what killed the previous team.",
+    "runtime": "93 min",
+    "director": "John Stockwell",
+    "actors": "Wesley Snipes, Anne Heche, Dave Annable",
+    "production_country": "United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjIzMDU1NDEwNF5BMl5BanBnXkFtZTgwNjEzMTc3MjI@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/450932.webp",
+    "imdb_rating": "3.7",
+    "imdb_votes": "3,074",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Armed_Response_(2017_film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/450932.txt",
+    "plot_year_start": 2001,
+    "plot_year_end": 2001,
+    "epoch": "the-nineties",
+    "action_countries": [
+      "UNKNOWN"
+    ],
+    "action_continents": [
+      "UNKNOWN"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "cold war habits lingering after the thaw",
+        "description": "Even as the old standoff fades, spies, missiles, secret files, and military chains of command still organise how states imagine danger. What you'll see: agents with aliases, hidden bases, court-martial rooms, coded exchanges, and officials treating suspicion as ordinary business.",
+        "icon": "🕵️"
+      },
+      {
+        "label": "consumer gadgets entering every room",
+        "description": "Daily life is being rewired by compact electronics, surveillance devices, computer chips, and automated systems that promise convenience while widening control. What you'll see: screens glowing in homes and compounds, bugs and cameras, clever household machines, and people trusting devices they barely understand.",
+        "icon": "📺"
+      }
+    ]
+  },
+  {
+    "movie_id": 1127209,
+    "movie_idx": 6123,
+    "imdb_id": "tt27799221",
+    "title": "Kabayo",
+    "production_year": "2023",
+    "genre": "Drama",
+    "plot": "Laurene wants to elevate her seven-year relationship with Conrad. When Easton comes into the picture, she believes she is the perfect addition to their sexual relationship.",
+    "runtime": "106 min",
+    "director": "Gianfranco Morciano",
+    "actors": "Rico Barrera, Julia Victoria, Ping Medina",
+    "production_country": "Philippines",
+    "poster": "https://m.media-amazon.com/images/M/MV5BM2NjNzA1YTYtMjgzOS00NTllLThlYTEtZTJlOWNlZjIwNjAyXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/1127209.webp",
+    "imdb_rating": "N/A",
+    "imdb_votes": "161",
+    "plot_year_start": 2000,
+    "plot_year_end": 2000,
+    "epoch": "the-nineties",
+    "action_countries": [
+      "UNKNOWN"
+    ],
+    "action_continents": [
+      "UNKNOWN"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "sex moving into the open market",
+        "description": "The decade treats desire less as a hidden matter of honour and more as something bought, advertised, discussed, and experimented with in urban life. What you'll see: coffee shops, swingers' ads, therapists' offices, erotic workplaces, porn studios, and relationships negotiated in franker terms.",
+        "icon": "💋"
+      }
+    ],
+    "failures": {
+      "wikipedia": "no_wiki_article_found"
+    }
+  },
+  {
+    "movie_id": 942951,
+    "movie_idx": 6886,
+    "imdb_id": "tt31165520",
+    "title": "Snake Island: Python",
+    "production_year": "2022",
+    "genre": "Action, Adventure",
+    "plot": "A group of young people go on a graduation trip to a remote island. Unbeknownst to them, the island is the home of a monstrous-sized python. Though the kindly caretaker tries to help the young people, will they all be able to surv...",
+    "runtime": "69 min",
+    "director": "Zhiwen Li",
+    "actors": "Ming Cen, Wei Liu, Wang Yang",
+    "production_country": "China",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMmQzMjNlOWQtZDQyOS00NjUxLWE1NDQtNDRjZDgxNjBmZDYwXkEyXkFqcGdeQXVyNjQ2MjM1OTk@._V1_SX300.jpg",
+    "imdb_rating": "N/A",
+    "imdb_votes": "10",
+    "plot_year_start": 2000,
+    "plot_year_end": 2000,
+    "epoch": "the-nineties",
+    "action_countries": [
+      "UNKNOWN"
+    ],
+    "action_continents": [
+      "UNKNOWN"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "global travel shrinking distance and danger",
+        "description": "Cheap flights, cruise ships, and holiday trips make movement across sea and sky feel routine, while also carrying strangers into sudden peril far from home. What you'll see: airplane cabins, luxury liners, island caretakers, graduation trips, and travellers discovering that leisure offers no safety.",
+        "icon": "✈️"
+      }
+    ],
+    "failures": {
+      "wikipedia": "no_wiki_article_found",
+      "poster": "poster_download_failed"
+    }
+  },
+  {
+    "movie_id": 12589,
+    "movie_idx": 6958,
+    "imdb_id": "tt0268397",
+    "title": "Jimmy Neutron: Boy Genius",
+    "production_year": "2001",
+    "genre": "Animation, Action, Adventure",
+    "plot": "Jimmy Neutron is a boy genius and way ahead of his friends, but when it comes to being cool, he's a little behind. All until one day when his parents, and parents all over Earth are kidnapped by aliens, it's up to him to lead all the children of the world to rescue their parents.",
+    "runtime": "82 min",
+    "director": "John A. Davis",
+    "actors": "Debi Derryberry, Rob Paulsen, Megan Cavanagh",
+    "production_country": "United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BOTVlOWQ0ZDctNzRjOC00ZThkLWE1OTItODg4NTJmZmE3NDUxXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/12589.webp",
+    "imdb_rating": "6.1",
+    "imdb_votes": "40,408",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Jimmy_Neutron:_Boy_Genius",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/12589.txt",
+    "plot_year_start": 2001,
+    "plot_year_end": 2001,
+    "epoch": "the-nineties",
+    "action_countries": [
+      "UNKNOWN"
+    ],
+    "action_continents": [
+      "UNKNOWN"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "children raised inside branded modern plenty",
+        "description": "Many families inhabit a world of packaged entertainment, bright consumer goods, and child-centred comfort, where young people are expected to be clever, confident, and amused. What you'll see: colourful bedrooms, toys and snacks, wisecracking kids, suburban routines, and adventure framed by familiar comforts.",
+        "icon": "🧸"
+      },
+      {
+        "label": "consumer gadgets entering every room",
+        "description": "Daily life is being rewired by compact electronics, surveillance devices, computer chips, and automated systems that promise convenience while widening control. What you'll see: screens glowing in homes and compounds, bugs and cameras, clever household machines, and people trusting devices they barely understand.",
+        "icon": "📺"
+      }
+    ]
+  },
+  {
+    "movie_id": 61185,
+    "movie_idx": 6963,
+    "imdb_id": "tt0253040",
+    "title": "Diary of a Sex Addict",
+    "production_year": "2001",
+    "genre": "Drama",
+    "plot": "A middle-aged chef in a luxurious restaurant reveals to his shrink his double personality: He is an impeccable family man who loves his wife and son and at the same time a sexually hungry person who seeks pleasure at any time with any woman.",
+    "runtime": "93 min",
+    "director": "Joseph Brutsman",
+    "actors": "Rosanna Arquette, Michael Des Barres, Nastassja Kinski, Eva Jenickova",
+    "production_country": "USA",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjAzODkzNjQ2M15BMl5BanBnXkFtZTYwMjczMjM5._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/61185.webp",
+    "imdb_rating": "3.3",
+    "imdb_votes": "1,520",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Diary_of_a_Sex_Addict",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/61185.txt",
+    "plot_year_start": 2001,
+    "plot_year_end": 2001,
+    "epoch": "the-nineties",
+    "action_countries": [
+      "UNKNOWN"
+    ],
+    "action_continents": [
+      "UNKNOWN"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "sex moving into the open market",
+        "description": "The decade treats desire less as a hidden matter of honour and more as something bought, advertised, discussed, and experimented with in urban life. What you'll see: coffee shops, swingers' ads, therapists' offices, erotic workplaces, porn studios, and relationships negotiated in franker terms.",
+        "icon": "💋"
+      }
+    ]
+  },
+  {
+    "movie_id": 1018332,
+    "movie_idx": 7042,
+    "imdb_id": "tt24249946",
+    "title": "The Caine Mutiny Court-Martial",
+    "production_year": "2023",
+    "genre": "Drama, War",
+    "plot": "Follows a naval officer who stands trial for mutiny after taking command from a ship captain he felt was acting in an unstable way, putting both the ship and its crew in danger.",
+    "runtime": "108 min",
+    "director": "William Friedkin",
+    "actors": "Kiefer Sutherland, Jason Clarke, Jake Lacy",
+    "production_country": "United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BN2I0OWI5MGQtNzc4My00YTAxLWFlNDctOTBmMWEzYTY4NjM5XkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/1018332.webp",
+    "imdb_rating": "6.7",
+    "imdb_votes": "5,824",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Caine_Mutiny_Court-Martial_(2023_film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/1018332.txt",
+    "plot_year_start": 1990,
+    "plot_year_end": 1990,
+    "epoch": "the-nineties",
+    "action_countries": [
+      "UNKNOWN"
+    ],
+    "action_continents": [
+      "UNKNOWN"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "cold war habits lingering after the thaw",
+        "description": "Even as the old standoff fades, spies, missiles, secret files, and military chains of command still organise how states imagine danger. What you'll see: agents with aliases, hidden bases, court-martial rooms, coded exchanges, and officials treating suspicion as ordinary business.",
+        "icon": "🕵️"
+      }
+    ]
+  },
+  {
+    "movie_id": 59387,
+    "movie_idx": 7060,
+    "imdb_id": "tt0289408",
+    "title": "The Powerpuff Girls Movie",
+    "production_year": "2002",
+    "genre": "Animation, Action, Adventure",
+    "plot": "In the city of Townsville, the frustrated Professor Utonium is gathering all the ingredients to make a perfect little girl (sugar, spice, and everything nice). But when his lab assitant, a monkey named Jojo, causes the accidental addition of Chemical X to the mix, the Professor ends up with not one but 3 perfect, powerful little girls. It soon becomes obvious that Blossom, Bubbles, and Buttercup are not normal girls, they have superpowers and have not yet learned to control. The girls are treated like outcasts because they have inadvertently wrecked Townsville in a superpowered game of tag. To win the hearts of the people of Townsville, the girls are tricked into making a deal with Jojo who plans to take over Townsville. As the girls foil this threat and defeat an army of superpowered monkeys, the Powerpuff Girls learn that with great power comes great responsibility.",
+    "runtime": "73 min",
+    "director": "Craig McCracken",
+    "actors": "Cathy Cavadini, Tara Strong, Elizabeth Daily",
+    "production_country": "United States, South Korea",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNjQ2OWU4ZDgtNjY4YS00OTZkLWIyN2UtZGM0MmI0MDljYjI2XkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/59387.webp",
+    "imdb_rating": "6.5",
+    "imdb_votes": "11,232",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Powerpuff_Girls_Movie",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/59387.txt",
+    "plot_year_start": 1998,
+    "plot_year_end": 1998,
+    "epoch": "the-nineties",
+    "action_countries": [
+      "UNKNOWN"
+    ],
+    "action_continents": [
+      "UNKNOWN"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "The Powerpuff Girls Universe",
+    "categories": [
+      {
+        "label": "cities shaped by crime and private fear",
+        "description": "Urban life is marked by corruption, gang influence, unsafe buildings, and the feeling that danger sits close to home rather than at a distant frontier. What you'll see: cramped flats, night streets, back rooms, police pressure, and households trying to keep violence outside the door.",
+        "icon": "🏙️"
+      },
+      {
+        "label": "authority split between law and underworld",
+        "description": "Public order often depends on uneasy bargains among police, soldiers, businessmen, and criminal networks rather than on clean trust in institutions. What you'll see: special task forces, undercover deals, weapons caches, mayoral ambitions, and officials crossing lines they claim to defend.",
+        "icon": "⚖️"
+      }
+    ]
+  },
+  {
+    "movie_id": 416051,
+    "movie_idx": 8955,
+    "imdb_id": "tt5893264",
+    "title": "Based on a True Story",
+    "production_year": "2017",
+    "genre": "Drama, Mystery, Thriller",
+    "plot": "A writer goes through a tough period after the release of her latest book, as she gets involved with an obsessive admirer.",
+    "runtime": "100 min",
+    "director": "Roman Polanski",
+    "actors": "Emmanuelle Seigner, Eva Green, Vincent Perez",
+    "production_country": "France, Poland, Belgium",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZTMyZjhjOWItZTkzMy00Y2FlLWFhNjAtMTViYmU2M2I5YTMwXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/416051.webp",
+    "imdb_rating": "5.7",
+    "imdb_votes": "7,679",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/List_of_2017_films_based_on_actual_events",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/416051.txt",
+    "plot_year_start": 2000,
+    "plot_year_end": 2000,
+    "epoch": "the-nineties",
+    "action_countries": [
+      "UNKNOWN"
+    ],
+    "action_continents": [
+      "UNKNOWN"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "mass media turning scandal into currency",
+        "description": "Fame, publicity, and entertainment publicity machines can make or ruin reputations with startling speed, and private troubles easily become public spectacle. What you'll see: idols, writers, backstage chatter, gossip, magazines, and careers shaken by rumour, obsession, and exposure.",
+        "icon": "📰"
+      }
+    ]
+  },
+  {
+    "movie_id": 209964,
+    "movie_idx": 9565,
+    "imdb_id": "tt3031030",
+    "title": "Porno",
+    "production_year": "2013",
+    "genre": "Drama",
+    "plot": "An assassin, a porn dubber and a transgender. Three souls. One explicit illusion. To find the ultimate joy in their empty lives. A safe haven, where passion and love mean humanity, ecstasy means enlightenment, and the soul is the ...",
+    "runtime": "90 min",
+    "director": "Adolfo Alix Jr.",
+    "actors": "Adriana Gomez, Janvier Daily, Yul Servo",
+    "production_country": "Philippines",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNWFiMTgzNzEtODdlYi00YzgxLWFmYzQtMGU5ZmQ5ZjVhYzBiXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/209964.webp",
+    "imdb_rating": "7.2",
+    "imdb_votes": "81",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Pornographic_film",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/209964.txt",
+    "plot_year_start": 2000,
+    "plot_year_end": 2000,
+    "epoch": "the-nineties",
+    "action_countries": [
+      "UNKNOWN"
+    ],
+    "action_continents": [
+      "UNKNOWN"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "sex moving into the open market",
+        "description": "The decade treats desire less as a hidden matter of honour and more as something bought, advertised, discussed, and experimented with in urban life. What you'll see: coffee shops, swingers' ads, therapists' offices, erotic workplaces, porn studios, and relationships negotiated in franker terms.",
+        "icon": "💋"
+      }
+    ]
+  },
+  {
+    "movie_id": 10535,
+    "movie_idx": 9650,
+    "imdb_id": "tt0117723",
+    "title": "Spy Hard",
+    "production_year": "1996",
+    "genre": "Action, Comedy",
+    "plot": "General Rancor is threatening to destroy the world with a missile he is hiding at his secret base. But to complete his goal, he needs a special computer chip, invented by the scientist Prof. Ukrinsky. Special Agent Dick Steele is assigned to the case, in order to prevent the worst. He teams up with Ukrinsky's daughter Veronique, who happens to be a KGB agent.",
+    "runtime": "81 min",
+    "director": "Rick Friedberg",
+    "actors": "Leslie Nielsen, Nicollette Sheridan, Charles Durning",
+    "production_country": "United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BOTEzMTZiMDgtMzI2MS00MzU3LWI2M2QtZWMzOTM0MTM5ZDQyXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/10535.webp",
+    "imdb_rating": "5.3",
+    "imdb_votes": "42,408",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Spy_Hard",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/10535.txt",
+    "plot_year_start": 1996,
+    "plot_year_end": 1996,
+    "epoch": "the-nineties",
+    "action_countries": [
+      "UNKNOWN"
+    ],
+    "action_continents": [
+      "UNKNOWN"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "cold war habits lingering after the thaw",
+        "description": "Even as the old standoff fades, spies, missiles, secret files, and military chains of command still organise how states imagine danger. What you'll see: agents with aliases, hidden bases, court-martial rooms, coded exchanges, and officials treating suspicion as ordinary business.",
+        "icon": "🕵️"
+      },
+      {
+        "label": "global travel shrinking distance and danger",
+        "description": "Cheap flights, cruise ships, and holiday trips make movement across sea and sky feel routine, while also carrying strangers into sudden peril far from home. What you'll see: airplane cabins, luxury liners, island caretakers, graduation trips, and travellers discovering that leisure offers no safety.",
+        "icon": "✈️"
+      }
+    ]
+  },
+  {
+    "movie_id": 289732,
+    "movie_idx": 9728,
+    "imdb_id": "tt3560742",
+    "title": "Zombie Fight Club",
+    "production_year": "2014",
+    "genre": "Action, Adventure, Comedy",
+    "plot": "It's the end of the century at a corner of the city in a building riddled with crime - Everyone in the building has turned into zombies. After Jenny's boyfriend is killed in a zombie attack, she faces the challenge of surviving in the face of adversity. In order to stay alive, she struggles with Andy to flee danger.",
+    "runtime": "95 min",
+    "director": "Joe Chien",
+    "actors": "Andy On, Jessica Cambensy, Michael Wong",
+    "production_country": "Taiwan",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjVlMDFlMTEtYzdhOS00YzU0LWJkZTctODBjZWMyMDAxYmIyXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/289732.webp",
+    "imdb_rating": "3.9",
+    "imdb_votes": "991",
+    "plot_year_start": 1999,
+    "plot_year_end": 1999,
+    "epoch": "the-nineties",
+    "action_countries": [
+      "UNKNOWN"
+    ],
+    "action_continents": [
+      "UNKNOWN"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "cities shaped by crime and private fear",
+        "description": "Urban life is marked by corruption, gang influence, unsafe buildings, and the feeling that danger sits close to home rather than at a distant frontier. What you'll see: cramped flats, night streets, back rooms, police pressure, and households trying to keep violence outside the door.",
+        "icon": "🏙️"
+      }
+    ],
+    "failures": {
+      "wikipedia": "no_wiki_article_found"
+    }
+  }
+]

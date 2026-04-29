@@ -1,0 +1,349 @@
+[
+  {
+    "movie_id": 217,
+    "movie_idx": 1163,
+    "imdb_id": "tt0367882",
+    "title": "Indiana Jones and the Kingdom of the Crystal Skull",
+    "production_year": "2008",
+    "genre": "Action, Adventure",
+    "plot": "During the Cold War, Soviet Agents watch Professor Henry \"Indiana\" Jones, Jr. (Harrison Ford), when a young man brings him a coded message from an aged, demented colleague, Professor Harold Oxley (Sir John Hurt). Led by the brilliant Irina Spalko (Cate Blanchett), the Soviets tail Jones and the young man, Mutt Williams (Shia LeBeouf), to Peru. With Oxley's code, they find a legendary skull made of a single piece of quartz. If Jones can deliver the skull to its rightful place, all may be well. But if Irina takes it to its origin, she'll gain powers that could endanger the West. Aging professor and young buck join forces with a woman from Jones' past, Marion Ravenwood (Karen Allen), to face the dangers of the jungle, Russia, and the supernatural.",
+    "runtime": "122 min",
+    "director": "Steven Spielberg",
+    "actors": "Harrison Ford, Cate Blanchett, Shia LaBeouf",
+    "production_country": "United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYTFiMDk2NzItZDU5Ni00ZjBjLTkzYWQtYzcwZDIwMWZjMmZiXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/217.webp",
+    "imdb_rating": "6.2",
+    "imdb_votes": "511,928",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Indiana_Jones_and_the_Kingdom_of_the_Crystal_Skull",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/217.txt",
+    "plot_year_start": 1957,
+    "plot_year_end": 1957,
+    "epoch": "early-cold-war-era",
+    "action_countries": [
+      "PE",
+      "US",
+      "RU"
+    ],
+    "action_continents": [
+      "South America",
+      "North America",
+      "Europe"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "foreign spies moving through port cities",
+        "description": "South American capitals and coastal cities sit inside the early Cold War contest, where foreign services watch harbours, hotels, embassies, and expatriate circles for enemies and defectors. What you'll see: discreet surveillance, coded messages, consular offices, airport and dockside arrivals, and polished urban districts shadowed by suspicion.",
+        "icon": "🕵️"
+      },
+      {
+        "label": "jungle rivers and frontiers beyond capitals",
+        "description": "Large parts of South America remain frontier country to city dwellers, where state power is thin and life is shaped by river travel, forest knowledge, and physical isolation. What you'll see: Amazon waterways, dense jungle tracks, remote missions or colonies, improvised boats, insects and mud, and settlements cut off from urban routines.",
+        "icon": "🛶"
+      }
+    ]
+  },
+  {
+    "movie_id": 10973,
+    "movie_idx": 3791,
+    "imdb_id": "tt0046876",
+    "title": "Creature from the Black Lagoon",
+    "production_year": "1954",
+    "genre": "Horror, Sci-Fi",
+    "plot": "A scientific expedition searching for fossils along the Amazon River discovers a prehistoric Gill-Man in the legendary Black Lagoon. The explorers capture the mysterious creature, but it breaks free. The Gill-Man returns to kidnap the lovely Kay, fiancée of one in the expedition, with whom he has fallen in love.",
+    "runtime": "79 min",
+    "director": "Jack Arnold",
+    "actors": "Richard Carlson, Julie Adams, Richard Denning",
+    "production_country": "United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZWZiYmQ0ZjctMmM5Mi00NTQyLThkYzQtMjUyNGIwNjgzOTk5XkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/10973.webp",
+    "imdb_rating": "6.9",
+    "imdb_votes": "37,202",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Gill-man",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/10973.txt",
+    "plot_year_start": 1954,
+    "plot_year_end": 1954,
+    "epoch": "early-cold-war-era",
+    "action_countries": [
+      "BR"
+    ],
+    "action_continents": [
+      "South America"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "jungle rivers and frontiers beyond capitals",
+        "description": "Large parts of South America remain frontier country to city dwellers, where state power is thin and life is shaped by river travel, forest knowledge, and physical isolation. What you'll see: Amazon waterways, dense jungle tracks, remote missions or colonies, improvised boats, insects and mud, and settlements cut off from urban routines.",
+        "icon": "🛶"
+      }
+    ]
+  },
+  {
+    "movie_id": 303,
+    "movie_idx": 5624,
+    "imdb_id": "tt0038787",
+    "title": "Notorious",
+    "production_year": "1946",
+    "genre": "Drama, Film-Noir, Mystery",
+    "plot": "Following the conviction of her German father for treason against the U.S., Alicia Huberman takes to drink and men. She is approached by a government agent (T.R. Devlin) who asks her to spy on a group of her father's Nazi friends operating out of Rio de Janeiro. A romance develops between Alicia and Devlin, but she starts to get too involved in her work.",
+    "runtime": "102 min",
+    "director": "Alfred Hitchcock",
+    "actors": "Cary Grant, Ingrid Bergman, Claude Rains",
+    "production_country": "United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BOGU5ZjdmNzUtMGY0Ny00NjMyLWJiMDEtMmMzYmMyOTNjNzlmXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/303.webp",
+    "imdb_rating": "7.9",
+    "imdb_votes": "113,367",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Notorious_(1946_film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/303.txt",
+    "plot_year_start": 1946,
+    "plot_year_end": 1946,
+    "epoch": "early-cold-war-era",
+    "action_countries": [
+      "BR",
+      "US"
+    ],
+    "action_continents": [
+      "South America",
+      "North America"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "foreign spies moving through port cities",
+        "description": "South American capitals and coastal cities sit inside the early Cold War contest, where foreign services watch harbours, hotels, embassies, and expatriate circles for enemies and defectors. What you'll see: discreet surveillance, coded messages, consular offices, airport and dockside arrivals, and polished urban districts shadowed by suspicion.",
+        "icon": "🕵️"
+      },
+      {
+        "label": "Nazi exiles sheltered in new homelands",
+        "description": "In the years after the war, parts of the continent become refuge and hiding place for former fascists, helped by sympathetic networks, false identities, and governments more concerned with present alliances than past crimes. What you'll see: German-speaking enclaves, respectable villas concealing old loyalties, forged papers, guarded family homes, and fugitives blending into Buenos Aires or Rio society.",
+        "icon": "🧳"
+      }
+    ]
+  },
+  {
+    "movie_id": 493551,
+    "movie_idx": 5798,
+    "imdb_id": "tt5208252",
+    "title": "Operation Finale",
+    "production_year": "2018",
+    "genre": "Biography, Drama, History",
+    "plot": "Director Chris Weitz's historical thriller is based on the story of how a group of Israeli secret agents arrested notorious SS officer Adolf Eichmann - the man who masterminded the \"Final Solution\" - in Argentina. Oscar Isaac plays the legendary Mossad agent Peter Malkin, while Ben Kingsley plays his emotionally manipulative arch-nemesis. After tracking Eichmann down to Buenos Aires, Malkin and his men captured him and brought him to Israel for a historic 8-month trial.",
+    "runtime": "122 min",
+    "director": "Chris Weitz",
+    "actors": "Oscar Isaac, Ben Kingsley, Mélanie Laurent",
+    "production_country": "United States, Argentina",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZmNiNmQxODktNjhhZS00MTU3LWI2NmYtZDdkMDQyYjY0Y2RlXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/493551.webp",
+    "imdb_rating": "6.6",
+    "imdb_votes": "53,035",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Operation_Finale",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/493551.txt",
+    "plot_year_start": 1960,
+    "plot_year_end": 1961,
+    "epoch": "early-cold-war-era",
+    "action_countries": [
+      "AR",
+      "IL",
+      "AT"
+    ],
+    "action_continents": [
+      "South America",
+      "Asia",
+      "Europe"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "foreign spies moving through port cities",
+        "description": "South American capitals and coastal cities sit inside the early Cold War contest, where foreign services watch harbours, hotels, embassies, and expatriate circles for enemies and defectors. What you'll see: discreet surveillance, coded messages, consular offices, airport and dockside arrivals, and polished urban districts shadowed by suspicion.",
+        "icon": "🕵️"
+      },
+      {
+        "label": "Nazi exiles sheltered in new homelands",
+        "description": "In the years after the war, parts of the continent become refuge and hiding place for former fascists, helped by sympathetic networks, false identities, and governments more concerned with present alliances than past crimes. What you'll see: German-speaking enclaves, respectable villas concealing old loyalties, forged papers, guarded family homes, and fugitives blending into Buenos Aires or Rio society.",
+        "icon": "🧳"
+      }
+    ]
+  },
+  {
+    "movie_id": 245913,
+    "movie_idx": 7570,
+    "imdb_id": "tt0995868",
+    "title": "Pele: Birth of a Legend",
+    "production_year": "2016",
+    "genre": "Biography, Drama, Sport",
+    "plot": "Pele's meteoric rise from the slums of Sao Paulo to leading Brazil to its first World Cup victory at the age of 17 is chronicled in this biographical drama.",
+    "runtime": "107 min",
+    "director": "Jeff Zimbalist, Michael Zimbalist",
+    "actors": "Vincent D'Onofrio, Rodrigo Santoro, Diego Boneta",
+    "production_country": "United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTg2NzQwMzQyMF5BMl5BanBnXkFtZTgwNzkzODk2ODE@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/245913.webp",
+    "imdb_rating": "7.1",
+    "imdb_votes": "22,436",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Pel%C3%A9:_Birth_of_a_Legend",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/245913.txt",
+    "plot_year_start": 1950,
+    "plot_year_end": 1958,
+    "epoch": "early-cold-war-era",
+    "action_countries": [
+      "BR",
+      "SE"
+    ],
+    "action_continents": [
+      "South America",
+      "Europe"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "radio fame and football binding nations",
+        "description": "Mass spectatorship grows through radio, newsreels, and packed stadiums, turning athletes and public events into emblems of national possibility. What you'll see: street football, roaring crowds, microphones and announcers, boys copying heroes in poor neighborhoods, and victory presented as proof that a nation has arrived.",
+        "icon": "⚽"
+      },
+      {
+        "label": "rural poverty beside landed wealth",
+        "description": "Across much of the countryside, wealth is concentrated in estates and company zones while labourers, migrants, and Indigenous communities live with chronic hardship and little protection. What you'll see: shanties and worker camps, hungry families, harsh mine or plantation landscapes, fenced property, and sharp contrasts between elite comfort and village want.",
+        "icon": "🏚️"
+      }
+    ]
+  },
+  {
+    "movie_id": 70667,
+    "movie_idx": 7906,
+    "imdb_id": "tt1613750",
+    "title": "Kon-Tiki",
+    "production_year": "2012",
+    "genre": "Adventure, Biography, Drama",
+    "plot": "The Norwegian explorer Thor Heyerdahl crossed the Pacific Ocean in a balsawood raft in 1947, together with five men, to prove that South Americans back in pre-Columbian times could have crossed the ocean and settled on Polynesian islands. After financing the trips with loans and donations, they set off on an epic 101-day-long trip across 8000 kilometers, while the world was waiting for the result of the trip. The film tells about the origin of the idea, the preparations, and the events on the trip. The \"Kon-Tiki\" was named after the Inca sun god, Viracocha, and \"Kon-Tiki\" is an old name for this god. Heyerdahl filmed the expedition, which later became the Academy Award winning documentary in 1951, and he wrote a book about the expedition that was translated into 70 languages and sold more than 50 millions copies around the world. Heyerdahl believed that people from South America could have settled Polynesia in pre-Columbian times, although most anthropologists now believe they did not. Anyway he proved that it was possible by using only the materials and technologies available to those people at that time. The trip took 101 days over 4,300 miles across the Pacific Ocean before the \"Kon-Tiki\" crashed onto the dangerous reefs outside Raroia in the Tuamotu Islands on August 7, 1947. All crewmen survived, and the \"Kon-Tiki\" was taken back to Norway. She is now featured in the Kon-Tiki Museum.",
+    "runtime": "118 min",
+    "director": "Joachim Rønning, Espen Sandberg",
+    "actors": "Pål Sverre Hagen, Anders Baasmo, Gustaf Skarsgård",
+    "production_country": "United Kingdom, Norway, Denmark, Germany, Sweden",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjMxOTU2NzQxMF5BMl5BanBnXkFtZTcwODIwODY0OA@@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/70667.webp",
+    "imdb_rating": "7.1",
+    "imdb_votes": "54,278",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Kon-Tiki_(2012_film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/70667.txt",
+    "plot_year_start": 1947,
+    "plot_year_end": 1947,
+    "epoch": "early-cold-war-era",
+    "action_countries": [
+      "PE",
+      "UNKNOWN",
+      "NO",
+      "US"
+    ],
+    "action_continents": [
+      "South America",
+      "Pacific Ocean",
+      "Europe",
+      "North America"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "vast journeys over poor continental roads",
+        "description": "The continent is connected unevenly, so travel between regions depends on battered roads, riverboats, rail links, and the goodwill of strangers rather than smooth national networks. What you'll see: broken motorcycles, roadside repairs, hitching rides, ferries and river crossings, long dusty stretches, and distances that wear down men and machines.",
+        "icon": "🏍️"
+      }
+    ]
+  },
+  {
+    "movie_id": 11703,
+    "movie_idx": 9750,
+    "imdb_id": "tt0089424",
+    "title": "Kiss of the Spider Woman",
+    "production_year": "1985",
+    "genre": "Drama",
+    "plot": "Luis Molina and Valentin Arregui are cell mates in a South American prison. Luis, a trans individual, is found guilty of immoral behavior and Valentin is a political prisoner. To escape reality Luis invents romantic movies, while Valentin tries to keep his mind on the situation he's in. During the time they spend together, the two men come to understand and respect one another.",
+    "runtime": "120 min",
+    "director": "Hector Babenco",
+    "actors": "William Hurt, Raul Julia, Sonia Braga",
+    "production_country": "Brazil, United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNzk4NTY2MWQtNDljZS00YjFkLTg5YmYtN2MxMWJiNmU2YWY0XkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/11703.webp",
+    "imdb_rating": "7.3",
+    "imdb_votes": "19,184",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Kiss_of_the_Spider_Woman_(1985_film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/11703.txt",
+    "plot_year_start": 1964,
+    "plot_year_end": 1964,
+    "epoch": "early-cold-war-era",
+    "action_countries": [
+      "BR"
+    ],
+    "action_continents": [
+      "South America"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "police cells holding political dissenters",
+        "description": "States answer unrest with prisons, interrogations, and morality laws, treating radicals and other unwanted people as threats to public order. What you'll see: cramped cells, warders and informers, whispered ideological arguments, official files, and the daily humiliations of confinement.",
+        "icon": "⛓️"
+      }
+    ]
+  },
+  {
+    "movie_id": 1653,
+    "movie_idx": 9879,
+    "imdb_id": "tt0318462",
+    "title": "The Motorcycle Diaries",
+    "production_year": "2004",
+    "genre": "Adventure, Biography, Drama",
+    "plot": "In 1952, twenty-three year old medical student Ernesto Guevara de la Serna - Fuser to his friends and later better known as 'Ernesto Che Guevara' - one semester away from graduation, decides to postpone his last semester to accompany his twenty-nine year old biochemist friend 'Alberto Granado' - Mial to his friends - on his four month, 8,000 km long dream motorcycle trip throughout South America starting from their home in Buenos Aires. Their quest is to see things they've only read about in books about the continent on which they live, and to finish that quest on Alberto's thirtieth birthday on the other side of the continent in the Guajira Peninsula in Venezuela. Not all on this trip goes according to their rough plan due to a broken down motorbike, a continual lack of money (they often stretching the truth to gain the favor of a variety of strangers to help them), arguments between the two in their frequent isolation solely with each other, their raging libidos which sometimes get them into trouble, and dealing with Fuser's chronic asthma. But a chance encounter with a couple of Communists in the Chilean desert and an extended visit to the San Pablo Leper Colony in the Perúvian Amazon Basin among other things profoundly affects what each will want to do with his life and the bond each has with the other.",
+    "runtime": "126 min",
+    "director": "Walter Salles",
+    "actors": "Gael García Bernal, Rodrigo de la Serna, Mía Maestro",
+    "production_country": "United Kingdom, United States, France, Argentina, Peru, Chile, Germany",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYTJkMWE5ZWEtYzQ1OS00ZDZkLTkzYTUtMzEzZTI3MjBmM2E1XkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/1653.webp",
+    "imdb_rating": "7.7",
+    "imdb_votes": "105,718",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Motorcycle_Diaries_(film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/1653.txt",
+    "plot_year_start": 1952,
+    "plot_year_end": 1952,
+    "epoch": "early-cold-war-era",
+    "action_countries": [
+      "AR",
+      "CL",
+      "PE",
+      "CO",
+      "VE"
+    ],
+    "action_continents": [
+      "South America",
+      "South America",
+      "South America",
+      "South America",
+      "South America"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "vast journeys over poor continental roads",
+        "description": "The continent is connected unevenly, so travel between regions depends on battered roads, riverboats, rail links, and the goodwill of strangers rather than smooth national networks. What you'll see: broken motorcycles, roadside repairs, hitching rides, ferries and river crossings, long dusty stretches, and distances that wear down men and machines.",
+        "icon": "🏍️"
+      },
+      {
+        "label": "medicine confronting neglected human suffering",
+        "description": "Doctors, clinics, and charitable institutions meet diseases that spread where poverty, remoteness, and weak public provision leave whole communities on the margins. What you'll see: leper colonies, crowded wards, improvised treatments, riverbank medical posts, masked caregivers, and the social distance between the healthy and the afflicted.",
+        "icon": "🩺"
+      }
+    ]
+  }
+]

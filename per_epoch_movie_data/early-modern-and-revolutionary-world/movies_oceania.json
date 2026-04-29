@@ -1,0 +1,44 @@
+[
+  {
+    "movie_id": 400090,
+    "movie_idx": 6697,
+    "imdb_id": "tt4068576",
+    "title": "The Nightingale",
+    "production_year": "2018",
+    "genre": "Adventure, Drama, Thriller",
+    "plot": "THE NIGHTINGALE is a meditation on the horrors of Australian colonization, set at the turn of the 19th century. The film follows Clare, a 21-year-old native Irish wife and mother held captive beyond her 7-year sentence, desperate to be free of her obsessed master, British lieutenant Hawkins. Clare's husband Aidan intervenes with devastating consequences for all. When British authorities fail to deliver justice, Clare pursues Hawkins, who leaves his post suddenly to secure a captaincy up north. Unfamiliar with the Tasmanian wilderness she enlists the help of an orphaned Aboriginal tracker Billy. Marked by their traumas, the two fight to overcome their distrust and prejudices against the backdrop of Australia's infamous 'Black War'.",
+    "runtime": "136 min",
+    "director": "Jennifer Kent",
+    "actors": "Aisling Franciosi, Maya Christie, Baykali Ganambarr",
+    "production_country": "Australia, Canada",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYWJlNjVhY2EtODY5NC00MTEyLWE1ODEtMzllZjNlN2JhNzVmXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/400090.webp",
+    "imdb_rating": "7.3",
+    "imdb_votes": "38,680",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Nightingale_(2018_film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/400090.txt",
+    "plot_year_start": 1825,
+    "plot_year_end": 1825,
+    "epoch": "early-modern-and-revolutionary-world",
+    "action_countries": [
+      "AU"
+    ],
+    "action_continents": [
+      "Oceania"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "Aboriginal country under settler invasion",
+        "description": "The island is already peopled and known through Aboriginal law and kinship, yet settlers press across it with seizure, patrols, and reprisal. What you'll see: contested tracks through bush and plain, burned camps, tense crossings of country, and the marks of a war over land.",
+        "icon": "🏹"
+      },
+      {
+        "label": "christian forms masking colonial brutality",
+        "description": "The empire carries prayers, hymns, and claims of moral order, yet these sit beside cruelty, domination, and racial contempt. What you'll see: church language on violent lips, singing as comfort and memory, biblical phrases, and piety coexisting with abuse.",
+        "icon": "⛪"
+      }
+    ]
+  }
+]

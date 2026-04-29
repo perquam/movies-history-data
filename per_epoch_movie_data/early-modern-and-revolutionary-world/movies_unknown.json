@@ -1,0 +1,329 @@
+[
+  {
+    "movie_id": 1865,
+    "movie_idx": 388,
+    "imdb_id": "tt1298650",
+    "title": "Pirates of the Caribbean: On Stranger Tides",
+    "production_year": "2011",
+    "genre": "Action, Adventure, Fantasy",
+    "plot": "Captain Jack Sparrow (Johnny Depp) crosses paths with a woman from his past, Angelica (Penélope Cruz), and he's not sure if it's love, or if she's a ruthless con artist who's using him to find the fabled Fountain of Youth. When she forces him aboard the Queen Anne's Revenge, the ship of the formidable pirate Blackbeard (Ian McShane), Jack finds himself on an unexpected adventure in which he doesn't know who to fear more: Blackbeard or the woman from his past.",
+    "runtime": "136 min",
+    "director": "Rob Marshall",
+    "actors": "Johnny Depp, Penélope Cruz, Ian McShane",
+    "production_country": "United States, United Kingdom",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjE5MjkwODI3Nl5BMl5BanBnXkFtZTcwNjcwMDk4NA@@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/1865.webp",
+    "imdb_rating": "6.6",
+    "imdb_votes": "602,032",
+    "wikipedia_url": "https://simple.wikipedia.org/wiki/Pirates_of_the_Caribbean:_On_Stranger_Tides",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/1865.txt",
+    "plot_year_start": 1715,
+    "plot_year_end": 1720,
+    "epoch": "early-modern-and-revolutionary-world",
+    "action_countries": [
+      "UNKNOWN"
+    ],
+    "action_continents": [
+      "UNKNOWN"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Pirates of the Caribbean",
+    "categories": [
+      {
+        "label": "piracy and private violence at sea",
+        "description": "On the water, weak policing and rival crowns leave room for raiders, smugglers, and armed crews to live by plunder and intimidation. What you'll see: cutlasses, stolen cargo, threats over rum or provisions, and coastal settlements living with lawless mariners nearby.",
+        "icon": "🏴‍☠️"
+      },
+      {
+        "label": "seafaring routes tying ports together",
+        "description": "Sea travel carries people, goods, and news between distant shores, making harbours into crossroads of commerce, danger, and sudden fortune. What you'll see: crowded docks, taverns near the quay, rough bargaining over passage, and lives turned by the arrival of a ship.",
+        "icon": "⛵"
+      }
+    ]
+  },
+  {
+    "movie_id": 285,
+    "movie_idx": 409,
+    "imdb_id": "tt0449088",
+    "title": "Pirates of the Caribbean: At World's End",
+    "production_year": "2007",
+    "genre": "Action, Adventure, Fantasy",
+    "plot": "After Elizabeth, Will, and Captain Barbossa rescue Captain Jack Sparrow from the land of the dead, they must face their foes, Davy Jones and Lord Cutler Beckett. Beckett, now with control of Jones' heart, forms a dark alliance with him in order to rule the seas and wipe out the last of the Pirates. Now, Jack, Barbossa, Will, Elizabeth, Tia Dalma, and crew must call the Pirate Lords from the four corners of the globe, including the infamous Sao Feng, to gathering. The Pirate Lords want to release the goddess Calypso, Davy Jones's damned lover, from the trap they sent her to out of fear, in which the Pirate Lords must combine the 9 pieces that bound her by ritual to undo it and release her in hopes that she will help them fight. With this, all pirates will stand together and will make their final stand for freedom against Beckett, Jones, Norrington, the Flying Dutchman, and the entire East India Trading Company.",
+    "runtime": "169 min",
+    "director": "Gore Verbinski",
+    "actors": "Johnny Depp, Orlando Bloom, Keira Knightley",
+    "production_country": "United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjIyNjkxNzEyMl5BMl5BanBnXkFtZTYwMjc3MDE3._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/285.webp",
+    "imdb_rating": "7.1",
+    "imdb_votes": "739,059",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Pirates_of_the_Caribbean:_At_World%27s_End",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/285.txt",
+    "plot_year_start": 1720,
+    "plot_year_end": 1720,
+    "epoch": "early-modern-and-revolutionary-world",
+    "action_countries": [
+      "UNKNOWN"
+    ],
+    "action_continents": [
+      "UNKNOWN"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "piracy and private violence at sea",
+        "description": "On the water, weak policing and rival crowns leave room for raiders, smugglers, and armed crews to live by plunder and intimidation. What you'll see: cutlasses, stolen cargo, threats over rum or provisions, and coastal settlements living with lawless mariners nearby.",
+        "icon": "🏴‍☠️"
+      },
+      {
+        "label": "seafaring routes tying ports together",
+        "description": "Sea travel carries people, goods, and news between distant shores, making harbours into crossroads of commerce, danger, and sudden fortune. What you'll see: crowded docks, taverns near the quay, rough bargaining over passage, and lives turned by the arrival of a ship.",
+        "icon": "⛵"
+      }
+    ]
+  },
+  {
+    "movie_id": 166426,
+    "movie_idx": 717,
+    "imdb_id": "tt1790809",
+    "title": "Pirates of the Caribbean: Dead Men Tell No Tales",
+    "production_year": "2017",
+    "genre": "Action, Adventure, Fantasy",
+    "plot": "Captain Jack Sparrow (Johnny Depp) finds the winds of ill-fortune blowing even more strongly when deadly ghost pirates led by his old nemesis, the terrifying Captain Salazar (Javier Bardem), escape from the Devil's Triangle, determined to kill every pirate at sea...including him. Captain Jack's only hope of survival lies in seeking out the legendary Trident of Poseidon, a powerful artifact that bestows upon its possessor total control over the seas.",
+    "runtime": "129 min",
+    "director": "Joachim Rønning, Espen Sandberg",
+    "actors": "Johnny Depp, Geoffrey Rush, Javier Bardem",
+    "production_country": "United States, Australia, United Kingdom, Canada",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTYyMTcxNzc5M15BMl5BanBnXkFtZTgwOTg2ODE2MTI@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/166426.webp",
+    "imdb_rating": "6.5",
+    "imdb_votes": "381,325",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Pirates_of_the_Caribbean:_Dead_Men_Tell_No_Tales",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/166426.txt",
+    "plot_year_start": 1790,
+    "plot_year_end": 1820,
+    "epoch": "early-modern-and-revolutionary-world",
+    "action_countries": [
+      "UNKNOWN"
+    ],
+    "action_continents": [
+      "UNKNOWN"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Pirates of the Caribbean",
+    "categories": [
+      {
+        "label": "piracy and private violence at sea",
+        "description": "On the water, weak policing and rival crowns leave room for raiders, smugglers, and armed crews to live by plunder and intimidation. What you'll see: cutlasses, stolen cargo, threats over rum or provisions, and coastal settlements living with lawless mariners nearby.",
+        "icon": "🏴‍☠️"
+      },
+      {
+        "label": "seafaring routes tying ports together",
+        "description": "Sea travel carries people, goods, and news between distant shores, making harbours into crossroads of commerce, danger, and sudden fortune. What you'll see: crowded docks, taverns near the quay, rough bargaining over passage, and lives turned by the arrival of a ship.",
+        "icon": "⛵"
+      }
+    ]
+  },
+  {
+    "movie_id": 45491,
+    "movie_idx": 4951,
+    "imdb_id": "tt0105287",
+    "title": "Sex and Zen",
+    "production_year": "1991",
+    "genre": "Comedy, Drama, Fantasy",
+    "plot": "A recently married scholar goes on a quest for knowledge of other people's wives, based on his philosophical differences with the Sack Monk. He encounters the Flying Thief, who agrees to help him find women, but only if he attains a penis as big as a horse's. The scholar has a surgeon attach said unit, and he's off and running on his mission, only to find that there are obstacles to his new lifestyle, such as jealous husbands and treacherous females.",
+    "runtime": "99 min",
+    "director": "Michael Mak",
+    "actors": "Lawrence Ng, Amy Yip, Kent Cheng",
+    "production_country": "Hong Kong",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTZjNGZiNzEtNDgxYi00NjU1LTlhNGYtYzZhMWJhZTQyNjU5XkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/45491.webp",
+    "imdb_rating": "5.5",
+    "imdb_votes": "3,074",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Sex_and_Zen",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/45491.txt",
+    "plot_year_start": 1700,
+    "plot_year_end": 1700,
+    "epoch": "early-modern-and-revolutionary-world",
+    "action_countries": [
+      "UNKNOWN"
+    ],
+    "action_continents": [
+      "UNKNOWN"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "women's futures constrained by guardians",
+        "description": "A woman's household, marriage, and reputation are often managed by fathers, brothers, or other male protectors who claim authority over her choices. What you'll see: chaperonage, disputes over who may marry whom, confinement within the home, and scandal attached to female desire.",
+        "icon": "🔒"
+      }
+    ]
+  },
+  {
+    "movie_id": 230652,
+    "movie_idx": 6379,
+    "imdb_id": "tt2092452",
+    "title": "Pirates of the Caribbean: Tales of the Code: Wedlocked",
+    "production_year": "2011",
+    "genre": "Short, Action, Adventure",
+    "plot": "In this short prequel to the first Pirates of the Caribbean movie, two feisty brides-to-be discover that they have something in common - the absent groom. Still, there are plenty of pirates who'd love to trade their goats for 'em.",
+    "runtime": "10 min",
+    "director": "James Ward Byrkit",
+    "actors": "John Vickery, Vanessa Branch, Lauren Maher",
+    "production_country": "United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNjc5MDI0MDEtNTRlZC00MTI1LWE2YjItOTllNmU3NjljMWMzXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/230652.webp",
+    "imdb_rating": "6.8",
+    "imdb_votes": "6,436",
+    "plot_year_start": 1720,
+    "plot_year_end": 1720,
+    "epoch": "early-modern-and-revolutionary-world",
+    "action_countries": [
+      "UNKNOWN"
+    ],
+    "action_continents": [
+      "UNKNOWN"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "piracy and private violence at sea",
+        "description": "On the water, weak policing and rival crowns leave room for raiders, smugglers, and armed crews to live by plunder and intimidation. What you'll see: cutlasses, stolen cargo, threats over rum or provisions, and coastal settlements living with lawless mariners nearby.",
+        "icon": "🏴‍☠️"
+      },
+      {
+        "label": "seafaring routes tying ports together",
+        "description": "Sea travel carries people, goods, and news between distant shores, making harbours into crossroads of commerce, danger, and sudden fortune. What you'll see: crowded docks, taverns near the quay, rough bargaining over passage, and lives turned by the arrival of a ship.",
+        "icon": "⛵"
+      }
+    ],
+    "failures": {
+      "wikipedia": "no_wiki_article_found"
+    }
+  },
+  {
+    "movie_id": 132137,
+    "movie_idx": 6539,
+    "imdb_id": "tt1987028",
+    "title": "Werewolf: The Beast Among Us",
+    "production_year": "2012",
+    "genre": "Action, Fantasy, Horror, Thriller",
+    "plot": "In the Nineteenth Century, when a werewolf slaughters the dwellers of a small town, a group of bounty hunters commanded by Charles arrive in town and negotiate a higher reward. The apprentice of medicine Daniel, who is the protégé of the local doctor, joins the group and provides information about the beast that is intelligent and kills not only on the full moon, but also on the previous and the next days. Soon the gypsy leader invites Charles and Daniel and explains that in the solstice, the wolf-like creature will be able to control his transformation at will. Therefore they have only two days to discover who the beast among them is and destroy it.",
+    "runtime": "93 min",
+    "director": "Louis Morneau",
+    "actors": "Ed Quinn, Guy Wilson, Stephen Rea, Rachel DiPillo",
+    "production_country": "USA",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjA0OTM0MzAyNV5BMl5BanBnXkFtZTcwOTUyNjQ1OA@@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/132137.webp",
+    "imdb_rating": "5.1",
+    "imdb_votes": "6,038",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Werewolf:_The_Beast_Among_Us",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/132137.txt",
+    "plot_year_start": 1800,
+    "plot_year_end": 1825,
+    "epoch": "early-modern-and-revolutionary-world",
+    "action_countries": [
+      "UNKNOWN"
+    ],
+    "action_continents": [
+      "UNKNOWN"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "curses and omens taken seriously",
+        "description": "Alongside formal religion, people accept inherited curses, evil influences, and signs from the unseen as real forces in daily life. What you'll see: ominous family legends, dread around bloodlines, fearful reactions to strange events, and houses treated as burdened by fate.",
+        "icon": "🕯️"
+      },
+      {
+        "label": "church rites marking the life course",
+        "description": "Public life is ordered by Christian ceremony, with weddings, burials, oaths, and moral expectations carrying both sacred and social weight. What you'll see: chapel interiors, clergy or prayer books, formal vows, fears of sin, and family honour tied to proper observance.",
+        "icon": "⛪"
+      }
+    ]
+  },
+  {
+    "movie_id": 23439,
+    "movie_idx": 6885,
+    "imdb_id": "tt0053925",
+    "title": "House of Usher",
+    "production_year": "1960",
+    "genre": "Drama, Horror",
+    "plot": "Philip Winthrop calls upon his fiancée, Madeline Usher, at her family home. His presence is unwelcome, especially to Madeline's brother, Roderick. Roderick explains that the Ushers are cursed, suffering from hereditary physical defects. By Madeline marrying Winthrop this would only likely continue the affliction. It soon becomes clear that something sinister is afoot: not only due to Roderick's determination to prevent Madeline from leaving but also due to the evil that seems to lurk in the house itself.",
+    "runtime": "79 min",
+    "director": "Roger Corman",
+    "actors": "Vincent Price, Mark Damon, Myrna Fahey",
+    "production_country": "United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNjA1ZTRmYjYtMTE0MC00ZGQzLWE3YjctNWQ1MzNkMTRjZjZmXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/23439.webp",
+    "imdb_rating": "6.9",
+    "imdb_votes": "16,233",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/House_of_Usher_(film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/23439.txt",
+    "plot_year_start": 1800,
+    "plot_year_end": 1800,
+    "epoch": "early-modern-and-revolutionary-world",
+    "action_countries": [
+      "UNKNOWN"
+    ],
+    "action_continents": [
+      "UNKNOWN"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "curses and omens taken seriously",
+        "description": "Alongside formal religion, people accept inherited curses, evil influences, and signs from the unseen as real forces in daily life. What you'll see: ominous family legends, dread around bloodlines, fearful reactions to strange events, and houses treated as burdened by fate.",
+        "icon": "🕯️"
+      },
+      {
+        "label": "women's futures constrained by guardians",
+        "description": "A woman's household, marriage, and reputation are often managed by fathers, brothers, or other male protectors who claim authority over her choices. What you'll see: chaperonage, disputes over who may marry whom, confinement within the home, and scandal attached to female desire.",
+        "icon": "🔒"
+      }
+    ]
+  },
+  {
+    "movie_id": 458354,
+    "movie_idx": 9614,
+    "imdb_id": "tt6568188",
+    "title": "Sleeping Beauties",
+    "production_year": "2017",
+    "genre": "Comedy",
+    "plot": "Awakened from a curse, Sleeping Beauty marvels at the wonders of the new century. She falls in love with a famous architect who is working to restore the castle she once lived in, but finds there are enemies plotting against her. Giving in to her long pent-up sexual desires, Beauty cannot resist the lustful advances of both men and women and after 400 years.",
+    "runtime": "81 min",
+    "director": "Dean McKendrick",
+    "actors": "Sarah Hunter, Pristine Edge, Andrew Espinoza Long",
+    "production_country": "United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BODUxZTUxYWMtZDBmMS00MzNhLWI4NWEtNTdhNzgxMDJlYmQ0XkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/458354.webp",
+    "imdb_rating": "3.2",
+    "imdb_votes": "448",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Sleeping_Beauties_(film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/458354.txt",
+    "plot_year_start": 1600,
+    "plot_year_end": 1600,
+    "epoch": "early-modern-and-revolutionary-world",
+    "action_countries": [
+      "UNKNOWN"
+    ],
+    "action_continents": [
+      "UNKNOWN"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "curses and omens taken seriously",
+        "description": "Alongside formal religion, people accept inherited curses, evil influences, and signs from the unseen as real forces in daily life. What you'll see: ominous family legends, dread around bloodlines, fearful reactions to strange events, and houses treated as burdened by fate.",
+        "icon": "🕯️"
+      }
+    ]
+  }
+]

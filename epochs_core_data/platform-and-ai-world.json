@@ -1,0 +1,76 @@
+{
+  "id": "platform-and-ai-world",
+  "label": "Platform and AI World",
+  "aliases": [
+    "Age of Algorithms",
+    "Smartphone Era",
+    "Post-Truth Age",
+    "Surveillance Capitalism Era",
+    "The Scroll Age"
+  ],
+  "time_range": {
+    "start_year": 2014,
+    "end_year": 2030,
+    "label": "2014 to 2030"
+  },
+  "headline": "A handful of companies learn to monetize human attention — then an artificial intelligence wakes up inside the machine and nobody agrees on what to do about it.",
+  "epoch_summary": "Algorithmic feeds rewire elections, friendships and shopping habits while gig workers deliver everything to every door, a pandemic locks the planet indoors and onto screens, wars return to Europe and the Middle East on livestream, and AI systems start writing, painting and lying faster than the people who built them can keep up.",
+  "regions": [
+    {
+      "region_name": "Africa",
+      "description_of_an_epoch_in_the_region": "Cheap smartphones flood the continent and suddenly half a billion people are online who weren't before. Mobile money — not banks, not credit cards — becomes the way you pay for a taxi, send cash to your mother, buy airtime. But the platforms that connect everyone also carry election disinformation, ethnic hate speech, and surveillance tools sold by foreign companies to governments that don't plan to use them gently. The fastest-growing population on earth is building its digital future on infrastructure owned by Silicon Valley and Beijing."
+    },
+    {
+      "region_name": "Antarctica",
+      "description_of_an_epoch_in_the_region": "Still ice, still research stations, still nobody's home. But the ice is measurably thinner every year, and the satellite data proving it streams to servers worldwide in real time — the continent matters more as a data point than as a place."
+    },
+    {
+      "region_name": "Asia",
+      "description_of_an_epoch_in_the_region": "China builds its own internet behind a firewall and fills it with surveillance cameras, social credit scores and the most advanced AI labs outside California. India bans TikTok, stacks a billion people onto WhatsApp and Aadhaar biometrics, and becomes the world's biggest market everybody is fighting over. Southeast Asia runs on super-apps — ride, eat, pay, borrow, all from one screen. The region produces more engineers, more data and more censorship than anywhere else on earth."
+    },
+    {
+      "region_name": "Europe",
+      "description_of_an_epoch_in_the_region": "Europe doesn't build the platforms but it writes the rules for them — GDPR, the AI Act, antitrust fines in the billions. It works, sort of: cookie banners annoy everyone and Big Tech adjusts just enough to keep operating. Then Russia invades Ukraine in 2022 and the continent discovers it still needs artillery, not just regulation. Populism spreads through the same social feeds Brussels is trying to regulate, and the gap between what Europe legislates and what it can enforce keeps widening."
+    },
+    {
+      "region_name": "North America",
+      "description_of_an_epoch_in_the_region": "The empire is algorithmic. Five companies in California and Seattle control more of daily life than most governments — your news, your shopping, your friendships, your job applications, your thermostat. A reality TV president gets elected partly through Facebook in 2016, a pandemic kills a million Americans while they argue about masks on Twitter, and then OpenAI releases a chatbot that writes essays and the entire economy pivots overnight. The gig workers delivering the packages and driving the cars have no health insurance."
+    },
+    {
+      "region_name": "Oceania",
+      "description_of_an_epoch_in_the_region": "Australia fights Facebook over paying for news and briefly gets its entire news feed shut off — a small country learning what it means when a platform is bigger than your government. Pacific island nations watch their coastlines shrink while streaming their own disappearance on YouTube. New Zealand's Christchurch massacre in 2019 is livestreamed, and suddenly everyone understands that the platforms aren't just carrying content, they're carrying violence."
+    },
+    {
+      "region_name": "South America",
+      "description_of_an_epoch_in_the_region": "WhatsApp becomes the nervous system of entire countries — politics, family, business, rumor, all flowing through encrypted group chats no one can moderate. Bolsonaro rises in Brazil on a wave of WhatsApp forwards. Venezuelan collapse plays out in real time on social media while the government blocks the signals. The Amazon burns and drone footage makes it undeniable, but the attention cycle moves on in 48 hours."
+    },
+    {
+      "region_name": "Atlantic Ocean",
+      "description_of_an_epoch_in_the_region": "The ocean floor fills with fiber-optic cables carrying the world's data between continents — the real infrastructure of the platform age is underwater and invisible. Migrants still cross it in overcrowded boats, but now their journeys are tracked by NGO drones and border surveillance AI simultaneously."
+    },
+    {
+      "region_name": "Pacific Ocean",
+      "description_of_an_epoch_in_the_region": "Submarine cables connecting Asia to the Americas make this the most strategically wired ocean on earth. China and the US compete over who controls the data routes. Island nations that barely register on a platform's user map sit on top of cable junctions worth billions."
+    },
+    {
+      "region_name": "Indian Ocean",
+      "description_of_an_epoch_in_the_region": "Container ships carry the hardware — phones, chips, server racks — from Asian factories to the rest of the world. When the Ever Given blocks the Suez in 2021, the fragility of the physical supply chain behind the digital economy becomes suddenly, absurdly visible."
+    },
+    {
+      "region_name": "Southern Ocean",
+      "description_of_an_epoch_in_the_region": "Empty water, monitored by satellite. Climate scientists track its temperature from laptops thousands of miles away. The ocean doesn't care about algorithms, but the algorithms care very much about its data."
+    },
+    {
+      "region_name": "Arctic Ocean",
+      "description_of_an_epoch_in_the_region": "The ice melts enough to open shipping routes that were impossible a decade ago. Russia, China and the US start arguing over who controls them. Data centers move north to cool their servers in the cold air — the Arctic becomes useful to the platform economy in ways nobody predicted."
+    },
+    {
+      "region_name": "FICTIONAL",
+      "description_of_an_epoch_in_the_region": "Invented worlds that feel like logging into the wrong timeline. Virtual realities that trap you, algorithms that know you better than you know yourself, social scores that decide who eats and who doesn't, AI that passes for human until it doesn't. The dystopias borrow from today's headlines so directly they barely feel like fiction — the mirror is too close to the face."
+    },
+    {
+      "region_name": "UNKNOWN",
+      "description_of_an_epoch_in_the_region": "The setting could be anywhere with a wifi signal — a gig worker's car, a content moderator's screen, a server farm humming in the desert. The geography doesn't matter because the platform is the place. The light is always the blue-white glow of a phone held too close to the face, and the tension is always the same: someone is watching, something is recording, and the notification won't stop."
+    }
+  ]
+}

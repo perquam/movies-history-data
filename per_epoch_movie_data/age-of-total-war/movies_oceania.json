@@ -1,0 +1,379 @@
+[
+  {
+    "movie_id": 8741,
+    "movie_idx": 3185,
+    "imdb_id": "tt0120863",
+    "title": "The Thin Red Line",
+    "production_year": "1998",
+    "genre": "Drama, History, War",
+    "plot": "U.S. Army Private Witt (AWOL) is found and imprisoned on a troop carrier by his company First Sergeant, Welsh.The men of C Company,1st Battalion,27th Infantry Regiment,25th Infantry Division have been brought to Guadalcanal as reinforcements in the campaign to secure Henderson Field and seize the island from the Japanese. They arrive near Hill 210, a key Japanese position. Their task is to capture the hill at all costs. What happens next is a story of redemption and the meaninglessness of war. Regardless of the outcome.",
+    "runtime": "170 min",
+    "director": "Terrence Malick",
+    "actors": "Jim Caviezel, Sean Penn, Nick Nolte",
+    "production_country": "United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMzQ5NmViMDUtMjI1NC00ZWJkLTkwNzctMmIxZWY2MzQyZDc2XkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/8741.webp",
+    "imdb_rating": "7.6",
+    "imdb_votes": "211,802",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Thin_Red_Line_(1998_film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/8741.txt",
+    "plot_year_start": 1942,
+    "plot_year_end": 1942,
+    "epoch": "age-of-total-war",
+    "action_countries": [
+      "SB"
+    ],
+    "action_continents": [
+      "Oceania"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "war reaching even distant ocean frontiers",
+        "description": "The global war overturns the old sense that Australia and the Pacific are safely removed from the great powers' battles. What you'll see: air raids, troop carriers, military aircraft, anxious talk of Japanese advance, and civilian places suddenly made vulnerable.",
+        "icon": "💣"
+      }
+    ],
+    "quiz": [
+      {
+        "question": "What happens when Witt is sent with the soldiers up the hill?",
+        "type": "plot",
+        "options": {
+          "A": "He deserts again and escapes with the local islanders.",
+          "B": "He buys time for the others and is killed by Japanese soldiers.",
+          "C": "He is promoted and sent home after the battle."
+        },
+        "correct": "B"
+      },
+      {
+        "question": "What real World War II campaign is the film set during?",
+        "type": "historical",
+        "options": {
+          "A": "The Battle of the Bulge in Europe",
+          "B": "The Guadalcanal campaign in the Pacific",
+          "C": "The Korean War on the Korean Peninsula"
+        },
+        "correct": "B"
+      }
+    ],
+    "key_events": [
+      {
+        "event": "Guadalcanal campaign",
+        "description": "The company is deployed to Guadalcanal as reinforcements in the broader Allied effort to take the island from Japanese forces."
+      },
+      {
+        "event": "Battle of Mount Austen",
+        "description": "The film is built around the assault on Hill 210, a dramatized version of the fighting on Mount Austen."
+      },
+      {
+        "event": "Battle for Henderson Field",
+        "description": "The soldiers are sent to help secure Henderson Field, a key objective in the Guadalcanal campaign."
+      }
+    ],
+    "key_characters": []
+  },
+  {
+    "movie_id": 675327,
+    "movie_idx": 4285,
+    "imdb_id": "tt9691136",
+    "title": "Shadow in the Cloud",
+    "production_year": "2020",
+    "genre": "Action, Horror, War",
+    "plot": "On a stormy night during World War II, a female pilot with top secret cargo talks her way on board a bomber plane about to take-off. The crass all-male crew reluctantly agrees, but their suspicions about her identity and the mysterious cargo quickly grow. Just then a shadow appears in the clouds - was it the incoming Japanese fleet? Or caused by some other sinister stowaway?",
+    "runtime": "83 min",
+    "director": "Roseanne Liang",
+    "actors": "Chloë Grace Moretz, Nick Robinson, Beulah Koale",
+    "production_country": "New Zealand, United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BODYyMzM4ODQtNTc3NS00ODllLWIzMDMtYjBmM2UyZTBlODJhXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/675327.webp",
+    "imdb_rating": "5.0",
+    "imdb_votes": "34,158",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Shadow_in_the_Cloud",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/675327.txt",
+    "plot_year_start": 1943,
+    "plot_year_end": 1943,
+    "epoch": "age-of-total-war",
+    "action_countries": [
+      "NZ",
+      "UNKNOWN"
+    ],
+    "action_continents": [
+      "Oceania",
+      "UNKNOWN"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "war reaching even distant ocean frontiers",
+        "description": "The global war overturns the old sense that Australia and the Pacific are safely removed from the great powers' battles. What you'll see: air raids, troop carriers, military aircraft, anxious talk of Japanese advance, and civilian places suddenly made vulnerable.",
+        "icon": "💣"
+      },
+      {
+        "label": "women pushing against male preserves",
+        "description": "Workplaces and public authority remain strongly male, yet the strains of the age make women's competence harder to ignore. What you'll see: suspicion toward women in uniform or skilled trades, cramped masculine spaces, and women forcing entry into roles not readily given them.",
+        "icon": "👩‍✈️"
+      }
+    ],
+    "quiz": [
+      {
+        "question": "What does Maude do at the end of the flight?",
+        "type": "plot",
+        "options": {
+          "A": "She escapes by jumping into the sea.",
+          "B": "She hands the cargo to the Japanese pilots.",
+          "C": "She crash-lands the bomber and kills the gremlin."
+        },
+        "correct": "C"
+      },
+      {
+        "question": "The Women's Auxiliary Air Force was part of which country's wartime forces?",
+        "type": "historical",
+        "options": {
+          "A": "The United States",
+          "B": "Australia",
+          "C": "Britain"
+        },
+        "correct": "C"
+      }
+    ],
+    "key_events": [
+      {
+        "event": "World War II",
+        "description": "The story is set in 1943 during Allied air operations in the Second World War."
+      },
+      {
+        "event": "Pacific War",
+        "description": "The bomber mission and Japanese fighter attacks take place in the Pacific theater."
+      }
+    ],
+    "key_characters": []
+  },
+  {
+    "movie_id": 6972,
+    "movie_idx": 4344,
+    "imdb_id": "tt0455824",
+    "title": "Australia",
+    "production_year": "2008",
+    "genre": "Adventure, Drama, Romance",
+    "plot": "In northern Australia at the beginning of World War II, an English aristocrat inherits a cattle station the size of Maryland. When English cattle barons plot to take her land, she reluctantly joins forces with a rough stock-man to drive 2,000 head of cattle across hundreds of miles of the country's most unforgiving land, only to still face the bombing of Darwin by the Japanese forces that had attacked Pearl Harbor only months earlier.",
+    "runtime": "165 min",
+    "director": "Baz Luhrmann",
+    "actors": "Nicole Kidman, Hugh Jackman, Shea Adams",
+    "production_country": "United Kingdom, Australia, United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BM2Q4NjBhMDUtZWJhNS00ZTM2LTk0ZDEtNDY2M2Y0NTAyOTBiXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/6972.webp",
+    "imdb_rating": "6.6",
+    "imdb_votes": "132,196",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Australia_(2008_film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/6972.txt",
+    "plot_year_start": 1939,
+    "plot_year_end": 1942,
+    "epoch": "age-of-total-war",
+    "action_countries": [
+      "AU"
+    ],
+    "action_continents": [
+      "Oceania"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "cattle stations feeding coastal markets",
+        "description": "Northern and rural Australia still rests on pastoral wealth, with vast holdings, droving, and ownership of stock shaping power and livelihood. What you'll see: herds on the move, stockmen at work, station homesteads, dusty yards, and arguments over land and cattle.",
+        "icon": "🐄"
+      },
+      {
+        "label": "war reaching even distant ocean frontiers",
+        "description": "The global war overturns the old sense that Australia and the Pacific are safely removed from the great powers' battles. What you'll see: air raids, troop carriers, military aircraft, anxious talk of Japanese advance, and civilian places suddenly made vulnerable.",
+        "icon": "💣"
+      }
+    ],
+    "quiz": [
+      {
+        "question": "What does Lady Sarah do with the cattle after she joins forces with The Drover?",
+        "type": "plot",
+        "options": {
+          "A": "She helps drive 2,000 head of cattle across the outback to Darwin.",
+          "B": "She sells the station and moves to England right away.",
+          "C": "She hides the cattle and waits for the army to take them."
+        },
+        "correct": "A"
+      },
+      {
+        "question": "What real World War II event in northern Australia does the film show?",
+        "type": "historical",
+        "options": {
+          "A": "The Battle of the Coral Sea",
+          "B": "The bombing of Darwin by Japanese forces",
+          "C": "The Gallipoli landing"
+        },
+        "correct": "B"
+      }
+    ],
+    "key_events": [
+      {
+        "event": "World War II",
+        "description": "The story is set in northern Australia during the opening years of the war."
+      },
+      {
+        "event": "Bombing of Darwin",
+        "description": "Japanese air attacks on Darwin form the film’s climactic wartime crisis in 1942."
+      },
+      {
+        "event": "Attack on Pearl Harbor",
+        "description": "The plot links Darwin’s bombing to Japan’s earlier attack on Pearl Harbor."
+      },
+      {
+        "event": "Stolen Generations",
+        "description": "Authorities forcibly remove Nullah and other mixed-race Aboriginal children, reflecting this policy."
+      }
+    ],
+    "key_characters": []
+  },
+  {
+    "movie_id": 298382,
+    "movie_idx": 7576,
+    "imdb_id": "tt2910904",
+    "title": "The Dressmaker",
+    "production_year": "2015",
+    "genre": "Comedy, Drama",
+    "plot": "Based on Rosalie Ham's best selling novel, The Dressmaker is the story of femme fatale Tilly Dunnage who returns to her small home town in the country to right the wrongs of the past. A stylish drama with comic undertones about love, revenge and haute couture.",
+    "runtime": "119 min",
+    "director": "Jocelyn Moorhouse",
+    "actors": "Kate Winslet, Judy Davis, Liam Hemsworth",
+    "production_country": "Australia, United Kingdom",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjA4MzAxNTc5OF5BMl5BanBnXkFtZTgwMjgzMDE4OTE@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/298382.webp",
+    "imdb_rating": "7.0",
+    "imdb_votes": "70,394",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Dressmaker_(2015_film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/298382.txt",
+    "plot_year_start": 1926,
+    "plot_year_end": 1926,
+    "epoch": "age-of-total-war",
+    "action_countries": [
+      "AU",
+      "FR"
+    ],
+    "action_continents": [
+      "Oceania",
+      "Europe"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "small towns policed by gossip and reputation",
+        "description": "In country communities, everyone knows family history, old scandals linger, and social standing can be as binding as any formal law. What you'll see: main streets, churchgoing respectability, sidelong looks, whispered judgments, and long memories governing daily dealings.",
+        "icon": "🏘️"
+      },
+      {
+        "label": "women pushing against male preserves",
+        "description": "Workplaces and public authority remain strongly male, yet the strains of the age make women's competence harder to ignore. What you'll see: suspicion toward women in uniform or skilled trades, cramped masculine spaces, and women forcing entry into roles not readily given them.",
+        "icon": "👩‍✈️"
+      }
+    ],
+    "quiz": [
+      {
+        "question": "What does Tilly Dunnage return to her hometown to do?",
+        "type": "plot",
+        "options": {
+          "A": "She comes back to right the wrongs of the past",
+          "B": "She returns to sell the town's farms",
+          "C": "She comes back to become a schoolteacher"
+        },
+        "correct": "A"
+      },
+      {
+        "question": "In what historical period is the film mainly set?",
+        "type": "historical",
+        "options": {
+          "A": "The 1890s during the gold rush",
+          "B": "The 1940s during World War II",
+          "C": "The 1920s in rural Australia"
+        },
+        "correct": "C"
+      }
+    ],
+    "key_events": [],
+    "key_characters": []
+  },
+  {
+    "movie_id": 283552,
+    "movie_idx": 9348,
+    "imdb_id": "tt2547584",
+    "title": "The Light Between Oceans",
+    "production_year": "2016",
+    "genre": "Drama, Romance",
+    "plot": "Tom, a war weary man takes a job as a lighthouse keeper on an island for the solitude. He meets a beautiful young woman, Isabelle and they eventually marry. One day they see a small dingy with an infant and man inside floating in the ocean. They rush to rescue them only to find the man is dead. They struggle over the decision to report it and whether to keep the baby. Heartbroken because she had already had miscarriages twice, Isabelle persuades Tom not to tell anyone about this and leave the girl to herself as if it were their child. He buries the man on the island, and the couple names the girl Lucy. He succumbs to her persuasion just to make her happy. It's only years later that they discover that the child still has a mother looking for her.",
+    "runtime": "133 min",
+    "director": "Derek Cianfrance",
+    "actors": "Michael Fassbender, Alicia Vikander, Rachel Weisz",
+    "production_country": "United Kingdom, India, Australia, New Zealand, United States, Canada",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNTI1NzQzMjgxOF5BMl5BanBnXkFtZTgwOTY1OTY2OTE@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/283552.webp",
+    "imdb_rating": "7.2",
+    "imdb_votes": "62,199",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Light_Between_Oceans_(film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/283552.txt",
+    "plot_year_start": 1918,
+    "plot_year_end": 1950,
+    "epoch": "age-of-total-war",
+    "action_countries": [
+      "AU"
+    ],
+    "action_continents": [
+      "Oceania"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "islands and outback living on isolation",
+        "description": "Much of daily life unfolds in places cut off by distance, weather, and poor communications, so households and crews must make do with what is at hand. What you'll see: lonely lighthouses, remote cattle country, rough island posts, empty roads, and silence broken by wind and surf.",
+        "icon": "🏜️"
+      },
+      {
+        "label": "war reaching even distant ocean frontiers",
+        "description": "The global war overturns the old sense that Australia and the Pacific are safely removed from the great powers' battles. What you'll see: air raids, troop carriers, military aircraft, anxious talk of Japanese advance, and civilian places suddenly made vulnerable.",
+        "icon": "💣"
+      }
+    ],
+    "quiz": [
+      {
+        "question": "What do Tom and Isabel do after they find the baby in the boat?",
+        "type": "plot",
+        "options": {
+          "A": "They keep the baby and raise her as their own daughter.",
+          "B": "They immediately hand the baby over to the police.",
+          "C": "They leave the baby on the island and sail away."
+        },
+        "correct": "A"
+      },
+      {
+        "question": "What real historical war affects Tom's background in the film?",
+        "type": "historical",
+        "options": {
+          "A": "The Vietnam War",
+          "B": "The Second Boer War",
+          "C": "World War I"
+        },
+        "correct": "C"
+      }
+    ],
+    "key_events": [
+      {
+        "event": "World War I",
+        "description": "Tom is a traumatised veteran, and the story begins shortly after the war ends in 1918."
+      },
+      {
+        "event": "Anti-German sentiment after World War I",
+        "description": "Hannah’s marriage to a German man is treated as controversial in the postwar community."
+      }
+    ],
+    "key_characters": []
+  }
+]

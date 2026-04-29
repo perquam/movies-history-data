@@ -1,0 +1,331 @@
+{
+  "epoch": "industrial-age",
+  "continent": "asia",
+  "sample_size": 33,
+  "sample": [
+    {
+      "title": "The Final Master",
+      "years": "1910..1910",
+      "countries": [
+        "CN"
+      ],
+      "plot": "A Wing Chun master has to defeat 8 martial arts schools to open his own school, yet he has become a chess piece to the local power dynamics."
+    },
+    {
+      "title": "Rise of the Legend",
+      "years": "1868..1868",
+      "countries": [
+        "CN"
+      ],
+      "plot": "Wong Fei-Hung played by Eddie Peng is a young man at 21 years old who is destined to become a master of his time, and an everlasting legend in the world of martial arts. In 1868 during the late Qing Dynasty, in Guangzhou, two crime factions run the Huangpu Port: The Black Tiger and the Northern Sea. For years, the Black Tiger's fearsome boss Lei Gong played by Sammo Hung has been trying to get rid of the leader of the Northern Sea. One of his latest recruits is Wong Fei-Hung, a fearless fighter who takes the Northern Sea leader's head after a fierce fight. Recognizing Fei-Hung's talent, Lei Gong makes the young warrior his godson and one of his Four Tigers, the most trusted men in the gang. There is more to young Fei than meets the eye and the truth about his past and the ultimate showdown soon unravels."
+    },
+    {
+      "title": "True Legend",
+      "years": "1870..1905",
+      "countries": [
+        "CN"
+      ],
+      "plot": "Su Qi-Er retired from his life as a renowned Qing dynasty general in order to pursue his dream of a family and his own martial arts school. However, Su's peaceful life is shattered when his vengeful adopted brother, Yuan Lie, kidnaps his son and leaves Su for dead. Saved from his demise by his wife Ying and the reclusive doctor Yu, Su resolves to perfect his technique so that he may defeat Yuan Lie and reunite his family. Suffering from visions that he aided in his training by two of the \"Eight Immortals\" in the form of the mystical \"God of Wushu\" and the eccentric \"Old Sage\" master of Drunken Boxing. He embarks on the path that would eventually give rise to the legend of the \"King of Beggars.\""
+    },
+    {
+      "title": "Devdas",
+      "years": "1900..1900",
+      "countries": [
+        "IN"
+      ],
+      "plot": "Devdas Mukherji is black-listed by his multi-millionaire Zamindar father, Narayan. After completing 10 years of study, Devdas returns to his hometown where his family prepares to welcome him, but their happiness changes when Devdas prefers to visit his childhood sweetheart, Parvati alias Paro, before paying respect to his mother. After so many years, Devdas finds he is still the black spot in his father's life, especially when he is prevented from marrying Paro, who happens to be a lower-caste girl. Eventually time passes with Paro's family arranging her marriage to a much older man, Bhuvan Choudhry, whose children are in her age group. This sadness not only breaks Devdas' heart but shackles him to alcohol in a big way. Soon Devdas starts to frequent a brothel and catches the eyes of a courtesan named Chandramukhi. Step by step, Devdas trudges down a path of self-destruction."
+    },
+    {
+      "title": "Yojimbo",
+      "years": "1860..1860",
+      "countries": [
+        "JP"
+      ],
+      "plot": "Sanjuro, a wandering samurai enters a rural town in nineteenth century Japan. After learning from the innkeeper that the town is divided between two gangsters, he plays one side off against the other. His efforts are complicated by the arrival of the wily Unosuke, the son of one of the gangsters, who owns a revolver. Unosuke has Sanjuro beaten after he reunites an abducted woman with her husband and son, then massacres his father's opponents. During the slaughter, the samurai escapes with the help of the innkeeper; but while recuperating at a nearby temple, he learns of innkeeper's abduction by Unosuke, and returns to the town to confront him."
+    },
+    {
+      "title": "Fearless",
+      "years": "1907..1910",
+      "countries": [
+        "CN",
+        "CN"
+      ],
+      "plot": "Martial arts legend Huo Yuanjia became the most famous fighter in all of China at the turn of the 20th Century. Huo faced personal tragedy but ultimately fought his way out of darkness and into history, defining the true spirit of martial arts. His self-discovery, and the choices he made, inspired his nation. The son of a great fighter who did not wish for his child to follow in his footsteps, the bullied Huo Yuanjia resolves to teach himself how to fight - and win. Years of training enable him to ace match after match in his home region of Tianjin. But as his fame as a martial arts master grows, so does his pride. After an ill-advised fight leads to another master's death, members of Huo's family are slain in revenge. Grieving and ashamed, Huo wanders the country in shock. Near death, he is rescued by women from an idyllic village, and is offered simple kindness and generosity that help him heal and regain his equilibrium over a period of several years. Huo realizes that the future of martial arts lies in sportsmanship and not brutality, and he rejoins society to apply what he has learned. Returning to Tianjin, Huo takes steps to come to terms with his past and restore his family's name. His evolving, graceful Mizong (Missing) Fist method of fighting brings Huo renewed success, and he forms the progressive Jingwu Sports Federation. Taking note, duplicitous members of the Foreign Chamber of Commerce engineer a Shanghai tournament pitting Huo against four fighters, each representing the major foreign powers in China. Huo commits to the bout and faces off against, respectively, a British boxer, a Spanish swordsman, a Belgian soldier, and a Japanese martial artist. What happened that day in 1910 has never been, and will never be, forgotten in China."
+    },
+    {
+      "title": "Drunken Master",
+      "years": "1890..1890",
+      "countries": [
+        "CN"
+      ],
+      "plot": "The father of Wong Fei-hong, who has been attempting to teach his son kung-fu, but has found him too disobedient to teach and decides to send him off to his uncle, a cruel and torturous master of the 8-Drunken Genii kung-fu. After much suffering the son comes back to rescue the father from an assassin."
+    },
+    {
+      "title": "The Last Samurai",
+      "years": "1876..1877",
+      "countries": [
+        "JP",
+        "US"
+      ],
+      "plot": "In the 1870s, Captain Nathan Algren (Tom Cruise), a cynical veteran of the American Civil War, who will work for anyone, is hired by Americans who want lucrative contracts with the Emperor of Japan to train the peasant conscripts for the first standing Imperial Army in modern warfare using firearms. The Imperial Omura (Masato Harada) cabinet's first priority is to repress a rebellion of traditionalist Samurai, hereditary warriors, who remain devoted to the sacred dynasty, but reject the Westernizing policy, and even refuse firearms. Yet, when his ill-prepared superior force sets out too soon, their panic allows the sword-wielding samurai to crush them. Badly wounded, Algren's courageous stand makes the samurai leader Katsumoto (Ken Watanabe) spare his life. Once nursed to health, he learns to know and respect the old Japanese way, and participates as advisor in Katsumoto's failed attempt to save the Bushido tradition, but Omura gets repressive laws enacted. He must now choose to honor his loyalty to one of the embittered sides when the conflict returns to the battlefield."
+    },
+    {
+      "title": "1911",
+      "years": "1911..1912",
+      "countries": [
+        "CN",
+        "JP"
+      ],
+      "plot": "At the beginning of the 20th century, China is in a state of crisis. The country is split into warring factions, the citizens are starving, and recent political reforms have made matters worse, not better. The ruling Qing Dynasty, led by a seven-year-old emperor, and his ruthless mother, Empress Dowager Longyu is completely out of touch after 250 years of unquestioned power. Huang Xing has recently returned from Japan, where he has studied the art of modern warfare. When he finds his country falling apart, he feels he has no choice but to pick up the sword."
+    },
+    {
+      "title": "Gintama Live Action the Movie",
+      "years": "1868..1868",
+      "countries": [
+        "JP"
+      ],
+      "plot": "In an era where aliens have invaded and conquered feudal Tokyo, a young samurai seeks work as he can."
+    },
+    {
+      "title": "Rurouni Kenshin: Final Chapter Part II - The Beginning",
+      "years": "1864..1868",
+      "countries": [
+        "JP"
+      ],
+      "plot": "In the year 1864, samurai Kenshin Himura was known as the Battosai, a deadly assassin whose fierce swordsmanship has killed over one hundred men in one year. When he saves a young woman, Tomoe Yukishiro, from some thugs at an inn, the two slowly begin an attraction that leads to a marriage. This leads Kenshin to potentially give up his sword for the sake of love. However, those who are in support of the Shogunate will not let Kenshin off too easy. The story of how Kenshin received his trademark star-shaped scar is revealed in this prequel, which also serves as the final installment of the live-action franchise adaptation of the manga and anime."
+    },
+    {
+      "title": "The Legend of Drunken Master (1994)",
+      "years": "1880..1880",
+      "countries": [
+        "CN"
+      ],
+      "plot": "N/A"
+    },
+    {
+      "title": "The Jungle Book",
+      "years": "1890..1899",
+      "countries": [
+        "IN"
+      ],
+      "plot": "Abandoned after an accident, baby Mowgli is taken and raised by a family of wolves. As the boy grows older, the wise panther Bagheera realizes he must be returned to his own kind in the nearby man-village. Baloo the bear, however, thinks differently, taking the young Mowgli under his wing and teaching him that living in the jungle is the best life there is. Bagheera realizes that Mowgli is in danger, particularly from Shere Khan the tiger who hates all people. When Baloo finally comes around, Mowgli runs off into the jungle where he survives a second encounter with Kaa the snake and finally, with Shere Khan. It's the sight of a pretty girl, however, that draws Mowgli to the nearby man-village and stay there."
+    },
+    {
+      "title": "Ryo",
+      "years": "1863..1867",
+      "countries": [
+        "JP",
+        "GB"
+      ],
+      "plot": "Ryo is about the son of a samurai who lost his parents during the attack of English ships on a Japanese town who is given the name Ryo and becomes the bodyguard of Ryoma Sakamoto, a man who has his own plan to fight for the country."
+    },
+    {
+      "title": "Rurouni Kenshin Part II: Kyoto Inferno",
+      "years": "1878..1878",
+      "countries": [
+        "JP"
+      ],
+      "plot": "Makoto, an assassin who once was contracted by the government, has since become obsessed with tearing it down. Formerly, Kenshin was mainly concerned with protecting Kaoru, but the stakes are now higher as he struggles to protect the nation itself."
+    },
+    {
+      "title": "Fist of Fury",
+      "years": "1908..1908",
+      "countries": [
+        "CN"
+      ],
+      "plot": "Returning to Shanghai to marry his fiancée, Chen Zhen (Bruce Lee) a student of renowned martial arts teacher Huo Yuanjia, discovers his sifu has died. During the funeral, members of a local Japanese dojo show up and insult the Chinese students. The bullying continues, with Chen fighting back, but when he discovers the truth - that his teacher was poisoned on the orders of the dojo's master - he sets off on a doomed mission of revenge."
+    },
+    {
+      "title": "The Jungle Book",
+      "years": "1890..1899",
+      "countries": [
+        "IN"
+      ],
+      "plot": "Living among the wolves in the jungle, young man cub Mowgli quickly learns to live life among his wolf pack and all the animals that inhabit the jungle, but when the villainous tiger Shere Khan threatens Mowgli's life, black panther Bagheera offers to take Mowgli to a nearby man village where he will be safe from the tiger's wrath. Along the way, Mowgli gets tangled up in a series of encounters with a sly snake named Kaa, a swimmingly ruthless gigantopithecus named King Louie and a lazy bear named Baloo, who quickly becomes his guide to the 'bear necessities' of life."
+    },
+    {
+      "title": "Empire of Passion",
+      "years": "1895..1898",
+      "countries": [
+        "JP"
+      ],
+      "plot": "A young man has an affair with an older woman. He is very jealous of her husband and decides that they should kill him. One night, after the husband had plenty of sake to drink and was in bed, they strangle him and dump his body down a well. To avert any suspicions, she pretends her husband has gone off to Tokyo to work. For three years the wife and her lover secretly see each other. Finally, suspicions become very strong and people begin to gossip. To make matters worse, her husband's ghost begins to haunt her and the law arrives to investigate her husband's disappearance."
+    },
+    {
+      "title": "King of Beggars",
+      "years": "1890..1890",
+      "countries": [
+        "CN",
+        "HK"
+      ],
+      "plot": "The spoilt son of a millionaire finds the love of his life, but she will only accept him if he proves himself as a kung-fu master. He enters and wins the \"Kung-Fu Scholar\" tournament, little realizing that this victory will lead to him becoming penniless, homeless and sleepy. One day, while sleeping under a tree, he encounters a beggar he helped when he was still rich."
+    },
+    {
+      "title": "Rurouni Kenshin: Final Chapter Part II - The Beginning",
+      "years": "1864..1868",
+      "countries": [
+        "JP"
+      ],
+      "plot": "In the year 1864, samurai Kenshin Himura was known as the Battosai, a deadly assassin whose fierce swordsmanship has killed over one hundred men in one year. When he saves a young woman, Tomoe Yukishiro, from some thugs at an inn, the two slowly begin an attraction that leads to a marriage. This leads Kenshin to potentially give up his sword for the sake of love. However, those who are in support of the Shogunate will not let Kenshin off too easy. The story of how Kenshin received his trademark star-shaped scar is revealed in this prequel, which also serves as the final installment of the live-action franchise adaptation of the manga and anime."
+    },
+    {
+      "title": "Project A",
+      "years": "1911..1911",
+      "countries": [
+        "HK",
+        "VN"
+      ],
+      "plot": "In late 19th Century Hong Kong the British may rule the land, but the pirates rule the waters. Reluctantly, the Coast Guard is given money to fight these pirates, but the pirates themselves have many contacts (that is, bribed officials) in the government, and seek to thwart the Coast Guard's efforts to eliminate them. One Coast Guard officer is Dragon Ma, who is determined that his beloved Coast Guard will not be made fools of."
+    },
+    {
+      "title": "Iron Monkey",
+      "years": "1887..1887",
+      "countries": [
+        "CN"
+      ],
+      "plot": "A Hong Kong variation on Robin Hood. The corrupt officials of a Chinese village are continually robbed by a masked bandit know as \"Iron Monkey\" named after a benevolent deity. When all else fails, the Govenor forces a traveling physician (Donnie Yen) into finding the bandit. The arrival of an evil Shaolin monk, brings the Physician and Iron Monkey together to battle the corrupt government."
+    },
+    {
+      "title": "Lover of the Last Empress",
+      "years": "1861..1908",
+      "countries": [
+        "CN"
+      ],
+      "plot": "A legendary curse is placed on the fall of the Manchu Dynasty. Empress Dowager Cixi goes from just another pretty face in the harem of the concubines to the First Lady of Vice via various strategies and manipulations in a most-ambitious political conspiracy with spine-chilling viciousness."
+    },
+    {
+      "title": "Lagaan: Once Upon a Time in India",
+      "years": "1893..1893",
+      "countries": [
+        "IN"
+      ],
+      "plot": "This is the story about the resilience shown by the Indians when they were under the British Rule. They are already taxed to the bone by the British and their cronies, but when Jack Russell announces that he will double the Lagaan (tax) from all villagers, they decide to oppose it. Leading the villagers is a handsome young man named Bhuvan, who challenges them to a game of cricket, a game that is to be played by veteran British cricket players, versus villagers, including Bhuvan himself, who have never played this game before, and do not even know a bat from a piece of wood. As the challenge is accepted, the interest grows and attracts Indians from all over the region, as well as the British from all over the country - as everyone gathers to see the 'fair play' that the British will display against their counter-parts, who are aided by none other than the sister, Elizabeth, of Captain Rusell."
+    },
+    {
+      "title": "Rurouni Kenshin Part I: Origins",
+      "years": "1868..1868",
+      "countries": [
+        "JP"
+      ],
+      "plot": "In 1868, after the end of the Bakumatsu war, the former assassin Kenshin Himura promises to defend those in need without killing. Kenshin wanders through Japan with a reverse-edged sword during the transition of the samurai age to the New Age. When Kenshin helps the idealistic Kaoru Kamiya from the gangsters of the powerful opium drug lord Kanryuu Takeda that wants her school for his production of opium, Kaoru invites Kenshin to stay in the school. But the drug chemist Megumi Takani escapes from Kanryuu and seeks shelter in the school. Meanwhile the killer Battosai is murdering police officers and leaving messages attached to their bodies. When Kanryuu poisons the population to get the school, Kenshin and the street fighter Sanosuke Sagara join forces to attack their common enemy."
+    },
+    {
+      "title": "Hail the Judge",
+      "years": "1874..1874",
+      "countries": [
+        "CN"
+      ],
+      "plot": "Pao Lung-Sing, a descendant of the famous Judge Pao Ching Tient, is a 9th degree corrupt judge (lowest degree) who changes his tune when he tries to champion a woman Chi Siu-Lin, who was framed for killing her husband. As a result, Pao is forced to flee and through a series of events (often hilarious) becomes a 1st degree judge and comes back to wreak havoc and justice on the guilty."
+    },
+    {
+      "title": "The Warlords",
+      "years": "1860..1870",
+      "countries": [
+        "CN"
+      ],
+      "plot": "Set in China in the 1860's during the Taiping Rebellion, the story is based on the assassination of Ma Xinyi in 1870. Loyalist General Qingyun is the only survivor of a battle with anti-Qing rebels. He encounters a starving village, whose inhabitants engage in banditry to survive, where he is nursed back to health by the attractive Liansheng. With his strength regained, Qingyun impresses one of the village bandit leaders, Jiang Wuyang, with his fighting skills. Wuyang introduces him to his \"big brother\", who also happens to be Liansheng's husband, Zhao Erhu and Qingyun begins to assist them with their raids. Qingyun convinces his two new comrades to form a loyalist army unit to fight the rebels and feed their own people. The three men swear a blood oath. Their stunning military successes impress the governing powers, but as Qingyun's influence begins to grow, they soon fear him. The political and emotional stakes will be tested, leading to differences between the blood brothers."
+    },
+    {
+      "title": "The Man with the Iron Fists",
+      "years": "1860..1860",
+      "countries": [
+        "CN"
+      ],
+      "plot": "In Jungle Village, the leader of the Lion's clan Gold Lion is summoned by the Governor and assigned to protect his gold that will be transported through the village. However he is betrayed and murdered by the greedy Silver Lion and Bronze Lion. Gold Lion's favorite son Zen Yi, a.k.a. The X-Blade, seeks revenge and heads to Jungle Village, but he is defeated by Brass Body and rescued by the local Blacksmith Thaddeus. Meanwhile the Gemini Female and the Gemini Male protect the Governor's gold, but they are vanquished by the army of Silver and Bronze Lion. The Blacksmith is abducted by the Lions and has his arms severed by Brass Body. However he is saved by the British Jack Knife, who is the emissary of the Emperor, and he manufactures iron arms for Thaddeus. Meanwhile the Governor sends the Jackal army to fight against the Lions and they hide the gold in the brothel of Madam Blossom. However, Madam Blossom and her girls form an army of black widows and together with Jack, Zen Yi and The Blacksmith, they fight against the Lions."
+    },
+    {
+      "title": "Anna and the King",
+      "years": "1860..1869",
+      "countries": [
+        "TH",
+        "GB",
+        "MM"
+      ],
+      "plot": "This is the story of Anna Leonowens, the English schoolteacher who came to Siam in the 1860s to teach the children of King Mongkut. She becomes involved in his affairs, from the tragic plight of a young concubine to trying to forge an alliance with Britain to a war with Burma that is orchestrated by Britain. In the meantime, a subtle romance develops between them."
+    },
+    {
+      "title": "55 Days at Peking",
+      "years": "1900..1900",
+      "countries": [
+        "CN"
+      ],
+      "plot": "Diplomats, soldiers, and other representatives of a dozen nations fend off the siege of the International Compound in Peking during the 1899 to 1901 Boxer Rebellion. The disparate interests unite for survival, despite competing factions, overwhelming odds, delayed relief, and tacit support of the Boxers by Dowager Empress Tzu-Hsi (Dame Flora Robson) and her Generals."
+    },
+    {
+      "title": "Bodyguards and Assassins",
+      "years": "1905..1905",
+      "countries": [
+        "HK"
+      ],
+      "plot": "In 1905, revolutionist Sun Yat-Sen visits Hong Kong to discuss plans with Tongmenghui members to overthrow the Qing dynasty. But when they find out that assassins have been sent to kill him, they assemble a group of protectors to prevent any attacks."
+    },
+    {
+      "title": "Once Upon a Time in China II",
+      "years": "1895..1895",
+      "countries": [
+        "CN"
+      ],
+      "plot": "In the sequel to the Tsui Hark classic, Wong Fei-Hung faces The White Lotus society, a fanatical cult seeking to drive the Europeans out of China through violence, even attacking Chinese who follow Western ways. Wong must also defend Dr. Sun Yat Sen, a revolutionary, from the military. With his friends, loved ones, and the future of China itself at stake, Wong must once again use his martial arts skills to defend the innocent."
+    },
+    {
+      "title": "A Chinese Torture Chamber Story",
+      "years": "1880..1880",
+      "countries": [
+        "CN"
+      ],
+      "plot": "In ancient China, a corrupt judge tortures a young scholar and a young woman over the alleged crimes of adultery and the killing of the woman's husband, to shield the real culprits: the judge's son and the young scholar's wife."
+    }
+  ],
+  "categories": [
+    {
+      "label": "old warrior orders losing their place",
+      "description": "Across East Asia, hereditary fighting elites and sword traditions are pressed aside by new state armies, police forces, and fresh codes of rule. What you'll see: samurai topknots and robes beside uniforms, schools of arms under pressure, and men measuring honour against a changing age.",
+      "icon": "🗡️"
+    },
+    {
+      "label": "foreign powers carving out local authority",
+      "description": "Treaty ports, concessions, gunboats, and extraterritorial privilege let outside powers shape trade, law, and prestige within Asian realms. What you'll see: foreign compounds, customs houses, mixed streets of Chinese and European dress, interpreters, merchants, and soldiers carrying alien flags.",
+      "icon": "🚢"
+    },
+    {
+      "label": "dynasties and kingdoms under reform strain",
+      "description": "Courts and old ruling houses try to preserve their thrones by borrowing new methods, centralising power, and suppressing rivals, often too late to quiet unrest. What you'll see: palace councils, imperial edicts, nervous officials, court ceremony, and arguments over whether change will save or unmake the realm.",
+      "icon": "👑"
+    },
+    {
+      "label": "ports, rivers, and coasts ruled by smugglers",
+      "description": "Where official reach is thin, harbours and waterways become rich ground for pirates, gangs, secret dealings, and protection networks. What you'll see: dockside warehouses, coastal patrol craft, bribes, contraband, gang strongholds, and bustling waterfronts where trade and violence mix.",
+      "icon": "🏴‍☠️"
+    },
+    {
+      "label": "county magistrates selling justice and fear",
+      "description": "For many common people, the state appears most plainly in the yamen, where magistrates, runners, clerks, and torture can turn law into a market for influence. What you'll see: court benches, bamboo rods, petitions, false testimony, seals and scrolls, and frightened villagers facing official power.",
+      "icon": "⚖️"
+    },
+    {
+      "label": "villages burdened by rents and taxes",
+      "description": "Rural life is tied to land dues, harvest failure, landlord claims, and state exactions, leaving peasants little margin when weather or war goes badly. What you'll see: parched fields, grain shortages, rent demands, tax collectors, crowded village councils, and families counting out what they cannot spare.",
+      "icon": "🌾"
+    },
+    {
+      "label": "martial arts schools as public institutions",
+      "description": "Fighting arts are not only personal skills but organised schools, lineages, healing practices, and neighbourhood honour in towns under stress. What you'll see: training courtyards, signboards of rival schools, disciples serving masters, lion dances, challenge matches, and medicine halls joined to boxing rooms.",
+      "icon": "🥋"
+    },
+    {
+      "label": "secret societies and sworn brotherhoods thriving",
+      "description": "In weak or divided times, men bind themselves through lodges, oaths, sects, and underground circles that promise protection, purpose, or deliverance. What you'll see: incense before altars, coded rituals, blood oaths, whispered meetings, banners, and mobs stirred by millenarian fervour or local loyalties.",
+      "icon": "🕯️"
+    },
+    {
+      "label": "caste, rank, and household honour governing marriage",
+      "description": "Family standing, caste, class, and the authority of elders shape love, marriage, inheritance, and a person's place in respectable society. What you'll see: arranged matches, strict fathers, courtesan houses, concubines, wedding processions, and households where reputation weighs more than desire.",
+      "icon": "💍"
+    },
+    {
+      "label": "new weapons and transport changing the balance",
+      "description": "Firearms, drilled conscripts, steam travel, telegraphy, and foreign-made goods alter how states fight and how towns connect to wider markets. What you'll see: revolvers against swords, parade-ground drilling, rail or steam traffic, imported machinery, and old streets adjusting to new speed and reach.",
+      "icon": "🚂"
+    }
+  ]
+}

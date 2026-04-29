@@ -1,0 +1,76 @@
+{
+  "id": "late-cold-war-era",
+  "label": "Late Cold War Era",
+  "aliases": [
+    "Vietnam and Détente Era",
+    "Age of Proxy Wars",
+    "The Long Seventies and Eighties",
+    "Second Cold War Period",
+    "From Vietnam to the Wall"
+  ],
+  "time_range": {
+    "start_year": 1965,
+    "end_year": 1989,
+    "label": "1965 to 1989"
+  },
+  "headline": "The superpowers keep playing chicken with the end of the world — except now the jungle, the desert and the street corner are the actual battlefields.",
+  "epoch_summary": "A quarter-century of televised wars, oil shocks, hostage crises, disco and decay, nuclear near-misses, proxy bloodbaths from Saigon to Kabul, dissidents whispering behind walls, and a slow rot inside both empires that nobody sees coming until a concrete wall cracks open on live television.",
+  "regions": [
+    {
+      "region_name": "Africa",
+      "description_of_an_epoch_in_the_region": "Independence came fast — keeping it is the hard part. Across the continent, new flags go up while the old colonial powers and the two superpowers rush in with guns, money and advisors, each backing their preferred strongman. Angola, Mozambique, Ethiopia — wars that the world calls 'civil' but are really Cold War poker played with African lives. Apartheid South Africa holds on with riot police and prison cells, and the rest of the world argues about how loudly to object."
+    },
+    {
+      "region_name": "Antarctica",
+      "description_of_an_epoch_in_the_region": "Research stations dot the ice now — small clusters of scientists measuring ozone and ice cores while their governments back home point missiles at each other. The Antarctic Treaty keeps the continent demilitarized, which makes it possibly the sanest place on Earth."
+    },
+    {
+      "region_name": "Asia",
+      "description_of_an_epoch_in_the_region": "Vietnam swallows everything. Jungle, napalm, helicopters, body counts on the evening news — the first war people watch from their living rooms, and it breaks something in the country that started it. After Saigon falls, Cambodia collapses into genocide so total it defies belief. China lurches from the Cultural Revolution's madness into Deng's quiet capitalist experiment, while Japan and South Korea build economic miracles on factory floors and fourteen-hour workdays. Afghanistan becomes the Soviet Union's Vietnam — a mountain war that bleeds Moscow dry."
+    },
+    {
+      "region_name": "Europe",
+      "description_of_an_epoch_in_the_region": "The wall is still there. East of it, people queue for bread and whisper jokes about the state; west of it, they protest in the streets and argue about whether capitalism is any better. Terrorism blooms — the Red Brigades in Italy, Baader-Meinhof in Germany, the IRA in Britain — and suddenly car bombs are a European sound. Poland's shipyard workers start something called Solidarity that nobody thinks will work. Then in November 1989, a confused press conference and a crowd with hammers prove everybody wrong."
+    },
+    {
+      "region_name": "North America",
+      "description_of_an_epoch_in_the_region": "America tears itself apart over a war it can't win and a president who can't stop lying. Watergate, assassinations, race riots, gas lines — the optimism of the early sixties is gone and the hangover is brutal. Then Reagan shows up with a grin and a defense budget and tells everyone it's morning again. Meanwhile cities rot from the inside — crack, crime, crumbling infrastructure — while the suburbs pretend nothing is wrong. Canada and Mexico watch their neighbor oscillate between self-doubt and chest-thumping, and try to keep their distance."
+    },
+    {
+      "region_name": "Oceania",
+      "description_of_an_epoch_in_the_region": "Australia sends troops to Vietnam and gets its own version of the backlash — protests, conscription debates, a generation that stops trusting its government. The Pacific Islands are nominally independent now but still feel the gravitational pull of distant powers. New Zealand bans nuclear ships from its ports and Washington acts like it's been personally insulted."
+    },
+    {
+      "region_name": "South America",
+      "description_of_an_epoch_in_the_region": "The generals are in charge almost everywhere. Chile, Argentina, Brazil, Uruguay — military juntas backed by Washington because the alternative might be another Cuba. People disappear. Mothers march in circles around a plaza in Buenos Aires holding photographs. The Dirty War, Operation Condor, torture rooms that everyone knows about and no one stops. Democracy comes back slowly, unevenly, and always with amnesia clauses attached."
+    },
+    {
+      "region_name": "Atlantic Ocean",
+      "description_of_an_epoch_in_the_region": "Submarines glide beneath the surface carrying enough warheads to end civilization, and the whole point is that nobody ever fires them. Above the waterline, oil tankers cross back and forth feeding the economies that keep the Cold War machine running. In 1982, Britain and Argentina fight an actual shooting war over some windswept islands in the South Atlantic — a conflict that feels like it fell out of a previous century."
+    },
+    {
+      "region_name": "Pacific Ocean",
+      "description_of_an_epoch_in_the_region": "The ocean that connects Vietnam to California — coffins go one way, protests go the other. Nuclear tests leave scars on atolls that will glow for centuries. Trade routes between Asia and America grow fatter every year, carrying the first signals of the economic shift that will define the next century."
+    },
+    {
+      "region_name": "Indian Ocean",
+      "description_of_an_epoch_in_the_region": "Oil tankers from the Persian Gulf keep the world's engines turning, which means every crisis in the Middle East sends a shudder across every economy on the planet. The Soviet invasion of Afghanistan puts a superpower on this ocean's northern doorstep, and suddenly Diego Garcia — a tiny British atoll — becomes one of the most important air bases in the world."
+    },
+    {
+      "region_name": "Southern Ocean",
+      "description_of_an_epoch_in_the_region": "Still the emptiest water on Earth. Fishing fleets push further south, scientists track currents and ice shelves, but mostly the Southern Ocean remains what it has always been — cold, violent, and indifferent to whatever the humans up north are arguing about."
+    },
+    {
+      "region_name": "Arctic Ocean",
+      "description_of_an_epoch_in_the_region": "Under the ice cap, American and Soviet submarines play the most dangerous game of hide-and-seek ever invented. The Arctic is a shortcut for missiles — the shortest path between the two superpowers runs right over the pole. Radar stations stare into the northern dark, waiting for a blip that never comes."
+    },
+    {
+      "region_name": "FICTIONAL",
+      "description_of_an_epoch_in_the_region": "Invented worlds built from Cold War blueprints — surveillance states where the walls have ears, dystopias where two empires carve up a planet, sci-fi futures where the nuclear apocalypse already happened and survivors pick through the rubble. The paranoia is borrowed, the ideological deadlock is borrowed, the feeling that someone is always watching is borrowed. The geography is fake but the dread is real."
+    },
+    {
+      "region_name": "UNKNOWN",
+      "description_of_an_epoch_in_the_region": "Somewhere in the late twentieth century. The phones are rotary or just barely push-button. Cigarettes are everywhere. The news is on at six. There's a war on television that nobody wants to talk about at dinner, and a low-frequency hum of anxiety that comes from knowing the world could end in thirty minutes if someone on either side has a bad day. The exact city doesn't matter — the mood is the same."
+    }
+  ]
+}

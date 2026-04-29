@@ -1,0 +1,76 @@
+{
+  "id": "post-911-world",
+  "label": "Post-9/11 World",
+  "aliases": [
+    "War on Terror Era",
+    "Post-September 11th",
+    "The Long War",
+    "Age of Terror",
+    "The Homeland Security Era"
+  ],
+  "time_range": {
+    "start_year": 2002,
+    "end_year": 2013,
+    "label": "2002 to 2013"
+  },
+  "headline": "The most powerful country on Earth gets hit at home, and the next decade is shaped by what it does with its fear.",
+  "epoch_summary": "A world of airport checkpoints, drone strikes, two grinding wars, secret prisons, collapsing banks, rising surveillance, and a slow realization that the enemy is not a country you can find on a map — while the internet quietly rewires how everyone talks, watches, buys, and revolts.",
+  "regions": [
+    {
+      "region_name": "Africa",
+      "description_of_an_epoch_in_the_region": "The War on Terror opens a second front nobody talks about. American Special Forces show up in the Horn of Africa, drone bases appear in Djibouti, and al-Qaeda franchises spread across the Sahel like brushfire. Meanwhile, a different story is happening — mobile phones leapfrog landlines, economies in Lagos and Nairobi start booming, and China shows up with cash and construction crews. The continent is caught between foreign military boots looking for jihadists and foreign investors looking for resources."
+    },
+    {
+      "region_name": "Antarctica",
+      "description_of_an_epoch_in_the_region": "Still ice, still wind, still mostly empty. Research stations dot the coast, scientists measure the ice sheets getting thinner year by year, and the data they send home becomes ammunition in a political argument the world isn't ready to settle."
+    },
+    {
+      "region_name": "Asia",
+      "description_of_an_epoch_in_the_region": "This is where the wars are. Afghanistan becomes the longest conflict in American history — a slow bleed in mountain valleys where nobody can tell who the enemy is. Iraq gets invaded on bad intelligence, Saddam gets pulled from a hole in the ground, and then the country tears itself apart along lines the invaders didn't bother to learn. But further east, a completely different future is being built — China rises so fast it scares everyone, India's tech sector explodes, and South Korea and Japan keep pumping out the phones and screens the rest of the world can't stop staring at."
+    },
+    {
+      "region_name": "Europe",
+      "description_of_an_epoch_in_the_region": "Europe follows America into Afghanistan and mostly regrets it. London gets bombed on the Underground, Madrid gets bombed on the trains, and the old continent discovers that its open borders are a problem when people want to blow things up. Then, in 2008, the banks collapse and take southern Europe down with them — Greece, Spain, Ireland hollowed out by debt, youth unemployment, and austerity cuts that feel like punishment. The European project, so confident a decade ago, suddenly looks fragile."
+    },
+    {
+      "region_name": "North America",
+      "description_of_an_epoch_in_the_region": "America turns inward and outward at the same time. Outward: two wars, Guantanamo Bay, Abu Ghraib, waterboarding memos, and a kill list managed from the White House. Inward: the Patriot Act, the NSA listening to everything, color-coded threat levels, and a housing bubble that pops so hard it nearly takes the global economy down with it. Then something nobody expected — a Black man becomes president, Osama bin Laden gets shot in his bedroom, and the country that started the decade terrified ends it arguing about healthcare and phones."
+    },
+    {
+      "region_name": "Oceania",
+      "description_of_an_epoch_in_the_region": "Australia joins the coalition in Iraq and Afghanistan and pays for it with the Bali bombings, which kill 88 Australians in a nightclub on a Saturday night. Back home, the country tightens its borders, locks refugees in offshore detention centers, and rides a mining boom that keeps the economy golden while the rest of the developed world falls apart. New Zealand stays quieter, further away, and starts to look like the safest place on Earth."
+    },
+    {
+      "region_name": "South America",
+      "description_of_an_epoch_in_the_region": "While the north is obsessed with terror, South America swings left. Chávez in Venezuela, Lula in Brazil, Morales in Bolivia — a pink tide of leaders who say no to Washington and yes to redistribution. Commodity prices soar and the money flows, favelas get electricity, and for a while it looks like the continent might finally break its old cycles. But the money is built on oil and soybeans, and nothing built on a price boom lasts forever."
+    },
+    {
+      "region_name": "Atlantic Ocean",
+      "description_of_an_epoch_in_the_region": "The old highway between empires is now a corridor for container ships, migrant boats, and undersea cables carrying the internet. African migrants die crossing to Europe in numbers nobody counts properly, and the ocean that once carried slaves now carries people desperate enough to risk the same water."
+    },
+    {
+      "region_name": "Pacific Ocean",
+      "description_of_an_epoch_in_the_region": "China builds a navy. That's the headline, and everyone in the region knows what it means. Island nations watch the water rise centimeter by centimeter and wonder if anyone at the climate summits is actually listening. America pivots its military attention here, away from the desert wars, sensing that the next century's real contest is being fought over shipping lanes and coral reefs."
+    },
+    {
+      "region_name": "Indian Ocean",
+      "description_of_an_epoch_in_the_region": "The ocean sits at the crossroads of everything — oil tankers from the Gulf, cargo ships to Asia, pirate skiffs off Somalia making international headlines. The 2004 tsunami kills a quarter of a million people in a single morning, and for a brief moment the whole world pays attention to what happens on these shores."
+    },
+    {
+      "region_name": "Southern Ocean",
+      "description_of_an_epoch_in_the_region": "Empty, violent water. Whale wars play out between Japanese fleets and activist boats, filmed for television. The ice at the edges creaks and calves in chunks that make the news when satellites catch them breaking off."
+    },
+    {
+      "region_name": "Arctic Ocean",
+      "description_of_an_epoch_in_the_region": "The ice melts and suddenly everyone cares about the Arctic. Russia plants a flag on the seabed under the North Pole. Canada, Norway, Denmark start arguing over shipping routes that didn't exist ten years ago. What was a frozen wasteland becomes a geopolitical chessboard."
+    },
+    {
+      "region_name": "FICTIONAL",
+      "description_of_an_epoch_in_the_region": "Invented worlds borrow the paranoia, the surveillance, and the moral exhaustion of the era. Dystopias where governments watch everything. Fantasy kingdoms fighting wars that were started on lies. Superheroes dealing with the politics of who gets to use force and who gets to decide who the enemy is. The fiction of this period keeps circling the same question the real world can't answer: does safety justify what you have to become to get it?"
+    },
+    {
+      "region_name": "UNKNOWN",
+      "description_of_an_epoch_in_the_region": "The setting doesn't matter — you can feel the era anyway. Fluorescent lights in interrogation rooms. Laptops open in dark apartments. Security cameras everywhere. A low hum of anxiety that never quite goes away, the sense that someone might be watching, someone might be planning something, and the people in charge might be lying about all of it."
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "epoch": "early-modern-and-revolutionary-world",
+  "continent": "africa",
+  "sample_size": 2,
+  "sample": [
+    {
+      "title": "The Woman King",
+      "years": "1823..1823",
+      "countries": [
+        "BJ"
+      ],
+      "plot": "A historical epic inspired by true events that took place in The Kingdom of Dahomey, one of the most powerful states of Africa in the 18th and 19th centuries."
+    },
+    {
+      "title": "The Woman King",
+      "years": "1823..1823",
+      "countries": [
+        "BJ"
+      ],
+      "plot": "A historical epic inspired by true events that took place in The Kingdom of Dahomey, one of the most powerful states of Africa in the 18th and 19th centuries."
+    }
+  ],
+  "categories": [
+    {
+      "label": "kingdoms centralising power through warfare",
+      "description": "In parts of West Africa, strong kingdoms gather people, tribute, and captives under a ruler whose power rests on conquest, court authority, and command of armed force. What you'll see: palace compounds, royal processions, tribute brought before the throne, and war councils shaping the life of the state.",
+      "icon": "⚔️"
+    },
+    {
+      "label": "atlantic slave trading pressing on inland states",
+      "description": "European demand for captives at the coast bends politics inland, tying diplomacy, raiding, and royal wealth to the buying and selling of human beings. What you'll see: coastal forts and traders, negotiations over captives, caravans under guard, and markets where war and commerce meet.",
+      "icon": "🚢"
+    },
+    {
+      "label": "royal courts ordering rank and tribute",
+      "description": "Government is personal and ceremonial, with the palace serving as the centre of justice, taxation, ritual, and favour rather than a distant written bureaucracy. What you'll see: audiences before the ruler, elaborate court etiquette, gift exchange, officials enforcing orders, and wealth displayed in cloth, metal, and carved regalia.",
+      "icon": "👑"
+    },
+    {
+      "label": "women holding formal place in arms",
+      "description": "Some African states make room for women within royal and military institutions, linking service, discipline, and status directly to the crown. What you'll see: training grounds, barracks life, ceremonial inspections, strict hierarchies of command, and women moving in spaces of power usually reserved for armed retainers.",
+      "icon": "🛡️"
+    },
+    {
+      "label": "religion joining ancestors, spirits, and rule",
+      "description": "Belief is woven through government and daily life, with ancestors, local divinities, oaths, and ritual acts giving moral force to kingship and war. What you'll see: shrines, offerings, divination, sacred taboos, ritual before battle, and public ceremonies where politics and worship are inseparable.",
+      "icon": "🔮"
+    },
+    {
+      "label": "trade routes tying coast to interior",
+      "description": "Goods, news, and people move along established routes between inland capitals and Atlantic ports, linking local production to wider exchange. What you'll see: caravans, porters bearing goods, imported cloth and firearms beside local wares, and bustling markets where many languages and interests meet.",
+      "icon": "🧺"
+    },
+    {
+      "label": "firearms changing the balance of war",
+      "description": "Gunpowder weapons do not erase older fighting methods, but they alter tactics, prestige, and the terms on which states bargain with neighbours and foreign merchants. What you'll see: muskets alongside blades and spears, drilling and powder stores, volleys in battle, and the visible value placed on weapons from overseas.",
+      "icon": "🔫"
+    },
+    {
+      "label": "captivity and slavery structuring social order",
+      "description": "Unfreedom exists within the region as well as across the ocean, shaping households, labour, military service, and the fate of those taken in war. What you'll see: captives guarded after raids, enslaved labour within compounds and fields, household dependants of different rank, and constant attention to who is free and who is owned.",
+      "icon": "⛓️"
+    },
+    {
+      "label": "village farming supporting royal capitals",
+      "description": "Even powerful courts depend on surrounding farming communities that raise food, pay dues, and supply labour to sustain armies and palaces. What you'll see: yam and grain cultivation, cooking and pounding food, village compounds, seasonal rhythms of work, and stores of provisions feeding the state.",
+      "icon": "🌾"
+    },
+    {
+      "label": "foreign merchants bargained with warily",
+      "description": "European traders are influential at the coast but must deal with African rulers as negotiating powers, not as masters of the interior. What you'll see: tense bargaining, interpreters and middlemen, gifts and demands, coastal enclaves marked by foreign goods, and mutual suspicion beneath formal courtesy.",
+      "icon": "⚓"
+    }
+  ]
+}

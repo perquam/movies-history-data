@@ -1,0 +1,76 @@
+{
+  "id": "early-cold-war-era",
+  "label": "Early Cold War Era",
+  "aliases": [
+    "Atomic Age",
+    "Post-War Era",
+    "Red Scare Period",
+    "Superpower Standoff",
+    "Nuclear Dawn"
+  ],
+  "time_range": {
+    "start_year": 1946,
+    "end_year": 1964,
+    "label": "1946 to 1964"
+  },
+  "headline": "The war ends, the bomb doesn't — and now two men in two capitals hold the off switch for the human race.",
+  "epoch_summary": "Mushroom clouds over test sites, spy swaps on foggy bridges, colonies burning their way to flags of their own, suburbs spreading like a quiet disease, Black Americans demanding a seat at the table, and a race to space fueled by the same terror that keeps fallout shelters stocked — the world pretending it's at peace while rehearsing for the end.",
+  "regions": [
+    {
+      "region_name": "Africa",
+      "description_of_an_epoch_in_the_region": "The continent starts shaking loose. One by one, colonies that were drawn on maps by Europeans in rooms thousands of miles away begin to tear those maps apart. Some gain independence through negotiation, others through blood — Algeria burns for eight years. New flags go up, new anthems play, but the old borders stay, and so do the old problems: foreign companies still own the mines, the Cold War powers still pick sides, and the people who fought for freedom discover that freedom comes with a bill somebody else already wrote."
+    },
+    {
+      "region_name": "Antarctica",
+      "description_of_an_epoch_in_the_region": "Research stations sprout on the ice like small metal seeds. Scientists from rival nations share the same frozen silence, measuring weather and penguins while their governments back home measure warheads. In 1959 they sign a treaty that says this continent belongs to nobody and to science — the only patch of Earth the Cold War agrees to leave alone."
+    },
+    {
+      "region_name": "Asia",
+      "description_of_an_epoch_in_the_region": "Asia is where the Cold War turns hot. Korea is sawed in two by a war that kills millions and then just stops, leaving a line in the dirt that nobody crosses. China remakes itself under Mao — first land reform, then famine so vast it kills tens of millions while the government calls it progress. Japan rises from rubble and radiation into an economic engine, building cars and cameras while American bases stay on its soil. Vietnam begins to simmer. India and Pakistan split apart at birth, leaving a million dead on the roads between them, then start building separate nations while staring at each other across Kashmir."
+    },
+    {
+      "region_name": "Europe",
+      "description_of_an_epoch_in_the_region": "The continent that just buried sixty million people splits down the middle like a cracked bone. West Germany gets Marshall Plan cash and reinvents itself as a democracy with a guilty conscience; East Germany gets Soviet tanks and reinvents itself as a surveillance state with a cement wall. France and Britain pretend they're still empires until Suez proves they're not. The rest fills with NATO bases, secret police, economic miracles, and a generation of children who know what a fallout shelter looks like before they know what a vacation looks like."
+    },
+    {
+      "region_name": "North America",
+      "description_of_an_epoch_in_the_region": "America wins the war and then gets terrified anyway. Suburbs spread like a rash, televisions glow in every living room, and the economy roars — but under the kitchen table there's a pamphlet about what to do when the bomb drops. McCarthy points fingers, Hollywood blacklists writers, schools practice duck-and-cover. Then Black Americans in the South start sitting at lunch counters and refusing to move, and the whole story of who this country is for cracks wide open. Cuba goes communist ninety miles off the coast and suddenly the missiles are close enough to feel."
+    },
+    {
+      "region_name": "Oceania",
+      "description_of_an_epoch_in_the_region": "Australia and New Zealand follow Britain into the Cold War alliance but start looking north instead of east. The Pacific islands are still somebody else's territory — and some of them become nuclear test sites, because the people making the bombs need somewhere far away to detonate them. Bikini Atoll disappears in a flash that poisons the ocean for miles."
+    },
+    {
+      "region_name": "South America",
+      "description_of_an_epoch_in_the_region": "Populist strongmen rise and fall like fever spikes. Perón fills stadiums in Argentina, promises everything, delivers some of it, and gets overthrown. Brazil builds an entire capital city in the middle of nowhere as if architecture alone could drag a country into the future. Washington watches the continent like a landlord — tolerating any dictator who says the right things about communism, undermining anyone who doesn't. Cuba flips in 1959 and suddenly every leftist movement south of Texas has a template and every right-wing general has an excuse."
+    },
+    {
+      "region_name": "Atlantic Ocean",
+      "description_of_an_epoch_in_the_region": "The ocean that carried soldiers to Normandy now carries submarines that never surface. NATO and the Warsaw Pact stare at each other across it. Beneath the waves, sonar listens for engines, and the whole body of water becomes a silent battlefield where nothing happens until everything might."
+    },
+    {
+      "region_name": "Pacific Ocean",
+      "description_of_an_epoch_in_the_region": "The Pacific is a graveyard and a proving ground. Islands where men bled three years ago now host mushroom clouds that vaporize lagoons. Aircraft carriers patrol in slow loops. Korea and Vietnam bookend the ocean with real wars while the rest of it hums with the quiet machinery of containment."
+    },
+    {
+      "region_name": "Indian Ocean",
+      "description_of_an_epoch_in_the_region": "Old colonial shipping lanes become new Cold War chessboards. The Suez Canal crisis in 1956 proves that Britain and France no longer own this part of the map — and that America and the Soviet Union do. Oil tankers grow larger every year, feeding economies that can't stop burning."
+    },
+    {
+      "region_name": "Southern Ocean",
+      "description_of_an_epoch_in_the_region": "Empty, freezing, and mostly ignored. A few research vessels push through the waves to reach Antarctic stations. The Southern Ocean is the margin of the world — too cold and too far from anything that matters to either superpower."
+    },
+    {
+      "region_name": "Arctic Ocean",
+      "description_of_an_epoch_in_the_region": "The shortest path between Washington and Moscow runs right over the North Pole. Radar stations line the Arctic coast like a trip wire. Submarines slide under the ice cap carrying enough warheads to end civilization. The Arctic isn't remote anymore — it's the front door."
+    },
+    {
+      "region_name": "FICTIONAL",
+      "description_of_an_epoch_in_the_region": "Invented worlds built from Cold War dread. Dystopias where the state watches every move. Alien invasions that are really about the enemy next door. Science fiction futures powered by atomic optimism or atomic terror — gleaming cities or irradiated wastelands, depending on whether the writer still believes in progress. The fictional settings of this era run on paranoia, conformity, surveillance, and the question of whether humanity can be trusted with its own power."
+    },
+    {
+      "region_name": "UNKNOWN",
+      "description_of_an_epoch_in_the_region": "The general atmosphere is suspicion. Rooms with blinds drawn. Conversations where nobody says what they mean. A surface of normality — offices, diners, train stations — hiding something rotten underneath. Films set in this era but nowhere specific tend to feel like the walls are listening, the neighbor might be reporting you, and the biggest danger is the thing nobody talks about."
+    }
+  ]
+}

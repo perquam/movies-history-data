@@ -1,0 +1,679 @@
+[
+  {
+    "movie_id": 1008042,
+    "movie_idx": 4,
+    "imdb_id": "tt27173489",
+    "title": "Talk to Me",
+    "production_year": "2023",
+    "genre": "Short",
+    "plot": "N/A",
+    "runtime": "N/A",
+    "director": "Etderick Bettie",
+    "actors": "Samantha Carter, Breon Clark",
+    "production_country": "United States",
+    "poster": "N/A",
+    "imdb_rating": "N/A",
+    "imdb_votes": "40",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Talk_to_Me_(2022_film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/1008042.txt",
+    "plot_year_start": 2020,
+    "plot_year_end": 2023,
+    "epoch": "platform-and-ai-world",
+    "action_countries": [
+      "AU"
+    ],
+    "action_continents": [
+      "Oceania"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "old spiritual fears beside modern routines",
+        "description": "A secular, contemporary society still leaves room for hauntings, possession, the occult, and older folk beliefs that sit uneasily beside medicine and ordinary domestic life. What you'll see: séance games, uncanny children, churches and Christian households, spells and forbidden objects, and suburban rooms becoming charged with dread.",
+        "icon": "🔮"
+      },
+      {
+        "label": "small communities watched through screens",
+        "description": "Even in remote places, daily life now sits inside phones, recordings, online attention, and the pressure of being seen, judged, and circulated. What you'll see: audition tapes, handheld footage, messages and calls, rumours moving fast, and private fear turning into public spectacle.",
+        "icon": "📱"
+      }
+    ],
+    "failures": {
+      "poster": "no_poster_url"
+    }
+  },
+  {
+    "movie_id": 1167725,
+    "movie_idx": 208,
+    "imdb_id": "tt28073548",
+    "title": "Love Is in the Air",
+    "production_year": "2023",
+    "genre": "Comedy, Drama, Romance",
+    "plot": "A seaplane pilot flying in the tropics finds herself falling for the man sent to sink her business.",
+    "runtime": "88 min",
+    "director": "Adrian Powers",
+    "actors": "Delta Goodrem, Joshua Sasse, Roy Billing",
+    "production_country": "Australia",
+    "poster": "https://m.media-amazon.com/images/M/MV5BM2RkMGVmZWYtN2UwNS00NzhjLWE5ODktZmJmMWExNzU5MGZhXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/1167725.webp",
+    "imdb_rating": "5.6",
+    "imdb_votes": "5,041",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Love_Is_in_the_Air_(2023_film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/1167725.txt",
+    "plot_year_start": 2023,
+    "plot_year_end": 2023,
+    "epoch": "platform-and-ai-world",
+    "action_countries": [
+      "AU"
+    ],
+    "action_continents": [
+      "Oceania"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "coastal life tied to small aircraft",
+        "description": "Across island chains and long shorelines, light planes and seaplanes still bind scattered communities, tourists, and family businesses to places roads do not easily reach. What you'll see: pontoons and propellers, tiny airstrips, beach landings, freight and passengers handled by hand, and weather always deciding what can move.",
+        "icon": "🛩️"
+      }
+    ]
+  },
+  {
+    "movie_id": 714669,
+    "movie_idx": 1172,
+    "imdb_id": "tt12547822",
+    "title": "Run Rabbit Run",
+    "production_year": "2023",
+    "genre": "Drama, Horror, Mystery",
+    "plot": "As a fertility doctor, Sarah (Sarah Snook) has a firm understanding of the cycle of life: you are born, you live, and then you die. That's it. But when she is forced to make sense of the increasingly strange behaviour of her young daughter Mia, Sarah must challenge her own beliefs and confront a ghost from her past.",
+    "runtime": "100 min",
+    "director": "Daina Reid",
+    "actors": "Sarah Snook, Lily LaTorre, Neil Melville",
+    "production_country": "Australia, United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMDUyM2FmYjItYjU5MS00NTA3LWI1NmYtOTE1ODI1OWFjYThmXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/714669.webp",
+    "imdb_rating": "5.0",
+    "imdb_votes": "12,821",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Run_Rabbit_Run_(film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/714669.txt",
+    "plot_year_start": 2020,
+    "plot_year_end": 2023,
+    "epoch": "platform-and-ai-world",
+    "action_countries": [
+      "AU"
+    ],
+    "action_continents": [
+      "Oceania"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "old spiritual fears beside modern routines",
+        "description": "A secular, contemporary society still leaves room for hauntings, possession, the occult, and older folk beliefs that sit uneasily beside medicine and ordinary domestic life. What you'll see: séance games, uncanny children, churches and Christian households, spells and forbidden objects, and suburban rooms becoming charged with dread.",
+        "icon": "🔮"
+      }
+    ]
+  },
+  {
+    "movie_id": 228161,
+    "movie_idx": 1313,
+    "imdb_id": "tt2224026",
+    "title": "Home",
+    "production_year": "2015",
+    "genre": "Animation, Adventure, Comedy",
+    "plot": "When Oh, a loveable misfit from another planet, lands on Earth and finds himself on the run from his own people, he forms an unlikely friendship with an adventurous girl named Tip who is on a quest of her own. Through a series of comic adventures with Tip, Oh comes to understand that being different and making mistakes is all part of being human. And while he changes her planet and she changes his world, they discover the true meaning of the word HOME.",
+    "runtime": "94 min",
+    "director": "Tim Johnson",
+    "actors": "Jim Parsons, Rihanna, Steve Martin",
+    "production_country": "United States, India",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjExOTQ4MDMyMV5BMl5BanBnXkFtZTgwMTE3NDM2MzE@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/228161.webp",
+    "imdb_rating": "6.5",
+    "imdb_votes": "120,478",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Home_(2015_film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/228161.txt",
+    "plot_year_start": 2015,
+    "plot_year_end": 2015,
+    "epoch": "platform-and-ai-world",
+    "action_countries": [
+      "AU",
+      "FR",
+      "UNKNOWN"
+    ],
+    "action_continents": [
+      "Oceania",
+      "Europe",
+      "UNKNOWN"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "the outback as thinly settled country",
+        "description": "Much of Australia remains a world of great distances, sparse towns, and weak margins of safety where help may be far away. What you'll see: red dust, isolated houses, long empty roads, desert heat, local cops and pubs, and strangers instantly noticed in town.",
+        "icon": "🏜️"
+      }
+    ]
+  },
+  {
+    "movie_id": 1119744,
+    "movie_idx": 1802,
+    "imdb_id": "tt27679112",
+    "title": "Fall Guy",
+    "production_year": "2023",
+    "genre": "Crime, Drama, Thriller",
+    "plot": "A sexy political drama about a man who's blamed for a crime he didn't do. Will justice be ever served to small people like him?",
+    "runtime": "108 min",
+    "director": "Joel Lamangan",
+    "actors": "Sean De Guzman, Glydel Mercado, Shamaine Buencamino",
+    "production_country": "Philippines",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNjZkYzE4OWEtNDA4YS00MTYwLTliOTktNTc1MWRmYmFkNWQxXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/1119744.webp",
+    "imdb_rating": "N/A",
+    "imdb_votes": "340",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Fall_Guy_(2024_film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/1119744.txt",
+    "plot_year_start": 2023,
+    "plot_year_end": 2024,
+    "epoch": "platform-and-ai-world",
+    "action_countries": [
+      "AU",
+      "MX",
+      "US"
+    ],
+    "action_continents": [
+      "Oceania",
+      "North America",
+      "North America"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "small communities watched through screens",
+        "description": "Even in remote places, daily life now sits inside phones, recordings, online attention, and the pressure of being seen, judged, and circulated. What you'll see: audition tapes, handheld footage, messages and calls, rumours moving fast, and private fear turning into public spectacle.",
+        "icon": "📱"
+      }
+    ]
+  },
+  {
+    "movie_id": 522444,
+    "movie_idx": 1934,
+    "imdb_id": "tt7978672",
+    "title": "Black Water: Abyss",
+    "production_year": "2020",
+    "genre": "Adventure, Horror, Thriller",
+    "plot": "Five friends exploring a remote cave system in Northern Australia find themselves threatened by a hungry crocodile.",
+    "runtime": "98 min",
+    "director": "Andrew Traucki",
+    "actors": "Jessica McNamee, Luke Mitchell, Amali Golden",
+    "production_country": "Australia, United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNTE3YWQzZDMtN2E1Yi00M2VlLWI3MjUtZDEyYzgzOWFlYWU0XkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/522444.webp",
+    "imdb_rating": "4.6",
+    "imdb_votes": "7,320",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Black_Water:_Abyss",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/522444.txt",
+    "plot_year_start": 2020,
+    "plot_year_end": 2020,
+    "epoch": "platform-and-ai-world",
+    "action_countries": [
+      "AU"
+    ],
+    "action_continents": [
+      "Oceania"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "weather and terrain overrule human plans",
+        "description": "However connected the present may be, desert heat, dust storms, open water, caves, and surf still impose old physical limits on movement and rescue. What you'll see: blown-out horizons, rough seas, dark rock passages, failing supplies, stalled vehicles and boats, and bodies tested by exposure.",
+        "icon": "⛈️"
+      }
+    ]
+  },
+  {
+    "movie_id": 760926,
+    "movie_idx": 2090,
+    "imdb_id": "tt6020800",
+    "title": "Gold",
+    "production_year": "2022",
+    "genre": "Action, Adventure, Thriller",
+    "plot": "Set against the backdrop of a vast, unique and unforgiving landscape, Gold is a taut thriller about greed and the lengths people will go to secure themselves a fortune. When two drifters travelling through the desert stumble across the biggest gold nugget ever found, the dream of immense wealth and greed takes hold. They hatch a plan to protect and excavate their bounty with one man leaving to secure the necessary equipment. The other man remains and must endure the harsh desert climate, preying wolves and intruders, whilst battling the creeping doubt that he has been abandoned to his own fate.",
+    "runtime": "97 min",
+    "director": "Anthony Hayes",
+    "actors": "Zac Efron, Akuol Ngot, Thiik Biar",
+    "production_country": "Australia, United Kingdom",
+    "poster": "https://m.media-amazon.com/images/M/MV5BOTAwYWJhYmQtMTNjMC00YmRlLWJjYjEtMTMyNDk4ODhmYzNkXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/760926.webp",
+    "imdb_rating": "5.4",
+    "imdb_votes": "13,206",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Gold_(2022_Australian_film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/760926.txt",
+    "plot_year_start": 2020,
+    "plot_year_end": 2025,
+    "epoch": "platform-and-ai-world",
+    "action_countries": [
+      "AU"
+    ],
+    "action_continents": [
+      "Oceania"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "the outback as thinly settled country",
+        "description": "Much of Australia remains a world of great distances, sparse towns, and weak margins of safety where help may be far away. What you'll see: red dust, isolated houses, long empty roads, desert heat, local cops and pubs, and strangers instantly noticed in town.",
+        "icon": "🏜️"
+      },
+      {
+        "label": "weather and terrain overrule human plans",
+        "description": "However connected the present may be, desert heat, dust storms, open water, caves, and surf still impose old physical limits on movement and rescue. What you'll see: blown-out horizons, rough seas, dark rock passages, failing supplies, stalled vehicles and boats, and bodies tested by exposure.",
+        "icon": "⛈️"
+      }
+    ]
+  },
+  {
+    "movie_id": 770254,
+    "movie_idx": 3338,
+    "imdb_id": "tt13575806",
+    "title": "Back to the Outback",
+    "production_year": "2021",
+    "genre": "Animation, Adventure, Comedy",
+    "plot": "Tired of being locked in a reptile house where humans gawk at them like they're monsters, a ragtag group of Australia's deadliest creatures plot a daring escape from their zoo to the Outback, a place where they'll fit in without being judged for their scales and fangs. Leading the group is Maddie, a poisonous snake with a heart of gold, who bands together with a self-assured Thorny Devil lizard Zoe, a lovelorn hairy spider Frank, and a sensitive scorpion Nigel. But when their nemesis Pretty Boy, a cute but obnoxious koala unexpectedly joins their escape, Maddie and the gang have no choice but to take him with them. So begins a hair-raising and hilarious road trip across Australia, as they are pursued by a zookeeper Chaz and his adventure-seeking mini-me.",
+    "runtime": "95 min",
+    "director": "Harry Cripps, Clare Knight",
+    "actors": "Eric Bana, Tim Minchin, Miranda Tapsell",
+    "production_country": "Australia, United States, Mexico, Netherlands, Austria",
+    "poster": "https://m.media-amazon.com/images/M/MV5BOWIyNTM1NjQtOWUyZS00OWJlLWE1MDctOGE1MTVjMjJiYWJhXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/770254.webp",
+    "imdb_rating": "6.5",
+    "imdb_votes": "11,782",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Back_to_the_Outback",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/770254.txt",
+    "plot_year_start": 2021,
+    "plot_year_end": 2021,
+    "epoch": "platform-and-ai-world",
+    "action_countries": [
+      "AU",
+      "US"
+    ],
+    "action_continents": [
+      "Oceania",
+      "North America"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "the outback as thinly settled country",
+        "description": "Much of Australia remains a world of great distances, sparse towns, and weak margins of safety where help may be far away. What you'll see: red dust, isolated houses, long empty roads, desert heat, local cops and pubs, and strangers instantly noticed in town.",
+        "icon": "🏜️"
+      }
+    ]
+  },
+  {
+    "movie_id": 934761,
+    "movie_idx": 5130,
+    "imdb_id": "tt15215512",
+    "title": "A Perfect Pairing",
+    "production_year": "2022",
+    "genre": "Comedy, Romance",
+    "plot": "It follows a hard-driving LA wine-company executive who travels to an Australian sheep station to land a major client and there she ends up working as a ranch hand and sparking with a rugged local.",
+    "runtime": "101 min",
+    "director": "Stuart McDonald",
+    "actors": "Victoria Justice, Adam Demos, Luca Asta Sardelis",
+    "production_country": "United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNmRmZThhNGItZTIyYS00ZWMyLTgzYmUtOTI0NGVhZDE4ZjRhXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/934761.webp",
+    "imdb_rating": "6.1",
+    "imdb_votes": "18,556",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/A_Perfect_Pairing",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/934761.txt",
+    "plot_year_start": 2022,
+    "plot_year_end": 2022,
+    "epoch": "platform-and-ai-world",
+    "action_countries": [
+      "AU",
+      "US"
+    ],
+    "action_continents": [
+      "Oceania",
+      "North America"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "land and sea worked as lifestyle brands",
+        "description": "Rural stations, vineyards, island services, and wildlife attractions are not only livelihoods but also marketable identities shaped for visitors, investors, and distant buyers. What you'll see: sheep stations, cellar doors, eco-friendly charm, curated rusticity, animal displays, and local work translated into something sellable.",
+        "icon": "🐑"
+      }
+    ]
+  },
+  {
+    "movie_id": 730167,
+    "movie_idx": 6092,
+    "imdb_id": "tt12735282",
+    "title": "The Reef: Stalked",
+    "production_year": "2022",
+    "genre": "Adventure, Horror, Thriller",
+    "plot": "After her sister's murder, Nic, her younger sister and two friends seek solace through a Pacific island kayaking adventure. Hours into the trip the women are stalked by a shark and must band together, face their fears and save eac...",
+    "runtime": "93 min",
+    "director": "Andrew Traucki",
+    "actors": "Teressa Liane, Ann Truong, Saskia Archer",
+    "production_country": "Australia, United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZWY3NTg3ZDUtMWEzMC00MTc1LWE1NmUtOTY5ZjRlMmU1NDRhXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/730167.webp",
+    "imdb_rating": "4.2",
+    "imdb_votes": "5,896",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Reef:_Stalked",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/730167.txt",
+    "plot_year_start": 2021,
+    "plot_year_end": 2021,
+    "epoch": "platform-and-ai-world",
+    "action_countries": [
+      "AU"
+    ],
+    "action_continents": [
+      "Oceania"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "weather and terrain overrule human plans",
+        "description": "However connected the present may be, desert heat, dust storms, open water, caves, and surf still impose old physical limits on movement and rescue. What you'll see: blown-out horizons, rough seas, dark rock passages, failing supplies, stalled vehicles and boats, and bodies tested by exposure.",
+        "icon": "⛈️"
+      },
+      {
+        "label": "coastal life tied to small aircraft",
+        "description": "Across island chains and long shorelines, light planes and seaplanes still bind scattered communities, tourists, and family businesses to places roads do not easily reach. What you'll see: pontoons and propellers, tiny airstrips, beach landings, freight and passengers handled by hand, and weather always deciding what can move.",
+        "icon": "🛩️"
+      }
+    ]
+  },
+  {
+    "movie_id": 246741,
+    "movie_idx": 6197,
+    "imdb_id": "tt3416742",
+    "title": "What We Do in the Shadows",
+    "production_year": "2014",
+    "genre": "Comedy, Horror",
+    "plot": "Follow the lives of Viago (Taika Waititi), Deacon (Jonathan Brugh), and Vladislav (Jemaine Clement) - three flatmates who are just trying to get by and overcome life's obstacles-like being immortal vampires who must feast on human blood. Hundreds of years old, the vampires are finding that beyond sunlight catastrophes, hitting the main artery, and not being able to get a sense of their wardrobe without a reflection-modern society has them struggling with the mundane like paying rent, keeping up with the chore wheel, trying to get into nightclubs, and overcoming flatmate conflicts.",
+    "runtime": "86 min",
+    "director": "Jemaine Clement, Taika Waititi",
+    "actors": "Jemaine Clement, Taika Waititi, Jonny Brugh",
+    "production_country": "New Zealand, United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNGFhNjkyZDYtOTc4Yi00OWM4LTg4ZTktNjIzNDA5NGE5YTYwXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/246741.webp",
+    "imdb_rating": "7.6",
+    "imdb_votes": "212,441",
+    "wikipedia_url": "https://simple.wikipedia.org/wiki/What_We_Do_In_The_Shadows",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/246741.txt",
+    "plot_year_start": 2014,
+    "plot_year_end": 2014,
+    "epoch": "platform-and-ai-world",
+    "action_countries": [
+      "NZ"
+    ],
+    "action_continents": [
+      "Oceania"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "share houses and improvised urban adulthood",
+        "description": "City life for the young is marked by renting, cohabiting, chores, nightlife, and the effort to keep a household going under rising costs and loose attachments. What you'll see: flatmate squabbles, rent and mess, house rules, supermarket-scale domesticity, and the comic grind of making a home with others.",
+        "icon": "🏠"
+      },
+      {
+        "label": "small communities watched through screens",
+        "description": "Even in remote places, daily life now sits inside phones, recordings, online attention, and the pressure of being seen, judged, and circulated. What you'll see: audition tapes, handheld footage, messages and calls, rumours moving fast, and private fear turning into public spectacle.",
+        "icon": "📱"
+      }
+    ]
+  },
+  {
+    "movie_id": 420707,
+    "movie_idx": 6922,
+    "imdb_id": "tt4126568",
+    "title": "Open Water 3: Cage Dive",
+    "production_year": "2017",
+    "genre": "Adventure, Drama, Horror",
+    "plot": "To capture thrilling, face-to-face encounters with deadly great white sharks, the young thrill-seekers, Josh; his half-brother, Jeff, and Jeff's girlfriend, Megan, set off to the vast and unforgiving Australian coast to go cage-diving. As the audacious friends start filming an audition tape for an extreme reality-TV show in the relative safety of their heavy cage, a towering wave capsizes their small boat, stranding the reckless trio in the cold water. Now, as the day grows dim, and raw fear gets the best of the defenceless trio, a famished school of man-eating oceanic predators start closing in on them, turning their recording into a bloody diary of death. Do they have what it takes to survive the open water?",
+    "runtime": "80 min",
+    "director": "Gerald Rascionato",
+    "actors": "Joel Hogan, Josh Potthoff, Megan Peta Hill",
+    "production_country": "Australia",
+    "poster": "https://m.media-amazon.com/images/M/MV5BY2E5YjQ3MzAtNzNlMi00NDkxLTg1MGMtYWIwOTk2ODRjMjIyXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/420707.webp",
+    "imdb_rating": "4.2",
+    "imdb_votes": "5,476",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Open_Water_3:_Cage_Dive",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/420707.txt",
+    "plot_year_start": 2015,
+    "plot_year_end": 2015,
+    "epoch": "platform-and-ai-world",
+    "action_countries": [
+      "AU",
+      "US"
+    ],
+    "action_continents": [
+      "Oceania",
+      "North America"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "tourism selling danger as experience",
+        "description": "Wild country and coastal waters are packaged for visitors as adventure, from cage dives to kayaking and scenic escapes, even when the hazards are real. What you'll see: guide boats, rented gear, safety briefings, tourist brochures made flesh, cameras pointed at risk, and leisure tipping into peril.",
+        "icon": "🚤"
+      },
+      {
+        "label": "weather and terrain overrule human plans",
+        "description": "However connected the present may be, desert heat, dust storms, open water, caves, and surf still impose old physical limits on movement and rescue. What you'll see: blown-out horizons, rough seas, dark rock passages, failing supplies, stalled vehicles and boats, and bodies tested by exposure.",
+        "icon": "⛈️"
+      }
+    ]
+  },
+  {
+    "movie_id": 985335,
+    "movie_idx": 7789,
+    "imdb_id": "tt15360384",
+    "title": "Girl at the Window",
+    "production_year": "2022",
+    "genre": "Horror, Thriller",
+    "plot": "A teenage girl in the suburbs becomes convinced that her mom's new boyfriend is the serial killer terrorizing the town, and will stop at nothing to prove it.",
+    "runtime": "85 min",
+    "director": "Mark Hartley",
+    "actors": "Radha Mitchell, Ella Newton, Karis Oka",
+    "production_country": "Australia",
+    "poster": "https://m.media-amazon.com/images/M/MV5BOTA3ZWM4YTMtMjg5My00ZmQ1LWI3N2MtYTc2OTM5NjQyZWRhXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/985335.webp",
+    "imdb_rating": "4.2",
+    "imdb_votes": "1,160",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Girl_at_the_Window",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/985335.txt",
+    "plot_year_start": 2020,
+    "plot_year_end": 2020,
+    "epoch": "platform-and-ai-world",
+    "action_countries": [
+      "AU"
+    ],
+    "action_continents": [
+      "Oceania"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "old spiritual fears beside modern routines",
+        "description": "A secular, contemporary society still leaves room for hauntings, possession, the occult, and older folk beliefs that sit uneasily beside medicine and ordinary domestic life. What you'll see: séance games, uncanny children, churches and Christian households, spells and forbidden objects, and suburban rooms becoming charged with dread.",
+        "icon": "🔮"
+      }
+    ]
+  },
+  {
+    "movie_id": 323373,
+    "movie_idx": 9394,
+    "imdb_id": "tt3705412",
+    "title": "Deathgasm",
+    "production_year": "2015",
+    "genre": "Action, Comedy, Horror",
+    "plot": "Metalhead Brodie is sent to live with his Christian aunt and uncle and meat-head cousin after his drug addicted mother is sent away. Brodie seems unable to fit in, until he meets the mysterious Zakk at a record store. Joined by their love of metal, the two form the metal band Deathgasm, along with fellow outcasts Dion and Giles. However, when Brodie and Zakk break into the house of metal star Rikki Daggers they find mysterious sheet music known as The Black Hymn. Deathgasm plays the Black Hymn, which unleashes a demon known as Aeloth who possesses the town's citizens. Now it's up to Deathgasm and popular girl Medina to fight demons, prevent the apocalypse, and save the day.",
+    "runtime": "86 min",
+    "director": "Jason Howden",
+    "actors": "Milo Cawthorne, James Joshua Blake, Kimberley Crossman",
+    "production_country": "New Zealand",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMmI2NWZiODEtNGYxYy00MDA2LWI2ZWEtNDg5NWFmOWVhZTI5XkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/323373.webp",
+    "imdb_rating": "6.3",
+    "imdb_votes": "20,000",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Deathgasm",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/323373.txt",
+    "plot_year_start": 2015,
+    "plot_year_end": 2015,
+    "epoch": "platform-and-ai-world",
+    "action_countries": [
+      "NZ"
+    ],
+    "action_continents": [
+      "Oceania"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "old spiritual fears beside modern routines",
+        "description": "A secular, contemporary society still leaves room for hauntings, possession, the occult, and older folk beliefs that sit uneasily beside medicine and ordinary domestic life. What you'll see: séance games, uncanny children, churches and Christian households, spells and forbidden objects, and suburban rooms becoming charged with dread.",
+        "icon": "🔮"
+      },
+      {
+        "label": "platform-era outsiders hunting belonging",
+        "description": "This world prizes polish, likability, and easy social fit, leaving misfits, queer youths, subcultures, and the visibly odd to build their own pockets of acceptance. What you'll see: clique boundaries, image management, niche music scenes, awkward introductions, secret refuges, and tenderness found outside the mainstream.",
+        "icon": "🧷"
+      }
+    ]
+  },
+  {
+    "movie_id": 503125,
+    "movie_idx": 9488,
+    "imdb_id": "tt7390588",
+    "title": "Little Monsters",
+    "production_year": "2019",
+    "genre": "Comedy, Horror, Sci-Fi",
+    "plot": "Dave has decided to get over his recent breakup by seeking refuge in his nephew Felix, accompanying him on a school trip, among other things, to be able to get closer to one of the teachers, Miss Caroline. Everything seems normal, at least until a zombie invasion breaks out that will threaten Dave's plans. New horror movie icon Lupita Nyong'o nails it in this blend of comedy and gore.",
+    "runtime": "93 min",
+    "director": "Abe Forsythe",
+    "actors": "Lupita Nyong'o, Alexander England, Josh Gad",
+    "production_country": "Australia, United States, United Kingdom",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYzM2YzJmZmEtYmM4NS00Zjg0LWIzM2ItNGNmYTc3NWNjZTk3XkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/503125.webp",
+    "imdb_rating": "6.3",
+    "imdb_votes": "21,200",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Little_Monsters_(2019_film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/503125.txt",
+    "plot_year_start": 2019,
+    "plot_year_end": 2019,
+    "epoch": "platform-and-ai-world",
+    "action_countries": [
+      "AU",
+      "US"
+    ],
+    "action_continents": [
+      "Oceania",
+      "North America"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "weather and terrain overrule human plans",
+        "description": "However connected the present may be, desert heat, dust storms, open water, caves, and surf still impose old physical limits on movement and rescue. What you'll see: blown-out horizons, rough seas, dark rock passages, failing supplies, stalled vehicles and boats, and bodies tested by exposure.",
+        "icon": "⛈️"
+      }
+    ]
+  },
+  {
+    "movie_id": 245846,
+    "movie_idx": 9658,
+    "imdb_id": "tt2325977",
+    "title": "Strangerland",
+    "production_year": "2015",
+    "genre": "Drama, Mystery, Thriller",
+    "plot": "Newcomers to the remote Australian desert town of Nathgari, Catherine and Matthew Parker's lives are flung into crisis when they discover their two teenage kids, Tommy and Lily, have mysteriously disappeared just before a massive dust storm hits. With Nathgari eerily smothered in red dust and darkness, the townsfolk join the search led by local cop, David Rae. It soon becomes apparent that something terrible may have happened to Tommy and Lily. Suspicions run riot, rumours spread and public opinion turns savagely against the Parkers. With temperatures rising and the chances of survival plummeting with each passing day, Catherine and Matthew find themselves pushed to the brink as they struggle to survive the mystery of their children's fate.",
+    "runtime": "112 min",
+    "director": "Kim Farrant",
+    "actors": "Nicole Kidman, Joseph Fiennes, Hugo Weaving",
+    "production_country": "Ireland, Australia",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNjUzNzQzYTEtMWY2ZS00YzZmLWFlNDQtZTNhMzc5OTBhZGE3XkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/245846.webp",
+    "imdb_rating": "5.2",
+    "imdb_votes": "10,464",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Strangerland",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/245846.txt",
+    "plot_year_start": 2014,
+    "plot_year_end": 2014,
+    "epoch": "platform-and-ai-world",
+    "action_countries": [
+      "AU"
+    ],
+    "action_continents": [
+      "Oceania"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "the outback as thinly settled country",
+        "description": "Much of Australia remains a world of great distances, sparse towns, and weak margins of safety where help may be far away. What you'll see: red dust, isolated houses, long empty roads, desert heat, local cops and pubs, and strangers instantly noticed in town.",
+        "icon": "🏜️"
+      }
+    ]
+  },
+  {
+    "movie_id": 741011,
+    "movie_idx": 9969,
+    "imdb_id": "tt10229982",
+    "title": "My First Summer",
+    "production_year": "2020",
+    "genre": "Drama, Romance",
+    "plot": "16-year-old Claudia has grown up in isolation from the outside world. Stranded on a remote property after her mother's death, she is shocked when Grace, a spirited local teen, appears in the garden like a mirage, a breath of fresh, sugary air. The pair find in each other the support, love and intimacy they need, and teach each other the restorative power of human connection. But their idyllic peace is a fragile one as the adult world closes in and threatens their secret summer love. Headlining some of Australia's brightest young talent, Markella Kavenaugh (Romper Stomper) and Adelaide's own Maiah Stewardson (Windmill, STC, Patch), My First Summer takes girls seriously and sensitively.",
+    "runtime": "80 min",
+    "director": "Katie Found",
+    "actors": "Arthur Angel, Markella Kavenagh, Steve Mouzakis",
+    "production_country": "Australia",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYzMyOTMxNjgtYTU2YS00MWNmLTk2NTUtZTRkMzA3YTJiMjhmXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/741011.webp",
+    "imdb_rating": "6.7",
+    "imdb_votes": "3,129",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/My_First_Summer",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/741011.txt",
+    "plot_year_start": 2020,
+    "plot_year_end": 2020,
+    "epoch": "platform-and-ai-world",
+    "action_countries": [
+      "AU"
+    ],
+    "action_continents": [
+      "Oceania"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "small communities watched through screens",
+        "description": "Even in remote places, daily life now sits inside phones, recordings, online attention, and the pressure of being seen, judged, and circulated. What you'll see: audition tapes, handheld footage, messages and calls, rumours moving fast, and private fear turning into public spectacle.",
+        "icon": "📱"
+      }
+    ]
+  }
+]

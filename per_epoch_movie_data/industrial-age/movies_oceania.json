@@ -1,0 +1,172 @@
+[
+  {
+    "movie_id": 13888,
+    "movie_idx": 1965,
+    "imdb_id": "tt0102782",
+    "title": "Return to the Blue Lagoon",
+    "production_year": "1991",
+    "genre": "Adventure, Drama, Romance",
+    "plot": "While the general theme of this film resembles \"The Blue Lagoon\" (the film for which this is a sequel), the basic plot is quite different. We open the film with a ship finding the craft with our original characters in it, Richard and Emmeline dead and Paddy alive. Established in the first film, the only word Paddy ever says is \"Richard\", so the crew assumes Richard is the infant's name. Taken in by Sarah, a widow with an infant baby girl Lilli, Richard (Paddy) is cared for in a return to civilization. Struck by cholera, the crew of the ship start to die and the captain sets Sarah, Richard, Lilli and a healthy crew member on a lifeboat in an attempt to preserve their lives. With water and food running short, the crew member escorting Sarah and the children becomes dangerous, so Sarah takes the only course of action she feels suitable to preserve the children: she strikes him and throws him overboard. Taking control of the small craft, she eventually guides them back to the island of the first film. The infant Richard, recognizing where he is, finds his home and is very upset not to find his parents. Fixing up the hut and settling in the children, Sarah begins their life on the island, slowly teaching the children survival tools, as well as schooling them as though they were in school, and teaching them slowly about the facts of life, including Lilli's eventual growth to womanhood. When Sarah dies from pneumonia, she leaves the children far more prepared than Richard and Emmeline in the first film. Years later as the children grow into adulthood, the film skims the same themes as the first of their developing relationship, and introduces the characters to civilization when a ship, low on fresh water, stops on their island and offers to take them home. After a confrontation with one of the crew and the captain's daughter, Lilli finds herself pregnant and they decide to stay, as they feel the civilization the visitors have to offer will not compare to the life they lead on the island.",
+    "runtime": "102 min",
+    "director": "William A. Graham",
+    "actors": "Brian Krause, Milla Jovovich, Lisa Pelikan",
+    "production_country": "United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNWZlNDZmYWItODhlNC00MTFjLWI4NjctOWQzYjhhOTc0OTc2XkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/13888.webp",
+    "imdb_rating": "5.2",
+    "imdb_votes": "22,148",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Return_to_the_Blue_Lagoon",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/13888.txt",
+    "plot_year_start": 1897,
+    "plot_year_end": 1897,
+    "epoch": "industrial-age",
+    "action_countries": [
+      "FJ"
+    ],
+    "action_continents": [
+      "Oceania"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "bush and coast resisting easy control",
+        "description": "The land and sea remain dangerous, beautiful, and only partly mastered, making isolation a constant fact of colonial life. What you'll see: dense forest, strange rock formations, surf and reefs, long rides, precarious homesteads, and nature overwhelming human plans.",
+        "icon": "🪨"
+      },
+      {
+        "label": "illness and hardship shadow remote life",
+        "description": "Accident, fever, exposure, and childbirth carry grave risk where doctors, supplies, and quick travel are often absent. What you'll see: improvised care, sudden deaths, harsh weather, physical exhaustion, and fragile bodies in isolated places.",
+        "icon": "⚰️"
+      }
+    ]
+  },
+  {
+    "movie_id": 11020,
+    "movie_idx": 6076,
+    "imdb_id": "tt0073540",
+    "title": "Picnic at Hanging Rock",
+    "production_year": "1975",
+    "genre": "Drama, Mystery",
+    "plot": "Three students and a school teacher disappear on an excursion to Hanging Rock, in Victoria, on Valentine's Day, 1900. The movie follows those that disappeared, and those that stayed behind, but it delights in the asking of questions, not the answering of them. Even though both the movie and the book it was based on claim to be inspired by real events, the story is completely fictional.",
+    "runtime": "115 min",
+    "director": "Peter Weir",
+    "actors": "Rachel Roberts, Anne-Louise Lambert, Vivean Gray",
+    "production_country": "Australia",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZDg0ZWUyMGYtMmY5NC00MmYzLTkyYjUtYWJmYmRiOTZhZjVkXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/11020.webp",
+    "imdb_rating": "7.4",
+    "imdb_votes": "43,997",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Picnic_at_Hanging_Rock_(film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/11020.txt",
+    "plot_year_start": 1900,
+    "plot_year_end": 1900,
+    "epoch": "industrial-age",
+    "action_countries": [
+      "AU"
+    ],
+    "action_continents": [
+      "Oceania"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "respectability enforced through class and gender",
+        "description": "Status depends heavily on proper conduct, family reputation, schooling, and strict ideas about how women, men, and children ought to behave. What you'll see: boarding schools, chaperoned outings, arranged marriages, formal dress, table manners, and punishment for social shame.",
+        "icon": "🎩"
+      },
+      {
+        "label": "illness and hardship shadow remote life",
+        "description": "Accident, fever, exposure, and childbirth carry grave risk where doctors, supplies, and quick travel are often absent. What you'll see: improvised care, sudden deaths, harsh weather, physical exhaustion, and fragile bodies in isolated places.",
+        "icon": "⚰️"
+      }
+    ]
+  },
+  {
+    "movie_id": 10544,
+    "movie_idx": 9023,
+    "imdb_id": "tt0277941",
+    "title": "Ned Kelly",
+    "production_year": "2003",
+    "genre": "Action, Adventure, Biography",
+    "plot": "Though recognized for heroism as a lad, Ned Kelly can not escape the stigma of being the eldest of a brood sired by a known criminal. In days when an arrest equaled guilt and a conviction, his unfair imprisonment for horse thievery puts him steadfast, in the eyes of Victorian police, on the wrong side of things for life. With a sister unable to dissuade the unwanted advances of Constable Fitzpatrick, Ned, his brother Dan, and friends Joe Byrne and Steve Hart soon find themselves labeled \"an outlaw gang\" by the less-than-honorable constable. It's a designation they're apt to live up to after Ned's mother is unfairly arrested and sentenced to three years hard labor. In retaliation, the Kelly Gang strikes out against the oppressive Victorian government, with ultimately tragic results and passage into Australian folklore.",
+    "runtime": "110 min",
+    "director": "Gregor Jordan",
+    "actors": "Heath Ledger, Orlando Bloom, Geoffrey Rush",
+    "production_country": "France, Australia, United Kingdom, United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BOGE4MzgxMzMtYzUzMy00N2M0LTlkNjItNzE2ZmQ5ZTc1NzVkXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/10544.webp",
+    "imdb_rating": "6.4",
+    "imdb_votes": "28,698",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Ned_Kelly_(2003_film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/10544.txt",
+    "plot_year_start": 1871,
+    "plot_year_end": 1880,
+    "epoch": "industrial-age",
+    "action_countries": [
+      "AU"
+    ],
+    "action_continents": [
+      "Oceania"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "police power serving colonial order",
+        "description": "Constables and magistrates keep order in ways that often fall hardest on the poor, the marked, and those already known to authorities. What you'll see: warrants, lockups, mounted police, roadside questioning, courtroom judgments, and fear of being branded criminal for life.",
+        "icon": "👮"
+      },
+      {
+        "label": "settler society pressing into Indigenous lands",
+        "description": "European settlement advances through bush, forest, and coast, turning Māori and Aboriginal country into farms, stations, and townships under colonial claim. What you'll see: rough clearings, fenced plots, uneasy frontier contact, hired guides, and imported customs set against older landscapes.",
+        "icon": "🪓"
+      }
+    ]
+  },
+  {
+    "movie_id": 713,
+    "movie_idx": 9142,
+    "imdb_id": "tt0107822",
+    "title": "The Piano",
+    "production_year": "1993",
+    "genre": "Drama, Music, Romance",
+    "plot": "It is the mid-nineteenth century. Ada cannot speak and she has a young daughter, Flora. In an arranged marriage she leaves her native Scotland accompanied by her daughter and her beloved piano. Life in the rugged forests of New Zealand's North Island is not all she may have imagined and nor is her relationship with her new husband Stewart. She suffers torment and loss when Stewart sells her piano to a neighbor, George. Ada learns from George that she may earn back her piano by giving him piano lessons, but only with certain other conditions attached. At first Ada despises George but slowly their relationship is transformed and this propels them into a dire situation.",
+    "runtime": "121 min",
+    "director": "Jane Campion",
+    "actors": "Holly Hunter, Harvey Keitel, Sam Neill",
+    "production_country": "New Zealand, Australia, France",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZGZiYTQ0MmEtY2RmYy00ZjRkLWI3NTctYTRhMGJlMzA4ZDg0XkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/713.webp",
+    "imdb_rating": "7.5",
+    "imdb_votes": "99,214",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Piano",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/713.txt",
+    "plot_year_start": 1850,
+    "plot_year_end": 1850,
+    "epoch": "industrial-age",
+    "action_countries": [
+      "NZ",
+      "GB"
+    ],
+    "action_continents": [
+      "Oceania",
+      "Europe"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "music, schooling, and manners from Europe",
+        "description": "Settlers carry books, instruments, lessons, and polite accomplishments as marks of civilisation in places they see as raw or distant. What you'll see: piano music, recitation, copybooks, school uniforms, parlour rituals, and European refinement set in rugged country.",
+        "icon": "🎹"
+      },
+      {
+        "label": "British colonies ruled from distant capitals",
+        "description": "Political authority rests with colonial governors, magistrates, and laws carried across the sea from Britain, even where settlements are small and thinly spread. What you'll see: courtrooms, police patrols, official papers, imperial manners, and far-off power felt in local disputes.",
+        "icon": "👑"
+      }
+    ]
+  }
+]

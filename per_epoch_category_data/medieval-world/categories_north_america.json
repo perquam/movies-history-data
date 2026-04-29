@@ -1,0 +1,92 @@
+{
+  "epoch": "medieval-world",
+  "continent": "north_america",
+  "sample_size": 4,
+  "sample": [
+    {
+      "title": "Apocalypto",
+      "years": "1511..1511",
+      "countries": [
+        "MX"
+      ],
+      "plot": "In the Maya civilization, a peaceful tribe is brutally attacked by warriors seeking slaves and human beings for sacrifice for their gods. Jaguar Paw hides his pregnant wife and his son in a deep hole nearby their tribe and is captured while fighting with his people. An eclipse spares his life from the sacrifice and later he has to fight to survive and save his beloved family."
+    },
+    {
+      "title": "The Sorcerer's Apprentice",
+      "years": "740..2000",
+      "countries": [
+        "US"
+      ],
+      "plot": "Balthazar Blake (Nicolas Cage) is a master sorcerer in modern-day Manhattan trying to defend the city from his arch-nemesis, Maxim Horvath (Alfred Molina). Balthazar can't do it alone, so he recruits Dave Stutler (Jay Baruchel), a seemingly average guy who demonstrates hidden potential, as his reluctant protégé. The sorcerer gives his unwilling accomplice a crash course in the art and science of magic, and together, these unlikely partners work to stop the forces of darkness. It'll take all the courage Dave can muster to survive his training, save the city and get the girl as he becomes The Sorcerer's Apprentice."
+    },
+    {
+      "title": "Pathfinder",
+      "years": "1000..1015",
+      "countries": [
+        "CA"
+      ],
+      "plot": "A young Viking boy is left behind at a hostile tribe of American Indians, whom eventually accept him into the tribe and raise him. A personal war begins for the young Viking when the Vikings return 15 years later and initiate a barbaric attack on the tribe and the woman he loves."
+    },
+    {
+      "title": "The Knight Before Christmas",
+      "years": "1334..2019",
+      "countries": [
+        "US",
+        "GB"
+      ],
+      "plot": "After a sorceress transports medieval knight Sir Cole (Josh Whitehouse) to present-day Ohio during the holiday season, he befriends Brooke (Vanessa Hudgens), a clever and kind science teacher who's been disillusioned by love. Brooke helps Sir Cole navigate the modern world and tries to help him discover how to fulfill his mysterious one true quest - the only act that will return him home. But as he and Brooke grow closer, Sir Cole begins to wonder just how much he wants to return to his old life."
+    }
+  ],
+  "categories": [
+    {
+      "label": "forest, jungle, and coast shape movement",
+      "description": "Travel, hunting, war, and settlement all follow the demands of dense woodland, riverways, swamps, and sea coasts rather than paved roads. What you'll see: canoes and seagoing craft, hard journeys through undergrowth, hidden paths, steep cliffs, and villages set where water and game can be reached.",
+      "icon": "🛶"
+    },
+    {
+      "label": "villages tied by kin and tribe",
+      "description": "Most people live in small communities where kinship, clan ties, and tribal belonging decide protection, marriage, and duty. What you'll see: council circles, extended households, elders guiding decisions, communal labor, and strangers judged by the group they come from.",
+      "icon": "👪"
+    },
+    {
+      "label": "war bands raiding neighboring peoples",
+      "description": "Violence often comes as sudden raids for captives, vengeance, plunder, or the defense of territory rather than as set-piece battles between kingdoms. What you'll see: surprise attacks on settlements, warriors painted or armed for close combat, burning homes, and pursuit through rough country.",
+      "icon": "🪓"
+    },
+    {
+      "label": "captives taken for labor and sacrifice",
+      "description": "Defeat in war can mean being carried away alive, with captives folded into systems of servitude, tribute, or ritual killing. What you'll see: bound prisoners on the march, public humiliation, guarded processions, slave-taking raids, and fear of what awaits the captured.",
+      "icon": "⛓️"
+    },
+    {
+      "label": "gods read through omens and rites",
+      "description": "Sacred power is understood through ceremony, priestly authority, and signs in the heavens or natural world that give events meaning. What you'll see: temples or ritual grounds, offerings of blood and goods, invocations before danger, and awe when eclipses or other signs appear.",
+      "icon": "🌘"
+    },
+    {
+      "label": "chiefs and nobles rule by force",
+      "description": "Power rests with war leaders, hereditary rulers, and local elites who command followers, exact tribute, and display rank in visible ways. What you'll see: imposing leaders borne or attended by retainers, tribute goods, guarded compounds, ceremonial dress, and harsh punishments that enforce authority.",
+      "icon": "👑"
+    },
+    {
+      "label": "stone cities and timber villages coexist",
+      "description": "North America in this age holds very different kinds of settlement, from monumental ritual centers to small wooden or thatched communities. What you'll see: pyramids and plazas in one region, palisades and longhouses in another, market crowds, and humble dwellings built from local materials.",
+      "icon": "🛖"
+    },
+    {
+      "label": "daily life depends on hunting and maize",
+      "description": "Food, labor, and survival turn on farming staple crops, gathering, fishing, and hunting, with little buffer against disruption by war or drought. What you'll see: maize fields, food preparation, traps and bows, carried water, craftwork from bone and fiber, and constant bodily work.",
+      "icon": "🌽"
+    },
+    {
+      "label": "the sea brings strange northern raiders",
+      "description": "For some coastal peoples, danger arrives from beyond familiar waters when foreign seafarers appear with unfamiliar weapons and customs. What you'll see: long vessels landing on bleak shores, iron arms and mail against local gear, alarm in shoreline villages, and first contact turning quickly to slaughter.",
+      "icon": "⛵"
+    },
+    {
+      "label": "honor and courage mark a grown warrior",
+      "description": "Reputation is made publicly through endurance, skill in the hunt, and steadiness in battle, not through private feeling alone. What you'll see: trials of strength, scars and trophies, boasting or formal challenge, instruction in survival, and the shame attached to cowardice or failure.",
+      "icon": "🛡️"
+    }
+  ]
+}

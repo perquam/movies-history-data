@@ -1,0 +1,46 @@
+[
+  {
+    "movie_id": 7840,
+    "movie_idx": 1868,
+    "imdb_id": "tt0443649",
+    "title": "10,000 BC",
+    "production_year": "2008",
+    "genre": "Action, Adventure, Drama",
+    "plot": "A pseudo-orphaned semi-outcast since his father left his mammoth hunting tribe on a secret, prophecy-related mission, D'Leh grows up as protégé of master hunter Tic'Tic. Putting truth first, he sacrifices his cheater chance to win status and the charmed girl Evolet, who thus falls to his rival-buddy Ka'Ren. The couple is among the captives taken by horse-riding slave-hunters, but D'Leh takes charge of an epic rescue mission that follows the caravan all the way to the pyramid building site of a 'living god'. By winning the support of a people he impressed on the way thanks to a saber-tooth he once saved and secretly forging a slave rise, he bids for his people's liberation.",
+    "runtime": "109 min",
+    "director": "Roland Emmerich",
+    "actors": "Camilla Belle, Steven Strait, Marco Khan",
+    "production_country": "South Africa, United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZWZmYzI5OWMtZDg4Ny00ZThiLWFjYjQtNjQ1NzA1MWY1OTJiXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/7840.webp",
+    "imdb_rating": "5.1",
+    "imdb_votes": "139,178",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/10,000_BC_(film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/7840.txt",
+    "plot_year_start": -10000,
+    "plot_year_end": -10000,
+    "epoch": "prehistoric-world",
+    "action_countries": [
+      "RU",
+      "EG"
+    ],
+    "action_continents": [
+      "Europe",
+      "Africa"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "ice age cold shaping every journey",
+        "description": "Life unfolds in a harsh, cold world where weather, distance, and barren ground make travel slow and dangerous. What you'll see: snowy plains, biting winds, steep mountains, and long marches across unforgiving country.",
+        "icon": "🏔️"
+      },
+      {
+        "label": "great beasts still ruling the land",
+        "description": "Humans share the world with enormous animals whose migrations, strength, and threat govern where people go and how they live. What you'll see: mammoth herds, saber-toothed predators, traps and spears, and awe before creatures larger than any village can master alone.",
+        "icon": "🦣"
+      }
+    ]
+  }
+]

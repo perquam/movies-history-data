@@ -1,0 +1,41 @@
+[
+  {
+    "movie_id": 573171,
+    "movie_idx": 760,
+    "imdb_id": "tt8101238",
+    "title": "A Frozen Rooster",
+    "production_year": "2022",
+    "genre": "Animation, Comedy, Family",
+    "plot": "The movie centers on Toto's family journeying to the South Pole to return a polar bear and Spanish penguins home, facing obstacles that highlight the value of teamwork along the way.",
+    "runtime": "91 min",
+    "director": "Gabriel Riva Palacio Alatriste, Rodolfo Riva Palacio Alatriste",
+    "actors": "Bruno Bichir, Maite Perroni, Carlos Espejel",
+    "production_country": "Mexico",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMDllZGE5MDAtYmI5Zi00MzdhLWI2YTMtNjk0OTI3M2I5M2RmXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/573171.webp",
+    "imdb_rating": "5.3",
+    "imdb_votes": "97",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Huevitos_congelados",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/573171.txt",
+    "plot_year_start": 2022,
+    "plot_year_end": 2022,
+    "epoch": "platform-and-ai-world",
+    "action_countries": [
+      "AQ",
+      "MX"
+    ],
+    "action_continents": [
+      "Antarctica",
+      "North America"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "multinational visitors moving through a thin human footprint",
+        "description": "Human presence on the continent is sparse and temporary, with crews, researchers, and occasional visitors passing through small enclaves in a vast unpeopled setting. What you'll see: compact stations in huge emptiness, mixed accents and uniforms, shared equipment, and tiny clusters of human activity against ice and sea.",
+        "icon": "👣"
+      }
+    ]
+  }
+]

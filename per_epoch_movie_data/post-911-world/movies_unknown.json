@@ -1,0 +1,3222 @@
+[
+  {
+    "movie_id": 818511,
+    "movie_idx": 18,
+    "imdb_id": "tt16427938",
+    "title": "Overhaul",
+    "production_year": "2023",
+    "genre": "Action, Crime, Drama",
+    "plot": "When truck racer Roger loses everything, he receives a tempting but dangerous offer: to work as the getaway driver for a gang of thieves.",
+    "runtime": "107 min",
+    "director": "Tomas Portella",
+    "actors": "Milhem Cortaz, Raphael Logam, Thiago Martins",
+    "production_country": "Brazil",
+    "poster": "https://m.media-amazon.com/images/M/MV5BOWZlMjQ3NjMtMTFlNi00OGYyLWI1MWQtOWI3M2RkODNlYmQwXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/818511.webp",
+    "imdb_rating": "4.9",
+    "imdb_votes": "968",
+    "plot_year_start": 2000,
+    "plot_year_end": 2005,
+    "epoch": "post-911-world",
+    "action_countries": [
+      "UNKNOWN"
+    ],
+    "action_continents": [
+      "UNKNOWN"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "criminal underworld mixed with public authority",
+        "description": "Police, politicians, agents, and gangsters occupy the same shadowy terrain, so legality and corruption often look like neighboring rooms. What you'll see: dirty detectives, mob fixers, political protection, extortion, narcotics cases, and back-room exchanges where badges and crime blend together.",
+        "icon": "🕴️"
+      }
+    ],
+    "failures": {
+      "wikipedia": "no_wiki_article_found"
+    }
+  },
+  {
+    "movie_id": 852436,
+    "movie_idx": 45,
+    "imdb_id": "tt18160646",
+    "title": "Let Her Kill You",
+    "production_year": "2023",
+    "genre": "Mystery, Thriller",
+    "plot": "Anna, hoping to escape from the disturbing past and find peace, escapes to a secluded mountain chalet. But the old life catches up with her even here. Her house is bugged forcing her to resume life as an agent.",
+    "runtime": "97 min",
+    "director": "Jérôme Dassier",
+    "actors": "Asia Argento, Jeanne Balibar, Joseph Rezwin",
+    "production_country": "France, Switzerland",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMWYzYTcyY2EtNGM0MS00YTZiLWE0NzctMmNkNGIyMjQ0NGM5XkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/852436.webp",
+    "imdb_rating": "3.3",
+    "imdb_votes": "269",
+    "plot_year_start": 2000,
+    "plot_year_end": 2020,
+    "epoch": "post-911-world",
+    "action_countries": [
+      "UNKNOWN"
+    ],
+    "action_continents": [
+      "UNKNOWN"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "governments acting through hidden powers",
+        "description": "Public authority does not stop at courts and uniforms, but reaches into secret prisons, covert agencies, and unofficial bargains made out of sight. What you'll see: black sites, deep-cover operatives, sealed rooms, handlers and informants, and officials whose power is hard to name but easy to fear.",
+        "icon": "🕵️"
+      },
+      {
+        "label": "home life under strain and reinvention",
+        "description": "The household is no safe given thing, but a fragile arrangement shaped by divorce, foster care, absent parents, controlling kin, and improvised substitutes. What you'll see: stepfamilies, babysitters and guardians, orphanages and adoptions, suburban houses with private miseries, and children navigating adults they cannot trust.",
+        "icon": "🏠"
+      }
+    ],
+    "failures": {
+      "wikipedia": "no_wiki_article_found"
+    }
+  },
+  {
+    "movie_id": 1142740,
+    "movie_idx": 142,
+    "imdb_id": "tt2583014",
+    "title": "Murder City",
+    "production_year": "2023",
+    "genre": "Action, Crime, Thriller",
+    "plot": "A disgraced ex-cop is forced to work for a ruthless kingpin to pay off his father's debt and protect his family.",
+    "runtime": "85 min",
+    "director": "Michael D. Olmos",
+    "actors": "Mike Colter, Rhys Coiro, Stephanie Sigman",
+    "production_country": "United States, Mexico",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMDRlNmU0YTctZTYyZS00NTkxLWI2NjctZWQ3MWRhNmQ2OWVjXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/1142740.webp",
+    "imdb_rating": "4.9",
+    "imdb_votes": "180",
+    "plot_year_start": 2000,
+    "plot_year_end": 2020,
+    "epoch": "post-911-world",
+    "action_countries": [
+      "UNKNOWN"
+    ],
+    "action_continents": [
+      "UNKNOWN"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "criminal underworld mixed with public authority",
+        "description": "Police, politicians, agents, and gangsters occupy the same shadowy terrain, so legality and corruption often look like neighboring rooms. What you'll see: dirty detectives, mob fixers, political protection, extortion, narcotics cases, and back-room exchanges where badges and crime blend together.",
+        "icon": "🕴️"
+      },
+      {
+        "label": "home life under strain and reinvention",
+        "description": "The household is no safe given thing, but a fragile arrangement shaped by divorce, foster care, absent parents, controlling kin, and improvised substitutes. What you'll see: stepfamilies, babysitters and guardians, orphanages and adoptions, suburban houses with private miseries, and children navigating adults they cannot trust.",
+        "icon": "🏠"
+      }
+    ],
+    "failures": {
+      "wikipedia": "no_wiki_article_found"
+    }
+  },
+  {
+    "movie_id": 1028493,
+    "movie_idx": 155,
+    "imdb_id": "tt21104674",
+    "title": "Legacy Peak",
+    "production_year": "2022",
+    "genre": "Adventure, Drama, Family",
+    "plot": "Jason is on an adventure to win the hearts of Noelle's kids before they marry.",
+    "runtime": "95 min",
+    "director": "Aaron Burns",
+    "actors": "Lucas Black, Kyleigh Bakker, Roman Engel",
+    "production_country": "United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZGNiMGVhNzAtNjJjMS00ZTAzLWFjMzEtYjBlYjMyYzJkOTNhXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/1028493.webp",
+    "imdb_rating": "5.1",
+    "imdb_votes": "651",
+    "plot_year_start": 2000,
+    "plot_year_end": 2005,
+    "epoch": "post-911-world",
+    "action_countries": [
+      "UNKNOWN"
+    ],
+    "action_continents": [
+      "UNKNOWN"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "home life under strain and reinvention",
+        "description": "The household is no safe given thing, but a fragile arrangement shaped by divorce, foster care, absent parents, controlling kin, and improvised substitutes. What you'll see: stepfamilies, babysitters and guardians, orphanages and adoptions, suburban houses with private miseries, and children navigating adults they cannot trust.",
+        "icon": "🏠"
+      }
+    ],
+    "failures": {
+      "wikipedia": "no_wiki_article_found"
+    }
+  },
+  {
+    "movie_id": 214,
+    "movie_idx": 176,
+    "imdb_id": "tt0489270",
+    "title": "Saw III",
+    "production_year": "2006",
+    "genre": "Horror, Mystery, Thriller",
+    "plot": "Jeff is an anguished man who grieves and misses his son that was killed by a drunk driver in a car accident. He has become obsessed for revenge against the drunk driver, judge, and only witness who refused to testify; he has also become neglectful of his daughter. Lynn Denlon is a skilled surgeon that is cheating on her husband and suffering from depression. Both are abducted and brought to Jigsaw's warehouse, where they must play two separate games: Jeff must choose whether to save or let the people he holds responsible for the death of his son die, while Lynn must keep Jigsaw alive until Jeff completes his tests, or face the deadly consequences.",
+    "runtime": "108 min",
+    "director": "Darren Lynn Bousman",
+    "actors": "Tobin Bell, Shawnee Smith, Angus Macfadyen",
+    "production_country": "Canada, United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BODQ4YTAwZTItZGFjZi00YjNiLTllYzUtYWY3OWM2OTQzODVkXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/214.webp",
+    "imdb_rating": "6.2",
+    "imdb_votes": "226,704",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Saw_III",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/214.txt",
+    "plot_year_start": 2006,
+    "plot_year_end": 2006,
+    "epoch": "post-911-world",
+    "action_countries": [
+      "UNKNOWN"
+    ],
+    "action_continents": [
+      "UNKNOWN"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "governments acting through hidden powers",
+        "description": "Public authority does not stop at courts and uniforms, but reaches into secret prisons, covert agencies, and unofficial bargains made out of sight. What you'll see: black sites, deep-cover operatives, sealed rooms, handlers and informants, and officials whose power is hard to name but easy to fear.",
+        "icon": "🕵️"
+      }
+    ]
+  },
+  {
+    "movie_id": 118,
+    "movie_idx": 188,
+    "imdb_id": "tt0367594",
+    "title": "Charlie and the Chocolate Factory",
+    "production_year": "2005",
+    "genre": "Adventure, Comedy, Family",
+    "plot": "When Willy Wonka decides to let five children into his chocolate factory, he decides to release five golden tickets in five separate chocolate bars, causing complete mayhem. The tickets start to be found, with the fifth going to a very special boy, called Charlie Bucket. With his Grandpa, Charlie joins the rest of the children to experience the most amazing factory ever. But not everything goes to plan within the factory.",
+    "runtime": "115 min",
+    "director": "Tim Burton",
+    "actors": "Johnny Depp, Freddie Highmore, David Kelly",
+    "production_country": "United Kingdom, United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNjcxMjg1Njg2NF5BMl5BanBnXkFtZTcwMjQ4NzMzMw@@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/118.webp",
+    "imdb_rating": "6.7",
+    "imdb_votes": "566,515",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Charlie_and_the_Chocolate_Factory_(film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/118.txt",
+    "plot_year_start": 2005,
+    "plot_year_end": 2005,
+    "epoch": "post-911-world",
+    "action_countries": [
+      "UNKNOWN"
+    ],
+    "action_continents": [
+      "UNKNOWN"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "consumption sold as a way of life",
+        "description": "Status and belonging are tied to branded pleasures, talent showcases, self-improvement, and purchasable experiences, even when the promise rings hollow. What you'll see: private schools, record labels, bars and showcases, candy empires, curated neighborhoods, and people measuring worth through display and access.",
+        "icon": "🛍️"
+      },
+      {
+        "label": "home life under strain and reinvention",
+        "description": "The household is no safe given thing, but a fragile arrangement shaped by divorce, foster care, absent parents, controlling kin, and improvised substitutes. What you'll see: stepfamilies, babysitters and guardians, orphanages and adoptions, suburban houses with private miseries, and children navigating adults they cannot trust.",
+        "icon": "🏠"
+      }
+    ]
+  },
+  {
+    "movie_id": 27578,
+    "movie_idx": 266,
+    "imdb_id": "tt1320253",
+    "title": "The Expendables",
+    "production_year": "2010",
+    "genre": "Action, Adventure, Thriller",
+    "plot": "Barney Ross leads the \"Expendables\", a band of highly skilled mercenaries including knife enthusiast Lee Christmas, martial arts expert Yin Yang, heavy weapons specialist Hale Caesar, demolitionist Toll Road and loose-cannon sniper Gunner Jensen. When the group is commissioned by the mysterious Mr. Church to assassinate the merciless dictator of a small South American island, Barney and Lee head to the remote locale to scout out their opposition. Once there, they meet with local rebel Sandra and discover the true nature of the conflict engulfing the city. When they escape the island and Sandra stays behind, Ross must choose to either walk away and save his own life - or attempt a suicidal rescue mission that might just save his soul.",
+    "runtime": "103 min",
+    "director": "Sylvester Stallone",
+    "actors": "Sylvester Stallone, Jason Statham, Jet Li",
+    "production_country": "United States, Bulgaria, Spain, Germany",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNTUwODQyNjM0NF5BMl5BanBnXkFtZTcwNDMwMTU1Mw@@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/27578.webp",
+    "imdb_rating": "6.4",
+    "imdb_votes": "378,540",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Expendables_(2010_film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/27578.txt",
+    "plot_year_start": 2009,
+    "plot_year_end": 2009,
+    "epoch": "post-911-world",
+    "action_countries": [
+      "UNKNOWN"
+    ],
+    "action_continents": [
+      "UNKNOWN"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "criminal underworld mixed with public authority",
+        "description": "Police, politicians, agents, and gangsters occupy the same shadowy terrain, so legality and corruption often look like neighboring rooms. What you'll see: dirty detectives, mob fixers, political protection, extortion, narcotics cases, and back-room exchanges where badges and crime blend together.",
+        "icon": "🕴️"
+      }
+    ]
+  },
+  {
+    "movie_id": 73723,
+    "movie_idx": 268,
+    "imdb_id": "tt1482459",
+    "title": "The Lorax",
+    "production_year": "2012",
+    "genre": "Animation, Adventure, Comedy",
+    "plot": "In the walled city of Thneed-Ville, where everything is artificial and even the air is a commodity, a boy named Ted hopes to win the heart of his dream girl, Audrey. When he learns of her wish to see a real tree, Ted seeks out the Once-ler, a ruined old businessman outside of town in a stark wasteland. Upon hearing of how the hermit gave into his greed for profits and devastated the land over the protests of the Lorax, Ted is inspired to undo the disaster. However, the greedy Mayor of Thneed-Ville, Aloysius O'Hare, has made his fortune exploiting the environmental collapse and is determined to stop the boy from undermining his business.",
+    "runtime": "86 min",
+    "director": "Chris Renaud, Kyle Balda",
+    "actors": "Zac Efron, Taylor Swift, Danny DeVito",
+    "production_country": "United States, France",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTU1MTAwMjk1NF5BMl5BanBnXkFtZTcwMDI5NDc4Ng@@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/73723.webp",
+    "imdb_rating": "6.4",
+    "imdb_votes": "142,581",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Lorax_(film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/73723.txt",
+    "plot_year_start": 2012,
+    "plot_year_end": 2012,
+    "epoch": "post-911-world",
+    "action_countries": [
+      "UNKNOWN"
+    ],
+    "action_continents": [
+      "UNKNOWN"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "cities built on surveillance and control",
+        "description": "Urban life is increasingly managed through monitoring, restricted access, and systems that sort who belongs, who is watched, and who is shut out. What you'll see: guarded compounds, sealed communities, official escorts, suspicious strangers, and streets where movement feels observed and conditional.",
+        "icon": "📹"
+      }
+    ]
+  },
+  {
+    "movie_id": 1017066,
+    "movie_idx": 281,
+    "imdb_id": "tt21249656",
+    "title": "Heaven in Hell",
+    "production_year": "2023",
+    "genre": "Drama, Romance",
+    "plot": "Olga and Maks are 15 years apart. She is a successful woman with an established position, mother of a young adult woman, he is a handsome young man devoted to enjoy life. Fate chooses them to meet, but it also tests their relation...",
+    "runtime": "120 min",
+    "director": "Tomasz Mandes",
+    "actors": "Magdalena Boczarska, Simone Susinna, Katarzyna Sawczuk",
+    "production_country": "Poland",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNGUzYTc0NDYtZjc1YS00YjIwLThiYjItNmQxMjFmMzJhOWVmXkEyXkFqcGdeQXVyNDQ4NjgyNzg@._V1_SX300.jpg",
+    "imdb_rating": "4.0",
+    "imdb_votes": "692",
+    "plot_year_start": 2000,
+    "plot_year_end": 2020,
+    "epoch": "post-911-world",
+    "action_countries": [
+      "UNKNOWN"
+    ],
+    "action_continents": [
+      "UNKNOWN"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "home life under strain and reinvention",
+        "description": "The household is no safe given thing, but a fragile arrangement shaped by divorce, foster care, absent parents, controlling kin, and improvised substitutes. What you'll see: stepfamilies, babysitters and guardians, orphanages and adoptions, suburban houses with private miseries, and children navigating adults they cannot trust.",
+        "icon": "🏠"
+      }
+    ],
+    "failures": {
+      "poster": "poster_download_failed",
+      "wikipedia": "no_wiki_article_found"
+    }
+  },
+  {
+    "movie_id": 260513,
+    "movie_idx": 407,
+    "imdb_id": "tt3606756",
+    "title": "Incredibles 2",
+    "production_year": "2018",
+    "genre": "Animation, Action, Adventure",
+    "plot": "While the Parr family has accepted its collective calling as superheroes, the fact remains that their special heroism is still illegal. After they are arrested after unsuccessfully trying to stop the Underminer, their future seems bleak. However, the wealthy Deavor siblings of Devtech offer new hope with a bold project to rehabilitate the public image and legal status of Supers, with Elastigirl being assigned on point to be the shining example. Now having agreed for now to stay at home to care of the kids, Mr. Incredible finds domestic life a daunting challenge, especially with baby Jack-Jack's newly emerged powers making him almost impossible to manage. However, Elastigirl soon has her own concerns dealing with the menace of a new supervillain, Screenslaver, who is wreaking havoc with his mind control abilities. Now, Elastigirl must solve the mystery of this enemy, who has malevolent designs on the world with the Parr family and friends key targets of this evil.",
+    "runtime": "118 min",
+    "director": "Brad Bird",
+    "actors": "Craig T. Nelson, Holly Hunter, Sarah Vowell",
+    "production_country": "United States, Japan",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTEzNzY0OTg0NTdeQTJeQWpwZ15BbWU4MDU3OTg3MjUz._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/260513.webp",
+    "imdb_rating": "7.5",
+    "imdb_votes": "366,471",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Incredibles_2",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/260513.txt",
+    "plot_year_start": 2004,
+    "plot_year_end": 2004,
+    "epoch": "post-911-world",
+    "action_countries": [
+      "UNKNOWN"
+    ],
+    "action_continents": [
+      "UNKNOWN"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Incredibles",
+    "categories": [
+      {
+        "label": "home life under strain and reinvention",
+        "description": "The household is no safe given thing, but a fragile arrangement shaped by divorce, foster care, absent parents, controlling kin, and improvised substitutes. What you'll see: stepfamilies, babysitters and guardians, orphanages and adoptions, suburban houses with private miseries, and children navigating adults they cannot trust.",
+        "icon": "🏠"
+      }
+    ]
+  },
+  {
+    "movie_id": 1094713,
+    "movie_idx": 446,
+    "imdb_id": "tt22475528",
+    "title": "The Kept Mistress Killer",
+    "production_year": "2023",
+    "genre": "Thriller",
+    "plot": "Catherine goes to interview for a job, where she meets Paul, the CEO, who hires her on the spot. They start to fall in love and everything seems perfect until Paul's ex-wife's dead body is found in his mansion.",
+    "runtime": "90 min",
+    "director": "Jeff Hare",
+    "actors": "Alicia Leigh Willis, Matthew Pohlkamp, Sallie Glaner",
+    "production_country": "United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNWY0OWE3ODctMWM2Ni00NmJkLWJhOTgtODUzZDU4NzQyMmNkXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/1094713.webp",
+    "imdb_rating": "N/A",
+    "imdb_votes": "162",
+    "plot_year_start": 2000,
+    "plot_year_end": 2005,
+    "epoch": "post-911-world",
+    "action_countries": [
+      "UNKNOWN"
+    ],
+    "action_continents": [
+      "UNKNOWN"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "criminal underworld mixed with public authority",
+        "description": "Police, politicians, agents, and gangsters occupy the same shadowy terrain, so legality and corruption often look like neighboring rooms. What you'll see: dirty detectives, mob fixers, political protection, extortion, narcotics cases, and back-room exchanges where badges and crime blend together.",
+        "icon": "🕴️"
+      }
+    ],
+    "failures": {
+      "wikipedia": "no_wiki_article_found"
+    }
+  },
+  {
+    "movie_id": 1059638,
+    "movie_idx": 511,
+    "imdb_id": "tt27876411",
+    "title": "Mr. Car and the Knights Templar",
+    "production_year": "2023",
+    "genre": "Adventure, Drama, Family",
+    "plot": "When an art historian finds an ancient Templar cross, he must join forces with an unlikely group of adventurers on a quest to unlock the relic's secrets.",
+    "runtime": "110 min",
+    "director": "Antoni Nykowski",
+    "actors": "Mateusz Janicki, Sandra Drzymalska, Maria Debska",
+    "production_country": "Poland",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjlhYzljYTAtYTNmMi00ZWViLTllNjMtZTIxNjc3MGU1YjBhXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/1059638.webp",
+    "imdb_rating": "4.3",
+    "imdb_votes": "1,403",
+    "plot_year_start": 2000,
+    "plot_year_end": 2020,
+    "epoch": "post-911-world",
+    "action_countries": [
+      "UNKNOWN"
+    ],
+    "action_continents": [
+      "UNKNOWN"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "science tinkering beyond ordinary limits",
+        "description": "The age trusts laboratories, devices, and expert schemes to alter bodies, beasts, and the built world, even when the results outrun control. What you'll see: engineered animals, experimental serums, improbable machines, hidden lairs, artificial environments, and gadgets treated as everyday instruments of power.",
+        "icon": "🧪"
+      }
+    ],
+    "failures": {
+      "wikipedia": "no_wiki_article_found"
+    }
+  },
+  {
+    "movie_id": 297802,
+    "movie_idx": 544,
+    "imdb_id": "tt1477834",
+    "title": "Aquaman",
+    "production_year": "2018",
+    "genre": "Action, Adventure, Fantasy",
+    "plot": "Born upon the shores of the surface world, Arthur Curry (Jason Momoa) discovers that he is only half human, with the other half of his blood being of Atlanteean descent, thus making him the rightful heir to the throne of the undersea kingdom of Atlantis. However, Arthur learns that Atlantis is being ruled by his malicious half-brother Orm (Patrick Wilson), who seeks to unite the seven underwater kingdoms and wage war upon the surface. With aid from Nuidis Vulko (Willem Dafoe) and the gorgeous Mera (Amber Heard), Arthur must discover the full potential of his true destiny and become Aquaman in order to save Atlantis and the surface from Orm's evil plot.",
+    "runtime": "143 min",
+    "director": "James Wan",
+    "actors": "Jason Momoa, Amber Heard, Willem Dafoe",
+    "production_country": "United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BOTk5ODg0OTU5M15BMl5BanBnXkFtZTgwMDQ3MDY3NjM@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/297802.webp",
+    "imdb_rating": "6.8",
+    "imdb_votes": "550,663",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Aquaman_(film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/297802.txt",
+    "plot_year_start": 1985,
+    "plot_year_end": 2018,
+    "epoch": "post-911-world",
+    "action_countries": [
+      "UNKNOWN"
+    ],
+    "action_continents": [
+      "UNKNOWN"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "DC Extended Universe",
+    "categories": [
+      {
+        "label": "science tinkering beyond ordinary limits",
+        "description": "The age trusts laboratories, devices, and expert schemes to alter bodies, beasts, and the built world, even when the results outrun control. What you'll see: engineered animals, experimental serums, improbable machines, hidden lairs, artificial environments, and gadgets treated as everyday instruments of power.",
+        "icon": "🧪"
+      }
+    ]
+  },
+  {
+    "movie_id": 385128,
+    "movie_idx": 733,
+    "imdb_id": "tt5433138",
+    "title": "F9: The Fast Saga",
+    "production_year": "2021",
+    "genre": "Action, Crime, Thriller",
+    "plot": "Dom and the crew must take on an international terrorist who turns out to be Dom and Mia's estranged brother.",
+    "runtime": "143 min",
+    "director": "Justin Lin",
+    "actors": "Vin Diesel, Michelle Rodriguez, Jordana Brewster",
+    "production_country": "Japan, United States, Georgia, United Kingdom",
+    "poster": "https://m.media-amazon.com/images/M/MV5BODJkMTQ5ZmQtNzQxYy00ZWNlLWI0ZGYtYjU1NzdiMjcyNDRmXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/385128.webp",
+    "imdb_rating": "5.2",
+    "imdb_votes": "178,297",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/F9_(film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/385128.txt",
+    "plot_year_start": 1989,
+    "plot_year_end": 2021,
+    "epoch": "post-911-world",
+    "action_countries": [
+      "UNKNOWN",
+      "GB",
+      "GE",
+      "JP",
+      "TH",
+      "DE",
+      "US"
+    ],
+    "action_continents": [
+      "UNKNOWN",
+      "Europe",
+      "Asia",
+      "Asia",
+      "Asia",
+      "Europe",
+      "North America"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "criminal underworld mixed with public authority",
+        "description": "Police, politicians, agents, and gangsters occupy the same shadowy terrain, so legality and corruption often look like neighboring rooms. What you'll see: dirty detectives, mob fixers, political protection, extortion, narcotics cases, and back-room exchanges where badges and crime blend together.",
+        "icon": "🕴️"
+      },
+      {
+        "label": "science tinkering beyond ordinary limits",
+        "description": "The age trusts laboratories, devices, and expert schemes to alter bodies, beasts, and the built world, even when the results outrun control. What you'll see: engineered animals, experimental serums, improbable machines, hidden lairs, artificial environments, and gadgets treated as everyday instruments of power.",
+        "icon": "🧪"
+      }
+    ]
+  },
+  {
+    "movie_id": 20352,
+    "movie_idx": 761,
+    "imdb_id": "tt1323594",
+    "title": "Despicable Me",
+    "production_year": "2010",
+    "genre": "Animation, Adventure, Comedy",
+    "plot": "In a happy suburban neighborhood surrounded by white picket fences with flowering rose bushes, sits a black house with a dead lawn. Unbeknownst to the neighbors, hidden beneath this house is a vast secret hideout. Surrounded by a small army of minions, we discover Gru (Steve Carell), planning the biggest heist in the history of the world. He is going to steal the moon. Gru delights in all things wicked. Armed with his arsenal of shrink rays, freeze rays, and battle-ready vehicles for land and air, he vanquishes all who stand in his way. Until the day he encounters the immense will of three little orphaned girls who look at him and see something that no one else has ever seen: a potential Dad. The world's greatest villain has just met his greatest challenge: three little girls named Margo (Miranda Cosgrove), Edith (Dana Gaier), and Agnes (Elsie Fisher).",
+    "runtime": "95 min",
+    "director": "Pierre Coffin, Chris Renaud",
+    "actors": "Steve Carell, Jason Segel, Russell Brand",
+    "production_country": "United States, France",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTY3NjY0MTQ0Nl5BMl5BanBnXkFtZTcwMzQ2MTc0Mw@@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/20352.webp",
+    "imdb_rating": "7.6",
+    "imdb_votes": "628,264",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Despicable_Me_(film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/20352.txt",
+    "plot_year_start": 2010,
+    "plot_year_end": 2010,
+    "epoch": "post-911-world",
+    "action_countries": [
+      "UNKNOWN"
+    ],
+    "action_continents": [
+      "UNKNOWN"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "science tinkering beyond ordinary limits",
+        "description": "The age trusts laboratories, devices, and expert schemes to alter bodies, beasts, and the built world, even when the results outrun control. What you'll see: engineered animals, experimental serums, improbable machines, hidden lairs, artificial environments, and gadgets treated as everyday instruments of power.",
+        "icon": "🧪"
+      },
+      {
+        "label": "home life under strain and reinvention",
+        "description": "The household is no safe given thing, but a fragile arrangement shaped by divorce, foster care, absent parents, controlling kin, and improvised substitutes. What you'll see: stepfamilies, babysitters and guardians, orphanages and adoptions, suburban houses with private miseries, and children navigating adults they cannot trust.",
+        "icon": "🏠"
+      }
+    ]
+  },
+  {
+    "movie_id": 924482,
+    "movie_idx": 773,
+    "imdb_id": "tt6805938",
+    "title": "The Ledge",
+    "production_year": "2022",
+    "genre": "Action, Adventure, Thriller",
+    "plot": "A rock climbing adventure between two friends turns into a terrifying nightmare. After Kelly captures the murder of her best friend on camera, she becomes the next target of a tight-knit group of friends who will stop at nothing to destroy the evidence and anyone in their way. Desperate for her safety, she begins a treacherous climb up a mountain cliff and her survival instincts are put to the test when she becomes trapped with the killers just 20 feet away.",
+    "runtime": "86 min",
+    "director": "Howard J. Ford",
+    "actors": "Brittany Ashworth, Ben Lamb, Louis Boyer",
+    "production_country": "United Kingdom",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNTRhNWM0MGMtNzc5My00N2NkLTk0MzgtMDk3NmFkNjY3MGNlXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/924482.webp",
+    "imdb_rating": "5.2",
+    "imdb_votes": "7,470",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Ledge",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/924482.txt",
+    "plot_year_start": 2010,
+    "plot_year_end": 2010,
+    "epoch": "post-911-world",
+    "action_countries": [
+      "UNKNOWN"
+    ],
+    "action_continents": [
+      "UNKNOWN"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "ordinary people living with social precarity",
+        "description": "Beneath bright consumer surfaces lie insecure wages, damaged careers, medical shocks, and the fear of falling out of the middle of society. What you'll see: suspended workers, office drudgery, family shops in trouble, court-appointed treatment, cash shortages, and anxious hustling to keep a place in the world.",
+        "icon": "💸"
+      }
+    ]
+  },
+  {
+    "movie_id": 11836,
+    "movie_idx": 981,
+    "imdb_id": "tt0345950",
+    "title": "The SpongeBob SquarePants Movie",
+    "production_year": "2004",
+    "genre": "Animation, Adventure, Comedy",
+    "plot": "After King Neptune's crown is stolen, SpongeBob and Patrick go on a quest in 6 days to retrieve his crown. On the way SpongeBob and Patrick defeat many evildoers using their brains and bronzes. While this is happening someone is taking over Bikini Bottom and SpongeBob and Patrick must defeat this mastermind.",
+    "runtime": "87 min",
+    "director": "Stephen Hillenburg, Mark Osborne",
+    "actors": "Tom Kenny, Jeffrey Tambor, Rodger Bumpass",
+    "production_country": "United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZTRhZDUzMjktOTJhMC00YjNlLTk5YjAtNTdiYTVmMzc1YTQ1XkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/11836.webp",
+    "imdb_rating": "7.2",
+    "imdb_votes": "110,156",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/The_SpongeBob_SquarePants_Movie",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/11836.txt",
+    "plot_year_start": 2004,
+    "plot_year_end": 2004,
+    "epoch": "post-911-world",
+    "action_countries": [
+      "UNKNOWN"
+    ],
+    "action_continents": [
+      "UNKNOWN"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "criminal underworld mixed with public authority",
+        "description": "Police, politicians, agents, and gangsters occupy the same shadowy terrain, so legality and corruption often look like neighboring rooms. What you'll see: dirty detectives, mob fixers, political protection, extortion, narcotics cases, and back-room exchanges where badges and crime blend together.",
+        "icon": "🕴️"
+      }
+    ]
+  },
+  {
+    "movie_id": 936952,
+    "movie_idx": 1021,
+    "imdb_id": "tt8452344",
+    "title": "Sitting in Bars with Cake",
+    "production_year": "2023",
+    "genre": "Comedy, Drama, Romance",
+    "plot": "Corinne convinces Jane, a shy, talented baker, to bring cakes to bars, to help her build confidence. But when Corinne receives a life-altering diagnosis, the pair faces a challenge unlike anything they've experienced before.",
+    "runtime": "120 min",
+    "director": "Trish Sie",
+    "actors": "Yara Shahidi, Odessa A'zion, Bette Midler",
+    "production_country": "United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYmI5YTFlMzMtMTdiMy00ZTJkLWFkMTMtYjA2NmJkMmQ3ZGY3XkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/936952.webp",
+    "imdb_rating": "6.4",
+    "imdb_votes": "3,557",
+    "plot_year_start": 2000,
+    "plot_year_end": 2025,
+    "epoch": "post-911-world",
+    "action_countries": [
+      "UNKNOWN"
+    ],
+    "action_continents": [
+      "UNKNOWN"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "home life under strain and reinvention",
+        "description": "The household is no safe given thing, but a fragile arrangement shaped by divorce, foster care, absent parents, controlling kin, and improvised substitutes. What you'll see: stepfamilies, babysitters and guardians, orphanages and adoptions, suburban houses with private miseries, and children navigating adults they cannot trust.",
+        "icon": "🏠"
+      }
+    ],
+    "failures": {
+      "wikipedia": "no_wiki_article_found"
+    }
+  },
+  {
+    "movie_id": 604,
+    "movie_idx": 1215,
+    "imdb_id": "tt0234215",
+    "title": "The Matrix Reloaded",
+    "production_year": "2003",
+    "genre": "Action, Sci-Fi",
+    "plot": "In this second adventure, Neo and the rebel leaders estimate that they have 72 hours until Zion falls under siege to the Machine Army. Only a matter of hours separates the last human enclave on Earth from 250,000 Sentinels programmed to destroy mankind. But the citizens of Zion, emboldened by Morpheus conviction that the One will fulfill the Oracles Prophecy and end the war with the Machines, rest all manner of hope and expectation on Neo, who finds himself stalled by disturbing visions as he searches for a course of action.",
+    "runtime": "138 min",
+    "director": "Lana Wachowski, Lilly Wachowski",
+    "actors": "Keanu Reeves, Laurence Fishburne, Carrie-Anne Moss",
+    "production_country": "United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNjAxYjkxNjktYTU0YS00NjFhLWIyMDEtMzEzMTJjMzRkMzQ1XkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/604.webp",
+    "imdb_rating": "7.2",
+    "imdb_votes": "666,077",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Matrix_Reloaded",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/604.txt",
+    "plot_year_start": 2003,
+    "plot_year_end": 2003,
+    "epoch": "post-911-world",
+    "action_countries": [
+      "UNKNOWN"
+    ],
+    "action_continents": [
+      "UNKNOWN"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "governments acting through hidden powers",
+        "description": "Public authority does not stop at courts and uniforms, but reaches into secret prisons, covert agencies, and unofficial bargains made out of sight. What you'll see: black sites, deep-cover operatives, sealed rooms, handlers and informants, and officials whose power is hard to name but easy to fear.",
+        "icon": "🕵️"
+      },
+      {
+        "label": "cities built on surveillance and control",
+        "description": "Urban life is increasingly managed through monitoring, restricted access, and systems that sort who belongs, who is watched, and who is shut out. What you'll see: guarded compounds, sealed communities, official escorts, suspicious strangers, and streets where movement feels observed and conditional.",
+        "icon": "📹"
+      }
+    ]
+  },
+  {
+    "movie_id": 10555,
+    "movie_idx": 1231,
+    "imdb_id": "tt0307453",
+    "title": "Shark Tale",
+    "production_year": "2004",
+    "genre": "Animation, Adventure, Comedy",
+    "plot": "The sea underworld is shaken up when the son of shark mob boss Don Lino (Robert De Niro) is found dead, and a young fish named Oscar (Will Smith) is found at the scene. Being a bottom feeder, Oscar takes advantage of the situation and makes himself look like he killed the finned mobster. Oscar soon comes to realize that his claim may have serious consequences.",
+    "runtime": "90 min",
+    "director": "Bibo Bergeron, Vicky Jenson, Rob Letterman",
+    "actors": "Will Smith, Robert De Niro, Renée Zellweger",
+    "production_country": "United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTMxMjY0NzE2M15BMl5BanBnXkFtZTcwNTc3ODcyMw@@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/10555.webp",
+    "imdb_rating": "6.0",
+    "imdb_votes": "211,362",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Shark_Tale",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/10555.txt",
+    "plot_year_start": 2004,
+    "plot_year_end": 2004,
+    "epoch": "post-911-world",
+    "action_countries": [
+      "UNKNOWN"
+    ],
+    "action_continents": [
+      "UNKNOWN"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "criminal underworld mixed with public authority",
+        "description": "Police, politicians, agents, and gangsters occupy the same shadowy terrain, so legality and corruption often look like neighboring rooms. What you'll see: dirty detectives, mob fixers, political protection, extortion, narcotics cases, and back-room exchanges where badges and crime blend together.",
+        "icon": "🕴️"
+      },
+      {
+        "label": "consumption sold as a way of life",
+        "description": "Status and belonging are tied to branded pleasures, talent showcases, self-improvement, and purchasable experiences, even when the promise rings hollow. What you'll see: private schools, record labels, bars and showcases, candy empires, curated neighborhoods, and people measuring worth through display and access.",
+        "icon": "🛍️"
+      }
+    ]
+  },
+  {
+    "movie_id": 38055,
+    "movie_idx": 1280,
+    "imdb_id": "tt1001526",
+    "title": "Megamind",
+    "production_year": "2010",
+    "genre": "Animation, Action, Adventure",
+    "plot": "After super-villain Megamind (Ferrell) kills his good-guy nemesis, Metro Man (Pitt), he becomes bored since there is no one left to fight. He creates a new foe, Titan (Hill), who, instead of using his powers for good, sets out to destroy the world, positioning Megamind to save the day for the first time in his life.",
+    "runtime": "95 min",
+    "director": "Tom McGrath",
+    "actors": "Will Ferrell, Jonah Hill, Brad Pitt",
+    "production_country": "United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTAzMzI0NTMzNDBeQTJeQWpwZ15BbWU3MDM3NTAyOTM@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/38055.webp",
+    "imdb_rating": "7.3",
+    "imdb_votes": "322,951",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Megamind",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/38055.txt",
+    "plot_year_start": 2010,
+    "plot_year_end": 2010,
+    "epoch": "post-911-world",
+    "action_countries": [
+      "UNKNOWN"
+    ],
+    "action_continents": [
+      "UNKNOWN"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "science tinkering beyond ordinary limits",
+        "description": "The age trusts laboratories, devices, and expert schemes to alter bodies, beasts, and the built world, even when the results outrun control. What you'll see: engineered animals, experimental serums, improbable machines, hidden lairs, artificial environments, and gadgets treated as everyday instruments of power.",
+        "icon": "🧪"
+      },
+      {
+        "label": "cities built on surveillance and control",
+        "description": "Urban life is increasingly managed through monitoring, restricted access, and systems that sort who belongs, who is watched, and who is shut out. What you'll see: guarded compounds, sealed communities, official escorts, suspicious strangers, and streets where movement feels observed and conditional.",
+        "icon": "📹"
+      }
+    ]
+  },
+  {
+    "movie_id": 1104771,
+    "movie_idx": 1286,
+    "imdb_id": "tt13431018",
+    "title": "My House",
+    "production_year": "2023",
+    "genre": "Drama, Horror, Thriller",
+    "plot": "Carla, confined at home with her controlling father, encounters a stranger. Questioning their seclusion, she uncovers disturbing truths altering her perception of reality.",
+    "runtime": "89 min",
+    "director": "Nick Norman-Butler",
+    "actors": "Francis Magee, Michelle Collins, Mirren Mack",
+    "production_country": "United Kingdom",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZGFjZTkwMjEtNzg1NC00OTA2LTljNTItODI3M2M3NGE0YjEzXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/1104771.webp",
+    "imdb_rating": "3.8",
+    "imdb_votes": "274",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/My_House",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/1104771.txt",
+    "plot_year_start": 2000,
+    "plot_year_end": 2003,
+    "epoch": "post-911-world",
+    "action_countries": [
+      "UNKNOWN"
+    ],
+    "action_continents": [
+      "UNKNOWN"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "home life under strain and reinvention",
+        "description": "The household is no safe given thing, but a fragile arrangement shaped by divorce, foster care, absent parents, controlling kin, and improvised substitutes. What you'll see: stepfamilies, babysitters and guardians, orphanages and adoptions, suburban houses with private miseries, and children navigating adults they cannot trust.",
+        "icon": "🏠"
+      }
+    ]
+  },
+  {
+    "movie_id": 52520,
+    "movie_idx": 1333,
+    "imdb_id": "tt1496025",
+    "title": "Underworld: Awakening",
+    "production_year": "2012",
+    "genre": "Action, Fantasy, Thriller",
+    "plot": "Mankind discover the existence of the Vampire and Lycan species and begin a war to annihilate the races. When Selene meets with Michael, they're hit by a grenade. 12 years later, Selene awakens and meets the vampire, David. She learns she had been the subject of scientist Dr. Jacob Lane, and the Vampire and Lycan species have been practically eradicated from Earth. Now, Selene and David must protect a 12-year-old girl against the Lycans who intend to use her.",
+    "runtime": "88 min",
+    "director": "Måns Mårlind, Björn Stein",
+    "actors": "Kate Beckinsale, Michael Ealy, India Eisley",
+    "production_country": "United States, Canada",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjAxMjc0ODk0OF5BMl5BanBnXkFtZTcwMTc5NDQwNw@@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/52520.webp",
+    "imdb_rating": "6.3",
+    "imdb_votes": "166,979",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Underworld:_Awakening",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/52520.txt",
+    "plot_year_start": 2000,
+    "plot_year_end": 2012,
+    "epoch": "post-911-world",
+    "action_countries": [
+      "UNKNOWN"
+    ],
+    "action_continents": [
+      "UNKNOWN"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Underworld",
+    "categories": [
+      {
+        "label": "governments acting through hidden powers",
+        "description": "Public authority does not stop at courts and uniforms, but reaches into secret prisons, covert agencies, and unofficial bargains made out of sight. What you'll see: black sites, deep-cover operatives, sealed rooms, handlers and informants, and officials whose power is hard to name but easy to fear.",
+        "icon": "🕵️"
+      },
+      {
+        "label": "science tinkering beyond ordinary limits",
+        "description": "The age trusts laboratories, devices, and expert schemes to alter bodies, beasts, and the built world, even when the results outrun control. What you'll see: engineered animals, experimental serums, improbable machines, hidden lairs, artificial environments, and gadgets treated as everyday instruments of power.",
+        "icon": "🧪"
+      }
+    ]
+  },
+  {
+    "movie_id": 427719,
+    "movie_idx": 1390,
+    "imdb_id": "tt6189052",
+    "title": "X-Rated 2: The Greatest Adult Stars of All Time!",
+    "production_year": "2016",
+    "genre": "Documentary, Adult",
+    "plot": "Documentary sequel that offers a close-up look into the personal lives of the legendary porn stars who've survived the test of time and influenced popular culture. Blends rare interviews with erotic clips and additional appearance...",
+    "runtime": "87 min",
+    "director": "Bryn Pryor",
+    "actors": "Mr. Skin, Asa Akira, Anikka Albrite",
+    "production_country": "United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYWFlOWJiZTAtZmQ3MC00ZjQ2LTg1NWEtMDA5Y2IzZTRhNGFlXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/427719.webp",
+    "imdb_rating": "6.4",
+    "imdb_votes": "242",
+    "plot_year_start": 2000,
+    "plot_year_end": 2009,
+    "epoch": "post-911-world",
+    "action_countries": [
+      "UNKNOWN"
+    ],
+    "action_continents": [
+      "UNKNOWN"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "consumption sold as a way of life",
+        "description": "Status and belonging are tied to branded pleasures, talent showcases, self-improvement, and purchasable experiences, even when the promise rings hollow. What you'll see: private schools, record labels, bars and showcases, candy empires, curated neighborhoods, and people measuring worth through display and access.",
+        "icon": "🛍️"
+      }
+    ],
+    "failures": {
+      "wikipedia": "no_wiki_article_found"
+    }
+  },
+  {
+    "movie_id": 109428,
+    "movie_idx": 1420,
+    "imdb_id": "tt1288558",
+    "title": "Evil Dead",
+    "production_year": "2013",
+    "genre": "Horror, Thriller",
+    "plot": "Five twenty-something friends become holed up in a remote cabin. When they discover a Book of the Dead, they unwittingly summon up dormant demons living in the nearby woods, which possess the youngsters in succession until only one is left intact to fight for survival.",
+    "runtime": "91 min",
+    "director": "Fede Alvarez",
+    "actors": "Jane Levy, Shiloh Fernandez, Jessica Lucas",
+    "production_country": "United States, New Zealand, Australia",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYjkwODM5ZWUtMjI2Ni00Y2RiLWJkNDYtZWQ2ZTRhMjI1N2FmXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/109428.webp",
+    "imdb_rating": "6.5",
+    "imdb_votes": "210,338",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Evil_Dead_(2013_film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/109428.txt",
+    "plot_year_start": 2010,
+    "plot_year_end": 2013,
+    "epoch": "post-911-world",
+    "action_countries": [
+      "UNKNOWN"
+    ],
+    "action_continents": [
+      "UNKNOWN"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "home life under strain and reinvention",
+        "description": "The household is no safe given thing, but a fragile arrangement shaped by divorce, foster care, absent parents, controlling kin, and improvised substitutes. What you'll see: stepfamilies, babysitters and guardians, orphanages and adoptions, suburban houses with private miseries, and children navigating adults they cannot trust.",
+        "icon": "🏠"
+      }
+    ]
+  },
+  {
+    "movie_id": 277,
+    "movie_idx": 1450,
+    "imdb_id": "tt0320691",
+    "title": "Underworld",
+    "production_year": "2003",
+    "genre": "Action, Fantasy, Thriller",
+    "plot": "Against the backdrop of an unseen centuries-old war between the sophisticated Vampire clan and the brutish clan of lycanthropes, the Lycans, the lethally alluring vampire assassin and member of the elite \"Death Dealers\" squad, Selene, has devoted her existence to eradicating the earth's scattered pockets of remaining werewolves. With the death of the Lycans' supreme overlord, Lucian, the vampires' victory seems near; however, when their arch-enemy takes a special interest in the seemingly harmless human doctor, Michael Corvin, Selene will unearth a long-standing conspiracy. Now, treason, deceit, and conflicting feelings stand in the way of truth, forcing Selene to break protocol for the sake of the vampire race. Can a forbidden relationship put in jeopardy her noble quest? Is this the beginning of a new era, and an entirely different war?",
+    "runtime": "121 min",
+    "director": "Len Wiseman",
+    "actors": "Kate Beckinsale, Scott Speedman, Shane Brolly",
+    "production_country": "United States, United Kingdom, Germany, Hungary",
+    "poster": "https://m.media-amazon.com/images/M/MV5BOWIwZjFkYjktZTI3My00YzhkLWI5NmUtZDYyMTg5ZWVmODZkXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/277.webp",
+    "imdb_rating": "7.0",
+    "imdb_votes": "299,220",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Underworld_(2003_film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/277.txt",
+    "plot_year_start": 2003,
+    "plot_year_end": 2003,
+    "epoch": "post-911-world",
+    "action_countries": [
+      "UNKNOWN"
+    ],
+    "action_continents": [
+      "UNKNOWN"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "criminal underworld mixed with public authority",
+        "description": "Police, politicians, agents, and gangsters occupy the same shadowy terrain, so legality and corruption often look like neighboring rooms. What you'll see: dirty detectives, mob fixers, political protection, extortion, narcotics cases, and back-room exchanges where badges and crime blend together.",
+        "icon": "🕴️"
+      },
+      {
+        "label": "governments acting through hidden powers",
+        "description": "Public authority does not stop at courts and uniforms, but reaches into secret prisons, covert agencies, and unofficial bargains made out of sight. What you'll see: black sites, deep-cover operatives, sealed rooms, handlers and informants, and officials whose power is hard to name but easy to fear.",
+        "icon": "🕵️"
+      }
+    ]
+  },
+  {
+    "movie_id": 977209,
+    "movie_idx": 1504,
+    "imdb_id": "tt20247796",
+    "title": "Antikalpa",
+    "production_year": "2023",
+    "genre": "Horror",
+    "plot": "Follows some high school students that are practicing mysterious rituals with demonic results.",
+    "runtime": "94 min",
+    "director": "Philip Wen-Han Shih",
+    "actors": "Regina Lei, Wan-Ting Tseng, Michael Chang",
+    "production_country": "Taiwan",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMmQ1OTFjM2ItM2VhMy00NTRhLTk3YmYtOGU1ZTU5ZTE3MWE2XkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/977209.webp",
+    "imdb_rating": "N/A",
+    "imdb_votes": "93",
+    "plot_year_start": 2000,
+    "plot_year_end": 2009,
+    "epoch": "post-911-world",
+    "action_countries": [
+      "UNKNOWN"
+    ],
+    "action_continents": [
+      "UNKNOWN"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "science tinkering beyond ordinary limits",
+        "description": "The age trusts laboratories, devices, and expert schemes to alter bodies, beasts, and the built world, even when the results outrun control. What you'll see: engineered animals, experimental serums, improbable machines, hidden lairs, artificial environments, and gadgets treated as everyday instruments of power.",
+        "icon": "🧪"
+      }
+    ],
+    "failures": {
+      "wikipedia": "no_wiki_article_found"
+    }
+  },
+  {
+    "movie_id": 55301,
+    "movie_idx": 1685,
+    "imdb_id": "tt1615918",
+    "title": "Alvin and the Chipmunks: Chipwrecked",
+    "production_year": "2011",
+    "genre": "Animation, Adventure, Comedy",
+    "plot": "Playing around while aboard a cruise ship, the Chipmunks and Chipettes accidentally go overboard and end up marooned in a tropical paradise. They discover their new turf is not as deserted as it seems.",
+    "runtime": "87 min",
+    "director": "Mike Mitchell",
+    "actors": "Jason Lee, David Cross, Jenny Slate",
+    "production_country": "United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNmE1NDE2MzktMzRkMi00YzRkLWFmMjYtZjlkODFkNTFkYzQxXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/55301.webp",
+    "imdb_rating": "4.4",
+    "imdb_votes": "43,421",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Alvin_and_the_Chipmunks:_Chipwrecked",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/55301.txt",
+    "plot_year_start": 2011,
+    "plot_year_end": 2011,
+    "epoch": "post-911-world",
+    "action_countries": [
+      "UNKNOWN"
+    ],
+    "action_continents": [
+      "UNKNOWN"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "global travel opening onto sudden danger",
+        "description": "Cheap movement across borders for work, family, or leisure brings people into unfamiliar places where local upheaval, isolation, or predation can overtake them fast. What you'll see: airports and cruise ships, tropical resorts, foreign capitals, island getaways, and travelers learning too late how far they are from help.",
+        "icon": "✈️"
+      }
+    ]
+  },
+  {
+    "movie_id": 39324,
+    "movie_idx": 2099,
+    "imdb_id": "tt0142247",
+    "title": "Dragon Ball Z: The History of Trunks",
+    "production_year": "1993",
+    "genre": "Animation, Action, Adventure",
+    "plot": "This TV Movie tells the story of \"Future\" Trunks; that is, the Trunks from the alternate future where Goku has died and Androids terrorize the Earth. Amongst other things, it shows how Gohan trained Trunks, their fights with the Androids, and what inspired Trunks to go time traveling.",
+    "runtime": "47 min",
+    "director": "Yoshihiro Ueda, Daisuke Nishio",
+    "actors": "Masako Nozawa, Mayumi Tanaka, Hiromi Tsuru",
+    "production_country": "Japan",
+    "poster": "https://m.media-amazon.com/images/M/MV5BODYxNzdlODYtYjJjMi00ZDI3LTkxYTgtNTRmNmY1ODM5ZDliXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/39324.webp",
+    "imdb_rating": "7.8",
+    "imdb_votes": "6,968",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Dragon_Ball_Z:_The_History_of_Trunks",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/39324.txt",
+    "plot_year_start": 1993,
+    "plot_year_end": 2016,
+    "epoch": "post-911-world",
+    "action_countries": [
+      "UNKNOWN"
+    ],
+    "action_continents": [
+      "UNKNOWN"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Dragon Ball",
+    "categories": [
+      {
+        "label": "science tinkering beyond ordinary limits",
+        "description": "The age trusts laboratories, devices, and expert schemes to alter bodies, beasts, and the built world, even when the results outrun control. What you'll see: engineered animals, experimental serums, improbable machines, hidden lairs, artificial environments, and gadgets treated as everyday instruments of power.",
+        "icon": "🧪"
+      },
+      {
+        "label": "global travel opening onto sudden danger",
+        "description": "Cheap movement across borders for work, family, or leisure brings people into unfamiliar places where local upheaval, isolation, or predation can overtake them fast. What you'll see: airports and cruise ships, tropical resorts, foreign capitals, island getaways, and travelers learning too late how far they are from help.",
+        "icon": "✈️"
+      }
+    ]
+  },
+  {
+    "movie_id": 10063,
+    "movie_idx": 2210,
+    "imdb_id": "tt0455362",
+    "title": "The Breed",
+    "production_year": "2006",
+    "genre": "Action, Comedy, Horror",
+    "plot": "When the bad boy John inherits an isolated house in an island, he invites his brother and student of veterinary Matt and his girlfriend Nikki together with their common friends Sara and Noah to fly with him in his hydroplane and spend a couple of days having good time in the place. Later Sara is attacked by a dog and they recall that in the other side of the island there was a facility for training dogs that had been shutdown to avoid a rabies outbreak. While walking through the woods, they find a man called Luke, who sailed with his girlfriend Jenny to the island, covered of blood and Luke is killed by a pack of hounds. The group runs to the house and the animals put the place under siege, and they try to find a means of escape. When the survivors reach the compound, they disclose that the dogs have been genetically redesigned to become a breed of killers.",
+    "runtime": "91 min",
+    "director": "Nicholas Mastandrea",
+    "actors": "Michelle Rodriguez, Oliver Hudson, Taryn Manning",
+    "production_country": "Germany, South Africa, United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjg5ODA5MzAxMV5BMl5BanBnXkFtZTgwMzkyNDM2MTI@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/10063.webp",
+    "imdb_rating": "5.1",
+    "imdb_votes": "14,822",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Breed_(2006_film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/10063.txt",
+    "plot_year_start": 2006,
+    "plot_year_end": 2006,
+    "epoch": "post-911-world",
+    "action_countries": [
+      "UNKNOWN"
+    ],
+    "action_continents": [
+      "UNKNOWN"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "science tinkering beyond ordinary limits",
+        "description": "The age trusts laboratories, devices, and expert schemes to alter bodies, beasts, and the built world, even when the results outrun control. What you'll see: engineered animals, experimental serums, improbable machines, hidden lairs, artificial environments, and gadgets treated as everyday instruments of power.",
+        "icon": "🧪"
+      }
+    ]
+  },
+  {
+    "movie_id": 1155458,
+    "movie_idx": 2306,
+    "imdb_id": "tt22048932",
+    "title": "The Strange Case of a Claustrophobic Ghost",
+    "production_year": "2023",
+    "genre": "Fantasy",
+    "plot": "Follows a teenager who claims that there is an entity in his closet.",
+    "runtime": "117 min",
+    "director": "Alejandro Sugich",
+    "actors": "Rodrigo Cachero, Ana Emilia, Fausto Espejel",
+    "production_country": "Mexico",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMmQyZGY4ZmYtMjI3OC00ODllLTlkMmEtOGM3Yjk4OWIzNDlmXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/1155458.webp",
+    "imdb_rating": "4.7",
+    "imdb_votes": "190",
+    "plot_year_start": 2000,
+    "plot_year_end": 2020,
+    "epoch": "post-911-world",
+    "action_countries": [
+      "UNKNOWN"
+    ],
+    "action_continents": [
+      "UNKNOWN"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "home life under strain and reinvention",
+        "description": "The household is no safe given thing, but a fragile arrangement shaped by divorce, foster care, absent parents, controlling kin, and improvised substitutes. What you'll see: stepfamilies, babysitters and guardians, orphanages and adoptions, suburban houses with private miseries, and children navigating adults they cannot trust.",
+        "icon": "🏠"
+      }
+    ],
+    "failures": {
+      "wikipedia": "no_wiki_article_found"
+    }
+  },
+  {
+    "movie_id": 16418,
+    "movie_idx": 2442,
+    "imdb_id": "tt1398940",
+    "title": "Barbie Presents: Thumbelina",
+    "production_year": "2009",
+    "genre": "Animation, Family",
+    "plot": "Barbie tells on a new story, Thumbelina. A story about a fairy who befriend a human girl, and both cooperate their strength in an attempt to save the fairies trees.",
+    "runtime": "75 min",
+    "director": "Conrad Helten",
+    "actors": "Kelly Sheridan, Anna Cummer, Kelly Metzger, Tabitha St. Germain",
+    "production_country": "Canada, USA",
+    "poster": "https://m.media-amazon.com/images/M/MV5BM2YwMzY4MzgtNjE5ZS00OWI4LTljZmYtZjVmMGM3MGRhMDIzXkEyXkFqcGdeQXVyNDE5MTU2MDE@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/16418.webp",
+    "imdb_rating": "5.8",
+    "imdb_votes": "1,510",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Barbie:_Thumbelina",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/16418.txt",
+    "plot_year_start": 2000,
+    "plot_year_end": 2009,
+    "epoch": "post-911-world",
+    "action_countries": [
+      "UNKNOWN"
+    ],
+    "action_continents": [
+      "UNKNOWN"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Barbie",
+    "categories": [
+      {
+        "label": "home life under strain and reinvention",
+        "description": "The household is no safe given thing, but a fragile arrangement shaped by divorce, foster care, absent parents, controlling kin, and improvised substitutes. What you'll see: stepfamilies, babysitters and guardians, orphanages and adoptions, suburban houses with private miseries, and children navigating adults they cannot trust.",
+        "icon": "🏠"
+      }
+    ]
+  },
+  {
+    "movie_id": 702037,
+    "movie_idx": 2486,
+    "imdb_id": "tt9585860",
+    "title": "Finley",
+    "production_year": "2019",
+    "genre": "Short, Comedy, Horror",
+    "plot": "\"Finley\" is a cheerfully energetic horror short following the shenanigans of a wooden puppet as he tries to kill a group of college kids who have moved into his house.",
+    "runtime": "25 min",
+    "director": "J. Zachary Thurman",
+    "actors": "Alexa Leigh Fletcher, Brooke Wallace, Keith Dowsett",
+    "production_country": "N/A",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYjFhNWY4MTktMTlkZS00NWI3LWE2YTYtYjE4NjlhNDhhNjc0XkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/702037.webp",
+    "imdb_rating": "7.7",
+    "imdb_votes": "432",
+    "plot_year_start": 2000,
+    "plot_year_end": 2020,
+    "epoch": "post-911-world",
+    "action_countries": [
+      "UNKNOWN"
+    ],
+    "action_continents": [
+      "UNKNOWN"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "home life under strain and reinvention",
+        "description": "The household is no safe given thing, but a fragile arrangement shaped by divorce, foster care, absent parents, controlling kin, and improvised substitutes. What you'll see: stepfamilies, babysitters and guardians, orphanages and adoptions, suburban houses with private miseries, and children navigating adults they cannot trust.",
+        "icon": "🏠"
+      }
+    ],
+    "failures": {
+      "wikipedia": "no_wiki_article_found"
+    }
+  },
+  {
+    "movie_id": 1027919,
+    "movie_idx": 2733,
+    "imdb_id": "tt22206922",
+    "title": "Three Blind Mice",
+    "production_year": "2023",
+    "genre": "Horror",
+    "plot": "Abi is going cold turkey, her family have taken her to a cabin in the woods so she is away from the city. However, little do they know, The Three Blind Mice is more than just a fairy tale.. And they may be next up on the menu.",
+    "runtime": "83 min",
+    "director": "Pierre B",
+    "actors": "May Kelly, Lila Lasso, Karl Hughes",
+    "production_country": "United Kingdom",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNGUwMDI1ZTItODc0OS00NGZjLWI0ZDgtYTUyZTFlOTEwYTBhXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/1027919.webp",
+    "imdb_rating": "3.0",
+    "imdb_votes": "405",
+    "plot_year_start": 2000,
+    "plot_year_end": 2009,
+    "epoch": "post-911-world",
+    "action_countries": [
+      "UNKNOWN"
+    ],
+    "action_continents": [
+      "UNKNOWN"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "security fears shaping public life",
+        "description": "Daily life is shadowed by the sense that sudden attack, outbreak, or public disorder can erupt without warning, and institutions answer with watchfulness and force. What you'll see: embassies under guard, checkpoints and barricades, emergency quarantines, armed responders, and crowds panicking as order thins.",
+        "icon": "🚧"
+      }
+    ],
+    "failures": {
+      "wikipedia": "no_wiki_article_found"
+    }
+  },
+  {
+    "movie_id": 14164,
+    "movie_idx": 3249,
+    "imdb_id": "tt1098327",
+    "title": "Dragonball Evolution",
+    "production_year": "2009",
+    "genre": "Action, Adventure, Fantasy",
+    "plot": "With his beloved grandfather, Gohan, on the verge of death after demon Lord Piccolo's botched attempt to find one of the legendary Dragon Balls, eighteen-year-old Son Goku embarks on a mission to find the wise martial arts master and innovator of the Kamehameha technique, Master Roshi. Now, to thwart megalomaniac Piccolo's plans for world domination, Son Goku, along with a handful of brave defenders, must gather all seven mystical Dragon Balls before the next solar eclipse. Who will prevail in the final confrontation and the battle for Earth's future?",
+    "runtime": "85 min",
+    "director": "James Wong",
+    "actors": "Justin Chatwin, James Marsters, Chow Yun-Fat",
+    "production_country": "United States, United Kingdom, Mexico, Hong Kong",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZTg0ZGM3NmItNmU4ZC00YWIxLWI0Y2UtMzNmYjE4MjIwM2QxXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/14164.webp",
+    "imdb_rating": "2.5",
+    "imdb_votes": "84,513",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Dragonball_Evolution",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/14164.txt",
+    "plot_year_start": 2009,
+    "plot_year_end": 2009,
+    "epoch": "post-911-world",
+    "action_countries": [
+      "UNKNOWN"
+    ],
+    "action_continents": [
+      "UNKNOWN"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Dragon Ball",
+    "categories": [
+      {
+        "label": "science tinkering beyond ordinary limits",
+        "description": "The age trusts laboratories, devices, and expert schemes to alter bodies, beasts, and the built world, even when the results outrun control. What you'll see: engineered animals, experimental serums, improbable machines, hidden lairs, artificial environments, and gadgets treated as everyday instruments of power.",
+        "icon": "🧪"
+      }
+    ]
+  },
+  {
+    "movie_id": 185341,
+    "movie_idx": 3307,
+    "imdb_id": "tt1649443",
+    "title": "[REC] 4: Apocalypse",
+    "production_year": "2014",
+    "genre": "Action, Adventure, Fantasy",
+    "plot": "Ángela Vidal, the spunky young television reporter that entered the building in 2007 has exited with the swat team. Little do they know that she carries the seed of the strange demonic infection. She is taken to an oil tanker miles off shore which has been especially equipped for the quarantine...",
+    "runtime": "95 min",
+    "director": "Jaume Balagueró",
+    "actors": "Manuela Velasco, Paco Manzanedo, Héctor Colomé",
+    "production_country": "Spain",
+    "poster": "https://m.media-amazon.com/images/M/MV5BOTU3OTU2ODc5MF5BMl5BanBnXkFtZTgwNjY3MDY2MzE@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/185341.webp",
+    "imdb_rating": "5.3",
+    "imdb_votes": "21,996",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Rec_4:_Apocalypse",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/185341.txt",
+    "plot_year_start": 2007,
+    "plot_year_end": 2007,
+    "epoch": "post-911-world",
+    "action_countries": [
+      "UNKNOWN",
+      "UNKNOWN"
+    ],
+    "action_continents": [
+      "UNKNOWN",
+      "UNKNOWN"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "cities built on surveillance and control",
+        "description": "Urban life is increasingly managed through monitoring, restricted access, and systems that sort who belongs, who is watched, and who is shut out. What you'll see: guarded compounds, sealed communities, official escorts, suspicious strangers, and streets where movement feels observed and conditional.",
+        "icon": "📹"
+      },
+      {
+        "label": "governments acting through hidden powers",
+        "description": "Public authority does not stop at courts and uniforms, but reaches into secret prisons, covert agencies, and unofficial bargains made out of sight. What you'll see: black sites, deep-cover operatives, sealed rooms, handlers and informants, and officials whose power is hard to name but easy to fear.",
+        "icon": "🕵️"
+      }
+    ]
+  },
+  {
+    "movie_id": 205724,
+    "movie_idx": 3858,
+    "imdb_id": "tt2193265",
+    "title": "Welcome to the Jungle",
+    "production_year": "2013",
+    "genre": "Action, Adventure, Comedy",
+    "plot": "Eager to climb the corporate ladder, the nice guy and low-level office drone, Chris, sees his hard work go down the drain when an arrogant and conniving co-worker steals his brilliant idea and lands an important client. Under those circumstances, the tough ex-Marine and determined team-building coach, Storm Rothschild, leads the mismatched office team to a remote tropical island for a mandatory two-day character-building course. However, there, on the secluded haven, whatever can go wrong will go wrong, as ravenous ambition, unpunished rebellion, frail allegiances, and even a ferocious man-eating tiger get in the way of the stranded employees' safe return to civilisation. Does the team have what it takes to survive?",
+    "runtime": "95 min",
+    "director": "Rob Meltzer",
+    "actors": "Jean-Claude Van Damme, Adam Brody, Rob Huebel",
+    "production_country": "Puerto Rico, United States, United Kingdom",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTUyNDk5ODE0OV5BMl5BanBnXkFtZTgwMDMyNzE4MDE@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/205724.webp",
+    "imdb_rating": "4.9",
+    "imdb_votes": "14,264",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Welcome_to_the_Jungle_(2013_film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/205724.txt",
+    "plot_year_start": 2013,
+    "plot_year_end": 2013,
+    "epoch": "post-911-world",
+    "action_countries": [
+      "UNKNOWN"
+    ],
+    "action_continents": [
+      "UNKNOWN"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "global travel opening onto sudden danger",
+        "description": "Cheap movement across borders for work, family, or leisure brings people into unfamiliar places where local upheaval, isolation, or predation can overtake them fast. What you'll see: airports and cruise ships, tropical resorts, foreign capitals, island getaways, and travelers learning too late how far they are from help.",
+        "icon": "✈️"
+      },
+      {
+        "label": "cities built on surveillance and control",
+        "description": "Urban life is increasingly managed through monitoring, restricted access, and systems that sort who belongs, who is watched, and who is shut out. What you'll see: guarded compounds, sealed communities, official escorts, suspicious strangers, and streets where movement feels observed and conditional.",
+        "icon": "📹"
+      }
+    ]
+  },
+  {
+    "movie_id": 1576,
+    "movie_idx": 3983,
+    "imdb_id": "tt0120804",
+    "title": "Resident Evil",
+    "production_year": "2002",
+    "genre": "Action, Horror, Sci-Fi",
+    "plot": "A virus has escaped in a secret facility called \"The Hive,\" turning the staff into hungry zombies and releasing the mutated Lab \"Animals\" that they were studying. The complex computer shuts down the base to prevent infection. The parent corporation sends in an elite military unit, where they meet Alice, who is suffering from amnesia due to exposure to nerve gas. The military team must shut down the computer and get out, fighting their way past zombies, mutants, and the computer itself, before the virus escapes and infects the rest of the world. Alice must also come to terms with her slowly-returning memories.",
+    "runtime": "100 min",
+    "director": "Paul W.S. Anderson",
+    "actors": "Milla Jovovich, Michelle Rodriguez, Ryan McCluskey",
+    "production_country": "Germany, United Kingdom, France, Japan, United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYmI3YjJkN2ItY2ZmYS00Y2JhLTk2YTQtYzE5YWU5ODI1MzJmXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/1576.webp",
+    "imdb_rating": "6.6",
+    "imdb_votes": "307,619",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Resident_Evil_(2002_film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/1576.txt",
+    "plot_year_start": 2002,
+    "plot_year_end": 2002,
+    "epoch": "post-911-world",
+    "action_countries": [
+      "UNKNOWN"
+    ],
+    "action_continents": [
+      "UNKNOWN"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Resident Evil Universe",
+    "categories": [
+      {
+        "label": "science tinkering beyond ordinary limits",
+        "description": "The age trusts laboratories, devices, and expert schemes to alter bodies, beasts, and the built world, even when the results outrun control. What you'll see: engineered animals, experimental serums, improbable machines, hidden lairs, artificial environments, and gadgets treated as everyday instruments of power.",
+        "icon": "🧪"
+      },
+      {
+        "label": "governments acting through hidden powers",
+        "description": "Public authority does not stop at courts and uniforms, but reaches into secret prisons, covert agencies, and unofficial bargains made out of sight. What you'll see: black sites, deep-cover operatives, sealed rooms, handlers and informants, and officials whose power is hard to name but easy to fear.",
+        "icon": "🕵️"
+      }
+    ]
+  },
+  {
+    "movie_id": 454615,
+    "movie_idx": 4019,
+    "imdb_id": "tt5622412",
+    "title": "Black Water",
+    "production_year": "2018",
+    "genre": "Action, Drama, Thriller",
+    "plot": "A deep-cover operative awakens to find himself imprisoned in a CIA black site on a submarine.",
+    "runtime": "104 min",
+    "director": "Pasha Patriki",
+    "actors": "Jean-Claude Van Damme, Dolph Lundgren, Al Sapienza",
+    "production_country": "Canada, United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BN2UyMjhiYjMtZWIyYS00N2VkLWFkMTItODUxMjM1NDY1ZTMwXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/454615.webp",
+    "imdb_rating": "4.7",
+    "imdb_votes": "7,779",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Black_Water_(2018_film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/454615.txt",
+    "plot_year_start": 2010,
+    "plot_year_end": 2010,
+    "epoch": "post-911-world",
+    "action_countries": [
+      "UNKNOWN"
+    ],
+    "action_continents": [
+      "UNKNOWN"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "governments acting through hidden powers",
+        "description": "Public authority does not stop at courts and uniforms, but reaches into secret prisons, covert agencies, and unofficial bargains made out of sight. What you'll see: black sites, deep-cover operatives, sealed rooms, handlers and informants, and officials whose power is hard to name but easy to fear.",
+        "icon": "🕵️"
+      }
+    ]
+  },
+  {
+    "movie_id": 12536,
+    "movie_idx": 4080,
+    "imdb_id": "tt0329200",
+    "title": "Home Alone 4: Taking Back the House",
+    "production_year": "2002",
+    "genre": "Comedy, Crime, Family",
+    "plot": "Kevin McCallister's parents have split up. Now living with his mom, he decides to spend Christmas with his dad at the mansion of his father's rich girlfriend, Natalie. Meanwhile robber Marv Merchants, one of the villains from the first two movies, partners up with a new criminal named Vera to hit Natalie's mansion.",
+    "runtime": "84 min",
+    "director": "Rod Daniel",
+    "actors": "French Stewart, Erick Avari, Barbara Babcock",
+    "production_country": "United States, Zambia",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZGZmNDUzOWMtZWRjMC00NjRkLTkyNjQtMDA4YWNhZWY4NjI3XkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/12536.webp",
+    "imdb_rating": "2.6",
+    "imdb_votes": "42,653",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Home_Alone_4",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/12536.txt",
+    "plot_year_start": 2002,
+    "plot_year_end": 2002,
+    "epoch": "post-911-world",
+    "action_countries": [
+      "UNKNOWN"
+    ],
+    "action_continents": [
+      "UNKNOWN"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Home Alone Universe",
+    "categories": [
+      {
+        "label": "home life under strain and reinvention",
+        "description": "The household is no safe given thing, but a fragile arrangement shaped by divorce, foster care, absent parents, controlling kin, and improvised substitutes. What you'll see: stepfamilies, babysitters and guardians, orphanages and adoptions, suburban houses with private miseries, and children navigating adults they cannot trust.",
+        "icon": "🏠"
+      }
+    ]
+  },
+  {
+    "movie_id": 192141,
+    "movie_idx": 4166,
+    "imdb_id": "tt1781922",
+    "title": "No Escape",
+    "production_year": "2015",
+    "genre": "Action, Thriller",
+    "plot": "A couple (Owen Wilson and Lake Bell) and their two daughters relocate to Asia, only to find themselves caught in the middle of a dangerous coup. Realizing that foreigners are being murdered on the spot, they make a desperate decision to escape the violence on the streets and seek refuge at the American Embassy, all while trying to avoid detection by the merciless rebels.",
+    "runtime": "103 min",
+    "director": "John Erick Dowdle",
+    "actors": "Lake Bell, Pierce Brosnan, Owen Wilson",
+    "production_country": "United States, Thailand",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjE0MDI3NTE5NF5BMl5BanBnXkFtZTgwNzI3ODM2NjE@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/192141.webp",
+    "imdb_rating": "6.8",
+    "imdb_votes": "97,803",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/No_Escape_(2015_film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/192141.txt",
+    "plot_year_start": 2013,
+    "plot_year_end": 2013,
+    "epoch": "post-911-world",
+    "action_countries": [
+      "UNKNOWN",
+      "VN"
+    ],
+    "action_continents": [
+      "UNKNOWN",
+      "Asia"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "global travel opening onto sudden danger",
+        "description": "Cheap movement across borders for work, family, or leisure brings people into unfamiliar places where local upheaval, isolation, or predation can overtake them fast. What you'll see: airports and cruise ships, tropical resorts, foreign capitals, island getaways, and travelers learning too late how far they are from help.",
+        "icon": "✈️"
+      },
+      {
+        "label": "security fears shaping public life",
+        "description": "Daily life is shadowed by the sense that sudden attack, outbreak, or public disorder can erupt without warning, and institutions answer with watchfulness and force. What you'll see: embassies under guard, checkpoints and barricades, emergency quarantines, armed responders, and crowds panicking as order thins.",
+        "icon": "🚧"
+      }
+    ]
+  },
+  {
+    "movie_id": 9947,
+    "movie_idx": 4258,
+    "imdb_id": "tt0357277",
+    "title": "Elektra",
+    "production_year": "2005",
+    "genre": "Action, Adventure, Crime",
+    "plot": "In the ultimate battle between good and evil stands a warrior who makes the choice that tips the balance. A strong, mysterious and a deadly sexy action heroine - a lethal synthesis of grace and power. Not long after recovering from seemingly mortal wounds, Elektra has severed all ties with the world, living only for her next assignment. But in an unexpected turn of events, she is forced to make a decision that can take her life in a new direction - or destroy her. Key players in Elektra's journey are Stick, a blind martial arts master responsible for Elektra's \"resurrection,\" and Mark Miller and Abby Miller, a father and daughter on the run from The Hand, a powerful syndicate whose members practice the dark version of the martial art Kimagure.",
+    "runtime": "97 min",
+    "director": "Rob Bowman",
+    "actors": "Jennifer Garner, Goran Visnjic, Will Yun Lee",
+    "production_country": "Switzerland, Canada, United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTI3MTUwNzM5MV5BMl5BanBnXkFtZTcwNzczMDIzMw@@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/9947.webp",
+    "imdb_rating": "4.7",
+    "imdb_votes": "104,547",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Elektra_(2005_film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/9947.txt",
+    "plot_year_start": 2005,
+    "plot_year_end": 2005,
+    "epoch": "post-911-world",
+    "action_countries": [
+      "UNKNOWN"
+    ],
+    "action_continents": [
+      "UNKNOWN"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Marvel Cinematic Universe",
+    "categories": [
+      {
+        "label": "criminal underworld mixed with public authority",
+        "description": "Police, politicians, agents, and gangsters occupy the same shadowy terrain, so legality and corruption often look like neighboring rooms. What you'll see: dirty detectives, mob fixers, political protection, extortion, narcotics cases, and back-room exchanges where badges and crime blend together.",
+        "icon": "🕴️"
+      }
+    ]
+  },
+  {
+    "movie_id": 460229,
+    "movie_idx": 4321,
+    "imdb_id": "tt7144296",
+    "title": "Kiss and Kill",
+    "production_year": "2017",
+    "genre": "Drama, Mystery, Romance",
+    "plot": "A reckless night of indiscretion and lust leads a woman into the dark world of blackmail and murder. When some revealing photos of her sexual trysts unexpectedly surface, Katy (Kira Noir) is forced to submit to whatever her tormentors desire. Realizing there is no way out, she plots to destroy those who would destroy her.",
+    "runtime": "81 min",
+    "director": "Dean McKendrick",
+    "actors": "Kira Noir, Kyle Knies, Megan Medellin",
+    "production_country": "United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYTZlZGJkYmYtODU0Ny00OGFmLTkxNTMtZmY4MzBjZWYyMDJkXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/460229.webp",
+    "imdb_rating": "2.9",
+    "imdb_votes": "1,459",
+    "wikipedia_url": "https://fr.wikipedia.org/wiki/Kiss_and_Kill",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/460229.txt",
+    "plot_year_start": 2010,
+    "plot_year_end": 2010,
+    "epoch": "post-911-world",
+    "action_countries": [
+      "UNKNOWN"
+    ],
+    "action_continents": [
+      "UNKNOWN"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "criminal underworld mixed with public authority",
+        "description": "Police, politicians, agents, and gangsters occupy the same shadowy terrain, so legality and corruption often look like neighboring rooms. What you'll see: dirty detectives, mob fixers, political protection, extortion, narcotics cases, and back-room exchanges where badges and crime blend together.",
+        "icon": "🕴️"
+      }
+    ]
+  },
+  {
+    "movie_id": 1577,
+    "movie_idx": 4371,
+    "imdb_id": "tt0318627",
+    "title": "Resident Evil: Apocalypse",
+    "production_year": "2004",
+    "genre": "Action, Horror, Sci-Fi",
+    "plot": "Alice awakens from a terrible sleep to find her worst fears realized--the bloodthirsty Undead, which she and the now-annihilated squad of elite military fought to destroy, have been unleashed on the city that surrounds the secret facility of the Umbrella Corporation. Discovering she was an Umbrella experiment, Alice has been bio-genetically enhanced with new strengths, senses and dexterity--and she will need them. In the heart of the ravaged Raccoon City, a small group of uninfected people, including Jill Valentine, a recently demoted member of Raccoon City's elite Special Tactics and Rescue Services team, and Umbrella Corporation Security Officer Carlos Oliveira, fight for their lives against swarms of Undead and the deadlier and faster Lickers. Running out of luck and resources, the group is rescued by Alice, and they begin to wage an exhilarating battle to survive and escape before the Umbrella Corporation erases its experiment from the face of the earth. Their only hope lies somewhere within Raccoon City--Dr Charles Ashford, one of the leading scientists for the Umbrella Corporation, will help Alice and the others escape the city safely--if they find his daughter. Angie Ashford became separated from her father and now hides in fear. Alice, Jill and Carlos will have to fight their way through an army of Undead to save her. All the while, a secret weapon code-named Nemesis has been experimentally altered with greater modifications than Alice and has been programmed to track and destroy them. They will need all their strengths and skills to fight the battle of their lives against the mindless evil that has infected the city and the powerful forces that unleashed it on mankind.",
+    "runtime": "94 min",
+    "director": "Alexander Witt",
+    "actors": "Milla Jovovich, Sienna Guillory, Eric Mabius",
+    "production_country": "Germany, United Kingdom, France, Canada, United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTc1NTUxMzk0Nl5BMl5BanBnXkFtZTcwNDQ1MDIzMw@@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/1577.webp",
+    "imdb_rating": "6.1",
+    "imdb_votes": "219,794",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Resident_Evil:_Apocalypse",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/1577.txt",
+    "plot_year_start": 2002,
+    "plot_year_end": 2002,
+    "epoch": "post-911-world",
+    "action_countries": [
+      "UNKNOWN"
+    ],
+    "action_continents": [
+      "UNKNOWN"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Resident Evil Universe",
+    "categories": [
+      {
+        "label": "governments acting through hidden powers",
+        "description": "Public authority does not stop at courts and uniforms, but reaches into secret prisons, covert agencies, and unofficial bargains made out of sight. What you'll see: black sites, deep-cover operatives, sealed rooms, handlers and informants, and officials whose power is hard to name but easy to fear.",
+        "icon": "🕵️"
+      },
+      {
+        "label": "cities built on surveillance and control",
+        "description": "Urban life is increasingly managed through monitoring, restricted access, and systems that sort who belongs, who is watched, and who is shut out. What you'll see: guarded compounds, sealed communities, official escorts, suspicious strangers, and streets where movement feels observed and conditional.",
+        "icon": "📹"
+      }
+    ]
+  },
+  {
+    "movie_id": 438674,
+    "movie_idx": 4512,
+    "imdb_id": "tt6491178",
+    "title": "Dragged Across Concrete",
+    "production_year": "2018",
+    "genre": "Action, Crime, Drama",
+    "plot": "The script centers on two policemen, one an old-timer (Gibson), the other his volatile younger partner (Vaughn), who find themselves suspended when a video of their strong-arm tactics become the media's cause du jour. Low on cash and with no other options, these two embittered soldiers descend into the criminal underworld to gain their just due, but instead find far more than they wanted awaiting them in the shadows.",
+    "runtime": "159 min",
+    "director": "S. Craig Zahler",
+    "actors": "Mel Gibson, Vince Vaughn, Tory Kittles",
+    "production_country": "Canada, United Kingdom, United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjE1MTk5NDQ5Ml5BMl5BanBnXkFtZTgwODUxNzg0NzM@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/438674.webp",
+    "imdb_rating": "6.9",
+    "imdb_votes": "59,660",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Dragged_Across_Concrete",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/438674.txt",
+    "plot_year_start": 2010,
+    "plot_year_end": 2010,
+    "epoch": "post-911-world",
+    "action_countries": [
+      "UNKNOWN"
+    ],
+    "action_continents": [
+      "UNKNOWN"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "criminal underworld mixed with public authority",
+        "description": "Police, politicians, agents, and gangsters occupy the same shadowy terrain, so legality and corruption often look like neighboring rooms. What you'll see: dirty detectives, mob fixers, political protection, extortion, narcotics cases, and back-room exchanges where badges and crime blend together.",
+        "icon": "🕴️"
+      }
+    ]
+  },
+  {
+    "movie_id": 949977,
+    "movie_idx": 4541,
+    "imdb_id": "tt19045582",
+    "title": "X-Deal 2",
+    "production_year": "2022",
+    "genre": "Drama",
+    "plot": "In an island, a young couple, Violet and Peter, offers a sex swap with fellow guest Olivia, a hot lesbian. What starts as a mutually-beneficial deal turns rough and tumble when Peter demands more than what he bargained for.",
+    "runtime": "110 min",
+    "director": "Lawrence Fajardo",
+    "actors": "Josef Elizalde, Robb Guinto, Angela Morena",
+    "production_country": "Philippines",
+    "poster": "https://m.media-amazon.com/images/M/MV5BOTk1ODA1MGEtZjk4YS00MmNhLWFmZDctODc1OWM1NGVjNGU4XkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/949977.webp",
+    "imdb_rating": "4.1",
+    "imdb_votes": "374",
+    "plot_year_start": 2010,
+    "plot_year_end": 2010,
+    "epoch": "post-911-world",
+    "action_countries": [
+      "UNKNOWN"
+    ],
+    "action_continents": [
+      "UNKNOWN"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "home life under strain and reinvention",
+        "description": "The household is no safe given thing, but a fragile arrangement shaped by divorce, foster care, absent parents, controlling kin, and improvised substitutes. What you'll see: stepfamilies, babysitters and guardians, orphanages and adoptions, suburban houses with private miseries, and children navigating adults they cannot trust.",
+        "icon": "🏠"
+      }
+    ],
+    "failures": {
+      "wikipedia": "no_wiki_article_found"
+    }
+  },
+  {
+    "movie_id": 18162,
+    "movie_idx": 4600,
+    "imdb_id": "tt0457400",
+    "title": "Land of the Lost",
+    "production_year": "2009",
+    "genre": "Action, Adventure, Comedy",
+    "plot": "Palaeontologist Rick Marshall takes Will and Holly into a new world of danger, dinosaurs, and big bug-eyed lizard people while trying to find their way back home, save the universe, and save his reputation by doing so. The dinosaur with brains, brawn, and personality, and the adventure of scientific advancement and exotic beasts in a faraway land, all add up to time-traveling fun and frolics.",
+    "runtime": "102 min",
+    "director": "Brad Silberling",
+    "actors": "Will Ferrell, Danny McBride, Anna Friel",
+    "production_country": "United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BOTkzNDg2OTc1NF5BMl5BanBnXkFtZTcwNDcxODE2Mg@@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/18162.webp",
+    "imdb_rating": "5.3",
+    "imdb_votes": "78,326",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Land_of_the_Lost_(film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/18162.txt",
+    "plot_year_start": 2006,
+    "plot_year_end": 2006,
+    "epoch": "post-911-world",
+    "action_countries": [
+      "UNKNOWN"
+    ],
+    "action_continents": [
+      "UNKNOWN"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "science tinkering beyond ordinary limits",
+        "description": "The age trusts laboratories, devices, and expert schemes to alter bodies, beasts, and the built world, even when the results outrun control. What you'll see: engineered animals, experimental serums, improbable machines, hidden lairs, artificial environments, and gadgets treated as everyday instruments of power.",
+        "icon": "🧪"
+      }
+    ]
+  },
+  {
+    "movie_id": 212716,
+    "movie_idx": 4848,
+    "imdb_id": "tt1486834",
+    "title": "What If",
+    "production_year": "2013",
+    "genre": "Comedy, Romance",
+    "plot": "WHAT IF is the story of medical school dropout Wallace, who's been repeatedly burned by bad relationships. So while everyone around him, including his roommate Allan seems to be finding the perfect partner, Wallace decides to put his love life on hold. It is then that he meets Chantry an animator who lives with her longtime boyfriend Ben. Wallace and Chantry form an instant connection, striking up a close friendship. Still, there is no denying the chemistry between them, leading the pair to wonder, what if the love of your life is actually your best friend?",
+    "runtime": "98 min",
+    "director": "Michael Dowse",
+    "actors": "Daniel Radcliffe, Zoe Kazan, Megan Park",
+    "production_country": "Canada, Ireland",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTcyODc4Njg4OF5BMl5BanBnXkFtZTgwNDIwNDA4MTE@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/212716.webp",
+    "imdb_rating": "6.8",
+    "imdb_votes": "83,360",
+    "wikipedia_url": "https://simple.wikipedia.org/wiki/What_If_(movie)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/212716.txt",
+    "plot_year_start": 2010,
+    "plot_year_end": 2010,
+    "epoch": "post-911-world",
+    "action_countries": [
+      "UNKNOWN"
+    ],
+    "action_continents": [
+      "UNKNOWN"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "home life under strain and reinvention",
+        "description": "The household is no safe given thing, but a fragile arrangement shaped by divorce, foster care, absent parents, controlling kin, and improvised substitutes. What you'll see: stepfamilies, babysitters and guardians, orphanages and adoptions, suburban houses with private miseries, and children navigating adults they cannot trust.",
+        "icon": "🏠"
+      }
+    ]
+  },
+  {
+    "movie_id": 118683,
+    "movie_idx": 4982,
+    "imdb_id": "tt2119474",
+    "title": "Maximum Conviction",
+    "production_year": "2012",
+    "genre": "Action, Thriller",
+    "plot": "Two former black ops operatives are required to transfer two female convicts to a prison. While on their way, unknown assailants attack them.",
+    "runtime": "98 min",
+    "director": "Keoni Waxman",
+    "actors": "Steven Seagal, Steve Austin, Michael Paré",
+    "production_country": "United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjIyMTM1NTc0NF5BMl5BanBnXkFtZTcwMTQ3MjQ0OA@@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/118683.webp",
+    "imdb_rating": "4.7",
+    "imdb_votes": "7,459",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Maximum_Conviction",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/118683.txt",
+    "plot_year_start": 2012,
+    "plot_year_end": 2012,
+    "epoch": "post-911-world",
+    "action_countries": [
+      "UNKNOWN"
+    ],
+    "action_continents": [
+      "UNKNOWN"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "criminal underworld mixed with public authority",
+        "description": "Police, politicians, agents, and gangsters occupy the same shadowy terrain, so legality and corruption often look like neighboring rooms. What you'll see: dirty detectives, mob fixers, political protection, extortion, narcotics cases, and back-room exchanges where badges and crime blend together.",
+        "icon": "🕴️"
+      }
+    ]
+  },
+  {
+    "movie_id": 13355,
+    "movie_idx": 5029,
+    "imdb_id": "tt0867418",
+    "title": "Scooby-Doo! Pirates Ahoy!",
+    "production_year": "2006",
+    "genre": "Animation, Adventure, Comedy, Family, Fantasy, Mystery",
+    "plot": "Scooby and the gang take a mystery-themed cruise through the Bermuda Triangle, but what starts out as staged hi-jinks soon turns into the real thing. Ghost pirates are prowling the legendary waters of the Triangle, searching for a priceless treasure and someone on board the cruise ship may hold the secret to it's location. Now Scooby and the rest of gang will have to solve the real mystery behind the mysterious treasure or they may end up walking the plank to sink to the depths of Davy Jone's Locker! New songs by Paul James Prendergast and a duet by Rich Dickerson and Gigi Meroni are sure to please.",
+    "runtime": "70 min",
+    "director": "Chuck Sheetz",
+    "actors": "Frank Welker, Casey Kasem, Mindy Cohn, Grey Griffin",
+    "production_country": "USA",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMmE0N2YxYjMtMGU0My00OWU4LWJjYTQtYjlhZjg1ZTkyMGI3XkEyXkFqcGdeQXVyNDgyODgxNjE@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/13355.webp",
+    "imdb_rating": "6.7",
+    "imdb_votes": "2,536",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Scooby-Doo!_Pirates_Ahoy!",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/13355.txt",
+    "plot_year_start": 2006,
+    "plot_year_end": 2006,
+    "epoch": "post-911-world",
+    "action_countries": [
+      "UNKNOWN"
+    ],
+    "action_continents": [
+      "UNKNOWN"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "global travel opening onto sudden danger",
+        "description": "Cheap movement across borders for work, family, or leisure brings people into unfamiliar places where local upheaval, isolation, or predation can overtake them fast. What you'll see: airports and cruise ships, tropical resorts, foreign capitals, island getaways, and travelers learning too late how far they are from help.",
+        "icon": "✈️"
+      }
+    ]
+  },
+  {
+    "movie_id": 378385,
+    "movie_idx": 5179,
+    "imdb_id": "tt4616014",
+    "title": "Jarhead 3: The Siege",
+    "production_year": "2016",
+    "genre": "Action, Drama, War",
+    "plot": "Corporal Evan Albright (Charlie Weber) joined the elite Marine Corps Security Guards to save the world and see some action-not necessarily in that order. But his first assignment, protecting a U. S. Embassy in a seemingly safe Middle Eastern capitol, relegates his unit to wrangling \"gate groupies\" protesting outside the compound and honing their marksmanship by playing video games. So Albright and his team are caught off guard when well-armed and well-trained militants launch a surprise attack aimed at killing an informant in the embassy. Heavily out-gunned, they will have to muster all the courage and firepower they can as their once routine assignment spirals into all-out war.",
+    "runtime": "95 min",
+    "director": "William Kaufman",
+    "actors": "Scott Adkins, Charlie Weber, Dante Basco, Romeo Miller",
+    "production_country": "USA",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMmFiODE3OTItOTVjOS00YWViLTkzNzctZWYxMTc1NWE1NjY2XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/378385.webp",
+    "imdb_rating": "5.2",
+    "imdb_votes": "2,888",
+    "plot_year_start": 2008,
+    "plot_year_end": 2008,
+    "epoch": "post-911-world",
+    "action_countries": [
+      "UNKNOWN"
+    ],
+    "action_continents": [
+      "UNKNOWN"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "security fears shaping public life",
+        "description": "Daily life is shadowed by the sense that sudden attack, outbreak, or public disorder can erupt without warning, and institutions answer with watchfulness and force. What you'll see: embassies under guard, checkpoints and barricades, emergency quarantines, armed responders, and crowds panicking as order thins.",
+        "icon": "🚧"
+      },
+      {
+        "label": "cities built on surveillance and control",
+        "description": "Urban life is increasingly managed through monitoring, restricted access, and systems that sort who belongs, who is watched, and who is shut out. What you'll see: guarded compounds, sealed communities, official escorts, suspicious strangers, and streets where movement feels observed and conditional.",
+        "icon": "📹"
+      }
+    ],
+    "failures": {
+      "wikipedia": "no_wiki_article_found"
+    }
+  },
+  {
+    "movie_id": 377264,
+    "movie_idx": 5460,
+    "imdb_id": "tt4520364",
+    "title": "Morgan",
+    "production_year": "2016",
+    "genre": "Action, Horror, Sci-Fi",
+    "plot": "Lee Weathers is a \"risk-management specialist\" for genetic-engineering company SynSect. She arrives at a rural site hosting its L-9 project, an artificial being with nanotechnology-infused synthetic DNA named Morgan. The \"hybrid biological organism with the capacity for autonomous decision making and sophisticated emotional responses\" is smarter than humans and matures quickly, walking and talking within a month and physically a teenager despite being five years old..",
+    "runtime": "92 min",
+    "director": "Luke Scott",
+    "actors": "Kate Mara, Anya Taylor-Joy, Rose Leslie",
+    "production_country": "United States, Canada",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjA1MjYyNDkxN15BMl5BanBnXkFtZTgwMTgxODAwOTE@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/377264.webp",
+    "imdb_rating": "5.9",
+    "imdb_votes": "49,561",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Morgan_(2016_film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/377264.txt",
+    "plot_year_start": 2010,
+    "plot_year_end": 2010,
+    "epoch": "post-911-world",
+    "action_countries": [
+      "UNKNOWN"
+    ],
+    "action_continents": [
+      "UNKNOWN"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "science tinkering beyond ordinary limits",
+        "description": "The age trusts laboratories, devices, and expert schemes to alter bodies, beasts, and the built world, even when the results outrun control. What you'll see: engineered animals, experimental serums, improbable machines, hidden lairs, artificial environments, and gadgets treated as everyday instruments of power.",
+        "icon": "🧪"
+      },
+      {
+        "label": "criminal underworld mixed with public authority",
+        "description": "Police, politicians, agents, and gangsters occupy the same shadowy terrain, so legality and corruption often look like neighboring rooms. What you'll see: dirty detectives, mob fixers, political protection, extortion, narcotics cases, and back-room exchanges where badges and crime blend together.",
+        "icon": "🕴️"
+      }
+    ]
+  },
+  {
+    "movie_id": 261985,
+    "movie_idx": 6201,
+    "imdb_id": "tt1814614",
+    "title": "A Cinderella Story: Once Upon a Song",
+    "production_year": "2011",
+    "genre": "Comedy, Family, Music, Romance",
+    "plot": "Cyrano De Bergerac meets Cinderella. Over-worked, harried and terrified of being put back in foster care, 17 year old Katie (Lucy Hale) does her stepmother and step-siblings' bidding without complaining. Vocally gifted, Katie feels particularly upset when forced to lay down singing tracks so that her untalented stepsister, Bev Van Ravensway, can hopefully win a recording contract from Kensington Records - who's company President, Guy Morgan, is scouting for new spectacular talent at a talent showcase for the Performing Arts Department at a prestigious private school.",
+    "runtime": "88 min",
+    "director": "Damon Santostefano",
+    "actors": "Lucy Hale, Freddie Stroma, Missi Pyle, Megan Park",
+    "production_country": "USA",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjAzMzQ4OTY2MF5BMl5BanBnXkFtZTcwMzAyNTI4Ng@@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/261985.webp",
+    "imdb_rating": "6.0",
+    "imdb_votes": "12,184",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Princess_Cinderella",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/261985.txt",
+    "plot_year_start": 2010,
+    "plot_year_end": 2010,
+    "epoch": "post-911-world",
+    "action_countries": [
+      "UNKNOWN"
+    ],
+    "action_continents": [
+      "UNKNOWN"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "home life under strain and reinvention",
+        "description": "The household is no safe given thing, but a fragile arrangement shaped by divorce, foster care, absent parents, controlling kin, and improvised substitutes. What you'll see: stepfamilies, babysitters and guardians, orphanages and adoptions, suburban houses with private miseries, and children navigating adults they cannot trust.",
+        "icon": "🏠"
+      },
+      {
+        "label": "consumption sold as a way of life",
+        "description": "Status and belonging are tied to branded pleasures, talent showcases, self-improvement, and purchasable experiences, even when the promise rings hollow. What you'll see: private schools, record labels, bars and showcases, candy empires, curated neighborhoods, and people measuring worth through display and access.",
+        "icon": "🛍️"
+      }
+    ]
+  },
+  {
+    "movie_id": 993621,
+    "movie_idx": 6250,
+    "imdb_id": "tt13661368",
+    "title": "The Stranger in Our Bed",
+    "production_year": "2022",
+    "genre": "Mystery, Thriller",
+    "plot": "An unhappily married woman leaves her husband for a lover who mysteriously disappears.",
+    "runtime": "90 min",
+    "director": "Giles Alderson",
+    "actors": "Emily Berrington, Ben Lloyd-Hughes, Samantha Bond",
+    "production_country": "United Kingdom",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMDU4YjU4NmMtMTFiZi00M2FjLWFjMTYtOGNmNzU0ZGZmMWU5XkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/993621.webp",
+    "imdb_rating": "4.6",
+    "imdb_votes": "1,197",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Stranger_(2022_film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/993621.txt",
+    "plot_year_start": 2003,
+    "plot_year_end": 2003,
+    "epoch": "post-911-world",
+    "action_countries": [
+      "UNKNOWN"
+    ],
+    "action_continents": [
+      "UNKNOWN"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "criminal underworld mixed with public authority",
+        "description": "Police, politicians, agents, and gangsters occupy the same shadowy terrain, so legality and corruption often look like neighboring rooms. What you'll see: dirty detectives, mob fixers, political protection, extortion, narcotics cases, and back-room exchanges where badges and crime blend together.",
+        "icon": "🕴️"
+      }
+    ]
+  },
+  {
+    "movie_id": 915496,
+    "movie_idx": 6349,
+    "imdb_id": "tt16411844",
+    "title": "Love, Fashion, Repeat",
+    "production_year": "2022",
+    "genre": "Comedy, Romance",
+    "plot": "Lisa returns to her hometown to seek inspiration for her new fashion line. So when she meets Colin, a writer tasked with fixing her biography, love is the last thing on her mind but will she find time for an unexpected romance?",
+    "runtime": "89 min",
+    "director": "Ken Friss",
+    "actors": "Cristina Rosato, Victor Zinck Jr., Sarah Giles",
+    "production_country": "Canada",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNDliMGU5ZGEtOWJlYS00MWNkLWIxYjMtODg0NmE1YTMwMDM3XkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/915496.webp",
+    "imdb_rating": "6.0",
+    "imdb_votes": "328",
+    "plot_year_start": 2010,
+    "plot_year_end": 2010,
+    "epoch": "post-911-world",
+    "action_countries": [
+      "UNKNOWN"
+    ],
+    "action_continents": [
+      "UNKNOWN"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "consumption sold as a way of life",
+        "description": "Status and belonging are tied to branded pleasures, talent showcases, self-improvement, and purchasable experiences, even when the promise rings hollow. What you'll see: private schools, record labels, bars and showcases, candy empires, curated neighborhoods, and people measuring worth through display and access.",
+        "icon": "🛍️"
+      }
+    ],
+    "failures": {
+      "wikipedia": "no_wiki_article_found"
+    }
+  },
+  {
+    "movie_id": 12699,
+    "movie_idx": 6360,
+    "imdb_id": "tt0354623",
+    "title": "Hellraiser: Hellworld",
+    "production_year": "2005",
+    "genre": "Horror",
+    "plot": "The youngsters Chelsea, Allison, Derrick and Mike are grieving the suicide of their friend Adam, who became obsessed with an internet game called Hellworld. Their former friend Jake blames the group since they have not stopped playing the game even when Adam was unstable. When they receive an invitation to a Hellworld party in an isolated mansion, the reluctant Chelsea decides to join the group and they surprisingly find Jake in the party. He explains that he was invited by a girl he met in a chat room. They are hosted by the owner of the place, who shows them his private macabre collection. Along the night, they find that they are in a party in hell.",
+    "runtime": "91 min",
+    "director": "Rick Bota",
+    "actors": "Stelian Urian, Katheryn Winnick, Anna Tolputt, Khary Payton",
+    "production_country": "USA",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZDM2OGViNjAtMmM5OS00YzJiLTgzODItNTZlYzcxNjAyZDUyXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/12699.webp",
+    "imdb_rating": "4.2",
+    "imdb_votes": "10,066",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Hellraiser:_Hellworld",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/12699.txt",
+    "plot_year_start": 2002,
+    "plot_year_end": 2002,
+    "epoch": "post-911-world",
+    "action_countries": [
+      "UNKNOWN"
+    ],
+    "action_continents": [
+      "UNKNOWN"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Hellraiser Universe",
+    "categories": [
+      {
+        "label": "screens turning violence into spectacle",
+        "description": "Networked media make private disgrace and public bloodshed instantly visible, feeding outrage, voyeurism, and fame. What you'll see: viral recordings, online audiences, cameras trained on humiliation, staged contests for viewers, and reputations rising or collapsing through the screen.",
+        "icon": "📱"
+      }
+    ]
+  },
+  {
+    "movie_id": 6589,
+    "movie_idx": 6433,
+    "imdb_id": "tt0467110",
+    "title": "Underdog",
+    "production_year": "2007",
+    "genre": "Action, Adventure, Comedy",
+    "plot": "A bomb-sniffing beagle is fired from the mayor's office for a faux pas. That night a mad scientist dognaps him and injects him with an elixir. The dog escapes, but now has superpowers. He's adopted by a security guard - an ex-cop, who's a widower with a moody teen son, Jack. The boy discovers that the dog, named Shoeshine by dad, has super powers, but it's their little secret. While Underdog saves people in distress, the mad scientist and his underling continue their plot to catch him and take over the city. There's also a girl Jack likes who has a dog that Shoeshine takes a shine to. Will every dog have his day?",
+    "runtime": "84 min",
+    "director": "Frederik Du Chau",
+    "actors": "Peter Dinklage, Jason Lee, Amy Adams",
+    "production_country": "United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMzhlMDM2NTEtZTY4Ni00YmEyLTk2OWUtOWM2ZjhlYjlkYWY3XkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/6589.webp",
+    "imdb_rating": "4.8",
+    "imdb_votes": "23,545",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Underdog_(2007_film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/6589.txt",
+    "plot_year_start": 2007,
+    "plot_year_end": 2007,
+    "epoch": "post-911-world",
+    "action_countries": [
+      "UNKNOWN"
+    ],
+    "action_continents": [
+      "UNKNOWN"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "science tinkering beyond ordinary limits",
+        "description": "The age trusts laboratories, devices, and expert schemes to alter bodies, beasts, and the built world, even when the results outrun control. What you'll see: engineered animals, experimental serums, improbable machines, hidden lairs, artificial environments, and gadgets treated as everyday instruments of power.",
+        "icon": "🧪"
+      },
+      {
+        "label": "criminal underworld mixed with public authority",
+        "description": "Police, politicians, agents, and gangsters occupy the same shadowy terrain, so legality and corruption often look like neighboring rooms. What you'll see: dirty detectives, mob fixers, political protection, extortion, narcotics cases, and back-room exchanges where badges and crime blend together.",
+        "icon": "🕴️"
+      }
+    ]
+  },
+  {
+    "movie_id": 505579,
+    "movie_idx": 6436,
+    "imdb_id": "tt2237324",
+    "title": "Bent",
+    "production_year": "2018",
+    "genre": "Action, Crime, Drama",
+    "plot": "\"Bent\" follows Danny Gallagher (Karl Urban), a discredited narcotics detective who, upon his release from prison, makes plans to seek revenge on the accuser who framed him and killed his partner. Through his quest, Gallagher is forced to confront a ruthless, seductive government agent (Sofia Vergara), who may or may not be on his side; and his mentor (Andy Garcia), a retired cop who's fought corruption his entire career.",
+    "runtime": "96 min",
+    "director": "Bobby Moresco",
+    "actors": "Sofía Vergara, Karl Urban, Andy Garcia",
+    "production_country": "Spain, United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMmIwYzlkY2ItZTJkYi00YTIwLTliNTEtZDVhZmI5Y2Y2ZGIwXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/505579.webp",
+    "imdb_rating": "5.2",
+    "imdb_votes": "6,551",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Bent_(2018_film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/505579.txt",
+    "plot_year_start": 2010,
+    "plot_year_end": 2010,
+    "epoch": "post-911-world",
+    "action_countries": [
+      "UNKNOWN"
+    ],
+    "action_continents": [
+      "UNKNOWN"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "criminal underworld mixed with public authority",
+        "description": "Police, politicians, agents, and gangsters occupy the same shadowy terrain, so legality and corruption often look like neighboring rooms. What you'll see: dirty detectives, mob fixers, political protection, extortion, narcotics cases, and back-room exchanges where badges and crime blend together.",
+        "icon": "🕴️"
+      },
+      {
+        "label": "governments acting through hidden powers",
+        "description": "Public authority does not stop at courts and uniforms, but reaches into secret prisons, covert agencies, and unofficial bargains made out of sight. What you'll see: black sites, deep-cover operatives, sealed rooms, handlers and informants, and officials whose power is hard to name but easy to fear.",
+        "icon": "🕵️"
+      }
+    ]
+  },
+  {
+    "movie_id": 26264,
+    "movie_idx": 6528,
+    "imdb_id": "tt0322389",
+    "title": "George of the Jungle 2",
+    "production_year": "2003",
+    "genre": "Adventure, Comedy, Family",
+    "plot": "It's been 5 years since socialite Ursula Stanhope left civilization to marry George, lovable and clumsy King of the Jungle. Now father to George Junior, George finds himself stressed at having to juggle his cherished roles of jungle king, Junior's dad, and Ursula's loving husband. George's stress level goes way up when Really Mean Lion challenges him for leadership of the jungle, and Ursula's mother Beatrice teams up with Ursula's ex-fiance Lyle in a plot to forcibly take away all that George holds most dear.",
+    "runtime": "87 min",
+    "director": "David Grossman",
+    "actors": "Christopher Showerman, Julie Benz, Angus T. Jones, Thomas Haden Church",
+    "production_country": "USA, Australia",
+    "poster": "https://m.media-amazon.com/images/M/MV5BODE4ODI1ODI1Ml5BMl5BanBnXkFtZTcwODE4NDAwMQ@@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/26264.webp",
+    "imdb_rating": "3.4",
+    "imdb_votes": "6,618",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/George_of_the_Jungle_2",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/26264.txt",
+    "plot_year_start": 2002,
+    "plot_year_end": 2002,
+    "epoch": "post-911-world",
+    "action_countries": [
+      "UNKNOWN"
+    ],
+    "action_continents": [
+      "UNKNOWN"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "global travel opening onto sudden danger",
+        "description": "Cheap movement across borders for work, family, or leisure brings people into unfamiliar places where local upheaval, isolation, or predation can overtake them fast. What you'll see: airports and cruise ships, tropical resorts, foreign capitals, island getaways, and travelers learning too late how far they are from help.",
+        "icon": "✈️"
+      },
+      {
+        "label": "criminal underworld mixed with public authority",
+        "description": "Police, politicians, agents, and gangsters occupy the same shadowy terrain, so legality and corruption often look like neighboring rooms. What you'll see: dirty detectives, mob fixers, political protection, extortion, narcotics cases, and back-room exchanges where badges and crime blend together.",
+        "icon": "🕴️"
+      }
+    ]
+  },
+  {
+    "movie_id": 20694,
+    "movie_idx": 6647,
+    "imdb_id": "tt0337711",
+    "title": "Rugrats Go Wild",
+    "production_year": "2003",
+    "genre": "Animation, Adventure, Comedy",
+    "plot": "The Rugrats and family become stranded on an island, and Stu Pickles (Jack Riley) is blamed. The kids wander off into the jungle, and Spike (Bruce Willis) loses his sense of smell due to sneezing. This becomes a problem when a clouded leopard named Siri (Chrissie Hynde) finds out about the babies and goes after them, and the situation only gets worse when the kids become trapped underwater with an amnesic Nigel Thornberry (Tim Curry), losing oxygen fast.",
+    "runtime": "80 min",
+    "director": "John Eng, Norton Virgien, Priit Pärn",
+    "actors": "Jodi Carlisle, Lacey Chabert, Tim Curry",
+    "production_country": "United States, United Kingdom, South Korea",
+    "poster": "https://m.media-amazon.com/images/M/MV5BOTYzMTAwNTI3MV5BMl5BanBnXkFtZTYwMzU3NTM3._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/20694.webp",
+    "imdb_rating": "5.6",
+    "imdb_votes": "9,183",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Rugrats_Go_Wild",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/20694.txt",
+    "plot_year_start": 2003,
+    "plot_year_end": 2003,
+    "epoch": "post-911-world",
+    "action_countries": [
+      "UNKNOWN"
+    ],
+    "action_continents": [
+      "UNKNOWN"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "global travel opening onto sudden danger",
+        "description": "Cheap movement across borders for work, family, or leisure brings people into unfamiliar places where local upheaval, isolation, or predation can overtake them fast. What you'll see: airports and cruise ships, tropical resorts, foreign capitals, island getaways, and travelers learning too late how far they are from help.",
+        "icon": "✈️"
+      }
+    ]
+  },
+  {
+    "movie_id": 8338,
+    "movie_idx": 6777,
+    "imdb_id": "tt0861689",
+    "title": "Blindness",
+    "production_year": "2008",
+    "genre": "Drama, Mystery, Thriller",
+    "plot": "A city is ravaged by an epidemic of instant \"white blindness\". Those first afflicted are quarantined by the authorities in an abandoned mental hospital where the newly created \"society of the blind\" quickly breaks down. Criminals and the physically powerful prey upon the weak, hoarding the meager food rations and committing horrific acts. There is, however, one eyewitness to the nightmare. A woman whose sight is unaffected by the plague follows her afflicted husband to quarantine. There, keeping her sight a secret, she guides seven strangers who have become, in essence, a family. She leads them out of quarantine and onto the ravaged streets of the city, which has seen all vestiges of civilization crumble.",
+    "runtime": "121 min",
+    "director": "Fernando Meirelles",
+    "actors": "Julianne Moore, Mark Ruffalo, Gael García Bernal",
+    "production_country": "Brazil, Canada, Japan, United Kingdom, Italy",
+    "poster": "https://m.media-amazon.com/images/M/MV5BOTZmNWE5YmYtZjVlNi00YzlkLTk1MWUtNTI0ZjcwMTJiYThiXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/8338.webp",
+    "imdb_rating": "6.5",
+    "imdb_votes": "76,644",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Blindness_(2008_film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/8338.txt",
+    "plot_year_start": 2008,
+    "plot_year_end": 2008,
+    "epoch": "post-911-world",
+    "action_countries": [
+      "UNKNOWN"
+    ],
+    "action_continents": [
+      "UNKNOWN"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "cities built on surveillance and control",
+        "description": "Urban life is increasingly managed through monitoring, restricted access, and systems that sort who belongs, who is watched, and who is shut out. What you'll see: guarded compounds, sealed communities, official escorts, suspicious strangers, and streets where movement feels observed and conditional.",
+        "icon": "📹"
+      },
+      {
+        "label": "security fears shaping public life",
+        "description": "Daily life is shadowed by the sense that sudden attack, outbreak, or public disorder can erupt without warning, and institutions answer with watchfulness and force. What you'll see: embassies under guard, checkpoints and barricades, emergency quarantines, armed responders, and crowds panicking as order thins.",
+        "icon": "🚧"
+      }
+    ]
+  },
+  {
+    "movie_id": 26715,
+    "movie_idx": 6790,
+    "imdb_id": "tt1212974",
+    "title": "Bitch Slap",
+    "production_year": "2009",
+    "genre": "Action, Comedy, Crime",
+    "plot": "When three curvaceous babes, stripper Trixe, business executive Hel, and the feisty ex-con Camero, arrive at a desert hideaway to steal a stash of diamonds from an underworld kingpin, things quickly spiral out of control. Allegiances are switched, truths are revealed, criminals are unmasked and nothing is quite what it seems as the fate of the world is precariously balanced among this trio of sexy femmes fatales.",
+    "runtime": "109 min",
+    "director": "Rick Jacobson",
+    "actors": "Julia Voth, Erin Cummings, America Olivo",
+    "production_country": "United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTk0OTAzOTY2NF5BMl5BanBnXkFtZTcwMzcwMzM4MQ@@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/26715.webp",
+    "imdb_rating": "4.5",
+    "imdb_votes": "14,359",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Bitch_Slap",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/26715.txt",
+    "plot_year_start": 2009,
+    "plot_year_end": 2009,
+    "epoch": "post-911-world",
+    "action_countries": [
+      "UNKNOWN"
+    ],
+    "action_continents": [
+      "UNKNOWN"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "criminal underworld mixed with public authority",
+        "description": "Police, politicians, agents, and gangsters occupy the same shadowy terrain, so legality and corruption often look like neighboring rooms. What you'll see: dirty detectives, mob fixers, political protection, extortion, narcotics cases, and back-room exchanges where badges and crime blend together.",
+        "icon": "🕴️"
+      }
+    ]
+  },
+  {
+    "movie_id": 333357,
+    "movie_idx": 7027,
+    "imdb_id": "tt3829378",
+    "title": "Stephanie",
+    "production_year": "2017",
+    "genre": "Horror, Mystery",
+    "plot": "After a mysterious global crisis, a young girl is left alone to hide from a malevolent power that stalks her home. Her parents eventually return and the struggle begins to save their daughter.",
+    "runtime": "86 min",
+    "director": "Akiva Goldsman",
+    "actors": "Shree Crooks, Frank Grillo, Anna Torv",
+    "production_country": "United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BOTJlYTUzYzAtODJhYy00MDYwLWJkMDEtMjRiNGFmZDNiYjQ5XkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/333357.webp",
+    "imdb_rating": "5.8",
+    "imdb_votes": "6,521",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Stephanie_(film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/333357.txt",
+    "plot_year_start": 2010,
+    "plot_year_end": 2010,
+    "epoch": "post-911-world",
+    "action_countries": [
+      "UNKNOWN"
+    ],
+    "action_continents": [
+      "UNKNOWN"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "security fears shaping public life",
+        "description": "Daily life is shadowed by the sense that sudden attack, outbreak, or public disorder can erupt without warning, and institutions answer with watchfulness and force. What you'll see: embassies under guard, checkpoints and barricades, emergency quarantines, armed responders, and crowds panicking as order thins.",
+        "icon": "🚧"
+      },
+      {
+        "label": "governments acting through hidden powers",
+        "description": "Public authority does not stop at courts and uniforms, but reaches into secret prisons, covert agencies, and unofficial bargains made out of sight. What you'll see: black sites, deep-cover operatives, sealed rooms, handlers and informants, and officials whose power is hard to name but easy to fear.",
+        "icon": "🕵️"
+      }
+    ]
+  },
+  {
+    "movie_id": 277355,
+    "movie_idx": 7439,
+    "imdb_id": "tt1945084",
+    "title": "Everly",
+    "production_year": "2014",
+    "genre": "Action, Thriller",
+    "plot": "Held against her will for years by a sadistic Yakuza boss, the seductively dangerous Everly finally gets a chance to break free from slavery. Armed with an almost inexhaustible arsenal of destructive weaponry and a rabid will to survive, the wronged woman can now turn the tables on her evil tormentors, as a lucrative open contact on Everly's head attracts an endless wave of cutthroats. However, with the lives of her estranged mother and her little daughter under threat, only a miracle can get Everly out of a tight spot. Can she single-handedly ward off a merciless onslaught of assassins to save her family?",
+    "runtime": "92 min",
+    "director": "Joe Lynch",
+    "actors": "Salma Hayek, Hiroyuki Watanabe, Laura Cepeda",
+    "production_country": "United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjEyNTU4NTE5NV5BMl5BanBnXkFtZTgwNzY4NzIxNDE@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/277355.webp",
+    "imdb_rating": "5.1",
+    "imdb_votes": "20,119",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Everly_(film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/277355.txt",
+    "plot_year_start": 2011,
+    "plot_year_end": 2011,
+    "epoch": "post-911-world",
+    "action_countries": [
+      "UNKNOWN"
+    ],
+    "action_continents": [
+      "UNKNOWN"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "criminal underworld mixed with public authority",
+        "description": "Police, politicians, agents, and gangsters occupy the same shadowy terrain, so legality and corruption often look like neighboring rooms. What you'll see: dirty detectives, mob fixers, political protection, extortion, narcotics cases, and back-room exchanges where badges and crime blend together.",
+        "icon": "🕴️"
+      }
+    ]
+  },
+  {
+    "movie_id": 71254,
+    "movie_idx": 7584,
+    "imdb_id": "tt1117581",
+    "title": "Arena",
+    "production_year": "2011",
+    "genre": "Action, Thriller",
+    "plot": "David Lord finds himself forced into the savage world of a modern gladiatorial arena, where men fight to the death for the entertainment of the online masses.",
+    "runtime": "94 min",
+    "director": "Jonah Loop",
+    "actors": "Samuel L. Jackson, Kellan Lutz, Johnny Messner, Katia Winter",
+    "production_country": "USA",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTQ3MjQxMzE1NF5BMl5BanBnXkFtZTgwNjg2NzAwNzE@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/71254.webp",
+    "imdb_rating": "4.8",
+    "imdb_votes": "11,726",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Arena_(2011_film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/71254.txt",
+    "plot_year_start": 2010,
+    "plot_year_end": 2010,
+    "epoch": "post-911-world",
+    "action_countries": [
+      "UNKNOWN"
+    ],
+    "action_continents": [
+      "UNKNOWN"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "screens turning violence into spectacle",
+        "description": "Networked media make private disgrace and public bloodshed instantly visible, feeding outrage, voyeurism, and fame. What you'll see: viral recordings, online audiences, cameras trained on humiliation, staged contests for viewers, and reputations rising or collapsing through the screen.",
+        "icon": "📱"
+      },
+      {
+        "label": "governments acting through hidden powers",
+        "description": "Public authority does not stop at courts and uniforms, but reaches into secret prisons, covert agencies, and unofficial bargains made out of sight. What you'll see: black sites, deep-cover operatives, sealed rooms, handlers and informants, and officials whose power is hard to name but easy to fear.",
+        "icon": "🕵️"
+      }
+    ]
+  },
+  {
+    "movie_id": 44678,
+    "movie_idx": 7705,
+    "imdb_id": "tt1407049",
+    "title": "Altitude",
+    "production_year": "2010",
+    "genre": "Horror, Mystery, Sci-Fi",
+    "plot": "After a mysterious malfunction sends their small plane climbing out of control, a rookie pilot and her four teenage friends find themselves trapped in a deadly showdown with a supernatural force.",
+    "runtime": "90 min",
+    "director": "Kaare Andrews",
+    "actors": "Jessica Lowndes, Julianna Guill, Ryan Donowho",
+    "production_country": "Canada, United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTU3NDQyMDY1NF5BMl5BanBnXkFtZTcwMjM4OTk5Mw@@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/44678.webp",
+    "imdb_rating": "4.8",
+    "imdb_votes": "10,901",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Altitude_(film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/44678.txt",
+    "plot_year_start": 2010,
+    "plot_year_end": 2010,
+    "epoch": "post-911-world",
+    "action_countries": [
+      "UNKNOWN"
+    ],
+    "action_continents": [
+      "UNKNOWN"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "global travel opening onto sudden danger",
+        "description": "Cheap movement across borders for work, family, or leisure brings people into unfamiliar places where local upheaval, isolation, or predation can overtake them fast. What you'll see: airports and cruise ships, tropical resorts, foreign capitals, island getaways, and travelers learning too late how far they are from help.",
+        "icon": "✈️"
+      }
+    ]
+  },
+  {
+    "movie_id": 24589,
+    "movie_idx": 7732,
+    "imdb_id": "tt1537759",
+    "title": "Dug's Special Mission",
+    "production_year": "2009",
+    "genre": "Animation, Short, Comedy, Family",
+    "plot": "Dug is a cheerful, dim, short-legged dog, a walking sausage. On his birthday, he stumbles between a running bird and three dogs in chase; the bird gets away, and, in exasperation, the pack gives him mindless task after mindless task. Dug is enthusiastic, and every assignment backfires on the three. Finally, they threaten him with punishment from their master. Can anything turn Dug's birthday into a happy day?",
+    "runtime": "5 min",
+    "director": "Ronnie Del Carmen",
+    "actors": "Bob Peterson, Delroy Lindo, Jerome Ranft",
+    "production_country": "USA",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTQ3NjI1MjQyNl5BMl5BanBnXkFtZTgwMTkyMDgwMjE@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/24589.webp",
+    "imdb_rating": "7.0",
+    "imdb_votes": "5,916",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Dug%27s_Special_Mission",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/24589.txt",
+    "plot_year_start": 2009,
+    "plot_year_end": 2009,
+    "epoch": "post-911-world",
+    "action_countries": [
+      "UNKNOWN"
+    ],
+    "action_continents": [
+      "UNKNOWN"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "home life under strain and reinvention",
+        "description": "The household is no safe given thing, but a fragile arrangement shaped by divorce, foster care, absent parents, controlling kin, and improvised substitutes. What you'll see: stepfamilies, babysitters and guardians, orphanages and adoptions, suburban houses with private miseries, and children navigating adults they cannot trust.",
+        "icon": "🏠"
+      }
+    ]
+  },
+  {
+    "movie_id": 205081,
+    "movie_idx": 7795,
+    "imdb_id": "tt0837113",
+    "title": "Codename: Kids Next Door - Operation Z.E.R.O.",
+    "production_year": "2006",
+    "genre": "Animation, Action, Adventure",
+    "plot": "The knd must find a way to stop grandfather from ruling the world and turning everyone including adults into senior citizen zombies. Meanwhile numbuh one finds out his loser dad was the great numbuh zero.",
+    "runtime": "74 min",
+    "director": "Tom Warburton, Guy Moore",
+    "actors": "Dee Bradley Baker, Ben Diskin, Cree Summer",
+    "production_country": "United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMzhkNDYxNDAtZGRiZS00OTQzLWEwOWUtMWZiY2YzZDM1MDY0XkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/205081.webp",
+    "imdb_rating": "7.4",
+    "imdb_votes": "1,622",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Codename:_Kids_Next_Door",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/205081.txt",
+    "plot_year_start": 2006,
+    "plot_year_end": 2006,
+    "epoch": "post-911-world",
+    "action_countries": [
+      "UNKNOWN"
+    ],
+    "action_continents": [
+      "UNKNOWN"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "science tinkering beyond ordinary limits",
+        "description": "The age trusts laboratories, devices, and expert schemes to alter bodies, beasts, and the built world, even when the results outrun control. What you'll see: engineered animals, experimental serums, improbable machines, hidden lairs, artificial environments, and gadgets treated as everyday instruments of power.",
+        "icon": "🧪"
+      },
+      {
+        "label": "governments acting through hidden powers",
+        "description": "Public authority does not stop at courts and uniforms, but reaches into secret prisons, covert agencies, and unofficial bargains made out of sight. What you'll see: black sites, deep-cover operatives, sealed rooms, handlers and informants, and officials whose power is hard to name but easy to fear.",
+        "icon": "🕵️"
+      }
+    ]
+  },
+  {
+    "movie_id": 14219,
+    "movie_idx": 7797,
+    "imdb_id": "tt0461703",
+    "title": "Skinwalkers",
+    "production_year": "2006",
+    "genre": "Action, Fantasy, Horror",
+    "plot": "In accordance with the Navajos' legend, a thirteen year-old boy will finish with the curse of the powerful Skinwalkers, a.k.a. werewolves. The half-breed boy Timothy is raised by his human mother Rachel and protected by his Skinwalkers relatives since he was born. His grandmother Nana, his uncle Jonas, his cousin Katherine, her boyfriend Adam and their friend Doak have kept the secret about his bloodline and neither Timothy nor Rachel know the tragic curse. A couple of days before Timothy's thirteenth birthday, a pack of evil Skinwalkers that have tasted blood led by the evil Varek chases the boy while his family protects him.",
+    "runtime": "110 min",
+    "director": "James Isaac",
+    "actors": "Jason Behr, Elias Koteas, Rhona Mitra",
+    "production_country": "Canada, United States, Germany",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTI1OTIyNzc5OF5BMl5BanBnXkFtZTcwNjI1ODI1MQ@@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/14219.webp",
+    "imdb_rating": "4.5",
+    "imdb_votes": "13,922",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Skinwalkers_(2006_film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/14219.txt",
+    "plot_year_start": 2006,
+    "plot_year_end": 2006,
+    "epoch": "post-911-world",
+    "action_countries": [
+      "UNKNOWN"
+    ],
+    "action_continents": [
+      "UNKNOWN"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "ordinary people living with social precarity",
+        "description": "Beneath bright consumer surfaces lie insecure wages, damaged careers, medical shocks, and the fear of falling out of the middle of society. What you'll see: suspended workers, office drudgery, family shops in trouble, court-appointed treatment, cash shortages, and anxious hustling to keep a place in the world.",
+        "icon": "💸"
+      }
+    ]
+  },
+  {
+    "movie_id": 244458,
+    "movie_idx": 7882,
+    "imdb_id": "tt1567437",
+    "title": "The Voices",
+    "production_year": "2014",
+    "genre": "Comedy, Crime, Horror",
+    "plot": "Jerry (Ryan Reynolds) is that chipper guy clocking the 9-to-5 at a bathtub factory, with the offbeat charm of anyone who could use a few friends. With help from his court-appointed psychiatrist, he pursues his office crush (Gemma Arterton), but their relationship takes a sudden murderous turn after she stands him up for a date. Guided by his evil talking cat and benevolent talking dog, Jerry must decide whether to keep striving for normalcy or indulge in the sinister.",
+    "runtime": "103 min",
+    "director": "Marjane Satrapi",
+    "actors": "Ryan Reynolds, Gemma Arterton, Anna Kendrick",
+    "production_country": "United States, Germany",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTQ2NTkzOTAzMV5BMl5BanBnXkFtZTgwMzc2NTAwNDE@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/244458.webp",
+    "imdb_rating": "6.3",
+    "imdb_votes": "65,902",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Voices",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/244458.txt",
+    "plot_year_start": 2010,
+    "plot_year_end": 2010,
+    "epoch": "post-911-world",
+    "action_countries": [
+      "UNKNOWN"
+    ],
+    "action_continents": [
+      "UNKNOWN"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "home life under strain and reinvention",
+        "description": "The household is no safe given thing, but a fragile arrangement shaped by divorce, foster care, absent parents, controlling kin, and improvised substitutes. What you'll see: stepfamilies, babysitters and guardians, orphanages and adoptions, suburban houses with private miseries, and children navigating adults they cannot trust.",
+        "icon": "🏠"
+      }
+    ]
+  },
+  {
+    "movie_id": 84226,
+    "movie_idx": 7942,
+    "imdb_id": "tt1756799",
+    "title": "The Day",
+    "production_year": "2011",
+    "genre": "Action, Drama, Horror",
+    "plot": "This film is set in the near future in a post-apocalyptic time with five survivors struggling to get through each day. They are on the move to find food and other survivors as well as a safe place to hold up for a while. They stumble across a dilapidated house in the country, so they check it out when things turn bad. The house is not as safe as they hoped, and there are other people who have morbid uses for them. Will they survive?",
+    "runtime": "87 min",
+    "director": "Douglas Aarniokoski",
+    "actors": "Shawn Ashmore, Brianna Barnes, Ashley Bell",
+    "production_country": "United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjIwMjQwMTQxNl5BMl5BanBnXkFtZTcwNDQ0NDkwOA@@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/84226.webp",
+    "imdb_rating": "5.2",
+    "imdb_votes": "13,480",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Day_(2011_film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/84226.txt",
+    "plot_year_start": 2012,
+    "plot_year_end": 2012,
+    "epoch": "post-911-world",
+    "action_countries": [
+      "UNKNOWN"
+    ],
+    "action_continents": [
+      "UNKNOWN"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "ordinary people living with social precarity",
+        "description": "Beneath bright consumer surfaces lie insecure wages, damaged careers, medical shocks, and the fear of falling out of the middle of society. What you'll see: suspended workers, office drudgery, family shops in trouble, court-appointed treatment, cash shortages, and anxious hustling to keep a place in the world.",
+        "icon": "💸"
+      },
+      {
+        "label": "cities built on surveillance and control",
+        "description": "Urban life is increasingly managed through monitoring, restricted access, and systems that sort who belongs, who is watched, and who is shut out. What you'll see: guarded compounds, sealed communities, official escorts, suspicious strangers, and streets where movement feels observed and conditional.",
+        "icon": "📹"
+      }
+    ]
+  },
+  {
+    "movie_id": 560044,
+    "movie_idx": 8028,
+    "imdb_id": "tt5206260",
+    "title": "The Willoughbys",
+    "production_year": "2020",
+    "genre": "Animation, Adventure, Comedy",
+    "plot": "After the four children are kicked out of their home by their parents, the children are desperate to find new parents and think of a plan to 'orphan themselves' by sending their parents to a deadly vacation so that they can die. They see a travel agency after wandering homeless in the streets of a busy city, and Tim says, 'We can send them away. What if we orphaned ourselves?\" They then sneak back into their home (still kicked out) without their parents' knowledge, and Tim states, \"We shall craft a murderous adventure.\" He then states, \"A romantic getaway, hiding deadly orphaning opportunities. If they do melt in the hottest place on earth ( a scene is shown of the parents melting in lava)...they shall drown in the wettest (two sharks are shown eating the parents who are in a boat)...Cannibals will feast unless they freeze in glacial ice (a scene is shown where parents are being boiled in a large pot while cannibals dance around the fire with a knife in hand, then it shows them freezing in a glacier)...or dissolve in fields of acid (parents are shown as their skin dissolves due to the acid)...they shall not escape the bears (two large bears being aggressive)...we have saved the deadliest spot for last, the alp.\" Then Jane points to a picture of the alps and says, \"He who goes up does not come down.\" After this point, the kids are on a race to get orphaned so they no longer have to deal with their unloving and selfish parents.",
+    "runtime": "90 min",
+    "director": "Kris Pearn, Cory Evans, Rob Lodermeier",
+    "actors": "Will Forte, Maya Rudolph, Alessia Cara",
+    "production_country": "Canada, United States, United Kingdom",
+    "poster": "https://m.media-amazon.com/images/M/MV5BM2Y3MjZkYzYtMjcwMS00ZWQxLWJhOWMtYWM3OWUyZDQ3MDJmXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/560044.webp",
+    "imdb_rating": "6.4",
+    "imdb_votes": "22,652",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Willoughbys",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/560044.txt",
+    "plot_year_start": 2010,
+    "plot_year_end": 2010,
+    "epoch": "post-911-world",
+    "action_countries": [
+      "UNKNOWN",
+      "CH"
+    ],
+    "action_continents": [
+      "UNKNOWN",
+      "Europe"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "home life under strain and reinvention",
+        "description": "The household is no safe given thing, but a fragile arrangement shaped by divorce, foster care, absent parents, controlling kin, and improvised substitutes. What you'll see: stepfamilies, babysitters and guardians, orphanages and adoptions, suburban houses with private miseries, and children navigating adults they cannot trust.",
+        "icon": "🏠"
+      }
+    ]
+  },
+  {
+    "movie_id": 63700,
+    "movie_idx": 8082,
+    "imdb_id": "tt1673423",
+    "title": "My Babysitter's a Vampire",
+    "production_year": "2010",
+    "genre": "Adventure, Comedy, Crime",
+    "plot": "Ethan Morgan is a geeky freshman, not trusted by his parents to stay home alone with his little sister Jane. They hire Erica, a girl from Ethan's high school who is a huge fan of \"Dusk\", as a babysitter. However, Erica comes across her best friend Sarah, and Jesse, Sarah's vampire ex-boyfriend, on the night she is to babysit, and decides to attend a party that Jesse is throwing instead. During a fight between Sarah and Jesse, Sarah ends up at Ethan's house and tells Ethan's parents that she was asked to babysit instead. Ethan has a vision when touching Sarah, and notices she has no reflection in the mirror, leaving him suspicious of her. He confides this in his dorky best friend, Benny. Sarah leaves to get Erica back from the party, knowing the party is full of bloodthirsty vampires. Curious, the boys have Benny's grandmother watch over Jane while they follow Sarah. They see her feed on a rat and realize she is a vampire. Sarah quickly explains that she is only a fledgling, a vampire who has not drunk human blood. The three of them return home, where they are attacked by a vampire sent by Jesse. The vampire is subdued by Sarah and they head to the vampire party to save Erica and and their dimwitted friend, Rory. However, Erica has been bitten by Gord and later bites Rory. Ethan, Benny, and Sarah then battle the vampires and escape. The next day, Rory, now a full vampire after drinking human blood, informs Ethan and Benny that Jesse's gang are going to church so Ethan, Benny and Sarah follow them. Ethan has a vision in which he sees a gravestone, whose dates unscramble to the number 219, and a mysterious box, which is then uncovered by the vampires. The box is called the Cubile Animus or \"Nest of Souls.\" Ethan and Sarah figure out Jesse's full plan from an old book, learning that in the original settlement of the town, there was a priest named Reverend Horace Black that led an evil vampire cult. The townspeople burned the cult members, leading to all \"219\" of their deaths during a lunar eclipse. In another vision, Ethan sees that Jesse is Horace Black, and plans to use the box to trap the souls of teens going to see a movie premiere to resurrect the souls of his ancient cult during the lunar eclipse occurring on that same night. Benny's grandmother, who reveals that she is an Earth Priestess, gives Ethan, Benny and Sarah enchanted daggers and a spellbook to defeat the vampires. She explains that Ethan sees visions because he is a Seer, which enables him to see visions through touch, and that Benny is a spellmaster, allowing him to cast spells. At the theater, the vampires begin to steal the souls of the teens, but are thwarted by Ethan, Benny and Sarah. Jesse escapes and Ethan and Benny follow in pursuit. In another vision, Ethan sees the tree he saw inside the old book, realizing it's the tree in his backyard, where they find Jesse. As the eclipse begins, Jesse attempts to hold Ethan and Benny down and resurrect the souls he already obtained from the Cubile Animus, but Sarah intervenes. When the box lands in Ethan's hands, he releases the vengeful souls that were captured, and they destroy Jesse. The next day, Ethan, Benny and Sarah head to school, meeting Erica and Rory, who have decided to live peacefully as vampires.",
+    "runtime": "80 min",
+    "director": "Bruce McDonald",
+    "actors": "Matthew Knight, Vanessa Morgan, Atticus Mitchell",
+    "production_country": "Canada",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTc5OTI1MTEzMV5BMl5BanBnXkFtZTcwODAwOTA3NA@@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/63700.webp",
+    "imdb_rating": "6.1",
+    "imdb_votes": "4,519",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/My_Babysitter%27s_a_Vampire",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/63700.txt",
+    "plot_year_start": 2010,
+    "plot_year_end": 2010,
+    "epoch": "post-911-world",
+    "action_countries": [
+      "UNKNOWN"
+    ],
+    "action_continents": [
+      "UNKNOWN"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "home life under strain and reinvention",
+        "description": "The household is no safe given thing, but a fragile arrangement shaped by divorce, foster care, absent parents, controlling kin, and improvised substitutes. What you'll see: stepfamilies, babysitters and guardians, orphanages and adoptions, suburban houses with private miseries, and children navigating adults they cannot trust.",
+        "icon": "🏠"
+      },
+      {
+        "label": "science tinkering beyond ordinary limits",
+        "description": "The age trusts laboratories, devices, and expert schemes to alter bodies, beasts, and the built world, even when the results outrun control. What you'll see: engineered animals, experimental serums, improbable machines, hidden lairs, artificial environments, and gadgets treated as everyday instruments of power.",
+        "icon": "🧪"
+      }
+    ]
+  },
+  {
+    "movie_id": 1100962,
+    "movie_idx": 8108,
+    "imdb_id": "tt21216870",
+    "title": "One More Time",
+    "production_year": "2023",
+    "genre": "Comedy, Drama, Romance",
+    "plot": "On her 40th birthday, Amelia makes a fateful wish to be 18 again back in 2002 but soon regrets it when she's stuck reliving the day over and over again.",
+    "runtime": "85 min",
+    "director": "Jonatan Etzler",
+    "actors": "Hedda Stiernstedt, Miriam Ingrid, Elinor Silfversparre",
+    "production_country": "Sweden",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMWYzOGNlYjgtM2FjZC00NTE5LTljYjgtOGJiMGFjNWJmMzNlXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/1100962.webp",
+    "imdb_rating": "5.7",
+    "imdb_votes": "2,692",
+    "wikipedia_url": "https://sv.wikipedia.org/wiki/One_More_Time_(film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/1100962.txt",
+    "plot_year_start": 2002,
+    "plot_year_end": 2002,
+    "epoch": "post-911-world",
+    "action_countries": [
+      "UNKNOWN"
+    ],
+    "action_continents": [
+      "UNKNOWN"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "home life under strain and reinvention",
+        "description": "The household is no safe given thing, but a fragile arrangement shaped by divorce, foster care, absent parents, controlling kin, and improvised substitutes. What you'll see: stepfamilies, babysitters and guardians, orphanages and adoptions, suburban houses with private miseries, and children navigating adults they cannot trust.",
+        "icon": "🏠"
+      }
+    ]
+  },
+  {
+    "movie_id": 198436,
+    "movie_idx": 8150,
+    "imdb_id": "tt2436046",
+    "title": "Antboy",
+    "production_year": "2013",
+    "genre": "Adventure, Comedy, Family",
+    "plot": "12-year-old Pelle is bitten by an ant and develops superpowers. Aided by comic book nerd Wilhelm, Pelle creates a secret identity as superhero Antboy. When a super villain The Flea enters the scene, Antboy must step up to the challenge.",
+    "runtime": "77 min",
+    "director": "Ask Hasselbalch",
+    "actors": "Oscar Dietz, Amalie Kruse Jensen, Samuel Ting Graf",
+    "production_country": "Denmark",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZjA2MWZlM2EtNDU3NC00MmVkLTg2ZWEtZDZhOTY4ZmIwODc2XkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/198436.webp",
+    "imdb_rating": "5.2",
+    "imdb_votes": "2,572",
+    "wikipedia_url": "https://it.wikipedia.org/wiki/Antboy",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/198436.txt",
+    "plot_year_start": 2013,
+    "plot_year_end": 2013,
+    "epoch": "post-911-world",
+    "action_countries": [
+      "UNKNOWN"
+    ],
+    "action_continents": [
+      "UNKNOWN"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "science tinkering beyond ordinary limits",
+        "description": "The age trusts laboratories, devices, and expert schemes to alter bodies, beasts, and the built world, even when the results outrun control. What you'll see: engineered animals, experimental serums, improbable machines, hidden lairs, artificial environments, and gadgets treated as everyday instruments of power.",
+        "icon": "🧪"
+      }
+    ]
+  },
+  {
+    "movie_id": 86985,
+    "movie_idx": 8284,
+    "imdb_id": "tt1731998",
+    "title": "ID:A",
+    "production_year": "2011",
+    "genre": "Thriller",
+    "plot": "A woman wakes up in a river. Wounded and without memory, then races to elude mysterious followers and recover from amnesia.",
+    "runtime": "104 min",
+    "director": "Christian E. Christiansen",
+    "actors": "Tuva Novotny, Flemming Enevold, Carsten Bjørnlund",
+    "production_country": "Denmark",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjEyNjI4MjE1N15BMl5BanBnXkFtZTgwNzAxNTA2MDE@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/86985.webp",
+    "imdb_rating": "6.0",
+    "imdb_votes": "2,384",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/ID_A",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/86985.txt",
+    "plot_year_start": 2011,
+    "plot_year_end": 2011,
+    "epoch": "post-911-world",
+    "action_countries": [
+      "UNKNOWN"
+    ],
+    "action_continents": [
+      "UNKNOWN"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "security fears shaping public life",
+        "description": "Daily life is shadowed by the sense that sudden attack, outbreak, or public disorder can erupt without warning, and institutions answer with watchfulness and force. What you'll see: embassies under guard, checkpoints and barricades, emergency quarantines, armed responders, and crowds panicking as order thins.",
+        "icon": "🚧"
+      }
+    ]
+  },
+  {
+    "movie_id": 893685,
+    "movie_idx": 8515,
+    "imdb_id": "tt16452694",
+    "title": "Crush Kong Curly",
+    "production_year": "2021",
+    "genre": "Comedy, Romance",
+    "plot": "When a curly camgirl Elle meets an architect, Peter, she believes she's ready to love again. How long can she keep her secret job to him?",
+    "runtime": "101 min",
+    "director": "GB Sampedro",
+    "actors": "AJ Raval, Wilbert Ross, Gina Pareño",
+    "production_country": "Philippines",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNDFjODk0ZmItYzM1YS00YmI0LWJmNzctNDEwMzhkNjdlMGU4XkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/893685.webp",
+    "imdb_rating": "N/A",
+    "imdb_votes": "347",
+    "plot_year_start": 2010,
+    "plot_year_end": 2010,
+    "epoch": "post-911-world",
+    "action_countries": [
+      "UNKNOWN"
+    ],
+    "action_continents": [
+      "UNKNOWN"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "home life under strain and reinvention",
+        "description": "The household is no safe given thing, but a fragile arrangement shaped by divorce, foster care, absent parents, controlling kin, and improvised substitutes. What you'll see: stepfamilies, babysitters and guardians, orphanages and adoptions, suburban houses with private miseries, and children navigating adults they cannot trust.",
+        "icon": "🏠"
+      }
+    ],
+    "failures": {
+      "wikipedia": "no_wiki_article_found"
+    }
+  },
+  {
+    "movie_id": 333354,
+    "movie_idx": 8598,
+    "imdb_id": "tt2957760",
+    "title": "Extortion",
+    "production_year": "2017",
+    "genre": "Action, Adventure, Crime",
+    "plot": "When a Caribbean family vacation takes a disastrous turn, a father finds himself at the mercy of a cold-blooded fisherman, and a desperate race against the clock to save his wife and son.",
+    "runtime": "108 min",
+    "director": "Phil Volken",
+    "actors": "Eion Bailey, Bethany Joy Lenz, Mauricio Alemañy",
+    "production_country": "United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYTFjZTJhYjMtN2FkNy00NTI2LWI0M2UtNDE3MzllZTI3NGY3XkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/333354.webp",
+    "imdb_rating": "6.2",
+    "imdb_votes": "9,621",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Extortion_(2017_film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/333354.txt",
+    "plot_year_start": 2010,
+    "plot_year_end": 2010,
+    "epoch": "post-911-world",
+    "action_countries": [
+      "UNKNOWN"
+    ],
+    "action_continents": [
+      "UNKNOWN"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "criminal underworld mixed with public authority",
+        "description": "Police, politicians, agents, and gangsters occupy the same shadowy terrain, so legality and corruption often look like neighboring rooms. What you'll see: dirty detectives, mob fixers, political protection, extortion, narcotics cases, and back-room exchanges where badges and crime blend together.",
+        "icon": "🕴️"
+      }
+    ]
+  },
+  {
+    "movie_id": 50300,
+    "movie_idx": 8828,
+    "imdb_id": "tt1232047",
+    "title": "Ed, Edd n Eddy's Big Picture Show",
+    "production_year": "2009",
+    "genre": "Animation, Action, Adventure",
+    "plot": "When a scam goes horribly wrong and leaves the neighborhood kids furious, the Eds embark on a journey to find Eddy's brother to save them from their consequences in the \"Ed, Edd, n Eddy\" series finale.",
+    "runtime": "87 min",
+    "director": "Danny Antonucci",
+    "actors": "Matt Hill, Sam Vincent, Tony Sampson",
+    "production_country": "Canada, United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BOWI1NDE1NzItMjVlMi00ZGJmLWJlMGYtZmJkYzRlODMwY2FmXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/50300.webp",
+    "imdb_rating": "8.1",
+    "imdb_votes": "3,333",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Ed,_Edd_n_Eddy%27s_Big_Picture_Show",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/50300.txt",
+    "plot_year_start": 2009,
+    "plot_year_end": 2009,
+    "epoch": "post-911-world",
+    "action_countries": [
+      "UNKNOWN"
+    ],
+    "action_continents": [
+      "UNKNOWN"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "home life under strain and reinvention",
+        "description": "The household is no safe given thing, but a fragile arrangement shaped by divorce, foster care, absent parents, controlling kin, and improvised substitutes. What you'll see: stepfamilies, babysitters and guardians, orphanages and adoptions, suburban houses with private miseries, and children navigating adults they cannot trust.",
+        "icon": "🏠"
+      },
+      {
+        "label": "ordinary people living with social precarity",
+        "description": "Beneath bright consumer surfaces lie insecure wages, damaged careers, medical shocks, and the fear of falling out of the middle of society. What you'll see: suspended workers, office drudgery, family shops in trouble, court-appointed treatment, cash shortages, and anxious hustling to keep a place in the world.",
+        "icon": "💸"
+      }
+    ]
+  },
+  {
+    "movie_id": 332976,
+    "movie_idx": 9200,
+    "imdb_id": "tt3503840",
+    "title": "Absolution",
+    "production_year": "2015",
+    "genre": "Action, Crime, Thriller",
+    "plot": "When a contract killer (Steven Seagal) encounters a girl on the run from a mob boss (Vinnie Jones) with powerful political ties, he is torn between protecting the girl, and remaining loyal to the government agency that hired him for the mission.",
+    "runtime": "96 min",
+    "director": "Keoni Waxman",
+    "actors": "Steven Seagal, Byron Mann, Howard Dell",
+    "production_country": "Romania, United States, Ukraine",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTY2NjY0NzYzOF5BMl5BanBnXkFtZTgwMDM2MzI4NDE@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/332976.webp",
+    "imdb_rating": "4.4",
+    "imdb_votes": "4,018",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Absolution_(2015_film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/332976.txt",
+    "plot_year_start": 2010,
+    "plot_year_end": 2010,
+    "epoch": "post-911-world",
+    "action_countries": [
+      "UNKNOWN"
+    ],
+    "action_continents": [
+      "UNKNOWN"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "criminal underworld mixed with public authority",
+        "description": "Police, politicians, agents, and gangsters occupy the same shadowy terrain, so legality and corruption often look like neighboring rooms. What you'll see: dirty detectives, mob fixers, political protection, extortion, narcotics cases, and back-room exchanges where badges and crime blend together.",
+        "icon": "🕴️"
+      },
+      {
+        "label": "governments acting through hidden powers",
+        "description": "Public authority does not stop at courts and uniforms, but reaches into secret prisons, covert agencies, and unofficial bargains made out of sight. What you'll see: black sites, deep-cover operatives, sealed rooms, handlers and informants, and officials whose power is hard to name but easy to fear.",
+        "icon": "🕵️"
+      }
+    ]
+  },
+  {
+    "movie_id": 1104102,
+    "movie_idx": 9204,
+    "imdb_id": "tt29381709",
+    "title": "Swing Into Romance",
+    "production_year": "2023",
+    "genre": "Drama",
+    "plot": "When former dancer Christine Sims (McKellar) returns to her hometown, she discovers her family's Store is in trouble. In an efforts to save the business, she needs to dust off her dancing shoes, face her ex-fiancé, and maybe find ...",
+    "runtime": "90 min",
+    "director": "Bradley Walsh",
+    "actors": "Danica McKellar, David Haydn-Jones, Gleb Savchenko",
+    "production_country": "Canada, United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYTM2YjAyNmUtNjY4Mi00YTE3LTg1ODEtNmViMWEzOGQyNTE0XkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/1104102.webp",
+    "imdb_rating": "6.0",
+    "imdb_votes": "837",
+    "plot_year_start": 2010,
+    "plot_year_end": 2010,
+    "epoch": "post-911-world",
+    "action_countries": [
+      "UNKNOWN"
+    ],
+    "action_continents": [
+      "UNKNOWN"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "home life under strain and reinvention",
+        "description": "The household is no safe given thing, but a fragile arrangement shaped by divorce, foster care, absent parents, controlling kin, and improvised substitutes. What you'll see: stepfamilies, babysitters and guardians, orphanages and adoptions, suburban houses with private miseries, and children navigating adults they cannot trust.",
+        "icon": "🏠"
+      }
+    ],
+    "failures": {
+      "wikipedia": "no_wiki_article_found"
+    }
+  },
+  {
+    "movie_id": 257874,
+    "movie_idx": 9836,
+    "imdb_id": "tt2325518",
+    "title": "Beneath",
+    "production_year": "2013",
+    "genre": "Horror, Sci-Fi, Thriller",
+    "plot": "After six teens graduate from high school, they decide to spend one final outing with each other on a rowboat in a lake before they go their separate ways. However, after a man-eating fish kills one of them and destroys their oars, they find themselves trapped in the middle of the lake. Soon afterwards, they realize they have to determine who is to be thrown into the water as a distraction, so the rest of the group can paddle to shore.",
+    "runtime": "90 min",
+    "director": "Larry Fessenden",
+    "actors": "Bonnie Dennison, Daniel Zovatto, Jon Orsini",
+    "production_country": "United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjA2Mjc4NDYxOF5BMl5BanBnXkFtZTcwNTI2OTM0OA@@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/257874.webp",
+    "imdb_rating": "3.5",
+    "imdb_votes": "5,200",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Beneath_(2013_film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/257874.txt",
+    "plot_year_start": 2013,
+    "plot_year_end": 2013,
+    "epoch": "post-911-world",
+    "action_countries": [
+      "UNKNOWN"
+    ],
+    "action_continents": [
+      "UNKNOWN"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "home life under strain and reinvention",
+        "description": "The household is no safe given thing, but a fragile arrangement shaped by divorce, foster care, absent parents, controlling kin, and improvised substitutes. What you'll see: stepfamilies, babysitters and guardians, orphanages and adoptions, suburban houses with private miseries, and children navigating adults they cannot trust.",
+        "icon": "🏠"
+      }
+    ]
+  }
+]

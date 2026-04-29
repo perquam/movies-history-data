@@ -1,0 +1,1473 @@
+[
+  {
+    "movie_id": 11970,
+    "movie_idx": 483,
+    "imdb_id": "tt0119282",
+    "title": "Hercules",
+    "production_year": "1997",
+    "genre": "Animation, Action, Adventure",
+    "plot": "Hercules, son of the Greek God, Zeus, is turned into a half-god, half-mortal by evil Hades, God of the Underworld, who plans to overthrow Zeus. Hercules is raised on Earth and retains his god-like strength, but when he discovers his immortal heritage Zeus tells him that to return to Mount Olympus he must become a true hero. Hercules becomes a famous hero with the help of his friend Pegasus and his personal trainer, Phil the satyr. Hercules battles monsters, Hades and the Titans, but it is his self-sacrifice to rescue his love Meg which makes him a true hero.",
+    "runtime": "93 min",
+    "director": "Ron Clements, John Musker",
+    "actors": "Tate Donovan, Susan Egan, James Woods",
+    "production_country": "United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMmUyZGY1ZjItMWYwZS00MjJjLTg1YzAtY2Q5OTA4MmFhYzFjXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/11970.webp",
+    "imdb_rating": "7.3",
+    "imdb_votes": "277,130",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Hercules_(1997_film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/11970.txt",
+    "plot_year_start": -1200,
+    "plot_year_end": -500,
+    "epoch": "ancient-world",
+    "action_countries": [
+      "GR"
+    ],
+    "action_continents": [
+      "Europe"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "gods, omens, and sacred fate",
+        "description": "The world is understood as crowded with divine powers, portents, curses, and destinies that shape rule, war, and daily choices. What you'll see: sacrifices and shrines, seers and prophecies, invocations before battle, monsters taken as part of the world's order, and rulers claiming heavenly favour.",
+        "icon": "🔮"
+      }
+    ]
+  },
+  {
+    "movie_id": 98,
+    "movie_idx": 531,
+    "imdb_id": "tt0172495",
+    "title": "Gladiator",
+    "production_year": "2000",
+    "genre": "Action, Adventure, Drama",
+    "plot": "Maximus is a powerful Roman general, loved by the people and the aging Emperor, Marcus Aurelius. Before his death, the Emperor chooses Maximus to be his heir over his own son, Commodus, and a power struggle leaves Maximus and his family condemned to death. The powerful general is unable to save his family, and his loss of will allows him to get captured and put into the Gladiator games until he dies. The only desire that fuels him now is the chance to rise to the top so that he will be able to look into the eyes of the man who will feel his revenge.",
+    "runtime": "155 min",
+    "director": "Ridley Scott",
+    "actors": "Russell Crowe, Joaquin Phoenix, Connie Nielsen",
+    "production_country": "United States, United Kingdom, Malta, Morocco",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYWQ4YmNjYjEtOWE1Zi00Y2U4LWI4NTAtMTU0MjkxNWQ1ZmJiXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/98.webp",
+    "imdb_rating": "8.5",
+    "imdb_votes": "1,831,468",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Gladiator_(2000_film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/98.txt",
+    "plot_year_start": 180,
+    "plot_year_end": 180,
+    "epoch": "ancient-world",
+    "action_countries": [
+      "IT",
+      "MA",
+      "DE",
+      "GB"
+    ],
+    "action_continents": [
+      "Europe",
+      "Africa",
+      "Europe",
+      "Europe"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "rome holding provinces with soldiers",
+        "description": "Across much of Europe, Roman authority is kept by legions, governors, taxes, and fortified frontiers that bind distant lands to the centre. What you'll see: marching columns, forts and walls, standards and eagles, garrisons on wild borders, and officials speaking for imperial power.",
+        "icon": "🦅"
+      },
+      {
+        "label": "captives, slaves, and hostages as property",
+        "description": "Defeat in war or debt can turn people into saleable property, while elite hostages are used to secure obedience between peoples and rulers. What you'll see: slave markets and chains, household servants, rowers and labourers, noble wards at court, and people traded as part of power.",
+        "icon": "⛓️"
+      }
+    ]
+  },
+  {
+    "movie_id": 9078,
+    "movie_idx": 1090,
+    "imdb_id": "tt0057546",
+    "title": "The Sword in the Stone",
+    "production_year": "1963",
+    "genre": "Animation, Adventure, Comedy",
+    "plot": "Arthur (aka Wart) is a young boy who aspires to be a knight's squire. On a hunting trip he falls in on Merlin, a powerful but amnesiac wizard who has plans for Wart beyond mere squiredom. He starts by trying to give Wart an education (whatever that is), believing that once one has an education, one can go anywhere. Needless to say, it doesn't quite work out that way.",
+    "runtime": "79 min",
+    "director": "Wolfgang Reitherman, Clyde Geronimi, David Hand",
+    "actors": "Rickie Sorensen, Sebastian Cabot, Karl Swenson",
+    "production_country": "United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BN2U1ZDI3OGMtOTU0Ni00MTAxLTgwYWEtN2QwZDI4ZTQ5MTQ0XkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/9078.webp",
+    "imdb_rating": "7.1",
+    "imdb_votes": "112,942",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Sword_in_the_Stone_(1963_film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/9078.txt",
+    "plot_year_start": 470,
+    "plot_year_end": 520,
+    "epoch": "ancient-world",
+    "action_countries": [
+      "GB"
+    ],
+    "action_continents": [
+      "Europe"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "kings ruling through kin and oath",
+        "description": "Power rests on personal allegiance to a ruler, with bloodline, fosterage, and sworn loyalty holding kingdoms together more than fixed law. What you'll see: mead halls and royal courts, gift-giving and oath-taking, rival heirs, and nobles gathered around the high seat.",
+        "icon": "👑"
+      }
+    ]
+  },
+  {
+    "movie_id": 967,
+    "movie_idx": 1099,
+    "imdb_id": "tt0054331",
+    "title": "Spartacus",
+    "production_year": "1960",
+    "genre": "Adventure, Biography, Drama",
+    "plot": "In 73 B.C., a Thracian slave leads a revolt at a gladiatorial school run by Lentulus Batiatus (Sir Peter Ustinov). The uprising soon spreads across the Italian Peninsula involving thousand of slaves. The plan is to acquire sufficient funds to acquire ships from Silesian pirates who could then transport them to other lands from Brandisium in the south. The Roman Senator Gracchus (Charles Laughton) schemes to have Marcus Publius Glabrus (John Dall), Commander of the garrison of Rome, lead an army against the slaves who are living on Vesuvius. When Glabrus is defeated his mentor, Senator and General Marcus Licinius Crassus (Sir Laurence Olivier) is greatly embarrassed and leads his own army against the slaves. Spartacus and the thousands of freed slaves successfully make their way to Brandisium only to find that the Silesians have abandoned them. They then turn north and must face the might of Rome.",
+    "runtime": "197 min",
+    "director": "Stanley Kubrick",
+    "actors": "Kirk Douglas, Laurence Olivier, Tony Curtis",
+    "production_country": "United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTcyOThhYzktMTYyMi00NDU5LWExZWMtOWUzNGJiZGFlMWQwXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/967.webp",
+    "imdb_rating": "7.9",
+    "imdb_votes": "150,618",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Spartacus_(film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/967.txt",
+    "plot_year_start": -72,
+    "plot_year_end": -71,
+    "epoch": "ancient-world",
+    "action_countries": [
+      "IT"
+    ],
+    "action_continents": [
+      "Europe"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "rome holding provinces with soldiers",
+        "description": "Across much of Europe, Roman authority is kept by legions, governors, taxes, and fortified frontiers that bind distant lands to the centre. What you'll see: marching columns, forts and walls, standards and eagles, garrisons on wild borders, and officials speaking for imperial power.",
+        "icon": "🦅"
+      },
+      {
+        "label": "captives, slaves, and hostages as property",
+        "description": "Defeat in war or debt can turn people into saleable property, while elite hostages are used to secure obedience between peoples and rulers. What you'll see: slave markets and chains, household servants, rowers and labourers, noble wards at court, and people traded as part of power.",
+        "icon": "⛓️"
+      }
+    ]
+  },
+  {
+    "movie_id": 9453,
+    "movie_idx": 1124,
+    "imdb_id": "tt0080491",
+    "title": "Caligula",
+    "production_year": "1979",
+    "genre": "Drama, History",
+    "plot": "Pagan Rome, 37 A.D. With the reign of the frail, syphilis-ridden, half-mad Emperor Tiberius coming to an end, Prince Gaius Augustus Germanicus, aka Caligula, is summoned to the demented ruler's palace of sin on the island of Capri. After the murder of bedridden Tiberius, Caligula is proclaimed the new emperor, who, in turn, proclaims his beloved sister and lover, Julia Drusilla, as his equal, much to the disgust of the Roman Senate. Now, as a four-year reign of depravity and terror commences, allegiances turn into betrayal, virginities are destroyed, torture and execution weed out the competition, and dangerously megalomaniac Caligula declares himself a god. Can the Roman Empire tolerate the uncontrollable mania of the insane tyrant?",
+    "runtime": "156 min",
+    "director": "Tinto Brass",
+    "actors": "Malcolm McDowell, Peter O'Toole, Helen Mirren",
+    "production_country": "Italy",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYjllZjhiZWUtMTM1OC00YWJkLWJkOWUtMWZlNzBhNjM2M2QxXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/9453.webp",
+    "imdb_rating": "5.3",
+    "imdb_votes": "41,523",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Caligula_(film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/9453.txt",
+    "plot_year_start": 37,
+    "plot_year_end": 41,
+    "epoch": "ancient-world",
+    "action_countries": [
+      "IT",
+      "UNKNOWN"
+    ],
+    "action_continents": [
+      "Europe",
+      "UNKNOWN"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "rule contested by senate and court",
+        "description": "Even under monarchs and emperors, government is shaped by councils, noble households, and court factions where favour can raise or ruin a man. What you'll see: formal audiences, senators and counsellors, messengers carrying decrees, whispered plots in palaces, and punishments handed down as public warning.",
+        "icon": "📜"
+      },
+      {
+        "label": "kings ruling through kin and oath",
+        "description": "Power rests on personal allegiance to a ruler, with bloodline, fosterage, and sworn loyalty holding kingdoms together more than fixed law. What you'll see: mead halls and royal courts, gift-giving and oath-taking, rival heirs, and nobles gathered around the high seat.",
+        "icon": "👑"
+      }
+    ]
+  },
+  {
+    "movie_id": 53182,
+    "movie_idx": 1165,
+    "imdb_id": "tt1253863",
+    "title": "300: Rise of an Empire",
+    "production_year": "2014",
+    "genre": "Action, Drama, Fantasy",
+    "plot": "After its victory over Leonidas' 300, the Persian Army under the command of Xerxes marches towards the major Greek city-states. The Democratic city of Athens, first on the path of Xerxes' army, bases its strength on its fleet, led by admiral Themistocles. Themistocles is forced to an unwilling alliance with the traditional rival of Athens, oligarchic Sparta whose might lies with its superior infantry troops. But Xerxes still reigns supreme in numbers over sea and land.",
+    "runtime": "102 min",
+    "director": "Noam Murro",
+    "actors": "Sullivan Stapleton, Eva Green, Lena Headey",
+    "production_country": "United States, Bulgaria",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTEwNTU2MjAwMDdeQTJeQWpwZ15BbWU3MDk2Njc2Njk@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/53182.webp",
+    "imdb_rating": "6.2",
+    "imdb_votes": "327,913",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/300:_Rise_of_an_Empire",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/53182.txt",
+    "plot_year_start": 480,
+    "plot_year_end": 490,
+    "epoch": "ancient-world",
+    "action_countries": [
+      "GR",
+      "IR",
+      "UNKNOWN"
+    ],
+    "action_continents": [
+      "Europe",
+      "Asia",
+      "UNKNOWN"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "seas and rivers tying lands together",
+        "description": "Travel, trade, raiding, and war move along coasts and waterways, making ships as important as roads for power and survival. What you'll see: oared vessels and harbour quays, river crossings, sea-borne war bands, cargoes from afar, and perilous journeys to foreign shores.",
+        "icon": "⛵"
+      }
+    ]
+  },
+  {
+    "movie_id": 188207,
+    "movie_idx": 1449,
+    "imdb_id": "tt1043726",
+    "title": "The Legend of Hercules",
+    "production_year": "2014",
+    "genre": "Action, Adventure, Fantasy",
+    "plot": "In Ancient Greece 1200 B.C., a queen succumbs to the lust of Zeus to bear a son promised to overthrow the tyrannical rule of the king and restore peace to a land in hardship. But this prince, Hercules, knows nothing of his real identity or his destiny. He desires only one thing: the love of Hebe, Princess of Crete, who has been promised to his own brother. When Hercules learns of his greater purpose, he must choose: to flee with his true love or to fulfill his destiny and become the true hero of his time. The story behind one of the greatest myths is revealed in this action-packed epic - a tale of love, sacrifice and the strength of the human spirit.",
+    "runtime": "99 min",
+    "director": "Renny Harlin",
+    "actors": "Kellan Lutz, Gaia Weiss, Scott Adkins",
+    "production_country": "United States, Bulgaria",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTQwMjEyODQxMV5BMl5BanBnXkFtZTgwMDQxMjE3MDE@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/188207.webp",
+    "imdb_rating": "4.3",
+    "imdb_votes": "57,364",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Legend_of_Hercules",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/188207.txt",
+    "plot_year_start": -1199,
+    "plot_year_end": -1199,
+    "epoch": "ancient-world",
+    "action_countries": [
+      "GR"
+    ],
+    "action_continents": [
+      "Europe"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "gods, omens, and sacred fate",
+        "description": "The world is understood as crowded with divine powers, portents, curses, and destinies that shape rule, war, and daily choices. What you'll see: sacrifices and shrines, seers and prophecies, invocations before battle, monsters taken as part of the world's order, and rulers claiming heavenly favour.",
+        "icon": "🔮"
+      },
+      {
+        "label": "captives, slaves, and hostages as property",
+        "description": "Defeat in war or debt can turn people into saleable property, while elite hostages are used to secure obedience between peoples and rulers. What you'll see: slave markets and chains, household servants, rowers and labourers, noble wards at court, and people traded as part of power.",
+        "icon": "⛓️"
+      }
+    ]
+  },
+  {
+    "movie_id": 476968,
+    "movie_idx": 1529,
+    "imdb_id": "tt7388562",
+    "title": "Paul, Apostle of Christ",
+    "production_year": "2018",
+    "genre": "Adventure, Biography, Drama",
+    "plot": "Roma, 67 AD. After the great fire that burnt a great part of the city, Emperor Nero points Paul, Jesus' apostle, as guilty of the fire, arresting him and taking him to Mamertine Prison. There prefect Mauritius struggles between his daughter Caelia, who suffers an unknown disease, and his job as warden of the prison commanded by own Nero, that he is considers as a failure on his military carrier. Despite the risks for the Christians, physician and medicine man Luke arrives Roma from Greek Islands to find Paul, living in the house of Aquila and Priscilla, two former Romans turned in Christians that they use their home as shelter for others Roman Christians to save them from Nero's soldiers, who kill all Christians they find, torturing and using them as human candles to light Roma's streets at night. After realizing that Paul is in Mamertine, Luke get access to the jail and he meets Paul, who accepts Luke's request to tell his biography to be known before he is executed by Nero, writing it in a new book about Gospel and Jesus' teachings. Meanwhile Luke writes detailing the beginnings of \"The Way\" and the birth of what will come to be known as the church, a bound on chains Paul fights the inner demons of his remembers as survivor of much-floggings, shipwreck, starvation, stoning, hunger and thirst, cold and exposure-yet, waiting for his appointment with death and haunted by the shadows of his violent past, wondering if he has been forgotten and if he has the strength to finish well. Mauritius, discovering Luke's intrusion, tries use it to earn Nero's favor in the belief that Paul will confess to be who burnt Roma. Intriguished by Luke, Mauritius permits more meetings between Luke and Paul to disgust of Mauritius' wife Irenica, who lives in eternal suffering by Caelia's ill. Due to the increase of violence by a young Christians looking for vengeance, Priscilla and Aquila doubt to leave Roma with the people saved or stay to save more Romans, at the same time that Luke's life and his efforts for the book endangers by Mauritius' ambitions. With time running out, Luke faces his destiny, that not only will changes everything around him, too around the world.",
+    "runtime": "108 min",
+    "director": "Andrew Hyatt",
+    "actors": "Jim Caviezel, James Faulkner, Olivier Martinez",
+    "production_country": "United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMDFiOTMxNmEtYTZjNy00MDA1LTkxZmMtMjQ4MGUzNzRmZmRiXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/476968.webp",
+    "imdb_rating": "6.6",
+    "imdb_votes": "10,330",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Apostle_(film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/476968.txt",
+    "plot_year_start": 67,
+    "plot_year_end": 67,
+    "epoch": "ancient-world",
+    "action_countries": [
+      "IT"
+    ],
+    "action_continents": [
+      "Europe"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "the new christian faith spreading quietly",
+        "description": "In the Roman world, devotion to Christ begins as a small and often suspect way of worship that sits uneasily beside older cults and emperor reverence. What you'll see: house gatherings and whispered prayers, prisoners visited for faith, clashes with pagan custom, and symbols of belief carried in secret.",
+        "icon": "✝️"
+      }
+    ]
+  },
+  {
+    "movie_id": 274857,
+    "movie_idx": 1997,
+    "imdb_id": "tt1972591",
+    "title": "King Arthur: Legend of the Sword",
+    "production_year": "2017",
+    "genre": "Action, Adventure, Drama",
+    "plot": "An alternative version of the King Arthur legend. As a boy, Arthur is left orphaned after his father, King Uther Pendragon, and mother are killed in a war waged against them by Vortigern, who then assumes the throne. Arthur flees and is raised in a brothel, knowing very little of his birthright. Vortigern wants Arthur dead, to ensure there is no claimant to the throne. The legends foretell that only the next king will be able to draw Excalibur, Uther's sword, from the rock where it is lodged. So, in an effort to identify Arthur, Vortigern forces all the young men of Arthur's age to attempt to draw out the sword. Now it is Arthur's turn.",
+    "runtime": "126 min",
+    "director": "Guy Ritchie",
+    "actors": "Charlie Hunnam, Astrid Bergès-Frisbey, Jude Law",
+    "production_country": "United Kingdom, United States, India, Canada",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjM3ODY3Njc5Ml5BMl5BanBnXkFtZTgwMjQ5NjM5MTI@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/274857.webp",
+    "imdb_rating": "6.7",
+    "imdb_votes": "243,115",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/King_Arthur:_Legend_of_the_Sword",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/274857.txt",
+    "plot_year_start": 500,
+    "plot_year_end": 600,
+    "epoch": "ancient-world",
+    "action_countries": [
+      "GB"
+    ],
+    "action_continents": [
+      "Europe"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "kings ruling through kin and oath",
+        "description": "Power rests on personal allegiance to a ruler, with bloodline, fosterage, and sworn loyalty holding kingdoms together more than fixed law. What you'll see: mead halls and royal courts, gift-giving and oath-taking, rival heirs, and nobles gathered around the high seat.",
+        "icon": "👑"
+      }
+    ]
+  },
+  {
+    "movie_id": 9477,
+    "movie_idx": 2096,
+    "imdb_id": "tt0349683",
+    "title": "King Arthur",
+    "production_year": "2004",
+    "genre": "Action, Adventure, Drama",
+    "plot": "In 400 AD, the Roman Empire extends to Britain and the Romans become impressed with the fight skills of the warrior Sarmatian people, which are spared, but have to send their sons to serve Rome in the cavalry for fifteen years. Only after these services, these knights are free to return home. King Arthur and the Knights of the Round Table have their last mission before achieving their freedom.",
+    "runtime": "126 min",
+    "director": "Antoine Fuqua",
+    "actors": "Clive Owen, Stephen Dillane, Keira Knightley",
+    "production_country": "Ireland, United Kingdom, United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTk4MTk1NjI0OV5BMl5BanBnXkFtZTcwNDQxOTUyMQ@@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/9477.webp",
+    "imdb_rating": "6.3",
+    "imdb_votes": "182,290",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/King_Arthur_(2004_film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/9477.txt",
+    "plot_year_start": 400,
+    "plot_year_end": 467,
+    "epoch": "ancient-world",
+    "action_countries": [
+      "GB"
+    ],
+    "action_continents": [
+      "Europe"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "rome holding provinces with soldiers",
+        "description": "Across much of Europe, Roman authority is kept by legions, governors, taxes, and fortified frontiers that bind distant lands to the centre. What you'll see: marching columns, forts and walls, standards and eagles, garrisons on wild borders, and officials speaking for imperial power.",
+        "icon": "🦅"
+      },
+      {
+        "label": "captives, slaves, and hostages as property",
+        "description": "Defeat in war or debt can turn people into saleable property, while elite hostages are used to secure obedience between peoples and rulers. What you'll see: slave markets and chains, household servants, rowers and labourers, noble wards at court, and people traded as part of power.",
+        "icon": "⛓️"
+      }
+    ]
+  },
+  {
+    "movie_id": 7278,
+    "movie_idx": 2472,
+    "imdb_id": "tt1073498",
+    "title": "Meet the Spartans",
+    "production_year": "2008",
+    "genre": "Comedy, Fantasy",
+    "plot": "The heroic Spartan king Leonidas, armed with nothing but leather underwear and a cape, leads a ragtag bunch of 13 Spartan misfit warriors to defend their homeland against thousands of invading Persians whom include the Ghost Rider, Rocky Balboa, the Autobots, and an ugly hunchbacked Paris Hilton and a shaved-head Brittany Spears.",
+    "runtime": "87 min",
+    "director": "Jason Friedberg, Aaron Seltzer",
+    "actors": "Sean Maguire, Kevin Sorbo, Carmen Electra",
+    "production_country": "United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMmQ3NTAyODYtZjAxMy00ZTE4LWJhNmEtZGUyZjhlOTlhMTE1XkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/7278.webp",
+    "imdb_rating": "2.8",
+    "imdb_votes": "114,980",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Meet_the_Spartans",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/7278.txt",
+    "plot_year_start": -480,
+    "plot_year_end": -480,
+    "epoch": "ancient-world",
+    "action_countries": [
+      "GR"
+    ],
+    "action_continents": [
+      "Europe"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "kings ruling through kin and oath",
+        "description": "Power rests on personal allegiance to a ruler, with bloodline, fosterage, and sworn loyalty holding kingdoms together more than fixed law. What you'll see: mead halls and royal courts, gift-giving and oath-taking, rival heirs, and nobles gathered around the high seat.",
+        "icon": "👑"
+      }
+    ]
+  },
+  {
+    "movie_id": 2310,
+    "movie_idx": 2555,
+    "imdb_id": "tt0442933",
+    "title": "Beowulf",
+    "production_year": "2007",
+    "genre": "Animation, Action, Adventure",
+    "plot": "Set against the coming of Christianity, this is the story of the last hero: in 507, a monstrous troll wreaks havoc in the mead hall of Danish King Hrothgar (Sir Anthony Hopkins). He offers rewards for the death of Grendel (Crispin Glover), so Beowulf (Ray Winstone), a great and boastful Geat warrior, arrives with his thanes. Beowulf sets aside his armor and awaits the monster. A fierce battle ensues that leads to Beowolf's entering the watery lair of Grendel's Mother (Angelina Jolie), where a devil's bargain awaits. Beowulf returns to Herot, the castle, and becomes King. Jump ahead many years, and the sins of the father are visited upon Beowulf and his kingdom. The hero must face his weakness and be heroic once again. Is the age of demons over?",
+    "runtime": "115 min",
+    "director": "Robert Zemeckis",
+    "actors": "Ray Winstone, Crispin Glover, Angelina Jolie",
+    "production_country": "United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTUzMjM0MTc3MF5BMl5BanBnXkFtZTcwNzU0ODMyMw@@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/2310.webp",
+    "imdb_rating": "6.3",
+    "imdb_votes": "179,258",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Beowulf_(2007_film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/2310.txt",
+    "plot_year_start": 507,
+    "plot_year_end": 557,
+    "epoch": "ancient-world",
+    "action_countries": [
+      "DK"
+    ],
+    "action_continents": [
+      "Europe"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "gods, omens, and sacred fate",
+        "description": "The world is understood as crowded with divine powers, portents, curses, and destinies that shape rule, war, and daily choices. What you'll see: sacrifices and shrines, seers and prophecies, invocations before battle, monsters taken as part of the world's order, and rulers claiming heavenly favour.",
+        "icon": "🔮"
+      },
+      {
+        "label": "kings ruling through kin and oath",
+        "description": "Power rests on personal allegiance to a ruler, with bloodline, fosterage, and sworn loyalty holding kingdoms together more than fixed law. What you'll see: mead halls and royal courts, gift-giving and oath-taking, rival heirs, and nobles gathered around the high seat.",
+        "icon": "👑"
+      }
+    ]
+  },
+  {
+    "movie_id": 10323,
+    "movie_idx": 2771,
+    "imdb_id": "tt0082186",
+    "title": "Clash of the Titans",
+    "production_year": "1981",
+    "genre": "Action, Adventure, Fantasy",
+    "plot": "Perseus (Harry Hamlin) is the favored son of the god Zeus (Sir Laurence Olivier), but he has unwittingly ticked off the sea goddess Thetis (Dame Maggie Smith). Just to make things worse, Perseus falls in love with the lovely Princess Andromeda (Judi Bowker), who used to be engaged to Thetis' son, Calibos (Neil McCarthy). Soon Perseus is off on one quest after another, with Zeus helping, Thetis hindering, and lots of innocent bystanders getting stabbed, drowned, and squished.",
+    "runtime": "118 min",
+    "director": "Desmond Davis",
+    "actors": "Laurence Olivier, Harry Hamlin, Claire Bloom",
+    "production_country": "United Kingdom, United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMWIyN2Q2OGEtY2I3Mi00YzM0LWEyMjMtOTc2MmQxNTRjMjI5XkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/10323.webp",
+    "imdb_rating": "6.9",
+    "imdb_votes": "49,049",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Clash_of_the_Titans_(1981_film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/10323.txt",
+    "plot_year_start": -1200,
+    "plot_year_end": -500,
+    "epoch": "ancient-world",
+    "action_countries": [
+      "GR"
+    ],
+    "action_continents": [
+      "Europe"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "gods, omens, and sacred fate",
+        "description": "The world is understood as crowded with divine powers, portents, curses, and destinies that shape rule, war, and daily choices. What you'll see: sacrifices and shrines, seers and prophecies, invocations before battle, monsters taken as part of the world's order, and rulers claiming heavenly favour.",
+        "icon": "🔮"
+      }
+    ]
+  },
+  {
+    "movie_id": 1966,
+    "movie_idx": 3088,
+    "imdb_id": "tt0346491",
+    "title": "Alexander",
+    "production_year": "2004",
+    "genre": "Action, Biography, Drama",
+    "plot": "Conquering ninety percent of the known world by the age of twenty-five, Alexander the Great (Colin Farrell) led his armies through twenty-two thousand miles of sieges and conquests in just eight years. Coming out of tiny Macedonia, Alexander led his armies against the mighty Persian Empire, drove west to Egypt, and finally made his way east to India. This movie concentrated on those eight years of battles, as well as his relationship with his boyhood friend and battle mate, Hephaistion (Jared Leto). Alexander died young, of illness, at the age of thirty-two. Alexander's conquests paved the way for the spread of Greek culture (facilitating the spread of Christianity centuries later), and removed many of the obstacles that might have prevented the expansion of the Roman Empire. In other words, the world we know today might never have been if not for Alexander's bloody, yet unifying, conquest.",
+    "runtime": "175 min",
+    "director": "Oliver Stone",
+    "actors": "Colin Farrell, Anthony Hopkins, Rosario Dawson",
+    "production_country": "United States, United Kingdom, Germany, Netherlands, France, Italy, Morocco, Thailand",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTA1NDQ3OTY2NDVeQTJeQWpwZ15BbWU3MDI5MDc0MzM@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/1966.webp",
+    "imdb_rating": "5.6",
+    "imdb_votes": "182,330",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Alexander_(2004_film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/1966.txt",
+    "plot_year_start": -336,
+    "plot_year_end": -323,
+    "epoch": "ancient-world",
+    "action_countries": [
+      "MK",
+      "GR",
+      "EG",
+      "IQ",
+      "IN",
+      "SY"
+    ],
+    "action_continents": [
+      "Europe",
+      "Europe",
+      "Africa",
+      "Asia",
+      "Asia",
+      "Asia"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "kings ruling through kin and oath",
+        "description": "Power rests on personal allegiance to a ruler, with bloodline, fosterage, and sworn loyalty holding kingdoms together more than fixed law. What you'll see: mead halls and royal courts, gift-giving and oath-taking, rival heirs, and nobles gathered around the high seat.",
+        "icon": "👑"
+      }
+    ]
+  },
+  {
+    "movie_id": 37958,
+    "movie_idx": 3555,
+    "imdb_id": "tt1253864",
+    "title": "Immortals",
+    "production_year": "2011",
+    "genre": "Action, Drama, Fantasy",
+    "plot": "Eons after the Gods won their mythic struggle against the Titans, a new evil threatens the land. Mad with power, King Hyperion (Mickey Rourke) has declared war against humanity. Amassing a bloodthirsty army of soldiers disfigured by his own hand, Hyperion has scorched Greece in search of the legendary Epirus Bow, a weapon of unimaginable power forged in the heavens by Ares (Daniel Sharman). Only he who possesses this bow can unleash the Titans, who have been imprisoned deep within the walls of Mount Tartaros since the dawn of time and thirst for revenge. In the King's hands, the bow would rain destruction upon mankind and annihilate the Gods. But ancient law dictates the Gods must not intervene in man's conflict. They remain powerless to stop Hyperion, until a peasant named Theseus (Henry Cavill) comes forth as their only hope. Secretly chosen by Zeus (Luke Evans), Theseus must save his people from Hyperion and his hordes. Rallying a band of fellow outsiders, including visionary Priestess Phaedra (Freida Pinto) and cunning slave Stavros (Stephen Dorff), one hero will lead the uprising, or watch his homeland fall into ruin and his Gods vanish into legend.",
+    "runtime": "110 min",
+    "director": "Tarsem Singh",
+    "actors": "Henry Cavill, Mickey Rourke, John Hurt",
+    "production_country": "Canada, United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTMzMjA2MjA2N15BMl5BanBnXkFtZTcwMTkwNTc5Ng@@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/37958.webp",
+    "imdb_rating": "6.0",
+    "imdb_votes": "182,638",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Immortals_(2011_film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/37958.txt",
+    "plot_year_start": -1228,
+    "plot_year_end": -1228,
+    "epoch": "ancient-world",
+    "action_countries": [
+      "GR"
+    ],
+    "action_continents": [
+      "Europe"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "gods, omens, and sacred fate",
+        "description": "The world is understood as crowded with divine powers, portents, curses, and destinies that shape rule, war, and daily choices. What you'll see: sacrifices and shrines, seers and prophecies, invocations before battle, monsters taken as part of the world's order, and rulers claiming heavenly favour.",
+        "icon": "🔮"
+      }
+    ]
+  },
+  {
+    "movie_id": 2395,
+    "movie_idx": 4352,
+    "imdb_id": "tt0463872",
+    "title": "Asterix at the Olympic Games",
+    "production_year": "2008",
+    "genre": "Adventure, Comedy, Family",
+    "plot": "Astérix and Obélix compete at the Olympics in order to help their friend Lovesix marry Princess Irina. Brutus also tries to win the game with his own team and get rid of his father Julius Caesar.",
+    "runtime": "116 min",
+    "director": "Frédéric Forestier, Thomas Langmann",
+    "actors": "Gérard Depardieu, Clovis Cornillac, Benoît Poelvoorde",
+    "production_country": "France, Germany, Spain, Italy, Belgium",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMDk0ZTU1NzctMjQ0My00NDI3LTkyYTMtOGY5YTYwYjMxYWFiXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/2395.webp",
+    "imdb_rating": "5.2",
+    "imdb_votes": "34,380",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Asterix_at_the_Olympic_Games_(film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/2395.txt",
+    "plot_year_start": -52,
+    "plot_year_end": -52,
+    "epoch": "ancient-world",
+    "action_countries": [
+      "GR"
+    ],
+    "action_continents": [
+      "Europe"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Middle-earth",
+    "categories": [
+      {
+        "label": "seas and rivers tying lands together",
+        "description": "Travel, trade, raiding, and war move along coasts and waterways, making ships as important as roads for power and survival. What you'll see: oared vessels and harbour quays, river crossings, sea-borne war bands, cargoes from afar, and perilous journeys to foreign shores.",
+        "icon": "⛵"
+      },
+      {
+        "label": "cities showing wealth through stone spectacle",
+        "description": "Urban life in the Mediterranean is marked by grand building, public entertainments, baths, temples, and streets where rank is constantly displayed. What you'll see: arenas and chariot grounds, colonnades and villas, crowded markets, fountains and bathhouses, and citizens pressing into public ceremonies.",
+        "icon": "🏟️"
+      }
+    ]
+  },
+  {
+    "movie_id": 29912,
+    "movie_idx": 4385,
+    "imdb_id": "tt0046247",
+    "title": "The Robe",
+    "production_year": "1953",
+    "genre": "Drama, History, Romance",
+    "plot": "Marcellus is a tribune in the time of Christ. He is in charge of the group that is assigned to crucify Jesus. Drunk, he wins Jesus' homespun robe after the crucifixion. He is tormented by nightmares and delusions after the event. Hoping to find a way to live with what he has done, and still not believing in Jesus, he returns to Palestine to try and learn what he can of the man he killed.",
+    "runtime": "135 min",
+    "director": "Henry Koster",
+    "actors": "Richard Burton, Jean Simmons, Victor Mature",
+    "production_country": "United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BOWNkZTkyZjYtNTJmOS00ZjY2LWE0YjYtNmM4YzI3MmZlZGM0XkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/29912.webp",
+    "imdb_rating": "6.7",
+    "imdb_votes": "11,992",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Robe_(film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/29912.txt",
+    "plot_year_start": 30,
+    "plot_year_end": 37,
+    "epoch": "ancient-world",
+    "action_countries": [
+      "IT",
+      "IL",
+      "GR"
+    ],
+    "action_continents": [
+      "Europe",
+      "Asia",
+      "Europe"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "the new christian faith spreading quietly",
+        "description": "In the Roman world, devotion to Christ begins as a small and often suspect way of worship that sits uneasily beside older cults and emperor reverence. What you'll see: house gatherings and whispered prayers, prisoners visited for faith, clashes with pagan custom, and symbols of belief carried in secret.",
+        "icon": "✝️"
+      },
+      {
+        "label": "rome holding provinces with soldiers",
+        "description": "Across much of Europe, Roman authority is kept by legions, governors, taxes, and fortified frontiers that bind distant lands to the centre. What you'll see: marching columns, forts and walls, standards and eagles, garrisons on wild borders, and officials speaking for imperial power.",
+        "icon": "🦅"
+      }
+    ]
+  },
+  {
+    "movie_id": 9703,
+    "movie_idx": 4386,
+    "imdb_id": "tt0462396",
+    "title": "The Last Legion",
+    "production_year": "2007",
+    "genre": "Action, Adventure, History",
+    "plot": "Circa 460 A.D. Mira was born in a warrior-family in Kerala, India, was well versed in martial arts and self-defense, so much so that she was recruited by the Spanish royalty and re-located to Constantinople. From there she was instructed to assist Roman Commander Aurelius to plan the escape of 12-year old Romulus Augustus Caesar from a prison in Capri after his parents had been killed by the leader of the Alliance in turmoil-stricken Rome that has seen the deaths of five emperors in five years. Mira, Aurelius, and a Priest, Ambrosinius, along with a handful of loyal soldiers were successful in the escape plan and deliver Romulus to Roman Senator Nestor. What the crew do not realize is that their task is not over yet, for Nestor is all set to betray Romulus, leaving them with no alternative but to flee to Britannia, where they will be forced to confront a seemingly invincible Vortygn, whose main aim is to obtain a powerful sword that was meant for defense and defeat, and also ensure the death of Romulus at any and all costs.",
+    "runtime": "101 min",
+    "director": "Doug Lefler",
+    "actors": "Colin Firth, Ben Kingsley, Aishwarya Rai Bachchan",
+    "production_country": "United Kingdom, France, Slovakia, Tunisia, Italy, Bulgaria, United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZjU1OTVkMTItOTQxZC00ZmUxLTg5NWYtYzY2YjljOGYyZDBiXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/9703.webp",
+    "imdb_rating": "5.4",
+    "imdb_votes": "37,509",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Last_Legion",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/9703.txt",
+    "plot_year_start": 460,
+    "plot_year_end": 460,
+    "epoch": "ancient-world",
+    "action_countries": [
+      "IT",
+      "VA",
+      "GB",
+      "GR",
+      "TR",
+      "IN",
+      "KR"
+    ],
+    "action_continents": [
+      "Europe",
+      "Europe",
+      "Europe",
+      "Europe",
+      "Asia",
+      "Asia",
+      "Asia"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Middle-earth",
+    "categories": [
+      {
+        "label": "rome holding provinces with soldiers",
+        "description": "Across much of Europe, Roman authority is kept by legions, governors, taxes, and fortified frontiers that bind distant lands to the centre. What you'll see: marching columns, forts and walls, standards and eagles, garrisons on wild borders, and officials speaking for imperial power.",
+        "icon": "🦅"
+      },
+      {
+        "label": "seas and rivers tying lands together",
+        "description": "Travel, trade, raiding, and war move along coasts and waterways, making ships as important as roads for power and survival. What you'll see: oared vessels and harbour quays, river crossings, sea-borne war bands, cargoes from afar, and perilous journeys to foreign shores.",
+        "icon": "⛵"
+      }
+    ]
+  },
+  {
+    "movie_id": 11533,
+    "movie_idx": 4762,
+    "imdb_id": "tt0057197",
+    "title": "Jason and the Argonauts",
+    "production_year": "1963",
+    "genre": "Action, Adventure, Family",
+    "plot": "Jason has been prophesied to take the throne of Thessaly. When he saves Pelias from drowning, but does not recognize him as the man who had earlier killed his father, Pelias tells Jason to travel to Colchis to find the Golden Fleece. Jason follows his advice and assembles a sailing crew of the finest men in Greece, including Hercules. They are under the protection of Hera, queen of the gods. Their voyage is replete with battles against harpies, a giant bronze Talos, a hydra, and an animated skeleton army, all brought to life by the special effects wizardry of Ray Harryhausen.",
+    "runtime": "104 min",
+    "director": "Don Chaffey",
+    "actors": "Todd Armstrong, Nancy Kovack, Gary Raymond",
+    "production_country": "United Kingdom, United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BY2YzZmFhNDgtOTE0MS00NTA1LTgzZDYtMGZiZWJiNTQxMGM3XkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/11533.webp",
+    "imdb_rating": "7.3",
+    "imdb_votes": "33,404",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Jason_and_the_Argonauts_(1963_film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/11533.txt",
+    "plot_year_start": -1200,
+    "plot_year_end": -1200,
+    "epoch": "ancient-world",
+    "action_countries": [
+      "GR",
+      "TR",
+      "UNKNOWN"
+    ],
+    "action_continents": [
+      "Europe",
+      "Asia",
+      "UNKNOWN"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "gods, omens, and sacred fate",
+        "description": "The world is understood as crowded with divine powers, portents, curses, and destinies that shape rule, war, and daily choices. What you'll see: sacrifices and shrines, seers and prophecies, invocations before battle, monsters taken as part of the world's order, and rulers claiming heavenly favour.",
+        "icon": "🔮"
+      },
+      {
+        "label": "seas and rivers tying lands together",
+        "description": "Travel, trade, raiding, and war move along coasts and waterways, making ships as important as roads for power and survival. What you'll see: oared vessels and harbour quays, river crossings, sea-borne war bands, cargoes from afar, and perilous journeys to foreign shores.",
+        "icon": "⛵"
+      }
+    ]
+  },
+  {
+    "movie_id": 451644,
+    "movie_idx": 4961,
+    "imdb_id": "tt5610626",
+    "title": "Dragonheart: Battle for the Heartfire",
+    "production_year": "2017",
+    "genre": "Action, Adventure, Drama",
+    "plot": "Sir Patrick Stewart voices Drago, the magnificent dragon who became bonded with King Gareth. When the King dies, his potential heirs, twin grandchildren who possess the dragon's unique strengths, use their inherited powers against each other to vie for the throne. When Drago's source of power, known as the \"Heartfire\", is stolen, more than the throne is at stake. The siblings must end their rivalry with swords and sorcery, or the kingdom may fall.",
+    "runtime": "98 min",
+    "director": "Patrik Syversen",
+    "actors": "Patrick Stewart, Tom Rhys Harries, Jessamine-Bliss Bell",
+    "production_country": "United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZTEyMmE0OTgtMzkzOS00ZTVkLWI3MjMtYmIyOTM0YTg3OWQ2XkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/451644.webp",
+    "imdb_rating": "5.3",
+    "imdb_votes": "3,162",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Dragonheart:_Battle_for_the_Heartfire",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/451644.txt",
+    "plot_year_start": 508,
+    "plot_year_end": 508,
+    "epoch": "ancient-world",
+    "action_countries": [
+      "GB"
+    ],
+    "action_continents": [
+      "Europe"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "kings ruling through kin and oath",
+        "description": "Power rests on personal allegiance to a ruler, with bloodline, fosterage, and sworn loyalty holding kingdoms together more than fixed law. What you'll see: mead halls and royal courts, gift-giving and oath-taking, rival heirs, and nobles gathered around the high seat.",
+        "icon": "👑"
+      },
+      {
+        "label": "captives, slaves, and hostages as property",
+        "description": "Defeat in war or debt can turn people into saleable property, while elite hostages are used to secure obedience between peoples and rulers. What you'll see: slave markets and chains, household servants, rowers and labourers, noble wards at court, and people traded as part of power.",
+        "icon": "⛓️"
+      }
+    ]
+  },
+  {
+    "movie_id": 11620,
+    "movie_idx": 5071,
+    "imdb_id": "tt0043949",
+    "title": "Quo Vadis",
+    "production_year": "1951",
+    "genre": "Drama, Romance",
+    "plot": "Returning to Rome after three years in the field, General Marcus Vinicius (Robert Taylor) meets Lygia (Deborah Kerr) and falls in love with her, though as a Christian, she wants nothing to do with a warrior. Though she grew up Roman, the adopted daughter of a retired General, Lygia is technically a hostage of Rome. Marcus gets Emperor Nero (Sir Peter Ustinov) to give her to him for services rendered, but finds himself succumbing gradually to her Christian faith.",
+    "runtime": "171 min",
+    "director": "Mervyn LeRoy, Anthony Mann",
+    "actors": "Robert Taylor, Deborah Kerr, Leo Genn",
+    "production_country": "United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMzIwYWEwMmMtNjBkMy00MzVmLTk5Y2UtZTMwODkzZjMzNzY4XkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/11620.webp",
+    "imdb_rating": "7.1",
+    "imdb_votes": "17,840",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Quo_Vadis_(1951_film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/11620.txt",
+    "plot_year_start": 64,
+    "plot_year_end": 64,
+    "epoch": "ancient-world",
+    "action_countries": [
+      "IT"
+    ],
+    "action_continents": [
+      "Europe"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "rome holding provinces with soldiers",
+        "description": "Across much of Europe, Roman authority is kept by legions, governors, taxes, and fortified frontiers that bind distant lands to the centre. What you'll see: marching columns, forts and walls, standards and eagles, garrisons on wild borders, and officials speaking for imperial power.",
+        "icon": "🦅"
+      },
+      {
+        "label": "captives, slaves, and hostages as property",
+        "description": "Defeat in war or debt can turn people into saleable property, while elite hostages are used to secure obedience between peoples and rulers. What you'll see: slave markets and chains, household servants, rowers and labourers, noble wards at court, and people traded as part of power.",
+        "icon": "⛓️"
+      }
+    ]
+  },
+  {
+    "movie_id": 23759,
+    "movie_idx": 5223,
+    "imdb_id": "tt1020558",
+    "title": "Centurion",
+    "production_year": "2010",
+    "genre": "Action, Drama, History",
+    "plot": "Britain, A.D. 117. Quintus Dias, the sole survivor of a Pictish raid on a Roman frontier fort, marches north with General Virilus' legendary Ninth Legion, under orders to wipe the Picts from the face of the Earth and destroy their leader, Gorlacon.",
+    "runtime": "97 min",
+    "director": "Neil Marshall",
+    "actors": "Michael Fassbender, Dominic West, Olga Kurylenko",
+    "production_country": "United Kingdom, France, United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTQ4NTI1MTEzM15BMl5BanBnXkFtZTcwNDc3NDc1Mw@@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/23759.webp",
+    "imdb_rating": "6.3",
+    "imdb_votes": "89,356",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Centurion_(film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/23759.txt",
+    "plot_year_start": 117,
+    "plot_year_end": 119,
+    "epoch": "ancient-world",
+    "action_countries": [
+      "GB"
+    ],
+    "action_continents": [
+      "Europe"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "rome holding provinces with soldiers",
+        "description": "Across much of Europe, Roman authority is kept by legions, governors, taxes, and fortified frontiers that bind distant lands to the centre. What you'll see: marching columns, forts and walls, standards and eagles, garrisons on wild borders, and officials speaking for imperial power.",
+        "icon": "🦅"
+      },
+      {
+        "label": "captives, slaves, and hostages as property",
+        "description": "Defeat in war or debt can turn people into saleable property, while elite hostages are used to secure obedience between peoples and rulers. What you'll see: slave markets and chains, household servants, rowers and labourers, noble wards at court, and people traded as part of power.",
+        "icon": "⛓️"
+      }
+    ]
+  },
+  {
+    "movie_id": 682254,
+    "movie_idx": 5403,
+    "imdb_id": "tt13676256",
+    "title": "Scooby-Doo! The Sword and the Scoob",
+    "production_year": "2021",
+    "genre": "Animation, Action, Adventure, Comedy, Family, Fantasy, Mystery",
+    "plot": "An evil sorceress transports the gang back to the age chivalrous knights, spell-casting wizards, and fire-breathing dragons.",
+    "runtime": "76 min",
+    "director": "Maxwell Atoms, Christina Sotta, Melchior Zwyer",
+    "actors": "Ted Barton, Spike Brandt, Trevor Devall, Greg Ellis",
+    "production_country": "USA",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYWQyZGQwMzktMjFhYS00MmZmLWI3ZDEtNzg3MzRmM2ZjMDc1XkEyXkFqcGdeQXVyODY5NzkyMjA@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/682254.webp",
+    "imdb_rating": "6.3",
+    "imdb_votes": "562",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Scooby-Doo!_The_Sword_and_the_Scoob",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/682254.txt",
+    "plot_year_start": 6,
+    "plot_year_end": 6,
+    "epoch": "ancient-world",
+    "action_countries": [
+      "GB"
+    ],
+    "action_continents": [
+      "Europe"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "kings ruling through kin and oath",
+        "description": "Power rests on personal allegiance to a ruler, with bloodline, fosterage, and sworn loyalty holding kingdoms together more than fixed law. What you'll see: mead halls and royal courts, gift-giving and oath-taking, rival heirs, and nobles gathered around the high seat.",
+        "icon": "👑"
+      }
+    ]
+  },
+  {
+    "movie_id": 76649,
+    "movie_idx": 5487,
+    "imdb_id": "tt1921064",
+    "title": "Pompeii",
+    "production_year": "2014",
+    "genre": "Action, Adventure, Drama",
+    "plot": "Set in 79 A.D., POMPEII tells the epic story of Milo (Kit Harington), a slave turned invincible gladiator who finds himself in a race against time to save his true love Cassia (Emily Browning), the beautiful daughter of a wealthy merchant who has been unwillingly betrothed to a corrupt Roman Senator. As Mount Vesuvius erupts in a torrent of blazing lava, Milo must fight his way out of the arena in order to save his beloved as the once magnificent Pompeii crumbles around him.",
+    "runtime": "105 min",
+    "director": "Paul W.S. Anderson",
+    "actors": "Kit Harington, Emily Browning, Kiefer Sutherland",
+    "production_country": "Canada, Germany, United States, United Kingdom",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNDE2MTU3NzYwOF5BMl5BanBnXkFtZTgwOTY4NTk4MDE@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/76649.webp",
+    "imdb_rating": "5.5",
+    "imdb_votes": "120,980",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Pompeii_(film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/76649.txt",
+    "plot_year_start": 79,
+    "plot_year_end": 79,
+    "epoch": "ancient-world",
+    "action_countries": [
+      "IT",
+      "GB"
+    ],
+    "action_continents": [
+      "Europe",
+      "Europe"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "captives, slaves, and hostages as property",
+        "description": "Defeat in war or debt can turn people into saleable property, while elite hostages are used to secure obedience between peoples and rulers. What you'll see: slave markets and chains, household servants, rowers and labourers, noble wards at court, and people traded as part of power.",
+        "icon": "⛓️"
+      },
+      {
+        "label": "rome holding provinces with soldiers",
+        "description": "Across much of Europe, Roman authority is kept by legions, governors, taxes, and fortified frontiers that bind distant lands to the centre. What you'll see: marching columns, forts and walls, standards and eagles, garrisons on wild borders, and officials speaking for imperial power.",
+        "icon": "🦅"
+      }
+    ]
+  },
+  {
+    "movie_id": 6520,
+    "movie_idx": 5618,
+    "imdb_id": "tt0113071",
+    "title": "First Knight",
+    "production_year": "1995",
+    "genre": "Action, Adventure, Drama",
+    "plot": "After King Arthur of Camelot has fought several wars which has led to peace and justice for his land, he is turning his attention to thoughts of marriage, his chosen one being Lady Guinevere, who has become head of neighboring Leonesse following the death of her father. Peace and justice for Arthur and Guinevere are short lived as Prince Malagant, one of the knights of the round table, wants Camelot for himself and King Arthur deposed. Many in the land follow Malagant, whose quest also involves marauding Leonesse. As the King's betrothed, Guinevere becomes Malagant's target in achieving both of his goals. Meanwhile, Lancelot is a free-living peasant who often makes his way through life by demonstrations of his sword fighting prowess. His skill is largely due to his ability to assess his opponents, and not fear dying. On Malagant's first attempt at abducting Guinevere, Lancelot, by happenstance, is there to save her. He falls in love with her at first sight. Although attracted to the man who saved her, Guinevere cannot think of any other man in the lead up to her marriage to Arthur. Because of his attraction to Guinevere, Lancelot becomes involved in the battles between Malagant and Arthur in Lancelot doing whatever needed to keep Guinevere safe. As these battles brew and as Arthur becomes indebted to Lancelot for saving Guinevere at the possible expense of his own life, Guinevere cannot help but fall for Lancelot, resulting in a romantic triangle comprised of Arthur, Guinevere and Lancelot, a triangle of which Arthur is unaware.",
+    "runtime": "134 min",
+    "director": "Jerry Zucker",
+    "actors": "Sean Connery, Richard Gere, Julia Ormond",
+    "production_country": "United States, United Kingdom",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYTNmNzJiOWItZTM4Mi00NmFjLWJkNzctZGE0YTA2ZjgwZmM0XkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/6520.webp",
+    "imdb_rating": "6.0",
+    "imdb_votes": "81,247",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/First_Knight",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/6520.txt",
+    "plot_year_start": 500,
+    "plot_year_end": 500,
+    "epoch": "ancient-world",
+    "action_countries": [
+      "GB"
+    ],
+    "action_continents": [
+      "Europe"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Middle-earth",
+    "categories": [
+      {
+        "label": "kings ruling through kin and oath",
+        "description": "Power rests on personal allegiance to a ruler, with bloodline, fosterage, and sworn loyalty holding kingdoms together more than fixed law. What you'll see: mead halls and royal courts, gift-giving and oath-taking, rival heirs, and nobles gathered around the high seat.",
+        "icon": "👑"
+      },
+      {
+        "label": "marriage and bloodline settling kingdoms",
+        "description": "Claims to rule are often bound to birth, marriage, and the joining or dividing of peoples through family ties. What you'll see: arranged matches, disputed succession, brides exchanged for peace, children valued as heirs, and feuds rekindled by questions of legitimate descent.",
+        "icon": "💍"
+      }
+    ]
+  },
+  {
+    "movie_id": 300803,
+    "movie_idx": 5786,
+    "imdb_id": "tt3829170",
+    "title": "Dragonheart 3: The Sorcerer's Curse",
+    "production_year": "2015",
+    "genre": "Action, Adventure, Fantasy",
+    "plot": "When aspiring knight Gareth goes in search of a fallen comet rumored to contain gold, he is shocked to instead find a set of dragon eggs guarded by dragon Drago. After Drago saves Gareth's life the two become intricately bonded, and must work together to defeat an evil sorcerer and stop his reign of terror. Along the way, Gareth learns the true meaning of being a knight in this fantasy action-adventure for the ages.",
+    "runtime": "98 min",
+    "director": "Colin Teague",
+    "actors": "Julian Morris, Tamzin Merchant, Jassa Ahluwalia, Dominic Mafham",
+    "production_country": "USA",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTUzMjkxNzk3NF5BMl5BanBnXkFtZTgwOTE1MzYyNDE@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/300803.webp",
+    "imdb_rating": "5.1",
+    "imdb_votes": "3,483",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Dragonheart_3:_The_Sorcerer%27s_Curse",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/300803.txt",
+    "plot_year_start": 9,
+    "plot_year_end": 9,
+    "epoch": "ancient-world",
+    "action_countries": [
+      "GB"
+    ],
+    "action_continents": [
+      "Europe"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Dragonheart Universe",
+    "categories": [
+      {
+        "label": "gods, omens, and sacred fate",
+        "description": "The world is understood as crowded with divine powers, portents, curses, and destinies that shape rule, war, and daily choices. What you'll see: sacrifices and shrines, seers and prophecies, invocations before battle, monsters taken as part of the world's order, and rulers claiming heavenly favour.",
+        "icon": "🔮"
+      },
+      {
+        "label": "war bands seeking fame and plunder",
+        "description": "Armed followings gather around renowned leaders, and honour is won through courage, vengeance, and the open display of martial worth. What you'll see: shield walls and spear ranks, boasts before battle, treasure divided after victory, and warriors measuring themselves by reputation.",
+        "icon": "⚔️"
+      }
+    ]
+  },
+  {
+    "movie_id": 9044,
+    "movie_idx": 5830,
+    "imdb_id": "tt0375154",
+    "title": "Tristan + Isolde",
+    "production_year": "2006",
+    "genre": "Action, Drama, Romance",
+    "plot": "An affair between the second in line to Britain's throne and the princess of the feuding Irish spells doom for the young lovers.",
+    "runtime": "125 min",
+    "director": "Kevin Reynolds",
+    "actors": "James Franco, Sophia Myles, Rufus Sewell",
+    "production_country": "Czech Republic, United Kingdom, Germany, United States, Switzerland, Ireland",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYjU0YTE1MGEtNTgzMS00ZmE4LTk1MTItNTYzODVmNWY4NmRhXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/9044.webp",
+    "imdb_rating": "6.8",
+    "imdb_votes": "55,563",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Tristan_%26_Isolde_(film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/9044.txt",
+    "plot_year_start": 500,
+    "plot_year_end": 500,
+    "epoch": "ancient-world",
+    "action_countries": [
+      "GB",
+      "IE"
+    ],
+    "action_continents": [
+      "Europe",
+      "Europe"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "kings ruling through kin and oath",
+        "description": "Power rests on personal allegiance to a ruler, with bloodline, fosterage, and sworn loyalty holding kingdoms together more than fixed law. What you'll see: mead halls and royal courts, gift-giving and oath-taking, rival heirs, and nobles gathered around the high seat.",
+        "icon": "👑"
+      },
+      {
+        "label": "marriage and bloodline settling kingdoms",
+        "description": "Claims to rule are often bound to birth, marriage, and the joining or dividing of peoples through family ties. What you'll see: arranged matches, disputed succession, brides exchanged for peace, children valued as heirs, and feuds rekindled by questions of legitimate descent.",
+        "icon": "💍"
+      }
+    ]
+  },
+  {
+    "movie_id": 338676,
+    "movie_idx": 6000,
+    "imdb_id": "tt3467412",
+    "title": "Extinction",
+    "production_year": "2015",
+    "genre": "Action, Adventure, Drama",
+    "plot": "Nine years after an infection turns most of the humanity into rabid creatures, Patrick, Jack and Lu, a nine-year-old girl, survive in seeming peace and calm in the forgotten snow-covered town of Harmony. We nonetheless sense that something terrible happened between Patrick and Jack because a deep hate keeps them apart. When the infected appear again, Patrick and Jack will have to leave behind all rancor to protect the one being who means more to them than anything else.",
+    "runtime": "112 min",
+    "director": "Miguel Ángel Vivas",
+    "actors": "Matthew Fox, Jeffrey Donovan, Quinn McColgan",
+    "production_country": "Spain, United States, Hungary, France",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTYzMzIyMTQ3N15BMl5BanBnXkFtZTgwNTMzNTAwNjE@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/338676.webp",
+    "imdb_rating": "5.8",
+    "imdb_votes": "19,231",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Extinction_(2015_film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/338676.txt",
+    "plot_year_start": 9,
+    "plot_year_end": 9,
+    "epoch": "ancient-world",
+    "action_countries": [
+      "HU"
+    ],
+    "action_continents": [
+      "Europe"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "cities showing wealth through stone spectacle",
+        "description": "Urban life in the Mediterranean is marked by grand building, public entertainments, baths, temples, and streets where rank is constantly displayed. What you'll see: arenas and chariot grounds, colonnades and villas, crowded markets, fountains and bathhouses, and citizens pressing into public ceremonies.",
+        "icon": "🏟️"
+      }
+    ]
+  },
+  {
+    "movie_id": 49494,
+    "movie_idx": 6081,
+    "imdb_id": "tt1034389",
+    "title": "The Eagle",
+    "production_year": "2011",
+    "genre": "Action, Adventure, Drama",
+    "plot": "In 140 AD, twenty years after the unexplained disappearance of the entire Ninth Legion in the mountains of Scotland, young centurion Marcus Aquila (Tatum) arrives from Rome to solve the mystery and restore the reputation of his father, the commander of the Ninth. Accompanied only by his British slave Esca (Bell), Marcus sets out across Hadrian's Wall into the uncharted highlands of Caledonia - to confront its savage tribes, make peace with his father's memory, and retrieve the lost legion's golden emblem, the Eagle of the Ninth.",
+    "runtime": "114 min",
+    "director": "Kevin Macdonald",
+    "actors": "Channing Tatum, Jamie Bell, Donald Sutherland",
+    "production_country": "United Kingdom, United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTY1MjYwNTQ4Ml5BMl5BanBnXkFtZTcwMjYwNzAxNA@@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/49494.webp",
+    "imdb_rating": "6.2",
+    "imdb_votes": "77,136",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Eagle_(2011_film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/49494.txt",
+    "plot_year_start": 140,
+    "plot_year_end": 140,
+    "epoch": "ancient-world",
+    "action_countries": [
+      "GB",
+      "US"
+    ],
+    "action_continents": [
+      "Europe",
+      "North America"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "rome holding provinces with soldiers",
+        "description": "Across much of Europe, Roman authority is kept by legions, governors, taxes, and fortified frontiers that bind distant lands to the centre. What you'll see: marching columns, forts and walls, standards and eagles, garrisons on wild borders, and officials speaking for imperial power.",
+        "icon": "🦅"
+      },
+      {
+        "label": "captives, slaves, and hostages as property",
+        "description": "Defeat in war or debt can turn people into saleable property, while elite hostages are used to secure obedience between peoples and rulers. What you'll see: slave markets and chains, household servants, rowers and labourers, noble wards at court, and people traded as part of power.",
+        "icon": "⛓️"
+      }
+    ]
+  },
+  {
+    "movie_id": 635237,
+    "movie_idx": 6581,
+    "imdb_id": "tt7052270",
+    "title": "Arthur & Merlin: Knights of Camelot",
+    "production_year": "2020",
+    "genre": "Action, Adventure, History",
+    "plot": "A much older King Arthur returns home after fighting the Roman Empire. His illegitimate son has corrupted the throne of Camelot. Now King Arthur must reunite with the wizard Merlin and the Knights of the Round Table and fight to get back his crown.",
+    "runtime": "90 min",
+    "director": "Giles Alderson",
+    "actors": "Richard Short, Tim Fellingham, Stella Stocker",
+    "production_country": "United Kingdom",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTYxODYwMTMtZDFmNi00YTJmLTliM2ItNjIyZTEyOTYzODY0XkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/635237.webp",
+    "imdb_rating": "3.3",
+    "imdb_votes": "4,342",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Arthur_and_Merlin",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/635237.txt",
+    "plot_year_start": 410,
+    "plot_year_end": 410,
+    "epoch": "ancient-world",
+    "action_countries": [
+      "GB"
+    ],
+    "action_continents": [
+      "Europe"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Middle-earth",
+    "categories": [
+      {
+        "label": "gods, omens, and sacred fate",
+        "description": "The world is understood as crowded with divine powers, portents, curses, and destinies that shape rule, war, and daily choices. What you'll see: sacrifices and shrines, seers and prophecies, invocations before battle, monsters taken as part of the world's order, and rulers claiming heavenly favour.",
+        "icon": "🔮"
+      },
+      {
+        "label": "kings ruling through kin and oath",
+        "description": "Power rests on personal allegiance to a ruler, with bloodline, fosterage, and sworn loyalty holding kingdoms together more than fixed law. What you'll see: mead halls and royal courts, gift-giving and oath-taking, rival heirs, and nobles gathered around the high seat.",
+        "icon": "👑"
+      }
+    ]
+  },
+  {
+    "movie_id": 466622,
+    "movie_idx": 7441,
+    "imdb_id": "tt7134096",
+    "title": "The Rhythm Section",
+    "production_year": "2020",
+    "genre": "Action, Drama, Mystery",
+    "plot": "Blake Lively stars as Stephanie Patrick, an ordinary woman on a path of self-destruction after her family is tragically killed in a plane crash. When Stephanie discovers that the crash was not an accident, she enters a dark, complex world to seek revenge on those responsible and find her own redemption. Based on the novel by Mark Burnell, from director Reed Morano (\"The Handmaid's Tale\") and the producers of the James Bond film series, The Rhythm Section also stars Jude Law and Sterling K. Brown.",
+    "runtime": "109 min",
+    "director": "Reed Morano",
+    "actors": "Blake Lively, Richard Brake, Elly Curtis",
+    "production_country": "Ireland, United Kingdom, Spain, United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNmMxMjliODctY2M1Ni00NmFjLThiN2EtOTFhYjVmNmZiMTQxXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/466622.webp",
+    "imdb_rating": "5.4",
+    "imdb_votes": "21,251",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Rhythm_Section",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/466622.txt",
+    "plot_year_start": 3,
+    "plot_year_end": 3,
+    "epoch": "ancient-world",
+    "action_countries": [
+      "GB",
+      "US",
+      "ES",
+      "FR"
+    ],
+    "action_continents": [
+      "Europe",
+      "North America",
+      "Europe",
+      "Europe"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "war bands seeking fame and plunder",
+        "description": "Armed followings gather around renowned leaders, and honour is won through courage, vengeance, and the open display of martial worth. What you'll see: shield walls and spear ranks, boasts before battle, treasure divided after victory, and warriors measuring themselves by reputation.",
+        "icon": "⚔️"
+      },
+      {
+        "label": "seas and rivers tying lands together",
+        "description": "Travel, trade, raiding, and war move along coasts and waterways, making ships as important as roads for power and survival. What you'll see: oared vessels and harbour quays, river crossings, sea-borne war bands, cargoes from afar, and perilous journeys to foreign shores.",
+        "icon": "⛵"
+      }
+    ]
+  },
+  {
+    "movie_id": 565179,
+    "movie_idx": 8177,
+    "imdb_id": "tt7278824",
+    "title": "The First King",
+    "production_year": "2019",
+    "genre": "Action, Adventure, Drama",
+    "plot": "Romulus and Remus are 18-year-old shepherds brothers living in peace near the Tiber river. Convinced that he is bigger than gods' will, Remus believes that he is meant to become king of the city he will found together with his brother. But their tragic destiny is already written. This incredible journey will lead the two brothers to creating one of the greatest empires the world has ever seen.",
+    "runtime": "123 min",
+    "director": "Matteo Rovere",
+    "actors": "Alessandro Borghi, Alessio Lapice, Fabrizio Rongione",
+    "production_country": "Italy, Belgium",
+    "poster": "https://m.media-amazon.com/images/M/MV5BOGE3OTg4N2EtNDdlOC00MTEyLWEwMGItNDAyOTNkNjY0OGM0XkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/565179.webp",
+    "imdb_rating": "6.5",
+    "imdb_votes": "6,183",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/The_First_King:_Birth_of_an_Empire",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/565179.txt",
+    "plot_year_start": -753,
+    "plot_year_end": -753,
+    "epoch": "ancient-world",
+    "action_countries": [
+      "IT"
+    ],
+    "action_continents": [
+      "Europe"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "gods, omens, and sacred fate",
+        "description": "The world is understood as crowded with divine powers, portents, curses, and destinies that shape rule, war, and daily choices. What you'll see: sacrifices and shrines, seers and prophecies, invocations before battle, monsters taken as part of the world's order, and rulers claiming heavenly favour.",
+        "icon": "🔮"
+      },
+      {
+        "label": "kings ruling through kin and oath",
+        "description": "Power rests on personal allegiance to a ruler, with bloodline, fosterage, and sworn loyalty holding kingdoms together more than fixed law. What you'll see: mead halls and royal courts, gift-giving and oath-taking, rival heirs, and nobles gathered around the high seat.",
+        "icon": "👑"
+      }
+    ]
+  },
+  {
+    "movie_id": 9642,
+    "movie_idx": 8801,
+    "imdb_id": "tt0371552",
+    "title": "Asterix and the Vikings",
+    "production_year": "2006",
+    "genre": "Animation, Adventure, Comedy",
+    "plot": "After another raid in an empty village, the chief of the Vikings Timandahaf misunderstands the explanation of his druid Cryptograf that \"fear gives wings to the dwellers\" and believes that fear actually makes the villagers fly. They decide to chase the champion of fear in Gaul to learn how to fly and make them invincible warriors. Meanwhile, the nephew of Vitalstatistix, Justforkix, is sent from Parisium to the Gaulish village to become a man and Asterix and Obelix are assigned to train the youngster. The stupid son of Cryptograf, Olaf, listens to a conversation of the coward Justforkix with Asterix and Obelix and kidnaps him. While returning to the Viking village, Justforkix meets Abba, the daughter of Timandahaf, and they fall in love for each other. But the Machiavellian and ambitious Cryptograf plan to marry his son Olaf with Abba and become powerful. In the end, Asterix realizes that it is not fear that gives wings, it is love.",
+    "runtime": "78 min",
+    "director": "Stefan Fjeldmark, Jesper Møller",
+    "actors": "Roger Carel, Lorànt Deutsch, Sara Forestier",
+    "production_country": "France, Denmark, Belgium, Germany, Spain, United Kingdom, Latvia, Estonia, Brazil, United States, Thailand, China",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZmJmNmY0ZmQtMmJmZC00ODZjLTg0MTAtM2U4YzAzMDI2MDM0XkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/9642.webp",
+    "imdb_rating": "6.0",
+    "imdb_votes": "13,497",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Asterix_and_the_Vikings",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/9642.txt",
+    "plot_year_start": -50,
+    "plot_year_end": -50,
+    "epoch": "ancient-world",
+    "action_countries": [
+      "FR",
+      "NO"
+    ],
+    "action_continents": [
+      "Europe",
+      "Europe"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Asterix Universe",
+    "categories": [
+      {
+        "label": "war bands seeking fame and plunder",
+        "description": "Armed followings gather around renowned leaders, and honour is won through courage, vengeance, and the open display of martial worth. What you'll see: shield walls and spear ranks, boasts before battle, treasure divided after victory, and warriors measuring themselves by reputation.",
+        "icon": "⚔️"
+      },
+      {
+        "label": "seas and rivers tying lands together",
+        "description": "Travel, trade, raiding, and war move along coasts and waterways, making ships as important as roads for power and survival. What you'll see: oared vessels and harbour quays, river crossings, sea-borne war bands, cargoes from afar, and perilous journeys to foreign shores.",
+        "icon": "⛵"
+      }
+    ]
+  },
+  {
+    "movie_id": 5471,
+    "movie_idx": 9049,
+    "imdb_id": "tt0402057",
+    "title": "Beowulf & Grendel",
+    "production_year": "2005",
+    "genre": "Action, Adventure, Drama",
+    "plot": "The blood-soaked tale of a Norse warrior's battle against the great and murderous troll, Grendel. Heads will roll. Out of allegiance to the King Hrothgar, the much respected Lord of the Danes, Beowulf leads a troop of warriors across the sea to rid a village of the marauding monster. The monster, Grendel, is not a creature of mythic powers, but one of flesh and blood - immense flesh and raging blood, driven by a vengeance from being wronged, while Beowulf, a victorious soldier in his own right, has become increasingly troubled by the hero-myth rising up around his exploits. Beowulf's willingness to kill on behalf of Hrothgar wavers when it becomes clear that the King is more responsible for the troll's rampages than was first apparent. As a soldier, Beowulf is unaccustomed to hesitating. His relationship with the mesmerizing witch, Selma, creates deeper confusion. Swinging his sword at a great, stinking beast is no longer such a simple act. The story is set in barbarous Northern Daneland (Denmark).",
+    "runtime": "103 min",
+    "director": "Sturla Gunnarsson",
+    "actors": "Hringur Ingvarsson, Spencer Wilding, Stellan Skarsgård",
+    "production_country": "Canada, United Kingdom, Iceland, United States, Australia",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTZkNGY0YjYtN2NlYS00MzY1LTg0N2MtNzdkN2IzNWJmYTEyXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/5471.webp",
+    "imdb_rating": "5.8",
+    "imdb_votes": "19,004",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Beowulf_%26_Grendel",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/5471.txt",
+    "plot_year_start": 500,
+    "plot_year_end": 500,
+    "epoch": "ancient-world",
+    "action_countries": [
+      "DK"
+    ],
+    "action_continents": [
+      "Europe"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "kings ruling through kin and oath",
+        "description": "Power rests on personal allegiance to a ruler, with bloodline, fosterage, and sworn loyalty holding kingdoms together more than fixed law. What you'll see: mead halls and royal courts, gift-giving and oath-taking, rival heirs, and nobles gathered around the high seat.",
+        "icon": "👑"
+      },
+      {
+        "label": "seas and rivers tying lands together",
+        "description": "Travel, trade, raiding, and war move along coasts and waterways, making ships as important as roads for power and survival. What you'll see: oared vessels and harbour quays, river crossings, sea-borne war bands, cargoes from afar, and perilous journeys to foreign shores.",
+        "icon": "⛵"
+      }
+    ]
+  },
+  {
+    "movie_id": 12524,
+    "movie_idx": 9524,
+    "imdb_id": "tt0120866",
+    "title": "Titus",
+    "production_year": "1999",
+    "genre": "Drama, History, Thriller",
+    "plot": "War begets revenge. Victorious General Titus Andronicus (Sir Anthony Hopkins) returns to Rome with hostages: Tamora (Jessica Lange), Queen of the Goths, and her sons. He orders the eldest hewn to appease the Roman dead. He declines the proffered Emperor's crown, nominating Saturninus (Alan Cumming), the last ruler's venal elder son. Saturninus, to spite his brother Bassianus (James Frain), demands the hand of Lavinia (Laura Fraser), Titus' daughter. When Bassianus, Lavinia, and Titus' sons flee in protest, Titus stands against them and slays one of his own. Saturninus marries the honey-tongued Tamora, who vows vengeance against Titus. The ensuing maelstrom serves up tongues, hands, rape, adultery, racism, and Goth-meat pie. There's irony in which two sons survive.",
+    "runtime": "162 min",
+    "director": "Julie Taymor",
+    "actors": "Anthony Hopkins, Jessica Lange, Osheen Jones",
+    "production_country": "United Kingdom, Italy, United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNWUwZTY1ODAtZDY1ZS00YTJmLThkY2UtNDU1NjA4OTcxNThlXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/12524.webp",
+    "imdb_rating": "7.0",
+    "imdb_votes": "22,019",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Titus_(film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/12524.txt",
+    "plot_year_start": -44,
+    "plot_year_end": -43,
+    "epoch": "ancient-world",
+    "action_countries": [
+      "IT"
+    ],
+    "action_continents": [
+      "Europe"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "rome holding provinces with soldiers",
+        "description": "Across much of Europe, Roman authority is kept by legions, governors, taxes, and fortified frontiers that bind distant lands to the centre. What you'll see: marching columns, forts and walls, standards and eagles, garrisons on wild borders, and officials speaking for imperial power.",
+        "icon": "🦅"
+      },
+      {
+        "label": "captives, slaves, and hostages as property",
+        "description": "Defeat in war or debt can turn people into saleable property, while elite hostages are used to secure obedience between peoples and rulers. What you'll see: slave markets and chains, household servants, rowers and labourers, noble wards at court, and people traded as part of power.",
+        "icon": "⛓️"
+      }
+    ]
+  }
+]

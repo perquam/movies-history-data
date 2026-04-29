@@ -1,0 +1,35 @@
+[
+  {
+    "movie_id": 13363,
+    "movie_idx": 1140,
+    "imdb_id": "tt0756683",
+    "title": "The Man from Earth",
+    "production_year": "2007",
+    "genre": "Drama, Fantasy, Mystery",
+    "plot": "An impromptu goodbye party for Professor John Oldman becomes a mysterious interrogation after the retiring scholar reveals to his colleagues he has a longer and stranger past than they can imagine.",
+    "runtime": "87 min",
+    "director": "Richard Schenkman",
+    "actors": "David Lee Smith, Tony Todd, John Billingsley",
+    "production_country": "United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BOTE1NGYxNjgtYmVlMS00ODEwLTg2NjAtMTdjODMzY2I1ZjZmXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/13363.webp",
+    "imdb_rating": "7.8",
+    "imdb_votes": "214,697",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Man_from_Earth",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/13363.txt",
+    "plot_year_start": -12000,
+    "plot_year_end": 2000,
+    "epoch": "prehistoric-world",
+    "action_countries": [
+      "US"
+    ],
+    "action_continents": [
+      "North America"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "failures": {
+      "categories": "missing_category_list"
+    }
+  }
+]

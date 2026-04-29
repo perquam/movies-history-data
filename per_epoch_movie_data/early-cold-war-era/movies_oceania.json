@@ -1,0 +1,130 @@
+[
+  {
+    "movie_id": 9912,
+    "movie_idx": 3609,
+    "imdb_id": "tt0412080",
+    "title": "The World's Fastest Indian",
+    "production_year": "2005",
+    "genre": "Biography, Drama, Sport",
+    "plot": "For twenty-five years in Invercargill, New Zealand, Burt Munro (1899-1978) has been working on increasing the speed of his motorcycle, a 1920 Indian. He dreams of taking it to the Bonneville Salt Flats to see how fast it will go. By the early 1960s, heart disease threatens his life, so he mortgages his house and takes a boat to Los Angeles, buys an old car, builds a makeshift trailer, gets the Indian through customs, and heads for Utah. Along the way, people he meets are charmed by his open, direct friendliness. If he makes it to Bonneville, will they let an old guy on bthe flats with makeshift tires, no brakes, and no chute? And will the Indian actually respond?",
+    "runtime": "127 min",
+    "director": "Roger Donaldson",
+    "actors": "Anthony Hopkins, Diane Ladd, Iain Rea",
+    "production_country": "New Zealand, Japan, United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BN2IwYTI1MzMtYWYzMC00Y2I5LWJlODUtMTQwMTYwNjY4MTg3XkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/9912.webp",
+    "imdb_rating": "7.8",
+    "imdb_votes": "63,092",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Burt_Munro",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/9912.txt",
+    "plot_year_start": 1962,
+    "plot_year_end": 1963,
+    "epoch": "early-cold-war-era",
+    "action_countries": [
+      "NZ",
+      "US"
+    ],
+    "action_continents": [
+      "Oceania",
+      "North America"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "modest prosperity built on practical skills",
+        "description": "The period brings greater comfort than earlier hard times, yet most people still rely on thrift, repair, and hands-on competence rather than abundance. What you'll see: sheds and workshops, patched machines, homemade fixes, careful spending, and pride in making do with what is at hand.",
+        "icon": "🧰"
+      },
+      {
+        "label": "machines entering ordinary postwar life",
+        "description": "Motor cars, motorbikes, telephones, and modern transport are becoming familiar parts of daily life, widening horizons without erasing the older pace of distance and delay. What you'll see: roadside travel, garages and spare parts, household telephones, ferries and buses, and excitement around speed and mechanical know-how.",
+        "icon": "🚗"
+      }
+    ]
+  },
+  {
+    "movie_id": 555748,
+    "movie_idx": 5496,
+    "imdb_id": "tt8174450",
+    "title": "The Other Side of Heaven 2: Fire of Faith",
+    "production_year": "2019",
+    "genre": "Adventure, Biography, Drama",
+    "plot": "Missionary John H. Groberg returns to Tonga in the 1960s with his wife and their five young daughters. When their sixth child is born with a serious illness, the Grobergs face their ultimate test of faith, only to find themselves surrounded by the love and prayers of thousands of Tongans. Barriers of inter religious strife are soon broken down as all unite in hopes of a miracle that will save the baby's life, as well as the life of a Tongan minister's son.",
+    "runtime": "117 min",
+    "director": "Mitch Davis",
+    "actors": "Christopher Gorham, Natalie Medlock, Ben Baker",
+    "production_country": "United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BOTc3NGYzZDctMmVjZC00MmM1LWEzZGQtM2NlZmMxN2Y5NTdjXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/555748.webp",
+    "imdb_rating": "5.6",
+    "imdb_votes": "487",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Other_Side_of_Heaven_2:_Fire_of_Faith",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/555748.txt",
+    "plot_year_start": 1960,
+    "plot_year_end": 1960,
+    "epoch": "early-cold-war-era",
+    "action_countries": [
+      "TO"
+    ],
+    "action_continents": [
+      "Oceania"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "faith crossing between settlers and islanders",
+        "description": "Religious life in Oceania often moves through encounters between overseas missionaries and Pacific communities, creating shared devotions while keeping unequal histories close at hand. What you'll see: mission houses, congregations in island settings, prayer joining different groups, and Christian practice woven into local communal life.",
+        "icon": "🙏"
+      },
+      {
+        "label": "churches shaping public morals and duty",
+        "description": "Christian churches stand near the centre of social life, setting standards for conduct, family order, charity, and respectability across both settler and island communities. What you'll see: services and prayers, ministers and missionaries, religious talk in ordinary conversation, and moral judgment falling on behaviour seen as improper.",
+        "icon": "⛪"
+      }
+    ]
+  },
+  {
+    "movie_id": 1024,
+    "movie_idx": 6523,
+    "imdb_id": "tt0110005",
+    "title": "Heavenly Creatures",
+    "production_year": "1994",
+    "genre": "Biography, Crime, Drama",
+    "plot": "Pauline Parker and Juliet Hulme met in school during the 1950s. Instant best friends, they proceeded to spend every minute possible together, often writing about a fantasy land of their own invention. More and more estranged from their respective families, the two girls realise that they are extremely different from most other people, and agree to take any steps necessary to ensure that they are not seperated. The two families are increasingly concerned about the girls' friendship in a strictly moralistic era.",
+    "runtime": "99 min",
+    "director": "Peter Jackson",
+    "actors": "Melanie Lynskey, Kate Winslet, Sarah Peirse",
+    "production_country": "New Zealand, Germany",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjY2OTgyMjMtZGEwYy00NGNjLTg3NmQtNzBmMDRkZmRiYzlhXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/1024.webp",
+    "imdb_rating": "7.2",
+    "imdb_votes": "70,693",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Heavenly_Creatures",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/1024.txt",
+    "plot_year_start": 1952,
+    "plot_year_end": 1954,
+    "epoch": "early-cold-war-era",
+    "action_countries": [
+      "NZ"
+    ],
+    "action_continents": [
+      "Oceania"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "families ruled by discipline and respectability",
+        "description": "Households are expected to keep firm order, with parents guarding children's conduct and measuring success by decency, obedience, and a good name. What you'll see: strict home routines, worried parents, rules about companionship and behaviour, and domestic life framed by duty rather than self-expression.",
+        "icon": "👨‍👩‍👧"
+      },
+      {
+        "label": "churches shaping public morals and duty",
+        "description": "Christian churches stand near the centre of social life, setting standards for conduct, family order, charity, and respectability across both settler and island communities. What you'll see: services and prayers, ministers and missionaries, religious talk in ordinary conversation, and moral judgment falling on behaviour seen as improper.",
+        "icon": "⛪"
+      }
+    ]
+  }
+]

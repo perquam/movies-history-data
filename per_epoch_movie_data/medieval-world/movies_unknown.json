@@ -1,0 +1,361 @@
+[
+  {
+    "movie_id": 24752,
+    "movie_idx": 1085,
+    "imdb_id": "tt1125254",
+    "title": "Dragon Ball Z: Cooler's Revenge",
+    "production_year": "1991",
+    "genre": "Animation, Action, Sci-Fi",
+    "plot": "After destroying Frieza on Namek, Goku returns to a peaceful life on Earth. When informed his brother has been killed by a Saiyan, Cooler is hell bent on killing Goku, and making him pay for his brother's disgrace. Goku has to find the power within him to defeat a warrior even more powerful than the horrible Frieza.",
+    "runtime": "47 min",
+    "director": "Mitsuo Hashimoto",
+    "actors": "Masako Nozawa, Toshio Furukawa, Mayumi Tanaka",
+    "production_country": "Japan",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTBlY2Q2OTgtNWEwYi00NTE3LWI1ZmYtY2Y0ZTRiZjdjMDBjXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/24752.webp",
+    "imdb_rating": "7.0",
+    "imdb_votes": "9,434",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Dragon_Ball_Z:_Cooler%27s_Revenge",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/24752.txt",
+    "plot_year_start": 778,
+    "plot_year_end": 778,
+    "epoch": "medieval-world",
+    "action_countries": [
+      "UNKNOWN"
+    ],
+    "action_continents": [
+      "UNKNOWN"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Dragon Ball",
+    "categories": [
+      {
+        "label": "older magic lives beside church belief",
+        "description": "Sacred miracles, curses, blessings, and unseen forces are treated as part of how the world works. What you'll see: prophetic warnings, protective charms, enchanted sleep, holy rites, and fear of supernatural punishment.",
+        "icon": "🔮"
+      },
+      {
+        "label": "woods, marshes, and wild land press close",
+        "description": "Settled life exists beside dangerous forests, fens, and lonely stretches where travel is slow and perilous. What you'll see: rough paths, hunting grounds, hidden cottages, river fog, and travellers exposed to beasts and ambush.",
+        "icon": "🌲"
+      }
+    ]
+  },
+  {
+    "movie_id": 10882,
+    "movie_idx": 1290,
+    "imdb_id": "tt0053285",
+    "title": "Sleeping Beauty",
+    "production_year": "1959",
+    "genre": "Animation, Adventure, Family",
+    "plot": "After the beautiful Princess Aurora is born into royalty, everyone gathers to celebrate. Everything is perfectly fine until an unwanted guest appears, the evil fairy Maleficent. Maleficent curses the young princess and announces that she will die by pricking her finger on the spindle of a spinning wheel before sunset on her 16th birthday. Fortunately, one of the good fairies, Merryweather, changes the spell so Aurora will fall into a deep sleep instead, and the only way to wake her from her sleep is true love's kiss. Finally the day comes.",
+    "runtime": "75 min",
+    "director": "Les Clark, Clyde Geronimi, Eric Larson",
+    "actors": "Mary Costa, Bill Shirley, Eleanor Audley",
+    "production_country": "United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYjVjNjZkNTQtOTRhZi00NTVhLThkMzktYzY4YjIwZWRhZjA0XkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/10882.webp",
+    "imdb_rating": "7.2",
+    "imdb_votes": "170,874",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Sleeping_Beauty_(1959_film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/10882.txt",
+    "plot_year_start": 1301,
+    "plot_year_end": 1400,
+    "epoch": "medieval-world",
+    "action_countries": [
+      "UNKNOWN"
+    ],
+    "action_continents": [
+      "UNKNOWN"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "older magic lives beside church belief",
+        "description": "Sacred miracles, curses, blessings, and unseen forces are treated as part of how the world works. What you'll see: prophetic warnings, protective charms, enchanted sleep, holy rites, and fear of supernatural punishment.",
+        "icon": "🔮"
+      }
+    ]
+  },
+  {
+    "movie_id": 68737,
+    "movie_idx": 1488,
+    "imdb_id": "tt1121096",
+    "title": "Seventh Son",
+    "production_year": "2014",
+    "genre": "Action, Adventure, Fantasy",
+    "plot": "John Gregory, who is a seventh son of a seventh son and also the local spook, has protected his country from witches, boggarts, ghouls and all manner of things that go bump in the night. However John is not young anymore, and has been seeking an apprentice to carry on his trade. Most have failed to survive. The last hope is a young farmer's son named Thomas Ward. Will he survive the training to become the spook that so many others couldn't? Should he trust the girl with pointy shoes? How can Thomas stand a chance against Mother Malkin, the most dangerous witch in the county?",
+    "runtime": "102 min",
+    "director": "Sergei Bodrov",
+    "actors": "Ben Barnes, Julianne Moore, Jeff Bridges",
+    "production_country": "United States, Canada, United Kingdom, China",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjAxNTg2MDkyN15BMl5BanBnXkFtZTgwNzA3NzY1MjE@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/68737.webp",
+    "imdb_rating": "5.5",
+    "imdb_votes": "84,008",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Seventh_Son_(film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/68737.txt",
+    "plot_year_start": 1572,
+    "plot_year_end": 1572,
+    "epoch": "medieval-world",
+    "action_countries": [
+      "UNKNOWN"
+    ],
+    "action_continents": [
+      "UNKNOWN"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "older magic lives beside church belief",
+        "description": "Sacred miracles, curses, blessings, and unseen forces are treated as part of how the world works. What you'll see: prophetic warnings, protective charms, enchanted sleep, holy rites, and fear of supernatural punishment.",
+        "icon": "🔮"
+      },
+      {
+        "label": "kings ruling through kin and oath",
+        "description": "Power rests in royal households, sworn followers, and personal loyalty more than in far-reaching offices. What you'll see: great halls, councils of nobles, ceremonial pledges, and rulers travelling with their retinues.",
+        "icon": "👑"
+      }
+    ]
+  },
+  {
+    "movie_id": 299963,
+    "movie_idx": 2214,
+    "imdb_id": "tt1517470",
+    "title": "Dragon Ball Z: Gather Together! Goku's World",
+    "production_year": "1992",
+    "genre": "Animation, Short, Action, Adventure, Comedy, Game-Show, Sci-Fi",
+    "plot": "Goku embarks on a time-travel adventure to stop Cell.",
+    "runtime": "30 min",
+    "director": "N/A",
+    "actors": "Masako Nozawa, Mayumi Tanaka, Hiromi Tsuru, Takeshi Kusao",
+    "production_country": "Japan",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNWQyYzM2NzQtNTY0MC00ZmY3LThjMzItNGM4OGJlYmI2YjRjXkEyXkFqcGdeQXVyMTA1OTEwNjE@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/299963.webp",
+    "imdb_rating": "7.0",
+    "imdb_votes": "455",
+    "plot_year_start": 761,
+    "plot_year_end": 761,
+    "epoch": "medieval-world",
+    "action_countries": [
+      "UNKNOWN"
+    ],
+    "action_continents": [
+      "UNKNOWN"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Dragon Ball",
+    "categories": [
+      {
+        "label": "older magic lives beside church belief",
+        "description": "Sacred miracles, curses, blessings, and unseen forces are treated as part of how the world works. What you'll see: prophetic warnings, protective charms, enchanted sleep, holy rites, and fear of supernatural punishment.",
+        "icon": "🔮"
+      }
+    ],
+    "failures": {
+      "wikipedia": "no_wiki_article_found"
+    }
+  },
+  {
+    "movie_id": 12437,
+    "movie_idx": 2237,
+    "imdb_id": "tt0834001",
+    "title": "Underworld: Rise of the Lycans",
+    "production_year": "2009",
+    "genre": "Action, Fantasy, Thriller",
+    "plot": "The prequel story traces the origins of the centuries-old blood feud between the aristocratic vampires and their onetime slaves, the Lycans. In the Dark Ages, a young Lycan named Lucian emerges as a powerful leader who rallies the werewolves to rise up against Viktor, the cruel vampire king who has enslaved them. Lucian is joined by his secret lover, Sonja, in his battle against the Vampire army and his struggle for Lycan freedom.",
+    "runtime": "92 min",
+    "director": "Patrick Tatopoulos",
+    "actors": "Rhona Mitra, Michael Sheen, Bill Nighy",
+    "production_country": "United States, New Zealand, Australia",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTAwNzYzMDQyMzReQTJeQWpwZ15BbWU3MDMyNDA0MjI@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/12437.webp",
+    "imdb_rating": "6.5",
+    "imdb_votes": "174,462",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Underworld:_Rise_of_the_Lycans",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/12437.txt",
+    "plot_year_start": 1100,
+    "plot_year_end": 1300,
+    "epoch": "medieval-world",
+    "action_countries": [
+      "UNKNOWN"
+    ],
+    "action_continents": [
+      "UNKNOWN"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Underworld Universe",
+    "categories": [
+      {
+        "label": "kings ruling through kin and oath",
+        "description": "Power rests in royal households, sworn followers, and personal loyalty more than in far-reaching offices. What you'll see: great halls, councils of nobles, ceremonial pledges, and rulers travelling with their retinues.",
+        "icon": "👑"
+      },
+      {
+        "label": "older magic lives beside church belief",
+        "description": "Sacred miracles, curses, blessings, and unseen forces are treated as part of how the world works. What you'll see: prophetic warnings, protective charms, enchanted sleep, holy rites, and fear of supernatural punishment.",
+        "icon": "🔮"
+      }
+    ]
+  },
+  {
+    "movie_id": 834,
+    "movie_idx": 2244,
+    "imdb_id": "tt0401855",
+    "title": "Underworld: Evolution",
+    "production_year": "2006",
+    "genre": "Action, Fantasy, Thriller",
+    "plot": "As the war between the vampires and the Lycans rages on, the beautiful vampire, Selene, a former member of the Death Dealers, and Michael, the werewolf hybrid, work together in an effort to unlock the secrets of their respective bloodlines. In this ancient feud between the two tribes, they try to unlock the secrets, in a modern tale of action, intrigue, and forbidden love, which takes them into the battle to end all wars, as the immortals must finally face their doom.",
+    "runtime": "106 min",
+    "director": "Len Wiseman",
+    "actors": "Kate Beckinsale, Scott Speedman, Bill Nighy",
+    "production_country": "United States, Canada",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjEzNDY1OTQwOV5BMl5BanBnXkFtZTcwNjcxMTIzMw@@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/834.webp",
+    "imdb_rating": "6.7",
+    "imdb_votes": "217,151",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Underworld:_Evolution",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/834.txt",
+    "plot_year_start": 1202,
+    "plot_year_end": 2006,
+    "epoch": "medieval-world",
+    "action_countries": [
+      "UNKNOWN"
+    ],
+    "action_continents": [
+      "UNKNOWN"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "older magic lives beside church belief",
+        "description": "Sacred miracles, curses, blessings, and unseen forces are treated as part of how the world works. What you'll see: prophetic warnings, protective charms, enchanted sleep, holy rites, and fear of supernatural punishment.",
+        "icon": "🔮"
+      }
+    ]
+  },
+  {
+    "movie_id": 82700,
+    "movie_idx": 3232,
+    "imdb_id": "tt1815862",
+    "title": "After Earth",
+    "production_year": "2013",
+    "genre": "Action, Adventure, Drama",
+    "plot": "One thousand years after cataclysmic events forced humanity's escape from Earth, Nova Prime has become mankind's new home. Legendary General Cypher Raige returns from an extended tour of duty to his estranged family, ready to be a father to his 13-year-old son, Kitai. When an asteroid storm damages Cypher and Kitai's craft, they crash-land on a now unfamiliar and dangerous Earth. As his father lies dying in the cockpit, Kitai must trek across the hostile terrain to recover their rescue beacon. His whole life, Kitai has wanted nothing more than to be a soldier like his father. Today, he gets his chance.",
+    "runtime": "100 min",
+    "director": "M. Night Shyamalan",
+    "actors": "Jaden Smith, David Denman, Will Smith",
+    "production_country": "United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTY3MzQyMjkwMl5BMl5BanBnXkFtZTcwMDk2OTE0OQ@@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/82700.webp",
+    "imdb_rating": "4.8",
+    "imdb_votes": "216,012",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/After_Earth",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/82700.txt",
+    "plot_year_start": 1000,
+    "plot_year_end": 1000,
+    "epoch": "medieval-world",
+    "action_countries": [
+      "UNKNOWN"
+    ],
+    "action_continents": [
+      "UNKNOWN"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "warbands and horsemen decide borders",
+        "description": "Territory is held or lost by raiding, local levies, and mounted fighters rather than by fixed frontiers. What you'll see: shields and spears, river or road musters, fortified strongholds, and sudden fighting over crossings and settlements.",
+        "icon": "🐎"
+      }
+    ]
+  },
+  {
+    "movie_id": 485296,
+    "movie_idx": 8574,
+    "imdb_id": "tt6155374",
+    "title": "Redbad",
+    "production_year": "2018",
+    "genre": "Action, Drama, History",
+    "plot": "700 AD. Northern Europe is divided into two worlds: the Frisians, Saxons and Danes live above the rivers, below the rivers live the Franks. They want to achieve what even the Romans did not succeed: conquer all of Europe. They put in a new weapon to enslave the Gentiles: Christianity. They target Europe's main trading center, where the Frisian king Aldigisl rules.",
+    "runtime": "160 min",
+    "director": "Roel Reiné",
+    "actors": "Gijs Naber, Lisa Smit, Huub Stapel",
+    "production_country": "Netherlands",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZTg0NmRjNTgtMjI1Mi00Y2ZmLWE1NDgtOWQzZTkxNzg0YjM5XkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/485296.webp",
+    "imdb_rating": "5.5",
+    "imdb_votes": "3,208",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Redbad_(film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/485296.txt",
+    "plot_year_start": 700,
+    "plot_year_end": 700,
+    "epoch": "medieval-world",
+    "action_countries": [
+      "UNKNOWN"
+    ],
+    "action_continents": [
+      "UNKNOWN"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "conversion to Christianity remakes authority",
+        "description": "The new faith spreads alongside rulers and conquest, challenging older gods and customs while lending sacred weight to power. What you'll see: baptisms, crosses beside older holy places, priests at court, and disputes over idols, rites, and allegiance.",
+        "icon": "✝️"
+      },
+      {
+        "label": "river mouths and ports gather wealth",
+        "description": "Trade concentrates at harbours and river crossings where merchants, tribute, and news pass between lands. What you'll see: crowded quays, market exchange, ships unloading goods, and rulers contesting valuable trading places.",
+        "icon": "⚓"
+      }
+    ]
+  },
+  {
+    "movie_id": 11828,
+    "movie_idx": 9830,
+    "imdb_id": "tt0097289",
+    "title": "Erik the Viking",
+    "production_year": "1989",
+    "genre": "Adventure, Comedy, Fantasy",
+    "plot": "Erik the Viking and his men travel across the sea to find Valhalla to ask the gods to end the Age of Ragnarok.",
+    "runtime": "107 min",
+    "director": "Terry Jones",
+    "actors": "Tim Robbins, John Cleese, Mickey Rooney",
+    "production_country": "United Kingdom, Sweden",
+    "poster": "https://m.media-amazon.com/images/M/MV5BOTJhYTQ1MmQtZTViNi00Njk4LTg4YzctMWM0Y2RkMWNlOWNjXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/11828.webp",
+    "imdb_rating": "6.1",
+    "imdb_votes": "14,724",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Erik_the_Viking",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/11828.txt",
+    "plot_year_start": 900,
+    "plot_year_end": 900,
+    "epoch": "medieval-world",
+    "action_countries": [
+      "UNKNOWN"
+    ],
+    "action_continents": [
+      "UNKNOWN"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "warbands and horsemen decide borders",
+        "description": "Territory is held or lost by raiding, local levies, and mounted fighters rather than by fixed frontiers. What you'll see: shields and spears, river or road musters, fortified strongholds, and sudden fighting over crossings and settlements.",
+        "icon": "🐎"
+      },
+      {
+        "label": "older magic lives beside church belief",
+        "description": "Sacred miracles, curses, blessings, and unseen forces are treated as part of how the world works. What you'll see: prophetic warnings, protective charms, enchanted sleep, holy rites, and fear of supernatural punishment.",
+        "icon": "🔮"
+      }
+    ]
+  }
+]

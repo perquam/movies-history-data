@@ -1,0 +1,1205 @@
+[
+  {
+    "movie_id": 400155,
+    "movie_idx": 948,
+    "imdb_id": "tt5220122",
+    "title": "Hotel Transylvania 3: Summer Vacation",
+    "production_year": "2018",
+    "genre": "Animation, Adventure, Comedy",
+    "plot": "Mavis surprises Dracula with a family voyage on a luxury Monster Cruise Ship so he can take a vacation from providing everyone else's vacation at the hotel. The rest of Drac's Pack cannot resist going along. But once they leave port, romance arises when Dracula meets the mysterious ship Captain, Ericka. Now it's Mavis' turn to play the overprotective parent.",
+    "runtime": "97 min",
+    "director": "Genndy Tartakovsky",
+    "actors": "Adam Sandler, Andy Samberg, Selena Gomez",
+    "production_country": "United States, South Korea",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYzU4MmE4MjEtOTU4NS00ZTZiLTg5NTYtNzE2ZWMyODcyYzFiXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/400155.webp",
+    "imdb_rating": "6.3",
+    "imdb_votes": "97,963",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Hotel_Transylvania_3:_Summer_Vacation",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/400155.txt",
+    "plot_year_start": 1897,
+    "plot_year_end": 2015,
+    "epoch": "age-of-total-war",
+    "action_countries": [
+      "UNKNOWN"
+    ],
+    "action_continents": [
+      "UNKNOWN"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Hotel Transylvania",
+    "categories": [
+      {
+        "label": "railways and liners tying continents together",
+        "description": "Even in wartime and its shadow, long-distance travel still depends on grand trains and steamships that carry strangers, class divisions, and news across great distances. What you'll see: sleeping cars, dining saloons, boiler rooms, port departures, station platforms, and the etiquette of enclosed travel.",
+        "icon": "🚂"
+      },
+      {
+        "label": "mass conflict pressing on civilian life",
+        "description": "The great war reaches beyond battlefields into homes, livelihoods, travel, and the hopes of people trying to keep ordinary routines alive. What you'll see: blackouts, shortages, anxious telegrams, disrupted journeys, damaged cities, and moments of music, sport, or romance carried on under strain.",
+        "icon": "🏚️"
+      }
+    ],
+    "quiz": [
+      {
+        "question": "Why does Mavis book the family’s cruise in the story?",
+        "type": "plot",
+        "options": {
+          "A": "So Dracula can take a vacation from running the hotel and their family can spend time together",
+          "B": "So Dracula can search for a lost treasure in Atlantis",
+          "C": "So the family can move to a new hotel on the ocean"
+        },
+        "correct": "A"
+      }
+    ],
+    "key_events": [],
+    "key_characters": []
+  },
+  {
+    "movie_id": 392044,
+    "movie_idx": 1376,
+    "imdb_id": "tt3402236",
+    "title": "Murder on the Orient Express",
+    "production_year": "2017",
+    "genre": "Comedy, Crime, Drama",
+    "plot": "Hercule Poirot, the best detective in the world, decides to travel on the Orient Express. The train accidentally gets stopped because of a small avalanche. Little did he know that a murder was planned and that a person on this train was capable of committing such crime.",
+    "runtime": "114 min",
+    "director": "Kenneth Branagh",
+    "actors": "Kenneth Branagh, Penélope Cruz, Willem Dafoe",
+    "production_country": "United States, United Kingdom, Malta",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNTlkYjBlZTctZjg2YS00NDMzLTlkMTMtNWExMGYyOTliMmEzXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/392044.webp",
+    "imdb_rating": "6.5",
+    "imdb_votes": "319,654",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Murder_on_the_Orient_Express_(2017_film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/392044.txt",
+    "plot_year_start": 1934,
+    "plot_year_end": 1934,
+    "epoch": "age-of-total-war",
+    "action_countries": [
+      "UNKNOWN"
+    ],
+    "action_continents": [
+      "UNKNOWN"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "railways and liners tying continents together",
+        "description": "Even in wartime and its shadow, long-distance travel still depends on grand trains and steamships that carry strangers, class divisions, and news across great distances. What you'll see: sleeping cars, dining saloons, boiler rooms, port departures, station platforms, and the etiquette of enclosed travel.",
+        "icon": "🚂"
+      },
+      {
+        "label": "class lines visible in everyday dress",
+        "description": "Society remains sharply graded by wealth, education, accent, and birth, and those divisions shape who commands, who serves, and who moves freely. What you'll see: officers and enlisted men kept apart, mansions and cramped rooms, formal evening clothes, servants at hand, and deference expected in speech and bearing.",
+        "icon": "🎩"
+      }
+    ],
+    "quiz": [
+      {
+        "question": "Why does Hercule Poirot get stuck on the Orient Express?",
+        "type": "plot",
+        "options": {
+          "A": "The train is stopped by a small avalanche.",
+          "B": "The train runs out of fuel in the desert.",
+          "C": "A bridge collapses and blocks the tracks."
+        },
+        "correct": "A"
+      },
+      {
+        "question": "What was the Orient Express in real life?",
+        "type": "historical",
+        "options": {
+          "A": "A luxury international passenger train in Europe.",
+          "B": "A wartime troop ship in the Mediterranean.",
+          "C": "A battlefield hospital train used only in World War I."
+        },
+        "correct": "A"
+      }
+    ],
+    "key_events": [],
+    "key_characters": []
+  },
+  {
+    "movie_id": 3536,
+    "movie_idx": 2114,
+    "imdb_id": "tt0141926",
+    "title": "U-571",
+    "production_year": "2000",
+    "genre": "Action, War",
+    "plot": "In the midst of World War II, the battle below the seas rages. The Nazis have the upper edge as the Allies are unable to crack their war codes. That is, until a wrecked U-boat sends out an SOS signal, and the Allies realize this is their chance to seize the 'enigma coding machine'. But masquerading as Nazis and taking over the U-boat is the smallest of their problems. The action really begins when they get stranded on the U-boat.",
+    "runtime": "116 min",
+    "director": "Jonathan Mostow",
+    "actors": "Matthew McConaughey, Bill Paxton, Harvey Keitel",
+    "production_country": "France, United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNmU2MjAxZGQtMGY3NC00ODYwLThkZWQtNzhjMDhhOTVlMWYyXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/3536.webp",
+    "imdb_rating": "6.6",
+    "imdb_votes": "91,561",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/U-571_(film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/3536.txt",
+    "plot_year_start": 1942,
+    "plot_year_end": 1942,
+    "epoch": "age-of-total-war",
+    "action_countries": [
+      "UNKNOWN"
+    ],
+    "action_continents": [
+      "UNKNOWN"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "oceans turned into contested war roads",
+        "description": "In this age, the sea is not open distance but a vital passage where food, fuel, troops, and messages must run a gauntlet of attack. What you'll see: convoys in rough water, destroyers screening merchant ships, sonar pings, depth charges, and the long cold watch on dark decks.",
+        "icon": "🛳️"
+      },
+      {
+        "label": "cipher machines guarding military secrets",
+        "description": "Victory depends not only on guns but on hidden signals, codebooks, and the devices that turn orders into unreadable traffic. What you'll see: radio rooms, intercepted transmissions, guarded documents, hurried decoding work, and desperate efforts to seize or protect enemy cipher gear.",
+        "icon": "🔒"
+      }
+    ],
+    "quiz": [
+      {
+        "question": "What happens after the Americans board the damaged U-boat in the story?",
+        "type": "plot",
+        "options": {
+          "A": "They get stranded on the U-boat and must keep fighting to escape",
+          "B": "They safely hand over the Enigma machine and return home at once",
+          "C": "They are rescued by a British destroyer before anything goes wrong"
+        },
+        "correct": "A"
+      },
+      {
+        "question": "Which real World War II struggle is taking place in 1942 and forms the film's setting?",
+        "type": "historical",
+        "options": {
+          "A": "The Battle of the Atlantic",
+          "B": "The Peloponnesian War",
+          "C": "The Napoleonic Wars"
+        },
+        "correct": "A"
+      }
+    ],
+    "key_events": [
+      {
+        "event": "Battle of the Atlantic",
+        "description": "The film is set during the 1942 U-boat campaign against Allied shipping in the Atlantic."
+      },
+      {
+        "event": "Allied capture of Enigma materials",
+        "description": "The plot revolves around seizing a German Enigma machine from a U-boat to help break Nazi war codes."
+      }
+    ],
+    "key_characters": []
+  },
+  {
+    "movie_id": 10865,
+    "movie_idx": 2324,
+    "imdb_id": "tt0230011",
+    "title": "Atlantis: The Lost Empire",
+    "production_year": "2001",
+    "genre": "Animation, Action, Adventure",
+    "plot": "1914: Milo Thatch, grandson of the great Thaddeus Thatch works in the boiler room of a museum. He knows that Atlantis was real, and he can get there if he has the mysterious Shephards journal, which can guide him to Atlantis. But he needs someone to fund a voyage. His employer thinks he's dotty, and refuses to fund any crazy idea. He returns home to his apartment and finds a woman there. She takes him to Preston B. Whitmore, an old friend of his Grandfathers. He gives him the shepherds journal, a submarine and a 5 star crew. They travel through the Atlantic ocean, face a large lobster called the Leviathan, and finally get to Atlantis. But does the Atlantis crew have a lust for discovery, or something else?",
+    "runtime": "95 min",
+    "director": "Gary Trousdale, Kirk Wise",
+    "actors": "Michael J. Fox, Jim Varney, Corey Burton",
+    "production_country": "United States, Japan",
+    "poster": "https://m.media-amazon.com/images/M/MV5BODYwZTQwMDEtYjgyZS00NzNhLWFhYWMtN2Q1Y2JmZjlmZDlhXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/10865.webp",
+    "imdb_rating": "6.9",
+    "imdb_votes": "145,597",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Atlantis:_The_Lost_Empire",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/10865.txt",
+    "plot_year_start": 1914,
+    "plot_year_end": 1914,
+    "epoch": "age-of-total-war",
+    "action_countries": [
+      "UNKNOWN"
+    ],
+    "action_continents": [
+      "UNKNOWN"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "faith in machines and expert skill",
+        "description": "This world places enormous trust in trained hands and modern apparatus, from engines and radios to gunsights and navigation tables. What you'll see: engine rooms, plotting tables, periscopes, switchboards, technical manuals, and specialists whose knowledge is treated as a weapon in itself.",
+        "icon": "⚙️"
+      },
+      {
+        "label": "mass conflict pressing on civilian life",
+        "description": "The great war reaches beyond battlefields into homes, livelihoods, travel, and the hopes of people trying to keep ordinary routines alive. What you'll see: blackouts, shortages, anxious telegrams, disrupted journeys, damaged cities, and moments of music, sport, or romance carried on under strain.",
+        "icon": "🏚️"
+      }
+    ],
+    "quiz": [
+      {
+        "question": "What does Milo finally get to help him travel to Atlantis?",
+        "type": "plot",
+        "options": {
+          "A": "The Shepherd's Journal and a submarine",
+          "B": "A map to a hidden castle and a horse",
+          "C": "A magic stone and a flying ship"
+        },
+        "correct": "A"
+      },
+      {
+        "question": "What major real-world conflict had just begun in 1914?",
+        "type": "historical",
+        "options": {
+          "A": "The American Civil War",
+          "B": "World War I",
+          "C": "The French Revolution"
+        },
+        "correct": "B"
+      }
+    ],
+    "key_events": [],
+    "key_characters": []
+  },
+  {
+    "movie_id": 516486,
+    "movie_idx": 2978,
+    "imdb_id": "tt6048922",
+    "title": "Greyhound",
+    "production_year": "2020",
+    "genre": "Drama, History, War",
+    "plot": "Based upon the novel \"The Good Shepherd\" by C S Forester, this is the thrilling story of an Allied convoy crossing the North Atlantic in 1942 as it faces relentless attack by a German submarine wolf pack. The leader of the convoy's destroyer screen is a US Navy commander making his first Atlantic crossing. The story focuses on his command responsibility as he fights the cold, the relentless night, the brutal sea, and his deep fatigue as he chases down the attacking submarines in the deadly game of cat and mouse. The exciting story, a thrilling ride-along with the beleaguered captain, so deeply portrays the elements of battle command that for a long period of time the book was used as a text at the US Naval Academy.",
+    "runtime": "91 min",
+    "director": "Aaron Schneider",
+    "actors": "Tom Hanks, Elisabeth Shue, Stephen Graham",
+    "production_country": "United States, Canada, China",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZTU3YzY0NjktMmRhMC00MzYyLWI0YmUtZGJkMzJjMWYwZDZkXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/516486.webp",
+    "imdb_rating": "7.0",
+    "imdb_votes": "131,335",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Greyhound_(film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/516486.txt",
+    "plot_year_start": 1942,
+    "plot_year_end": 1942,
+    "epoch": "age-of-total-war",
+    "action_countries": [
+      "UNKNOWN"
+    ],
+    "action_continents": [
+      "UNKNOWN"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "oceans turned into contested war roads",
+        "description": "In this age, the sea is not open distance but a vital passage where food, fuel, troops, and messages must run a gauntlet of attack. What you'll see: convoys in rough water, destroyers screening merchant ships, sonar pings, depth charges, and the long cold watch on dark decks.",
+        "icon": "🛳️"
+      },
+      {
+        "label": "faith in machines and expert skill",
+        "description": "This world places enormous trust in trained hands and modern apparatus, from engines and radios to gunsights and navigation tables. What you'll see: engine rooms, plotting tables, periscopes, switchboards, technical manuals, and specialists whose knowledge is treated as a weapon in itself.",
+        "icon": "⚙️"
+      }
+    ],
+    "quiz": [
+      {
+        "question": "What is the convoy trying to do when it comes under attack?",
+        "type": "plot",
+        "options": {
+          "A": "Cross the North Atlantic to reach Liverpool while fighting German submarines",
+          "B": "Rescue a stranded plane crew in the Mediterranean",
+          "C": "Deliver troops across the Pacific to Australia"
+        },
+        "correct": "A"
+      },
+      {
+        "question": "What real World War II campaign does the film take place during?",
+        "type": "historical",
+        "options": {
+          "A": "The Battle of the Atlantic",
+          "B": "The Battle of the Bulge",
+          "C": "The D-Day invasion"
+        },
+        "correct": "A"
+      }
+    ],
+    "key_events": [
+      {
+        "event": "Battle of the Atlantic",
+        "description": "The film is set during the 1942 convoy battles against German U-boats in the North Atlantic."
+      },
+      {
+        "event": "U-boat wolfpack attacks",
+        "description": "A pack of German submarines coordinates attacks on the Allied convoy in the film's central battle."
+      }
+    ],
+    "key_characters": []
+  },
+  {
+    "movie_id": 428399,
+    "movie_idx": 4567,
+    "imdb_id": "tt1034385",
+    "title": "Cold Skin",
+    "production_year": "2017",
+    "genre": "Action, Fantasy, Horror",
+    "plot": "In 1914, just after of Franz Ferdinand's assassination that eventually caused World War I, a steamship approaches a desolate island on the edge of the Antarctic Circle, where a young nameless man is poised to take the post of weather observer, to live in solitude at the ends of the earth for an entire year until the arrival of his replacement. For the next twelve months, his entire world will consist of a deserted cabin, the surrounding sea, and dangerous strange beings that he discovers are sharing the island.",
+    "runtime": "108 min",
+    "director": "Xavier Gens",
+    "actors": "Ray Stevenson, David Oakes, Aura Garrido",
+    "production_country": "Spain, France",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZjc5YWRjMzUtY2YxNy00MTI4LWEwMjQtMDdmNTdkNjMzOTVmXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/428399.webp",
+    "imdb_rating": "6.0",
+    "imdb_votes": "19,940",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Cold_Skin_(film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/428399.txt",
+    "plot_year_start": 1914,
+    "plot_year_end": 1915,
+    "epoch": "age-of-total-war",
+    "action_countries": [
+      "UNKNOWN"
+    ],
+    "action_continents": [
+      "UNKNOWN"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "mass conflict pressing on civilian life",
+        "description": "The great war reaches beyond battlefields into homes, livelihoods, travel, and the hopes of people trying to keep ordinary routines alive. What you'll see: blackouts, shortages, anxious telegrams, disrupted journeys, damaged cities, and moments of music, sport, or romance carried on under strain.",
+        "icon": "🏚️"
+      },
+      {
+        "label": "faith in machines and expert skill",
+        "description": "This world places enormous trust in trained hands and modern apparatus, from engines and radios to gunsights and navigation tables. What you'll see: engine rooms, plotting tables, periscopes, switchboards, technical manuals, and specialists whose knowledge is treated as a weapon in itself.",
+        "icon": "⚙️"
+      }
+    ],
+    "quiz": [
+      {
+        "question": "What happens to the young man after he reaches the island?",
+        "type": "plot",
+        "options": {
+          "A": "He becomes captain of the steamship and turns back to sea.",
+          "B": "He is rescued the same day and leaves with the crew.",
+          "C": "He spends a year there as a weather observer, facing strange sea creatures."
+        },
+        "correct": "C"
+      },
+      {
+        "question": "What real event is mentioned at the start of the film as having helped lead to World War I?",
+        "type": "historical",
+        "options": {
+          "A": "The signing of the Treaty of Versailles",
+          "B": "The fall of the Berlin Wall",
+          "C": "The assassination of Archduke Franz Ferdinand"
+        },
+        "correct": "C"
+      }
+    ],
+    "key_events": [
+      {
+        "event": "Assassination of Archduke Franz Ferdinand",
+        "description": "The story opens just after Franz Ferdinand's assassination, which is mentioned as the spark for the coming war."
+      },
+      {
+        "event": "World War I",
+        "description": "The 1914 setting is framed by the outbreak of World War I in Europe, though the island itself remains isolated."
+      }
+    ],
+    "key_characters": [
+      {
+        "character": "Franz Ferdinand",
+        "description": "His assassination is cited in the opening as the catalyst for the war backdrop."
+      }
+    ]
+  },
+  {
+    "movie_id": 989473,
+    "movie_idx": 4630,
+    "imdb_id": "tt11773810",
+    "title": "Invitation to a Murder",
+    "production_year": "2023",
+    "genre": "Mystery, Thriller",
+    "plot": "1934. Miranda Green and five other strangers, are invited to the remote island mansion of billionaire Lewis Findley. As the weekend progresses the clues about why they have been invited begin to unfold along with a sinister mystery.",
+    "runtime": "92 min",
+    "director": "Stephen Shimek",
+    "actors": "Mischa Barton, Chris Browning, Bianca A. Santos",
+    "production_country": "France",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMWRmZjEzMjYtZjUzYS00NzRiLWI0NWUtMTNjYjhkZWQ1OTFjXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/989473.webp",
+    "imdb_rating": "5.2",
+    "imdb_votes": "6,629",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Invitation_to_a_Murder",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/989473.txt",
+    "plot_year_start": 1934,
+    "plot_year_end": 1934,
+    "epoch": "age-of-total-war",
+    "action_countries": [
+      "UNKNOWN"
+    ],
+    "action_continents": [
+      "UNKNOWN"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "class lines visible in everyday dress",
+        "description": "Society remains sharply graded by wealth, education, accent, and birth, and those divisions shape who commands, who serves, and who moves freely. What you'll see: officers and enlisted men kept apart, mansions and cramped rooms, formal evening clothes, servants at hand, and deference expected in speech and bearing.",
+        "icon": "🎩"
+      }
+    ],
+    "quiz": [
+      {
+        "question": "Why are Miranda Green and the other strangers invited to the island mansion?",
+        "type": "plot",
+        "options": {
+          "A": "They are secretly being tested to see who will inherit Lewis Findley's fortune",
+          "B": "They are asked to help repair the mansion after a storm",
+          "C": "They are invited to attend a wedding celebration"
+        },
+        "correct": "A"
+      },
+      {
+        "question": "Which real-life mystery writer does Miranda especially admire?",
+        "type": "historical",
+        "options": {
+          "A": "Arthur Conan Doyle",
+          "B": "Dorothy L. Sayers",
+          "C": "Agatha Christie"
+        },
+        "correct": "C"
+      }
+    ],
+    "key_events": [],
+    "key_characters": [
+      {
+        "character": "Agatha Christie",
+        "description": "Miranda is obsessed with her mystery novels, which shape how she interprets the island weekend."
+      }
+    ]
+  },
+  {
+    "movie_id": 10376,
+    "movie_idx": 4907,
+    "imdb_id": "tt0120731",
+    "title": "The Legend of 1900",
+    "production_year": "1998",
+    "genre": "Drama, Music, Romance",
+    "plot": "1900. Danny Boodmann, a stoker on an American passenger liner, Virginian, finds a baby abandoned on the ship. He names the child Danny Boodmann T.D. Lemon Nineteen Hundred '1900' and raises the child as his own until his death in an accident on the ship. The child never leaves the ship and turns out to be a musical genius, especially when it comes to playing the piano. As an adult he befriends a trumpet player in the ship's band, Max Tooney. After several years on the ship Max leaves, and tells the story of 1900 to the owner of a music store.",
+    "runtime": "169 min",
+    "director": "Giuseppe Tornatore",
+    "actors": "Tim Roth, Pruitt Taylor Vince, Mélanie Thierry",
+    "production_country": "Italy",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNDg0ZTU4YTItZTI3My00ODNjLTllMTYtMzI3ZWNjYjU1NGM1XkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/10376.webp",
+    "imdb_rating": "8.0",
+    "imdb_votes": "73,273",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Legend_of_1900",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/10376.txt",
+    "plot_year_start": 1900,
+    "plot_year_end": 1933,
+    "epoch": "age-of-total-war",
+    "action_countries": [
+      "UNKNOWN"
+    ],
+    "action_continents": [
+      "UNKNOWN"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "railways and liners tying continents together",
+        "description": "Even in wartime and its shadow, long-distance travel still depends on grand trains and steamships that carry strangers, class divisions, and news across great distances. What you'll see: sleeping cars, dining saloons, boiler rooms, port departures, station platforms, and the etiquette of enclosed travel.",
+        "icon": "🚂"
+      }
+    ],
+    "quiz": [
+      {
+        "question": "What does 1900 do after he grows up on the ship?",
+        "type": "plot",
+        "options": {
+          "A": "He leaves the ship to become a famous concert pianist on land.",
+          "B": "He stays on the Virginian and becomes a musical genius, especially at the piano.",
+          "C": "He joins the crew and works in the ship's boiler room."
+        },
+        "correct": "B"
+      },
+      {
+        "question": "Who was Jelly Roll Morton in real history?",
+        "type": "historical",
+        "options": {
+          "A": "A British naval officer from World War I",
+          "B": "A silent film actor from the 1930s",
+          "C": "An early New Orleans jazz pianist and composer"
+        },
+        "correct": "C"
+      }
+    ],
+    "key_events": [],
+    "key_characters": [
+      {
+        "character": "Jelly Roll Morton",
+        "description": "A famous New Orleans jazz pianist boards the Virginian and loses a piano duel to 1900."
+      }
+    ]
+  },
+  {
+    "movie_id": 11046,
+    "movie_idx": 5251,
+    "imdb_id": "tt0065207",
+    "title": "Where Eagles Dare",
+    "production_year": "1968",
+    "genre": "Action, Adventure, War",
+    "plot": "During World War II, a British aircraft is shot down and crashes in Nazi held territory. The Germans capture the only survivor, American Brigadier General George Carnaby (Robert Beatty), and take him to the nearest S.S. headquarters. Unknown to the Germans, the General has full knowledge of the D-Day operation. The British decide that the General must not be allowed to divulge any details of the Normandy landing at all costs, and order Major Jonathan Smith (Richard Burton) to lead a crack commando team to rescue him. Amongst the team is an American Ranger, Lieutenant Morris Schaffer (Clint Eastwood), who is puzzled by his inclusion in an all British operation. When one of the team dies after the parachute drop, Schaffer suspects that Smith's mission has a much more secret objective.",
+    "runtime": "158 min",
+    "director": "Brian G. Hutton",
+    "actors": "Richard Burton, Clint Eastwood, Mary Ure",
+    "production_country": "United Kingdom, United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNzY1YjdjM2EtOThhOS00YzUyLWFjODUtZTNjNmJmNTFjNWVmXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/11046.webp",
+    "imdb_rating": "7.6",
+    "imdb_votes": "66,156",
+    "plot_year_start": 1944,
+    "plot_year_end": 1944,
+    "epoch": "age-of-total-war",
+    "action_countries": [
+      "UNKNOWN"
+    ],
+    "action_continents": [
+      "UNKNOWN"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "special units sent behind enemy lines",
+        "description": "Regular armies are supplemented by small picked bands trained for sabotage, reconnaissance, and raids far from the front. What you'll see: parachute drops, secret briefings, disguised soldiers, demolition work, and missions aimed at bridges, guns, headquarters, or captured personnel.",
+        "icon": "🪂"
+      },
+      {
+        "label": "cipher machines guarding military secrets",
+        "description": "Victory depends not only on guns but on hidden signals, codebooks, and the devices that turn orders into unreadable traffic. What you'll see: radio rooms, intercepted transmissions, guarded documents, hurried decoding work, and desperate efforts to seize or protect enemy cipher gear.",
+        "icon": "🔒"
+      }
+    ],
+    "quiz": [
+      {
+        "question": "What is Major Jonathan Smith's mission?",
+        "type": "plot",
+        "options": {
+          "A": "To destroy a German tank factory",
+          "B": "To rescue General George Carnaby before he can reveal D-Day secrets",
+          "C": "To negotiate a prisoner exchange with the Germans"
+        },
+        "correct": "B"
+      },
+      {
+        "question": "What real World War II event is the film's secret tied to?",
+        "type": "historical",
+        "options": {
+          "A": "The Battle of Britain",
+          "B": "The Dunkirk evacuation",
+          "C": "The Allied D-Day landings in Normandy"
+        },
+        "correct": "C"
+      }
+    ],
+    "key_events": [
+      {
+        "event": "World War II",
+        "description": "The mission takes place in Nazi-occupied Europe during the broader conflict of World War II."
+      },
+      {
+        "event": "D-Day",
+        "description": "The rescuers are trying to keep secret the details of the Normandy invasion plan."
+      },
+      {
+        "event": "Normandy landings",
+        "description": "The film centers on preventing the captured general from revealing information about the Allied landing in Normandy."
+      }
+    ],
+    "key_characters": [],
+    "failures": {
+      "wikipedia": "no_wiki_article_found"
+    }
+  },
+  {
+    "movie_id": 845890,
+    "movie_idx": 5518,
+    "imdb_id": "tt14740118",
+    "title": "Righteous Thieves",
+    "production_year": "2023",
+    "genre": "Action, Crime, Thriller",
+    "plot": "The head of a secret organization assembles a crew to steal back artwork plundered by Nazis during World War II.",
+    "runtime": "91 min",
+    "director": "Anthony Nardolillo",
+    "actors": "Lisa Vidal, Jaina Lee Ortiz, Sasha Merci",
+    "production_country": "United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMmUwZmZkYTgtNjg5NC00NDI0LThkYWEtODIxZGNiNmNkMGJmXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/845890.webp",
+    "imdb_rating": "4.2",
+    "imdb_votes": "816",
+    "plot_year_start": 1944,
+    "plot_year_end": 1945,
+    "epoch": "age-of-total-war",
+    "action_countries": [
+      "UNKNOWN"
+    ],
+    "action_continents": [
+      "UNKNOWN"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "art and treasures uprooted by conquest",
+        "description": "War does not spare culture, and paintings, relics, and collections are seized, hidden, traded, or claimed as spoils by occupying powers. What you'll see: crates in cellars, catalogues and provenance papers, guarded galleries, aristocratic collections, and secret efforts to recover looted works.",
+        "icon": "🖼️"
+      }
+    ],
+    "quiz": [
+      {
+        "question": "What is the crew assembled to do in the story?",
+        "type": "plot",
+        "options": {
+          "A": "To escort refugees across the border",
+          "B": "To destroy a secret weapons factory",
+          "C": "To steal back artwork taken by Nazis"
+        },
+        "correct": "C"
+      },
+      {
+        "question": "During World War II, what did Nazi forces do to many artworks in occupied areas?",
+        "type": "historical",
+        "options": {
+          "A": "They looted and stole them",
+          "B": "They returned them all to museums",
+          "C": "They buried them underground for safekeeping"
+        },
+        "correct": "A"
+      }
+    ],
+    "key_events": [
+      {
+        "event": "Nazi looting of art",
+        "description": "The crew’s target is artwork stolen by Nazis during World War II."
+      },
+      {
+        "event": "World War II",
+        "description": "The story is set in the final years of the war, when the theft and recovery mission takes place."
+      }
+    ],
+    "key_characters": [],
+    "failures": {
+      "wikipedia": "no_wiki_article_found"
+    }
+  },
+  {
+    "movie_id": 1106865,
+    "movie_idx": 6141,
+    "imdb_id": "tt27371976",
+    "title": "Último Recurso",
+    "production_year": "2023",
+    "genre": "Comedy",
+    "plot": "A mysterious package arrives at the office of a once prestigious sports magazine suggesting that the first Football World Cup took place in 1926 but it was erased from history.",
+    "runtime": "79 min",
+    "director": "Matías Szulanski",
+    "actors": "Germán Baudino, Isabel Ishikawa, Tamara Leschner",
+    "production_country": "Argentina",
+    "poster": "https://m.media-amazon.com/images/M/MV5BOGQ2ZjcxMmYtMzM5Yy00NzVlLWJlNWMtZThkYzhmOTQ0ODY0XkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/1106865.webp",
+    "imdb_rating": "N/A",
+    "imdb_votes": "20",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Human_Resources_(2023_film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/1106865.txt",
+    "plot_year_start": 1926,
+    "plot_year_end": 1926,
+    "epoch": "age-of-total-war",
+    "action_countries": [
+      "UNKNOWN"
+    ],
+    "action_continents": [
+      "UNKNOWN"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "mass conflict pressing on civilian life",
+        "description": "The great war reaches beyond battlefields into homes, livelihoods, travel, and the hopes of people trying to keep ordinary routines alive. What you'll see: blackouts, shortages, anxious telegrams, disrupted journeys, damaged cities, and moments of music, sport, or romance carried on under strain.",
+        "icon": "🏚️"
+      }
+    ],
+    "quiz": [
+      {
+        "question": "What does the mysterious package suggest about the first Football World Cup?",
+        "type": "plot",
+        "options": {
+          "A": "It proves the magazine has won a major award.",
+          "B": "It says the magazine should shut down right away.",
+          "C": "It suggests the first Football World Cup took place in 1926 and was erased from history."
+        },
+        "correct": "C"
+      },
+      {
+        "question": "When was the first FIFA World Cup actually held in real history?",
+        "type": "historical",
+        "options": {
+          "A": "1930",
+          "B": "1926",
+          "C": "1950"
+        },
+        "correct": "A"
+      }
+    ],
+    "key_events": [],
+    "key_characters": []
+  },
+  {
+    "movie_id": 901,
+    "movie_idx": 6377,
+    "imdb_id": "tt0021749",
+    "title": "City Lights",
+    "production_year": "1931",
+    "genre": "Comedy, Drama, Romance",
+    "plot": "A tramp falls in love with a beautiful blind girl. Her family is in financial trouble. The tramp's on-and-off friendship with a wealthy man allows him to be the girl's benefactor and suitor.",
+    "runtime": "87 min",
+    "director": "Charles Chaplin",
+    "actors": "Charles Chaplin, Virginia Cherrill, Florence Lee",
+    "production_country": "United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BM2U4NjgzODUtODkyOC00YTE2LTlhNTItYzFlYmM1NTEzZDA2XkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/901.webp",
+    "imdb_rating": "8.5",
+    "imdb_votes": "215,345",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/City_Lights",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/901.txt",
+    "plot_year_start": 1930,
+    "plot_year_end": 1930,
+    "epoch": "age-of-total-war",
+    "action_countries": [
+      "UNKNOWN"
+    ],
+    "action_continents": [
+      "UNKNOWN"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "class lines visible in everyday dress",
+        "description": "Society remains sharply graded by wealth, education, accent, and birth, and those divisions shape who commands, who serves, and who moves freely. What you'll see: officers and enlisted men kept apart, mansions and cramped rooms, formal evening clothes, servants at hand, and deference expected in speech and bearing.",
+        "icon": "🎩"
+      }
+    ],
+    "quiz": [
+      {
+        "question": "What happens at the end of the story?",
+        "type": "plot",
+        "options": {
+          "A": "The blind girl can see again and realizes the tramp was her benefactor.",
+          "B": "The tramp leaves the city and never sees her again.",
+          "C": "The millionaire gives the tramp a job at his mansion."
+        },
+        "correct": "A"
+      },
+      {
+        "question": "What big change in movies was happening when the film was made?",
+        "type": "historical",
+        "options": {
+          "A": "Color films were already common everywhere.",
+          "B": "War films had replaced all comedies in theaters.",
+          "C": "Talking pictures were rising and silent films were becoming outdated."
+        },
+        "correct": "C"
+      }
+    ],
+    "key_events": [],
+    "key_characters": []
+  },
+  {
+    "movie_id": 880313,
+    "movie_idx": 6494,
+    "imdb_id": "tt15189534",
+    "title": "The Wrath of God",
+    "production_year": "2022",
+    "genre": "Drama, Thriller",
+    "plot": "Luciana, a young woman immersed in a circle of mysterious deaths of relatives and the growing suspicion that the person responsible is an enigmatic writer, her former boss.",
+    "runtime": "97 min",
+    "director": "Sebastián Schindel",
+    "actors": "Diego Peretti, Juan Minujín, Macarena Achaga",
+    "production_country": "Argentina",
+    "poster": "https://m.media-amazon.com/images/M/MV5BOWY4N2QyMjMtMGQwZC00MzhkLTg0YmEtOWNkM2YzYWE5OTBlXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/880313.webp",
+    "imdb_rating": "5.8",
+    "imdb_votes": "5,240",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Wrath_of_God",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/880313.txt",
+    "plot_year_start": 1922,
+    "plot_year_end": 1922,
+    "epoch": "age-of-total-war",
+    "action_countries": [
+      "UNKNOWN"
+    ],
+    "action_continents": [
+      "UNKNOWN"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "mass conflict pressing on civilian life",
+        "description": "The great war reaches beyond battlefields into homes, livelihoods, travel, and the hopes of people trying to keep ordinary routines alive. What you'll see: blackouts, shortages, anxious telegrams, disrupted journeys, damaged cities, and moments of music, sport, or romance carried on under strain.",
+        "icon": "🏚️"
+      }
+    ],
+    "quiz": [
+      {
+        "question": "What happens at the end of the story?",
+        "type": "plot",
+        "options": {
+          "A": "Luciana discovers the writer was only pretending to be involved and leaves the town alone.",
+          "B": "Keogh escapes with the stolen money while Van Horne is arrested by soldiers.",
+          "C": "Van Horne brings down the stone cross on de la Plata and kills him."
+        },
+        "correct": "C"
+      },
+      {
+        "question": "When is the film's story set?",
+        "type": "historical",
+        "options": {
+          "A": "The 1920s",
+          "B": "The 1910s",
+          "C": "The 1940s"
+        },
+        "correct": "A"
+      }
+    ],
+    "key_events": [],
+    "key_characters": []
+  },
+  {
+    "movie_id": 606870,
+    "movie_idx": 7757,
+    "imdb_id": "tt19275028",
+    "title": "Rio the Survivor",
+    "production_year": "2022",
+    "genre": "Drama",
+    "plot": "Rio has been sick since birth, lives without parents, and is raised only by his grandmother. Rio is a smart boy and good at playing football. His dream is to become a national team player. But he is experiencing a lot of discrimin...",
+    "runtime": "114 min",
+    "director": "Yudie Oktav",
+    "actors": "Raditya Evandra, Sri Widayati, Akinza Kiyosaki",
+    "production_country": "Indonesia",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMWE0NjYxMzgtNzFkOC00N2VlLTliZTMtMmM4YTFiMWMwY2VjXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/606870.webp",
+    "imdb_rating": "N/A",
+    "imdb_votes": "7",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Survivor_(2021_film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/606870.txt",
+    "plot_year_start": 1940,
+    "plot_year_end": 1950,
+    "epoch": "age-of-total-war",
+    "action_countries": [
+      "UNKNOWN"
+    ],
+    "action_continents": [
+      "UNKNOWN"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "mass conflict pressing on civilian life",
+        "description": "The great war reaches beyond battlefields into homes, livelihoods, travel, and the hopes of people trying to keep ordinary routines alive. What you'll see: blackouts, shortages, anxious telegrams, disrupted journeys, damaged cities, and moments of music, sport, or romance carried on under strain.",
+        "icon": "🏚️"
+      }
+    ],
+    "quiz": [
+      {
+        "question": "What does Rio dream of becoming?",
+        "type": "plot",
+        "options": {
+          "A": "A football coach",
+          "B": "A national team player",
+          "C": "A school principal"
+        },
+        "correct": "B"
+      },
+      {
+        "question": "What real historical place is mentioned in the film's source material?",
+        "type": "historical",
+        "options": {
+          "A": "Auschwitz concentration camp",
+          "B": "The Berlin Wall",
+          "C": "The Roman Colosseum"
+        },
+        "correct": "A"
+      }
+    ],
+    "key_events": [],
+    "key_characters": []
+  },
+  {
+    "movie_id": 348811,
+    "movie_idx": 8127,
+    "imdb_id": "tt3779300",
+    "title": "War Pigs",
+    "production_year": "2015",
+    "genre": "Action, Drama, War",
+    "plot": "Disgraced World War 2 Army Captain Jack Wosick is given the opportunity for redemption when asked to lead a rag-tag unit of misfits known as the War Pigs on a secretmission to go behind enemy lines to uncover and capture a Nazi developed Super Weapon the V3, a massive artillery canon that would give the Nazis an insurmountable advantage against the Allies. With the help of Captain Hans Picault, a German Anti-Nazi serving with the French Foreign Legion and Colonel AJ Redding, a battle hardened WW1 veteran, Jack must train, lead and earn the respect of his new squad to become a functioning reconnaissance unit.",
+    "runtime": "91 min",
+    "director": "Ryan Little",
+    "actors": "Luke Goss, Dolph Lundgren, Chuck Liddell",
+    "production_country": "United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjE0Mzg4MmEtZTVjZi00Yzc0LTkwNDMtMzA5ZGRjYzg4MDBjXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/348811.webp",
+    "imdb_rating": "4.3",
+    "imdb_votes": "3,707",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/War_Pigs_(film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/348811.txt",
+    "plot_year_start": 1944,
+    "plot_year_end": 1944,
+    "epoch": "age-of-total-war",
+    "action_countries": [
+      "UNKNOWN"
+    ],
+    "action_continents": [
+      "UNKNOWN"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "special units sent behind enemy lines",
+        "description": "Regular armies are supplemented by small picked bands trained for sabotage, reconnaissance, and raids far from the front. What you'll see: parachute drops, secret briefings, disguised soldiers, demolition work, and missions aimed at bridges, guns, headquarters, or captured personnel.",
+        "icon": "🪂"
+      },
+      {
+        "label": "weapons races feeding wartime urgency",
+        "description": "Every belligerent hunts for a device, gun, vessel, or method that might break the deadlock and alter the balance of the war. What you'll see: experimental artillery, advanced submarines, guarded workshops, technical chatter among officers, and fierce interest in enemy inventions.",
+        "icon": "🛠️"
+      }
+    ],
+    "quiz": [
+      {
+        "question": "What mission is Jack Wosick given to lead?",
+        "type": "plot",
+        "options": {
+          "A": "To escort prisoners across France",
+          "B": "To rescue downed Allied pilots",
+          "C": "To go behind enemy lines and capture the Nazi V-3 weapon"
+        },
+        "correct": "C"
+      },
+      {
+        "question": "The Nazi V-3 was a real World War II project for what kind of weapon?",
+        "type": "historical",
+        "options": {
+          "A": "A fighter plane",
+          "B": "A submarine",
+          "C": "A large artillery cannon"
+        },
+        "correct": "C"
+      }
+    ],
+    "key_events": [
+      {
+        "event": "World War II",
+        "description": "The story takes place in 1944 during the Allied struggle against Nazi Germany."
+      },
+      {
+        "event": "V-3 gun development",
+        "description": "The mission centers on uncovering a Nazi-developed V-3 super weapon before it can be used against the Allies."
+      }
+    ],
+    "key_characters": []
+  },
+  {
+    "movie_id": 776821,
+    "movie_idx": 8304,
+    "imdb_id": "tt5014970",
+    "title": "The Outlaws",
+    "production_year": "2021",
+    "genre": "Action, Crime",
+    "plot": "Set in the 1920s, two drifters are being chased by the police after a failed train robbery.",
+    "runtime": "79 min",
+    "director": "Henrik Martin Dahlsbakken",
+    "actors": "Filip Berg, Lia Boysen, Samuel Fröler",
+    "production_country": "Norway",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNDc0MDM0MzItZTZjMi00MzlhLTgwN2ItMDNhNWNmODQ0NjczXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/776821.webp",
+    "imdb_rating": "N/A",
+    "imdb_votes": "51",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Outlaws_(2021_film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/776821.txt",
+    "plot_year_start": 1920,
+    "plot_year_end": 1920,
+    "epoch": "age-of-total-war",
+    "action_countries": [
+      "UNKNOWN"
+    ],
+    "action_continents": [
+      "UNKNOWN"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "mass conflict pressing on civilian life",
+        "description": "The great war reaches beyond battlefields into homes, livelihoods, travel, and the hopes of people trying to keep ordinary routines alive. What you'll see: blackouts, shortages, anxious telegrams, disrupted journeys, damaged cities, and moments of music, sport, or romance carried on under strain.",
+        "icon": "🏚️"
+      }
+    ],
+    "quiz": [
+      {
+        "question": "What happens in the story after the train robbery fails?",
+        "type": "plot",
+        "options": {
+          "A": "Two drifters are chased by the police.",
+          "B": "A family opens a new shop in town.",
+          "C": "A detective solves a missing-person case."
+        },
+        "correct": "A"
+      },
+      {
+        "question": "In which decade is the film set?",
+        "type": "historical",
+        "options": {
+          "A": "The 1920s",
+          "B": "The 1950s",
+          "C": "The 1980s"
+        },
+        "correct": "A"
+      }
+    ],
+    "key_events": [],
+    "key_characters": []
+  },
+  {
+    "movie_id": 8285,
+    "movie_idx": 9668,
+    "imdb_id": "tt0831887",
+    "title": "The Spirit",
+    "production_year": "2008",
+    "genre": "Action, Crime, Fantasy",
+    "plot": "Down these mean streets a man must come. A hero born, murdered, and born again. When a Rookie cop named Denny Colt returns from the beyond as The Spirit, a hero whose mission is to fight against the bad forces from the shadows of Central City. The Octopus who kills anyone unfortunate enough to see his face who has other plans. He's going to wipe out the entire city. The Spirit tracks this cold hearted killer from the city's rundown warehouses, to the damp catacombs, to the windswept waterfront all the while facing a bevy of beautiful women who either want to seduce, love or kill the masked crusader.",
+    "runtime": "103 min",
+    "director": "Frank Miller",
+    "actors": "Gabriel Macht, Samuel L. Jackson, Scarlett Johansson",
+    "production_country": "United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNDcyMTc1NzgwNF5BMl5BanBnXkFtZTcwNzUyMDUwMg@@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/8285.webp",
+    "imdb_rating": "4.7",
+    "imdb_votes": "64,174",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Spirit_(2008_film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/8285.txt",
+    "plot_year_start": 1940,
+    "plot_year_end": 1940,
+    "epoch": "age-of-total-war",
+    "action_countries": [
+      "UNKNOWN"
+    ],
+    "action_continents": [
+      "UNKNOWN"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "DC Extended Universe",
+    "categories": [
+      {
+        "label": "mass conflict pressing on civilian life",
+        "description": "The great war reaches beyond battlefields into homes, livelihoods, travel, and the hopes of people trying to keep ordinary routines alive. What you'll see: blackouts, shortages, anxious telegrams, disrupted journeys, damaged cities, and moments of music, sport, or romance carried on under strain.",
+        "icon": "🏚️"
+      },
+      {
+        "label": "faith in machines and expert skill",
+        "description": "This world places enormous trust in trained hands and modern apparatus, from engines and radios to gunsights and navigation tables. What you'll see: engine rooms, plotting tables, periscopes, switchboards, technical manuals, and specialists whose knowledge is treated as a weapon in itself.",
+        "icon": "⚙️"
+      }
+    ],
+    "quiz": [
+      {
+        "question": "What is The Spirit’s main mission in Central City?",
+        "type": "plot",
+        "options": {
+          "A": "To stop the Octopus from destroying the city",
+          "B": "To help the Octopus steal the Golden Fleece",
+          "C": "To retire from crimefighting and leave the city"
+        },
+        "correct": "A"
+      }
+    ],
+    "key_events": [],
+    "key_characters": []
+  },
+  {
+    "movie_id": 991814,
+    "movie_idx": 9921,
+    "imdb_id": "tt21250176",
+    "title": "Re/Member",
+    "production_year": "2022",
+    "genre": "Drama, Horror, Mystery",
+    "plot": "A high school student and her friends are trapped in a time loop by a ghost and the only way to escape is to find the corpse of the ghost's previous victim.",
+    "runtime": "102 min",
+    "director": "Eiichirô Hasumi",
+    "actors": "Kanna Hashimoto, Gordon Maeda, Maika Yamamoto",
+    "production_country": "Japan",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNmRlNWM1Y2MtOTU1Ny00NDBmLTkzNzUtNGQ5ZmQzOWMyYmY1XkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/991814.webp",
+    "imdb_rating": "5.2",
+    "imdb_votes": "4,175",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Remember_(2022_film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/991814.txt",
+    "plot_year_start": 1940,
+    "plot_year_end": 1940,
+    "epoch": "age-of-total-war",
+    "action_countries": [
+      "UNKNOWN"
+    ],
+    "action_continents": [
+      "UNKNOWN"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "occupied lands under German control",
+        "description": "Much of Europe lives under foreign rule, with checkpoints, garrisons, intelligence offices, and fear built into ordinary movement. What you'll see: uniforms in town streets, mountain strongholds, border inspections, collaborators and resisters, and travel conducted under false papers or suspicion.",
+        "icon": "🪖"
+      }
+    ],
+    "quiz": [
+      {
+        "question": "What must the student and her friends do to escape the ghost's time loop?",
+        "type": "plot",
+        "options": {
+          "A": "Destroy the school building before dawn",
+          "B": "Find the ghost's old diary and burn it",
+          "C": "Find the corpse of the ghost's previous victim"
+        },
+        "correct": "C"
+      },
+      {
+        "question": "What real historical period is the film's Korean setting tied to?",
+        "type": "historical",
+        "options": {
+          "A": "The Joseon dynasty in the 1700s",
+          "B": "Korea under Japanese occupation during World War II",
+          "C": "The Korean War in the 1950s"
+        },
+        "correct": "B"
+      }
+    ],
+    "key_events": [
+      {
+        "event": "Japanese occupation of Korea",
+        "description": "The story is set in Korea under Japanese colonial rule, which drives the protagonist's wartime trauma and revenge plot."
+      }
+    ],
+    "key_characters": []
+  }
+]

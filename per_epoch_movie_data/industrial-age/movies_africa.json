@@ -1,0 +1,180 @@
+[
+  {
+    "movie_id": 258489,
+    "movie_idx": 1741,
+    "imdb_id": "tt0918940",
+    "title": "The Legend of Tarzan",
+    "production_year": "2016",
+    "genre": "Action, Adventure, Drama",
+    "plot": "Following his parents' death in Africa, John Clayton has been be raised by an ape, was known by the name Tarzan, but eventually left Africa and for his parents' home in England, along with the woman he fell in love with and married, Jane Porter. He is asked by Belgian King Leopold to go to Africa to see what he has done there to help the country. Initially, he refuses. But an American, George Washington Williams, wants him to accept so he can accompany him. He says that Leopold might be committing all sorts of atrocities to achieve his goal, like slavery. Clayton agrees and his wife insists that she accompany him because she misses Africa. When they arrive, a man named Rom, who works for Leopold, attacks their village and captures Tarzan and Jane. With Washington's help he escapes and sets out to rescue Jane by going across the jungle. Washington joins him despite being told that he might not make it.",
+    "runtime": "110 min",
+    "director": "David Yates",
+    "actors": "Alexander Skarsgård, Rory J Saper, Christian Stevens",
+    "production_country": "United Kingdom, India, United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMzY3OTI0OTcyMF5BMl5BanBnXkFtZTgwNjkxNTAwOTE@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/258489.webp",
+    "imdb_rating": "6.2",
+    "imdb_votes": "197,155",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Legend_of_Tarzan_(film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/258489.txt",
+    "plot_year_start": 1889,
+    "plot_year_end": 1891,
+    "epoch": "industrial-age",
+    "action_countries": [
+      "CD",
+      "GB"
+    ],
+    "action_continents": [
+      "Africa",
+      "Europe"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "slave raiding and coerced labour persist",
+        "description": "Even as empires speak of suppressing slavery, many regions still live with slave raiding, captive taking, and labour compelled by force or debt. What you'll see: chained prisoners, armed escorts, devastated villages, bargaining over human bodies, and moral language used beside brutal practice.",
+        "icon": "⛓️"
+      },
+      {
+        "label": "european empires pushing into african interiors",
+        "description": "Late nineteenth-century Africa is being carved up by rival European powers, who send agents, soldiers, and surveyors far beyond the coast to claim land and command trade. What you'll see: river steamers, frontier stations, official missions, flags and uniforms, and long journeys into country newly drawn into imperial designs.",
+        "icon": "🗺️"
+      }
+    ]
+  },
+  {
+    "movie_id": 10586,
+    "movie_idx": 4374,
+    "imdb_id": "tt0116409",
+    "title": "The Ghost and the Darkness",
+    "production_year": "1996",
+    "genre": "Adventure, Drama, Thriller",
+    "plot": "Sir Robert Beaumont is behind schedule on a railroad in Africa. Enlisting noted engineer John Henry Patterson to right the ship, Beaumont expects results. Everything seems great until the crew discovers the mutilated corpse of the project's foreman, seemingly killed by a lion. After several more attacks, Patterson calls in famed hunter Charles Remington, who has finally met his match in the bloodthirsty lions.",
+    "runtime": "110 min",
+    "director": "Stephen Hopkins",
+    "actors": "Michael Douglas, Val Kilmer, Tom Wilkinson",
+    "production_country": "Germany, United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BN2RmY2IyNGMtMTE1Yi00ZmQ2LTllM2YtYzZmYzIzZmQ1ZTIxXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/10586.webp",
+    "imdb_rating": "6.8",
+    "imdb_votes": "69,411",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Ghost_and_the_Darkness",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/10586.txt",
+    "plot_year_start": 1898,
+    "plot_year_end": 1898,
+    "epoch": "industrial-age",
+    "action_countries": [
+      "KE",
+      "GB",
+      "ZA"
+    ],
+    "action_continents": [
+      "Africa",
+      "Europe",
+      "Africa"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "railways opening routes for conquest",
+        "description": "Steel tracks, bridges, and telegraph lines bind ports, garrisons, and inland settlements together, making movement of troops and goods faster than older caravan ways. What you'll see: survey camps, engineering works, blasting and bridge-building, work gangs, depots, and the sense of a line being driven through difficult country.",
+        "icon": "🚂"
+      },
+      {
+        "label": "british officers ruling through distant posts",
+        "description": "Imperial power on the ground often rests in the hands of a few officers or administrators stationed far from London, making weighty decisions with limited help. What you'll see: cantonments, mess tables, dispatches, local levies, formal dress in harsh climates, and authority carried by rank, ritual, and reputation.",
+        "icon": "🎖️"
+      }
+    ]
+  },
+  {
+    "movie_id": 11002,
+    "movie_idx": 8254,
+    "imdb_id": "tt0087365",
+    "title": "Greystoke: The Legend of Tarzan, Lord of the Apes",
+    "production_year": "1984",
+    "genre": "Adventure, Drama",
+    "plot": "A shipping disaster in the nineteenth century has stranded a man and woman in the wilds of Africa. The lady is pregnant, and gives birth to a son in their tree house. The mother dies soon afterwards. An ape enters the house and kills the father, and a female ape takes the tiny boy as a replacement for her own dead infant, and raises him as her son. Twenty years later, Captaine Phillippe D'Arnot discovers the man who thinks he is an ape. Evidence in the tree house leads him to believe that he is the direct descendant of the Earl of Greystoke, and thus takes it upon himself to return the man to civilization.",
+    "runtime": "143 min",
+    "director": "Hugh Hudson",
+    "actors": "Christopher Lambert, Andie MacDowell, Ralph Richardson",
+    "production_country": "United Kingdom, United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZmNiYWZmNTMtNzc1MC00OTg4LWJiNWYtMzNkY2IzZjVlMmFiXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/11002.webp",
+    "imdb_rating": "6.4",
+    "imdb_votes": "21,583",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Greystoke:_The_Legend_of_Tarzan,_Lord_of_the_Apes",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/11002.txt",
+    "plot_year_start": 1860,
+    "plot_year_end": 1880,
+    "epoch": "industrial-age",
+    "action_countries": [
+      "CG",
+      "GB"
+    ],
+    "action_continents": [
+      "Africa",
+      "Europe"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "european empires pushing into african interiors",
+        "description": "Late nineteenth-century Africa is being carved up by rival European powers, who send agents, soldiers, and surveyors far beyond the coast to claim land and command trade. What you'll see: river steamers, frontier stations, official missions, flags and uniforms, and long journeys into country newly drawn into imperial designs.",
+        "icon": "🗺️"
+      },
+      {
+        "label": "british officers ruling through distant posts",
+        "description": "Imperial power on the ground often rests in the hands of a few officers or administrators stationed far from London, making weighty decisions with limited help. What you'll see: cantonments, mess tables, dispatches, local levies, formal dress in harsh climates, and authority carried by rank, ritual, and reputation.",
+        "icon": "🎖️"
+      }
+    ]
+  },
+  {
+    "movie_id": 29710,
+    "movie_idx": 8580,
+    "imdb_id": "tt0060588",
+    "title": "Khartoum",
+    "production_year": "1966",
+    "genre": "Action, Adventure, Drama",
+    "plot": "After an Egyptian Army, commanded by British officers, is destroyed in a battle in the Sudan in the 1880s, the British government is in a quandary. It does not want to commit a British military force to a foreign war, but they have a commitment to protect the Egyptians in Khartoum. They decide to ask General Charles \"Chinese\" Gordon (Charlton Heston), something of a folk hero in the Sudan, as he had cleared the area of the slave trade, to arrange for the evacuation. Gordon agrees, but also decides to defend the city against the forces of Mohammed Ahmed el Mahdi (Sir Laurence Olivier), \"The Expected One\", and tries to force the British to commit troops.",
+    "runtime": "128 min",
+    "director": "Basil Dearden, Eliot Elisofon",
+    "actors": "Charlton Heston, Laurence Olivier, Richard Johnson",
+    "production_country": "United Kingdom",
+    "poster": "https://m.media-amazon.com/images/M/MV5BN2YzMWJhZDUtNDhhYS00NDkwLTg1MDAtZGQ4MGExNTYzNzE4XkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/29710.webp",
+    "imdb_rating": "6.8",
+    "imdb_votes": "8,472",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Khartoum_(1966_film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/29710.txt",
+    "plot_year_start": 1883,
+    "plot_year_end": 1885,
+    "epoch": "industrial-age",
+    "action_countries": [
+      "SD",
+      "GB"
+    ],
+    "action_continents": [
+      "Africa",
+      "Europe"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "african polities resisting foreign domination",
+        "description": "African rulers, armies, and religious movements are not passive backdrop but organised powers defending territory, sovereignty, and their own order against outside rule. What you'll see: fortified towns, massed warriors, banners and drums, negotiations and ultimatums, and battles shaped by local leadership rather than mere imperial initiative.",
+        "icon": "🛡️"
+      },
+      {
+        "label": "faith and prophecy moving public life",
+        "description": "Religion is a public force in politics and war, with Christian missions, Islamic learning, and prophetic claims shaping loyalties, legitimacy, and resistance. What you'll see: prayers before campaigns, holy men and preachers, sacred language in councils, and crowds stirred by promises of divine favour.",
+        "icon": "📿"
+      }
+    ]
+  }
+]

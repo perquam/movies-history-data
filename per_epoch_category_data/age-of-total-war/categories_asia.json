@@ -1,0 +1,508 @@
+{
+  "epoch": "age-of-total-war",
+  "continent": "asia",
+  "sample_size": 50,
+  "sample": [
+    {
+      "title": "Ip Man",
+      "years": "1935..1938",
+      "countries": [
+        "CN",
+        "HK"
+      ],
+      "plot": "In 1935 in Foshan, south China, there are martial arts schools on every street corner. Ip Man is the undisputed martial arts champion, yet he has not devoted himself to teaching. Despite this, it seems that all the kung fu masters of the city are eager to fight him to improve their reputation."
+    },
+    {
+      "title": "The Blind Soldiers",
+      "years": "1942..1945",
+      "countries": [
+        "PH",
+        "US"
+      ],
+      "plot": "Set in rural Mindanao, as the Japanese invasion intensifies, five men from the Teduray tribe of Cotabato join the United States Armed Forces in the Far East (USAFFE) during World War II."
+    },
+    {
+      "title": "Appointment with Death",
+      "years": "1930..1930",
+      "countries": [
+        "IL",
+        "JO"
+      ],
+      "plot": "Emily Boynton (Piper Laurie), stepmother to the three Boynton children, and mother to Ginevra (Amber Bezer), blackmails the family lawyer, Jefferson Cope (David Soul), into destroying the second will of her late husband, which would have freed the childern from her dominating influence. She takes herself and the children on vacation to Europe and the Holy Land. In Jerusalem, Hercule Poirot (Sir Peter Ustinov) meets up with a woman friend, Dr. Sarah King (Jenny Seagrove), who falls in love with Raymond Boynton (John Terleskey) to Emily's disapproval. Lady Westholme (Lauren Bacall), her secretary, and Cope are following them too. The children learn about the second will, and Emily succeeds in rubbing the rest the wrong way, causing much hatred towards her. At a dig, everybody wonders about the camp, and Emily is found dead, poisoned. Poirot investigates."
+    },
+    {
+      "title": "Emperor",
+      "years": "1945..1945",
+      "countries": [
+        "JP",
+        "US"
+      ],
+      "plot": "A story of love and understanding set amidst the tensions and uncertainties of the days immediately following the Japanese surrender at the end of World War II. On the staff of General Douglas MacArthur (Jones), the de facto ruler of Japan as Supreme Commander of the occupying forces, a leading Japanese expert, General Bonner Fellers (Fox) is charged with reaching a decision of historical importance: should Emperor Hirohito be tried and hanged as a war criminal? Interwoven is the story of Fellers' love affair with Aya, a Japanese exchange student he had met years previously in the U.S. Memories of Aya and his quest to find her in the ravaged post-war landscape help Fellers to discover both his wisdom and his humanity and enable him to come to the momentous decision that changed the course of history and the future of two nations."
+    },
+    {
+      "title": "In the Realm of the Senses",
+      "years": "1936..1936",
+      "countries": [
+        "JP"
+      ],
+      "plot": "Based on a true story set in pre-war Japan, a man and one of his servants begin a torrid affair. Their desire becomes a sexual obsession so strong that to intensify their ardor, they forsake all, even life itself."
+    },
+    {
+      "title": "Poison",
+      "years": "1930..1947",
+      "countries": [
+        "IN"
+      ],
+      "plot": "When a poisonous snake slithers onto an Englishman's stomach in India, his associate and a doctor race to save him."
+    },
+    {
+      "title": "Selina's Gold",
+      "years": "1941..1945",
+      "countries": [
+        "PH"
+      ],
+      "plot": "Selina's father sells her to Tiago who makes her a sex slave. With the help of Domeng, Tiago's blind slave, she plans their way out of this living hell."
+    },
+    {
+      "title": "Inspector Sun",
+      "years": "1934..1934",
+      "countries": [
+        "CN",
+        "US"
+      ],
+      "plot": "Inspector Sun boards a seemingly normal plane for a much-needed vacation, but when an enigmatic millionaire receives a threat on his life, Sun is back on the case. Trapped in a web of lies, Sun must find the culprit before it's to..."
+    },
+    {
+      "title": "Pather Panchali",
+      "years": "1917..1918",
+      "countries": [
+        "IN"
+      ],
+      "plot": "The story of a young boy, Apu, and life in his small Indian village. His parents are quite poor - his father Harihar, a writer and poet, gave away the family's fruit orchard to settle his brother's debts. His sister Durga and an old aunt also still lives with them. His mother Sarbojaya bears the brunt of the family's situation. She scrapes by and sells her personal possessions to put food on the table and has to bear the taunts of her neighbors as Durga is always stealing fruit from their orchard. Things get worse when Harihar disappears for five months and Durga falls ill. Even after Harihar returns, the family is left with few alternatives."
+    },
+    {
+      "title": "The Tiger",
+      "years": "1925..1925",
+      "countries": [
+        "KR"
+      ],
+      "plot": "While the Kingdom of Korea is under occupation by the Japanese, an old and experienced hunter is challenged by the hunt of the last tiger."
+    },
+    {
+      "title": "The Lover",
+      "years": "1929..1929",
+      "countries": [
+        "VN"
+      ],
+      "plot": "It is French Colonial Vietnam in 1929. A young French girl from a family that is having some monetary difficulties is returning to boarding school. She is alone on public transportation when she catches the eye of a wealthy Chinese businessman. He offers her a ride into town in the back of his chauffeured sedan, and sparks fly. Can the torrid affair that ensues between them overcome the class restrictions and social mores of that time? Based on the semi-autobiographical novel by Marguerite Duras."
+    },
+    {
+      "title": "Ip Man: Kung Fu Master",
+      "years": "1941..1941",
+      "countries": [
+        "CN"
+      ],
+      "plot": "During his time as a police captain in Foshan, Ip Man is targeted by a vengeful gangster just as the Japanese army invades the region."
+    },
+    {
+      "title": "Murder on the Orient Express",
+      "years": "1935..1935",
+      "countries": [
+        "TR",
+        "RS",
+        "BG",
+        "GB",
+        "US"
+      ],
+      "plot": "The first class compartment of the December 1935 departure of the Orient Express from Istanbul is full, unusual for this time of the year. Regardless, famed and fastidious Belgian detective, Hercule Poirot, who needs to get back to London immediately, is able to secure last minute passage in the compartment with the assistance of his friend, Signor Bianchi, one of the directors of the train line who is also making the trip. Some of the first class passengers seem concerned about Poirot's presence on the train. At least one of them has reason to be concerned, as later, another first class passenger, who earlier in the trip asked Poirot to provide protection for him due to several death threats, is found murdered in his stateroom by multiple stabbings. At the time the victim is found, the train is unexpectedly stopped and delayed due to snow in remote Yugoslavia, which may be problematic for the murderer in getting away now that Poirot is on the case, which he is doing as a favor to Bianchi as not to get the Yugoslav police involved. Poirot quickly learns that the victim was not who he presented himself to be and has a connection to a five-year-old American kidnapping and murder case of infant Daisy Armstrong, murdered in spite of the fact that her parents had paid the requested ransom. The murderer in that case has long been convicted and executed but the ransom moneys were never recovered, a known accomplice never captured, and both the Armstrong parents have since tragically died. As Poirot questions the train's valet, the victim's accompanying staff, and the other primarily well off first class passengers and their accompanying servants, who are all on the surface more than cooperative, he finds that many had opportunity and motive, the latter which may not be obvious. There is also a great deal of evidence discovered on the train, which pulls his thoughts in many directions. These pieces of information may complicate the deduction of who is the murderer."
+    },
+    {
+      "title": "Miracles: The Canton Godfather",
+      "years": "1930..1930",
+      "countries": [
+        "HK",
+        "CN"
+      ],
+      "plot": "Jackie Chan's Hong Kong variation of Frank Capra's \"A Pocketful of Miracles\" set in the 1930s. Jackie plays a country boy who rescues a gang boss. Jackie becomes the head of a gang through the purchase of some lucky roses from an old lady. Jackie and a singer at the gang's nightclub try to do a good deed for the old rose-seller when her daughter comes to visit, all this while battling a rival gang."
+    },
+    {
+      "title": "Empire of the Sun",
+      "years": "1941..1945",
+      "countries": [
+        "CN"
+      ],
+      "plot": "Based on J. G. Ballard's autobiographical novel, tells the story of a boy, James Graham, whose privileged life is upturned by the Japanese invasion of Shanghai, December 8, 1941. Separated from his parents, he is eventually captured, and taken to Soo Chow confinement camp, next to a captured Chinese airfield. Amidst the sickness and food shortages in the camp, Jim attempts to reconstruct his former life, all the while bringing spirit and dignity to those around him."
+    },
+    {
+      "title": "Seven Years in Tibet",
+      "years": "1939..1951",
+      "countries": [
+        "IN",
+        "NP",
+        "CN",
+        "AT"
+      ],
+      "plot": "After the deaths of 11 climbers, Austrian Heinrich Harrer (Brad Pitt) decides to add glory to his country and to the Austrian pride by climbing Nanga Parbat in British India, and leaves his expectant wife behind. An egoist and a loner, he does not get along with others on his team, but must bend to their wishes after bad weather threatens them. Then WWII breaks out and they are arrested and lodged in Dehra Dun's P.O.W. Camp. He attempts to break out several times in vain, but finally does succeed along with Peter Aufschnaiter (David Thewlis), and they end up in the holy city of Lhasa--a place forbidden to foreigners. They are provided food and shelter, and Peter ends up marrying tailor Pema Lhaki, while Heinrich befriends the Dalai Lama. They meet regularly; while he satiates the child's curiosity about the world, including Jack the Ripper and 'yellow hair'; he is exposed to the teachings of Lord Buddha, He even constructs a movie theater, while getting news of the end of the war, his divorce, and his son's refusal to communicate. But nothing will prepare him for the devastation about to descend when Communist China decides to attack, leading to the deaths of over 1 million Tibetans, the destruction of over 6000 monasteries, and betrayal from their very own people."
+    },
+    {
+      "title": "Fist of Legend",
+      "years": "1937..1937",
+      "countries": [
+        "JP",
+        "CN"
+      ],
+      "plot": "Chen Zhen, a Chinese engineering student in Kyoto, who braves the insults and abuse of his Japanse fellow students for his local love Mitsuko Yamada, daughter of the director, returns in 1937 to his native Shangai, under Japanse protectorate -in fact military occupation- after reading about the death of his kung-fu master Huo Yuan Jia in a fight against the Japanese champion Ryuichi Akutagawa. While overcoming suspicion and ambition within the kungfu school, Chen exhumes his master to prove Hou's defeat was the result of poisoning. Both nationalities make the case a test of honor, so Chinese and Japanese pride are at stake when it culminates in Chen's final epic duel against the ruthless, undefeated Japanese general Fujita."
+    },
+    {
+      "title": "The Age of Shadows",
+      "years": "1920..1929",
+      "countries": [
+        "CN",
+        "KR"
+      ],
+      "plot": "Set in the late 1920s, The Age of Shadows follows the cat-and-mouse game that unfolds between a group of resistance fighters trying to bring in explosives from Shanghai to destroy key Japanese facilities in Seoul, and Japanese agents trying to stop them. A talented Korean-born Japanese police officer, who was previously in the independence movement himself, is thrown into a dilemma between the demands of his reality and the instinct to support a greater cause."
+    },
+    {
+      "title": "Indiana Jones and the Last Crusade",
+      "years": "1912..1938",
+      "countries": [
+        "TR",
+        "AT",
+        "DE",
+        "IT",
+        "SY",
+        "EG",
+        "US"
+      ],
+      "plot": "An art collector appeals to Indiana Jones to embark on a search for the Holy Grail. He learns that another archaeologist has disappeared while searching for the precious goblet, and the missing man is his own father, Dr. Henry Jones. The artifact is much harder to find than they expected, and its powers are too much for those impure of heart."
+    },
+    {
+      "title": "Farewell My Concubine",
+      "years": "1924..1977",
+      "countries": [
+        "CN",
+        "HK"
+      ],
+      "plot": "\"Farewell, My Concubine\" is a movie with two parallel, intertwined stories. It is the story of two performers in the Beijing Opera, stage brothers, and the woman who comes between them. At the same time, it attempts to do no less than squeeze the entire political history of China in the twentieth century into a three-hour time-frame."
+    },
+    {
+      "title": "Shanghai Triad",
+      "years": "1930..1930",
+      "countries": [
+        "CN"
+      ],
+      "plot": "Uncle Liu brings his cousin to Shanghai to work for 'Boss,' the leader of a powerful drug empire in the 1930's. Shuisheng, a simple country boy is awed and overwhelmed by the opulence and immense wealth he is suddenly surrounded by. He is to be the attendant of Xiao Jingbao, the new mistress of 'Boss.' While he fumbles with the demands of his new role, much intrigue is going on around him, well beyond his bewildered perception. Xiao Jingbao is having a tumultuous affair, Fat Yu is starting a gang war, and 'Boss' is beginning to suspect that one of his trusted men is not loyal."
+    },
+    {
+      "title": "Seducing a country girl",
+      "years": "1940..1941",
+      "countries": [
+        "HK",
+        "CN"
+      ],
+      "plot": "N/A"
+    },
+    {
+      "title": "The Young Master",
+      "years": "1930..1930",
+      "countries": [
+        "HK"
+      ],
+      "plot": "After failing his fellow students in a Lion Dance competition, Dragon (Jackie Chan) is sent away from his school in disgrace, on the condition that he must find his errant brother. Much martial arts mayhem and mistaken-identity silliness ensue."
+    },
+    {
+      "title": "Railroad Tigers",
+      "years": "1941..1941",
+      "countries": [
+        "CN"
+      ],
+      "plot": "In December 1941, The railway from Tianjin to Nanjing in East China became a key military transportation route, heavily guarded by Japanese soldiers. Ma Yuan, a railroad worker and his group of freedom fighters find themselves on the wrong side of the tracks when they decide to ambush a heavily armed military train filled with desperately needed provisions. Unarmed and outnumbered, they must rely on their wits to battle an entire army."
+    },
+    {
+      "title": "The Eight Hundred",
+      "years": "1937..1937",
+      "countries": [
+        "CN"
+      ],
+      "plot": "From the acclaimed filmmaker behind Mr. Six comes a riveting war epic. In 1937, eight hundred Chinese soldiers fight under siege from a warehouse in the middle of the Shanghai battlefield, completely surrounded by the Japanese army."
+    },
+    {
+      "title": "Jan Dara: The Beginning",
+      "years": "1930..1939",
+      "countries": [
+        "TH"
+      ],
+      "plot": "Set in the 1930s the story of Jan, a boy who grows up in a house lorded over by his sadistic and debauched father, Luang Wisnan. The story recounts the growing pains of Jan, whose mother dies while giving birth to him and who's intensely hated by his father. Jan grows up with Aunt Wad, his stepmother, and he struggles to reconcile his guilt and longing with different women in his life, including a girl called Hyacinth, whom he adores, and later Madame Boonleung, his father's mistress who becomes a key to Jan's sexual awakening."
+    },
+    {
+      "title": "The Great Raid",
+      "years": "1945..1945",
+      "countries": [
+        "PH"
+      ],
+      "plot": "Set in the Philippines in 1945 towards the end of WWII, under the command of Lieutenant Colonel Henry Mucci and Captain Robert Prince, the 6th Ranger Battalion undertake a daring rescue mission against all odds. Traveling thirty miles behind enemy lines, they intend to liberate over 500 American Soldiers from the notorious Cabanatuan Japanese POW camp in the most audacious rescue ever."
+    },
+    {
+      "title": "The Flowers of War",
+      "years": "1937..1937",
+      "countries": [
+        "CN"
+      ],
+      "plot": "In 1937 China, during the second Sino-Japanese war, a mortician, John (Christian Bale) arrives at a Catholic church in Nanjing to prepare a priest for burial. Upon arrival he finds himself the lone adult among a group of convent girl students and prostitutes from a nearby brothel. When he finds himself in the unwanted position of protector of both groups from the horrors of the invading Japanese army, he discovers the meaning of sacrifice and honor."
+    },
+    {
+      "title": "Gate of Flesh",
+      "years": "1945..1946",
+      "countries": [
+        "JP"
+      ],
+      "plot": "After World War II, some Tokyo prostitutes band together with a strict code: no pimps, attack any street walker who comes into our territory, defend the abandoned building we call home, and punish whomever gives away sex (who falls in love). Maya, a young woman whose family has died, joins the group. Into the mix comes Shin, a thief who's killed a G.I. The women allow him to hide while recovering from wounds, but then he won't leave. Maya is drawn to him, discovering as she falls in love that she can feel again; she's now more fully human, but at the same time, she's endangered herself and her livelihood. Can she and Shin make it out of Tokyo to establish life as a couple?"
+    },
+    {
+      "title": "Legend of the Fist: The Return of Chen Zhen",
+      "years": "1918..1931",
+      "countries": [
+        "CN",
+        "FR"
+      ],
+      "plot": "Seven years after the apparent death of Chen Zhen, who was shot after discovering who was responsible for his teacher's death (Huo Yuanjia) in Japanese-occupied Shanghai. A mysterious stranger arrives from overseas and befriends a local mafia boss. That man is a disguised Chen Zhen, who intends to infiltrate the mob when they form an alliance with the Japanese. Disguising himself as a caped fighter by night, Chen intends to take out everyone involved as well as get his hands on an assassination list prepared by the Japanese."
+    },
+    {
+      "title": "Air Strike",
+      "years": "1940..1940",
+      "countries": [
+        "CN"
+      ],
+      "plot": "During World War II, five different Chinese people fight their way through Japanese Air Force attacks to protect an important military machine in Chongqing, 1940."
+    },
+    {
+      "title": "The Man Who Knew Infinity",
+      "years": "1910..1918",
+      "countries": [
+        "IN",
+        "GB"
+      ],
+      "plot": "In the 1910s, Srinivasa Ramanujan is a man of boundless intelligence that even the abject poverty of his home in Madras, India, cannot crush. Eventually, his stellar intelligence in mathematics and his boundless confidence in both attract the attention of the noted British mathematics professor, G.H. Hardy, who invites him to further develop his computations at Trinity College at Cambridge. Forced to leave his young wife, Janaki, behind, Ramanujan finds himself in a land where both his largely intuitive mathematical theories and his cultural values run headlong into both the stringent academic requirements of his school and mentor and the prejudiced realities of a Britain heading into World War One. Facing this with a family back home determined to keep him from his wife and his own declining health, Ramanujan joins with Hardy in a mutual struggle that would define Ramanujan as one of India's greatest modern scholars who broke more than one barrier in his worlds."
+    },
+    {
+      "title": "Jan Dara: The Finale",
+      "years": "1930..1939",
+      "countries": [
+        "TH"
+      ],
+      "plot": "Set in the 1930s, the film tells the story of Jan Dara, a boy who grows up in a house lorded over by his sadistic and debauched stepfather, Luang Wisnan in Bangkok. The story recounts the growing pains of him, whose mother dies while giving birth to him and who intensely hated by his stepfather. When he goes to Phijit where his wealthy grandmother lives, he learns the truth behind his birth from an old police officer. Then he returns home, to Bangkok to take revenge against his stepfather. Driving him to ruin, he takes over the family, including his stepfather's mistress Boonleung. In his frightening quest for vengeance, however, he finds himself walking the same loathsome path as the man he hates."
+    },
+    {
+      "title": "Beauty in Rope Hell",
+      "years": "1939..1945",
+      "countries": [
+        "JP"
+      ],
+      "plot": "During the Second World War, lame postman Kazu who lives alone becomes obsessed with the beautiful, young Mitsuko who has just married to Eikichi. When Eikichi is summoned by the army, he sees his chance and kidnaps her. He holds her tied up and tortures in his attic where she becomes his sex toy."
+    },
+    {
+      "title": "The Perils of Gwendoline in the Land of the Yik Yak",
+      "years": "1920..1920",
+      "countries": [
+        "CN",
+        "FICTIONAL"
+      ],
+      "plot": "Gwendoline arrives in China in a box, and is helped out of her immediate predicament by a female contact and a devil-may-care adventurer. She's on a mission to find her father, who was last seen searching for a rare butterfly in the Land of the Yik Yak. They confront the evil Cheops in an attempt to find Gwen's lost father and the butterfly, and face many other challenges to their mission."
+    },
+    {
+      "title": "Hacksaw Ridge",
+      "years": "1929..1945",
+      "countries": [
+        "JP",
+        "US"
+      ],
+      "plot": "The true story of Desmond T. Doss, the conscientious objector who, at the Battle of Okinawa, was awarded the Medal of Honor for his incredible bravery and regard for his fellow soldiers. We see his upbringing and how this shaped his views, especially his religious view and anti-killing stance. We see Doss's trials and tribulations after enlisting in the US Army and trying to become a medic. Finally, we see the hell on Earth that was Hacksaw Ridge."
+    },
+    {
+      "title": "The Bridge on the River Kwai",
+      "years": "1943..1943",
+      "countries": [
+        "TH",
+        "MM",
+        "LK"
+      ],
+      "plot": "During WW II, allied POWs in a Japanese internment camp are ordered to build a bridge to accommodate the Burma-Siam railway. Their instinct is to sabotage the bridge, but under the leadership of Colonel Nicholson they're persuaded the bridge should be built to help morale, spirit. At first, the prisoners admire Nicholson when he bravely endures torture rather than compromise his principles for the benefit of Japanese Commandant Colonel Saito, but soon they realise it's a monument to Nicholson, himself, as well as a form of collaboration with the enemy."
+    },
+    {
+      "title": "Raise the Red Lantern",
+      "years": "1920..1921",
+      "countries": [
+        "CN"
+      ],
+      "plot": "China in the 1920's. After her father's death, nineteen year old Songlian is forced to marry Chen Zuoqian, the lord of a powerful family. Fifty year old Chen has already three wives, each of them living in separate houses within the great castle. The competition between the wives is tough, as their master's attention carries power, status and privilege. Each night Chen must decide with which wife to spend the night and a red lantern is lit in front of the house of his choice. And each wife schemes and plots to make sure it's hers. However, things get out of hand..."
+    },
+    {
+      "title": "Lawrence of Arabia",
+      "years": "1916..1918",
+      "countries": [
+        "SA",
+        "SY",
+        "EG"
+      ],
+      "plot": "Due to his knowledge of the native Bedouin tribes, British Lieutenant T.E. Lawrence is sent to Arabia to find Prince Faisal and serve as a liaison between the Arabs and the British in their fight against the Turks. With the aid of native Sherif Ali, Lawrence rebels against the orders of his superior officer and strikes out on a daring camel journey across the harsh desert to attack a well-guarded Turkish port."
+    },
+    {
+      "title": "In This Corner of the World",
+      "years": "1943..1945",
+      "countries": [
+        "JP"
+      ],
+      "plot": "Set in Hiroshima during World War II, an eighteen-year-old girl gets married and now has to prepare food for her family despite the rationing and lack of supplies. As she struggles with the daily loss of life's amenities she still has to maintain the will to live."
+    },
+    {
+      "title": "The Grandmaster",
+      "years": "1936..1953",
+      "countries": [
+        "CN",
+        "HK"
+      ],
+      "plot": "Ip Man's peaceful life in Foshan changes after Gong Yutian seeks an heir for his family in Southern China. Ip Man then meets Gong Er who challenges him for the sake of regaining her family's honor. After the Second Sino-Japanese War, Ip Man moves to Hong Kong and struggles to provide for his family. In the mean time, Gong Er chooses the path of vengeance after her father was killed by Ma San."
+    },
+    {
+      "title": "Unbroken",
+      "years": "1936..1945",
+      "countries": [
+        "JP",
+        "US",
+        "UNKNOWN"
+      ],
+      "plot": "The life of Louis Zamperini, an Olympic athlete who joined the armed forces during the second world war. Only to be captured by the Japanese navy after a plane crash in the Pacific. During his capture, Louie must continue his fight by surviving through the war."
+    },
+    {
+      "title": "Indiana Jones and the Temple of Doom",
+      "years": "1935..1935",
+      "countries": [
+        "IN",
+        "CN",
+        "GB"
+      ],
+      "plot": "Indiana Jones teams up with a nightclub singer named Wilhelmina \"Willie\" Scott and a twelve-year-old Chinese boy named Short Round. They end up in a small distressed village in India, where the people believe that evil spirits have taken all their children away after a sacred precious stone was stolen. They also discover the great mysterious terror surrounding a booby-trapped temple known as the Temple of Doom. Thuggee is beginning to attempt to rise once more, believing that with the power of all five Sankara stones they can rule the world. It's all up to Indiana to put an end to the Thuggee campaign, rescue the lost children, win the girl and conquer the Temple of Doom."
+    },
+    {
+      "title": "Lust, Caution",
+      "years": "1938..1942",
+      "countries": [
+        "CN",
+        "HK",
+        "IN"
+      ],
+      "plot": "Frustrated in his attempts to assassinate Yee, who is an important official in Japanese-ruled Shanghai, Old Wu, who has lost his wife and two sons as well as two women who had attempted to seduce Yee, now recruits Kuang, Mai Tai Tai, and their troupe of drama students from Hong Kong University in yet another attempt to do away with Yee. Mai Tai Tai is chosen to befriend Yee, which she does by posing as the wife of Mak, befriending Yee's wife and her female friends, and then eventually befriending Yee himself. Even though both get together, they do end up going separate ways, only to meet again four years later. This time Mai is all set to entrap Yee at Chandni Chowk Jewellers which is owned by an East Indian man named Khalid Saiduddin. The question does remain: Will she and her troupe succeed?"
+    },
+    {
+      "title": "The Last Emperor",
+      "years": "1908..1967",
+      "countries": [
+        "CN",
+        "RU",
+        "US"
+      ],
+      "plot": "This sweeping account of the life of Pu-Yi, the last emperor of China, follows the leader's tumultuous reign. After being captured by the Red Army as a war criminal in 1950, Pu-Yi recalls his childhood from prison. He remembers his lavish youth in the Forbidden City, where he was afforded every luxury but unfortunately sheltered from the outside world and complex political situation surrounding him. As revolution sweeps through China, the world Pu-Yi knew is dramatically upended."
+    },
+    {
+      "title": "The Sand Pebbles",
+      "years": "1926..1928",
+      "countries": [
+        "CN"
+      ],
+      "plot": "In 1926, a U.S. Naval engineer gets assigned to a gunboat on a rescue mission in war-torn China."
+    },
+    {
+      "title": "Memoirs of a Geisha",
+      "years": "1929..1945",
+      "countries": [
+        "JP"
+      ],
+      "plot": "In the 1920s, 9-year-old Chiyo gets sold to a geisha house. There, she is forced into servitude, receiving nothing in return until the house's ruling hierarchy determines if she is of high enough quality to service the clientele -- men who visit and pay for conversation, dance and song. After rigorous years of training, Chiyo becomes Sayuri, a geisha of incredible beauty and influence. Life is good for Sayuri, but World War II is about to disrupt the peace."
+    },
+    {
+      "title": "Merry Christmas Mr. Lawrence",
+      "years": "1942..1946",
+      "countries": [
+        "ID",
+        "JP"
+      ],
+      "plot": "In 1942 British soldier Jack Celliers comes to a Japanese prison camp. The camp is run by Yonoi, who has a firm belief in discipline, honor and glory. In his view, the allied prisoners are cowards when they chose to surrender instead of committing suicide. One of the prisoners, interpreter John Lawrence, tries to explain the Japanese way of thinking, but is considered a traitor."
+    },
+    {
+      "title": "USS Indianapolis: Men of Courage",
+      "years": "1945..1945",
+      "countries": [
+        "PH",
+        "JP",
+        "UNKNOWN"
+      ],
+      "plot": "The harrowing true story of the crew of the USS Indianapolis, who were stranded in the Philippine Sea for five days after delivering the atomic weapons that would eventually end WWII. As they awaited rescue, they endured extreme thirst, hunger, and relentless shark attacks."
+    },
+    {
+      "title": "Operation Petticoat",
+      "years": "1941..1941",
+      "countries": [
+        "PH",
+        "AU"
+      ],
+      "plot": "A submarine newly commissioned is damaged in the opening days of WW II. A captain, looking for a command insists he can get it to a dockyard and captain it. Going slowly to this site, they find a stranded group of Army nurses and must take them aboard. How bad can it get? Trying to get a primer coat on the sub, they have to mix white and red in order to have enough. When forced to flee the dock during an air attack, they find themselves with the world's only Pink submarine, still with 5 women in the tight quarters of a submarine."
+    }
+  ],
+  "categories": [
+    {
+      "label": "foreign empires ruling Asian ports and cities",
+      "description": "Across much of Asia, European concessions, colonial governments, and extraterritorial privileges place foreign power inside everyday urban life. What you'll see: treaty-port streets, customs houses, foreign clubs, uniforms beside local robes, riverfront compounds, and households living under divided authority.",
+      "icon": "🏛️"
+    },
+    {
+      "label": "Japanese occupation pressing on daily life",
+      "description": "Japanese expansion turns whole regions into occupied territory, where local police, officials, and civilians must live under military rule and constant suspicion. What you'll see: checkpoints, patrols, curfews, occupation offices, bilingual signs, collaborators, and ordinary streets shadowed by soldiers.",
+      "icon": "🪖"
+    },
+    {
+      "label": "cities and homes under total war",
+      "description": "War no longer stays at the front, but reaches kitchens, schools, churches, and crowded neighborhoods through bombing, shortages, and mass fear. What you'll see: air-raid sirens, ruined blocks, rationed meals, black markets, refugees on the move, and families making do with less.",
+      "icon": "🚨"
+    },
+    {
+      "label": "prison camps and forced labour regimes",
+      "description": "Captured soldiers and civilians are drawn into harsh camp systems where hunger, discipline, and compulsory work become the frame of life. What you'll see: barbed wire, roll calls, beatings, makeshift infirmaries, work gangs, railway construction, and the thin routines of survival.",
+      "icon": "⛓️"
+    },
+    {
+      "label": "railways steamships and aircraft shrinking distance",
+      "description": "Modern transport binds the continent more tightly, carrying troops, goods, officials, and news at a pace older local worlds cannot escape. What you'll see: railway sidings, troop trains, gunboats, seaports, propeller aircraft, telegraph offices, and journeys shaped by timetables and war needs.",
+      "icon": "🚂"
+    },
+    {
+      "label": "old patriarchal households still command obedience",
+      "description": "Even as armies and modern states expand, many families still live inside households ruled by fathers, masters, and senior wives with near-feudal authority. What you'll see: courtyards, arranged marriages, servants, household rituals, inheritance anxieties, concubines or mistresses, and discipline enforced under one roof.",
+      "icon": "🏠"
+    },
+    {
+      "label": "pleasure quarters tied to money and power",
+      "description": "Geisha houses, brothels, dance halls, and kept-woman arrangements link sex, entertainment, and patronage to the wealth of soldiers, officials, and gang bosses. What you'll see: painted rooms, silk dress, musicians, clients bearing gifts, house rules, debt bondage, and intimacy treated as a livelihood.",
+      "icon": "🏮"
+    },
+    {
+      "label": "martial arts schools shaping local honour",
+      "description": "In Chinese towns and ports, fighting schools remain important civic institutions where reputation, lineage, and manly conduct are publicly measured. What you'll see: training yards, challenge matches, lion dances, master-disciple etiquette, rival schools, and martial skill bound up with local pride.",
+      "icon": "🥋"
+    },
+    {
+      "label": "gangs brokers and smugglers filling weak rule",
+      "description": "Where formal authority is corrupt, foreign, or overstrained, underworld bosses and middlemen step in to move goods, enforce loyalties, and buy protection. What you'll see: gambling rooms, nightclubs, opium or contraband trades, hired toughs, payoff networks, and crime mingling with respectable society.",
+      "icon": "🎲"
+    },
+    {
+      "label": "village poverty under landlords and debt",
+      "description": "In the countryside, harvest failure, debt, and unequal landholding keep many families close to hunger long before armies arrive. What you'll see: thatched homes, pawned possessions, women stretching meals, children roaming fields, monsoon damage, and neighbours watching one another's fortunes closely.",
+      "icon": "🌾"
+    },
+    {
+      "label": "sacred authority meeting modern violence",
+      "description": "Monasteries, churches, temples, and ancient ritual still command reverence, yet they stand exposed to invasion, archaeology, nationalist struggle, and new ideologies. What you'll see: prayer halls, relics, clerics, pilgrims, sacred objects, ritual observance, and holy places abruptly caught in worldly conflict.",
+      "icon": "🛕"
+    }
+  ]
+}

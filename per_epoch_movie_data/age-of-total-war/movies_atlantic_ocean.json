@@ -1,0 +1,77 @@
+[
+  {
+    "movie_id": 12590,
+    "movie_idx": 9775,
+    "imdb_id": "tt0276816",
+    "title": "Below",
+    "production_year": "2002",
+    "genre": "Action, Horror, Mystery",
+    "plot": "In the dark silence of the sea during World War II, the submarine U.S.S. Tiger Shark prowls on what should be a routine rescue mission. But, for the shell-shocked crew, trapped together in the sub's narrow corridors and constricted spaces, this is about to become a journey into the sensory delusions, mental deceptions and runaway fear that lurk just below the surface of the ocean and deep inside the human psyche.",
+    "runtime": "105 min",
+    "director": "David Twohy",
+    "actors": "Bruce Greenwood, David Crow, Matthew Davis",
+    "production_country": "United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMzg2YzUzOTAtMjNjZi00MzY1LTk1NTgtZTQ2NjJiYzM4YzgzXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/12590.webp",
+    "imdb_rating": "6.1",
+    "imdb_votes": "25,101",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Below_(film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/12590.txt",
+    "plot_year_start": 1943,
+    "plot_year_end": 1943,
+    "epoch": "age-of-total-war",
+    "action_countries": [
+      "UNKNOWN"
+    ],
+    "action_continents": [
+      "Atlantic Ocean"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "sealed steel worlds vulnerable to the sea",
+        "description": "A warship at depth is an enclosed world where flooding, fire, bad air, or mechanical failure can be as deadly as enemy action. What you'll see: watertight doors clanging shut, gauges watched with dread, leaks spreading across plates, and men racing to contain damage.",
+        "icon": "🚪"
+      },
+      {
+        "label": "war service wearing down body and mind",
+        "description": "Long patrols, interrupted sleep, fear of unseen attack, and the knowledge of entrapment put severe strain on crews even when no enemy is in sight. What you'll see: drawn faces, trembling hands, sudden outbursts, superstitious talk, and the oppressive stillness between alarms.",
+        "icon": "😣"
+      }
+    ],
+    "quiz": [
+      {
+        "question": "What happens at the end of the story?",
+        "type": "plot",
+        "options": {
+          "A": "The submarine is captured by a German destroyer and the crew is taken prisoner.",
+          "B": "A British ship rescues the survivors, and the Tiger Shark sinks near the wreck of Fort James.",
+          "C": "The crew reaches a secret base and returns safely to port."
+        },
+        "correct": "B"
+      },
+      {
+        "question": "What real historical period is the film set in?",
+        "type": "historical",
+        "options": {
+          "A": "The Korean War in the early 1950s",
+          "B": "World War II in 1943",
+          "C": "The Cold War in the 1960s"
+        },
+        "correct": "B"
+      }
+    ],
+    "key_events": [
+      {
+        "event": "World War II",
+        "description": "The story is set on a U.S. Navy submarine in 1943 during the Second World War."
+      },
+      {
+        "event": "Battle of the Atlantic",
+        "description": "The submarine patrols the Atlantic amid German U-boat attacks, depth charges, and rescue of torpedoed ship survivors."
+      }
+    ],
+    "key_characters": []
+  }
+]

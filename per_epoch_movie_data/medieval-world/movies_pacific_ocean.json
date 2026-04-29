@@ -1,0 +1,37 @@
+[
+  {
+    "movie_id": 105444,
+    "movie_idx": 8542,
+    "imdb_id": "tt1147519",
+    "title": "Doraemon: Nobita's Great Adventure in the South Seas",
+    "production_year": "1998",
+    "genre": "Animation, Adventure, Comedy",
+    "plot": "Nobita coaxes his friends to join him for a treasure hunt but an eerie event transports them to the past. However, their hunt for treasure is not easy as they come face-to-face with pirates.",
+    "runtime": "100 min",
+    "director": "Tsutomu Shibayama",
+    "actors": "Nobuyo Ôyama, Noriko Ohara, Mach Fumiake",
+    "production_country": "Japan, United Kingdom",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYjU3NTkwYmQtY2VjOC00YTBhLTlhYzEtMzQ5NmZjYWIxZTFiXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/105444.webp",
+    "imdb_rating": "7.2",
+    "imdb_votes": "967",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Doraemon:_Nobita%27s_Great_Adventure_in_the_South_Seas",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/105444.txt",
+    "plot_year_start": 20,
+    "plot_year_end": 2200,
+    "epoch": "medieval-world",
+    "action_countries": [
+      "UNKNOWN",
+      "FICTIONAL"
+    ],
+    "action_continents": [
+      "Pacific Ocean",
+      "FICTIONAL"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Doraemon",
+    "failures": {
+      "categories": "missing_category_list"
+    }
+  }
+]

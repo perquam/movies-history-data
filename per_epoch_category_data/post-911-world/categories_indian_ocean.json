@@ -1,0 +1,62 @@
+{
+  "epoch": "post-911-world",
+  "continent": "indian_ocean",
+  "sample_size": 1,
+  "sample": [
+    {
+      "title": "All Is Lost",
+      "years": "2013..2013",
+      "countries": [
+        "UNKNOWN"
+      ],
+      "plot": "Deep into a solo voyage in the Indian Ocean, an unnamed man (Redford) wakes to find his 39-foot yacht taking on water after a collision with a shipping container left floating on the high seas. With his navigation equipment and radio disabled, the man sails unknowingly into the path of a violent storm. Despite his success in patching the breached hull, his mariner's intuition and a strength that belies his age, the man barely survives the tempest. Using only a sextant and nautical maps to chart his progress, he is forced to rely on ocean currents to carry him into a shipping lane in hopes of hailing a passing vessel. But with the sun unrelenting, sharks circling and his meager supplies dwindling, the ever-resourceful sailor soon finds himself staring his mortality in the face."
+    }
+  ],
+  "categories": [
+    {
+      "label": "container shipping crossing open seas",
+      "description": "The Indian Ocean is crisscrossed by vast merchant routes that move boxed cargo between ports, leaving even remote waters tied to distant trade. What you'll see: steel containers, passing freighters, marked shipping lanes, and the lonely scale of commercial traffic at sea.",
+      "icon": "🚢"
+    },
+    {
+      "label": "small yachts sharing waters with freighters",
+      "description": "Private blue-water sailing now occupies the same ocean spaces as heavy merchant shipping, where a small craft can be nearly invisible beside global trade. What you'll see: a modest yacht against empty horizons, distant cargo ships, collision peril, and the mismatch in size between vessels.",
+      "icon": "⛵"
+    },
+    {
+      "label": "satellite gear failing back to older seamanship",
+      "description": "Modern voyaging depends on electronic navigation and radio contact, yet mariners still keep older tools because a damaged boat can be thrown back on dead reckoning and celestial methods. What you'll see: broken instruments, silent radios, sextant use, paper charts, and hand-worked calculations.",
+      "icon": "🧭"
+    },
+    {
+      "label": "debris drifting far from any shore",
+      "description": "Open water is no longer untouched emptiness, because lost cargo and other flotsam can travel immense distances on currents and become hazards in mid-ocean. What you'll see: a stray shipping container, scattered wreckage, fouled hulls, and the unsettling presence of human refuse at sea.",
+      "icon": "📦"
+    },
+    {
+      "label": "storms still ruling the mariner's world",
+      "description": "However advanced the age, weather remains the great master of the ocean, able to strip away control and reduce survival to skill, luck, and endurance. What you'll see: steep seas, torn rigging, flooded cabins, exhausted repairs, and the boat tossed under violent skies.",
+      "icon": "⛈️"
+    },
+    {
+      "label": "currents and sun setting bodily limits",
+      "description": "Life adrift is governed by the plain forces of heat, thirst, exposure, and ocean drift, which shape what a sailor can endure day by day. What you'll see: blistering sunlight, rationed water, salt-stiff clothing, drifting rafts, and a body wearing down in the elements.",
+      "icon": "☀️"
+    },
+    {
+      "label": "rescue depending on sparse traffic at sea",
+      "description": "Even on busy ocean routes, help is uncertain because ships are few against the immensity of the water and may never notice a vessel in distress. What you'll see: signal attempts, distant ships on the horizon, unanswered calls, emergency gear, and long stretches of isolation.",
+      "icon": "🛟"
+    },
+    {
+      "label": "the sea as a world of self-reliance",
+      "description": "Offshore life still assumes that the mariner must mend, improvise, and endure with what is aboard, because outside aid may be days away or absent altogether. What you'll see: patched hulls, hand repairs, salvaged supplies, improvised tools, and repeated checks of the boat's condition.",
+      "icon": "🔧"
+    },
+    {
+      "label": "global trade made visible by empty ocean",
+      "description": "The post-9/11 ocean links continents through movement rather than settlement, so the marks of commerce appear as fleeting traces across otherwise featureless water. What you'll see: horizon-bound shipping, standardized cargo, route maps, and the contrast between worldwide exchange and total solitude.",
+      "icon": "🌐"
+    }
+  ]
+}

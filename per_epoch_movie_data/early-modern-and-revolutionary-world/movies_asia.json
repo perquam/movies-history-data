@@ -1,0 +1,1159 @@
+[
+  {
+    "movie_id": 267970,
+    "movie_idx": 329,
+    "imdb_id": "tt3689910",
+    "title": "Miss Hokusai",
+    "production_year": "2015",
+    "genre": "Animation, Biography, Drama",
+    "plot": "Set in 1814, Miss Hokusai focuses on O-Ei, the daughter of famed artist Tetsuzo, better known by his pen name Hokusai, as she tries to navigate the various aspects of her life. O-Ei spends the bulk of her time assisting her divorced father who cares about his art and not much else.",
+    "runtime": "93 min",
+    "director": "Keiichi Hara",
+    "actors": "Yutaka Matsushige, Anne Watanabe, Erica Lindbeck",
+    "production_country": "Japan",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjM4MjkyMjY2NV5BMl5BanBnXkFtZTgwNDI2OTQ4OTE@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/267970.webp",
+    "imdb_rating": "6.7",
+    "imdb_votes": "3,723",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Miss_Hokusai",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/267970.txt",
+    "plot_year_start": 1814,
+    "plot_year_end": 1857,
+    "epoch": "early-modern-and-revolutionary-world",
+    "action_countries": [
+      "JP"
+    ],
+    "action_continents": [
+      "Asia"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "villages and market towns bound to landlords",
+        "description": "Most people live close to the land under rents, taxes, and local superiors, while workshops and market streets tie rural produce to small urban trade. What you'll see: tenant fields, dye works and craft yards, rent collectors, weddings tied to harvest rhythms, and narrow streets crowded with porters and hawkers.",
+        "icon": "🌾"
+      }
+    ]
+  },
+  {
+    "movie_id": 601796,
+    "movie_idx": 819,
+    "imdb_id": "tt20168564",
+    "title": "Alienoid",
+    "production_year": "2022",
+    "genre": "Action, Adventure, Fantasy",
+    "plot": "The door of time opens between the swordsman who wants to seize the legendary divine sword at the end of the Goryeo Dynasty and those who chase after an alien prisoner imprisoned in a human body in 2022.",
+    "runtime": "142 min",
+    "director": "Choi Dong-hoon",
+    "actors": "Ryu Jun-yeol, Kim Woo-bin, Kim Tae-ri",
+    "production_country": "South Korea",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYmI1N2MxYzEtNWFiYy00NDk1LWEzNWItZGE3MDRmYTMxYjdmXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/601796.webp",
+    "imdb_rating": "6.3",
+    "imdb_votes": "7,513",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Alienoid",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/601796.txt",
+    "plot_year_start": 1380,
+    "plot_year_end": 2022,
+    "epoch": "early-modern-and-revolutionary-world",
+    "action_countries": [
+      "KR"
+    ],
+    "action_continents": [
+      "Asia"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "court ritual masking dangerous factional struggle",
+        "description": "Refined ceremony does not soften rule, because councils, chamberlains, and rival kin compete behind screens for favour, succession, and survival. What you'll see: bows and memorials, sealed orders, poisoned meals, whispered counsel, and elaborate manners covering mortal danger.",
+        "icon": "🪭"
+      },
+      {
+        "label": "warrior elites living by hereditary rank",
+        "description": "Samurai, bannermen, nobles, and other martial estates hold privilege through birth, service, and reputation, even when peace leaves many of them strained or idle. What you'll see: swords worn as marks of standing, formal retainers, stipends and debts, clan loyalties, and constant concern for honour.",
+        "icon": "⚔️"
+      }
+    ]
+  },
+  {
+    "movie_id": 122126,
+    "movie_idx": 2291,
+    "imdb_id": "tt2544120",
+    "title": "The Concubine",
+    "production_year": "2012",
+    "genre": "Drama, History, Romance",
+    "plot": "To escape a life of poverty, Hwa-yeon is forced to offer herself as one of the king's concubines. Once inside the royal palace, two men are immediately captivated by her. The Grand Prince Seong-won, a powerful, lust filled megalomaniac and Kwon-yoo, who has everything to lose if his desire for Hwa-yeon is exposed.",
+    "runtime": "122 min",
+    "director": "Kim Dae-seung",
+    "actors": "Cho Yeo-jeong, Kim Dong-wook, Kim Min-joon",
+    "production_country": "South Korea",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNDdjNzFiYmYtN2YzMy00NjM5LTljZmYtYWNhNTlhMzgxMGU1XkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/122126.webp",
+    "imdb_rating": "6.0",
+    "imdb_votes": "2,838",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Concubine_(film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/122126.txt",
+    "plot_year_start": 1700,
+    "plot_year_end": 1900,
+    "epoch": "early-modern-and-revolutionary-world",
+    "action_countries": [
+      "KR"
+    ],
+    "action_continents": [
+      "Asia"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "walled inner quarters governing palace life",
+        "description": "Royal and noble compounds are divided into guarded inner spaces where women, eunuchs, attendants, and servants form a closed world with its own rules and rivalries. What you'll see: gates and screens, maids carrying messages, eunuchs controlling access, silk robes and cosmetics, and lives confined within courtyards.",
+        "icon": "🚪"
+      },
+      {
+        "label": "court ritual masking dangerous factional struggle",
+        "description": "Refined ceremony does not soften rule, because councils, chamberlains, and rival kin compete behind screens for favour, succession, and survival. What you'll see: bows and memorials, sealed orders, poisoned meals, whispered counsel, and elaborate manners covering mortal danger.",
+        "icon": "🪭"
+      }
+    ]
+  },
+  {
+    "movie_id": 1499,
+    "movie_idx": 2665,
+    "imdb_id": "tt0108308",
+    "title": "Teenage Mutant Ninja Turtles III",
+    "production_year": "1993",
+    "genre": "Action, Adventure, Comedy",
+    "plot": "Ancient Japan, 1393. Without a map. Without a clue. Without a pizza. The international phenomenon that is the Teenage Mutant Ninja Turtles, returns for a daring trip back in time. When their closest friend April O'Neil is accidentally transported to 17th century Japan, the Turtles spring into action, using a mysterious scepter to travel after her. Cowabunga. What they discover is they've landed right in the middle of a rebel samurai war. Now, with precious time on their side, they must save April and survive the deadly battle before it spills over into present day New York City.",
+    "runtime": "96 min",
+    "director": "Stuart Gillard",
+    "actors": "Elias Koteas, Paige Turco, Stuart Wilson",
+    "production_country": "United States, Hong Kong, Japan, China",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNjEwMWNkNjctNzY5Mi00MzgyLTg2ZDMtMTY5MWRjNzEyMjdiXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/1499.webp",
+    "imdb_rating": "4.8",
+    "imdb_votes": "38,227",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Teenage_Mutant_Ninja_Turtles_III",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/1499.txt",
+    "plot_year_start": 1603,
+    "plot_year_end": 1603,
+    "epoch": "early-modern-and-revolutionary-world",
+    "action_countries": [
+      "JP",
+      "US"
+    ],
+    "action_continents": [
+      "Asia",
+      "North America"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "warrior elites living by hereditary rank",
+        "description": "Samurai, bannermen, nobles, and other martial estates hold privilege through birth, service, and reputation, even when peace leaves many of them strained or idle. What you'll see: swords worn as marks of standing, formal retainers, stipends and debts, clan loyalties, and constant concern for honour.",
+        "icon": "⚔️"
+      },
+      {
+        "label": "villages and market towns bound to landlords",
+        "description": "Most people live close to the land under rents, taxes, and local superiors, while workshops and market streets tie rural produce to small urban trade. What you'll see: tenant fields, dye works and craft yards, rent collectors, weddings tied to harvest rhythms, and narrow streets crowded with porters and hawkers.",
+        "icon": "🌾"
+      }
+    ]
+  },
+  {
+    "movie_id": 64686,
+    "movie_idx": 2756,
+    "imdb_id": "tt1335975",
+    "title": "47 Ronin",
+    "production_year": "2013",
+    "genre": "Action, Drama, Fantasy",
+    "plot": "While hunting in the forest, Lord Asano of Ako and his samurai find a young half-breed and take him with them to live in the castle. Several years later, Lord Asano holds a tournament to welcome the Shogun to Ako. The night after the tournament, Lord Asano is bewitched into hurting Lord Kira of Nagato, and is punished into committing seppuku by the Shogun. Realizing that it was a Lord Kira's evil plot, the samurais and the half-breed sets out for revenge against the Shogun's order.",
+    "runtime": "128 min",
+    "director": "Carl Rinsch",
+    "actors": "Keanu Reeves, Hiroyuki Sanada, Kô Shibasaki",
+    "production_country": "United States, Japan",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTc0MjE2NzE0OV5BMl5BanBnXkFtZTgwNTU5MjE1MDE@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/64686.webp",
+    "imdb_rating": "6.2",
+    "imdb_votes": "178,763",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/47_Ronin_(2013_film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/64686.txt",
+    "plot_year_start": 1701,
+    "plot_year_end": 1703,
+    "epoch": "early-modern-and-revolutionary-world",
+    "action_countries": [
+      "JP"
+    ],
+    "action_continents": [
+      "Asia"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "warrior elites living by hereditary rank",
+        "description": "Samurai, bannermen, nobles, and other martial estates hold privilege through birth, service, and reputation, even when peace leaves many of them strained or idle. What you'll see: swords worn as marks of standing, formal retainers, stipends and debts, clan loyalties, and constant concern for honour.",
+        "icon": "⚔️"
+      },
+      {
+        "label": "court ritual masking dangerous factional struggle",
+        "description": "Refined ceremony does not soften rule, because councils, chamberlains, and rival kin compete behind screens for favour, succession, and survival. What you'll see: bows and memorials, sealed orders, poisoned meals, whispered counsel, and elaborate manners covering mortal danger.",
+        "icon": "🪭"
+      }
+    ]
+  },
+  {
+    "movie_id": 68730,
+    "movie_idx": 3686,
+    "imdb_id": "tt0490215",
+    "title": "Silence",
+    "production_year": "2016",
+    "genre": "Drama, History",
+    "plot": "Intent on investigating the truth behind Father Cristovão Ferreira's abrupt end of correspondence, the devout Portuguese Catholic priests, Sebastião Rodrigues and Francisco Garupe, set off to Japan, in 1633. In great disbelief, as the rumours of Ferreira's apostasy still echo in their minds, the zealous Jesuit missionaries try to locate their mentor, amid the bloodshed of the violent anti-Christian purges. Under those circumstances, the two men and the Japanese guide, Kichijiro, arrive in Japan, only to witness firsthand the unbearable burden of those who have a different belief in a land founded on tradition. Now--as the powerful Grand Inquisitor, Inoue, performs hideous tortures on the brave Japanese Christians--Father Rodrigues will soon have to put his faith to the ultimate test: renounce it in exchange for the prisoners' lives. There, in the ends of the world, a subtle change has begun; however, why is God's silence so deafening?",
+    "runtime": "161 min",
+    "director": "Martin Scorsese",
+    "actors": "Andrew Garfield, Adam Driver, Liam Neeson",
+    "production_country": "United Kingdom, Italy, Mexico, United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjY3OTk0NjA2NV5BMl5BanBnXkFtZTgwNTg3Mjc2MDI@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/68730.webp",
+    "imdb_rating": "7.2",
+    "imdb_votes": "130,171",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Silence_(2016_film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/68730.txt",
+    "plot_year_start": 1633,
+    "plot_year_end": 1685,
+    "epoch": "early-modern-and-revolutionary-world",
+    "action_countries": [
+      "JP",
+      "MO",
+      "PT"
+    ],
+    "action_continents": [
+      "Asia",
+      "Asia",
+      "Europe"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "court ritual masking dangerous factional struggle",
+        "description": "Refined ceremony does not soften rule, because councils, chamberlains, and rival kin compete behind screens for favour, succession, and survival. What you'll see: bows and memorials, sealed orders, poisoned meals, whispered counsel, and elaborate manners covering mortal danger.",
+        "icon": "🪭"
+      },
+      {
+        "label": "foreign creeds meeting guarded native orders",
+        "description": "New teachings and outside religions enter lands already shaped by older ritual worlds, and rulers often treat such beliefs as threats to settled authority. What you'll see: hidden prayer, questioning by officials, forced acts of renunciation, village suspicion, and sacred objects kept out of sight.",
+        "icon": "📿"
+      }
+    ]
+  },
+  {
+    "movie_id": 263341,
+    "movie_idx": 3801,
+    "imdb_id": "tt2652118",
+    "title": "Crouching Tiger, Hidden Dragon: Sword of Destiny",
+    "production_year": "2016",
+    "genre": "Action, Adventure, Drama",
+    "plot": "Still mourning the death of Li Mu Bai, Yu Shu Lien returns to safeguard his sword, the Green Destiny. Hades Dai, an underground warlord, sends his lieutenants to steal the sword , with plans to dominate the martial world. A young mysterious swords-woman and the hero with a past, Silent Wolf , comes to Shu Lien's aid, together with a disparate band of warriors who still believe in the iron way of honor.",
+    "runtime": "96 min",
+    "director": "Yuen Woo-Ping",
+    "actors": "Donnie Yen, Michelle Yeoh, Harry Shum Jr.",
+    "production_country": "China, United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTA2MzM5NTk4NTBeQTJeQWpwZ15BbWU4MDk0NjgyNDcx._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/263341.webp",
+    "imdb_rating": "6.1",
+    "imdb_votes": "21,585",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Crouching_Tiger,_Hidden_Dragon:_Sword_of_Destiny",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/263341.txt",
+    "plot_year_start": 1700,
+    "plot_year_end": 1700,
+    "epoch": "early-modern-and-revolutionary-world",
+    "action_countries": [
+      "CN"
+    ],
+    "action_continents": [
+      "Asia"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "armed brotherhoods beyond official authority",
+        "description": "Alongside magistrates and lords, unofficial fighting networks such as clan enforcers, yakuza, wandering swordsmen, and temple-trained men wield their own rough power. What you'll see: gambling dens, hired blades, coded loyalties, protection rackets, roadside inns, and disputes settled by steel rather than petition.",
+        "icon": "🗡️"
+      }
+    ]
+  },
+  {
+    "movie_id": 14537,
+    "movie_idx": 3917,
+    "imdb_id": "tt0056058",
+    "title": "Harakiri",
+    "production_year": "1962",
+    "genre": "Drama, Mystery",
+    "plot": "Peace in 17th-century Japan causes the Shogunate's breakup of warrior clans, throwing thousands of samurai out of work and into poverty. An honorable end to such fate under the samurai code is ritual suicide, or hara-kiri (self-inflicted disembowelment). An elder warrior, Hanshiro Tsugumo (Tatsuya Nakadai) seeks admittance to the house of a feudal lord to commit the act. There, he learns of the fate of his son-in-law, a young samurai who sought work at the house but was instead barbarically forced to commit traditional hara-kiri in an excruciating manner with a dull bamboo blade. In flashbacks the samurai tells the tragic story of his son-in-law, and how he was forced to sell his real sword to support his sick wife and child. Tsugumo thus sets in motion a tense showdown of revenge against the house.",
+    "runtime": "133 min",
+    "director": "Masaki Kobayashi",
+    "actors": "Tatsuya Nakadai, Akira Ishihama, Shima Iwashita",
+    "production_country": "Japan",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZThiZjU5ZDQtZDI4Mi00ZGYyLTkzOTktYmIzZTFlZTkxYzg5XkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/14537.webp",
+    "imdb_rating": "8.6",
+    "imdb_votes": "87,601",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Harakiri_(1962_film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/14537.txt",
+    "plot_year_start": 1630,
+    "plot_year_end": 1630,
+    "epoch": "early-modern-and-revolutionary-world",
+    "action_countries": [
+      "JP"
+    ],
+    "action_continents": [
+      "Asia"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "court ritual masking dangerous factional struggle",
+        "description": "Refined ceremony does not soften rule, because councils, chamberlains, and rival kin compete behind screens for favour, succession, and survival. What you'll see: bows and memorials, sealed orders, poisoned meals, whispered counsel, and elaborate manners covering mortal danger.",
+        "icon": "🪭"
+      },
+      {
+        "label": "warrior elites living by hereditary rank",
+        "description": "Samurai, bannermen, nobles, and other martial estates hold privilege through birth, service, and reputation, even when peace leaves many of them strained or idle. What you'll see: swords worn as marks of standing, formal retainers, stipends and debts, clan loyalties, and constant concern for honour.",
+        "icon": "⚔️"
+      }
+    ]
+  },
+  {
+    "movie_id": 146,
+    "movie_idx": 4181,
+    "imdb_id": "tt0190332",
+    "title": "Crouching Tiger, Hidden Dragon",
+    "production_year": "2000",
+    "genre": "Action, Adventure, Drama",
+    "plot": "In early nineteenth-century China, in the waning years of the Qing dynasty, the renowned swordsman who yearns for enlightenment, Li Mu Bai, decides to give up his legendary Green Destiny sword: the sharp four-hundred-year-old blade of heroes. To mark the end of a blood-stained career, Li entrusts the excellent female warrior, Yu Shu Lien, with the precious weapon to deliver it to Governor Yu; however, once there, an audacious and nimble masked thief manages to steal it. As Shu Lien is hot on the trail of the skilled burglar, unrequited loves; fervent passions; an unconquerable desire for freedom, and bitter loose ends stand in the way. Can Mu Bai shake off his violent past?",
+    "runtime": "120 min",
+    "director": "Ang Lee",
+    "actors": "Chow Yun-Fat, Michelle Yeoh, Ziyi Zhang",
+    "production_country": "Taiwan, China, Hong Kong, United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMzRmMTU2OWEtZjI0Ni00MGRhLThjOTItZTJiNmM4MDk0ZWU2XkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/146.webp",
+    "imdb_rating": "7.9",
+    "imdb_votes": "293,086",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Crouching_Tiger,_Hidden_Dragon",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/146.txt",
+    "plot_year_start": 1778,
+    "plot_year_end": 1778,
+    "epoch": "early-modern-and-revolutionary-world",
+    "action_countries": [
+      "CN"
+    ],
+    "action_continents": [
+      "Asia"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "court ritual masking dangerous factional struggle",
+        "description": "Refined ceremony does not soften rule, because councils, chamberlains, and rival kin compete behind screens for favour, succession, and survival. What you'll see: bows and memorials, sealed orders, poisoned meals, whispered counsel, and elaborate manners covering mortal danger.",
+        "icon": "🪭"
+      }
+    ]
+  },
+  {
+    "movie_id": 58857,
+    "movie_idx": 4280,
+    "imdb_id": "tt1436045",
+    "title": "13 Assassins",
+    "production_year": "2010",
+    "genre": "Action, Adventure, Drama",
+    "plot": "In 1844, the peace of Feudal Japan is threatened by cruel Lord Naritsugu Matsudaira, who is politically rising and getting closer to his half-brother, the shogun. After the harakiri of the Namiya clan leader, samurai Shinzaemon Shimada is summoned by the shogun's advisor Sir Doi of the Akashi Clan to listen to the tragedy of Makino Uneme, whose son and daughter-in-law have been murdered by Naritsugu. Then Sir Doi shows a woman with arms, legs and tongue severed by Naritsugu and she writes with her forearm a request to Shinza to slaughter Naritsugu and his samurai. Shinza promises to kill Naritsugu and he gathers eleven other samurais and plots a plan to attack Naritsugu in his trip back to the Akashi land. But the cunning samurai Hanbei Kitou that is responsible for the security of his master foresees Shinza's intent. Shinza decides to go with his samurai through the mountain, where they find the hunter Koyata that guides them off the mountain and joins the group. Now the thirteen men prepare an ambush to Naritsugu and his army of two hundred samurai in a suicide mission to stop evil.",
+    "runtime": "141 min",
+    "director": "Takashi Miike",
+    "actors": "Kôji Yakusho, Takayuki Yamada, Yûsuke Iseya",
+    "production_country": "Japan, United Kingdom",
+    "poster": "https://m.media-amazon.com/images/M/MV5BODg3MTYwODY3MF5BMl5BanBnXkFtZTcwMDk2MzYwNQ@@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/58857.webp",
+    "imdb_rating": "7.5",
+    "imdb_votes": "71,415",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/13_Assassins_(2010_film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/58857.txt",
+    "plot_year_start": 1844,
+    "plot_year_end": 1844,
+    "epoch": "early-modern-and-revolutionary-world",
+    "action_countries": [
+      "JP"
+    ],
+    "action_continents": [
+      "Asia"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "warrior elites living by hereditary rank",
+        "description": "Samurai, bannermen, nobles, and other martial estates hold privilege through birth, service, and reputation, even when peace leaves many of them strained or idle. What you'll see: swords worn as marks of standing, formal retainers, stipends and debts, clan loyalties, and constant concern for honour.",
+        "icon": "⚔️"
+      },
+      {
+        "label": "villages and market towns bound to landlords",
+        "description": "Most people live close to the land under rents, taxes, and local superiors, while workshops and market streets tie rural produce to small urban trade. What you'll see: tenant fields, dye works and craft yards, rent collectors, weddings tied to harvest rhythms, and narrow streets crowded with porters and hawkers.",
+        "icon": "🌾"
+      }
+    ]
+  },
+  {
+    "movie_id": 664236,
+    "movie_idx": 4827,
+    "imdb_id": "tt8241000",
+    "title": "Extinct",
+    "production_year": "2021",
+    "genre": "Animation, Adventure, Comedy",
+    "plot": "When two Flummels (an adorable species of fluffy animals with holes in their center) are magically transported to the present day, they learn that their species are now extinct and forgotten. They must now travel back in time to try to save their race from disappearing forever.",
+    "runtime": "84 min",
+    "director": "David Silverman, Raymond S. Persi",
+    "actors": "Adam Devine, Rachel Bloom, Ken Jeong",
+    "production_country": "United States, China, Montenegro, Poland, Serbia, Canada, United Kingdom, Hong Kong",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNzU0YjNkYzktNDY5MC00NTNlLWJlNDctYjdkYTk3ODkwZGQ4XkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/664236.webp",
+    "imdb_rating": "5.5",
+    "imdb_votes": "3,916",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Extinct_(film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/664236.txt",
+    "plot_year_start": 1835,
+    "plot_year_end": 1836,
+    "epoch": "early-modern-and-revolutionary-world",
+    "action_countries": [
+      "CN",
+      "EC",
+      "AQ"
+    ],
+    "action_continents": [
+      "Asia",
+      "South America",
+      "Antarctica"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "foreign creeds meeting guarded native orders",
+        "description": "New teachings and outside religions enter lands already shaped by older ritual worlds, and rulers often treat such beliefs as threats to settled authority. What you'll see: hidden prayer, questioning by officials, forced acts of renunciation, village suspicion, and sacred objects kept out of sight.",
+        "icon": "📿"
+      },
+      {
+        "label": "empire pressing at border kingdoms",
+        "description": "Large dynasties and conquering states shape the fate of neighbouring realms through tribute, hostage princes, invasion, and demands for submission. What you'll see: frontier garrisons, displaced villagers, envoys bearing commands, captives carried off in war, and anxious talk of the court's weakness.",
+        "icon": "🏹"
+      }
+    ]
+  },
+  {
+    "movie_id": 16407,
+    "movie_idx": 4879,
+    "imdb_id": "tt0084266",
+    "title": "Dragon Lord",
+    "production_year": "1982",
+    "genre": "Action, Comedy, Sport",
+    "plot": "The adventures of a restless martial arts student called Dragon, who, while constantly pursuing a girl, gets involved in the affairs of a gang of thieves.",
+    "runtime": "102 min",
+    "director": "Jackie Chan",
+    "actors": "Jackie Chan, Mars, Michael Wai-Man Chan",
+    "production_country": "Hong Kong",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYTA2ODRlYmMtM2Q3Yy00MjMyLWFhMzQtYzRhZDQ4MWE0OGQ4XkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/16407.webp",
+    "imdb_rating": "6.3",
+    "imdb_votes": "4,902",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Dragon_Lord",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/16407.txt",
+    "plot_year_start": 1800,
+    "plot_year_end": 1800,
+    "epoch": "early-modern-and-revolutionary-world",
+    "action_countries": [
+      "HK"
+    ],
+    "action_continents": [
+      "Asia"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "armed brotherhoods beyond official authority",
+        "description": "Alongside magistrates and lords, unofficial fighting networks such as clan enforcers, yakuza, wandering swordsmen, and temple-trained men wield their own rough power. What you'll see: gambling dens, hired blades, coded loyalties, protection rackets, roadside inns, and disputes settled by steel rather than petition.",
+        "icon": "🗡️"
+      }
+    ]
+  },
+  {
+    "movie_id": 14282,
+    "movie_idx": 5203,
+    "imdb_id": "tt0107692",
+    "title": "Ninja Scroll",
+    "production_year": "1993",
+    "genre": "Animation, Action, Adventure",
+    "plot": "A Journeyman ninja by name of Jubei stumbles upon a plague, an evil clan of demons, a national crisis, and a beautiful ninja girl.",
+    "runtime": "94 min",
+    "director": "Yoshiaki Kawajiri",
+    "actors": "Kôichi Yamadera, Emi Shinohara, Takeshi Aono",
+    "production_country": "Japan",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMWI1N2ZiY2YtZjBmZS00ZWY2LTk1N2QtNWIxNDU5MDczY2YwXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/14282.webp",
+    "imdb_rating": "7.8",
+    "imdb_votes": "44,239",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Ninja_Scroll",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/14282.txt",
+    "plot_year_start": 1603,
+    "plot_year_end": 1603,
+    "epoch": "early-modern-and-revolutionary-world",
+    "action_countries": [
+      "JP"
+    ],
+    "action_continents": [
+      "Asia"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "court ritual masking dangerous factional struggle",
+        "description": "Refined ceremony does not soften rule, because councils, chamberlains, and rival kin compete behind screens for favour, succession, and survival. What you'll see: bows and memorials, sealed orders, poisoned meals, whispered counsel, and elaborate manners covering mortal danger.",
+        "icon": "🪭"
+      },
+      {
+        "label": "empire pressing at border kingdoms",
+        "description": "Large dynasties and conquering states shape the fate of neighbouring realms through tribute, hostage princes, invasion, and demands for submission. What you'll see: frontier garrisons, displaced villagers, envoys bearing commands, captives carried off in war, and anxious talk of the court's weakness.",
+        "icon": "🏹"
+      }
+    ]
+  },
+  {
+    "movie_id": 512901,
+    "movie_idx": 5469,
+    "imdb_id": "tt7587984",
+    "title": "The Knight of Shadows: Between Yin and Yang",
+    "production_year": "2019",
+    "genre": "Action, Adventure, Family",
+    "plot": "A legendary demon hunter (Jackie Chan), tracking down beasts that enter the human dimension, assisted by a lawman protégé and a motley group of friendly monsters.",
+    "runtime": "109 min",
+    "director": "Vash",
+    "actors": "Jackie Chan, Elane Zhong, Ethan Juan",
+    "production_country": "China",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZjdlNDg1ZWItYjQ4Yi00ZTFkLTkxMmUtYjhjYmVlYThiNzU5XkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/512901.webp",
+    "imdb_rating": "5.0",
+    "imdb_votes": "2,103",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Knight_of_Shadows:_Between_Yin_and_Yang",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/512901.txt",
+    "plot_year_start": 1600,
+    "plot_year_end": 1600,
+    "epoch": "early-modern-and-revolutionary-world",
+    "action_countries": [
+      "CN"
+    ],
+    "action_continents": [
+      "Asia"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "foreign creeds meeting guarded native orders",
+        "description": "New teachings and outside religions enter lands already shaped by older ritual worlds, and rulers often treat such beliefs as threats to settled authority. What you'll see: hidden prayer, questioning by officials, forced acts of renunciation, village suspicion, and sacred objects kept out of sight.",
+        "icon": "📿"
+      }
+    ]
+  },
+  {
+    "movie_id": 42384,
+    "movie_idx": 6327,
+    "imdb_id": "tt1433775",
+    "title": "A Tale of Legendary Libido",
+    "production_year": "2008",
+    "genre": "Comedy, Fantasy",
+    "plot": "Byun, whilst a good fighter, is constantly ridiculed by the village women for his tiny 'package.' However, this ends when a monk provides Byun with a massive penis and amazing sexual endurance. When all the village men are unexpectedly sent to war, Byun is overlooked, and left behind to satisfy the substantial libidos of the village women.",
+    "runtime": "120 min",
+    "director": "Hansol Shin",
+    "actors": "Bong Tae-gyu, Kim Jin-ah, Oh Dal-su",
+    "production_country": "South Korea",
+    "poster": "https://m.media-amazon.com/images/M/MV5BOTlmMTVhYmYtMjMzMi00ZjJjLWJiOGEtZDJhNzNiNDE2MzVhXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/42384.webp",
+    "imdb_rating": "5.3",
+    "imdb_votes": "1,161",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/A_Tale_of_Legendary_Libido",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/42384.txt",
+    "plot_year_start": 1790,
+    "plot_year_end": 1790,
+    "epoch": "early-modern-and-revolutionary-world",
+    "action_countries": [
+      "KR"
+    ],
+    "action_continents": [
+      "Asia"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "villages and market towns bound to landlords",
+        "description": "Most people live close to the land under rents, taxes, and local superiors, while workshops and market streets tie rural produce to small urban trade. What you'll see: tenant fields, dye works and craft yards, rent collectors, weddings tied to harvest rhythms, and narrow streets crowded with porters and hawkers.",
+        "icon": "🌾"
+      },
+      {
+        "label": "strict hierarchies shaping marriage and desire",
+        "description": "Households are ordered by rank, gender, and age, and marriage is often a bargain about lineage, property, and status before it is a matter of affection. What you'll see: concubines and wives in separate quarters, matchmakers, jealous household rivalries, servants attending superiors, and young women traded into security.",
+        "icon": "💍"
+      }
+    ]
+  },
+  {
+    "movie_id": 426284,
+    "movie_idx": 6545,
+    "imdb_id": "tt5084170",
+    "title": "Blade of the Immortal",
+    "production_year": "2017",
+    "genre": "Action, Drama",
+    "plot": "Manji, a highly skilled samurai, becomes cursed with immortality after a legendary battle. Haunted by the brutal murder of his sister, Manji knows that only fighting evil will regain his soul. He promises to help a young girl named Rin avenge her parents, who were killed by a group of master swordsmen led by ruthless warrior Anotsu. The mission will change Manji in ways he could never imagine.",
+    "runtime": "140 min",
+    "director": "Takashi Miike",
+    "actors": "Takuya Kimura, Hana Sugisaki, Sôta Fukushi",
+    "production_country": "Japan, United Kingdom, South Korea",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZjUzODFjYmYtYzA0Yi00ODk2LTg2OGUtYWExYjc2NzYyNTc1XkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/426284.webp",
+    "imdb_rating": "6.7",
+    "imdb_votes": "20,014",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Blade_of_the_Immortal_(film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/426284.txt",
+    "plot_year_start": 1600,
+    "plot_year_end": 1652,
+    "epoch": "early-modern-and-revolutionary-world",
+    "action_countries": [
+      "JP"
+    ],
+    "action_continents": [
+      "Asia"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "warrior elites living by hereditary rank",
+        "description": "Samurai, bannermen, nobles, and other martial estates hold privilege through birth, service, and reputation, even when peace leaves many of them strained or idle. What you'll see: swords worn as marks of standing, formal retainers, stipends and debts, clan loyalties, and constant concern for honour.",
+        "icon": "⚔️"
+      },
+      {
+        "label": "armed brotherhoods beyond official authority",
+        "description": "Alongside magistrates and lords, unofficial fighting networks such as clan enforcers, yakuza, wandering swordsmen, and temple-trained men wield their own rough power. What you'll see: gambling dens, hired blades, coded loyalties, protection rackets, roadside inns, and disputes settled by steel rather than petition.",
+        "icon": "🗡️"
+      }
+    ]
+  },
+  {
+    "movie_id": 79224,
+    "movie_idx": 7096,
+    "imdb_id": "tt2025526",
+    "title": "War of the Arrows",
+    "production_year": "2011",
+    "genre": "Action, Adventure",
+    "plot": "Two children Nam-yi and Ja-in are being chased by King Injo's guards and saved by their father Choi Pyeong-ryung, an officer of King Gwanghae and a skilled archer. He sends his own children to find a place of refuge with his best friend Kim Mu-seon. As they escape crying, Ja-in begs her brother to go back to their father but their father is killed in front of Nam-yi. Nam-yi, though bitten by the guard dogs, kills them and escapes with Ja-in. Nam-yi becomes the only family Ja-in has. 13 years later Nam-yi is now a skilled archer and hunter. He learns from Mu-seon's son Seo-goon that he and Ja-in plan to get married, with the approval of Mu-seon who is also Ja-in's godfather. During the wedding, Nam-yi is up in the mountains hunting deer. He hears the rumble of the invading forces. When Nam-yi makes it back to the village, he finds his step-father slaughtered and his sister taken away. Nam-yi then sets out to find the Qing army and take out their army with his bow.",
+    "runtime": "122 min",
+    "director": "Kim Han-min",
+    "actors": "Park Hae-il, Ryu Seung-ryong, Kim Mu-yeol",
+    "production_country": "South Korea",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTgwMjAyNzA0N15BMl5BanBnXkFtZTcwMTcxOTIwNw@@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/79224.webp",
+    "imdb_rating": "7.1",
+    "imdb_votes": "13,245",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/War_of_the_Arrows",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/79224.txt",
+    "plot_year_start": 1640,
+    "plot_year_end": 1640,
+    "epoch": "early-modern-and-revolutionary-world",
+    "action_countries": [
+      "KR",
+      "CN"
+    ],
+    "action_continents": [
+      "Asia",
+      "Asia"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "empire pressing at border kingdoms",
+        "description": "Large dynasties and conquering states shape the fate of neighbouring realms through tribute, hostage princes, invasion, and demands for submission. What you'll see: frontier garrisons, displaced villagers, envoys bearing commands, captives carried off in war, and anxious talk of the court's weakness.",
+        "icon": "🏹"
+      },
+      {
+        "label": "foreign creeds meeting guarded native orders",
+        "description": "New teachings and outside religions enter lands already shaped by older ritual worlds, and rulers often treat such beliefs as threats to settled authority. What you'll see: hidden prayer, questioning by officials, forced acts of renunciation, village suspicion, and sacred objects kept out of sight.",
+        "icon": "📿"
+      }
+    ]
+  },
+  {
+    "movie_id": 340613,
+    "movie_idx": 7296,
+    "imdb_id": "tt7692966",
+    "title": "The Third Wife",
+    "production_year": "2018",
+    "genre": "Drama",
+    "plot": "In 19th century rural Vietnam, fourteen-year-old May is ready to become the third wife of a wealthy landowner. Little does she know that her hidden desires will take her by surprise and force her to make a choice between living in safety and being free.",
+    "runtime": "96 min",
+    "director": "Ash Mayfair",
+    "actors": "Hong Chuong Nguyen, Long Le Vu, Nu Yên-Khê Tran",
+    "production_country": "Vietnam",
+    "poster": "https://m.media-amazon.com/images/M/MV5BM2ZhNDUzOTUtYTZiNS00MzM2LTg1M2EtYWYzNDJlMmI5ZDc2XkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/340613.webp",
+    "imdb_rating": "6.6",
+    "imdb_votes": "2,473",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Third_Wife",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/340613.txt",
+    "plot_year_start": 1800,
+    "plot_year_end": 1899,
+    "epoch": "early-modern-and-revolutionary-world",
+    "action_countries": [
+      "VN"
+    ],
+    "action_continents": [
+      "Asia"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "villages and market towns bound to landlords",
+        "description": "Most people live close to the land under rents, taxes, and local superiors, while workshops and market streets tie rural produce to small urban trade. What you'll see: tenant fields, dye works and craft yards, rent collectors, weddings tied to harvest rhythms, and narrow streets crowded with porters and hawkers.",
+        "icon": "🌾"
+      },
+      {
+        "label": "strict hierarchies shaping marriage and desire",
+        "description": "Households are ordered by rank, gender, and age, and marriage is often a bargain about lineage, property, and status before it is a matter of affection. What you'll see: concubines and wives in separate quarters, matchmakers, jealous household rivalries, servants attending superiors, and young women traded into security.",
+        "icon": "💍"
+      }
+    ]
+  },
+  {
+    "movie_id": 50727,
+    "movie_idx": 7427,
+    "imdb_id": "tt1905059",
+    "title": "The Servant",
+    "production_year": "2010",
+    "genre": "Comedy, Drama, Romance",
+    "plot": "The handsome servant of a powerful nobleman schemes to win the heart of the geisha they both covet, but soon finds that the object of his affections may have a scheme all her own. Bang-ja works for Mong-lyong, and they both lust after Chun-hyang, who plies her trade at the a geisha house. When Bang-ja learns that his master longs to claim Chung-hyang for himself, he seeks the wisdom of a wise old relationship expert named Ma to learn that secrets of seduction. Later, using a combination of Mencius and Confucian Analects to charm Chun-hyang away from Mong-lyong, Chun-hyang becomes just another step in the cunning beauty's clandestine plan to transcend her current social status.",
+    "runtime": "124 min",
+    "director": "Kim Dae-woo",
+    "actors": "Kim Ju-hyuk, Ryu Seung-beom, Cho Yeo-jeong",
+    "production_country": "South Korea",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTYxMjc2MDIyOV5BMl5BanBnXkFtZTgwMzg2MDE0MjE@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/50727.webp",
+    "imdb_rating": "6.3",
+    "imdb_votes": "1,391",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Servant_(2010_film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/50727.txt",
+    "plot_year_start": 1810,
+    "plot_year_end": 1813,
+    "epoch": "early-modern-and-revolutionary-world",
+    "action_countries": [
+      "KR"
+    ],
+    "action_continents": [
+      "Asia"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "lords and kings ruling through households",
+        "description": "Power is gathered around courts, castles, and great houses where office depends on rank, kinship, and personal service rather than distant public law. What you'll see: palace chambers, audience halls, retainers waiting on commands, household stewards, and families pulled into affairs of rule.",
+        "icon": "🏯"
+      },
+      {
+        "label": "walled inner quarters governing palace life",
+        "description": "Royal and noble compounds are divided into guarded inner spaces where women, eunuchs, attendants, and servants form a closed world with its own rules and rivalries. What you'll see: gates and screens, maids carrying messages, eunuchs controlling access, silk robes and cosmetics, and lives confined within courtyards.",
+        "icon": "🚪"
+      }
+    ]
+  },
+  {
+    "movie_id": 537190,
+    "movie_idx": 7536,
+    "imdb_id": "tt6927152",
+    "title": "Rampant",
+    "production_year": "2018",
+    "genre": "Action, Drama, History",
+    "plot": "Lee Chung is a Prince of Joseon, but he has been taken hostage to the Qing Dynasty. He enjoys boozing, womanizing and gambling. He is also an excellent swordsman. His older brother Lee Young will succeed to the throne and brings Lee Chung to Joseon. He returns after more than 10 years. Soon, Lee Chung faces monsters that run rampant in the night.",
+    "runtime": "121 min",
+    "director": "Kim Sung-hoon",
+    "actors": "Hyun Bin, Heo Sung-tae, Lee Sun-bin",
+    "production_country": "South Korea",
+    "poster": "https://m.media-amazon.com/images/M/MV5BOWNjZjY2NjctYjEzZS00NzExLTk2OTAtZTRhMGY5MmUxOGI3XkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/537190.webp",
+    "imdb_rating": "6.3",
+    "imdb_votes": "5,238",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Rampant_(film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/537190.txt",
+    "plot_year_start": 1636,
+    "plot_year_end": 1636,
+    "epoch": "early-modern-and-revolutionary-world",
+    "action_countries": [
+      "KR",
+      "CN"
+    ],
+    "action_continents": [
+      "Asia",
+      "Asia"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "court ritual masking dangerous factional struggle",
+        "description": "Refined ceremony does not soften rule, because councils, chamberlains, and rival kin compete behind screens for favour, succession, and survival. What you'll see: bows and memorials, sealed orders, poisoned meals, whispered counsel, and elaborate manners covering mortal danger.",
+        "icon": "🪭"
+      },
+      {
+        "label": "foreign creeds meeting guarded native orders",
+        "description": "New teachings and outside religions enter lands already shaped by older ritual worlds, and rulers often treat such beliefs as threats to settled authority. What you'll see: hidden prayer, questioning by officials, forced acts of renunciation, village suspicion, and sacred objects kept out of sight.",
+        "icon": "📿"
+      }
+    ]
+  },
+  {
+    "movie_id": 15119,
+    "movie_idx": 9068,
+    "imdb_id": "tt0081506",
+    "title": "Shogun Assassin",
+    "production_year": "1980",
+    "genre": "Action, Adventure",
+    "plot": "Long ago there was a great samurai warrior who served his Shogun honorably. The Shogun however grew paranoid as he became more and more senile. The Shogun sought to destroy all those who might stand to oppose his rule, and so he sent his ninja spies to the samurai's home. The ninjas failed to kill the samurai, but did kill his beloved wife. From then on, the samurai swore on his honor to seek out the Shogun and avenge the death of his love. The samurai roams the countryside with his toddler son taking on mercenary work for money until the final battle with the Shogun's three Masters of Death.",
+    "runtime": "85 min",
+    "director": "Robert Houston, Kenji Misumi",
+    "actors": "Tomisaburô Wakayama, Kayo Matsuo, Minoru Ôki",
+    "production_country": "Japan",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZjY3MzY3ZDQtN2U4YS00N2Q0LWEwOTgtZTU0NmIyNzQzNzBjXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/15119.webp",
+    "imdb_rating": "7.3",
+    "imdb_votes": "11,495",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Shogun_Assassin",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/15119.txt",
+    "plot_year_start": 1600,
+    "plot_year_end": 1600,
+    "epoch": "early-modern-and-revolutionary-world",
+    "action_countries": [
+      "JP"
+    ],
+    "action_continents": [
+      "Asia"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "court ritual masking dangerous factional struggle",
+        "description": "Refined ceremony does not soften rule, because councils, chamberlains, and rival kin compete behind screens for favour, succession, and survival. What you'll see: bows and memorials, sealed orders, poisoned meals, whispered counsel, and elaborate manners covering mortal danger.",
+        "icon": "🪭"
+      },
+      {
+        "label": "armed brotherhoods beyond official authority",
+        "description": "Alongside magistrates and lords, unofficial fighting networks such as clan enforcers, yakuza, wandering swordsmen, and temple-trained men wield their own rough power. What you'll see: gambling dens, hired blades, coded loyalties, protection rackets, roadside inns, and disputes settled by steel rather than petition.",
+        "icon": "🗡️"
+      }
+    ]
+  },
+  {
+    "movie_id": 67120,
+    "movie_idx": 9130,
+    "imdb_id": "tt0110456",
+    "title": "Sex and the Emperor",
+    "production_year": "1994",
+    "genre": "Comedy, Drama, Romance",
+    "plot": "(Cantonese with English subtitles) In the Qing Dynasty, the only people who lived in the Forbidden City are the Emperor's concubines, their maids, the eunuchs and the Emperor himself. Li Lianying is an eunuch who enters the Forbidden City with a big secret. One that will have his head on the floor if the wrong people find out...",
+    "runtime": "92 min",
+    "director": "Sherman Wong",
+    "actors": "Yvonne Hung Yung, Pounh Chong Soong, See-Ho Leung",
+    "production_country": "Hong Kong",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYmZmZWM2MWUtMzRiNy00NDViLWJmOTUtNTgwMjk5MzRmZTJhXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/67120.webp",
+    "imdb_rating": "4.8",
+    "imdb_votes": "222",
+    "plot_year_start": 1750,
+    "plot_year_end": 1911,
+    "epoch": "early-modern-and-revolutionary-world",
+    "action_countries": [
+      "CN"
+    ],
+    "action_continents": [
+      "Asia"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "walled inner quarters governing palace life",
+        "description": "Royal and noble compounds are divided into guarded inner spaces where women, eunuchs, attendants, and servants form a closed world with its own rules and rivalries. What you'll see: gates and screens, maids carrying messages, eunuchs controlling access, silk robes and cosmetics, and lives confined within courtyards.",
+        "icon": "🚪"
+      }
+    ],
+    "failures": {
+      "wikipedia": "no_wiki_article_found"
+    }
+  },
+  {
+    "movie_id": 133200,
+    "movie_idx": 9158,
+    "imdb_id": "tt2290840",
+    "title": "Masquerade",
+    "production_year": "2012",
+    "genre": "Drama, History",
+    "plot": "Amid national chaos and fear for his life, tyrannical King Gwanghae orders his trusted councilor Heo Kyun to find a royal body double. He hires Ha-seon, a peasant mimic who bears a perfect resemblance to the King. When King Gwanghae collapses from a mysterious poison, Ha-seon reluctantly becomes a King. He must follow his conscience to save his country from collapse, avoid assassination, and pull off the biggest masquerade in history. K",
+    "runtime": "131 min",
+    "director": "Choo Chang-min",
+    "actors": "Lee Byung-hun, Ryu Seung-ryong, Han Hyo-joo",
+    "production_country": "South Korea",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNTMwYzY3NTUtMjU3NS00NDZiLTllYjMtOTI5NTliZDlkMDBkXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/133200.webp",
+    "imdb_rating": "7.8",
+    "imdb_votes": "7,761",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Masquerade_(2012_film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/133200.txt",
+    "plot_year_start": 1616,
+    "plot_year_end": 1616,
+    "epoch": "early-modern-and-revolutionary-world",
+    "action_countries": [
+      "KR"
+    ],
+    "action_continents": [
+      "Asia"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "court ritual masking dangerous factional struggle",
+        "description": "Refined ceremony does not soften rule, because councils, chamberlains, and rival kin compete behind screens for favour, succession, and survival. What you'll see: bows and memorials, sealed orders, poisoned meals, whispered counsel, and elaborate manners covering mortal danger.",
+        "icon": "🪭"
+      },
+      {
+        "label": "walled inner quarters governing palace life",
+        "description": "Royal and noble compounds are divided into guarded inner spaces where women, eunuchs, attendants, and servants form a closed world with its own rules and rivalries. What you'll see: gates and screens, maids carrying messages, eunuchs controlling access, silk robes and cosmetics, and lives confined within courtyards.",
+        "icon": "🚪"
+      }
+    ]
+  },
+  {
+    "movie_id": 41474,
+    "movie_idx": 9196,
+    "imdb_id": "tt0068817",
+    "title": "Lone Wolf and Cub: Baby Cart to Hades",
+    "production_year": "1972",
+    "genre": "Action, Drama",
+    "plot": "Ogami Itto volunteers to be tortured by the yakuza to save a prostitute and is hired by their leader to kill an evil chamberlain.",
+    "runtime": "89 min",
+    "director": "Kenji Misumi",
+    "actors": "Tomisaburô Wakayama, Gô Katô, Yûko Hama",
+    "production_country": "Japan",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNjg3ZDZhMzctNWEwNy00MDA0LTlmZTgtYjg1MjhmNDE3MDlhXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/41474.webp",
+    "imdb_rating": "7.5",
+    "imdb_votes": "5,754",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Lone_Wolf_and_Cub:_Baby_Cart_to_Hades",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/41474.txt",
+    "plot_year_start": 1660,
+    "plot_year_end": 1660,
+    "epoch": "early-modern-and-revolutionary-world",
+    "action_countries": [
+      "JP"
+    ],
+    "action_continents": [
+      "Asia"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "armed brotherhoods beyond official authority",
+        "description": "Alongside magistrates and lords, unofficial fighting networks such as clan enforcers, yakuza, wandering swordsmen, and temple-trained men wield their own rough power. What you'll see: gambling dens, hired blades, coded loyalties, protection rackets, roadside inns, and disputes settled by steel rather than petition.",
+        "icon": "🗡️"
+      },
+      {
+        "label": "warrior elites living by hereditary rank",
+        "description": "Samurai, bannermen, nobles, and other martial estates hold privilege through birth, service, and reputation, even when peace leaves many of them strained or idle. What you'll see: swords worn as marks of standing, formal retainers, stipends and debts, clan loyalties, and constant concern for honour.",
+        "icon": "⚔️"
+      }
+    ]
+  },
+  {
+    "movie_id": 48301,
+    "movie_idx": 9599,
+    "imdb_id": "tt0081494",
+    "title": "Return to the 36th Chamber",
+    "production_year": "1980",
+    "genre": "Action, Comedy",
+    "plot": "The workers of a dye factory have their pay cut by 20% when the factory owner brings in some Manchu thugs to try and increase production. Desperate to reclaim their full wages, the workers hire an actor to impersonate a priest and kung-fu expert from the temple of Shaolin. The factory owner proves the actor a fraud, and punishes all those involved. The young actor feels he has let the workers down, and promises to atone. He sets out for Shaolin, determined to be accepted as a kung-fu pupil at the elite temple.",
+    "runtime": "99 min",
+    "director": "Chia-Liang Liu",
+    "actors": "Chia-Hui Liu, Lung-Wei Wang, Hou Hsiao",
+    "production_country": "Hong Kong",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZWQzZDYzYjctM2ZiZS00NGRhLTg2ZTItOTM3MDU2MWNlNzg2XkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/48301.webp",
+    "imdb_rating": "6.9",
+    "imdb_votes": "4,403",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Return_to_the_36th_Chamber",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/48301.txt",
+    "plot_year_start": 1700,
+    "plot_year_end": 1701,
+    "epoch": "early-modern-and-revolutionary-world",
+    "action_countries": [
+      "HK",
+      "CN"
+    ],
+    "action_continents": [
+      "Asia",
+      "Asia"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "villages and market towns bound to landlords",
+        "description": "Most people live close to the land under rents, taxes, and local superiors, while workshops and market streets tie rural produce to small urban trade. What you'll see: tenant fields, dye works and craft yards, rent collectors, weddings tied to harvest rhythms, and narrow streets crowded with porters and hawkers.",
+        "icon": "🌾"
+      },
+      {
+        "label": "armed brotherhoods beyond official authority",
+        "description": "Alongside magistrates and lords, unofficial fighting networks such as clan enforcers, yakuza, wandering swordsmen, and temple-trained men wield their own rough power. What you'll see: gambling dens, hired blades, coded loyalties, protection rackets, roadside inns, and disputes settled by steel rather than petition.",
+        "icon": "🗡️"
+      }
+    ]
+  },
+  {
+    "movie_id": 26302,
+    "movie_idx": 9869,
+    "imdb_id": "tt0063555",
+    "title": "The Color of Pomegranates",
+    "production_year": "1969",
+    "genre": "Biography, Drama, History",
+    "plot": "One of cinema's greatest masterpieces, Sergei Parajanov's \"The Color of Pomegranates,\" a biography of the Armenian troubadour Sayat Nova (King of Song) reveals the poet's life more through his poetry than a conventional narration of important events in Sayat Nova's life. We see the poet grow up, fall in love, enter a monastery and die, but these incidents are depicted in the context of what are images from Sergei Parajanov's imagination and Sayat Nova's poems, poems that are seen and rarely heard. Sofiko Chiaureli plays 5 roles, both male and female, and Sergei Parajanov writes, directs, edits, choreographs, works on costumes, design and decor and virtually every aspect of this one-of-a-kind work hailed as revolutionary by Mikhail Vartanov.",
+    "runtime": "79 min",
+    "director": "Sergei Parajanov",
+    "actors": "Sofiko Chiaureli, Melkon Alekyan, Vilen Galstyan",
+    "production_country": "Soviet Union",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTIwZWRlYzItYzFkYS00NmUzLTg2NDctZWExZjIwNDkzZTA0XkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/26302.webp",
+    "imdb_rating": "7.6",
+    "imdb_votes": "14,428",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Color_of_Pomegranates",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/26302.txt",
+    "plot_year_start": 1712,
+    "plot_year_end": 1795,
+    "epoch": "early-modern-and-revolutionary-world",
+    "action_countries": [
+      "AM",
+      "GE",
+      "AZ"
+    ],
+    "action_continents": [
+      "Asia",
+      "Asia",
+      "Asia"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "court ritual masking dangerous factional struggle",
+        "description": "Refined ceremony does not soften rule, because councils, chamberlains, and rival kin compete behind screens for favour, succession, and survival. What you'll see: bows and memorials, sealed orders, poisoned meals, whispered counsel, and elaborate manners covering mortal danger.",
+        "icon": "🪭"
+      }
+    ]
+  },
+  {
+    "movie_id": 30421,
+    "movie_idx": 9953,
+    "imdb_id": "tt0093978",
+    "title": "A Chinese Ghost Story",
+    "production_year": "1987",
+    "genre": "Action, Fantasy, Horror",
+    "plot": "Ning Tsai-Shen, a humble tax collector, arrives in a small town to carry out his work. Unsurprisingly, no-one is willing to give him shelter for the night, so he ends up spending the night in the haunted Lan Ro temple. There, he meets Taoist Swordsman Yen Che-Hsia, who warns him to stay out of trouble, and the beautiful Nieh Hsiao-Tsing, with whom he falls in love. Unfortunately, Hsiao-Tsing is a ghost, bound for all eternity by a hideous tree spirit with an incredibly long tongue that wraps itself round its victims and sucks out their life essence (or 'yang element')...",
+    "runtime": "98 min",
+    "director": "Siu-Tung Ching",
+    "actors": "Leslie Cheung, Joey Wang, Wu Ma",
+    "production_country": "Hong Kong",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZjJjMzVmN2MtMmQ0YS00ZGQ2LTk2MzItYTVjZDI2NGIwZDhiXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/30421.webp",
+    "imdb_rating": "7.4",
+    "imdb_votes": "12,490",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/A_Chinese_Ghost_Story",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/30421.txt",
+    "plot_year_start": 1644,
+    "plot_year_end": 1644,
+    "epoch": "early-modern-and-revolutionary-world",
+    "action_countries": [
+      "CN"
+    ],
+    "action_continents": [
+      "Asia"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "villages and market towns bound to landlords",
+        "description": "Most people live close to the land under rents, taxes, and local superiors, while workshops and market streets tie rural produce to small urban trade. What you'll see: tenant fields, dye works and craft yards, rent collectors, weddings tied to harvest rhythms, and narrow streets crowded with porters and hawkers.",
+        "icon": "🌾"
+      },
+      {
+        "label": "foreign creeds meeting guarded native orders",
+        "description": "New teachings and outside religions enter lands already shaped by older ritual worlds, and rulers often treat such beliefs as threats to settled authority. What you'll see: hidden prayer, questioning by officials, forced acts of renunciation, village suspicion, and sacred objects kept out of sight.",
+        "icon": "📿"
+      }
+    ]
+  },
+  {
+    "movie_id": 41477,
+    "movie_idx": 9972,
+    "imdb_id": "tt0143348",
+    "title": "Lone Wolf and Cub: Baby Cart in Peril",
+    "production_year": "1972",
+    "genre": "Action, Thriller",
+    "plot": "Fourth film in the Lone Wolf and Cub series. Ogami is hired to kill a tattooed female assassin. Gunbei Yagyu, an enemy samurai, happens upon Ogami's son, and sees his chance for revenge.",
+    "runtime": "81 min",
+    "director": "Buichi Saitô",
+    "actors": "Tomisaburô Wakayama, Yoichi Hayashi, Michi Azuma",
+    "production_country": "Japan",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZGExNmZkYTUtZDM2NC00YjM0LTkxZTEtNGMzZGI2YTc1YzM5XkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/41477.webp",
+    "imdb_rating": "7.5",
+    "imdb_votes": "5,102",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Lone_Wolf_and_Cub:_Baby_Cart_in_Peril",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/41477.txt",
+    "plot_year_start": 1600,
+    "plot_year_end": 1600,
+    "epoch": "early-modern-and-revolutionary-world",
+    "action_countries": [
+      "JP"
+    ],
+    "action_continents": [
+      "Asia"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "warrior elites living by hereditary rank",
+        "description": "Samurai, bannermen, nobles, and other martial estates hold privilege through birth, service, and reputation, even when peace leaves many of them strained or idle. What you'll see: swords worn as marks of standing, formal retainers, stipends and debts, clan loyalties, and constant concern for honour.",
+        "icon": "⚔️"
+      }
+    ]
+  }
+]

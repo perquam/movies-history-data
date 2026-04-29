@@ -1,0 +1,1087 @@
+[
+  {
+    "movie_id": 264859,
+    "movie_idx": 272,
+    "imdb_id": "tt0086267",
+    "title": "Six Swedish Girls in the Alps",
+    "production_year": "1983",
+    "genre": "Comedy",
+    "plot": "This comedy has everyone's favorite 6 Swedish gals enjoying their stay in the alps. When the girls aren't enjoying the pleasure of their own company they're out having a good time with nearly everyone else in town.",
+    "runtime": "90 min",
+    "director": "Paul Grau",
+    "actors": "Petra van Hoven, Marianne Aubert, Evelyne Lang",
+    "production_country": "West Germany",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYzlkOThiZTAtNGIxNi00ZWExLTlhNjQtMTU3ZWFiMjAyM2M0XkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/264859.webp",
+    "imdb_rating": "4.5",
+    "imdb_votes": "279",
+    "plot_year_start": 1968,
+    "plot_year_end": 1968,
+    "epoch": "late-cold-war-era",
+    "action_countries": [
+      "UNKNOWN"
+    ],
+    "action_continents": [
+      "UNKNOWN"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "mass leisure opening new transient worlds",
+        "description": "Affordable travel, seasonal work, and holiday culture create temporary communities in resorts, ships, carnivals, and summer houses where strangers mix outside their usual supervision. What you'll see: Alpine lodgings, cruise decks, fairground caravans, seaside summers, vacation flirtations, and pleasure spaces that turn unstable after dark.",
+        "icon": "🏖️"
+      },
+      {
+        "label": "sex becoming public and commercial",
+        "description": "Erotic life is no longer kept wholly behind closed doors, as loosening censorship and new markets turn desire into spectacle, business, and public argument. What you'll see: soft-focus bedrooms, adult theatres and magazines, liberated holiday flirtation, sexual experimentation, and constant friction between permissiveness and shame.",
+        "icon": "💋"
+      }
+    ],
+    "failures": {
+      "wikipedia": "no_wiki_article_found"
+    }
+  },
+  {
+    "movie_id": 106,
+    "movie_idx": 358,
+    "imdb_id": "tt0093773",
+    "title": "Predator",
+    "production_year": "1987",
+    "genre": "Action, Adventure, Horror",
+    "plot": "A team of special force ops, led by a tough but fair soldier, Major \"Dutch\" Schaefer, are ordered to assist CIA man, Colonel Al Dillon, on a rescue mission for potential survivors of a Helicopter downed over remote South American jungle. Not long after they land, Dutch and his team discover that they have been sent in under false pretenses. This deception turns out to be the least of their worries though, when they find themselves being methodically hunted by something not of this world.",
+    "runtime": "107 min",
+    "director": "John McTiernan",
+    "actors": "Arnold Schwarzenegger, Carl Weathers, Kevin Peter Hall",
+    "production_country": "United States, Mexico",
+    "poster": "https://m.media-amazon.com/images/M/MV5BOWEzMDI0MTUtMjQ0Yy00MGRhLWI4YjAtZTgzZTM3NTYxZGJkXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/106.webp",
+    "imdb_rating": "7.8",
+    "imdb_votes": "496,372",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Predator_(film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/106.txt",
+    "plot_year_start": 1987,
+    "plot_year_end": 1987,
+    "epoch": "late-cold-war-era",
+    "action_countries": [
+      "UNKNOWN"
+    ],
+    "action_continents": [
+      "UNKNOWN"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "superpowers arming distant battlefields",
+        "description": "The late Cold War turns remote jungles, islands, and borderlands into places where outside powers send money, weapons, advisers, and elite troops while keeping their own hands partly hidden. What you'll see: helicopters over thick forest, mercenaries and commandos, captured dossiers, Soviet matériel, and local conflicts shadowed by foreign intelligence.",
+        "icon": "🚁"
+      },
+      {
+        "label": "machines shrinking distance and deepening risk",
+        "description": "Jet travel, ocean engineering, heavy shipping, and advanced weapons make the world feel newly traversable, but they also spread danger farther and faster when systems fail. What you'll see: passenger liners, helicopters, underwater bases, control rooms, salvage operations, and people trapped inside complex machines they barely master.",
+        "icon": "✈️"
+      }
+    ]
+  },
+  {
+    "movie_id": 249397,
+    "movie_idx": 543,
+    "imdb_id": "tt2382009",
+    "title": "Nymphomaniac: Vol. II",
+    "production_year": "2013",
+    "genre": "Drama",
+    "plot": "Joe continues to tell to Seligman the story of her life. Joe lives with Jerôme and their son Marcel and out of the blue, she loses sexual sensation in intercourse. Joe seeks kinky sex, perversions and sadomasochism expecting to retrieve her sex drive. Jerôme leaves home with Marcel and gives his son to a foster house for adoption. Then Joe is sent to therapy by her gynecologist but she does not admit that she is addicted to sex. Meanwhile Seligman tells Joe that he is virgin and helps her to understand her actions. Joe believes that Seligman is her friend, but is he?",
+    "runtime": "124 min",
+    "director": "Lars von Trier",
+    "actors": "Charlotte Gainsbourg, Stellan Skarsgård, Willem Dafoe",
+    "production_country": "Denmark, Germany, Belgium, United Kingdom, France, Sweden",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZDFlZGEwNzUtZWY2OS00MWE0LWEwMjEtMmUwZDQzZWRlYWRkXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/249397.webp",
+    "imdb_rating": "6.6",
+    "imdb_votes": "103,131",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Nymphomaniac_(film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/249397.txt",
+    "plot_year_start": 1970,
+    "plot_year_end": 2010,
+    "epoch": "late-cold-war-era",
+    "action_countries": [
+      "UNKNOWN"
+    ],
+    "action_continents": [
+      "UNKNOWN"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "sex becoming public and commercial",
+        "description": "Erotic life is no longer kept wholly behind closed doors, as loosening censorship and new markets turn desire into spectacle, business, and public argument. What you'll see: soft-focus bedrooms, adult theatres and magazines, liberated holiday flirtation, sexual experimentation, and constant friction between permissiveness and shame.",
+        "icon": "💋"
+      }
+    ]
+  },
+  {
+    "movie_id": 1091,
+    "movie_idx": 828,
+    "imdb_id": "tt0084787",
+    "title": "The Thing",
+    "production_year": "1982",
+    "genre": "Horror, Mystery, Sci-Fi",
+    "plot": "A US research station, Antarctica, early-winter 1982. The base is suddenly buzzed by a helicopter from the nearby Norwegian research station. They are trying to kill a dog that has escaped from their base. After the destruction of the Norwegian chopper the members of the US team fly to the Norwegian base, only to discover them all dead or missing. They do find the remains of a strange creature the Norwegians burned. The Americans take it to their base and deduce that it is an alien life form. After a while it is apparent that the alien can take over and assimilate into other life forms, including humans, and can spread like a virus. This means that anyone at the base could be inhabited by The Thing, and tensions escalate.",
+    "runtime": "109 min",
+    "director": "John Carpenter",
+    "actors": "Kurt Russell, Wilford Brimley, Keith David",
+    "production_country": "United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYTA3NDU5MWEtNTk4Yy00ZDNkLThmZTQtMjU3ZGVhYzAyMzU4XkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/1091.webp",
+    "imdb_rating": "8.2",
+    "imdb_votes": "521,638",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Thing_(1982_film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/1091.txt",
+    "plot_year_start": 1982,
+    "plot_year_end": 1982,
+    "epoch": "late-cold-war-era",
+    "action_countries": [
+      "UNKNOWN"
+    ],
+    "action_continents": [
+      "UNKNOWN"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "machines shrinking distance and deepening risk",
+        "description": "Jet travel, ocean engineering, heavy shipping, and advanced weapons make the world feel newly traversable, but they also spread danger farther and faster when systems fail. What you'll see: passenger liners, helicopters, underwater bases, control rooms, salvage operations, and people trapped inside complex machines they barely master.",
+        "icon": "✈️"
+      },
+      {
+        "label": "cities learning to live with unrest",
+        "description": "Many towns and capitals are imagined as crowded, crime-plagued, and fraying at the edges, with authorities improvising to keep order and ordinary people expecting disorder as part of life. What you'll see: academy barracks, street riots, sirens, public disorder, understaffed institutions, and a constant sense that rules are slipping.",
+        "icon": "🚨"
+      }
+    ]
+  },
+  {
+    "movie_id": 45233,
+    "movie_idx": 864,
+    "imdb_id": "tt0085250",
+    "title": "Women's Prison Massacre",
+    "production_year": "1983",
+    "genre": "Action, Crime, Drama",
+    "plot": "Emanuelle, a reporter, comes just a little too close to exposing a corrupt official, and is sent to prison on trumped-up charges. In the prison, the inmates are constantly humiliated and tortured by the prison staff. Overly affectionate prisoners are forced underwater, while others are obliged to look on. Emanuelle finds an enemy in the deranged Albina, who \"runs the prison.\" For the pleasure of the warden, Emanuelle and Albina are forced to fight each other with knives. Bad becomes worse when four men awaiting execution escape and take over the prison. Gore flows like water.",
+    "runtime": "89 min",
+    "director": "Bruno Mattei, Gilbert Roussel",
+    "actors": "Laura Gemser, Gabriele Tinti, Ursula Flores",
+    "production_country": "Italy, France",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNjU4NzA2YzgtNDI0OS00YTRhLWIwYmMtMjA4YjU4NWQ4OWRkXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/45233.webp",
+    "imdb_rating": "4.6",
+    "imdb_votes": "1,268",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Women%27s_Prison_Massacre",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/45233.txt",
+    "plot_year_start": 1983,
+    "plot_year_end": 1983,
+    "epoch": "late-cold-war-era",
+    "action_countries": [
+      "UNKNOWN"
+    ],
+    "action_continents": [
+      "UNKNOWN"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "police and prisons ruling by humiliation",
+        "description": "State authority often appears as a harsh everyday machine, with wardens, guards, inspectors, and academy drillmasters enforcing order through ritual discipline and open abuse. What you'll see: intake searches, barking superiors, barred cells, baton drills, corrupt officials, and institutions that confuse punishment with justice.",
+        "icon": "⛓️"
+      }
+    ]
+  },
+  {
+    "movie_id": 987573,
+    "movie_idx": 1095,
+    "imdb_id": "tt21627390",
+    "title": "Believers",
+    "production_year": "2022",
+    "genre": "Drama",
+    "plot": "On a remote island, three people join a program to rid themselves of corruption, addressing each other by rank, but two eventually succumb to their inner flaws.",
+    "runtime": "118 min",
+    "director": "Hideo Jôjô",
+    "actors": "Hayato Isomura, Yuto Isomura, Yui Kitamura",
+    "production_country": "Japan",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNjk1MGQ2NDgtZmY1Yi00NWUwLWE2ZGYtNDMxNzZiYWU3MGI1XkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/987573.webp",
+    "imdb_rating": "N/A",
+    "imdb_votes": "153",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Believers_(film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/987573.txt",
+    "plot_year_start": 1986,
+    "plot_year_end": 1987,
+    "epoch": "late-cold-war-era",
+    "action_countries": [
+      "UNKNOWN"
+    ],
+    "action_continents": [
+      "UNKNOWN"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "cults and gurus filling spiritual hunger",
+        "description": "Disillusion with old authorities leaves room for communes, self-purification programs, exorcists, and charismatic fathers who promise belonging, cleansing, or secret truth. What you'll see: remote compounds, rank titles, confession rituals, sermon-like speeches, possessed bodies, and believers surrendering judgment to a leader.",
+        "icon": "📿"
+      }
+    ]
+  },
+  {
+    "movie_id": 324558,
+    "movie_idx": 1616,
+    "imdb_id": "tt4461838",
+    "title": "X-Rated: The Greatest Adult Movies of All Time",
+    "production_year": "2015",
+    "genre": "Documentary",
+    "plot": "A look at a plethora of pornographic films ranging from the 1970s to the 2010s and a commentary about their lasting impacts on the adult industry and the world.",
+    "runtime": "95 min",
+    "director": "Bryn Pryor",
+    "actors": "Chanel Preston, Nina Hartley, Raylin Joy",
+    "production_country": "United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYzdlODI1NjUtY2JmYy00OGQzLTljOGEtNTM5YTRlZDliZGEwXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/324558.webp",
+    "imdb_rating": "5.6",
+    "imdb_votes": "919",
+    "plot_year_start": 1970,
+    "plot_year_end": 2019,
+    "epoch": "late-cold-war-era",
+    "action_countries": [
+      "UNKNOWN"
+    ],
+    "action_continents": [
+      "UNKNOWN"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "sex becoming public and commercial",
+        "description": "Erotic life is no longer kept wholly behind closed doors, as loosening censorship and new markets turn desire into spectacle, business, and public argument. What you'll see: soft-focus bedrooms, adult theatres and magazines, liberated holiday flirtation, sexual experimentation, and constant friction between permissiveness and shame.",
+        "icon": "💋"
+      }
+    ],
+    "failures": {
+      "wikipedia": "no_wiki_article_found"
+    }
+  },
+  {
+    "movie_id": 38060,
+    "movie_idx": 1693,
+    "imdb_id": "tt0213065",
+    "title": "The Lorax",
+    "production_year": "1972",
+    "genre": "Animation, Drama, Family",
+    "plot": "A young boy goes to meet a ruined industrialist in a treeless wasteland and hear his tale of what happened to him. His tragic story is about how he began a thriving business with a useless fashion product derived from the trees of a forest. As his business booms, the forest and its inhabitants suffer as he wantonly clearcuts without regard to the warnings of a wise old creature called the Lorax about the dire consequences of his greed.",
+    "runtime": "25 min",
+    "director": "Hawley Pratt",
+    "actors": "Eddie Albert, Bob Holt, Athena Lorde",
+    "production_country": "United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYjZlZGEyMTgtYzVjOC00ZWVkLTliYWMtZWJiMWRlYWI1M2FhXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/38060.webp",
+    "imdb_rating": "7.9",
+    "imdb_votes": "3,545",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Lorax_(TV_special)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/38060.txt",
+    "plot_year_start": 1970,
+    "plot_year_end": 1972,
+    "epoch": "late-cold-war-era",
+    "action_countries": [
+      "UNKNOWN"
+    ],
+    "action_continents": [
+      "UNKNOWN"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "consumer plenty shadowed by ecological ruin",
+        "description": "The age prizes growth, convenience, and mass consumption, yet more people can already see the forests cut down, waters spoiled, and landscapes exhausted by that bargain. What you'll see: clear-cut land, polluted settings, throwaway products, profit talk, scrap-bound machinery, and warnings that comfort has a cost.",
+        "icon": "🛢️"
+      }
+    ]
+  },
+  {
+    "movie_id": 9336,
+    "movie_idx": 1998,
+    "imdb_id": "tt0087928",
+    "title": "Police Academy",
+    "production_year": "1984",
+    "genre": "Comedy",
+    "plot": "In desperate need of a fresh batch of police officers, the newly appointed Lady Mayoress of a crime-plagued metropolis lowers the bar for the recruitment process. As a result, all types of misfits start flocking into Commandant Eric Lassard's prestigious Police Academy, and the leader of this assortment of pariahs is Carey Mahoney: a light-hearted, devil-may-care young rebel. But now, there is no turning back, and to make matters worse, the autocratic martinet, Lieutenant Harris, can't wait to see them quit. Then, a full-scale riot breaks out, and the inexperienced but dauntless cadets will have to put their training to good use. Do they have what it takes to be law-enforcement officers?",
+    "runtime": "96 min",
+    "director": "Hugh Wilson",
+    "actors": "Steve Guttenberg, G.W. Bailey, Kim Cattrall",
+    "production_country": "United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZmY2Zjk3ZmYtZGQwYS00NGM4LTk1MWMtZjI4MmRkNmM2ZDYwXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/9336.webp",
+    "imdb_rating": "6.7",
+    "imdb_votes": "148,086",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Police_Academy_(film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/9336.txt",
+    "plot_year_start": 1984,
+    "plot_year_end": 1984,
+    "epoch": "late-cold-war-era",
+    "action_countries": [
+      "UNKNOWN"
+    ],
+    "action_continents": [
+      "UNKNOWN"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "police and prisons ruling by humiliation",
+        "description": "State authority often appears as a harsh everyday machine, with wardens, guards, inspectors, and academy drillmasters enforcing order through ritual discipline and open abuse. What you'll see: intake searches, barking superiors, barred cells, baton drills, corrupt officials, and institutions that confuse punishment with justice.",
+        "icon": "⛓️"
+      },
+      {
+        "label": "cities learning to live with unrest",
+        "description": "Many towns and capitals are imagined as crowded, crime-plagued, and fraying at the edges, with authorities improvising to keep order and ordinary people expecting disorder as part of life. What you'll see: academy barracks, street riots, sirens, public disorder, understaffed institutions, and a constant sense that rules are slipping.",
+        "icon": "🚨"
+      }
+    ]
+  },
+  {
+    "movie_id": 34584,
+    "movie_idx": 2158,
+    "imdb_id": "tt0088323",
+    "title": "The NeverEnding Story",
+    "production_year": "1984",
+    "genre": "Adventure, Drama, Family",
+    "plot": "Bastian is a young boy who lives a dreary life being tormented by school bullies. On one such occasion he escapes into a book shop where the old proprieter reveals an ancient story-book to him, which he is warned can be dangerous. Shortly after, he \"borrows\" the book and begins to read it in the school attic where he is drawn into the mythical land of Fantasia, which desperately needs a hero to save it from destruction.",
+    "runtime": "102 min",
+    "director": "Wolfgang Petersen",
+    "actors": "Noah Hathaway, Barret Oliver, Tami Stronach",
+    "production_country": "West Germany, United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYzE0Y2E0NGYtYzRmMy00ZDRjLTk1NDItNjZjYTMyMmJjMGYxXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/34584.webp",
+    "imdb_rating": "7.3",
+    "imdb_votes": "168,971",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/The_NeverEnding_Story_(film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/34584.txt",
+    "plot_year_start": 1984,
+    "plot_year_end": 1984,
+    "epoch": "late-cold-war-era",
+    "action_countries": [
+      "UNKNOWN"
+    ],
+    "action_continents": [
+      "UNKNOWN"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "mass leisure opening new transient worlds",
+        "description": "Affordable travel, seasonal work, and holiday culture create temporary communities in resorts, ships, carnivals, and summer houses where strangers mix outside their usual supervision. What you'll see: Alpine lodgings, cruise decks, fairground caravans, seaside summers, vacation flirtations, and pleasure spaces that turn unstable after dark.",
+        "icon": "🏖️"
+      }
+    ]
+  },
+  {
+    "movie_id": 1398,
+    "movie_idx": 2956,
+    "imdb_id": "tt0079944",
+    "title": "Stalker",
+    "production_year": "1979",
+    "genre": "Drama, Sci-Fi",
+    "plot": "In a small, unnamed country there's an area called the Zone. It's an unusual area, and within its a place known as the Room, where it's believed wishes are granted. The government declared The Zone a no-go area and have sealed it off. This hasn't stopped people from entering the Zone. A writer, and a professor, want to reach the Zone. Their guide - a man known as a stalker, has a special relation with the Zone.",
+    "runtime": "162 min",
+    "director": "Andrei Tarkovsky",
+    "actors": "Alisa Freyndlikh, Aleksandr Kaydanovskiy, Anatoliy Solonitsyn",
+    "production_country": "Soviet Union",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMDIzMDRiYjgtM2U1Yy00MjlhLTliODMtM2E5NDI5Njc3YmZkXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/1398.webp",
+    "imdb_rating": "8.0",
+    "imdb_votes": "155,355",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Stalker_(1979_film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/1398.txt",
+    "plot_year_start": 1979,
+    "plot_year_end": 1979,
+    "epoch": "late-cold-war-era",
+    "action_countries": [
+      "UNKNOWN"
+    ],
+    "action_continents": [
+      "UNKNOWN"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "cities learning to live with unrest",
+        "description": "Many towns and capitals are imagined as crowded, crime-plagued, and fraying at the edges, with authorities improvising to keep order and ordinary people expecting disorder as part of life. What you'll see: academy barracks, street riots, sirens, public disorder, understaffed institutions, and a constant sense that rules are slipping.",
+        "icon": "🚨"
+      },
+      {
+        "label": "consumer plenty shadowed by ecological ruin",
+        "description": "The age prizes growth, convenience, and mass consumption, yet more people can already see the forests cut down, waters spoiled, and landscapes exhausted by that bargain. What you'll see: clear-cut land, polluted settings, throwaway products, profit talk, scrap-bound machinery, and warnings that comfort has a cost.",
+        "icon": "🛢️"
+      }
+    ]
+  },
+  {
+    "movie_id": 50357,
+    "movie_idx": 3769,
+    "imdb_id": "tt1772240",
+    "title": "Apollo 18",
+    "production_year": "2011",
+    "genre": "Horror, Mystery, Sci-Fi",
+    "plot": "Cmndr Walker, Cptn. Anderson and Lt. Col. Grey are assigned to a secret mission to the moon. Walker and Anderson land, while Grey stays in orbit. As they collect samples, they find footprints...and the body of a Soviet cosmonaut on the moon. Soon they hear weird noises andv find they're not alone.",
+    "runtime": "86 min",
+    "director": "Gonzalo López-Gallego",
+    "actors": "Warren Christie, Lloyd Owen, Ryan Robbins",
+    "production_country": "Canada, United States, Russia",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTk5MTk3OTk3OV5BMl5BanBnXkFtZTcwMzg4MzgxNg@@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/50357.webp",
+    "imdb_rating": "5.2",
+    "imdb_votes": "59,971",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Apollo_18_(film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/50357.txt",
+    "plot_year_start": 1974,
+    "plot_year_end": 1974,
+    "epoch": "late-cold-war-era",
+    "action_countries": [
+      "UNKNOWN"
+    ],
+    "action_continents": [
+      "UNKNOWN"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "machines shrinking distance and deepening risk",
+        "description": "Jet travel, ocean engineering, heavy shipping, and advanced weapons make the world feel newly traversable, but they also spread danger farther and faster when systems fail. What you'll see: passenger liners, helicopters, underwater bases, control rooms, salvage operations, and people trapped inside complex machines they barely master.",
+        "icon": "✈️"
+      }
+    ]
+  },
+  {
+    "movie_id": 8867,
+    "movie_idx": 4268,
+    "imdb_id": "tt0098141",
+    "title": "The Punisher",
+    "production_year": "1989",
+    "genre": "Action, Crime, Thriller",
+    "plot": "Based on the Marvel Comic, Dolph Lundgren is Frank Castle an ex-cop who lives in the sewers and acts as judge, jury, and executioner to the city's criminals in retaliation for the unpunished murders of his wife and kids. Frank's ex-partner Jake (Louis Gossett Jr.) finally catches up with the vigilante as he tries to stop the Japanese mob, which is trying to take over the city's mafia operation.",
+    "runtime": "89 min",
+    "director": "Mark Goldblatt",
+    "actors": "Dolph Lundgren, Louis Gossett Jr., Jeroen Krabbé",
+    "production_country": "Australia, United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYTk4NDEwM2ItOWJmYi00YjgxLTk5MTQtYTNlNzc1MmQzMmU4XkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/8867.webp",
+    "imdb_rating": "5.6",
+    "imdb_votes": "27,170",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Punisher_(1989_film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/8867.txt",
+    "plot_year_start": 1984,
+    "plot_year_end": 1984,
+    "epoch": "late-cold-war-era",
+    "action_countries": [
+      "UNKNOWN"
+    ],
+    "action_continents": [
+      "UNKNOWN"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Marvel Cinematic Universe",
+    "categories": [
+      {
+        "label": "cities learning to live with unrest",
+        "description": "Many towns and capitals are imagined as crowded, crime-plagued, and fraying at the edges, with authorities improvising to keep order and ordinary people expecting disorder as part of life. What you'll see: academy barracks, street riots, sirens, public disorder, understaffed institutions, and a constant sense that rules are slipping.",
+        "icon": "🚨"
+      }
+    ]
+  },
+  {
+    "movie_id": 260358,
+    "movie_idx": 4276,
+    "imdb_id": "tt0228684",
+    "title": "Women in Heat Behind Bars",
+    "production_year": "1987",
+    "genre": "Action, Crime, Thriller",
+    "plot": "Shinobu Himeno (Shinobu Wakana), gets thrown in the clink after a botched robbery and once there she suffers all the indignities that the other inmates and the guards throw at her. Pretty much a by the numbers WIP plot, it checks off all the boxes for this genre, sadistic warden and guards? Check! Convict on convict action? Check! Prison Riot? Check! And that old standby, body cavity searches? Check!(this one you gotta see)At 69 mins, it moves at a good clip, never lagging, and keeps the sex scenes and degradations coming. Recommended for Nikkatsu aficionados and WIP fans in general.The Impulse/Synapse disc looks good with a 1:85 transfer, and little else on the disc in the way of extras. This is number 26 of these releases. I've noticed that they've stopped including an insert/essay by Jasper Sharp.",
+    "runtime": "70 min",
+    "director": "Junichi Suzuki",
+    "actors": "Shinobu Wakana, Rena Hatta, Yûko Chiba",
+    "production_country": "Japan",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNTA5MGYyN2MtODM5Yy00YjA5LWEyODMtNTBjNTMzM2RjNjFkXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/260358.webp",
+    "imdb_rating": "4.7",
+    "imdb_votes": "118",
+    "plot_year_start": 1970,
+    "plot_year_end": 1970,
+    "epoch": "late-cold-war-era",
+    "action_countries": [
+      "UNKNOWN"
+    ],
+    "action_continents": [
+      "UNKNOWN"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "police and prisons ruling by humiliation",
+        "description": "State authority often appears as a harsh everyday machine, with wardens, guards, inspectors, and academy drillmasters enforcing order through ritual discipline and open abuse. What you'll see: intake searches, barking superiors, barred cells, baton drills, corrupt officials, and institutions that confuse punishment with justice.",
+        "icon": "⛓️"
+      },
+      {
+        "label": "women testing the old moral order",
+        "description": "Across these years, older rules about sex, marriage, childbirth, and obedience are being challenged, but law, family, and custom still punish women who step outside them. What you'll see: illegal clinics, university expulsions, divorce and custody strain, predatory bosses, brothels, and arguments over respectability and freedom.",
+        "icon": "👩"
+      }
+    ],
+    "failures": {
+      "wikipedia": "no_wiki_article_found"
+    }
+  },
+  {
+    "movie_id": 13333,
+    "movie_idx": 4361,
+    "imdb_id": "tt0077594",
+    "title": "Game of Death",
+    "production_year": "1978",
+    "genre": "Action, Crime, Drama",
+    "plot": "In this movie, Bruce Lee is a very famous martial-arts master who stars in many films. After an unsuccessful murder attempt against him, everyone thinks his is dead, but he's just hiding, preparing his revenge...",
+    "runtime": "100 min",
+    "director": "Robert Clouse, Bruce Lee",
+    "actors": "Bruce Lee, Gig Young, Dean Jagger",
+    "production_country": "Hong Kong, United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNzkwZmUyYTktZWUxYS00ZjdiLTk0MDAtZWE1MmUzMmI0ODI5XkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/13333.webp",
+    "imdb_rating": "5.9",
+    "imdb_votes": "23,963",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Game_of_Death",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/13333.txt",
+    "plot_year_start": 1972,
+    "plot_year_end": 1972,
+    "epoch": "late-cold-war-era",
+    "action_countries": [
+      "UNKNOWN"
+    ],
+    "action_continents": [
+      "UNKNOWN"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "superpowers arming distant battlefields",
+        "description": "The late Cold War turns remote jungles, islands, and borderlands into places where outside powers send money, weapons, advisers, and elite troops while keeping their own hands partly hidden. What you'll see: helicopters over thick forest, mercenaries and commandos, captured dossiers, Soviet matériel, and local conflicts shadowed by foreign intelligence.",
+        "icon": "🚁"
+      }
+    ]
+  },
+  {
+    "movie_id": 105836,
+    "movie_idx": 4565,
+    "imdb_id": "tt0079115",
+    "title": "Escape from Hell",
+    "production_year": "1980",
+    "genre": "Adventure, Crime, Thriller",
+    "plot": "A women's prison camp is located deep in the tropical rain forest. Sadistic guards and a warden from hell make life almost unbearable for the inmates, and any infraction of the rules is dealt with swiftly and savagely. The camp doctor is horrified at what he sees happening, and drinks heavily to push the horror away. Finally the inmates have had had enough, and they enlist the help of the doctor to try and escape.",
+    "runtime": "93 min",
+    "director": "Edoardo Mulargia",
+    "actors": "Anthony Steffen, Ajita Wilson, Cristina Lay",
+    "production_country": "Spain, Italy",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNTZiYWYxMWUtMGMzNC00NDAzLThkNDQtNDE5ZjI0ZTZkZTg4XkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/105836.webp",
+    "imdb_rating": "4.7",
+    "imdb_votes": "693",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Escape_from_Hell_(1980_film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/105836.txt",
+    "plot_year_start": 1970,
+    "plot_year_end": 1970,
+    "epoch": "late-cold-war-era",
+    "action_countries": [
+      "UNKNOWN"
+    ],
+    "action_continents": [
+      "UNKNOWN"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "police and prisons ruling by humiliation",
+        "description": "State authority often appears as a harsh everyday machine, with wardens, guards, inspectors, and academy drillmasters enforcing order through ritual discipline and open abuse. What you'll see: intake searches, barking superiors, barred cells, baton drills, corrupt officials, and institutions that confuse punishment with justice.",
+        "icon": "⛓️"
+      }
+    ]
+  },
+  {
+    "movie_id": 1002125,
+    "movie_idx": 4969,
+    "imdb_id": "tt9848668",
+    "title": "Sea of Time",
+    "production_year": "2022",
+    "genre": "Drama",
+    "plot": "Two young people with a young child, living in the seventies, are full of ideas and dreams. They are madly in love with each other, but a disastrous accident during a sailing trip over the ocean, drifts them apart. Thirty-five years later, they meet again and there is still love, but also other strong emotions to cope with. Does she dare to entrust him a big secret from the past? Are they capable to cope with their loss together and has their love a second chance?",
+    "runtime": "116 min",
+    "director": "Theu Boermans",
+    "actors": "Sallie Harmsen, Reinout Scholten van Aschat, Elsie de Brauw",
+    "production_country": "Netherlands",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMzJiYmM3NWQtMDViMy00M2NmLWJjMjktY2YyZWQ4NmJkYmM2XkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/1002125.webp",
+    "imdb_rating": "7.5",
+    "imdb_votes": "1,375",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Woman_at_Sea",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/1002125.txt",
+    "plot_year_start": 1970,
+    "plot_year_end": 2005,
+    "epoch": "late-cold-war-era",
+    "action_countries": [
+      "UNKNOWN"
+    ],
+    "action_continents": [
+      "UNKNOWN"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "mass leisure opening new transient worlds",
+        "description": "Affordable travel, seasonal work, and holiday culture create temporary communities in resorts, ships, carnivals, and summer houses where strangers mix outside their usual supervision. What you'll see: Alpine lodgings, cruise decks, fairground caravans, seaside summers, vacation flirtations, and pleasure spaces that turn unstable after dark.",
+        "icon": "🏖️"
+      }
+    ]
+  },
+  {
+    "movie_id": 551,
+    "movie_idx": 5133,
+    "imdb_id": "tt0069113",
+    "title": "The Poseidon Adventure",
+    "production_year": "1972",
+    "genre": "Action, Adventure, Drama",
+    "plot": "A passenger ship, on her way to the scrap yard is pushed to her limits by the new owners to save on the dismantling fees. A tidal wave hits her, flipping her over so that all the internal rooms are upside down. A priest takes a mixed band of survivors on a journey through the bowels of the ship in an attempt to survive.",
+    "runtime": "117 min",
+    "director": "Ronald Neame",
+    "actors": "Gene Hackman, Ernest Borgnine, Shelley Winters",
+    "production_country": "United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNmMyNWRlMDgtMjg4ZS00ZTg3LTkxOWItMjVhMjEyZWJjOGYxXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/551.webp",
+    "imdb_rating": "7.1",
+    "imdb_votes": "53,497",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Poseidon_Adventure_(1972_film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/551.txt",
+    "plot_year_start": 1973,
+    "plot_year_end": 1973,
+    "epoch": "late-cold-war-era",
+    "action_countries": [
+      "UNKNOWN",
+      "GR",
+      "US"
+    ],
+    "action_continents": [
+      "UNKNOWN",
+      "Europe",
+      "North America"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "machines shrinking distance and deepening risk",
+        "description": "Jet travel, ocean engineering, heavy shipping, and advanced weapons make the world feel newly traversable, but they also spread danger farther and faster when systems fail. What you'll see: passenger liners, helicopters, underwater bases, control rooms, salvage operations, and people trapped inside complex machines they barely master.",
+        "icon": "✈️"
+      }
+    ]
+  },
+  {
+    "movie_id": 366799,
+    "movie_idx": 5442,
+    "imdb_id": "tt3661624",
+    "title": "Exorcismo Documentado",
+    "production_year": "2012",
+    "genre": "Horror",
+    "plot": "While a sixteen year old girl is possessed by an evil spirit, her mother tries to find help, but everything goes wrong with horrible consequences.",
+    "runtime": "116 min",
+    "director": "Rodrigo Estrada Alday",
+    "actors": "Daniela Castillo, José Manuel de la Puente, Roberto Díaz Gomar",
+    "production_country": "Guatemala",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYTNmMGY0MzYtMjMyZC00YzhjLTg5ZDItNzA4ZDdjNWVlNzlhXkEyXkFqcGdeQXVyNjUxMDIxMTU@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/366799.webp",
+    "imdb_rating": "6.4",
+    "imdb_votes": "87",
+    "plot_year_start": 1974,
+    "plot_year_end": 1974,
+    "epoch": "late-cold-war-era",
+    "action_countries": [
+      "UNKNOWN"
+    ],
+    "action_continents": [
+      "UNKNOWN"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "cults and gurus filling spiritual hunger",
+        "description": "Disillusion with old authorities leaves room for communes, self-purification programs, exorcists, and charismatic fathers who promise belonging, cleansing, or secret truth. What you'll see: remote compounds, rank titles, confession rituals, sermon-like speeches, possessed bodies, and believers surrendering judgment to a leader.",
+        "icon": "📿"
+      }
+    ],
+    "failures": {
+      "wikipedia": "no_wiki_article_found"
+    }
+  },
+  {
+    "movie_id": 284564,
+    "movie_idx": 6381,
+    "imdb_id": "tt3835080",
+    "title": "31",
+    "production_year": "2016",
+    "genre": "Horror, Thriller",
+    "plot": "The day before Halloween, five carnival employees are kidnapped &amp; held hostage in an isolated compound known as \"Murderworld\". On Halloween, they are thrown into a sadistic game called \"31\" where they must survive 12 hours against a gang of maniacs dressed like clowns. It's time to play 31.",
+    "runtime": "102 min",
+    "director": "Rob Zombie",
+    "actors": "Malcolm McDowell, Richard Brake, Jeff Daniel Phillips",
+    "production_country": "United Kingdom, United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNTE0NTMzNjE0NV5BMl5BanBnXkFtZTgwMzM4NTM3OTE@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/284564.webp",
+    "imdb_rating": "5.1",
+    "imdb_votes": "24,660",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/31_(film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/284564.txt",
+    "plot_year_start": 1976,
+    "plot_year_end": 1976,
+    "epoch": "late-cold-war-era",
+    "action_countries": [
+      "UNKNOWN"
+    ],
+    "action_continents": [
+      "UNKNOWN"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "cults and gurus filling spiritual hunger",
+        "description": "Disillusion with old authorities leaves room for communes, self-purification programs, exorcists, and charismatic fathers who promise belonging, cleansing, or secret truth. What you'll see: remote compounds, rank titles, confession rituals, sermon-like speeches, possessed bodies, and believers surrendering judgment to a leader.",
+        "icon": "📿"
+      }
+    ]
+  },
+  {
+    "movie_id": 469877,
+    "movie_idx": 6649,
+    "imdb_id": "tt6479178",
+    "title": "Picture of Beauty",
+    "production_year": "2017",
+    "genre": "Drama, Romance",
+    "plot": "Franek is a talented art forger and painter who along with his loyal assistant Hazel - herself a talented artist - are commisioned by a glamorous madam to produce a piece for her brothel to hopefully drum up more business. Although his subjects at the brothel are beautiful, he yearns for more and calls upon his assistant to find more models. Stephanie, a beautiful and strong minded political activist who freshly expelled from university for her views answers the call and takes an instant liking to the shy painter. Her young friend Julia would be a perfect subject too, but she has recently been arrested for escaping the bonds of her cruel and much older husband, who just happens to be an influential police officer. The group literally (and metaphorically) free Julia meaning that Franek can hopefully complete what should be his masterpiece and hopefully find love for himself.",
+    "runtime": "70 min",
+    "director": "Maxim Ford",
+    "actors": "Taylor Sands, Danielle Rose, Pawel Hajnos",
+    "production_country": "United Kingdom",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMDhjOWFlMzktMzBmNS00N2JkLTk4ZjItMTE1OTAzNzAwM2IzXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/469877.webp",
+    "imdb_rating": "3.5",
+    "imdb_votes": "2,122",
+    "wikipedia_url": "https://fr.wikipedia.org/wiki/Picture_of_Beauty",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/469877.txt",
+    "plot_year_start": 1970,
+    "plot_year_end": 1970,
+    "epoch": "late-cold-war-era",
+    "action_countries": [
+      "UNKNOWN"
+    ],
+    "action_continents": [
+      "UNKNOWN"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "sex becoming public and commercial",
+        "description": "Erotic life is no longer kept wholly behind closed doors, as loosening censorship and new markets turn desire into spectacle, business, and public argument. What you'll see: soft-focus bedrooms, adult theatres and magazines, liberated holiday flirtation, sexual experimentation, and constant friction between permissiveness and shame.",
+        "icon": "💋"
+      },
+      {
+        "label": "women testing the old moral order",
+        "description": "Across these years, older rules about sex, marriage, childbirth, and obedience are being challenged, but law, family, and custom still punish women who step outside them. What you'll see: illegal clinics, university expulsions, divorce and custody strain, predatory bosses, brothels, and arguments over respectability and freedom.",
+        "icon": "👩"
+      }
+    ]
+  },
+  {
+    "movie_id": 14372,
+    "movie_idx": 6686,
+    "imdb_id": "tt0097737",
+    "title": "Leviathan",
+    "production_year": "1989",
+    "genre": "Adventure, Horror, Mystery",
+    "plot": "Underwater deep-sea miners encounter a Soviet wreck and bring back a dangerous cargo to their base on the ocean floor with horrifying results. The crew of the mining base must fight to survive against a genetic mutation that hunts them down one by one.",
+    "runtime": "98 min",
+    "director": "George P. Cosmatos",
+    "actors": "Peter Weller, Richard Crenna, Amanda Pays",
+    "production_country": "Italy, United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjIxZTQ1OGEtZGY3OS00MGNlLWExM2YtZTkwNjdjMzJhMDA4XkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/14372.webp",
+    "imdb_rating": "5.8",
+    "imdb_votes": "26,676",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Leviathan_(1989_film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/14372.txt",
+    "plot_year_start": 1989,
+    "plot_year_end": 1989,
+    "epoch": "late-cold-war-era",
+    "action_countries": [
+      "UNKNOWN"
+    ],
+    "action_continents": [
+      "UNKNOWN"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "machines shrinking distance and deepening risk",
+        "description": "Jet travel, ocean engineering, heavy shipping, and advanced weapons make the world feel newly traversable, but they also spread danger farther and faster when systems fail. What you'll see: passenger liners, helicopters, underwater bases, control rooms, salvage operations, and people trapped inside complex machines they barely master.",
+        "icon": "✈️"
+      }
+    ]
+  },
+  {
+    "movie_id": 950849,
+    "movie_idx": 7944,
+    "imdb_id": "tt14778456",
+    "title": "Angry Annie",
+    "production_year": "2022",
+    "genre": "Comedy, Drama",
+    "plot": "Annie becomes pregnant. Since she doesn't want to keep the child, she meets a movement that performs illegal abortions in the eyes of the world. But, in the seventies, Annie will encounter allies and opponents along the way.",
+    "runtime": "119 min",
+    "director": "Blandine Lenoir",
+    "actors": "Laure Calamy, Zita Hanrot, India Hair",
+    "production_country": "France",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNjRjMzZjMjMtNTAyOS00YTQ0LWFhNTUtZWQ0NmZhODY4MTQwXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/950849.webp",
+    "imdb_rating": "N/A",
+    "imdb_votes": "860",
+    "plot_year_start": 1970,
+    "plot_year_end": 1979,
+    "epoch": "late-cold-war-era",
+    "action_countries": [
+      "UNKNOWN"
+    ],
+    "action_continents": [
+      "UNKNOWN"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "women testing the old moral order",
+        "description": "Across these years, older rules about sex, marriage, childbirth, and obedience are being challenged, but law, family, and custom still punish women who step outside them. What you'll see: illegal clinics, university expulsions, divorce and custody strain, predatory bosses, brothels, and arguments over respectability and freedom.",
+        "icon": "👩"
+      }
+    ],
+    "failures": {
+      "wikipedia": "no_wiki_article_found"
+    }
+  },
+  {
+    "movie_id": 296626,
+    "movie_idx": 7978,
+    "imdb_id": "tt3534842",
+    "title": "Finders Keepers",
+    "production_year": "2014",
+    "genre": "Horror, Mystery, Thriller",
+    "plot": "A divorced mother of one is thrown into turmoil when her young daughter becomes obsessed with an evil doll left behind by the previous occupants of their new home.",
+    "runtime": "88 min",
+    "director": "Alexander Yellen",
+    "actors": "Jaime Pressly, Patrick Muldoon, Tobin Bell",
+    "production_country": "United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjA2NDM2OTY3MF5BMl5BanBnXkFtZTgwNjY0NDAxMzE@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/296626.webp",
+    "imdb_rating": "4.3",
+    "imdb_votes": "3,636",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Finders_Keepers",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/296626.txt",
+    "plot_year_start": 1984,
+    "plot_year_end": 1984,
+    "epoch": "late-cold-war-era",
+    "action_countries": [
+      "UNKNOWN"
+    ],
+    "action_continents": [
+      "UNKNOWN"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "cities learning to live with unrest",
+        "description": "Many towns and capitals are imagined as crowded, crime-plagued, and fraying at the edges, with authorities improvising to keep order and ordinary people expecting disorder as part of life. What you'll see: academy barracks, street riots, sirens, public disorder, understaffed institutions, and a constant sense that rules are slipping.",
+        "icon": "🚨"
+      }
+    ]
+  },
+  {
+    "movie_id": 50435,
+    "movie_idx": 8497,
+    "imdb_id": "tt0075753",
+    "title": "Bilitis",
+    "production_year": "1977",
+    "genre": "Drama, Romance",
+    "plot": "A coming of age story centering on the exploits of a young girl during summer vacation.",
+    "runtime": "95 min",
+    "director": "David Hamilton",
+    "actors": "Patti D'Arbanville, Mona Kristensen, Bernard Giraudeau",
+    "production_country": "France",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTI1NTUwODk5MV5BMl5BanBnXkFtZTcwMzQyNjkzMQ@@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/50435.webp",
+    "imdb_rating": "5.3",
+    "imdb_votes": "2,665",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Bilitis_(film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/50435.txt",
+    "plot_year_start": 1977,
+    "plot_year_end": 1977,
+    "epoch": "late-cold-war-era",
+    "action_countries": [
+      "UNKNOWN"
+    ],
+    "action_continents": [
+      "UNKNOWN"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "sex becoming public and commercial",
+        "description": "Erotic life is no longer kept wholly behind closed doors, as loosening censorship and new markets turn desire into spectacle, business, and public argument. What you'll see: soft-focus bedrooms, adult theatres and magazines, liberated holiday flirtation, sexual experimentation, and constant friction between permissiveness and shame.",
+        "icon": "💋"
+      }
+    ]
+  },
+  {
+    "movie_id": 12268,
+    "movie_idx": 8812,
+    "imdb_id": "tt0075066",
+    "title": "The Pink Panther Strikes Again",
+    "production_year": "1976",
+    "genre": "Comedy, Crime",
+    "plot": "Charles Dreyfus (Herbert Lom) escapes from the mental asylum and tries to kill Chief Inspector Jacques Clouseau (Peter Sellers). He doesn't succeed at first, so he takes on another strategy, namely to build a Doomsday machine and demand that someone else kills Jacques Clouseau, or Dreyfus will use the machine to wipe out whole cities and even whole countries. With about twenty-six assassins from all over the globe on his tail, Clouseau decides to find Dreyfus alone and put him back in the mental asylum.",
+    "runtime": "103 min",
+    "director": "Blake Edwards",
+    "actors": "Peter Sellers, Herbert Lom, Lesley-Anne Down",
+    "production_country": "United Kingdom, United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMzdhZDYxYjktYjdhOS00MDAyLTk3YjgtNTc5ZmVmYmVjMjJiXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/12268.webp",
+    "imdb_rating": "7.1",
+    "imdb_votes": "33,587",
+    "wikipedia_url": "https://simple.wikipedia.org/wiki/The_Pink_Panther_Strikes_Again",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/12268.txt",
+    "plot_year_start": 1976,
+    "plot_year_end": 1976,
+    "epoch": "late-cold-war-era",
+    "action_countries": [
+      "UNKNOWN"
+    ],
+    "action_continents": [
+      "UNKNOWN"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "superpowers arming distant battlefields",
+        "description": "The late Cold War turns remote jungles, islands, and borderlands into places where outside powers send money, weapons, advisers, and elite troops while keeping their own hands partly hidden. What you'll see: helicopters over thick forest, mercenaries and commandos, captured dossiers, Soviet matériel, and local conflicts shadowed by foreign intelligence.",
+        "icon": "🚁"
+      }
+    ]
+  },
+  {
+    "movie_id": 65733,
+    "movie_idx": 9250,
+    "imdb_id": "tt0084634",
+    "title": "An Ideal Adventure",
+    "production_year": "1982",
+    "genre": "Comedy, Crime",
+    "plot": "Patricia, a journalist, is fed up with all the stupid chores and being ridiculed by her colleagues. To show her talent, she challenges her director Eugenio to test her. She will write a good article, but if she fails she will sleep with him.",
+    "runtime": "96 min",
+    "director": "Steno",
+    "actors": "Edwige Fenech, Diego Abatantuono, Liù Bosisio",
+    "production_country": "Italy",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMDk3MTkxNjYtNmQ1Ny00MzI3LWE1ZWUtOTFlMzdlYWRlNmZmXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/65733.webp",
+    "imdb_rating": "5.1",
+    "imdb_votes": "390",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/An_Ideal_Adventure",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/65733.txt",
+    "plot_year_start": 1982,
+    "plot_year_end": 1982,
+    "epoch": "late-cold-war-era",
+    "action_countries": [
+      "UNKNOWN"
+    ],
+    "action_continents": [
+      "UNKNOWN"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "television crews chasing ever stranger stories",
+        "description": "Cheap cameras, magazines, and broadcast news make reporters and documentary makers part of public life, feeding an appetite for scandal, extremity, and the exotic. What you'll see: handheld interviews, intrusive microphones, tabloid offices, journalists on assignment, and the uneasy trade between exposure and exploitation.",
+        "icon": "🎥"
+      },
+      {
+        "label": "women testing the old moral order",
+        "description": "Across these years, older rules about sex, marriage, childbirth, and obedience are being challenged, but law, family, and custom still punish women who step outside them. What you'll see: illegal clinics, university expulsions, divorce and custody strain, predatory bosses, brothels, and arguments over respectability and freedom.",
+        "icon": "👩"
+      }
+    ]
+  },
+  {
+    "movie_id": 211067,
+    "movie_idx": 9354,
+    "imdb_id": "tt2383068",
+    "title": "The Sacrament",
+    "production_year": "2013",
+    "genre": "Horror, Thriller",
+    "plot": "The journalist Patrick works at the VICE, a company dedicated to cover bizarre news. When his sister Caroline joins a community, she travels abroad with her new family. Out of the blue, Caroline invites her brother to visit her in an undefined country and Patrick travels by helicopter with his friends Jake and Sam that work with him at VICE. They find weird that the men that have come to guide them to the Eden Parish have guns. On the arrival to the camp, Patrick, Sam and Jake find a community of happy people that worship Father. They interview Father but soon they realize that people are not as happy as they seem to be. Further, they find that they are trapped in the Parish Eden and they want to leave the place with the newcomers. But the Father does not have intention to let them go.",
+    "runtime": "99 min",
+    "director": "Ti West",
+    "actors": "Joe Swanberg, AJ Bowen, Kentucker Audley",
+    "production_country": "United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjE1ODg1MzM3Ml5BMl5BanBnXkFtZTgwMDg3NDQyMTE@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/211067.webp",
+    "imdb_rating": "6.1",
+    "imdb_votes": "21,676",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Sacrament_(2013_film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/211067.txt",
+    "plot_year_start": 1978,
+    "plot_year_end": 1978,
+    "epoch": "late-cold-war-era",
+    "action_countries": [
+      "UNKNOWN"
+    ],
+    "action_continents": [
+      "UNKNOWN"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "cults and gurus filling spiritual hunger",
+        "description": "Disillusion with old authorities leaves room for communes, self-purification programs, exorcists, and charismatic fathers who promise belonging, cleansing, or secret truth. What you'll see: remote compounds, rank titles, confession rituals, sermon-like speeches, possessed bodies, and believers surrendering judgment to a leader.",
+        "icon": "📿"
+      }
+    ]
+  }
+]

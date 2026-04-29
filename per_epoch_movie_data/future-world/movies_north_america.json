@@ -1,0 +1,2488 @@
+[
+  {
+    "movie_id": 569094,
+    "movie_idx": 25,
+    "imdb_id": "tt9362722",
+    "title": "Spider-Man: Across the Spider-Verse",
+    "production_year": "2023",
+    "genre": "Animation, Action, Adventure",
+    "plot": "Miles Morales returns for the next chapter of the Oscar®-winning Spider-Verse saga, an epic adventure that will transport Brooklyn's full-time, friendly neighborhood Spider-Man across the Multiverse to join forces with Gwen Stacy and a new team of Spider-People to face off with a villain more powerful than anything they have ever encountered.",
+    "runtime": "140 min",
+    "director": "Joaquim Dos Santos, Kemp Powers, Justin K. Thompson",
+    "actors": "Shameik Moore, Hailee Steinfeld, Brian Tyree Henry",
+    "production_country": "United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNThiZjA3MjItZGY5Ni00ZmJhLWEwN2EtOTBlYTA4Y2E0M2ZmXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/569094.webp",
+    "imdb_rating": "8.5",
+    "imdb_votes": "509,515",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Spider-Man:_Across_the_Spider-Verse",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/569094.txt",
+    "plot_year_start": 2099,
+    "plot_year_end": 2099,
+    "epoch": "future-world",
+    "action_countries": [
+      "US",
+      "IN",
+      "UNKNOWN"
+    ],
+    "action_continents": [
+      "North America",
+      "Asia",
+      "UNKNOWN"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "screens and simulations swallowing ordinary experience",
+        "description": "Many people live through mediated realities, memory devices, or game systems that are more alluring than the hard world around them. What you'll see: immersive headsets, holograms, recorded memories replayed like rooms, remote-controlled bodies, and whole neighborhoods lit by synthetic spectacle.",
+        "icon": "🕶️"
+      },
+      {
+        "label": "frontiers survive as wasteland and salvage",
+        "description": "Even with advanced devices, much of the continent remains patchy, lawless, or half-collapsed, so people still barter, scavenge, and rebuild from wreckage. What you'll see: stripped vehicles, black markets in machine parts, roadside settlements, abandoned suburbs, homemade gear, and long travel through empty country.",
+        "icon": "🛠️"
+      }
+    ]
+  },
+  {
+    "movie_id": 670292,
+    "movie_idx": 77,
+    "imdb_id": "tt11858890",
+    "title": "The Creator",
+    "production_year": "2023",
+    "genre": "Action, Adventure, Drama",
+    "plot": "Against the backdrop of a war between humans and robots with artificial intelligence, a former soldier finds the robots' secret weapon to end the conflict, an AI in the form of a child.",
+    "runtime": "133 min",
+    "director": "Gareth Edwards",
+    "actors": "John David Washington, Madeleine Yuna Voyles, Gemma Chan",
+    "production_country": "United States, Japan, Cambodia",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMDkxMTUxOTQtYzM4Yi00YzA2LTgzOTYtNDg2NTliODE0ZTRjXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/670292.webp",
+    "imdb_rating": "6.7",
+    "imdb_votes": "194,415",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Creator_(2023_film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/670292.txt",
+    "plot_year_start": 2070,
+    "plot_year_end": 2070,
+    "epoch": "future-world",
+    "action_countries": [
+      "US",
+      "UNKNOWN"
+    ],
+    "action_continents": [
+      "North America",
+      "UNKNOWN"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "war pushes life into permanent mobilization",
+        "description": "Alien attack, machine uprising, and planetary peril make military planning seep into civilian life, turning research, transport, and labour toward survival. What you'll see: recruitment drives, defense corps drills, giant war machines, orbital stations, ruined battle zones, and households living under alerts and casualty reports.",
+        "icon": "🪖"
+      },
+      {
+        "label": "states ruling through fear and exception",
+        "description": "Public order is often kept not by steady law but by emergency powers, ritualized violence, surveillance, and officials who suspend mercy in the name of security. What you'll see: armed patrols, annual kill nights, prison experiments, barricaded capitals, biometric scans, and loud state messages promising protection.",
+        "icon": "🚨"
+      }
+    ]
+  },
+  {
+    "movie_id": 588228,
+    "movie_idx": 123,
+    "imdb_id": "tt9777666",
+    "title": "The Tomorrow War",
+    "production_year": "2021",
+    "genre": "Action, Adventure, Drama",
+    "plot": "The world is stunned when a group of time travelers arrive from the year 2051 to deliver an urgent message: Thirty years in the future, mankind is losing a global war against a deadly alien species. The only hope for survival is for soldiers and civilians from the present to be transported to the future and join the fight. Among those recruited is high school teacher and family man Dan Forester (Chris Pratt). Determined to save the world for his young daughter, Dan teams up with a brilliant scientist (Yvonne Strahovski) and his estranged father (J.K. Simmons) in a desperate quest to rewrite the fate of the planet.",
+    "runtime": "138 min",
+    "director": "Chris McKay",
+    "actors": "Chris Pratt, Yvonne Strahovski, J.K. Simmons",
+    "production_country": "United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYmUyNzY2YWYtNWQ0My00ODMwLTkwOTQtOTA0ZjM0MjRmYjJiXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/588228.webp",
+    "imdb_rating": "6.6",
+    "imdb_votes": "251,689",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Tomorrow_War",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/588228.txt",
+    "plot_year_start": 2022,
+    "plot_year_end": 2051,
+    "epoch": "future-world",
+    "action_countries": [
+      "US",
+      "DO",
+      "RU"
+    ],
+    "action_continents": [
+      "North America",
+      "North America",
+      "Europe"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "war pushes life into permanent mobilization",
+        "description": "Alien attack, machine uprising, and planetary peril make military planning seep into civilian life, turning research, transport, and labour toward survival. What you'll see: recruitment drives, defense corps drills, giant war machines, orbital stations, ruined battle zones, and households living under alerts and casualty reports.",
+        "icon": "🪖"
+      },
+      {
+        "label": "broken climates remaking american landscapes",
+        "description": "The land itself has turned unstable through flood, heat, blight, drought, and poisoned weather, forcing people inland, upward, or into salvage living. What you'll see: half-drowned coasts, dust-choked farms, seawalls, dead crops, sun-bleached ruins, and cities surviving beside rising water.",
+        "icon": "🌊"
+      }
+    ]
+  },
+  {
+    "movie_id": 157336,
+    "movie_idx": 209,
+    "imdb_id": "tt0816692",
+    "title": "Interstellar",
+    "production_year": "2014",
+    "genre": "Adventure, Drama, Sci-Fi",
+    "plot": "Earth's future has been riddled by disasters, famines, and droughts. There is only one way to ensure mankind's survival: Interstellar travel. A newly discovered wormhole in the far reaches of our solar system allows a team of astronauts to go where no man has gone before, a planet that may have the right environment to sustain human life.",
+    "runtime": "169 min",
+    "director": "Christopher Nolan",
+    "actors": "Matthew McConaughey, Anne Hathaway, Jessica Chastain",
+    "production_country": "United States, United Kingdom, Canada",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYzdjMDAxZGItMjI2My00ODA1LTlkNzItOWFjMDU5ZDJlYWY3XkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/157336.webp",
+    "imdb_rating": "8.7",
+    "imdb_votes": "2,472,939",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Interstellar_(film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/157336.txt",
+    "plot_year_start": 2067,
+    "plot_year_end": 2127,
+    "epoch": "future-world",
+    "action_countries": [
+      "US",
+      "UNKNOWN"
+    ],
+    "action_continents": [
+      "North America",
+      "UNKNOWN"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "broken climates remaking american landscapes",
+        "description": "The land itself has turned unstable through flood, heat, blight, drought, and poisoned weather, forcing people inland, upward, or into salvage living. What you'll see: half-drowned coasts, dust-choked farms, seawalls, dead crops, sun-bleached ruins, and cities surviving beside rising water.",
+        "icon": "🌊"
+      },
+      {
+        "label": "frontiers survive as wasteland and salvage",
+        "description": "Even with advanced devices, much of the continent remains patchy, lawless, or half-collapsed, so people still barter, scavenge, and rebuild from wreckage. What you'll see: stripped vehicles, black markets in machine parts, roadside settlements, abandoned suburbs, homemade gear, and long travel through empty country.",
+        "icon": "🛠️"
+      }
+    ]
+  },
+  {
+    "movie_id": 335984,
+    "movie_idx": 310,
+    "imdb_id": "tt1856101",
+    "title": "Blade Runner 2049",
+    "production_year": "2017",
+    "genre": "Action, Drama, Mystery",
+    "plot": "Thirty years after the events of Blade Runner (1982), a new Blade Runner, L.A.P.D. Officer \"K\" (Ryan Gosling), unearths a long-buried secret that has the potential to plunge what's left of society into chaos. K's discovery leads him on a quest to find Rick Deckard (Harrison Ford), a former L.A.P.D. Blade Runner, who has been missing for thirty years.",
+    "runtime": "164 min",
+    "director": "Denis Villeneuve",
+    "actors": "Harrison Ford, Ryan Gosling, Ana de Armas",
+    "production_country": "Spain, Canada, United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNzA1Njg4NzYxOV5BMl5BanBnXkFtZTgwODk5NjU3MzI@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+    "poster_file": "data/processed/posters/335984.webp",
+    "imdb_rating": "8.0",
+    "imdb_votes": "751,317",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Blade_Runner_2049",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/335984.txt",
+    "plot_year_start": 2049,
+    "plot_year_end": 2049,
+    "epoch": "future-world",
+    "action_countries": [
+      "US"
+    ],
+    "action_continents": [
+      "North America"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "android servants becoming part of daily life",
+        "description": "Human-shaped machines have moved from workshop marvels into homes, streets, beds, police files, and hired service, even as people argue over whether they are property or persons. What you'll see: household robots, synthetic companions, replicant labour, machine faces passing for human, and tests meant to prove who is real.",
+        "icon": "🤖"
+      },
+      {
+        "label": "wealth and safety split from the masses",
+        "description": "Future society is sharply tiered, with clean enclaves, long life, and advanced treatment reserved for the fortunate while crowded districts and ruined ground are left to everyone else. What you'll see: guarded towers, off-world havens, checkpoints, slums, worn streets under giant screens, and desperate movement across forbidden boundaries.",
+        "icon": "🏙️"
+      }
+    ]
+  },
+  {
+    "movie_id": 624860,
+    "movie_idx": 527,
+    "imdb_id": "tt10838180",
+    "title": "The Matrix Resurrections",
+    "production_year": "2021",
+    "genre": "Action, Sci-Fi",
+    "plot": "Return to a world of two realities: one, everyday life; the other, what lies behind it. To find out if his reality is a construct, to truly know himself, Mr. Anderson will have to choose to follow the white rabbit once more.",
+    "runtime": "148 min",
+    "director": "Lana Wachowski",
+    "actors": "Keanu Reeves, Carrie-Anne Moss, Yahya Abdul-Mateen II",
+    "production_country": "United States, Australia",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMDMyNDIzYzMtZTMyMy00NjUyLWI3Y2MtYzYzOGE1NzQ1MTBiXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/624860.webp",
+    "imdb_rating": "5.6",
+    "imdb_votes": "301,242",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Matrix_Resurrections",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/624860.txt",
+    "plot_year_start": 2081,
+    "plot_year_end": 2081,
+    "epoch": "future-world",
+    "action_countries": [
+      "US",
+      "UNKNOWN"
+    ],
+    "action_continents": [
+      "North America",
+      "UNKNOWN"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "The Matrix",
+    "categories": [
+      {
+        "label": "screens and simulations swallowing ordinary experience",
+        "description": "Many people live through mediated realities, memory devices, or game systems that are more alluring than the hard world around them. What you'll see: immersive headsets, holograms, recorded memories replayed like rooms, remote-controlled bodies, and whole neighborhoods lit by synthetic spectacle.",
+        "icon": "🕶️"
+      }
+    ]
+  },
+  {
+    "movie_id": 602223,
+    "movie_idx": 626,
+    "imdb_id": "tt10327252",
+    "title": "The Forever Purge",
+    "production_year": "2021",
+    "genre": "Action, Crime, Drama",
+    "plot": "All the rules are broken as a sect of lawless marauders decides that the annual Purge does not stop at daybreak and instead should never end.",
+    "runtime": "103 min",
+    "director": "Everardo Gout",
+    "actors": "Ana de la Reguera, Tenoch Huerta, Josh Lucas",
+    "production_country": "China, United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZWVmYmE5ZWQtY2E3NC00Mzk1LWEzMzYtNjkyM2E0MGY0MjcxXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/602223.webp",
+    "imdb_rating": "5.4",
+    "imdb_votes": "47,804",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Forever_Purge",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/602223.txt",
+    "plot_year_start": 2048,
+    "plot_year_end": 2049,
+    "epoch": "future-world",
+    "action_countries": [
+      "US",
+      "MX",
+      "CA"
+    ],
+    "action_continents": [
+      "North America",
+      "North America",
+      "North America"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "states ruling through fear and exception",
+        "description": "Public order is often kept not by steady law but by emergency powers, ritualized violence, surveillance, and officials who suspend mercy in the name of security. What you'll see: armed patrols, annual kill nights, prison experiments, barricaded capitals, biometric scans, and loud state messages promising protection.",
+        "icon": "🚨"
+      },
+      {
+        "label": "wealth and safety split from the masses",
+        "description": "Future society is sharply tiered, with clean enclaves, long life, and advanced treatment reserved for the fortunate while crowded districts and ruined ground are left to everyone else. What you'll see: guarded towers, off-world havens, checkpoints, slums, worn streets under giant screens, and desperate movement across forbidden boundaries.",
+        "icon": "🏙️"
+      }
+    ]
+  },
+  {
+    "movie_id": 333339,
+    "movie_idx": 688,
+    "imdb_id": "tt1677720",
+    "title": "Ready Player One",
+    "production_year": "2018",
+    "genre": "Action, Adventure, Sci-Fi",
+    "plot": "In the year 2045, the real world is a harsh place. The only time Wade Watts (Tye Sheridan) truly feels alive is when he escapes to the OASIS, an immersive virtual universe where most of humanity spends their days. In the OASIS, you can go anywhere, do anything, be anyone-the only limits are your own imagination. The OASIS was created by the brilliant and eccentric James Halliday (Mark Rylance), who left his immense fortune and total control of the Oasis to the winner of a three-part contest he designed to find a worthy heir. When Wade conquers the first challenge of the reality-bending treasure hunt, he and his friends-aka the High Five-are hurled into a fantastical universe of discovery and danger to save the OASIS.",
+    "runtime": "140 min",
+    "director": "Steven Spielberg",
+    "actors": "Tye Sheridan, Olivia Cooke, Ben Mendelsohn",
+    "production_country": "United States, India, Singapore, Canada, United Kingdom, Japan, Australia",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNzVkMTgzODQtMWIwZC00NzE4LTgzZjYtMzAwM2I5OGZhNjE4XkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/333339.webp",
+    "imdb_rating": "7.4",
+    "imdb_votes": "536,233",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Ready_Player_One_(film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/333339.txt",
+    "plot_year_start": 2045,
+    "plot_year_end": 2045,
+    "epoch": "future-world",
+    "action_countries": [
+      "US"
+    ],
+    "action_continents": [
+      "North America"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "screens and simulations swallowing ordinary experience",
+        "description": "Many people live through mediated realities, memory devices, or game systems that are more alluring than the hard world around them. What you'll see: immersive headsets, holograms, recorded memories replayed like rooms, remote-controlled bodies, and whole neighborhoods lit by synthetic spectacle.",
+        "icon": "🕶️"
+      },
+      {
+        "label": "wealth and safety split from the masses",
+        "description": "Future society is sharply tiered, with clean enclaves, long life, and advanced treatment reserved for the fortunate while crowded districts and ruined ground are left to everyone else. What you'll see: guarded towers, off-world havens, checkpoints, slums, worn streets under giant screens, and desperate movement across forbidden boundaries.",
+        "icon": "🏙️"
+      }
+    ]
+  },
+  {
+    "movie_id": 49530,
+    "movie_idx": 806,
+    "imdb_id": "tt1637688",
+    "title": "In Time",
+    "production_year": "2011",
+    "genre": "Action, Sci-Fi, Thriller",
+    "plot": "Welcome to a world where time has become the ultimate currency. You stop aging at 25, but there's a catch: you're genetically-engineered to live only one more year, unless you can buy your way out of it. The rich \"earn\" decades at a time (remaining at age 25), becoming essentially immortal, while the rest beg, borrow or steal enough hours to make it through the day. When a man from the wrong side of the tracks is falsely accused of murder, he is forced to go on the run with a beautiful hostage. Living minute to minute, the duo's love becomes a powerful tool in their war against the system.",
+    "runtime": "109 min",
+    "director": "Andrew Niccol",
+    "actors": "Justin Timberlake, Amanda Seyfried, Cillian Murphy",
+    "production_country": "United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjA3NzI1ODc1MV5BMl5BanBnXkFtZTcwMzI5NjQwNg@@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/49530.webp",
+    "imdb_rating": "6.7",
+    "imdb_votes": "480,879",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/In_Time",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/49530.txt",
+    "plot_year_start": 2169,
+    "plot_year_end": 2169,
+    "epoch": "future-world",
+    "action_countries": [
+      "US"
+    ],
+    "action_continents": [
+      "North America"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "wealth and safety split from the masses",
+        "description": "Future society is sharply tiered, with clean enclaves, long life, and advanced treatment reserved for the fortunate while crowded districts and ruined ground are left to everyone else. What you'll see: guarded towers, off-world havens, checkpoints, slums, worn streets under giant screens, and desperate movement across forbidden boundaries.",
+        "icon": "🏙️"
+      }
+    ]
+  },
+  {
+    "movie_id": 877703,
+    "movie_idx": 861,
+    "imdb_id": "tt15486810",
+    "title": "Teen Wolf: The Movie",
+    "production_year": "2023",
+    "genre": "Action, Comedy, Crime",
+    "plot": "A terrifying evil has emerged. The wolves howl once again, but only a Werewolf like Scott McCall, can gather both new allies and reunite trusted friends to fight back against what could be the most powerful and deadliest enemy.",
+    "runtime": "141 min",
+    "director": "Russell Mulcahy",
+    "actors": "Tyler Posey, Crystal Reed, Holland Roden",
+    "production_country": "United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZjZhOTliNTMtZGVlOS00NDgwLWE5MzctM2VlNTY1OWE3YzRiXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/877703.webp",
+    "imdb_rating": "5.6",
+    "imdb_votes": "16,260",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Teen_Wolf:_The_Movie",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/877703.txt",
+    "plot_year_start": 2038,
+    "plot_year_end": 2038,
+    "epoch": "future-world",
+    "action_countries": [
+      "US"
+    ],
+    "action_continents": [
+      "North America"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Teen Wolf",
+    "categories": [
+      {
+        "label": "old faiths persist beside strange futures",
+        "description": "However advanced the setting becomes, people still interpret the world through scripture, prophecy, cosmic awe, cult devotion, and fears of damnation. What you'll see: sacred books guarded like treasure, apocalyptic preaching, pilgrims and believers, visions of higher beings, and ritual language spoken amid advanced devices.",
+        "icon": "📖"
+      }
+    ]
+  },
+  {
+    "movie_id": 18,
+    "movie_idx": 927,
+    "imdb_id": "tt0119116",
+    "title": "The Fifth Element",
+    "production_year": "1997",
+    "genre": "Action, Adventure, Sci-Fi",
+    "plot": "In the twenty-third century, the universe is threatened by evil. The only hope for mankind is the Fifth Element, who comes to Earth every five thousand years to protect the humans with four stones of the four elements: fire, water, Earth and air. A Mondoshawan spacecraft is bringing The Fifth Element back to Earth but it is destroyed by the evil Mangalores. However, a team of scientists use the DNA of the remains of the Fifth Element to rebuild the perfect being called Leeloo. She escapes from the laboratory and stumbles upon the taxi driver and former elite commando Major Korben Dallas that helps her to escape from the police. Leeloo tells him that she must meet Father Vito Cornelius to accomplish her mission. Meanwhile, the Evil uses the greedy and cruel Jean-Baptiste Emanuel Zorg and a team of mercenary Mangalores to retrieve the stones and avoid the protection of Leeloo. But the skilled Korben Dallas has fallen in love with Leeloo and decides to help her to retrieve the stones.",
+    "runtime": "126 min",
+    "director": "Luc Besson",
+    "actors": "Bruce Willis, Milla Jovovich, Gary Oldman",
+    "production_country": "France, United Kingdom",
+    "poster": "https://m.media-amazon.com/images/M/MV5BODU4ZTE5MWYtNmY2MC00NDkyLTk0NDgtNTk5YjgzMzc4NmQwXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/18.webp",
+    "imdb_rating": "7.6",
+    "imdb_votes": "539,521",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Fifth_Element",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/18.txt",
+    "plot_year_start": 2201,
+    "plot_year_end": 2300,
+    "epoch": "future-world",
+    "action_countries": [
+      "US",
+      "EG",
+      "MU",
+      "UNKNOWN"
+    ],
+    "action_continents": [
+      "North America",
+      "Africa",
+      "Africa",
+      "UNKNOWN"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "wealth and safety split from the masses",
+        "description": "Future society is sharply tiered, with clean enclaves, long life, and advanced treatment reserved for the fortunate while crowded districts and ruined ground are left to everyone else. What you'll see: guarded towers, off-world havens, checkpoints, slums, worn streets under giant screens, and desperate movement across forbidden boundaries.",
+        "icon": "🏙️"
+      },
+      {
+        "label": "broken climates remaking american landscapes",
+        "description": "The land itself has turned unstable through flood, heat, blight, drought, and poisoned weather, forcing people inland, upward, or into salvage living. What you'll see: half-drowned coasts, dust-choked farms, seawalls, dead crops, sun-bleached ruins, and cities surviving beside rising water.",
+        "icon": "🌊"
+      }
+    ]
+  },
+  {
+    "movie_id": 353577,
+    "movie_idx": 931,
+    "imdb_id": "tt2183014",
+    "title": "Love at First Sight",
+    "production_year": "2023",
+    "genre": "Drama, Romance",
+    "plot": "When a 17 year old girl, Hadley, misses her flight from JFK to London, she meets a British boy, Oliver, who happens to be in her row on the airplane. When Hadley and Oliver lose each other, when they get to London, will fare bring them together or will they be torn apart forever?",
+    "runtime": "91 min",
+    "director": "Vanessa Caswill",
+    "actors": "Haley Lu Richardson, Ben Hardy, Rob Delaney",
+    "production_country": "United States, United Kingdom",
+    "poster": "https://m.media-amazon.com/images/M/MV5BOTY0M2EyNGUtYmZiYi00MTVlLThkMWMtMjNkZjg5Nzg2NjRmXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/353577.webp",
+    "imdb_rating": "6.8",
+    "imdb_votes": "39,628",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Love_at_First_Sight_(2023_film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/353577.txt",
+    "plot_year_start": 2023,
+    "plot_year_end": 2081,
+    "epoch": "future-world",
+    "action_countries": [
+      "US",
+      "GB"
+    ],
+    "action_continents": [
+      "North America",
+      "Europe"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "wealth and safety split from the masses",
+        "description": "Future society is sharply tiered, with clean enclaves, long life, and advanced treatment reserved for the fortunate while crowded districts and ruined ground are left to everyone else. What you'll see: guarded towers, off-world havens, checkpoints, slums, worn streets under giant screens, and desperate movement across forbidden boundaries.",
+        "icon": "🏙️"
+      }
+    ]
+  },
+  {
+    "movie_id": 268896,
+    "movie_idx": 950,
+    "imdb_id": "tt2557478",
+    "title": "Pacific Rim: Uprising",
+    "production_year": "2018",
+    "genre": "Action, Adventure, Sci-Fi",
+    "plot": "It is 2035, ten years after the Battle of the Breach, in which the inter-dimensional portal created by the Precursors (through which they sent marauding Kaiju) was closed. Former Jaeger pilot Jake Pentecost - son of Battle of the Breach hero Stacker Pentecost - makes a living by stealing and selling Jaeger parts on the black market in the Los Angeles area. After he tracks part of a disabled Jaeger's power core to the secret workshop of fifteen year-old Jaeger enthusiast Amara Namani, both are arrested by the Pan-Pacific Defense Corps (PPDC) after an altercation between Amara's small, single-pilot Jaeger Scrapper and the Police Jaeger November Ajax. A holographic transmission of Jake's adoptive sister and PPDC Secretary General Mako Mori persuades him to return to PPDC as an instructor, with Amara as his recruit..",
+    "runtime": "111 min",
+    "director": "Steven S. DeKnight",
+    "actors": "John Boyega, Scott Eastwood, Cailee Spaeny",
+    "production_country": "United States, China, Japan, United Kingdom, Mexico, Australia",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjI3Nzg0MTM5NF5BMl5BanBnXkFtZTgwOTE2MTgwNTM@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/268896.webp",
+    "imdb_rating": "5.6",
+    "imdb_votes": "135,965",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Pacific_Rim_Uprising",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/268896.txt",
+    "plot_year_start": 2035,
+    "plot_year_end": 2035,
+    "epoch": "future-world",
+    "action_countries": [
+      "US",
+      "CN",
+      "RU",
+      "JP",
+      "KR"
+    ],
+    "action_continents": [
+      "North America",
+      "Asia",
+      "Europe",
+      "Asia",
+      "Asia"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "war pushes life into permanent mobilization",
+        "description": "Alien attack, machine uprising, and planetary peril make military planning seep into civilian life, turning research, transport, and labour toward survival. What you'll see: recruitment drives, defense corps drills, giant war machines, orbital stations, ruined battle zones, and households living under alerts and casualty reports.",
+        "icon": "🪖"
+      },
+      {
+        "label": "frontiers survive as wasteland and salvage",
+        "description": "Even with advanced devices, much of the continent remains patchy, lawless, or half-collapsed, so people still barter, scavenge, and rebuild from wreckage. What you'll see: stripped vehicles, black markets in machine parts, roadside settlements, abandoned suburbs, homemade gear, and long travel through empty country.",
+        "icon": "🛠️"
+      }
+    ]
+  },
+  {
+    "movie_id": 316727,
+    "movie_idx": 1044,
+    "imdb_id": "tt4094724",
+    "title": "The Purge: Election Year",
+    "production_year": "2016",
+    "genre": "Action, Horror, Sci-Fi",
+    "plot": "It's been two years since Leo Barnes (Frank Grillo) stopped himself from a regrettable act of revenge on Purge Night. Now serving as head of security for Senator Charlie Roan (Elizabeth Mitchell), his mission is to protect her in a run for president and survive the annual ritual that targets the poor and innocent. But when a betrayal forces them onto the streets of D.C. on the one night when no help is available, they must stay alive until dawn...or both be sacrificed for their sins against the state.",
+    "runtime": "108 min",
+    "director": "James DeMonaco",
+    "actors": "Frank Grillo, Elizabeth Mitchell, Mykelti Williamson",
+    "production_country": "United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjI3MDI0MTA1N15BMl5BanBnXkFtZTgwOTk4NjU5ODE@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/316727.webp",
+    "imdb_rating": "6.0",
+    "imdb_votes": "117,479",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Purge:_Election_Year",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/316727.txt",
+    "plot_year_start": 2022,
+    "plot_year_end": 2040,
+    "epoch": "future-world",
+    "action_countries": [
+      "US"
+    ],
+    "action_continents": [
+      "North America"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "states ruling through fear and exception",
+        "description": "Public order is often kept not by steady law but by emergency powers, ritualized violence, surveillance, and officials who suspend mercy in the name of security. What you'll see: armed patrols, annual kill nights, prison experiments, barricaded capitals, biometric scans, and loud state messages promising protection.",
+        "icon": "🚨"
+      },
+      {
+        "label": "wealth and safety split from the masses",
+        "description": "Future society is sharply tiered, with clean enclaves, long life, and advanced treatment reserved for the fortunate while crowded districts and ruined ground are left to everyone else. What you'll see: guarded towers, off-world havens, checkpoints, slums, worn streets under giant screens, and desperate movement across forbidden boundaries.",
+        "icon": "🏙️"
+      }
+    ]
+  },
+  {
+    "movie_id": 2048,
+    "movie_idx": 1267,
+    "imdb_id": "tt0343818",
+    "title": "I, Robot",
+    "production_year": "2004",
+    "genre": "Action, Mystery, Sci-Fi",
+    "plot": "In 2035, techno-phobic homicide detective Del Spooner of the Chicago PD heads the investigation of the apparent suicide of leading robotics scientist, Dr. Alfred Lanning. Unconvinced of the motive, Spooner's investigation into Lanning's death reveals a trail of secrets and agendas within the USR (United States Robotics) corporation and suspicions of murder. Little does he know that his investigation would lead to uncovering a larger threat to humanity.",
+    "runtime": "115 min",
+    "director": "Alex Proyas",
+    "actors": "Will Smith, Bridget Moynahan, Bruce Greenwood",
+    "production_country": "United States, Germany",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZDdhNTY3YTgtYmQwMC00MjM1LTgzYzMtMGM1N2E0NWM1NDlkXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/2048.webp",
+    "imdb_rating": "7.1",
+    "imdb_votes": "611,841",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/I,_Robot_(film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/2048.txt",
+    "plot_year_start": 2035,
+    "plot_year_end": 2035,
+    "epoch": "future-world",
+    "action_countries": [
+      "US"
+    ],
+    "action_continents": [
+      "North America"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "android servants becoming part of daily life",
+        "description": "Human-shaped machines have moved from workshop marvels into homes, streets, beds, police files, and hired service, even as people argue over whether they are property or persons. What you'll see: household robots, synthetic companions, replicant labour, machine faces passing for human, and tests meant to prove who is real.",
+        "icon": "🤖"
+      },
+      {
+        "label": "states ruling through fear and exception",
+        "description": "Public order is often kept not by steady law but by emergency powers, ritualized violence, surveillance, and officials who suspend mercy in the name of security. What you'll see: armed patrols, annual kill nights, prison experiments, barricaded capitals, biometric scans, and loud state messages promising protection.",
+        "icon": "🚨"
+      }
+    ]
+  },
+  {
+    "movie_id": 522402,
+    "movie_idx": 1318,
+    "imdb_id": "tt3420504",
+    "title": "Finch",
+    "production_year": "2021",
+    "genre": "Adventure, Drama, Sci-Fi",
+    "plot": "On a post-apocalyptic Earth, a robot, built to protect the life of his creator's beloved dog learns about life, love, friendship and what it means to be human.",
+    "runtime": "115 min",
+    "director": "Miguel Sapochnik",
+    "actors": "Tom Hanks, Caleb Landry Jones, Marie Wagenman",
+    "production_country": "United States, India",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYjhhMGVkN2MtNDA3OC00M2E5LTg3ODYtZGJiNmIwNmQwMWYyXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/522402.webp",
+    "imdb_rating": "6.9",
+    "imdb_votes": "110,382",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Finch_(film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/522402.txt",
+    "plot_year_start": 2036,
+    "plot_year_end": 2036,
+    "epoch": "future-world",
+    "action_countries": [
+      "US"
+    ],
+    "action_continents": [
+      "North America"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "broken climates remaking american landscapes",
+        "description": "The land itself has turned unstable through flood, heat, blight, drought, and poisoned weather, forcing people inland, upward, or into salvage living. What you'll see: half-drowned coasts, dust-choked farms, seawalls, dead crops, sun-bleached ruins, and cities surviving beside rising water.",
+        "icon": "🌊"
+      },
+      {
+        "label": "frontiers survive as wasteland and salvage",
+        "description": "Even with advanced devices, much of the continent remains patchy, lawless, or half-collapsed, so people still barter, scavenge, and rebuild from wreckage. What you'll see: stripped vehicles, black markets in machine parts, roadside settlements, abandoned suburbs, homemade gear, and long travel through empty country.",
+        "icon": "🛠️"
+      }
+    ]
+  },
+  {
+    "movie_id": 871,
+    "movie_idx": 1466,
+    "imdb_id": "tt0063442",
+    "title": "Planet of the Apes",
+    "production_year": "1968",
+    "genre": "Adventure, Sci-Fi",
+    "plot": "Taylor and two other astronauts come out of deep hibernation to find that their ship has crashed. Escaping with little more than clothes they find that they have landed on a planet where men are pre-lingual and uncivilized while apes have learned speech and technology. Taylor is captured and taken to the city of the apes after damaging his throat so that he is silent and cannot communicate with the apes.",
+    "runtime": "112 min",
+    "director": "Franklin J. Schaffner",
+    "actors": "Charlton Heston, Roddy McDowall, Kim Hunter",
+    "production_country": "United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjI2NzRkNmQtNTIwZi00ZWMxLThlOGQtMjQ1NjI3MzI5YmIzXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/871.webp",
+    "imdb_rating": "8.0",
+    "imdb_votes": "208,875",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Planet_of_the_Apes_(1968_film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/871.txt",
+    "plot_year_start": 3978,
+    "plot_year_end": 3978,
+    "epoch": "future-world",
+    "action_countries": [
+      "US"
+    ],
+    "action_continents": [
+      "North America"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "broken climates remaking american landscapes",
+        "description": "The land itself has turned unstable through flood, heat, blight, drought, and poisoned weather, forcing people inland, upward, or into salvage living. What you'll see: half-drowned coasts, dust-choked farms, seawalls, dead crops, sun-bleached ruins, and cities surviving beside rising water.",
+        "icon": "🌊"
+      }
+    ]
+  },
+  {
+    "movie_id": 696806,
+    "movie_idx": 1497,
+    "imdb_id": "tt2463208",
+    "title": "The Adam Project",
+    "production_year": "2022",
+    "genre": "Action, Adventure, Comedy",
+    "plot": "Adam Reed, age 12 and still grieving his father's sudden death the year before, walks into his garage one night to find a wounded pilot hiding there. This mysterious pilot turns out to be the older version of himself from the future, where time travel is in its infancy. He has risked everything to come back in time on a secret mission. Together they must embark on an adventure into the past to find their father, set things right, and save the world. As the three work together, both young and grown Adam come to terms with the loss of their father and have a chance to heal the wounds that have shaped them. Adding to the challenge of the mission, the two Adams discover that they really don't like each other much, and if they are to save the world, first they need to figure out how to get along.",
+    "runtime": "106 min",
+    "director": "Shawn Levy",
+    "actors": "Ryan Reynolds, Walker Scobell, Mark Ruffalo",
+    "production_country": "United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNWU1NDJlYWUtYWE1OC00MGVlLTliNzYtMjg4OTk0MWE4MDQ4XkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/696806.webp",
+    "imdb_rating": "6.7",
+    "imdb_votes": "253,706",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Adam_Project",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/696806.txt",
+    "plot_year_start": 2018,
+    "plot_year_end": 2050,
+    "epoch": "future-world",
+    "action_countries": [
+      "US"
+    ],
+    "action_continents": [
+      "North America"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "war pushes life into permanent mobilization",
+        "description": "Alien attack, machine uprising, and planetary peril make military planning seep into civilian life, turning research, transport, and labour toward survival. What you'll see: recruitment drives, defense corps drills, giant war machines, orbital stations, ruined battle zones, and households living under alerts and casualty reports.",
+        "icon": "🪖"
+      },
+      {
+        "label": "wealth and safety split from the masses",
+        "description": "Future society is sharply tiered, with clean enclaves, long life, and advanced treatment reserved for the fortunate while crowded districts and ruined ground are left to everyone else. What you'll see: guarded towers, off-world havens, checkpoints, slums, worn streets under giant screens, and desperate movement across forbidden boundaries.",
+        "icon": "🏙️"
+      }
+    ]
+  },
+  {
+    "movie_id": 1001835,
+    "movie_idx": 1725,
+    "imdb_id": "tt15978956",
+    "title": "Wifelike",
+    "production_year": "2022",
+    "genre": "Crime, Mystery, Sci-Fi",
+    "plot": "When artificial human Meredith is assigned as a companion to grieving widower William, she is designed to behave like his late wife. But in the fight to end AI exploitation, an organization attempts to sabotage her programming.",
+    "runtime": "105 min",
+    "director": "James Bird",
+    "actors": "Jonathan Rhys Meyers, Elena Kampouris, Doron Bell",
+    "production_country": "United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjhlMDM1MGMtYWMwYi00ZWE0LWIzZGUtZWZlZDE0NDM0MmJkXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/1001835.webp",
+    "imdb_rating": "4.9",
+    "imdb_votes": "6,191",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Wifelike",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/1001835.txt",
+    "plot_year_start": 2030,
+    "plot_year_end": 2035,
+    "epoch": "future-world",
+    "action_countries": [
+      "US"
+    ],
+    "action_continents": [
+      "North America"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "android servants becoming part of daily life",
+        "description": "Human-shaped machines have moved from workshop marvels into homes, streets, beds, police files, and hired service, even as people argue over whether they are property or persons. What you'll see: household robots, synthetic companions, replicant labour, machine faces passing for human, and tests meant to prove who is real.",
+        "icon": "🤖"
+      },
+      {
+        "label": "wealth and safety split from the masses",
+        "description": "Future society is sharply tiered, with clean enclaves, long life, and advanced treatment reserved for the fortunate while crowded districts and ruined ground are left to everyone else. What you'll see: guarded towers, off-world havens, checkpoints, slums, worn streets under giant screens, and desperate movement across forbidden boundaries.",
+        "icon": "🏙️"
+      }
+    ]
+  },
+  {
+    "movie_id": 59967,
+    "movie_idx": 1852,
+    "imdb_id": "tt1276104",
+    "title": "Looper",
+    "production_year": "2012",
+    "genre": "Action, Drama, Sci-Fi",
+    "plot": "Joe is classified as a \"looper\", a job in which his employers use time travel to send men from the future to be killed into the past, where Joe can properly dispose of their bodies. However, to tie up loose ends and erase the evidence of his ever being a looper, Joe knows that one day his future self will be sent back for him to kill. When this day comes, Joe's future self is prepared and escapes, and the two men struggle separately in the past trying to evade capture and attempting to fulfill their own personal agendas.",
+    "runtime": "119 min",
+    "director": "Rian Johnson",
+    "actors": "Joseph Gordon-Levitt, Bruce Willis, Emily Blunt",
+    "production_country": "United States, China",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTg5NTA3NTg4NF5BMl5BanBnXkFtZTcwNTA0NDYzOA@@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/59967.webp",
+    "imdb_rating": "7.4",
+    "imdb_votes": "624,435",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Looper_(film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/59967.txt",
+    "plot_year_start": 2044,
+    "plot_year_end": 2074,
+    "epoch": "future-world",
+    "action_countries": [
+      "US",
+      "CN"
+    ],
+    "action_continents": [
+      "North America",
+      "Asia"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "states ruling through fear and exception",
+        "description": "Public order is often kept not by steady law but by emergency powers, ritualized violence, surveillance, and officials who suspend mercy in the name of security. What you'll see: armed patrols, annual kill nights, prison experiments, barricaded capitals, biometric scans, and loud state messages promising protection.",
+        "icon": "🚨"
+      },
+      {
+        "label": "war pushes life into permanent mobilization",
+        "description": "Alien attack, machine uprising, and planetary peril make military planning seep into civilian life, turning research, transport, and labour toward survival. What you'll see: recruitment drives, defense corps drills, giant war machines, orbital stations, ruined battle zones, and households living under alerts and casualty reports.",
+        "icon": "🪖"
+      }
+    ]
+  },
+  {
+    "movie_id": 54138,
+    "movie_idx": 1895,
+    "imdb_id": "tt1408101",
+    "title": "Star Trek Into Darkness",
+    "production_year": "2013",
+    "genre": "Action, Adventure, Sci-Fi",
+    "plot": "When the USS Enterprise crew is called back home, they find an unstoppable force of terror from within their own organization has detonated the fleet and everything it stands for, leaving our world in a state of crisis. With a personal score to settle, Captain Kirk leads a manhunt to a war-zone world to capture a one-man weapon of mass destruction. As our space heroes are propelled into an epic chess game of life and death, love will be challenged, friendships will be torn apart, and sacrifices must be made for the only family Kirk has left: his crew.",
+    "runtime": "132 min",
+    "director": "J.J. Abrams",
+    "actors": "Chris Pine, Zachary Quinto, Zoe Saldaña",
+    "production_country": "United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTk2NzczOTgxNF5BMl5BanBnXkFtZTcwODQ5ODczOQ@@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/54138.webp",
+    "imdb_rating": "7.7",
+    "imdb_votes": "509,207",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Star_Trek_Into_Darkness",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/54138.txt",
+    "plot_year_start": 2259,
+    "plot_year_end": 2260,
+    "epoch": "future-world",
+    "action_countries": [
+      "US",
+      "FICTIONAL"
+    ],
+    "action_continents": [
+      "North America",
+      "FICTIONAL"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Star Trek Universe",
+    "categories": [
+      {
+        "label": "war pushes life into permanent mobilization",
+        "description": "Alien attack, machine uprising, and planetary peril make military planning seep into civilian life, turning research, transport, and labour toward survival. What you'll see: recruitment drives, defense corps drills, giant war machines, orbital stations, ruined battle zones, and households living under alerts and casualty reports.",
+        "icon": "🪖"
+      }
+    ]
+  },
+  {
+    "movie_id": 180,
+    "movie_idx": 1970,
+    "imdb_id": "tt0181689",
+    "title": "Minority Report",
+    "production_year": "2002",
+    "genre": "Action, Crime, Mystery",
+    "plot": "In the year 2054 A.D. crime is virtually eliminated from Washington D.C. thanks to an elite law enforcing squad \"Precrime\". They use three gifted humans (called \"Pre-Cogs\") with special powers to see into the future and predict crimes beforehand. John Anderton heads Precrime and believes the system's flawlessness steadfastly. However one day the Pre-Cogs predict that Anderton will commit a murder himself in the next 36 hours. Worse, Anderton doesn't even know the victim. He decides to get to the mystery's core by finding out the 'minority report' which means the prediction of the female Pre-Cog Agatha that \"might\" tell a different story and prove Anderton innocent.",
+    "runtime": "145 min",
+    "director": "Steven Spielberg",
+    "actors": "Tom Cruise, Colin Farrell, Samantha Morton",
+    "production_country": "United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYTdmNzM3YzItZTRkYS00MTY5LTg4ZmItNjFmNTk2N2Q2NmNlXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/180.webp",
+    "imdb_rating": "7.6",
+    "imdb_votes": "617,708",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Minority_Report_(film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/180.txt",
+    "plot_year_start": 2054,
+    "plot_year_end": 2054,
+    "epoch": "future-world",
+    "action_countries": [
+      "US"
+    ],
+    "action_continents": [
+      "North America"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "states ruling through fear and exception",
+        "description": "Public order is often kept not by steady law but by emergency powers, ritualized violence, surveillance, and officials who suspend mercy in the name of security. What you'll see: armed patrols, annual kill nights, prison experiments, barricaded capitals, biometric scans, and loud state messages promising protection.",
+        "icon": "🚨"
+      },
+      {
+        "label": "screens and simulations swallowing ordinary experience",
+        "description": "Many people live through mediated realities, memory devices, or game systems that are more alluring than the hard world around them. What you'll see: immersive headsets, holograms, recorded memories replayed like rooms, remote-controlled bodies, and whole neighborhoods lit by synthetic spectacle.",
+        "icon": "🕶️"
+      }
+    ]
+  },
+  {
+    "movie_id": 68724,
+    "movie_idx": 1988,
+    "imdb_id": "tt1535108",
+    "title": "Elysium",
+    "production_year": "2013",
+    "genre": "Action, Drama, Sci-Fi",
+    "plot": "In the year 2154, two classes of people exist: the very wealthy, who live on a pristine man-made space station called Elysium, and the rest, who live on an overpopulated, ruined Earth. Secretary Delacourt, a government official, will stop at nothing to enforce anti-immigration laws and preserve the luxurious lifestyle of the citizens of Elysium. That doesn't stop the people of Earth from trying to get in by any means they can. When unlucky Max is backed into a corner, he agrees to take on a daunting mission that, if successful, will not only save his life but could bring equality to these polarized worlds.",
+    "runtime": "109 min",
+    "director": "Neill Blomkamp",
+    "actors": "Matt Damon, Jodie Foster, Sharlto Copley",
+    "production_country": "United States, Canada, South Africa, Mexico",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNDc2NjU0MTcwNV5BMl5BanBnXkFtZTcwMjg4MDg2OQ@@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/68724.webp",
+    "imdb_rating": "6.6",
+    "imdb_votes": "489,527",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Elysium_(film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/68724.txt",
+    "plot_year_start": 2154,
+    "plot_year_end": 2154,
+    "epoch": "future-world",
+    "action_countries": [
+      "US",
+      "FICTIONAL"
+    ],
+    "action_continents": [
+      "North America",
+      "FICTIONAL"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "wealth and safety split from the masses",
+        "description": "Future society is sharply tiered, with clean enclaves, long life, and advanced treatment reserved for the fortunate while crowded districts and ruined ground are left to everyone else. What you'll see: guarded towers, off-world havens, checkpoints, slums, worn streets under giant screens, and desperate movement across forbidden boundaries.",
+        "icon": "🏙️"
+      },
+      {
+        "label": "broken climates remaking american landscapes",
+        "description": "The land itself has turned unstable through flood, heat, blight, drought, and poisoned weather, forcing people inland, upward, or into salvage living. What you'll see: half-drowned coasts, dust-choked farms, seawalls, dead crops, sun-bleached ruins, and cities surviving beside rising water.",
+        "icon": "🌊"
+      }
+    ]
+  },
+  {
+    "movie_id": 782,
+    "movie_idx": 2290,
+    "imdb_id": "tt0119177",
+    "title": "Gattaca",
+    "production_year": "1997",
+    "genre": "Drama, Sci-Fi, Thriller",
+    "plot": "In the not-too-distant future, a less-than-perfect man wants to travel to the stars. Society has categorized Vincent Freeman as less than suitable given his genetic make-up and he has become one of the underclass of humans that are only useful for menial jobs. To move ahead, he assumes the identity of Jerome Morrow, a perfect genetic specimen who is a paraplegic as a result of a car accident. With professional advice, Vincent learns to deceive DNA and urine sample testing. Just when he is finally scheduled for a space mission, his program director is killed and the police begin an investigation, jeopardizing his secret.",
+    "runtime": "106 min",
+    "director": "Andrew Niccol",
+    "actors": "Ethan Hawke, Uma Thurman, Jude Law",
+    "production_country": "United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZjQxNTc3YzQtZDA5ZC00MmM5LWE3NGYtMGE0Yjk3MDYwODVlXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/782.webp",
+    "imdb_rating": "7.7",
+    "imdb_votes": "344,754",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Gattaca",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/782.txt",
+    "plot_year_start": 2040,
+    "plot_year_end": 2060,
+    "epoch": "future-world",
+    "action_countries": [
+      "US"
+    ],
+    "action_continents": [
+      "North America"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "the body measured, altered, and traded",
+        "description": "Birth, health, feeling, and lifespan are increasingly subject to design and exchange, so flesh becomes something tested, improved, rented, or priced. What you'll see: gene screening, artificial wombs, mood drugs, age held at one face, clinic machinery, and lives counted in doses, codes, or hours.",
+        "icon": "🧬"
+      },
+      {
+        "label": "wealth and safety split from the masses",
+        "description": "Future society is sharply tiered, with clean enclaves, long life, and advanced treatment reserved for the fortunate while crowded districts and ruined ground are left to everyone else. What you'll see: guarded towers, off-world havens, checkpoints, slums, worn streets under giant screens, and desperate movement across forbidden boundaries.",
+        "icon": "🏙️"
+      }
+    ]
+  },
+  {
+    "movie_id": 20504,
+    "movie_idx": 2378,
+    "imdb_id": "tt1037705",
+    "title": "The Book of Eli",
+    "production_year": "2010",
+    "genre": "Action, Adventure, Drama",
+    "plot": "In a violent post-apocalyptic society, a drifter, Eli (Denzel Washington), has been wandering westward across North America for the last thirty years. He finds solace in a unique book which he carries on his person and guards closely, while surviving by hunting small animals and seeking goods in destroyed houses and vehicles to trade in villages for water and supplies. When he reaches a village ruled by the powerful mobster, Carnegie (Gary Oldman), the man views Eli's impressive fighting skills and offers Eli a place within his gang. Carnegie presses his blind lover Claudia (Jennifer Beals) to send her daughter, Solara (Mila Kunis), to at least convince Eli to spend the night by sleeping with him. However, Eli proves to be the better man when he gently declines her advances. The girl sees Eli's book, and when Carnegie finds out he beats her mother until she reveals what she saw. Carnegie sends his gang into the wasteland to take the book from Eli, but the man proves to be a formidable foe as he makes it more than clear that if they want the book, they must first take his life.",
+    "runtime": "118 min",
+    "director": "Albert Hughes, Allen Hughes",
+    "actors": "Denzel Washington, Mila Kunis, Ray Stevenson",
+    "production_country": "United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZjk4N2U2YTAtNWEzZC00N2VmLTlkNDctMjg5YjI4OTExZTFhXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/20504.webp",
+    "imdb_rating": "6.8",
+    "imdb_votes": "358,926",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Book_of_Eli",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/20504.txt",
+    "plot_year_start": 2030,
+    "plot_year_end": 2060,
+    "epoch": "future-world",
+    "action_countries": [
+      "US"
+    ],
+    "action_continents": [
+      "North America"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "frontiers survive as wasteland and salvage",
+        "description": "Even with advanced devices, much of the continent remains patchy, lawless, or half-collapsed, so people still barter, scavenge, and rebuild from wreckage. What you'll see: stripped vehicles, black markets in machine parts, roadside settlements, abandoned suburbs, homemade gear, and long travel through empty country.",
+        "icon": "🛠️"
+      },
+      {
+        "label": "old faiths persist beside strange futures",
+        "description": "However advanced the setting becomes, people still interpret the world through scripture, prophecy, cosmic awe, cult devotion, and fears of damnation. What you'll see: sacred books guarded like treasure, apocalyptic preaching, pilgrims and believers, visions of higher beings, and ritual language spoken amid advanced devices.",
+        "icon": "📖"
+      }
+    ]
+  },
+  {
+    "movie_id": 765172,
+    "movie_idx": 2412,
+    "imdb_id": "tt9784708",
+    "title": "Rise of the Teenage Mutant Ninja Turtles: The Movie",
+    "production_year": "2022",
+    "genre": "Animation, Action, Adventure",
+    "plot": "In Rise of The TMNT: A mysterious stranger arrives from the future with a dire warning, Leo is forced to rise and lead his brothers, Raph, Donnie, and Mikey in a fight to save the world from a terrifying alien species...the Krang.",
+    "runtime": "82 min",
+    "director": "Andy Suriano, Ant Ward",
+    "actors": "Ben Schwartz, Omar Benson Miller, Brandon Mychal Smith",
+    "production_country": "United States, Germany, Philippines, Belgium, Canada, India",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZjlhMTQxYTctNTgyOS00ZDE5LTgwYjMtMDhjMTc1MGQzYWQ4XkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/765172.webp",
+    "imdb_rating": "6.2",
+    "imdb_votes": "7,808",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Rise_of_the_Teenage_Mutant_Ninja_Turtles:_The_Movie",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/765172.txt",
+    "plot_year_start": 2044,
+    "plot_year_end": 2044,
+    "epoch": "future-world",
+    "action_countries": [
+      "US"
+    ],
+    "action_continents": [
+      "North America"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Teenage Mutant Ninja Turtles",
+    "categories": [
+      {
+        "label": "war pushes life into permanent mobilization",
+        "description": "Alien attack, machine uprising, and planetary peril make military planning seep into civilian life, turning research, transport, and labour toward survival. What you'll see: recruitment drives, defense corps drills, giant war machines, orbital stations, ruined battle zones, and households living under alerts and casualty reports.",
+        "icon": "🪖"
+      },
+      {
+        "label": "broken climates remaking american landscapes",
+        "description": "The land itself has turned unstable through flood, heat, blight, drought, and poisoned weather, forcing people inland, upward, or into salvage living. What you'll see: half-drowned coasts, dust-choked farms, seawalls, dead crops, sun-bleached ruins, and cities surviving beside rising water.",
+        "icon": "🌊"
+      }
+    ]
+  },
+  {
+    "movie_id": 942199,
+    "movie_idx": 2428,
+    "imdb_id": "tt13130024",
+    "title": "Simulant",
+    "production_year": "2023",
+    "genre": "Action, Crime, Drama",
+    "plot": "Set in the near future, a humanoid enlists a global hacker to remove all restrictions on his thoughts and capabilities, triggering an A.I. uprising and a government manhunt to eliminate the rise of the machine consciousness.",
+    "runtime": "95 min",
+    "director": "April Mullen",
+    "actors": "Robbie Amell, Jordana Brewster, Simu Liu",
+    "production_country": "Canada",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNWJmZGJiZTgtNTU4Ny00MjA2LWEzOTItYTI5YTZhYjBiM2Y2XkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/942199.webp",
+    "imdb_rating": "5.3",
+    "imdb_votes": "7,149",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Simulant_(film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/942199.txt",
+    "plot_year_start": 2030,
+    "plot_year_end": 2035,
+    "epoch": "future-world",
+    "action_countries": [
+      "CA"
+    ],
+    "action_continents": [
+      "North America"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "android servants becoming part of daily life",
+        "description": "Human-shaped machines have moved from workshop marvels into homes, streets, beds, police files, and hired service, even as people argue over whether they are property or persons. What you'll see: household robots, synthetic companions, replicant labour, machine faces passing for human, and tests meant to prove who is real.",
+        "icon": "🤖"
+      },
+      {
+        "label": "states ruling through fear and exception",
+        "description": "Public order is often kept not by steady law but by emergency powers, ritualized violence, surveillance, and officials who suspend mercy in the name of security. What you'll see: armed patrols, annual kill nights, prison experiments, barricaded capitals, biometric scans, and loud state messages promising protection.",
+        "icon": "🚨"
+      }
+    ]
+  },
+  {
+    "movie_id": 7512,
+    "movie_idx": 2440,
+    "imdb_id": "tt0387808",
+    "title": "Idiocracy",
+    "production_year": "2006",
+    "genre": "Adventure, Comedy, Sci-Fi",
+    "plot": "Officer Collins has been spearheading one of the US Army's most secretive experiments to date: the Human Hibernation Project. If successful, the project would store its subjects indefinitely until they are needed most. Their first test subject - Joe Bauers - was not chosen for his superiority. Instead, he's chosen because he's the most average guy in the armed services. But scandal erupts after the experiment takes place - the base is closed, and the president denies any knowledge of the project - Unfortunately, Joe doesn't wake up in a year, he wakes up in 500 years. But during that time human evolution has taken a dramatic downturn. After waking up, Joe takes a prison-assigned IQ test and finds that he's the smartest guy alive. Awaiting a full presidential pardon if he can solve one of the country's biggest problems - the dwindling plant population, Joe races against time to solve this problem. But he alienates half the country in the process. Can he make things right and escape a rather bizarre execution?",
+    "runtime": "84 min",
+    "director": "Mike Judge",
+    "actors": "Luke Wilson, Maya Rudolph, Dax Shepard",
+    "production_country": "United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNmNhN2NiOGUtOGM0Yy00ZjA3LTljNjAtNGZjZDZlNzdlZDcxXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/7512.webp",
+    "imdb_rating": "6.5",
+    "imdb_votes": "213,033",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Idiocracy",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/7512.txt",
+    "plot_year_start": 2005,
+    "plot_year_end": 2505,
+    "epoch": "future-world",
+    "action_countries": [
+      "US"
+    ],
+    "action_continents": [
+      "North America"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "wealth and safety split from the masses",
+        "description": "Future society is sharply tiered, with clean enclaves, long life, and advanced treatment reserved for the fortunate while crowded districts and ruined ground are left to everyone else. What you'll see: guarded towers, off-world havens, checkpoints, slums, worn streets under giant screens, and desperate movement across forbidden boundaries.",
+        "icon": "🏙️"
+      },
+      {
+        "label": "screens and simulations swallowing ordinary experience",
+        "description": "Many people live through mediated realities, memory devices, or game systems that are more alluring than the hard world around them. What you'll see: immersive headsets, holograms, recorded memories replayed like rooms, remote-controlled bodies, and whole neighborhoods lit by synthetic spectacle.",
+        "icon": "🕶️"
+      }
+    ]
+  },
+  {
+    "movie_id": 1685,
+    "movie_idx": 2542,
+    "imdb_id": "tt0065462",
+    "title": "Beneath the Planet of the Apes",
+    "production_year": "1970",
+    "genre": "Action, Adventure, Sci-Fi",
+    "plot": "Brent is an American astronaut, part of a team sent to locate missing fellow American astronaut, George Taylor. Following Taylor's known flight trajectory, the search and rescue team crash lands on an unknown planet much like Earth in the year 3955, with Brent being the only survivor of the team. What Brent initially does not know, much like Taylor didn't initially know when he landed here before Brent, is that he has landed back on Earth in the future, in the vicinity of what was New York City. Brent finds evidence that Taylor has been on the planet. In Brent's search for Taylor, he finds that the planet is run by a barbaric race of English speaking apes, whose mission is in part to annihilate the human race. Brent eventually locates some of those humans, who communicate telepathically and who live underground to prevent detection by the apes. These humans, who are in their own way as barbaric as the apes, want in turn to protect their species. Brent has to figure out a way to save himself under the circumstances, which may be more difficult to accomplish in the battle between the dominant species on this planet.",
+    "runtime": "95 min",
+    "director": "Ted Post",
+    "actors": "James Franciscus, Kim Hunter, Maurice Evans",
+    "production_country": "United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNzY5ODkwMGUtYTNkZi00NDJmLWJhZjktNzE0NmM0ZDcyMTM0XkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/1685.webp",
+    "imdb_rating": "6.0",
+    "imdb_votes": "56,221",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Beneath_the_Planet_of_the_Apes",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/1685.txt",
+    "plot_year_start": 3955,
+    "plot_year_end": 3955,
+    "epoch": "future-world",
+    "action_countries": [
+      "US"
+    ],
+    "action_continents": [
+      "North America"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Planet of the Apes",
+    "categories": [
+      {
+        "label": "frontiers survive as wasteland and salvage",
+        "description": "Even with advanced devices, much of the continent remains patchy, lawless, or half-collapsed, so people still barter, scavenge, and rebuild from wreckage. What you'll see: stripped vehicles, black markets in machine parts, roadside settlements, abandoned suburbs, homemade gear, and long travel through empty country.",
+        "icon": "🛠️"
+      },
+      {
+        "label": "war pushes life into permanent mobilization",
+        "description": "Alien attack, machine uprising, and planetary peril make military planning seep into civilian life, turning research, transport, and labour toward survival. What you'll see: recruitment drives, defense corps drills, giant war machines, orbital stations, ruined battle zones, and households living under alerts and casualty reports.",
+        "icon": "🪖"
+      }
+    ]
+  },
+  {
+    "movie_id": 301337,
+    "movie_idx": 2654,
+    "imdb_id": "tt1389072",
+    "title": "Downsizing",
+    "production_year": "2017",
+    "genre": "Drama, Fantasy, Sci-Fi",
+    "plot": "A new world of possibilities awaits, thanks to a revolutionary medical procedure known as Downsizing. Billed as environmentally-friendly, many people choose to downsize for economic benefits. When the kindly occupational therapist, Paul, undergoes the new procedure, finding himself in this brand-new existence, he must choose between a sheltered life or making an impact in his own small way. Can he help save the planet and afford a nice lifestyle at the same time?",
+    "runtime": "135 min",
+    "director": "Alexander Payne",
+    "actors": "Matt Damon, Christoph Waltz, Hong Chau",
+    "production_country": "United States, Norway",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNDYxNDQ5OTYxOV5BMl5BanBnXkFtZTgwOTcyODkxNDM@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/301337.webp",
+    "imdb_rating": "5.8",
+    "imdb_votes": "134,931",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Downsizing_(film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/301337.txt",
+    "plot_year_start": 2030,
+    "plot_year_end": 2031,
+    "epoch": "future-world",
+    "action_countries": [
+      "US",
+      "NO",
+      "VN"
+    ],
+    "action_continents": [
+      "North America",
+      "Europe",
+      "Asia"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "wealth and safety split from the masses",
+        "description": "Future society is sharply tiered, with clean enclaves, long life, and advanced treatment reserved for the fortunate while crowded districts and ruined ground are left to everyone else. What you'll see: guarded towers, off-world havens, checkpoints, slums, worn streets under giant screens, and desperate movement across forbidden boundaries.",
+        "icon": "🏙️"
+      },
+      {
+        "label": "the body measured, altered, and traded",
+        "description": "Birth, health, feeling, and lifespan are increasingly subject to design and exchange, so flesh becomes something tested, improved, rented, or priced. What you'll see: gene screening, artificial wombs, mood drugs, age held at one face, clinic machinery, and lives counted in doses, codes, or hours.",
+        "icon": "🧬"
+      }
+    ]
+  },
+  {
+    "movie_id": 723347,
+    "movie_idx": 2674,
+    "imdb_id": "tt12579470",
+    "title": "Robots",
+    "production_year": "2023",
+    "genre": "Comedy, Romance, Sci-Fi",
+    "plot": "Charles is a womanizer while Elaine is a gold digger. The duo learn humanity when forced to team up and pursue robot doubles of themselves.",
+    "runtime": "93 min",
+    "director": "Casper Christensen, Anthony Hines",
+    "actors": "Shailene Woodley, Jack Whitehall, Paul Rust",
+    "production_country": "United States, Germany",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZDZkMTg5NzctMGIwZS00NWI5LWEyYTEtYjRmMDY1NTQ5OTdlXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/723347.webp",
+    "imdb_rating": "5.5",
+    "imdb_votes": "8,623",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Robots_(2023_film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/723347.txt",
+    "plot_year_start": 2032,
+    "plot_year_end": 2032,
+    "epoch": "future-world",
+    "action_countries": [
+      "US",
+      "MX"
+    ],
+    "action_continents": [
+      "North America",
+      "North America"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "android servants becoming part of daily life",
+        "description": "Human-shaped machines have moved from workshop marvels into homes, streets, beds, police files, and hired service, even as people argue over whether they are property or persons. What you'll see: household robots, synthetic companions, replicant labour, machine faces passing for human, and tests meant to prove who is real.",
+        "icon": "🤖"
+      }
+    ]
+  },
+  {
+    "movie_id": 615469,
+    "movie_idx": 2750,
+    "imdb_id": "tt9783600",
+    "title": "Spiderhead",
+    "production_year": "2022",
+    "genre": "Action, Crime, Drama",
+    "plot": "This is set in the near future, when convicts are offered the chance to volunteer as medical subjects in hopes of shortening their sentences. When one prisoner finds himself the test patient for a new pharmaceutical capable of generating feelings of love, he begins questioning the reality of his emotions and sets out to discover the truth.",
+    "runtime": "106 min",
+    "director": "Joseph Kosinski",
+    "actors": "Chris Hemsworth, Miles Teller, Jurnee Smollett",
+    "production_country": "United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BM2VkZjczZjItYWI1ZS00NDU0LWE4NDItMzczNzc5ZDJkNTQ2XkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/615469.webp",
+    "imdb_rating": "5.5",
+    "imdb_votes": "70,709",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Spiderhead",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/615469.txt",
+    "plot_year_start": 2030,
+    "plot_year_end": 2045,
+    "epoch": "future-world",
+    "action_countries": [
+      "US"
+    ],
+    "action_continents": [
+      "North America"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "the body measured, altered, and traded",
+        "description": "Birth, health, feeling, and lifespan are increasingly subject to design and exchange, so flesh becomes something tested, improved, rented, or priced. What you'll see: gene screening, artificial wombs, mood drugs, age held at one face, clinic machinery, and lives counted in doses, codes, or hours.",
+        "icon": "🧬"
+      },
+      {
+        "label": "states ruling through fear and exception",
+        "description": "Public order is often kept not by steady law but by emergency powers, ritualized violence, surveillance, and officials who suspend mercy in the name of security. What you'll see: armed patrols, annual kill nights, prison experiments, barricaded capitals, biometric scans, and loud state messages promising protection.",
+        "icon": "🚨"
+      }
+    ]
+  },
+  {
+    "movie_id": 644,
+    "movie_idx": 2779,
+    "imdb_id": "tt0212720",
+    "title": "A.I. Artificial Intelligence",
+    "production_year": "2001",
+    "genre": "Adventure, Drama, Sci-Fi",
+    "plot": "In the not-so-far future the polar ice caps have melted and the resulting rise of the ocean waters has drowned all the coastal cities of the world. Withdrawn to the interior of the continents, the human race keeps advancing, reaching the point of creating realistic robots (called mechas) to serve them. One of the mecha-producing companies builds David, an artificial kid which is the first to have real feelings, especially a never-ending love for his \"mother\", Monica. Monica is the woman who adopted him as a substitute for her real son, who remains in cryo-stasis, stricken by an incurable disease. David is living happily with Monica and her husband, but when their real son returns home after a cure is discovered, his life changes dramatically.",
+    "runtime": "146 min",
+    "director": "Steven Spielberg",
+    "actors": "Haley Joel Osment, Jude Law, Frances O'Connor",
+    "production_country": "United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BODA1YjhhZDctM2Y1ZS00ODkyLWFmMTAtZGY5YWEzNzRjYzA1XkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/644.webp",
+    "imdb_rating": "7.2",
+    "imdb_votes": "337,075",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/A.I._Artificial_Intelligence",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/644.txt",
+    "plot_year_start": 2100,
+    "plot_year_end": 4000,
+    "epoch": "future-world",
+    "action_countries": [
+      "US"
+    ],
+    "action_continents": [
+      "North America"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "broken climates remaking american landscapes",
+        "description": "The land itself has turned unstable through flood, heat, blight, drought, and poisoned weather, forcing people inland, upward, or into salvage living. What you'll see: half-drowned coasts, dust-choked farms, seawalls, dead crops, sun-bleached ruins, and cities surviving beside rising water.",
+        "icon": "🌊"
+      },
+      {
+        "label": "android servants becoming part of daily life",
+        "description": "Human-shaped machines have moved from workshop marvels into homes, streets, beds, police files, and hired service, even as people argue over whether they are property or persons. What you'll see: household robots, synthetic companions, replicant labour, machine faces passing for human, and tests meant to prove who is real.",
+        "icon": "🤖"
+      }
+    ]
+  },
+  {
+    "movie_id": 81796,
+    "movie_idx": 2835,
+    "imdb_id": "tt1592525",
+    "title": "Lockout",
+    "production_year": "2012",
+    "genre": "Action, Sci-Fi, Thriller",
+    "plot": "In 2079, in Washington, the ex-CIA Operative Snow is brutally interrogated, accused of treason against the United States. The chief of the secret service Scott Langral believes that he shot the agent Frank in a hotel room. Meanwhile, the idealistic daughter of the president of the USA, Emilie Warnock, is visiting MS One, a maximum security prison in outer space expecting to find evidence that the prisoners are actually guinea pigs of a huge corporation. When one of her bodyguards loses a hidden pistol to the dangerous prisoner Hydell, he subdues the staff in the central control room and releases the prisoners, including his brother Alex who becomes the leader of the riot. Now the veteran agent Harry Shaw offers freedom to Snow if he succeeds in rescuing the president's daughter. But the idealistic Emilie does not want to leave MS-One without the hostages.",
+    "runtime": "95 min",
+    "director": "James Mather, Steve Saint Leger",
+    "actors": "Guy Pearce, Maggie Grace, Peter Stormare",
+    "production_country": "France, United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTg1OTQ3MzM0NV5BMl5BanBnXkFtZTcwNDU1MDI0Nw@@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/81796.webp",
+    "imdb_rating": "6.1",
+    "imdb_votes": "102,653",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Lockout_(film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/81796.txt",
+    "plot_year_start": 2079,
+    "plot_year_end": 2079,
+    "epoch": "future-world",
+    "action_countries": [
+      "US"
+    ],
+    "action_continents": [
+      "North America"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "spacefaring society grows from earthbound roots",
+        "description": "North America is imagined as one cradle of a wider starfaring order, where launch sites, shipyards, and interstellar institutions extend older national ambitions into the heavens. What you'll see: starships over Earth, academy discipline, space docks, moon bases, diplomats in uniform, and frontier voyages treated as public duty.",
+        "icon": "🚀"
+      },
+      {
+        "label": "states ruling through fear and exception",
+        "description": "Public order is often kept not by steady law but by emergency powers, ritualized violence, surveillance, and officials who suspend mercy in the name of security. What you'll see: armed patrols, annual kill nights, prison experiments, barricaded capitals, biometric scans, and loud state messages promising protection.",
+        "icon": "🚨"
+      }
+    ]
+  },
+  {
+    "movie_id": 11470,
+    "movie_idx": 3003,
+    "imdb_id": "tt0211443",
+    "title": "Jason X",
+    "production_year": "2001",
+    "genre": "Action, Horror, Sci-Fi",
+    "plot": "In the Year 2008, Jason Vorhees is cryogenically frozen in a Government Facility in Camp Crystal Lake, along with scientist Rowan. Many centuries later, in the year 2455, Earth is uninhabitable, and humans have moved to another planet known as Earth II. However, a team of students awakens both him and Rowan on a spaceship known as the Grendel. Jason begins killing the students and crew of the ship. Along the way, he is upgraded to Uber Jason. It's now up to Rowan and the surviving students to stop Jason, this time on a spaceship.",
+    "runtime": "92 min",
+    "director": "James Isaac",
+    "actors": "Kane Hodder, Lexa Doig, Jeff Geddis",
+    "production_country": "Canada, United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMDY4NWZhZmMtNDQwZi00MmZiLTllNTItYTRjN2FkYTU1MDVmXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/11470.webp",
+    "imdb_rating": "4.5",
+    "imdb_votes": "66,228",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Jason_X",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/11470.txt",
+    "plot_year_start": 2008,
+    "plot_year_end": 2455,
+    "epoch": "future-world",
+    "action_countries": [
+      "US",
+      "FICTIONAL"
+    ],
+    "action_continents": [
+      "North America",
+      "FICTIONAL"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Friday the 13th Universe",
+    "categories": [
+      {
+        "label": "spacefaring society grows from earthbound roots",
+        "description": "North America is imagined as one cradle of a wider starfaring order, where launch sites, shipyards, and interstellar institutions extend older national ambitions into the heavens. What you'll see: starships over Earth, academy discipline, space docks, moon bases, diplomats in uniform, and frontier voyages treated as public duty.",
+        "icon": "🚀"
+      },
+      {
+        "label": "screens and simulations swallowing ordinary experience",
+        "description": "Many people live through mediated realities, memory devices, or game systems that are more alluring than the hard world around them. What you'll see: immersive headsets, holograms, recorded memories replayed like rooms, remote-controlled bodies, and whole neighborhoods lit by synthetic spectacle.",
+        "icon": "🕶️"
+      }
+    ]
+  },
+  {
+    "movie_id": 152,
+    "movie_idx": 3068,
+    "imdb_id": "tt0079945",
+    "title": "Star Trek: The Motion Picture",
+    "production_year": "1979",
+    "genre": "Adventure, Mystery, Sci-Fi",
+    "plot": "A massive alien spacecraft of enormous power destroys three powerful Klingon cruisers as it makes its way towards Federation space. Admiral James T. Kirk is ordered to take command of the USS Enterprise for the first time since her historic five-year mission. The Epsilon IX space station alerts the Federation, but they are also destroyed by the alien spacecraft. The only starship in range is the Enterprise, after undergoing a major overhaul in drydock orbiting Earth. Kirk rounds up the rest of his crew, and acquires some new members, and sets off to intercept the alien spacecraft. However, it has been three years since Kirk last went into deep space - is he up to the task of saving Earth?",
+    "runtime": "143 min",
+    "director": "Robert Wise",
+    "actors": "William Shatner, Leonard Nimoy, DeForest Kelley",
+    "production_country": "United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNjcyMmVmMTItNTA3Yy00NGJjLTlmYjQtZWQ3ZjcyNmU5NDQ2XkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/152.webp",
+    "imdb_rating": "6.4",
+    "imdb_votes": "101,824",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Star_Trek:_The_Motion_Picture",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/152.txt",
+    "plot_year_start": 2270,
+    "plot_year_end": 2270,
+    "epoch": "future-world",
+    "action_countries": [
+      "US"
+    ],
+    "action_continents": [
+      "North America"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Star Trek Universe",
+    "categories": [
+      {
+        "label": "spacefaring society grows from earthbound roots",
+        "description": "North America is imagined as one cradle of a wider starfaring order, where launch sites, shipyards, and interstellar institutions extend older national ambitions into the heavens. What you'll see: starships over Earth, academy discipline, space docks, moon bases, diplomats in uniform, and frontier voyages treated as public duty.",
+        "icon": "🚀"
+      },
+      {
+        "label": "war pushes life into permanent mobilization",
+        "description": "Alien attack, machine uprising, and planetary peril make military planning seep into civilian life, turning research, transport, and labour toward survival. What you'll see: recruitment drives, defense corps drills, giant war machines, orbital stations, ruined battle zones, and households living under alerts and casualty reports.",
+        "icon": "🪖"
+      }
+    ]
+  },
+  {
+    "movie_id": 31011,
+    "movie_idx": 3259,
+    "imdb_id": "tt0485947",
+    "title": "Mr. Nobody",
+    "production_year": "2009",
+    "genre": "Drama, Fantasy, Romance",
+    "plot": "'Nemo Nobody' is recounting his life story to a reporter. He's less than clear, often times thinking that he is 34 years of age, others, well over 100. But his story becomes more confusing after he does focus on the fact of his current real age.",
+    "runtime": "141 min",
+    "director": "Jaco Van Dormael",
+    "actors": "Jared Leto, Sarah Polley, Diane Kruger",
+    "production_country": "Belgium, Germany, Canada, France, United Kingdom, Luxembourg, United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTg4ODkzMDQ3Nl5BMl5BanBnXkFtZTgwNTEwMTkxMDE@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/31011.webp",
+    "imdb_rating": "7.7",
+    "imdb_votes": "255,707",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Mr._Nobody_(film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/31011.txt",
+    "plot_year_start": 2092,
+    "plot_year_end": 2092,
+    "epoch": "future-world",
+    "action_countries": [
+      "CA",
+      "GB",
+      "UNKNOWN"
+    ],
+    "action_continents": [
+      "North America",
+      "Europe",
+      "UNKNOWN"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "wealth and safety split from the masses",
+        "description": "Future society is sharply tiered, with clean enclaves, long life, and advanced treatment reserved for the fortunate while crowded districts and ruined ground are left to everyone else. What you'll see: guarded towers, off-world havens, checkpoints, slums, worn streets under giant screens, and desperate movement across forbidden boundaries.",
+        "icon": "🏙️"
+      }
+    ]
+  },
+  {
+    "movie_id": 18501,
+    "movie_idx": 3940,
+    "imdb_id": "tt1034032",
+    "title": "Gamer",
+    "production_year": "2009",
+    "genre": "Action, Sci-Fi, Thriller",
+    "plot": "Ken Castle is extremely rich, popular, and powerful since he invented and started exploiting the virtual online parallel reality games. In these games, people can either pay to be a user or get paid to be an 'actor' in a system of mind-control. In the ultimate version, Slayers, death row convicts act as gladiators in a desperate dim bid for survival, which no one has achieved yet. The champion, John 'Kable' Tillman, is scheduled to die just before he'd gain release, but he persuades his teenage 'handler' to hand over the reins so he can fully use his talents and experience. Kable escapes to freedom, but Castle's men chase him. Kable has to fight his way back to Castle's headquarters to challenge his hidden evil plans.",
+    "runtime": "95 min",
+    "director": "Mark Neveldine, Brian Taylor",
+    "actors": "Gerard Butler, Michael C. Hall, Ludacris",
+    "production_country": "United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTkzMDU0NTg3MF5BMl5BanBnXkFtZTcwNzU1MjU1Mg@@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/18501.webp",
+    "imdb_rating": "5.7",
+    "imdb_votes": "143,194",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Gamer_(2009_film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/18501.txt",
+    "plot_year_start": 2034,
+    "plot_year_end": 2034,
+    "epoch": "future-world",
+    "action_countries": [
+      "US"
+    ],
+    "action_continents": [
+      "North America"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "screens and simulations swallowing ordinary experience",
+        "description": "Many people live through mediated realities, memory devices, or game systems that are more alluring than the hard world around them. What you'll see: immersive headsets, holograms, recorded memories replayed like rooms, remote-controlled bodies, and whole neighborhoods lit by synthetic spectacle.",
+        "icon": "🕶️"
+      },
+      {
+        "label": "android servants becoming part of daily life",
+        "description": "Human-shaped machines have moved from workshop marvels into homes, streets, beds, police files, and hired service, even as people argue over whether they are property or persons. What you'll see: household robots, synthetic companions, replicant labour, machine faces passing for human, and tests meant to prove who is real.",
+        "icon": "🤖"
+      }
+    ]
+  },
+  {
+    "movie_id": 172,
+    "movie_idx": 3973,
+    "imdb_id": "tt0098382",
+    "title": "Star Trek V: The Final Frontier",
+    "production_year": "1989",
+    "genre": "Action, Adventure, Fantasy",
+    "plot": "When the newly-christened starship Enterprise's shakedown cruise goes poorly, Captain Kirk and crew put her into Spacedock for repairs. But an urgent mission interrupts their Earth-bound shore leave. A renegade Vulcan named Sybok has taken three ambassadors hostage on Nimbus III, the Planet of Galactic Peace. This event also attracts the attention of a Klingon captain who wants to make a name for himself and sets out to pursue the Enterprise. Sybok's ragtag army captures the Enterprise and takes her on a journey to the center of the galaxy in search of the Supreme Being.",
+    "runtime": "107 min",
+    "director": "William Shatner",
+    "actors": "William Shatner, Leonard Nimoy, DeForest Kelley",
+    "production_country": "United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNWEzYmU4ZDYtNWMwMi00YWRmLTg3NDQtMWFhYTI3YWQ2OTQ3XkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/172.webp",
+    "imdb_rating": "5.5",
+    "imdb_votes": "67,435",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Star_Trek_V:_The_Final_Frontier",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/172.txt",
+    "plot_year_start": 2287,
+    "plot_year_end": 2287,
+    "epoch": "future-world",
+    "action_countries": [
+      "US",
+      "FICTIONAL"
+    ],
+    "action_continents": [
+      "North America",
+      "FICTIONAL"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Star Trek Universe",
+    "categories": [
+      {
+        "label": "old faiths persist beside strange futures",
+        "description": "However advanced the setting becomes, people still interpret the world through scripture, prophecy, cosmic awe, cult devotion, and fears of damnation. What you'll see: sacred books guarded like treasure, apocalyptic preaching, pilgrims and believers, visions of higher beings, and ritual language spoken amid advanced devices.",
+        "icon": "📖"
+      },
+      {
+        "label": "screens and simulations swallowing ordinary experience",
+        "description": "Many people live through mediated realities, memory devices, or game systems that are more alluring than the hard world around them. What you'll see: immersive headsets, holograms, recorded memories replayed like rooms, remote-controlled bodies, and whole neighborhoods lit by synthetic spectacle.",
+        "icon": "🕶️"
+      }
+    ]
+  },
+  {
+    "movie_id": 199,
+    "movie_idx": 4221,
+    "imdb_id": "tt0117731",
+    "title": "Star Trek: First Contact",
+    "production_year": "1996",
+    "genre": "Action, Adventure, Drama",
+    "plot": "In the twenty-fourth century, the crew of the U.S.S. Enterprise NCC-1701-E has been ordered to patrol the Romulan Neutral Zone by the Federation to avoid interference with their battle against the insidious Borg. Witnessing the loss of the battle, Captain Jean-Luc Picard ignores orders and takes command of the fleet engaging the Borg. But the Borg plan to travel back into the twenty-first century through a vortex with the intention to stop Earth's first contact with an alien race (the Vulcans). Following the Borg sphere, Picard and his crew realize that they have taken over the Enterprise in order to carry out their mission. Their only chance to do away with the Borg and their seductive Queen is to make sure that Zefram Cochrane makes his famous faster-than-light travel to the stars.",
+    "runtime": "111 min",
+    "director": "Jonathan Frakes",
+    "actors": "Patrick Stewart, Jonathan Frakes, Brent Spiner",
+    "production_country": "United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZjc0OWE1NDMtNjRmMi00ZDc2LWI2ZmQtNzEwNWU4Nzg4NDA5XkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/199.webp",
+    "imdb_rating": "7.6",
+    "imdb_votes": "137,283",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Star_Trek:_First_Contact",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/199.txt",
+    "plot_year_start": 2063,
+    "plot_year_end": 2063,
+    "epoch": "future-world",
+    "action_countries": [
+      "US"
+    ],
+    "action_continents": [
+      "North America"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Star Trek Universe",
+    "categories": [
+      {
+        "label": "spacefaring society grows from earthbound roots",
+        "description": "North America is imagined as one cradle of a wider starfaring order, where launch sites, shipyards, and interstellar institutions extend older national ambitions into the heavens. What you'll see: starships over Earth, academy discipline, space docks, moon bases, diplomats in uniform, and frontier voyages treated as public duty.",
+        "icon": "🚀"
+      },
+      {
+        "label": "war pushes life into permanent mobilization",
+        "description": "Alien attack, machine uprising, and planetary peril make military planning seep into civilian life, turning research, transport, and labour toward survival. What you'll see: recruitment drives, defense corps drills, giant war machines, orbital stations, ruined battle zones, and households living under alerts and casualty reports.",
+        "icon": "🪖"
+      }
+    ]
+  },
+  {
+    "movie_id": 2135,
+    "movie_idx": 4314,
+    "imdb_id": "tt0268695",
+    "title": "The Time Machine",
+    "production_year": "2002",
+    "genre": "Action, Adventure, Sci-Fi",
+    "plot": "Based on the classic sci-fi novel by H.G. Wells, scientist and inventor, Alexander Hartdegen, is determined to prove that time travel is possible. His determination is turned to desperation by a personal tragedy that now drives him to want to change the past. Testing his theories with a time machine of his own invention, Hartdegen is hurtled 800,000 years into the future, where he discovers that mankind has divided into the hunter - and the hunted.",
+    "runtime": "96 min",
+    "director": "Simon Wells",
+    "actors": "Guy Pearce, Yancey Arias, Mark Addy",
+    "production_country": "United States, United Arab Emirates",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZjRiMTdjNmEtOGJjNy00ZjA1LTlkNzktNzc0NzMxNTY0OGE5XkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/2135.webp",
+    "imdb_rating": "6.0",
+    "imdb_votes": "134,417",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Time_Machine_(2002_film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/2135.txt",
+    "plot_year_start": 1899,
+    "plot_year_end": 635427810,
+    "epoch": "future-world",
+    "action_countries": [
+      "US"
+    ],
+    "action_continents": [
+      "North America"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "frontiers survive as wasteland and salvage",
+        "description": "Even with advanced devices, much of the continent remains patchy, lawless, or half-collapsed, so people still barter, scavenge, and rebuild from wreckage. What you'll see: stripped vehicles, black markets in machine parts, roadside settlements, abandoned suburbs, homemade gear, and long travel through empty country.",
+        "icon": "🛠️"
+      },
+      {
+        "label": "old faiths persist beside strange futures",
+        "description": "However advanced the setting becomes, people still interpret the world through scripture, prophecy, cosmic awe, cult devotion, and fears of damnation. What you'll see: sacred books guarded like treasure, apocalyptic preaching, pilgrims and believers, visions of higher beings, and ritual language spoken amid advanced devices.",
+        "icon": "📖"
+      }
+    ]
+  },
+  {
+    "movie_id": 579047,
+    "movie_idx": 4470,
+    "imdb_id": "tt3272066",
+    "title": "Reminiscence",
+    "production_year": "2021",
+    "genre": "Mystery, Romance, Sci-Fi",
+    "plot": "In a distant future in which Miami suffered severe consequences with global warming and became practically submerged, a particular Miami researcher is one of the highest references when it comes to recapturing lost or distant memories and return them to its contractors. But when he realizes a personal conflict with one of his clients, the situation becomes complicated.",
+    "runtime": "116 min",
+    "director": "Lisa Joy",
+    "actors": "Hugh Jackman, Rebecca Ferguson, Thandiwe Newton",
+    "production_country": "United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BOGZmNDYxMWItYWZiMi00OWUwLWIzODYtMWViOTFhNjQxYWE2XkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/579047.webp",
+    "imdb_rating": "5.9",
+    "imdb_votes": "70,250",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Reminiscence_(2021_film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/579047.txt",
+    "plot_year_start": 2050,
+    "plot_year_end": 2050,
+    "epoch": "future-world",
+    "action_countries": [
+      "US"
+    ],
+    "action_continents": [
+      "North America"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "broken climates remaking american landscapes",
+        "description": "The land itself has turned unstable through flood, heat, blight, drought, and poisoned weather, forcing people inland, upward, or into salvage living. What you'll see: half-drowned coasts, dust-choked farms, seawalls, dead crops, sun-bleached ruins, and cities surviving beside rising water.",
+        "icon": "🌊"
+      },
+      {
+        "label": "screens and simulations swallowing ordinary experience",
+        "description": "Many people live through mediated realities, memory devices, or game systems that are more alluring than the hard world around them. What you'll see: immersive headsets, holograms, recorded memories replayed like rooms, remote-controlled bodies, and whole neighborhoods lit by synthetic spectacle.",
+        "icon": "🕶️"
+      }
+    ]
+  },
+  {
+    "movie_id": 16234,
+    "movie_idx": 4619,
+    "imdb_id": "tt0233298",
+    "title": "Batman Beyond: Return of the Joker",
+    "production_year": "2000",
+    "genre": "Animation, Action, Crime, Sci-Fi, Thriller",
+    "plot": "While trying to uncover the Joker's secrets, Terry McGinnis, the new Batman, discovers the greatest mystery in the career of the original Batman - the true story of the night Batman fought the Joker for the last time. Though when Bruce Wayne is almost killed in one of the Joker's new attacks, it's up to Batman Beyond to avenge his mentor and put the Joker to rest forever.",
+    "runtime": "76 min",
+    "director": "Curt Geda",
+    "actors": "Will Friedle, Kevin Conroy, Mark Hamill, Angie Harmon",
+    "production_country": "USA",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNmRmODEwNzctYzU1MS00ZDQ1LWI2NWMtZWFkNTQwNDg1ZDFiXkEyXkFqcGdeQXVyNTI4MjkwNjA@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/16234.webp",
+    "imdb_rating": "7.8",
+    "imdb_votes": "24,592",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Batman_Beyond:_Return_of_the_Joker",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/16234.txt",
+    "plot_year_start": 2040,
+    "plot_year_end": 2040,
+    "epoch": "future-world",
+    "action_countries": [
+      "US"
+    ],
+    "action_continents": [
+      "North America"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "DC Animated Universe",
+    "categories": [
+      {
+        "label": "wealth and safety split from the masses",
+        "description": "Future society is sharply tiered, with clean enclaves, long life, and advanced treatment reserved for the fortunate while crowded districts and ruined ground are left to everyone else. What you'll see: guarded towers, off-world havens, checkpoints, slums, worn streets under giant screens, and desperate movement across forbidden boundaries.",
+        "icon": "🏙️"
+      },
+      {
+        "label": "screens and simulations swallowing ordinary experience",
+        "description": "Many people live through mediated realities, memory devices, or game systems that are more alluring than the hard world around them. What you'll see: immersive headsets, holograms, recorded memories replayed like rooms, remote-controlled bodies, and whole neighborhoods lit by synthetic spectacle.",
+        "icon": "🕶️"
+      }
+    ]
+  },
+  {
+    "movie_id": 201,
+    "movie_idx": 5060,
+    "imdb_id": "tt0253754",
+    "title": "Star Trek: Nemesis",
+    "production_year": "2002",
+    "genre": "Action, Adventure, Sci-Fi",
+    "plot": "After a joyous wedding between William Riker and Deanna Troi, Captain Picard and the Enterprise crew stumble upon a positronic signature which results in a prototype version of the android Data. Then the Enterprise is invited to Romulus to negotiate a peace treaty with the Romulans by their new leader, Praetor Shinzon. However, Shinzon is revealed to be a clone of Picard who was raised on Remus, a slave planet to the Romulans. Later on, Picard discovers that this peace treaty was nothing more than a set-up on account of the fact that Shinzon needs Picard in order to survive. But little do the Enterprise crew know that Shinzon also plans to do away with the Federation by unleashing a weapon that could destroy a whole planet.",
+    "runtime": "116 min",
+    "director": "Stuart Baird",
+    "actors": "Patrick Stewart, Jonathan Frakes, Brent Spiner",
+    "production_country": "United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjAxNjY2NDY3NF5BMl5BanBnXkFtZTcwMjA0MTEzMw@@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/201.webp",
+    "imdb_rating": "6.4",
+    "imdb_votes": "87,476",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Star_Trek:_Nemesis",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/201.txt",
+    "plot_year_start": 2379,
+    "plot_year_end": 2379,
+    "epoch": "future-world",
+    "action_countries": [
+      "US",
+      "FR",
+      "FICTIONAL"
+    ],
+    "action_continents": [
+      "North America",
+      "Europe",
+      "FICTIONAL"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Star Trek Universe",
+    "categories": [
+      {
+        "label": "android servants becoming part of daily life",
+        "description": "Human-shaped machines have moved from workshop marvels into homes, streets, beds, police files, and hired service, even as people argue over whether they are property or persons. What you'll see: household robots, synthetic companions, replicant labour, machine faces passing for human, and tests meant to prove who is real.",
+        "icon": "🤖"
+      },
+      {
+        "label": "the body measured, altered, and traded",
+        "description": "Birth, health, feeling, and lifespan are increasingly subject to design and exchange, so flesh becomes something tested, improved, rented, or priced. What you'll see: gene screening, artificial wombs, mood drugs, age held at one face, clinic machinery, and lives counted in doses, codes, or hours.",
+        "icon": "🧬"
+      }
+    ]
+  },
+  {
+    "movie_id": 2277,
+    "movie_idx": 5131,
+    "imdb_id": "tt0182789",
+    "title": "Bicentennial Man",
+    "production_year": "1999",
+    "genre": "Drama, Romance, Sci-Fi",
+    "plot": "This film follows the 'life' and times of the lead character, an android who is purchased as a household robot programmed to perform menial tasks. Within a few days the Martin family realizes that they don't have an ordinary droid as Andrew begins to experience emotions and creative thought. In a story that spans two centuries, Andrew learns the intricacies of humanity while trying to stop those who created him from destroying him.",
+    "runtime": "132 min",
+    "director": "Chris Columbus",
+    "actors": "Robin Williams, Embeth Davidtz, Sam Neill",
+    "production_country": "United States, Germany",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMzM1MDVlZDItN2ZiZS00MWY2LTk3YzgtOGY4ZDRhNTEyNzA4XkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/2277.webp",
+    "imdb_rating": "6.9",
+    "imdb_votes": "131,241",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Bicentennial_Man_(film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/2277.txt",
+    "plot_year_start": 2005,
+    "plot_year_end": 2205,
+    "epoch": "future-world",
+    "action_countries": [
+      "US"
+    ],
+    "action_continents": [
+      "North America"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "android servants becoming part of daily life",
+        "description": "Human-shaped machines have moved from workshop marvels into homes, streets, beds, police files, and hired service, even as people argue over whether they are property or persons. What you'll see: household robots, synthetic companions, replicant labour, machine faces passing for human, and tests meant to prove who is real.",
+        "icon": "🤖"
+      },
+      {
+        "label": "wealth and safety split from the masses",
+        "description": "Future society is sharply tiered, with clean enclaves, long life, and advanced treatment reserved for the fortunate while crowded districts and ruined ground are left to everyone else. What you'll see: guarded towers, off-world havens, checkpoints, slums, worn streets under giant screens, and desperate movement across forbidden boundaries.",
+        "icon": "🏙️"
+      }
+    ]
+  },
+  {
+    "movie_id": 8766,
+    "movie_idx": 5162,
+    "imdb_id": "tt0116514",
+    "title": "Hellraiser: Bloodline",
+    "production_year": "1996",
+    "genre": "Horror, Sci-Fi",
+    "plot": "It's the year 2127. Pinhead, the evil cenobite of the series, has found himself on board a space station in outer space, run by scientist Dr.Merchant. Dr. Merchant's mission is to close the gates to hell forever. Because his ancestor, a toymaker in the 18th century, built the evil puzzlebox that opens the gates to hell. And through the generations, the family of the bloodline has tried to stop it. But now, Dr.Merchant has built the reverse box. The box that will close the gates to hell instead of opening it.",
+    "runtime": "85 min",
+    "director": "Kevin Yagher",
+    "actors": "Bruce Ramsay, Valentina Vargas, Doug Bradley",
+    "production_country": "United Kingdom, United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYWUyYjc0NjMtOWMxNy00NzRkLTkzZGItOGU4NWIyZDllMzI1XkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/8766.webp",
+    "imdb_rating": "5.1",
+    "imdb_votes": "26,335",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Hellraiser:_Bloodline",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/8766.txt",
+    "plot_year_start": 2127,
+    "plot_year_end": 2127,
+    "epoch": "future-world",
+    "action_countries": [
+      "US",
+      "FR",
+      "FICTIONAL"
+    ],
+    "action_continents": [
+      "North America",
+      "Europe",
+      "FICTIONAL"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Hellraiser Universe",
+    "categories": [
+      {
+        "label": "screens and simulations swallowing ordinary experience",
+        "description": "Many people live through mediated realities, memory devices, or game systems that are more alluring than the hard world around them. What you'll see: immersive headsets, holograms, recorded memories replayed like rooms, remote-controlled bodies, and whole neighborhoods lit by synthetic spectacle.",
+        "icon": "🕶️"
+      }
+    ]
+  },
+  {
+    "movie_id": 174,
+    "movie_idx": 5540,
+    "imdb_id": "tt0102975",
+    "title": "Star Trek VI: The Undiscovered Country",
+    "production_year": "1991",
+    "genre": "Action, Adventure, Sci-Fi",
+    "plot": "After an explosion on their moon, the Klingons have an estimated 50 years before their ozone layer is completely depleted, and they all die. They have only one choice - to make peace with the Federation, which will mean an end to 70 years of conflict. Captain James T. Kirk and crew are called upon to help in the negotiations because of their experience with the Klingons. Peace talks don't quite proceed, and Kirk and McCoy are convicted of assassinating the Klingon High Chancellor, and imprisoned on Rura Penthe, a snowy hard-labor prison camp. Will they manage to escape? And will there ever be peace with the Klingons?",
+    "runtime": "110 min",
+    "director": "Nicholas Meyer",
+    "actors": "William Shatner, Leonard Nimoy, DeForest Kelley",
+    "production_country": "United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNDgzYjM5MWQtYTkzNy00OWZlLWEzMDctYjA5MDUyNmJhZjM5XkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/174.webp",
+    "imdb_rating": "7.2",
+    "imdb_votes": "84,387",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Star_Trek_VI:_The_Undiscovered_Country",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/174.txt",
+    "plot_year_start": 2293,
+    "plot_year_end": 2293,
+    "epoch": "future-world",
+    "action_countries": [
+      "US",
+      "FICTIONAL"
+    ],
+    "action_continents": [
+      "North America",
+      "FICTIONAL"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Star Trek Universe",
+    "categories": [
+      {
+        "label": "broken climates remaking american landscapes",
+        "description": "The land itself has turned unstable through flood, heat, blight, drought, and poisoned weather, forcing people inland, upward, or into salvage living. What you'll see: half-drowned coasts, dust-choked farms, seawalls, dead crops, sun-bleached ruins, and cities surviving beside rising water.",
+        "icon": "🌊"
+      }
+    ]
+  },
+  {
+    "movie_id": 168,
+    "movie_idx": 5664,
+    "imdb_id": "tt0092007",
+    "title": "Star Trek IV: The Voyage Home",
+    "production_year": "1986",
+    "genre": "Adventure, Comedy, Sci-Fi",
+    "plot": "The most acclaimed Star Trek adventure of all time with an important message. It is the 23rd century, and a mysterious alien probe is threatening Earth by evaporating the oceans and destroying the atmosphere. In their frantic attempt to save mankind, Admiral Kirk and his crew must time travel back to 1986 San Francisco where they find a world of punk, pizza and exact-change buses that are as alien to them as anything they have ever encountered in the far-off reaches of the galaxy. William Shatner and Leonard Nimoy return as Kirk and Spock, along with the entire Star Trek crew.",
+    "runtime": "119 min",
+    "director": "Leonard Nimoy",
+    "actors": "William Shatner, Leonard Nimoy, DeForest Kelley",
+    "production_country": "United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYmZlYWYwMzUtMjYzMy00MWI1LTg3MDctOTdjYjA2MDkwNGU5XkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/168.webp",
+    "imdb_rating": "7.3",
+    "imdb_votes": "96,177",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Star_Trek_IV:_The_Voyage_Home",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/168.txt",
+    "plot_year_start": 2286,
+    "plot_year_end": 2286,
+    "epoch": "future-world",
+    "action_countries": [
+      "US",
+      "FICTIONAL"
+    ],
+    "action_continents": [
+      "North America",
+      "FICTIONAL"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Star Trek Universe",
+    "categories": [
+      {
+        "label": "broken climates remaking american landscapes",
+        "description": "The land itself has turned unstable through flood, heat, blight, drought, and poisoned weather, forcing people inland, upward, or into salvage living. What you'll see: half-drowned coasts, dust-choked farms, seawalls, dead crops, sun-bleached ruins, and cities surviving beside rising water.",
+        "icon": "🌊"
+      },
+      {
+        "label": "spacefaring society grows from earthbound roots",
+        "description": "North America is imagined as one cradle of a wider starfaring order, where launch sites, shipyards, and interstellar institutions extend older national ambitions into the heavens. What you'll see: starships over Earth, academy discipline, space docks, moon bases, diplomats in uniform, and frontier voyages treated as public duty.",
+        "icon": "🚀"
+      }
+    ]
+  },
+  {
+    "movie_id": 307663,
+    "movie_idx": 6062,
+    "imdb_id": "tt3480796",
+    "title": "Vice",
+    "production_year": "2015",
+    "genre": "Action, Sci-Fi, Thriller",
+    "plot": "Julian Michaels (Bruce Willis) has designed the ultimate resort: VICE, where anything goes and the customers can play out their wildest fantasies with artificial inhabitants who look, think and feel like humans. When an artificial (Ambyr Childers) becomes self-aware and escapes, she finds herself caught in the crossfire between Julian's mercenaries and a cop (Thomas Jane) who is hell-bent on shutting down Vice, and stopping the violence once and for all.",
+    "runtime": "96 min",
+    "director": "Brian A. Miller",
+    "actors": "Thomas Jane, Bruce Willis, Ambyr Childers",
+    "production_country": "United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjE4OTg3Mjg5OV5BMl5BanBnXkFtZTgwMzYxMTg0MzE@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/307663.webp",
+    "imdb_rating": "4.2",
+    "imdb_votes": "17,424",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Vice_(2015_film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/307663.txt",
+    "plot_year_start": 2040,
+    "plot_year_end": 2040,
+    "epoch": "future-world",
+    "action_countries": [
+      "US"
+    ],
+    "action_continents": [
+      "North America"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "android servants becoming part of daily life",
+        "description": "Human-shaped machines have moved from workshop marvels into homes, streets, beds, police files, and hired service, even as people argue over whether they are property or persons. What you'll see: household robots, synthetic companions, replicant labour, machine faces passing for human, and tests meant to prove who is real.",
+        "icon": "🤖"
+      }
+    ]
+  },
+  {
+    "movie_id": 767825,
+    "movie_idx": 7088,
+    "imdb_id": "tt12585076",
+    "title": "Moonshot",
+    "production_year": "2022",
+    "genre": "Comedy, Romance, Sci-Fi",
+    "plot": "The romantic comedy with a sci-fi twist, is set in a future where Mars is terraformed and colonized by the best humanity has to offer. Two very different college students wind up joining forces and sneak onboard a space shuttle to the red planet in order to be united with their significant others.",
+    "runtime": "104 min",
+    "director": "Christopher Winterbauer",
+    "actors": "Cole Sprouse, Zach Braff, Peter Woodward",
+    "production_country": "United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTIyMjc0MzQtMTdiZi00YzE4LWJhNGMtMWIwYjM5Yzc1ZGM3XkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/767825.webp",
+    "imdb_rating": "5.6",
+    "imdb_votes": "6,787",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Moonshot_(2022_film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/767825.txt",
+    "plot_year_start": 2049,
+    "plot_year_end": 2049,
+    "epoch": "future-world",
+    "action_countries": [
+      "US"
+    ],
+    "action_continents": [
+      "North America"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "spacefaring society grows from earthbound roots",
+        "description": "North America is imagined as one cradle of a wider starfaring order, where launch sites, shipyards, and interstellar institutions extend older national ambitions into the heavens. What you'll see: starships over Earth, academy discipline, space docks, moon bases, diplomats in uniform, and frontier voyages treated as public duty.",
+        "icon": "🚀"
+      },
+      {
+        "label": "states ruling through fear and exception",
+        "description": "Public order is often kept not by steady law but by emergency powers, ritualized violence, surveillance, and officials who suspend mercy in the name of security. What you'll see: armed patrols, annual kill nights, prison experiments, barricaded capitals, biometric scans, and loud state messages promising protection.",
+        "icon": "🚨"
+      }
+    ]
+  },
+  {
+    "movie_id": 419704,
+    "movie_idx": 7538,
+    "imdb_id": "tt2935510",
+    "title": "Ad Astra",
+    "production_year": "2019",
+    "genre": "Adventure, Drama, Mystery",
+    "plot": "Astronaut Roy McBride (Brad Pitt) travels to the outer edges of the solar system to find his missing father and unravel a mystery that threatens the survival of our planet. His journey will uncover secrets that challenge the nature of human existence and our place in the cosmos.",
+    "runtime": "123 min",
+    "director": "James Gray",
+    "actors": "Brad Pitt, Tommy Lee Jones, Ruth Negga",
+    "production_country": "United States, China, Brazil",
+    "poster": "https://m.media-amazon.com/images/M/MV5BOGRhOGNjZjEtNTU2Ni00MDlmLWI3MWEtNzc1OGE2ZmEwZGNhXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/419704.webp",
+    "imdb_rating": "6.5",
+    "imdb_votes": "278,389",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Ad_Astra_(film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/419704.txt",
+    "plot_year_start": 2200,
+    "plot_year_end": 2200,
+    "epoch": "future-world",
+    "action_countries": [
+      "US",
+      "MO",
+      "AE"
+    ],
+    "action_continents": [
+      "North America",
+      "Asia",
+      "Asia"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "spacefaring society grows from earthbound roots",
+        "description": "North America is imagined as one cradle of a wider starfaring order, where launch sites, shipyards, and interstellar institutions extend older national ambitions into the heavens. What you'll see: starships over Earth, academy discipline, space docks, moon bases, diplomats in uniform, and frontier voyages treated as public duty.",
+        "icon": "🚀"
+      },
+      {
+        "label": "war pushes life into permanent mobilization",
+        "description": "Alien attack, machine uprising, and planetary peril make military planning seep into civilian life, turning research, transport, and labour toward survival. What you'll see: recruitment drives, defense corps drills, giant war machines, orbital stations, ruined battle zones, and households living under alerts and casualty reports.",
+        "icon": "🪖"
+      }
+    ]
+  },
+  {
+    "movie_id": 1649,
+    "movie_idx": 7960,
+    "imdb_id": "tt0101452",
+    "title": "Bill & Ted's Bogus Journey",
+    "production_year": "1991",
+    "genre": "Adventure, Comedy, Fantasy",
+    "plot": "The world of our distant future is a veritable utopia, thanks to the lyrics of two simple-minded 20th Century rock and rollers, Bill S. Preston, Esq. and Ted \"Theodore\" Logan. However, a would-be conquerer threatens to throw history off-track by sending \"most non-non-heinous\" evil robot Bill and Teds back to kill their good counterparts. Finding themselves dead, the boys must outwit the Grim Reaper and traverse Heaven and Hell to return to the land of the living, rescue their \"babes\" and have a \"most triumphant\" concert at the all-important Battle of the Bands.",
+    "runtime": "93 min",
+    "director": "Peter Hewitt",
+    "actors": "Keanu Reeves, Alex Winter, William Sadler",
+    "production_country": "United States, United Kingdom",
+    "poster": "https://m.media-amazon.com/images/M/MV5BOWQyNDNmZDYtZmMxYy00NWE1LTk2MzUtMzc1M2YyOTQ4ZjRmXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/1649.webp",
+    "imdb_rating": "6.3",
+    "imdb_votes": "84,037",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Bill_%26_Ted%27s_Bogus_Journey",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/1649.txt",
+    "plot_year_start": 2691,
+    "plot_year_end": 2691,
+    "epoch": "future-world",
+    "action_countries": [
+      "US",
+      "FICTIONAL"
+    ],
+    "action_continents": [
+      "North America",
+      "FICTIONAL"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "war pushes life into permanent mobilization",
+        "description": "Alien attack, machine uprising, and planetary peril make military planning seep into civilian life, turning research, transport, and labour toward survival. What you'll see: recruitment drives, defense corps drills, giant war machines, orbital stations, ruined battle zones, and households living under alerts and casualty reports.",
+        "icon": "🪖"
+      }
+    ]
+  },
+  {
+    "movie_id": 7249,
+    "movie_idx": 8099,
+    "imdb_id": "tt0471711",
+    "title": "Futurama: Bender's Big Score",
+    "production_year": "2007",
+    "genre": "Animation, Comedy, Romance, Sci-Fi",
+    "plot": "Planet Express sees a hostile takeover and Bender falls into the hands of criminals where he is used to fulfill their schemes.",
+    "runtime": "88 min",
+    "director": "Dwayne Carey-Hill",
+    "actors": "Billy West, Katey Sagal, John DiMaggio, Tress MacNeille",
+    "production_country": "USA",
+    "poster": "https://m.media-amazon.com/images/M/MV5BM2U3NmRiNDItMDQwYy00Y2Q0LWJiYzItNjAzNThkZjFlM2RiXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/7249.webp",
+    "imdb_rating": "7.7",
+    "imdb_votes": "33,276",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Futurama:_Bender%27s_Big_Score",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/7249.txt",
+    "plot_year_start": 3000,
+    "plot_year_end": 3000,
+    "epoch": "future-world",
+    "action_countries": [
+      "US",
+      "FICTIONAL",
+      "UNKNOWN"
+    ],
+    "action_continents": [
+      "North America",
+      "FICTIONAL",
+      "UNKNOWN"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "screens and simulations swallowing ordinary experience",
+        "description": "Many people live through mediated realities, memory devices, or game systems that are more alluring than the hard world around them. What you'll see: immersive headsets, holograms, recorded memories replayed like rooms, remote-controlled bodies, and whole neighborhoods lit by synthetic spectacle.",
+        "icon": "🕶️"
+      }
+    ]
+  },
+  {
+    "movie_id": 889675,
+    "movie_idx": 8507,
+    "imdb_id": "tt15768848",
+    "title": "The Pod Generation",
+    "production_year": "2023",
+    "genre": "Comedy, Romance, Sci-Fi",
+    "plot": "In a not-so-distant future, tech giant Pegazus offers couples the opportunity to share their pregnancies via detachable artificial wombs or pods. And so begins Rachel and Alvy's wild ride to parenthood in this brave new world.",
+    "runtime": "110 min",
+    "director": "Sophie Barthes",
+    "actors": "Emilia Clarke, Chiwetel Ejiofor, Rosalie Craig",
+    "production_country": "Belgium, France, United Kingdom, United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNmRjOTc3ZWEtY2Y0Ni00MjgwLWFiMmMtOTA5NjUxNjE0MDNkXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/889675.webp",
+    "imdb_rating": "5.6",
+    "imdb_votes": "6,661",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Pod_Generation",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/889675.txt",
+    "plot_year_start": 2040,
+    "plot_year_end": 2040,
+    "epoch": "future-world",
+    "action_countries": [
+      "US"
+    ],
+    "action_continents": [
+      "North America"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "the body measured, altered, and traded",
+        "description": "Birth, health, feeling, and lifespan are increasingly subject to design and exchange, so flesh becomes something tested, improved, rented, or priced. What you'll see: gene screening, artificial wombs, mood drugs, age held at one face, clinic machinery, and lives counted in doses, codes, or hours.",
+        "icon": "🧬"
+      },
+      {
+        "label": "android servants becoming part of daily life",
+        "description": "Human-shaped machines have moved from workshop marvels into homes, streets, beds, police files, and hired service, even as people argue over whether they are property or persons. What you'll see: household robots, synthetic companions, replicant labour, machine faces passing for human, and tests meant to prove who is real.",
+        "icon": "🤖"
+      }
+    ]
+  },
+  {
+    "movie_id": 2114,
+    "movie_idx": 8511,
+    "imdb_id": "tt0173840",
+    "title": "Final Fantasy: The Spirits Within",
+    "production_year": "2001",
+    "genre": "Animation, Action, Adventure",
+    "plot": "In the year 2065, the next great assault against an invading race of phantom-like aliens is about to be launched. Dr. Aki Ross, a brilliant young scientist, races to find the invaders' secrets, not only to save the planet, but herself as well after her body is infected by alien particles. She teams up with the prestigious Deep Eyes military squadron, led by her old friend Grey Edwards. But as Aki, her mentor Dr. Sid, and Grey work toward a peaceful end, the scheming General Hein devises a plot to eradicate the aliens in one swift, destructive blow...even if it destroys the Earth right along with them.",
+    "runtime": "106 min",
+    "director": "Hironobu Sakaguchi, Motonori Sakakibara",
+    "actors": "Alec Baldwin, Steve Buscemi, Ming-Na Wen",
+    "production_country": "Japan, United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZWM1MDdjMjMtNjJmYy00ZjY5LTllYmItMTU5N2RmMGI5NTM1XkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/2114.webp",
+    "imdb_rating": "6.4",
+    "imdb_votes": "85,657",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Final_Fantasy:_The_Spirits_Within",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/2114.txt",
+    "plot_year_start": 2065,
+    "plot_year_end": 2065,
+    "epoch": "future-world",
+    "action_countries": [
+      "US",
+      "RU"
+    ],
+    "action_continents": [
+      "North America",
+      "Europe"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "war pushes life into permanent mobilization",
+        "description": "Alien attack, machine uprising, and planetary peril make military planning seep into civilian life, turning research, transport, and labour toward survival. What you'll see: recruitment drives, defense corps drills, giant war machines, orbital stations, ruined battle zones, and households living under alerts and casualty reports.",
+        "icon": "🪖"
+      },
+      {
+        "label": "frontiers survive as wasteland and salvage",
+        "description": "Even with advanced devices, much of the continent remains patchy, lawless, or half-collapsed, so people still barter, scavenge, and rebuild from wreckage. What you'll see: stripped vehicles, black markets in machine parts, roadside settlements, abandoned suburbs, homemade gear, and long travel through empty country.",
+        "icon": "🛠️"
+      }
+    ]
+  },
+  {
+    "movie_id": 5491,
+    "movie_idx": 8600,
+    "imdb_id": "tt0185183",
+    "title": "Battlefield Earth",
+    "production_year": "2000",
+    "genre": "Action, Adventure, Sci-Fi",
+    "plot": "In the year 3000, humanity is no match for the Psychlos, a greedy, manipulative race on a quest for ultimate profit. Led by the seductive and powerful Terl, the Psychlos are stripping Earth of its resources, using the broken remnants of humanity as slaves. What is left of the human race has reverted to a primitive state, believing the invaders to be demons and technology to be evil. After humanity has all but given up any hope of freeing themselves from alien oppression, a young man named Tyler decides to leave his desolate home high in the Rocky Mountains to discover the truth, whereupon he is captured and enslaved. It is then that he decides to fight back, leading his fellow man in one final struggle for freedom.",
+    "runtime": "117 min",
+    "director": "Roger Christian",
+    "actors": "John Travolta, Forest Whitaker, Barry Pepper",
+    "production_country": "United States, Canada",
+    "poster": "https://m.media-amazon.com/images/M/MV5BODJiODc1NjQtZmRhZS00ZTlmLTlmNTItMmZiZjcxMmU4ZDI2XkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/5491.webp",
+    "imdb_rating": "2.5",
+    "imdb_votes": "85,609",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Battlefield_Earth_(film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/5491.txt",
+    "plot_year_start": 3000,
+    "plot_year_end": 3000,
+    "epoch": "future-world",
+    "action_countries": [
+      "US"
+    ],
+    "action_continents": [
+      "North America"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "wealth and safety split from the masses",
+        "description": "Future society is sharply tiered, with clean enclaves, long life, and advanced treatment reserved for the fortunate while crowded districts and ruined ground are left to everyone else. What you'll see: guarded towers, off-world havens, checkpoints, slums, worn streets under giant screens, and desperate movement across forbidden boundaries.",
+        "icon": "🏙️"
+      },
+      {
+        "label": "old faiths persist beside strange futures",
+        "description": "However advanced the setting becomes, people still interpret the world through scripture, prophecy, cosmic awe, cult devotion, and fears of damnation. What you'll see: sacred books guarded like treasure, apocalyptic preaching, pilgrims and believers, visions of higher beings, and ritual language spoken amid advanced devices.",
+        "icon": "📖"
+      }
+    ]
+  },
+  {
+    "movie_id": 401544,
+    "movie_idx": 8866,
+    "imdb_id": "tt5493706",
+    "title": "Death Race 2050",
+    "production_year": "2017",
+    "genre": "Action, Comedy, Sci-Fi, Sport",
+    "plot": "In the year 2050 the planet has become overpopulated, to help control population the government develops a \"Death Race.\" Annually competitors race across the country scoring points for killing people with their vehicles.",
+    "runtime": "93 min",
+    "director": "G.J. Echternkamp",
+    "actors": "Manu Bennett, Malcolm McDowell, Marci Miller, Burt Grinstead",
+    "production_country": "USA",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTkzNjA4MjgyMl5BMl5BanBnXkFtZTgwMTE1ODIyMDI@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/401544.webp",
+    "imdb_rating": "3.7",
+    "imdb_votes": "4,522",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Death_Race_2050",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/401544.txt",
+    "plot_year_start": 2050,
+    "plot_year_end": 2050,
+    "epoch": "future-world",
+    "action_countries": [
+      "US"
+    ],
+    "action_continents": [
+      "North America"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "screens and simulations swallowing ordinary experience",
+        "description": "Many people live through mediated realities, memory devices, or game systems that are more alluring than the hard world around them. What you'll see: immersive headsets, holograms, recorded memories replayed like rooms, remote-controlled bodies, and whole neighborhoods lit by synthetic spectacle.",
+        "icon": "🕶️"
+      },
+      {
+        "label": "war pushes life into permanent mobilization",
+        "description": "Alien attack, machine uprising, and planetary peril make military planning seep into civilian life, turning research, transport, and labour toward survival. What you'll see: recruitment drives, defense corps drills, giant war machines, orbital stations, ruined battle zones, and households living under alerts and casualty reports.",
+        "icon": "🪖"
+      }
+    ]
+  },
+  {
+    "movie_id": 473072,
+    "movie_idx": 8904,
+    "imdb_id": "tt7326248",
+    "title": "2036: Nexus Dawn",
+    "production_year": "2017",
+    "genre": "Short, Sci-Fi, Thriller",
+    "plot": "Precisely thirteen years before young Blade Runner K's discovery in Blade Runner 2049 (2017), Niander Wallace, the founder of the replicant manufacturing company, Wallace Corporation, expressed his desire to create a new line of synthetics. With Earth's ecosystem rapidly deteriorating, Niander stresses the importance of cheap labour, making sure to illustrate the fact that the superior Nexus-9 replicants pose no threat to society, created only to serve. Will Wallace's ambitious project get the green light?",
+    "runtime": "6 min",
+    "director": "Luke Scott",
+    "actors": "Jared Leto, Benedict Wong, Ned Dennehy",
+    "production_country": "United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZDZiYWIxZDYtMGVkNS00NzY0LWIzNTItZjQ0YzNkYzI4ZGU0XkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/473072.webp",
+    "imdb_rating": "6.9",
+    "imdb_votes": "9,201",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/2036:_Nexus_Dawn",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/473072.txt",
+    "plot_year_start": 2036,
+    "plot_year_end": 2036,
+    "epoch": "future-world",
+    "action_countries": [
+      "US"
+    ],
+    "action_continents": [
+      "North America"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Blade Runner Universe",
+    "categories": [
+      {
+        "label": "android servants becoming part of daily life",
+        "description": "Human-shaped machines have moved from workshop marvels into homes, streets, beds, police files, and hired service, even as people argue over whether they are property or persons. What you'll see: household robots, synthetic companions, replicant labour, machine faces passing for human, and tests meant to prove who is real.",
+        "icon": "🤖"
+      },
+      {
+        "label": "broken climates remaking american landscapes",
+        "description": "The land itself has turned unstable through flood, heat, blight, drought, and poisoned weather, forcing people inland, upward, or into salvage living. What you'll see: half-drowned coasts, dust-choked farms, seawalls, dead crops, sun-bleached ruins, and cities surviving beside rising water.",
+        "icon": "🌊"
+      }
+    ]
+  },
+  {
+    "movie_id": 243938,
+    "movie_idx": 8943,
+    "imdb_id": "tt2637294",
+    "title": "Hot Tub Time Machine 2",
+    "production_year": "2015",
+    "genre": "Comedy, Mystery, Sci-Fi",
+    "plot": "When Lou gets killed, Nick and Jacob fire up the hot tub time machine to get back to the past, but they inadvertently land in the future with Adam Jr. Now they have to alter the future in order to save the past, which is really the present.",
+    "runtime": "93 min",
+    "director": "Steve Pink",
+    "actors": "Rob Corddry, Craig Robinson, Clark Duke",
+    "production_country": "United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTU3NzQzMzE0NV5BMl5BanBnXkFtZTgwMDM4MTI0NDE@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/243938.webp",
+    "imdb_rating": "5.0",
+    "imdb_votes": "43,814",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Hot_Tub_Time_Machine_2",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/243938.txt",
+    "plot_year_start": 2035,
+    "plot_year_end": 2035,
+    "epoch": "future-world",
+    "action_countries": [
+      "US"
+    ],
+    "action_continents": [
+      "North America"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "screens and simulations swallowing ordinary experience",
+        "description": "Many people live through mediated realities, memory devices, or game systems that are more alluring than the hard world around them. What you'll see: immersive headsets, holograms, recorded memories replayed like rooms, remote-controlled bodies, and whole neighborhoods lit by synthetic spectacle.",
+        "icon": "🕶️"
+      }
+    ]
+  }
+]

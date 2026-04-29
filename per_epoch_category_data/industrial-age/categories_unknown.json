@@ -1,0 +1,101 @@
+{
+  "epoch": "industrial-age",
+  "continent": "unknown",
+  "sample_size": 5,
+  "sample": [
+    {
+      "title": "Django",
+      "years": "1865..1867",
+      "countries": [
+        "UNKNOWN",
+        "MX",
+        "US"
+      ],
+      "plot": "Squelching across a God-forsaken ghost town near the US/Mexican border, always dragging a heavy coffin, blue-eyed Django, a drifting, mud-spattered, former Union soldier, saves runaway María from certain death. But, the wooden container with the mysterious content has already caught the attention of the racist ex-Confederate officer, Major Jackson, and his gang of white supremacists, and before long, things get nasty. Now, the guns have the final say, and as if that weren't enough, Jackson's sworn enemy, General Hugo Rodríguez, and his feared revolutionaries, enter the picture, wanting to have a piece of the action. Can Django, the taciturn stranger with the lighting-fast right hand, take on two armies of murderous henchmen, and live to tell the tale?"
+    },
+    {
+      "title": "Allan Quatermain and the Lost City of Gold",
+      "years": "1880..1880",
+      "countries": [
+        "UNKNOWN"
+      ],
+      "plot": "After his brother Robeson disappears without a trace while exploring Africa in search of a legendary 'white tribe', Alan Quatermain decides to follow in his footsteps to learn what became of him. Soon after arriving, he discovers the los City of Gold, controlled by the evil lord Agon, and mined by his legions of white slaves. Is this where Robeson met his end?"
+    },
+    {
+      "title": "Fiddler on the Roof",
+      "years": "1905..1905",
+      "countries": [
+        "UNKNOWN"
+      ],
+      "plot": "At the beginning of the twentieth century, Jews and Orthodox Christians live in the little village of Anatevka in the pre-revolutionary Russia of the Czars. Among the traditions of the Jewish community, the matchmaker arranges the match and the father approves it. The milkman Reb Tevye is a poor man that has been married for twenty-five years with Golde and they have five daughters. When the local matchmaker Yente arranges the match between his older daughter Tzeitel and the old widow butcher Lazar Wolf, Tevye agrees with the wedding. However Tzeitel is in love with the poor tailor Motel Kamzoil and they ask permission to Tevye to get married that he accepts to please his daughter. Then his second daughter Hodel (Michele Marsh) and the revolutionary student Perchik decide to marry each other and Tevye is forced to accept. When Perchik is arrested by the Czar troops and sent to Siberia, Hodel decides to leave her family and homeland and travel to Siberia to be with her beloved Perchik. When his third daughter Chava decides to get married with the Christian Fyedka, Tevye does not accept and considers that Chava has died. Meanwhile the Czar troops evict the Jewish community from Anatevka."
+    },
+    {
+      "title": "Fallen",
+      "years": "1854..1854",
+      "countries": [
+        "UNKNOWN"
+      ],
+      "plot": "Aaron is a high school jock with a promising future. But on his 18th birthday, his life forever changes when his incredible powers emerge, revealing the terrifying truth of his identity. As The Redeemer, a half-angel, half-man who can return fallen angels to heaven, Aaron holds the entire world's destiny in his young hands. He must battle warrior seraphs and confront the fallen angel who has sparked his nightmares. But can he save himself and the girl he loves? Based on the bestselling book series, Fallen soars to new levels in the battle between good and evil."
+    },
+    {
+      "title": "Tarzan",
+      "years": "1890..1899",
+      "countries": [
+        "UNKNOWN"
+      ],
+      "plot": "The movie is about the life of Tarzan. Tarzan was a small orphan who was raised by an ape named Kala since he was a child. He believed that this was his family, but on an expedition Jane Porter is rescued by Tarzan. He then finds out that he's human. Now Tarzan must make the decision as to which family he should belong to..."
+    }
+  ],
+  "categories": [
+    {
+      "label": "frontier zones beyond steady state rule",
+      "description": "Large stretches of land sit far from firm government, so order depends on whoever has men, horses, and guns close at hand. What you'll see: lonely border settlements, rough tracks, improvised justice, and places where fear travels faster than officials.",
+      "icon": "🤠"
+    },
+    {
+      "label": "empires reaching into distant hinterlands",
+      "description": "Powerful states and outside adventurers push into remote regions for land, knowledge, labour, and prestige, often treating local worlds as prizes to be entered and remade. What you'll see: expeditions into unmapped country, military patrols, foreign banners, and strangers laying claim to places they barely understand.",
+      "icon": "🚩"
+    },
+    {
+      "label": "railways and steam travel shrinking distance",
+      "description": "Steam power and the rail line tie far-off villages, ports, and frontiers more tightly to capitals and markets than before. What you'll see: stations and sidings, timetables and departures, long journeys made possible by modern conveyance, and news arriving from afar with unsettling speed.",
+      "icon": "🚂"
+    },
+    {
+      "label": "rifles and revolvers settling disputes quickly",
+      "description": "Cheap, portable firearms make violence deadlier and more immediate, giving small bands and lone men sudden power once reserved for armies. What you'll see: holsters and carbines, armed patrols, tense stand-offs, and settlements where every quarrel seems close to bloodshed.",
+      "icon": "🔫"
+    },
+    {
+      "label": "village custom still ordering family life",
+      "description": "In many places, marriage, kinship, and daily conduct are governed less by personal choice than by inherited custom, elders, and religious expectation. What you'll see: arranged matches, household bargaining, Sabbath or feast-day observance, and constant talk of duty, honour, and reputation.",
+      "icon": "👵"
+    },
+    {
+      "label": "minorities living at the mercy of rulers",
+      "description": "Religious and ethnic communities may keep their own ways for generations yet remain exposed to sudden decrees, harassment, or expulsion from above. What you'll see: separate quarters, soldiers enforcing official orders, wary dealings with neighbours, and families preparing to leave home behind.",
+      "icon": "🧳"
+    },
+    {
+      "label": "missionaries and sacred language shaping belief",
+      "description": "Biblical teaching, church authority, and older sacred ideas still furnish the main terms people use to explain suffering, evil, destiny, and moral order. What you'll see: prayers and sermons, crosses and icons, appeals to heaven, and everyday speech thick with sin, judgement, and redemption.",
+      "icon": "⛪"
+    },
+    {
+      "label": "cash hunger driving conquest and labour",
+      "description": "Gold, land, stock, and other prizes draw men across borders and into harsh country, turning violence and domination into ordinary means of gain. What you'll see: mines and treasure rumours, armed escorts, coerced workers, bargaining over spoils, and hard landscapes valued mainly for what can be taken from them.",
+      "icon": "⛏️"
+    },
+    {
+      "label": "small settlements living on thin margins",
+      "description": "Away from great cities, many communities survive by patching together trade, farming, herding, and craft under constant threat from weather, debt, or unrest. What you'll see: muddy streets, market wagons, humble cottages or shacks, patched clothing, and households counting every animal, loaf, or coin.",
+      "icon": "🛖"
+    },
+    {
+      "label": "old hierarchies challenged by new mobility",
+      "description": "The age loosens long-standing ranks as soldiers, emigrants, students, drifters, and explorers move across borders and imagine lives not fixed at birth. What you'll see: people leaving home, clashes between fathers and children, uniforms beside peasant dress, and newcomers carrying unfamiliar manners and ideas.",
+      "icon": "🧭"
+    }
+  ]
+}

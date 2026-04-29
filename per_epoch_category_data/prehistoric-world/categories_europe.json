@@ -1,0 +1,68 @@
+{
+  "epoch": "prehistoric-world",
+  "continent": "europe",
+  "sample_size": 1,
+  "sample": [
+    {
+      "title": "10,000 BC",
+      "years": "-10000..-10000",
+      "countries": [
+        "RU",
+        "EG"
+      ],
+      "plot": "A pseudo-orphaned semi-outcast since his father left his mammoth hunting tribe on a secret, prophecy-related mission, D'Leh grows up as protégé of master hunter Tic'Tic. Putting truth first, he sacrifices his cheater chance to win status and the charmed girl Evolet, who thus falls to his rival-buddy Ka'Ren. The couple is among the captives taken by horse-riding slave-hunters, but D'Leh takes charge of an epic rescue mission that follows the caravan all the way to the pyramid building site of a 'living god'. By winning the support of a people he impressed on the way thanks to a saber-tooth he once saved and secretly forging a slave rise, he bids for his people's liberation."
+    }
+  ],
+  "categories": [
+    {
+      "label": "small tribes living by the hunt",
+      "description": "People survive in close kin groups that move with game, seasons, and the limits of what the land can yield. What you'll see: hunting bands on open tundra, shared fires and skin shelters, and food, safety, and status tied to success in the chase.",
+      "icon": "🏹"
+    },
+    {
+      "label": "ice age cold shaping every journey",
+      "description": "Life unfolds in a harsh, cold world where weather, distance, and barren ground make travel slow and dangerous. What you'll see: snowy plains, biting winds, steep mountains, and long marches across unforgiving country.",
+      "icon": "🏔️"
+    },
+    {
+      "label": "great beasts still ruling the land",
+      "description": "Humans share the world with enormous animals whose migrations, strength, and threat govern where people go and how they live. What you'll see: mammoth herds, saber-toothed predators, traps and spears, and awe before creatures larger than any village can master alone.",
+      "icon": "🦣"
+    },
+    {
+      "label": "skill in the hunt wins honor",
+      "description": "Prestige rests on proven courage, strength, and usefulness in bringing down dangerous prey for the group. What you'll see: ritual tests of worth, prized hunters teaching the young, and public esteem attached to trophies and hard-won kills.",
+      "icon": "🪓"
+    },
+    {
+      "label": "seers and omens guiding decisions",
+      "description": "The unseen world is taken as active in human affairs, with dreams, prophecies, and signs helping to explain suffering and direct action. What you'll see: elders speaking of fate, sacred tokens, fearful attention to omens, and communal trust in visions.",
+      "icon": "🦉"
+    },
+    {
+      "label": "captives treated as human spoil",
+      "description": "Warfare and raiding can turn defeated people into movable wealth, forced labour, and signs of another ruler's power. What you'll see: chained columns of prisoners, slave-hunters on the move, guarded camps, and families broken apart by capture.",
+      "icon": "⛓️"
+    },
+    {
+      "label": "horses changing speed and reach",
+      "description": "Mounted travel gives some peoples a great advantage in pursuit, raiding, and command over distance. What you'll see: riders overtaking people on foot, swift desert crossings, and fear inspired by hooves, dust, and sudden attack.",
+      "icon": "🐎"
+    },
+    {
+      "label": "monuments raised by massed labor",
+      "description": "Power gathers thousands of hands into works too vast for a single clan, showing rule through organised toil and spectacle. What you'll see: stone hauled in great numbers, overseers driving workers, and immense building sites dominating the horizon.",
+      "icon": "🗿"
+    },
+    {
+      "label": "god-kings ruling from rich river lands",
+      "description": "Far from scattered tribal life, settled realms can concentrate grain, manpower, and obedience around a sacred ruler. What you'll see: fertile valleys beside dry wastes, guarded compounds, storehouses and processions, and authority made visible in courtly display.",
+      "icon": "👑"
+    },
+    {
+      "label": "many peoples linked by caravan routes",
+      "description": "Even in a world of scattered tribes, long land routes connect distant regions through exchange, movement, and conquest. What you'll see: caravans crossing deserts, foreign tongues and dress, pack animals, and strangers carrying news, goods, and captives between worlds.",
+      "icon": "🐪"
+    }
+  ]
+}

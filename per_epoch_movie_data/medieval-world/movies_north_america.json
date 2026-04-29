@@ -1,0 +1,324 @@
+[
+  {
+    "movie_id": 10195,
+    "movie_idx": 604,
+    "imdb_id": "tt0800369",
+    "title": "Thor",
+    "production_year": "2011",
+    "genre": "Action, Fantasy",
+    "plot": "The warrior Thor (Chris Hemsworth) is cast out of the fantastic realm of Asgard by his father Odin (Sir Anthony Hopkins) for his arrogance and sent to Earth to live amongst humans. Falling in love with scientist Jane Foster (Natalie Portman) teaches Thor much-needed lessons, and his new-found strength comes into play as a villain from his homeland sends dark forces toward Earth.",
+    "runtime": "115 min",
+    "director": "Kenneth Branagh",
+    "actors": "Chris Hemsworth, Anthony Hopkins, Natalie Portman",
+    "production_country": "United States, France",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNjRhNGZjZjEtYTQzYS00OWUxLThjNGEtMTIwMTE2ZDFlZTZkXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/10195.webp",
+    "imdb_rating": "7.0",
+    "imdb_votes": "958,893",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Thor_(film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/10195.txt",
+    "plot_year_start": 965,
+    "plot_year_end": 2011,
+    "epoch": "medieval-world",
+    "action_countries": [
+      "US",
+      "FICTIONAL"
+    ],
+    "action_continents": [
+      "North America",
+      "FICTIONAL"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Marvel Cinematic Universe",
+    "categories": [
+      {
+        "label": "chiefs and nobles rule by force",
+        "description": "Power rests with war leaders, hereditary rulers, and local elites who command followers, exact tribute, and display rank in visible ways. What you'll see: imposing leaders borne or attended by retainers, tribute goods, guarded compounds, ceremonial dress, and harsh punishments that enforce authority.",
+        "icon": "👑"
+      },
+      {
+        "label": "gods read through omens and rites",
+        "description": "Sacred power is understood through ceremony, priestly authority, and signs in the heavens or natural world that give events meaning. What you'll see: temples or ritual grounds, offerings of blood and goods, invocations before danger, and awe when eclipses or other signs appear.",
+        "icon": "🌘"
+      }
+    ]
+  },
+  {
+    "movie_id": 1579,
+    "movie_idx": 1026,
+    "imdb_id": "tt0472043",
+    "title": "Apocalypto",
+    "production_year": "2006",
+    "genre": "Action, Adventure, Drama",
+    "plot": "In the Maya civilization, a peaceful tribe is brutally attacked by warriors seeking slaves and human beings for sacrifice for their gods. Jaguar Paw hides his pregnant wife and his son in a deep hole nearby their tribe and is captured while fighting with his people. An eclipse spares his life from the sacrifice and later he has to fight to survive and save his beloved family.",
+    "runtime": "139 min",
+    "director": "Mel Gibson",
+    "actors": "Gerardo Taracena, Raoul Max Trujillo, Dalia Hernández",
+    "production_country": "United States, Mexico",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMzJkNzI3ZmEtZmRhOS00YTM1LWI3OTAtZmVjZmNkODIxNmFmXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/1579.webp",
+    "imdb_rating": "7.8",
+    "imdb_votes": "355,188",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Apocalypto",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/1579.txt",
+    "plot_year_start": 1511,
+    "plot_year_end": 1511,
+    "epoch": "medieval-world",
+    "action_countries": [
+      "MX"
+    ],
+    "action_continents": [
+      "North America"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "forest, jungle, and coast shape movement",
+        "description": "Travel, hunting, war, and settlement all follow the demands of dense woodland, riverways, swamps, and sea coasts rather than paved roads. What you'll see: canoes and seagoing craft, hard journeys through undergrowth, hidden paths, steep cliffs, and villages set where water and game can be reached.",
+        "icon": "🛶"
+      },
+      {
+        "label": "captives taken for labor and sacrifice",
+        "description": "Defeat in war can mean being carried away alive, with captives folded into systems of servitude, tribute, or ritual killing. What you'll see: bound prisoners on the march, public humiliation, guarded processions, slave-taking raids, and fear of what awaits the captured.",
+        "icon": "⛓️"
+      }
+    ]
+  },
+  {
+    "movie_id": 274854,
+    "movie_idx": 1719,
+    "imdb_id": "tt1618442",
+    "title": "The Last Witch Hunter",
+    "production_year": "2015",
+    "genre": "Action, Adventure, Fantasy",
+    "plot": "The modern world holds many secrets, but the most astounding secret of all is that witches still live amongst us; vicious supernatural creatures intent on unleashing the Black Death upon the world. Armies of witch hunters battled the unnatural enemy across the globe for centuries, including Kaulder, a valiant warrior who managed to slay the all-powerful Queen Witch, decimating her followers in the process. In the moments right before her death, the Queen curses Kaulder with her own immortality, forever separating him from his beloved wife and daughter in the afterlife. Today Kaulder is the only one of his kind remaining, and has spent centuries hunting down rogue witches, all the while yearning for his long-lost loved ones. However, unbeknownst to Kaulder, the Queen Witch is resurrected and seeks revenge on her killer causing an epic battle that will determine the survival of the human race.",
+    "runtime": "106 min",
+    "director": "Breck Eisner",
+    "actors": "Vin Diesel, Rose Leslie, Elijah Wood",
+    "production_country": "United States, China",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjM5Njk5MzYzM15BMl5BanBnXkFtZTgwNzM1Mjk4NjE@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/274854.webp",
+    "imdb_rating": "5.9",
+    "imdb_votes": "115,994",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Last_Witch_Hunter",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/274854.txt",
+    "plot_year_start": 1200,
+    "plot_year_end": 2015,
+    "epoch": "medieval-world",
+    "action_countries": [
+      "US"
+    ],
+    "action_continents": [
+      "North America"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "gods read through omens and rites",
+        "description": "Sacred power is understood through ceremony, priestly authority, and signs in the heavens or natural world that give events meaning. What you'll see: temples or ritual grounds, offerings of blood and goods, invocations before danger, and awe when eclipses or other signs appear.",
+        "icon": "🌘"
+      }
+    ]
+  },
+  {
+    "movie_id": 27022,
+    "movie_idx": 1888,
+    "imdb_id": "tt0963966",
+    "title": "The Sorcerer's Apprentice",
+    "production_year": "2010",
+    "genre": "Action, Adventure, Family",
+    "plot": "Balthazar Blake (Nicolas Cage) is a master sorcerer in modern-day Manhattan trying to defend the city from his arch-nemesis, Maxim Horvath (Alfred Molina). Balthazar can't do it alone, so he recruits Dave Stutler (Jay Baruchel), a seemingly average guy who demonstrates hidden potential, as his reluctant protégé. The sorcerer gives his unwilling accomplice a crash course in the art and science of magic, and together, these unlikely partners work to stop the forces of darkness. It'll take all the courage Dave can muster to survive his training, save the city and get the girl as he becomes The Sorcerer's Apprentice.",
+    "runtime": "109 min",
+    "director": "Jon Turteltaub",
+    "actors": "Nicolas Cage, Jay Baruchel, Alfred Molina",
+    "production_country": "United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BM2Y0MGJhZTAtYjBkNS00MmM4LWJmOWYtNjQ3ZTFlMmRhZGY0XkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/27022.webp",
+    "imdb_rating": "6.1",
+    "imdb_votes": "176,065",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Sorcerer%27s_Apprentice_(2010_film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/27022.txt",
+    "plot_year_start": 740,
+    "plot_year_end": 2000,
+    "epoch": "medieval-world",
+    "action_countries": [
+      "US"
+    ],
+    "action_continents": [
+      "North America"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "gods read through omens and rites",
+        "description": "Sacred power is understood through ceremony, priestly authority, and signs in the heavens or natural world that give events meaning. What you'll see: temples or ritual grounds, offerings of blood and goods, invocations before danger, and awe when eclipses or other signs appear.",
+        "icon": "🌘"
+      }
+    ]
+  },
+  {
+    "movie_id": 11852,
+    "movie_idx": 2720,
+    "imdb_id": "tt0302640",
+    "title": "The Hot Chick",
+    "production_year": "2002",
+    "genre": "Comedy, Fantasy",
+    "plot": "Jessica Spencer is the hottest, most popular girl in high school. Jessica, her best friend April, and a couple of other hot girls Lulu and Keecia visit the mall to hang out and do some shopping. They enter a new age store, where they check out a pair of ancient earrings. Unbeknownst to Jessica, these are magical ones set in ancient Abyssinia. A princess known as Princess Nawa is disgusted by the groom of her arranged marriage and switches bodies with a slave girl by means of an enchanted set of earrings. Since the earrings are not for sale, Jessica steals them. But the next morning she gets a big dose of reality when she wakes up in the body of a 30-something lowlife male, Clive, a career criminal. Clive finds himself in Jessica's body. Now it's up to Jessica (in Clive's body) to find a way to get her body back, while Clive (in Jessica's body) takes advantage of his new body to set in motion a crime spree to put the blame on Jessica!",
+    "runtime": "104 min",
+    "director": "Tom Brady",
+    "actors": "Rob Schneider, Rachel McAdams, Anna Faris",
+    "production_country": "United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMzY1NTAzNTA3Ml5BMl5BanBnXkFtZTYwMDA5Mzc3._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/11852.webp",
+    "imdb_rating": "5.6",
+    "imdb_votes": "108,672",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Hot_Chick",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/11852.txt",
+    "plot_year_start": -50,
+    "plot_year_end": 2002,
+    "epoch": "medieval-world",
+    "action_countries": [
+      "US"
+    ],
+    "action_continents": [
+      "North America"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "stone cities and timber villages coexist",
+        "description": "North America in this age holds very different kinds of settlement, from monumental ritual centers to small wooden or thatched communities. What you'll see: pyramids and plazas in one region, palisades and longhouses in another, market crowds, and humble dwellings built from local materials.",
+        "icon": "🛖"
+      },
+      {
+        "label": "villages tied by kin and tribe",
+        "description": "Most people live in small communities where kinship, clan ties, and tribal belonging decide protection, marriage, and duty. What you'll see: council circles, extended households, elders guiding decisions, communal labor, and strangers judged by the group they come from.",
+        "icon": "👪"
+      }
+    ]
+  },
+  {
+    "movie_id": 1534,
+    "movie_idx": 3861,
+    "imdb_id": "tt0446013",
+    "title": "Pathfinder",
+    "production_year": "2007",
+    "genre": "Action, Adventure, Drama",
+    "plot": "A young Viking boy is left behind at a hostile tribe of American Indians, whom eventually accept him into the tribe and raise him. A personal war begins for the young Viking when the Vikings return 15 years later and initiate a barbaric attack on the tribe and the woman he loves.",
+    "runtime": "99 min",
+    "director": "Marcus Nispel",
+    "actors": "Karl Urban, Clancy Brown, Moon Bloodgood",
+    "production_country": "United States, Canada",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTk5MDY0NTA1OV5BMl5BanBnXkFtZTcwNjE0MDM0MQ@@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/1534.webp",
+    "imdb_rating": "5.4",
+    "imdb_votes": "47,516",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Pathfinder_(2007_film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/1534.txt",
+    "plot_year_start": 1000,
+    "plot_year_end": 1015,
+    "epoch": "medieval-world",
+    "action_countries": [
+      "CA"
+    ],
+    "action_continents": [
+      "North America"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "war bands raiding neighboring peoples",
+        "description": "Violence often comes as sudden raids for captives, vengeance, plunder, or the defense of territory rather than as set-piece battles between kingdoms. What you'll see: surprise attacks on settlements, warriors painted or armed for close combat, burning homes, and pursuit through rough country.",
+        "icon": "🪓"
+      },
+      {
+        "label": "captives taken for labor and sacrifice",
+        "description": "Defeat in war can mean being carried away alive, with captives folded into systems of servitude, tribute, or ritual killing. What you'll see: bound prisoners on the march, public humiliation, guarded processions, slave-taking raids, and fear of what awaits the captured.",
+        "icon": "⛓️"
+      }
+    ]
+  },
+  {
+    "movie_id": 10351,
+    "movie_idx": 6462,
+    "imdb_id": "tt0120524",
+    "title": "Wishmaster",
+    "production_year": "1997",
+    "genre": "Fantasy, Horror",
+    "plot": "In the beginning of the times, God created life into universe: light gave birth to angels, earth to men and fire to djin, creatures condemned to dwell in the void between the worlds. One who wakes a djin shall be given three wishes. Upon granting the third, an unholy legion of djins are freed through a doorway between the worlds upon the Earth. In 1127 A.D., in Persia, a sorcerer lures and traps a powerful Djinn in the stone of secret fire. In the present days, a drunken crane operator drops the valuable statue of Ahura Mazda over the assistant of Raymond Beaumont on the harbor, and one worker finds the huge and priceless opal red stone where Djin is seized. Alexandra Amberson, who works in an auction house, receives the stone for evaluation and accidentally awakes Djin. The evil creature is released later, charges the stone with people souls and feeds with their fears, while chasing Alexandra to force to make three wishes and unleash the demoniac fiends upon Earth.",
+    "runtime": "90 min",
+    "director": "Robert Kurtzman",
+    "actors": "Tammy Lauren, Andrew Divoff, Angus Scrimm",
+    "production_country": "United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYmE0ZjU5NDctMjY5NS00NTBhLWEzMTItNTE0N2I5MmZiNjY0XkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/10351.webp",
+    "imdb_rating": "5.9",
+    "imdb_votes": "28,654",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Wishmaster_(film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/10351.txt",
+    "plot_year_start": 1127,
+    "plot_year_end": 1127,
+    "epoch": "medieval-world",
+    "action_countries": [
+      "US",
+      "IR"
+    ],
+    "action_continents": [
+      "North America",
+      "Asia"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "gods read through omens and rites",
+        "description": "Sacred power is understood through ceremony, priestly authority, and signs in the heavens or natural world that give events meaning. What you'll see: temples or ritual grounds, offerings of blood and goods, invocations before danger, and awe when eclipses or other signs appear.",
+        "icon": "🌘"
+      }
+    ]
+  },
+  {
+    "movie_id": 611207,
+    "movie_idx": 8592,
+    "imdb_id": "tt10060094",
+    "title": "The Knight Before Christmas",
+    "production_year": "2019",
+    "genre": "Adventure, Comedy, Drama",
+    "plot": "After a sorceress transports medieval knight Sir Cole (Josh Whitehouse) to present-day Ohio during the holiday season, he befriends Brooke (Vanessa Hudgens), a clever and kind science teacher who's been disillusioned by love. Brooke helps Sir Cole navigate the modern world and tries to help him discover how to fulfill his mysterious one true quest - the only act that will return him home. But as he and Brooke grow closer, Sir Cole begins to wonder just how much he wants to return to his old life.",
+    "runtime": "92 min",
+    "director": "Monika Mitchell",
+    "actors": "Vanessa Hudgens, Josh Whitehouse, Emmanuelle Chriqui",
+    "production_country": "United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNzY0YThhNDktMDA4Mi00NzdjLWI3MmQtYzBlYTJmYzU5NDdmXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/611207.webp",
+    "imdb_rating": "5.6",
+    "imdb_votes": "20,739",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Knight_Before_Christmas",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/611207.txt",
+    "plot_year_start": 1334,
+    "plot_year_end": 2019,
+    "epoch": "medieval-world",
+    "action_countries": [
+      "US",
+      "GB"
+    ],
+    "action_continents": [
+      "North America",
+      "Europe"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "forest, jungle, and coast shape movement",
+        "description": "Travel, hunting, war, and settlement all follow the demands of dense woodland, riverways, swamps, and sea coasts rather than paved roads. What you'll see: canoes and seagoing craft, hard journeys through undergrowth, hidden paths, steep cliffs, and villages set where water and game can be reached.",
+        "icon": "🛶"
+      }
+    ]
+  }
+]

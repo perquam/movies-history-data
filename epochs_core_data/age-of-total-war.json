@@ -1,0 +1,76 @@
+{
+  "id": "age-of-total-war",
+  "label": "Age of Total War",
+  "aliases": [
+    "The World Wars",
+    "The Two World Wars Era",
+    "The Great Wars Period",
+    "Era of Global Conflict",
+    "The World War Era"
+  ],
+  "time_range": {
+    "start_year": 1914,
+    "end_year": 1945,
+    "label": "1914 to 1945"
+  },
+  "headline": "The century that was supposed to be civilization's finest hour instead produced the two biggest massacres in human history — back to back.",
+  "epoch_summary": "Thirty years of trenches, gas, fascism, communism, depression, genocide, firebombing, and a weapon that could erase a city in a flash — all fed by the same factories, railways, and national pride that were supposed to make the world modern and safe.",
+  "regions": [
+    {
+      "region_name": "Africa",
+      "description_of_an_epoch_in_the_region": "Colonial powers carve up the continent and then drag it into their wars. African soldiers fight and die in European trenches, North African deserts, and East African bush — for empires that won't remember their names. Between the wars, extraction speeds up: diamonds, rubber, copper, bodies. The people who live here have almost no say in any of it, but resistance is already taking root in the soil."
+    },
+    {
+      "region_name": "Antarctica",
+      "description_of_an_epoch_in_the_region": "Still ice, still wind, still empty. A handful of expeditions plant flags and take measurements, but the continent sits out both wars entirely — the one place on Earth that does."
+    },
+    {
+      "region_name": "Asia",
+      "description_of_an_epoch_in_the_region": "Japan industrializes fast enough to become a predator. China collapses into warlordism, revolution, and then a Japanese invasion that kills millions and barely makes the Western papers. India feeds men into Britain's wars while Gandhi asks, quietly and then not quietly, why. Southeast Asia watches European masters get humiliated by Japan and starts to wonder if the old order is finished."
+    },
+    {
+      "region_name": "Europe",
+      "description_of_an_epoch_in_the_region": "The continent tears itself apart, glues itself back together badly, then tears itself apart again — worse. The first war is mud and wire and gas and ten million dead for a few miles of dirt. The peace that follows is a twenty-year fuse. When it blows, the second war brings blitzkrieg, occupation, resistance, collaboration, death camps, firestorms, and the sound of Soviet boots walking into Berlin over rubble that used to be the center of the world."
+    },
+    {
+      "region_name": "North America",
+      "description_of_an_epoch_in_the_region": "America shows up late to the first war, helps finish it, goes home, gets rich, crashes harder than anyone thought possible, and spends a decade in bread lines and dust. Then the second war drags it back across the ocean and turns it into the biggest arsenal the planet has ever seen. Canada bleeds at Vimy and Normandy. Mexico stays out of it, mostly, but the revolution at home is war enough."
+    },
+    {
+      "region_name": "Oceania",
+      "description_of_an_epoch_in_the_region": "Australia and New Zealand send their young men to die at Gallipoli, and the grief becomes a national myth. Twenty-five years later, the war comes to their doorstep — Japan pushes south, bombs Darwin, threatens invasion. The Pacific islands become stepping stones and killing grounds. For the Indigenous peoples of the region, these are other people's wars fought on their land."
+    },
+    {
+      "region_name": "South America",
+      "description_of_an_epoch_in_the_region": "The continent watches both wars from a distance but feels the shockwaves through its wallet. European money dries up, commodity prices swing wildly, and military strongmen rise wherever the economy buckles. Argentina flirts with fascism. Brazil sends troops to Italy. Refugees and exiles start arriving from Europe, some running from persecution, some running from justice."
+    },
+    {
+      "region_name": "Atlantic Ocean",
+      "description_of_an_epoch_in_the_region": "The lifeline between America and Europe, and therefore the most hunted water on Earth. U-boats turn the crossing into a lottery — convoys of food, fuel, and ammunition running a gauntlet of torpedoes in the dark. Whoever controls the Atlantic controls the war, and both sides know it."
+    },
+    {
+      "region_name": "Pacific Ocean",
+      "description_of_an_epoch_in_the_region": "Quiet for the first war, then the center of the second. After Pearl Harbor, this ocean becomes a vast blue battlefield — carrier strikes, island landings, kamikaze dives, and finally a mushroom cloud over Hiroshima. The distances are staggering. Men fight over coral atolls most people couldn't find on a map."
+    },
+    {
+      "region_name": "Indian Ocean",
+      "description_of_an_epoch_in_the_region": "Britain's private highway to India, East Africa, and the oil of the Middle East. Japan threatens it from the east, German raiders hunt in it, and the supply lines that cross it keep the Allied machine running. Lose this ocean and the empire collapses."
+    },
+    {
+      "region_name": "Southern Ocean",
+      "description_of_an_epoch_in_the_region": "Cold, remote, and mostly ignored. A few supply ships skirt its edges. The war doesn't reach this far south — there's nothing here to fight over."
+    },
+    {
+      "region_name": "Arctic Ocean",
+      "description_of_an_epoch_in_the_region": "Frozen hell for the convoys running guns and grain to the Soviet Union through Murmansk. The Arctic run is one of the most dangerous supply routes of the war — ice, storms, and German bombers all trying to sink you before you deliver the cargo that keeps the Eastern Front alive."
+    },
+    {
+      "region_name": "FICTIONAL",
+      "description_of_an_epoch_in_the_region": "Invented worlds built from the bones of this era — trench warfare reimagined in fantasy mud, fascist empires with different flags, dystopias born from the same fear that the machine age will grind people into nothing. The settings aren't real, but the dread is: poison gas, propaganda, a knock on the door at night, and the knowledge that civilization can decide to eat itself."
+    },
+    {
+      "region_name": "UNKNOWN",
+      "description_of_an_epoch_in_the_region": "The feel is unmistakable even when the map is vague — rationing, blackout curtains, telegrams nobody wants to open, uniforms everywhere, and a low hum of fear underneath ordinary life. Whether the city has a name or not, you know the era by the way people flinch at loud noises and talk about the future like they're not sure there'll be one."
+    }
+  ]
+}

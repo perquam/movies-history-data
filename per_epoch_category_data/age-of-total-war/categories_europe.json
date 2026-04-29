@@ -1,0 +1,492 @@
+{
+  "epoch": "age-of-total-war",
+  "continent": "europe",
+  "sample_size": 50,
+  "sample": [
+    {
+      "title": "Tender Cousins",
+      "years": "1939..1939",
+      "countries": [
+        "FR"
+      ],
+      "plot": "Summer 1939 in the Provence, France: the 14 years old Julien has a crush on his cousin Julia, who lives together with his family in their small hotel. Unfortunately she ignores him, because she's several years older. Then the hotel guest Charles enters the competition, a slimy twenty-something who lusts for the girl, despite the fact that he's engaged."
+    },
+    {
+      "title": "Summer of 1941",
+      "years": "1941..1941",
+      "countries": [
+        "RU"
+      ],
+      "plot": "During the Second World War, Lieutenant Adi Sharipov's platoon is lured into a swamp by the enemy. Discouragement takes hold of everyone, but they soon realize that inactivity will destroy them faster than enemy bullets."
+    },
+    {
+      "title": "The Crime Is Mine",
+      "years": "1935..1935",
+      "countries": [
+        "FR"
+      ],
+      "plot": "Paris, France, 1935. With a wide assortment of debt collectors lining up at her door, struggling actress Madeleine Verdier is with her back to the wall. But life is full of surprises. And then, for no apparent reason, someone puts a bullet in the head of the lascivious French producer, Montferrand. As a result, as if the cruel hardships of poverty weren't enough, the penniless artist now stands accused of murdering one of the city's most famous residents. Luckily, Madeleine's roommate Pauline Mauléon happens to be a lawyer. Of course, the prime suspect claims to be innocent; however, the truth is in the eye of the beholder. What happens if the producer's shocking murder isn't Madeleine's crime?"
+    },
+    {
+      "title": "Fury",
+      "years": "1945..1945",
+      "countries": [
+        "DE"
+      ],
+      "plot": "April, 1945. As the Allies make their final push in the European Theatre, a battle-hardened Army sergeant named Wardaddy commands a Sherman tank and his five-man crew on a deadly mission behind enemy lines. Outnumbered, out-gunned, and with a rookie soldier thrust into their platoon, Wardaddy and his men face overwhelming odds in their heroic attempts to strike at the heart of Nazi Germany."
+    },
+    {
+      "title": "Fortress of War",
+      "years": "1941..1941",
+      "countries": [
+        "BY",
+        "RU"
+      ],
+      "plot": "The film shows the heroic defense of the Brest Fortress, which had taken upon the first strike of German fascist invaders on June 22 1941. Story describes the events of the first days of the defense. The film tells about three main resistance zones, headed by the regiment commander, Pyotr Mikhailovich Gavrilov, the commissar Efim Moiseevich Fomin and the head of the 9th frontier outpost, Andrey Mitrofanovich Kizhevatov. Many years later veteran Alexander Akimov again and again recalls the memories of the time, when he, then a 15 year old Sasha Akimov was deeply in love with the beautiful Anya and suddenly found himself in the middle of the bloody events of war."
+    },
+    {
+      "title": "The King's Choice",
+      "years": "1940..1945",
+      "countries": [
+        "NO",
+        "SE",
+        "GB"
+      ],
+      "plot": "April 1940. Norway has been invaded by Germany and the royal family and government have fled into the interior. The German envoy to Norway tries to negotiate a peace. Ultimately, the decision on Norway's future will rest with the ..."
+    },
+    {
+      "title": "Ashes in the Snow",
+      "years": "1941..1941",
+      "countries": [
+        "LT",
+        "RU"
+      ],
+      "plot": "In 1941, a 16-year-old aspiring artist and her family are deported to Siberia amidst Stalin's brutal dismantling of the Baltic region. One girl's passion for art and her never-ending hope will break the silence of history."
+    },
+    {
+      "title": "War Horse",
+      "years": "1912..1918",
+      "countries": [
+        "GB",
+        "FR"
+      ],
+      "plot": "On the outbreak of the First World War, Albert's beloved horse 'Joey' is sold to the Cavalry by his Father. After being sent to France, in a bid to survive, Joey has an unexpected journey across war torn Europe. Albert enlists in the British Army, and is wounded during the Battle of the Somme. Whilst recovering in Hospital, he learns of a Horse, found in no mans land."
+    },
+    {
+      "title": "Mary Poppins Returns",
+      "years": "1930..1930",
+      "countries": [
+        "GB"
+      ],
+      "plot": "In Depression-era London, a now-grown Jane (Emily Mortimer) and Michael Banks (Ben Whishaw), along with Michael's three children, are visited by the enigmatic Mary Poppins (Emily Blunt) following a personal loss. Through her unique magical skills, and with the aid of her friend Jack (Lin-Manuel Miranda), she helps the family rediscover the joy and wonder missing in their lives."
+    },
+    {
+      "title": "The Banshees of Inisherin",
+      "years": "1923..1923",
+      "countries": [
+        "IE"
+      ],
+      "plot": "Two lifelong friends find themselves at an impasse when one abruptly ends their relationship, with alarming consequences for both of them."
+    },
+    {
+      "title": "Son of Saul",
+      "years": "1944..1944",
+      "countries": [
+        "PL",
+        "DE"
+      ],
+      "plot": "Two days in the life of Saul Auslander, Hungarian prisoner working as a member of the Sonderkommando at one of the Auschwitz Crematoriums who, to bury the corpse of a boy he takes for his son, tries to carry out his impossible deed: salvage the body and find a rabbi to bury it. While the Sonderkommando is to be liquidated at any moment, Saul turns away of the living and their plans of rebellion to save the remains of a son he never took care of when he was still alive."
+    },
+    {
+      "title": "Rebecca",
+      "years": "1939..1940",
+      "countries": [
+        "MC",
+        "GB",
+        "FR"
+      ],
+      "plot": "A shy lady's companion, staying in Monte Carlo with her stuffy employer, meets the wealthy Maxim de Winter (Sir Laurence Olivier). She and Max fall in love, marry, and return to Manderley, his large country estate in Cornwall. Max is still troubled by the death of his first wife, Rebecca, in a boating accident the year before. The second Mrs. de Winter (Joan Fontaine) clashes with the housekeeper, Mrs. Danvers (Dame Judith Anderson), and discovers that Rebecca still has a strange hold on everyone at Manderley."
+    },
+    {
+      "title": "The Man with the Iron Heart",
+      "years": "1942..1942",
+      "countries": [
+        "CZ",
+        "GB"
+      ],
+      "plot": "1942: The Third Reich is at its peak. The Czech resistance in London decides to plan the most ambitious military operation of WWII: Anthropoid. Two young recruits in their late twenties, Jozef Gabcik and Jan Kubis, are sent to Prague to assassinate the most ruthless Nazi leader - Reich-protector Reinhard Heydrich, Head of the SS, the Gestapo, and the architect of the \"Final Solution\"."
+    },
+    {
+      "title": "Downton Abbey: A New Era",
+      "years": "1928..1928",
+      "countries": [
+        "GB",
+        "FR"
+      ],
+      "plot": "Follow-up to the 2019 feature film in which the Crawley family and Downton staff received a royal visit from the King and Queen of Great Britain.Plot summaryAdd synopsis"
+    },
+    {
+      "title": "Siberian Sniper",
+      "years": "1943..1943",
+      "countries": [
+        "RU",
+        "DE"
+      ],
+      "plot": "1943, German snipers are all over the front lines. A young hunter Egor Chaerin faces his first battle with German invaders right on his way to join the Red army. His keen eye and a hunch can change the balance of forces on the front line."
+    },
+    {
+      "title": "Two Women",
+      "years": "1944..1944",
+      "countries": [
+        "IT"
+      ],
+      "plot": "Cesira is a beautiful widow and a successful grocery store owner in Rome. WWII is raging, and she fears for her beloved daughter, 13-year-old Rosetta, amid the daily bombings. They travel to the village where Cesira was born, where Cesira believes they will be safer. There, they are happy even as food dwindles. A young intellectual, Michele, falls in love with Cesira, who is too consumed with the well-being of her daughter and their survival to return his timid advances. As the allies advance, Cesira decides to return to Rome - and encounter the horrors of war at last."
+    },
+    {
+      "title": "Army of Shadows",
+      "years": "1942..1944",
+      "countries": [
+        "FR",
+        "GB"
+      ],
+      "plot": "France, 1942, under German occupation. Philippe Gerbier, a civil engineer, is a French Resistance commandant. Denounced by a French collaborator, he is interned in a concentration camp. He manages to escape, and rejoins his network in Marseille, where he has the traitor executed. This movie reveals rigorously and austerely what life was like in the French Resistance: the solitude and fear of its members; their relationships with one another; the constant threat of arrest by the Gestapo; the Resistance command structure and the way its orders were carried out. Head writer Joseph Kessel and co-writer/director Jean-Pierre Melville were both veterans of the \"Shadow Army\"."
+    },
+    {
+      "title": "La Vie En Rose",
+      "years": "1918..1963",
+      "countries": [
+        "FR",
+        "US",
+        "CA"
+      ],
+      "plot": "An un-chronological look at the life of the Little Sparrow, Édith Piaf (1915-1963). Her mother is an alcoholic street singer, her father a circus performer, her paternal grandmother a madam. During childhood she lives with each of them. At 20, she's a street singer discovered by a club owner who's soon murdered, coached by a musician who brings her to concert halls, and then quickly famous. Constant companions are alcohol and heartache. The tragedies of her love affair with Marcel Cerdan and the death of her only child belie the words of one of her signature songs, \"Non, je ne regrette rien.\" The back and forth nature of the narrative suggests the patterns of memory and association."
+    },
+    {
+      "title": "The Others",
+      "years": "1945..1945",
+      "countries": [
+        "GB"
+      ],
+      "plot": "A woman named Grace retires with her two children to a mansion on Jersey, towards the end of the Second World War, where she's waiting for her husband to come back from battle. The children have a disease which means they cannot be touched by direct sunlight without being hurt in some way. They will live alone there with oppressive, strange and almost religious rules, until she needs to hire a group of servants for them. Their arrival will accidentally begin to break the rules with unexpected consequences."
+    },
+    {
+      "title": "Bunker",
+      "years": "1914..1918",
+      "countries": [
+        "GB"
+      ],
+      "plot": "Two soldiers are trapped in a bunker with their lives on the line. They must not give into fear if they want to make it out."
+    },
+    {
+      "title": "Amarcord",
+      "years": "1938..1939",
+      "countries": [
+        "IT"
+      ],
+      "plot": "One year in a small northern Italian coastal town in the late 1930s is presented. The slightly off-kilter cast of characters are affected by time and location, the social mores dictated largely by Catholicism, and the national fervor surrounding Il Duce aka Benito Mussolini and Fascism. The stories loosely center on mid-teen Titta and his household, including his adolescent brother, his ever-supportive mother who is always defending him against his father, his freeloading maternal Uncle Lallo, and his paternal grandfather who slyly has eyes and hands for the household maid. Other townsfolk include: town beauty Gradisca, who can probably have any man she wants but generally has none as most think she out of their league; Volpina, the prostitute; Giudizio, the historian; a blind accordionist; and an extremely buxom tobacconist. The several vignettes presented include: the town bonfire in celebration of spring; life at Titta's school with his classmates and teachers; Titta's father Aurelio at his beachfront construction worksite and his and his workmates' encounter with Volpina; Titta's confessions to the priest about his burgeoning sexuality; Aurelio being questioned by authorities about his anti-Fascist leanings; a fantasy sequence at the luxurious Grand Hotel; a family outing with Aurelio's institutionalized brother Teo; many townsfolk embarking on a sail to witness a marine event passing by their town; an annual car race; Titta's fantasy encounter with the tobacconist after closing hours coming true; events surrounding the big snowfall that year, including a family tragedy; and an event centering on Gradisca and her future."
+    },
+    {
+      "title": "The Innocents",
+      "years": "1945..1946",
+      "countries": [
+        "PL"
+      ],
+      "plot": "Poland, winter of 1945. Mathilde Beaulieu (Lou de Lâage) is a young intern working with a branch of the French Red Cross. They are on a mission to find, treat and repatriate French survivors of the German camps. One day, a Polish nun arrives in the hospital. In very poor French, she begs Mathilde to come to her convent. Mathilde life and beliefs change when she discovers the advanced state of pregnancy that affect several of the Sisters of the convent just outside the hospital where she performs."
+    },
+    {
+      "title": "Come and See",
+      "years": "1943..1943",
+      "countries": [
+        "BY"
+      ],
+      "plot": "The feature film directed by Elem Klimov, shot in the genre of military drama. The action takes place on the territory of Belarus in 1943. In the center of the story is a Belarusian boy, who witnesses the horrors of the Nazi punitive action, turning from a cheerful teenager into a gray-haired old man for two days."
+    },
+    {
+      "title": "The Monuments Men",
+      "years": "1943..1945",
+      "countries": [
+        "DE",
+        "FR",
+        "BE",
+        "AT"
+      ],
+      "plot": "Based on the true story of the greatest treasure hunt in history, The Monuments Men is an action drama focusing on an unlikely World War II platoon, tasked by FDR with going into Germany to rescue artistic masterpieces from Nazi thieves and returning them to their rightful owners. It would be an impossible mission: with the art trapped behind enemy lines, and with the German army under orders to destroy everything as the Reich fell, how could these guys - seven museum directors, curators, and art historians, all more familiar with Michelangelo than the M-1 - possibly hope to succeed? But as the Monuments Men, as they were called, found themselves in a race against time to avoid the destruction of 1000 years of culture, they would risk their lives to protect and defend mankind's greatest achievements."
+    },
+    {
+      "title": "Lady Chatterley's Lover",
+      "years": "1918..1920",
+      "countries": [
+        "GB"
+      ],
+      "plot": "A story well ahead of its time, We follow the life of Lady Chatterley, a woman born to a life of wealth and privilege, who soon finds herself married to a man that she eventually falls out of love with. Lady Chatterley engages in a torrid affair with a gamekeeper on their English estate, discovering more desire and intimacy than she thought possible. When she realizes that she has fallen heart and soul, she breaks all traditions of the day and seeks happiness with the man she loves."
+    },
+    {
+      "title": "The Conference",
+      "years": "1942..1942",
+      "countries": [
+        "DE"
+      ],
+      "plot": "On January 20, 1942, high-ranking representatives of the German Nazi regime met in an idyllic villa on the Great Wannsee in the southwest of Berlin for a meeting that went down in history as the Wannsee Conference, because of its scope, fatality and consequences, perhaps the most terrible conference of human history. Present are 15 leading men of the SS, the NSDAP and the ministerial bureaucracy. They were invited by Reinhard Heydrich, head of the security police and SD, to a \"meeting followed by breakfast\". The exclusive topic of the approximately 90-minute discussion is what the National Socialists called the \"Final Solution to the Jewish Question\", which means the bureaucratically strictly planned organization of the systematic mass murder of millions of Jews from all over Europe. A fictionalized TV film on the occasion of the 80th anniversary of the historical event, based on the minutes of the meeting written by Adolf Eichmann at the time."
+    },
+    {
+      "title": "The Book Thief",
+      "years": "1938..1945",
+      "countries": [
+        "DE"
+      ],
+      "plot": "In 1938, the young girl Liesel Meminger is traveling by train with her mother and her younger brother when he dies. Her mother buries the boy in a cemetery by the tracks and Liesel picks up a book, \"The Gravediggers Handbook\", which was left on the grave of her brother and brings it with her. Liesel is delivered to a foster family in a small town and later she learns that her mother left her because she is a communist. Her stepmother, Rosa Hubermann, is a rude but caring woman and her stepfather, Hans Hubermann, is a simple kind-hearted man. Liesel befriends her next door neighbor, the boy Rudy Steiner, and they go together to the school. When Hans discovers that Liesel cannot read, he teaches her using her book and Liesel becomes an obsessed reader. During a Nazi speech where the locals are forced to burn books in a bonfire, Liesel recovers one book for her and the Mayor's wife Ilsa Hermann witnesses her action. Meanwhile Hans hides the Jewish Max Vandenburg, who is the son of a deceased friend that saved his life in the war, in the basement of his house and Liesel becomes his friend. One day, Rosa asks Liesel to deliver laundry to the Mayor and Ilsa invites Liesel to go to her library and tells that she can visit her to read whenever she wants. But in times of war there are many threats and the lives of Liesel, her family and friends will never be the same."
+    },
+    {
+      "title": "Head in the Clouds",
+      "years": "1933..1945",
+      "countries": [
+        "FR",
+        "GB",
+        "ES",
+        "DE"
+      ],
+      "plot": "On a rainy night in 1933, the young, rebellious and provocative heiress of a French champagne magnate, Gilda Bessé, storms into the quiet life of the timid Oxford undergraduate, Guy Malyon, taking him by surprise. And before he knows it, Guy is love-smitten, and taken in the Parisian apartment of the now famous photographer, Gilda, living under the same roof with her muse and Spanish political idealist, Mia. However, as Spain gradually succumbs to the Nationalists, Mia and Guy's commitment to the cause of the Spanish Republic will threaten to break up their bohemian and almost idyllic coexistence. In the end, as Adolf Hitler rises into power, can a war-torn Europe separate the three companions forever?"
+    },
+    {
+      "title": "Doctor Zhivago",
+      "years": "1913..1920",
+      "countries": [
+        "RU"
+      ],
+      "plot": "During the Russian Revolution, Dr. Yuri Zhivago (Omar Sharif) is a young doctor who has been raised by his aunt and uncle following his father's suicide. Yuri falls in love with beautiful Lara Guishar (Julie Christie), who has been having an affair with her mother's lover, Victor Komarovsky (Rod Steiger), an unscrupulous businessman. Yuri, however, ends up marrying his cousin, Tonya (Geraldine Chaplin). But when he and Lara meet again years later, the spark of love reignites."
+    },
+    {
+      "title": "Mephisto",
+      "years": "1930..1934",
+      "countries": [
+        "DE"
+      ],
+      "plot": "A German stage actor finds unexpected success and mixed blessings in the popularity of his performance in a Faustian play as the Nazis take power in pre-WWII Germany. As his associates and friends flee or are ground under by the Nazi terror, the popularity of his character supercedes his own existence until he finds that his best performance is keeping up appearances for his Nazi patrons."
+    },
+    {
+      "title": "All Quiet on the Western Front",
+      "years": "1917..1918",
+      "countries": [
+        "FR",
+        "DE"
+      ],
+      "plot": "The story follows teenagers Paul Baumer and his friends Albert and Muller, who voluntarily enlist in the German army, riding a wave of patriotic fervour that quickly dissipates once they face the brutal realities of life on the front. Paul's preconceptions about the enemy and the rights and wrongs of the conflict soon crumble. However, amid the countdown to Armistice, Paul must carry on fighting until the end, with no purpose other than to satisfy the top brass' desire to end the war on a German offensive."
+    },
+    {
+      "title": "All Things Fair",
+      "years": "1943..1943",
+      "countries": [
+        "SE"
+      ],
+      "plot": "Malmö, Sweden during the Second World War. Stig is a 15 year old pupil on the verge of adulthood. Viola is 37 years old and his teacher. He is attracted by her beauty and maturity. She is drawn to him by his youth and innocence. At the same time, Stig becomes friends with Viola's husband Kjell, who teaches him classical music, and the affair continues even after he understands that he has a relationship with his wife. but does nothing to prevent it. But Stig and Viola's passionate and forbidden relationship will have consequences they never could have expected."
+    },
+    {
+      "title": "Bright Young Things",
+      "years": "1930..1939",
+      "countries": [
+        "GB"
+      ],
+      "plot": "A fool and his money. In the 1930s, Adam Fenwick-Symes (Stephen Campbell Moore) is part of the English idle class, wanting to marry the flighty Nina Blount (Emily Mortimer). He's a novelist with a one hundred-pound advance for a manuscript confiscated by English customs. He spends the next several years trying to get money and to set a wedding date. He trades in gossip, wins money on wagers, then gives it to a drunken Major (Jim Broadbent), who suggested he bet on a horse in an upcoming race. Adam tries to get the money back, but can't find the Major. Meanwhile, Nina needs security, friends drink too much, and general unhappiness spoils the party. Then war breaks out. Is Adam's bright youth dimming with the fall of an empire?"
+    },
+    {
+      "title": "The Quiet Man",
+      "years": "1920..1920",
+      "countries": [
+        "IE",
+        "US"
+      ],
+      "plot": "Sean Thornton has returned from America to reclaim his homestead and escape his past. Sean's eye is caught by Mary Kate Danaher, a beautiful but poor maiden, and younger sister of ill-tempered \"Red\" Will Danaher. The riotous relationship that forms between Sean and Mary Kate, punctuated by Will's pugnacious attempts to keep them apart, form the main plot, with Sean's past as the dark undercurrent."
+    },
+    {
+      "title": "Into the White",
+      "years": "1940..1940",
+      "countries": [
+        "NO"
+      ],
+      "plot": "In World War II, the German pilots Lieutenant Horst Schopis, Josef Schwartz and Wolfgang Strunk crash their airplane in the wilderness of Norway after shooting down a British airplane. They walk through a snow storm until they reach shelter in an abandoned hunter cabin. Soon the British pilot Captain Charles P. Davenport and the gunner Robert Smith arrive in the cabin and they become prisoners of the German pilots. However, after the initial friction between the enemies, they realize that they should team-up to survive in the wilderness in the beginning of an improbable friendship."
+    },
+    {
+      "title": "Goodbye Christopher Robin",
+      "years": "1916..1941",
+      "countries": [
+        "GB"
+      ],
+      "plot": "A rare glimpse into the relationship between beloved children's author A. A. Milne (Domhnall Gleeson) and his son Christopher Robin, whose toys inspired the magical world of Winnie the Pooh. Along with his mother Daphne (Margot Robbie), and his nanny Olive, Christopher Robin and his family are swept up in the international success of the books; the enchanting tales bringing hope and comfort to England after the First World War. But with the eyes of the world on Christopher Robin, what will the cost be to the family?"
+    },
+    {
+      "title": "1900",
+      "years": "1900..1945",
+      "countries": [
+        "IT"
+      ],
+      "plot": "Set in Italy, the film follows the lives and interactions of two boys/men, one born a bastard of peasant stock, Olmo, the other born to a land owner, Alfredo. The drama spans from 1900 to about 1945, and focuses mainly on the rise of Fascism and the peasants' eventual reaction by supporting Communism, and how these events shape the destinies of the two main characters."
+    },
+    {
+      "title": "Man with a Movie Camera",
+      "years": "1920..1920",
+      "countries": [
+        "RU",
+        "UA"
+      ],
+      "plot": "This playful film is at once a documentary of a day in the life of the Soviet Union, a documentary of the filming of said documentary, and a depiction of an audience watching the film. Even the editing of the film is documented. We often see the cameraman who is purportedly making the film, but we rarely, if ever, see any of the footage he seems to be in the act of shooting!"
+    },
+    {
+      "title": "Au Revoir les Enfants",
+      "years": "1944..1944",
+      "countries": [
+        "FR"
+      ],
+      "plot": "In 1944, upper class boy Julien Quentin and his brother François travel to Catholic boarding school in the countryside after vacations. Julien is a leader and good student and when the new student Jean Bonnet arrives in the school, they have friction in their relationship. However, Julien learns to respect Jean and discovers that he is Jewish and the priests are hiding him from the Nazis. They become best friends and Julien keeps the secret. When the priest Jean discovers that the servant Joseph is stealing supplies from the school to sell in the black market, he fires the youth. Soon the Gestapo arrives at school to investigate the students and the priests that run and work in the boarding school."
+    },
+    {
+      "title": "Agatha and the Truth of Murder",
+      "years": "1926..1926",
+      "countries": [
+        "GB"
+      ],
+      "plot": "In 1926, with her personal life in tatters and her writing in crisis, a young Agatha Christie decides to solve a real-life murder."
+    },
+    {
+      "title": "The Courageous Heart of Irena Sendler",
+      "years": "1942..1945",
+      "countries": [
+        "PL",
+        "LV"
+      ],
+      "plot": "The story of Irena Sendler, a social worker who was part of the Polish underground during World War II and was arrested by the Nazis for saving the lives of nearly 2,500 Jewish children by smuggling them out of the Warsaw ghetto."
+    },
+    {
+      "title": "The 12th Man",
+      "years": "1943..1943",
+      "countries": [
+        "NO",
+        "SE",
+        "GB"
+      ],
+      "plot": "True World War II story about Jan Baalsrud, one of the 12 saboteurs sent in 1943 from England to the Nazi occupied Northern Norway. After their boat is sunk by the Germans, Jan goes on the run towards the neutral Sweden. However, the brutal weather conditions turn out to possibly be an even greater foe than the Nazi patrols."
+    },
+    {
+      "title": "Papillon",
+      "years": "1933..1933",
+      "countries": [
+        "FR",
+        "GF",
+        "CO"
+      ],
+      "plot": "A semi-fictional account of Henri Charrière's time in the penal system in French Guyana - some of it spent on infamous Devil's Island - is presented. It's the early 1930s. Charrière - nicknamed Papillon because of his butterfly tattoo - and Louis Dega are two among many who have been convicted in the French judicial system, they now being transferred to French Guyana where they will serve their time, never to return to France even if they are ever released. A safe-cracker by criminal profession, Papillon is serving a life sentence for murdering a pimp, a crime for which he adamantly states he was framed. Dega is a wealthy counterfeiter, who expects his well-to-do wife eventually to get him released. At Papillon's initiative, the duo enters into a business arrangement: Papillon will provide protection for Dega, who, in turn, will finance Papillon's escape attempt. As the two men spend more time together than either had expected, their burgeoning friendship ends up being an important factor altering their original plans, needed as they work with and against others who are trying to achieve their own goals, sometime conflicting with those of Papillon and Dega."
+    },
+    {
+      "title": "All Quiet on the Western Front",
+      "years": "1914..1918",
+      "countries": [
+        "FR",
+        "DE"
+      ],
+      "plot": "This is an English language film (made in America) adapted from a novel by German author Erich Maria Remarque. The film follows a group of German schoolboys, talked into enlisting at the beginning of World War 1 by their jingoistic teacher. The story is told entirely through the experiences of the young German recruits and highlights the tragedy of war through the eyes of individuals. As the boys witness death and mutilation all around them, any preconceptions about \"the enemy\" and the \"rights and wrongs\" of the conflict disappear, leaving them angry and bewildered. This is highlighted in the scene where Paul mortally wounds a French soldier and then weeps bitterly as he fights to save his life while trapped in a shell crater with the body. The film is not about heroism but about drudgery and futility and the gulf between the concept of war and the actuality."
+    },
+    {
+      "title": "Kelly's Heroes",
+      "years": "1944..1944",
+      "countries": [
+        "FR",
+        "UNKNOWN"
+      ],
+      "plot": "During World War II, German Colonel Dankhopf (David Hurst) is captured by the Americans, but before he can be interrogated, an artillery barrage hits the camp. However, Lieutenant Kelly (Clint Eastwood) manages to reach the Colonel, get him drunk, and learn that he is on a secret mission to ship sixteen million dollars of gold to a base in France. Kelly is determined to get the gold, and plans for himself and a few of his fellow soldiers to slip into enemy territory and steal the bullion."
+    },
+    {
+      "title": "Valiant",
+      "years": "1944..1944",
+      "countries": [
+        "GB",
+        "FR"
+      ],
+      "plot": "Set in 1944, Valiant (Ewan McGregor) is a woodland pigeon who wants to become a great hero someday. When he hears they are hiring recruits for the Royal Homing Pigeon Service, he immediately sets out for London. On the way, he meets a smelly, but friendly pigeon named Bugsy (Ricky Gervais), who joins him, mainly to get away from clients he cheated in a game of find-the pebble, and helps him sign up for the war."
+    },
+    {
+      "title": "Jojo Rabbit",
+      "years": "1944..1945",
+      "countries": [
+        "DE"
+      ],
+      "plot": "A World War II satire that follows a lonely German boy named Jojo (Roman Griffin Davis) whose world view is turned upside down when he discovers his single mother (Scarlett Johansson) is hiding a young Jewish girl (Thomasin McKenzie) in their attic. Aided only by his idiotic imaginary friend, Adolf Hitler (Taika Waititi), Jojo must confront his blind nationalism."
+    },
+    {
+      "title": "Operation Napoleon",
+      "years": "1940..1945",
+      "countries": [
+        "IS",
+        "DE",
+        "UNKNOWN"
+      ],
+      "plot": "A lawyer is sucked into an international conspiracy after being accused of a murder she didn't commit. Her only chance of survival lies in uncovering the secret of an old German WWII airplane, discovered on Iceland's largest glacier."
+    },
+    {
+      "title": "1917",
+      "years": "1917..1917",
+      "countries": [
+        "FR"
+      ],
+      "plot": "April 1917, the Western Front. Two British soldiers are sent to deliver an urgent message to an isolated regiment. If the message is not received in time the regiment will walk into a trap and be massacred. To get to the regiment they will need to cross through enemy territory. Time is of the essence and the journey will be fraught with danger."
+    },
+    {
+      "title": "The Pianist",
+      "years": "1939..1945",
+      "countries": [
+        "PL"
+      ],
+      "plot": "In this adaptation of the autobiography \"The Pianist: The Extraordinary True Story of One Man's Survival in Warsaw, 1939-1945,\" Wladyslaw Szpilman, a Polish Jewish radio station pianist, sees Warsaw change gradually as World War II begins. Szpilman is forced into the Warsaw Ghetto, but is later separated from his family during Operation Reinhard. From this time until the concentration camp prisoners are released, Szpilman hides in various locations among the ruins of Warsaw."
+    }
+  ],
+  "categories": [
+    {
+      "label": "whole societies bent toward total war",
+      "description": "Public life is reorganised around mobilisation, rationing, air raids, military service, and the constant claim that every household serves the struggle. What you'll see: blackout curtains, queueing for food, uniforms in the street, bomb damage, shortages, and anxious waiting for news from the front.",
+      "icon": "🚨"
+    },
+    {
+      "label": "trenches, forts, and blasted borderlands",
+      "description": "Much of Europe becomes a fortified killing ground where front lines harden into dugouts, wire, ruined villages, and shattered fields. What you'll see: mud, shell holes, bunkers, no man's land, broken trees, swamp and snow positions, and troops living under bombardment.",
+      "icon": "🕳️"
+    },
+    {
+      "label": "occupation enforced by patrols and informers",
+      "description": "Conquered countries live under foreign soldiers, curfews, searches, requisitions, and the ever-present danger of denunciation by neighbours or officials. What you'll see: checkpoints, identity papers, house raids, whispered meetings, shuttered streets, collaborators, and Gestapo or police offices as daily terror.",
+      "icon": "👢"
+    },
+    {
+      "label": "the Nazi state ruling by race",
+      "description": "German power is shaped by racial doctrine that strips Jews and other targeted peoples of rights, property, movement, and finally life itself. What you'll see: ghettos, deportation trains, yellow stars, confiscated homes, camp compounds, bureaucratic orders, and the machinery of extermination.",
+      "icon": "✡️"
+    },
+    {
+      "label": "resistance moving through hidden networks",
+      "description": "Across occupied Europe, secret cells link couriers, safe houses, exiles, clergy, and saboteurs in fragile chains of trust. What you'll see: forged papers, coded messages, concealed radios, attic hideouts, border crossings, and sudden arrests that show how thin the line of safety is.",
+      "icon": "📻"
+    },
+    {
+      "label": "fascist pageantry entering ordinary town life",
+      "description": "Before and during the war, authoritarian rule reaches into schools, theatres, youth groups, and village ceremonies, demanding outward loyalty and shaping what may be said in public. What you'll see: salutes, marches, portraits of leaders, official speeches, uniforms for children, censored stages, and local authorities testing political obedience.",
+      "icon": "📣"
+    },
+    {
+      "label": "old estates and servants losing their hold",
+      "description": "Country houses, titled families, and inherited rank still structure much of European life, yet war, debt, and social change steadily weaken their old command. What you'll see: manor dining rooms, liveried staff, hunting grounds, family silver, legal worries over property, and grand homes overshadowed by a harsher age.",
+      "icon": "🏰"
+    },
+    {
+      "label": "churches, convents, and old moral authority",
+      "description": "Christian belief and clergy remain powerful in education, charity, ritual, and conscience, even as war and cruelty put that authority under strain. What you'll see: boarding schools, confession, nuns and priests, bells and chapels, religious burial rites, and sacred spaces turned into shelters or places of secrecy.",
+      "icon": "⛪"
+    },
+    {
+      "label": "railways carrying civilians into upheaval",
+      "description": "The railway binds the continent together for peace and war alike, moving soldiers, refugees, prisoners, officials, and deported families across vast distances. What you'll see: crowded stations, troop trains, cattle cars, hurried departures, platform farewells, and journeys where destination means safety, exile, or death.",
+      "icon": "🚂"
+    },
+    {
+      "label": "cities mixing glamour, poverty, and fear",
+      "description": "European capitals and market towns remain places of cafés, theatres, music halls, lawyers, and newspapers, yet beneath the display sit unemployment, debt, black markets, and political dread. What you'll see: smoky clubs, cramped rooms, courtrooms, backstage corridors, gossip columns, street musicians, and elegant facades beside hunger and ruin.",
+      "icon": "🎭"
+    }
+  ]
+}

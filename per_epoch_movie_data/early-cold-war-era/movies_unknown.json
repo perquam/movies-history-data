@@ -1,0 +1,352 @@
+[
+  {
+    "movie_id": 9806,
+    "movie_idx": 493,
+    "imdb_id": "tt0317705",
+    "title": "The Incredibles",
+    "production_year": "2004",
+    "genre": "Animation, Action, Adventure",
+    "plot": "Bob Parr (A.K.A. Mr. Incredible), and his wife Helen (A.K.A. Elastigirl), are the world's greatest famous crime-fighting superheroes in Metroville. Always saving lives and battling evil on a daily basis. But fifteen years later, they have been forced to adopt civilian identities and retreat to the suburbs where they have no choice but to retire as superheroes to live a \"normal life\" with their three children Violet, Dash and Jack-Jack (who were secretly born with superpowers). Itching to get back into action, Bob gets his chance when a mysterious communication summons him to a remote island for a top secret assignment. He soon discovers that it will take a super family effort to rescue the world from total destruction.",
+    "runtime": "115 min",
+    "director": "Brad Bird",
+    "actors": "Craig T. Nelson, Samuel L. Jackson, Holly Hunter",
+    "production_country": "United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTY5OTU0OTc2NV5BMl5BanBnXkFtZTcwMzU4MDcyMQ@@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/9806.webp",
+    "imdb_rating": "8.0",
+    "imdb_votes": "891,503",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Incredibles",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/9806.txt",
+    "plot_year_start": 1960,
+    "plot_year_end": 1960,
+    "epoch": "early-cold-war-era",
+    "action_countries": [
+      "UNKNOWN"
+    ],
+    "action_continents": [
+      "UNKNOWN"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "suburbs built for the breadwinner family",
+        "description": "Postwar prosperity holds up the tidy household as a social ideal, with paid work, consumer comforts, and child-rearing arranged around it. What you'll see: neat streets, detached houses, office routines, kitchens and living rooms, and the strain of fitting private life to public expectations.",
+        "icon": "🏡"
+      },
+      {
+        "label": "secret work hidden behind ordinary faces",
+        "description": "The age prizes conformity and respectable appearances, even as exceptional abilities, covert service, and classified tasks are pushed out of public sight. What you'll see: aliases, closed files, hushed summonses, suburban cover lives, and the tension between public normality and hidden gifts.",
+        "icon": "🕵️"
+      }
+    ]
+  },
+  {
+    "movie_id": 197158,
+    "movie_idx": 990,
+    "imdb_id": "tt0235686",
+    "title": "Porno Holocaust",
+    "production_year": "1981",
+    "genre": "Adult, Horror",
+    "plot": "A group of scientists is taken to a secluded island where nuclear weapons testing occurred in 1958, in order to investigate sightings of mutated animals, and allegations of a monster. On the island, overgrown crabs are discovered, and the researchers and their ship's crew are stalked and spied on by an unseen being. After having sex with his wife, Dr Simone, Professor Keller goes for a swim, and is drowned by the monster, which then rapes and kills his wife. At the main camp, the ship's two crew members, Pierre and Jacques, go off to collect fruit, and are followed by the beast. Pierre is bludgeoned with a rock, while Jacques is beaten to death with a log. Hearing the two men being attacked, the rest of the expedition goes to investigate. The monster captures Annie and takes her to its cave lair, where she finds a journal. The book reveals the creature was once Antoine Domoduro, one of the island's original inhabitants. He became stranded there with his wife and daughter during atomic bomb tests, which killed his family and mutated him. The next day, the others discover the bodies of their companions, and that the boat is gone. Captain Hardy goes in search of Annie, and finds Benoit, a reporter who had followed the researchers to the island. Dying due to severe injuries, Benoit tells Hardy that he was attacked by an \"ape man\" that is holding Annie captive in a nearby cave. Back at the camp, Antoine strangles Professor Lemuan, and kills then rapes Countess de Saint Jacques, leaving Hardy to try and rescue Annie on his own. Hardy finds the cave and frees Annie, but while fleeing the two are confronted by Antoine, whom Hardy shoots in the chest with a speargun. Antoine rips the spear out and tries to attack Hardy with it, but is distracted when Annie calls out his name. Antoine falls to the ground dead, and Hardy and Annie leave the island on Benoit's boat, on which the two celebrate their escape by having sex.",
+    "runtime": "113 min",
+    "director": "Joe D'Amato",
+    "actors": "George Eastman, Dirce Funari, Annj Goren",
+    "production_country": "Italy",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTMzNzY5OTAxN15BMl5BanBnXkFtZTcwMzAzNTUxMQ@@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/197158.webp",
+    "imdb_rating": "3.4",
+    "imdb_votes": "1,512",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Porno_Holocaust",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/197158.txt",
+    "plot_year_start": 1958,
+    "plot_year_end": 1958,
+    "epoch": "early-cold-war-era",
+    "action_countries": [
+      "UNKNOWN"
+    ],
+    "action_continents": [
+      "UNKNOWN"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "science serving state ambition and risk",
+        "description": "Research is closely tied to national prestige and military need, placing experts inside dangerous projects whose failures carry terrible consequences. What you'll see: laboratories, technical briefings, expeditions, improvised repairs, and specialists treated as both servants of progress and witnesses to its hazards.",
+        "icon": "🔬"
+      }
+    ]
+  },
+  {
+    "movie_id": 293167,
+    "movie_idx": 1157,
+    "imdb_id": "tt3731562",
+    "title": "Kong: Skull Island",
+    "production_year": "2017",
+    "genre": "Action, Adventure, Fantasy",
+    "plot": "A washed up monster chaser convinces the U.S. Government to fund a trip to an unexplored island in the South Pacific. Under the guise of geological research, the team travels to \"Skull Island\". Upon arrival, the group discover that their mission may be complicated by the wildlife which inhabits the island. The beautiful vistas and deadly creatures create a visually stunning experience that is sure to keep your attention.",
+    "runtime": "118 min",
+    "director": "Jordan Vogt-Roberts",
+    "actors": "Tom Hiddleston, Samuel L. Jackson, Brie Larson",
+    "production_country": "United States, China, Vietnam, India, Australia, Canada, United Kingdom, Singapore",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTcwMjcxYTQtYjJlOS00YTE1LWIyZGYtOGRlOTBlMWZmYTliXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/293167.webp",
+    "imdb_rating": "6.7",
+    "imdb_votes": "371,895",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Kong:_Skull_Island",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/293167.txt",
+    "plot_year_start": 1944,
+    "plot_year_end": 1973,
+    "epoch": "early-cold-war-era",
+    "action_countries": [
+      "UNKNOWN"
+    ],
+    "action_continents": [
+      "UNKNOWN"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "MonsterVerse",
+    "categories": [
+      {
+        "label": "science serving state ambition and risk",
+        "description": "Research is closely tied to national prestige and military need, placing experts inside dangerous projects whose failures carry terrible consequences. What you'll see: laboratories, technical briefings, expeditions, improvised repairs, and specialists treated as both servants of progress and witnesses to its hazards.",
+        "icon": "🔬"
+      }
+    ]
+  },
+  {
+    "movie_id": 8665,
+    "movie_idx": 4701,
+    "imdb_id": "tt0267626",
+    "title": "K-19: The Widowmaker",
+    "production_year": "2002",
+    "genre": "Drama, History, Thriller",
+    "plot": "The story of USSR's first nuclear ballistic submarine, which suffered a malfunction in its nuclear reactor on its maiden voyage in the North Atlantic in 1961. The submarine's crew, led by the unyielding Captain Alexi Vostrikov, races against time to prevent a Chernobyl-like nuclear disaster which threatens not only the lives of his crew, but has the potential to ignite a world war between the super powers.",
+    "runtime": "138 min",
+    "director": "Kathryn Bigelow",
+    "actors": "Harrison Ford, Sam Spruell, Peter Stebbings",
+    "production_country": "United States, United Kingdom, Germany, Canada",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjExMjZhMjUtZWRjZi00MjI3LTg1OWQtMTFhMWE1N2Y2MGVmXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/8665.webp",
+    "imdb_rating": "6.7",
+    "imdb_votes": "71,704",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/K-19:_The_Widowmaker",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/8665.txt",
+    "plot_year_start": 1961,
+    "plot_year_end": 1961,
+    "epoch": "early-cold-war-era",
+    "action_countries": [
+      "UNKNOWN",
+      "RU",
+      "US",
+      "UNKNOWN"
+    ],
+    "action_continents": [
+      "UNKNOWN",
+      "Europe",
+      "North America",
+      "Arctic Ocean"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "science serving state ambition and risk",
+        "description": "Research is closely tied to national prestige and military need, placing experts inside dangerous projects whose failures carry terrible consequences. What you'll see: laboratories, technical briefings, expeditions, improvised repairs, and specialists treated as both servants of progress and witnesses to its hazards.",
+        "icon": "🔬"
+      },
+      {
+        "label": "superpowers locked in armed vigilance",
+        "description": "International affairs are shaped by suspicion between rival great powers, with military moves judged for the war they might provoke. What you'll see: naval patrols, secret orders, hard-bitten commanders, coded communications, and constant worry about setting off a larger conflict.",
+        "icon": "🪖"
+      }
+    ]
+  },
+  {
+    "movie_id": 315064,
+    "movie_idx": 6880,
+    "imdb_id": "tt4155534",
+    "title": "Animal Crackers",
+    "production_year": "2017",
+    "genre": "Animation, Adventure, Comedy",
+    "plot": "Owen Huntington's life is one continuous loop of work, eat, and sleep. A loop that keeps him from ever seeing his wife Zoe, or his three year old daughter MacKenzie. A loop that is sure to kill him. Then, one day, Owen discovers a long lost Uncle passed away - and left his Circus to Owen. What could have been a blessing - soon unfolds into a curse. The circus is broke. The animals are all gone. And most of the crew are too old to be of any use. It's a disaster. But something magical happens. Owen discovers Buffalo Bob's secret. A box of Animal Crackers that gives the bearer the ability to become any animal in the box. Suddenly - there's hope. If Owen can use the box to become these animals and perform people will come. He'll be rich. But Owen forgot one thing. Buffalo Bob had a brother. Horatio P. Huntington. Owner of the largest chain of circuses in the world. And Horatio would stop at nothing to get his hands on the Magical Animal Crackers.",
+    "runtime": "105 min",
+    "director": "Tony Bancroft, Scott Christian Sava, Jaime Maestro",
+    "actors": "Emily Blunt, Danny DeVito, John Krasinski",
+    "production_country": "China, Spain, United States, United Kingdom, Australia, Canada, South Korea, Hong Kong",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjdkYWM1NTctYzBlYS00MzZiLWFhODQtYzZmNmVlYmRkMDU0XkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/315064.webp",
+    "imdb_rating": "5.8",
+    "imdb_votes": "4,451",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Animal_Crackers_(2017_film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/315064.txt",
+    "plot_year_start": 1962,
+    "plot_year_end": 1964,
+    "epoch": "early-cold-war-era",
+    "action_countries": [
+      "UNKNOWN"
+    ],
+    "action_continents": [
+      "UNKNOWN"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "mass amusement travelling from town to town",
+        "description": "Popular entertainment still depends heavily on live spectacle, novelty acts, and family outings, even as older forms struggle to stay afloat. What you'll see: circus tents, faded performers, animal acts, ticket booths, rundown caravans, and crowds drawn by wonder and showmanship.",
+        "icon": "🎪"
+      }
+    ]
+  },
+  {
+    "movie_id": 560052,
+    "movie_idx": 7100,
+    "imdb_id": "tt9288748",
+    "title": "My Father's Dragon",
+    "production_year": "2022",
+    "genre": "Animation, Adventure, Comedy",
+    "plot": "Elmer Elevator searches for a captive Dragon on Wild Island and finds much more than he could ever have anticipated.",
+    "runtime": "99 min",
+    "director": "Nora Twomey",
+    "actors": "Jacob Tremblay, Gaten Matarazzo, Golshifteh Farahani",
+    "production_country": "Ireland, United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYzAxMGZiNzgtOTZmNS00M2Y4LWJjNGUtZDNmYTJhM2YyYTk2XkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/560052.webp",
+    "imdb_rating": "6.5",
+    "imdb_votes": "3,867",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/My_Father%27s_Dragon_(2022_film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/560052.txt",
+    "plot_year_start": 1948,
+    "plot_year_end": 1948,
+    "epoch": "early-cold-war-era",
+    "action_countries": [
+      "UNKNOWN"
+    ],
+    "action_continents": [
+      "UNKNOWN"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "mass amusement travelling from town to town",
+        "description": "Popular entertainment still depends heavily on live spectacle, novelty acts, and family outings, even as older forms struggle to stay afloat. What you'll see: circus tents, faded performers, animal acts, ticket booths, rundown caravans, and crowds drawn by wonder and showmanship.",
+        "icon": "🎪"
+      }
+    ]
+  },
+  {
+    "movie_id": 227783,
+    "movie_idx": 8111,
+    "imdb_id": "tt1821658",
+    "title": "The Nut Job",
+    "production_year": "2014",
+    "genre": "Animation, Adventure, Comedy",
+    "plot": "In a city park, Surly the Squirrel has finally gone too far with his latest caper . Now exiled, Surly and his rat buddy Buddy's collective nightmare on the streets ends when they discover a nut store to raid. With no other options, she arranges a deal to help in Surly's heist for the colony, even while Surly fully intends to betray it. However, there is more going on with the nut store being a front for bank robbers while Raccoon has his own agenda to ensure his own power. In the mayhem to come, Surly finds himself challenged in ways he never expected and discovering the real prize to treasure in this adventure.",
+    "runtime": "85 min",
+    "director": "Peter Lepeniotis",
+    "actors": "Will Arnett, Brendan Fraser, Liam Neeson",
+    "production_country": "Canada, South Korea, United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTQ1NjAxMDUzN15BMl5BanBnXkFtZTgwOTE5NDM3MDE@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/227783.webp",
+    "imdb_rating": "5.7",
+    "imdb_votes": "31,317",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Nut_Job",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/227783.txt",
+    "plot_year_start": 1959,
+    "plot_year_end": 1959,
+    "epoch": "early-cold-war-era",
+    "action_countries": [
+      "UNKNOWN"
+    ],
+    "action_continents": [
+      "UNKNOWN"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "city authority tangled with organised crime",
+        "description": "In many cities, official power sits uneasily beside rackets, payoffs, and private violence that reach into police and local politics. What you'll see: smoky back rooms, gangland threats, compromised officers, bombings, and streets where the badge does not always mean clean justice.",
+        "icon": "🕴️"
+      }
+    ]
+  },
+  {
+    "movie_id": 10582,
+    "movie_idx": 8883,
+    "imdb_id": "tt0082528",
+    "title": "Hot Bubblegum",
+    "production_year": "1981",
+    "genre": "Comedy, Drama, Romance",
+    "plot": "Three high school seniors preparing for final exams in the early 1960s have the normal teenage concerns about girls, sex and relationships. They try to find out if going steady with one girlfriend is better or if changing girlfriends all the time makes for too many complications. By the end of summer, all things get better.",
+    "runtime": "90 min",
+    "director": "Boaz Davidson",
+    "actors": "Yftach Katzur, Jonathan Sagall, Zachi Noy",
+    "production_country": "Israel, West Germany",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNWFkNTBkZTItYTdlZi00NmI2LTlmNzctNGRlYjdjOTAxOGUxXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/10582.webp",
+    "imdb_rating": "5.7",
+    "imdb_votes": "2,061",
+    "plot_year_start": 1960,
+    "plot_year_end": 1960,
+    "epoch": "early-cold-war-era",
+    "action_countries": [
+      "UNKNOWN"
+    ],
+    "action_continents": [
+      "UNKNOWN"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "teen courtship under watchful conventions",
+        "description": "Young people have more leisure and a growing culture of their own, but romance still moves within strong rules about reputation, sex, and going steady. What you'll see: school corridors, final exams, summer dates, soda-shop flirtation, jealous pairings, and talk about what is proper.",
+        "icon": "💌"
+      }
+    ],
+    "failures": {
+      "wikipedia": "no_wiki_article_found"
+    }
+  },
+  {
+    "movie_id": 14580,
+    "movie_idx": 9351,
+    "imdb_id": "tt0045555",
+    "title": "The Big Heat",
+    "production_year": "1953",
+    "genre": "Crime, Drama, Film-Noir",
+    "plot": "Dave Bannion is an upright cop on the trail of a vicious gang he suspects holds power over the police force. Bannion is tipped off after a colleague's suicide and his fellow officers' suspicious silence lead him to believe that they are on the gangsters' payroll. When a bomb meant for him kills his wife instead, Bannion becomes a furious force of vengeance and justice, aided along the way by the gangster's spurned girlfriend Debby. As Bannion and Debby fall further and further into the Gangland's insidious and brutal trap, they must use any means necessary (including murder) to get to the truth.",
+    "runtime": "89 min",
+    "director": "Fritz Lang",
+    "actors": "Glenn Ford, Gloria Grahame, Jocelyn Brando",
+    "production_country": "United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMzhmNDQ1ZGUtMmNkMy00N2VjLThkODktZjdjNWYwNjBkNTQyXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/14580.webp",
+    "imdb_rating": "7.9",
+    "imdb_votes": "31,169",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Big_Heat",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/14580.txt",
+    "plot_year_start": 1953,
+    "plot_year_end": 1953,
+    "epoch": "early-cold-war-era",
+    "action_countries": [
+      "UNKNOWN"
+    ],
+    "action_continents": [
+      "UNKNOWN"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "city authority tangled with organised crime",
+        "description": "In many cities, official power sits uneasily beside rackets, payoffs, and private violence that reach into police and local politics. What you'll see: smoky back rooms, gangland threats, compromised officers, bombings, and streets where the badge does not always mean clean justice.",
+        "icon": "🕴️"
+      }
+    ]
+  }
+]

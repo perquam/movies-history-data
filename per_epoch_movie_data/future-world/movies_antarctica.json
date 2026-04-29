@@ -1,0 +1,44 @@
+[
+  {
+    "movie_id": 614911,
+    "movie_idx": 5168,
+    "imdb_id": "tt10539608",
+    "title": "The Midnight Sky",
+    "production_year": "2020",
+    "genre": "Adventure, Drama, Sci-Fi",
+    "plot": "A scientist is working alone at a remote Arctic research station when he learns of a mysterious global disaster. At the same time, he meets a strange girl in the Arctic, with whom he must stop the return to Earth of the crew of the spaceship \"Aether\".",
+    "runtime": "118 min",
+    "director": "George Clooney",
+    "actors": "George Clooney, Felicity Jones, David Oyelowo",
+    "production_country": "United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTE2NzJiM2UtZGRiMy00M2Q2LWFmZTAtYmI0MzVmZThkYTFhXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/614911.webp",
+    "imdb_rating": "5.7",
+    "imdb_votes": "92,155",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Midnight_Sky",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/614911.txt",
+    "plot_year_start": 2049,
+    "plot_year_end": 2049,
+    "epoch": "future-world",
+    "action_countries": [
+      "AQ"
+    ],
+    "action_continents": [
+      "Antarctica"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "research stations at the end of the world",
+        "description": "Human presence on the polar continent depends on small, isolated stations built to keep people alive amid lethal cold, distance, and darkness. What you'll see: sealed corridors, generator rooms, ration stores, sleeping bunks, and windows looking out onto endless snow and ice.",
+        "icon": "🛖"
+      },
+      {
+        "label": "survival resting on fragile life-support",
+        "description": "In this frozen world, heat, power, air, medicine, and communications are not conveniences but the thin barrier between life and death. What you'll see: failing equipment, improvised repairs, fuel worries, battery checks, and every task measured against the cold outside.",
+        "icon": "🔋"
+      }
+    ]
+  }
+]

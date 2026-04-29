@@ -1,0 +1,167 @@
+[
+  {
+    "movie_id": 1003581,
+    "movie_idx": 226,
+    "imdb_id": "tt27687527",
+    "title": "Justice League: Warworld",
+    "production_year": "2023",
+    "genre": "Animation, Action, Adventure",
+    "plot": "Warworld, a place of unending brutal gladiatorial combat, Batman, Superman, Wonder Woman and others must unite to form an unbeatable resistance to lead the entire planet to freedom.",
+    "runtime": "89 min",
+    "director": "Jeff Wamester",
+    "actors": "Jensen Ackles, Darren Criss, Stana Katic",
+    "production_country": "United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMmMwYmMxMjEtOGE5OS00NGM0LTlkZGMtMmQzYjExNmUwNjM2XkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/1003581.webp",
+    "imdb_rating": "5.3",
+    "imdb_votes": "5,814",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Justice_League:_Warworld",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/1003581.txt",
+    "plot_year_start": 1950,
+    "plot_year_end": 1950,
+    "epoch": "early-cold-war-era",
+    "action_countries": [
+      "FICTIONAL"
+    ],
+    "action_continents": [
+      "FICTIONAL"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "DC Universe",
+    "failures": {
+      "categories": "missing_category_list"
+    }
+  },
+  {
+    "movie_id": 20043,
+    "movie_idx": 5037,
+    "imdb_id": "tt0093207",
+    "title": "Royal Space Force: The Wings of Honneamise",
+    "production_year": "1987",
+    "genre": "Animation, Drama, Sci-Fi",
+    "plot": "On a far-off planet, a Kingdom tries to launch the planet's first manned spacecraft. This ten year old project not only faces funding and technical problem, but also is subject to political conspiracy and the neighboring Republic's aggression. It's all up to Shilo, the first spaceman to be, his friends and their faith to make the space program a success.",
+    "runtime": "121 min",
+    "director": "Hiroyuki Yamaga",
+    "actors": "Leo Morimoto, David Thomas, Mitsuki Yayoi",
+    "production_country": "Japan",
+    "poster": "https://m.media-amazon.com/images/M/MV5BM2Y5MmM5YTgtZjk4My00ZWY0LTlmOTgtOWVjZmNlNjVhNjU0XkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/20043.webp",
+    "imdb_rating": "7.2",
+    "imdb_votes": "6,175",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Royal_Space_Force:_The_Wings_of_Honn%C3%AAamise",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/20043.txt",
+    "plot_year_start": 1950,
+    "plot_year_end": 1959,
+    "epoch": "early-cold-war-era",
+    "action_countries": [
+      "FICTIONAL"
+    ],
+    "action_continents": [
+      "FICTIONAL"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "failures": {
+      "categories": "missing_category_list"
+    }
+  },
+  {
+    "movie_id": 16866,
+    "movie_idx": 5757,
+    "imdb_id": "tt0762125",
+    "title": "Planet 51",
+    "production_year": "2009",
+    "genre": "Animation, Adventure, Comedy",
+    "plot": "Lem is just an average teenager working on getting the girl and furthering his career at the local planetarium - except that he's an alien. At least to U.S. astronaut Captain Charles T. Baker who lands on Lem's planet hoping for a quick flag plant and a hasty return to earth and his millions of screaming fans. But on this alien planet the media has tagged spacemen as brain-eating, zombie-creating monsters, causing Baker to run for his life and into Lem's house. Now it's up to the green native to get the clumsy astronaut back to his spaceship before military dictator General Grawl and mad scientist Professor Kipple manage to exterminate the Earthly visitor.",
+    "runtime": "91 min",
+    "director": "Jorge Blanco, Javier Abad, Marcos Martínez",
+    "actors": "Dwayne Johnson, Seann William Scott, Jessica Biel",
+    "production_country": "Spain, United Kingdom, United States, Canada",
+    "poster": "https://m.media-amazon.com/images/M/MV5BOGJkZGRhOWItOTM2Ni00ZmFhLThlNDItMDA4YTI4YTc5NTI4XkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/16866.webp",
+    "imdb_rating": "6.0",
+    "imdb_votes": "61,556",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Planet_51",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/16866.txt",
+    "plot_year_start": 1950,
+    "plot_year_end": 1950,
+    "epoch": "early-cold-war-era",
+    "action_countries": [
+      "FICTIONAL"
+    ],
+    "action_continents": [
+      "FICTIONAL"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "failures": {
+      "categories": "missing_category_list"
+    }
+  },
+  {
+    "movie_id": 260516,
+    "movie_idx": 6710,
+    "imdb_id": "tt3830998",
+    "title": "Lupin the Third: Jigen's Gravestone",
+    "production_year": "2014",
+    "genre": "Animation, Action, Crime",
+    "plot": "Lupin and Jigen sneak into the country of East Doroa to steal its valuable treasure the Little Comet. The country has fortified its border after a singer named Queen Malta got assassinated in the neighboring country of West Doroa upon visit. Despite the civil war brewing between East and West Doroa, Lupin and Jigen still go ahead, but during the heist Jigen almost gets killed by a renowned sniper named Yael Okuzaki. It is said that Okuzaki prepares graves for his targets before executing his kills - and he has prepared a grave for Jigen.",
+    "runtime": "51 min",
+    "director": "Takeshi Koike",
+    "actors": "Kan'ichi Kurita, Kiyoshi Kobayashi, Miyuki Sawashiro",
+    "production_country": "Japan",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNDY5Y2RhMTMtOWMzYS00OTJhLTlhOTctNjhiMWQzN2IyMjVjXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/260516.webp",
+    "imdb_rating": "7.2",
+    "imdb_votes": "1,230",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Lupin_the_Third",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/260516.txt",
+    "plot_year_start": 1960,
+    "plot_year_end": 1960,
+    "epoch": "early-cold-war-era",
+    "action_countries": [
+      "FICTIONAL"
+    ],
+    "action_continents": [
+      "FICTIONAL"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Lupin III Universe",
+    "failures": {
+      "categories": "missing_category_list"
+    }
+  },
+  {
+    "movie_id": 593395,
+    "movie_idx": 7715,
+    "imdb_id": "tt9381682",
+    "title": "Diabolik",
+    "production_year": "2021",
+    "genre": "Action, Crime, Mystery",
+    "plot": "The dark and romantic story of the first meeting between master thief Diabolik and Eva Kant, set in the fictional state of Clerville in the late 1960s. Inspector Ginko is on the hunt for the criminal, trying to stop his evil plans.",
+    "runtime": "134 min",
+    "director": "Antonio Manetti, Marco Manetti",
+    "actors": "Luca Marinelli, Miriam Leone, Valerio Mastandrea",
+    "production_country": "Italy",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYjQ4YTc1MDQtZDI2Mi00MjE0LTlmY2UtMThkZDI1M2VlYzJiXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/593395.webp",
+    "imdb_rating": "5.9",
+    "imdb_votes": "4,086",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Diabolik_(2021_film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/593395.txt",
+    "plot_year_start": 1960,
+    "plot_year_end": 1969,
+    "epoch": "early-cold-war-era",
+    "action_countries": [
+      "FICTIONAL"
+    ],
+    "action_continents": [
+      "FICTIONAL"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "FICTIONAL",
+    "failures": {
+      "categories": "missing_category_list"
+    }
+  }
+]

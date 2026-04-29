@@ -1,0 +1,501 @@
+{
+  "epoch": "late-cold-war-era",
+  "continent": "europe",
+  "sample_size": 50,
+  "sample": [
+    {
+      "title": "Belfast",
+      "years": "1969..1969",
+      "countries": [
+        "GB",
+        "US"
+      ],
+      "plot": "Belfast, 15 August 1969. Surrounded by sporadic violence and growing danger, nine-year-old Buddy finds himself confronted with the ugly reality of sectarian conflict. And, as the suffocating stranglehold of increasing turmoil tightens around his once-peaceful working-class neighbourhood, Buddy tries his best to understand The Troubles--after all, someone must be responsible for forcing people to flee their homes. Now, Buddy's family must come face to face with a nearly impossible, life-altering decision: stay or start packing?"
+    },
+    {
+      "title": "Darkness",
+      "years": "1960..2000",
+      "countries": [
+        "ES",
+        "US"
+      ],
+      "plot": "There's something in this house - Something ancient and dark that remains still, hidden and silent. It can only wait, having been concealed in the shadows for years. In fact, its milieu is darkness."
+    },
+    {
+      "title": "Once Upon a Time in Norway",
+      "years": "1980..1990",
+      "countries": [
+        "NO"
+      ],
+      "plot": "Interviews with central members of early Norwegian black metal bands about Mayhem, the early black metal scene and the crimes they committed."
+    },
+    {
+      "title": "Torn Curtain",
+      "years": "1965..1965",
+      "countries": [
+        "DK",
+        "DE",
+        "SE"
+      ],
+      "plot": "Professor Michael Armstrong (Paul Newman) is heading to Copenhagen, Denmark to attend a physics conference accompanied by his assistant and fiancée Sarah Sherman (Dame Julie Andrews). Once arrived however, Michael informs her that he may be staying for awhile and she should return home. She follows him and realizes he's actually heading to East Germany, behind the Iron Curtain. She follows him there and is shocked when he announces that he's defecting to the East after the U.S. government cancelled his research project. In fact, Michael is there to obtain information from a renowned East German scientist. Once the information is obtained, he and Sarah now have to make their way back to the West."
+    },
+    {
+      "title": "The Way Back",
+      "years": "1939..1989",
+      "countries": [
+        "RU",
+        "MN",
+        "CN",
+        "IN",
+        "PL"
+      ],
+      "plot": "In 1939, three men attempt to flee communist Russia, escaping a Siberian gulag. This movie tells their story and that of four others who escaped with them and a teenage girl, Irena Zielinska, who joins them in flight. The group's natural leader is Janusz Weiszczek, a Pole condemned by accusations secured by torturing his wife, spent much of his youth outdoors, and knows how to live in the wild. They escape under cover of a snowstorm: cynical American Mr. Smith, Russian thug Valka, comedic accountant Zoran, pastry chef Tomasz Horodinsky, who draws, Priest Andrejs Voss, and Polish Kazik, who suffers from night blindness. They face freezing nights, lack of food and water, mosquitoes, an endless desert, the Himalayas, as well as many moral and ethical dilemmas throughout the journey towards freedom."
+    },
+    {
+      "title": "The French Dispatch",
+      "years": "1975..1975",
+      "countries": [
+        "FR",
+        "US"
+      ],
+      "plot": "Faced with the impending dissolution of The French Dispatch, a factual weekly report on various subjects, old-school editor-in-chief Arthur Howitzer Jr. assembles the crème de la crème of the magazine's loyal expatriate journalists for one final issue. Against the backdrop of picturesque Ennui-sur-Blasé, Paris, France, three main articles unfold, pivoting around tormented genius artists, statuesque prison officers, flamboyant critics, moody idealists, conflicted ace reporters, legendary chefs, and, of course, the police."
+    },
+    {
+      "title": "The Story of O",
+      "years": "1975..1975",
+      "countries": [
+        "FR"
+      ],
+      "plot": "The beautiful O is taken by her boyfriend, Rene, to a bizarre retreat, where she is trained in bondage and sexual perversion. Rene discharges a personal debt by transferring possession of O to his step-brother, Sir Stephen..."
+    },
+    {
+      "title": "The Immortal",
+      "years": "1980..1990",
+      "countries": [
+        "IT",
+        "LV"
+      ],
+      "plot": "Ciro's body is slowly sinking in the Gulf of Naples. As he plunges into darkness, memories emerge. It's 1980, the earth is shaking, and buildings are falling. A baby's cry emerges from beneath the rubble. Ten years later, the baby has grown into a young boy surviving, on his own, on the streets of Naples and getting his upbringing from the underworld. The aimless child of no one becomes Ciro Di Marzio, the Immortal."
+    },
+    {
+      "title": "The Way of the Dragon",
+      "years": "1972..1972",
+      "countries": [
+        "IT"
+      ],
+      "plot": "Tang Lung arrives in Rome to help his cousins in the restaurant business. They are being pressured to sell their property to the syndicate, who will stop at nothing to get what they want. When Tang arrives he poses a new threat to the syndicate, and they are unable to defeat him. The syndicate boss hires the best Japanese and European martial artists to fight Tang, but he easily finishes them off. The American martial artist Colt is hired and has a showdown with Tang in Rome's famous Colosseum."
+    },
+    {
+      "title": "The Party",
+      "years": "1980..1981",
+      "countries": [
+        "FR"
+      ],
+      "plot": "13-year-old Vic is new in her high school. She soon makes friends with Penelope and they check out guys together, in the quest for a great love. Then Vic's parents complicate her life by not allowing her to attend the \"boum,\" a big party. But with help from Grand-mere Poupette, Vic is allowed to go, and she falls in love with Matthieu. Meanwhile, her parents' marriage is on the edge when her father's ex-girlfriend demands one last night with him."
+    },
+    {
+      "title": "Cruella",
+      "years": "1964..1977",
+      "countries": [
+        "GB"
+      ],
+      "plot": "Before she becomes Cruella de Vil, teenage Estella has a dream. She wishes to become a fashion designer, having been gifted with talent, innovation, and ambition all in equal measures. But life seems intent on making sure her dreams never come true. Having wound up penniless and orphaned in London at 12, 10 years later Estella runs wild through the city streets with her best friends and partners-in-(petty)-crime, Horace and Jasper, two amateur thieves. When a chance encounter vaults Estella into the world of the young rich and famous, however, she begins to question the existence she's built for herself in London and wonders whether she might, indeed, be destined for more after all."
+    },
+    {
+      "title": "A Bay of Blood",
+      "years": "1971..1971",
+      "countries": [
+        "IT"
+      ],
+      "plot": "An elderly heiress is killed by her husband who wants control of her fortunes. What ensues is an all-out murder spree as relatives and friends attempt to reduce the inheritance playing field, complicated by some teenagers who decide to camp out in a dilapidated building on the estate."
+    },
+    {
+      "title": "The Commitments",
+      "years": "1989..1989",
+      "countries": [
+        "IE"
+      ],
+      "plot": "Funny, musical and occasionally dramatic, this is the story of tumultuous rise and fall of a Dublin Soul band, The Commitments. Managed by Jimmy Rabbitte, an unemployed wheeler and dealer with a vision to create \"The Worlds Hardest Working Band\"."
+    },
+    {
+      "title": "Two Men in Town",
+      "years": "1973..1973",
+      "countries": [
+        "FR"
+      ],
+      "plot": "On account of the influence and support of Germain, a warm and compassionate social worker, the repeat offender and former safe-cracker, Gino, is granted parole. Yearning to wipe the slate clean and bury the past, Gino, determined to go straight, gets a steady job and finds love, unaware that it is only a matter of time before he's forced to confront destiny. Now, with his old partners-in-crime almost begging him to pick up where they left off, Gino finds himself with the back to the wall as malevolent Inspector Goitreau re-enters his life, harbouring a decade-long grudge. Is there enough room in town for the two sworn enemies?"
+    },
+    {
+      "title": "Austin Powers: The Spy Who Shagged Me",
+      "years": "1969..1999",
+      "countries": [
+        "GB",
+        "US",
+        "UNKNOWN"
+      ],
+      "plot": "Dr. Evil uses a device he calls a \"Time Machine\" to travel back to 1969 and remove Austin Powers' mojo. The sexually wounded swinger must travel back in time and, with the help of agent Felicity Shagwell, recover his vitality. Meanwhile, Dr. Evil's personal life runs amok as he discovers love, continues to shun his son and develops a close relationship with himself. Well, actually, a clone 1/8 his size whom he dubs \"Mini-Me\". The always time-baffled Dr. Evil begins his plan to put a gigantic cannon on the moon, thus turning it into a device called either \"The Death Star\" or \"Alan Parson's Project,\" depending on which name is available."
+    },
+    {
+      "title": "Dogman",
+      "years": "1988..1989",
+      "countries": [
+        "IT"
+      ],
+      "plot": "Marcello, a small and gentle dog groomer, finds himself involved in a dangerous relationship of subjugation with Simone, a former violent boxer who terrorizes the entire neighborhood. In an effort to reaffirm his dignity, Marcello will submit to an unexpected act of vengeance."
+    },
+    {
+      "title": "House of Gucci",
+      "years": "1978..1995",
+      "countries": [
+        "IT"
+      ],
+      "plot": "House of Gucci is inspired by the family empire behind the Italian fashion house of Gucci. When Patrizia Reggiani (Lady Gaga), an outsider from humble beginnings, marries into the Gucci family, her unbridled ambition begins to unravel the family legacy and triggers a reckless spiral of betrayal, decadence, revenge, and ultimately...murder."
+    },
+    {
+      "title": "Camille Rewinds",
+      "years": "1985..1985",
+      "countries": [
+        "FR"
+      ],
+      "plot": "Camille was only sixteen and still in high school when she fell in love with Eric, another student. They later married and a child and were happy for a while. But now twenty-five years have passed and Eric leaves her for a younger woman. Bitter and desperate Camille drinks so much liquor at a New Year Eve's party that she falls into an ethylic coma and she finds herself... propelled into her own past! Camille is sixteen again when she wakes up this morning, her parents are not dead anymore and she must go to school, where she will meet her schoolmates and, of course, Eric. Is she going to fall for him again and... be miserable twenty-five years later? Or will she avoid him with the result never having her beloved daughter? Who ever said that time traveling was fun?"
+    },
+    {
+      "title": "The Godfather Part III",
+      "years": "1979..1996",
+      "countries": [
+        "IT",
+        "US"
+      ],
+      "plot": "In the final installment of the Godfather Trilogy, an aging Don Michael Corleone seeks to legitimize his crime family's interests and remove himself from the violent underworld but is kept back by the ambitions of the young. While he attempts to link the Corleone's finances with the Vatican, Michael must deal with the machinations of a hungrier gangster seeking to upset the existing Mafioso order and a young protege's love affair with his daughter."
+    },
+    {
+      "title": "Misbehaviour",
+      "years": "1970..1970",
+      "countries": [
+        "GB"
+      ],
+      "plot": "A group of women hatch a plan to disrupt the 1970 Miss World beauty competition in London."
+    },
+    {
+      "title": "How to Steal a Million",
+      "years": "1966..1966",
+      "countries": [
+        "FR"
+      ],
+      "plot": "In Paris, wealthy Charles Bonnet is well known in the art world as a collector of rare pieces, mostly of the impressionist masters. He will on occasion sell paintings from his collection at auction. In reality, he is an art forger, he only reproducing those pieces known to have gone missing. His daughter, Nicole Bonnet, wants him to stop this business fearing that some day soon he will get caught. She is most concerned about he loaning out his Cellini Venus statue to the Kléber-Lafayette Museum, as she knows that technology can now test for things such as material age which would prove that the statue and by association he is a fraud. He ends up causing a problem for himself when he signs a $1 million insurance policy for the statue for the museum, which unwittingly allows them to test the piece for its authenticity. To save her father from jail, Nicole feels the only thing she can do is try to steal the statue from the gallery which may not be the easiest thing to do especially as the museum has installed an electronic security system around the piece to protect it above and beyond the regular security. She contacts the only person she knows who she believes can help her, namely a burglar named Simon Dermott. Nicole and Simon had only recently met when he broke into the Bonnet mansion to steal a Van Gogh painting, Nicole catching him in the process. Nicole could not call the police to report him for fear that her father's fraudulent life would be uncovered. Nicole not only has to convince Simon to help her without actually divulging the reason why she wants to steal her own statue, but they also have to come up with a plan to steal it. Complicating matters is an American art collector named Davis Leland who is not only wooing Nicole, but wants to add many of M. Bonnet's pieces to his own collection, most specifically the Venus. Within this collective, not all is as it appears on the surface."
+    },
+    {
+      "title": "Suspiria",
+      "years": "1977..1977",
+      "countries": [
+        "DE"
+      ],
+      "plot": "Suzy Bannion travels to Germany to perfect her ballet skills. She arrives at the Tanz dance academy in the pouring rain and is refused admission after another woman is seen fleeing the school. She returns the next morning and this time is let in. She learns that the young woman she saw fleeing the previous evening, Pat Hingle, has been found dead. Strange things soon begin to occur. Suzy becomes ill and is put on a special diet; the school becomes infested with maggots; odd sounds abound; and Daniel, the pianist, is killed by his own dog. A bit of research indicates that the ballet school was once a witches' coven - and as Suzy learns, still is."
+    },
+    {
+      "title": "Willy Wonka & the Chocolate Factory",
+      "years": "1960..1970",
+      "countries": [
+        "GB",
+        "DE",
+        "US"
+      ],
+      "plot": "The world is astounded when Willy Wonka, for years a recluse in his factory, announces that five lucky people will be given a tour of the factory, shown all the secrets of his amazing candy, and one will win a lifetime supply of Wonka chocolate. Nobody wants the prize more than young Charlie, but as his family is so poor that buying even one bar of chocolate is a treat, buying enough bars to find one of the five golden tickets is unlikely in the extreme. But in movieland, magic can happen. Charlie, along with four somewhat odious other children, get the chance of a lifetime and a tour of the factory. Along the way, mild disasters befall each of the odious children, but can Charlie beat the odds and grab the brass ring?"
+    },
+    {
+      "title": "The Lives of Others",
+      "years": "1984..1994",
+      "countries": [
+        "DE"
+      ],
+      "plot": "Gerd Wiesler is an officer with the Stasi, the East German secret police. The film begins in 1984 when Wiesler attends a play written by Georg Dreyman, who is considered by many to be the ultimate example of the loyal citizen. Wiesler has a gut feeling that Dreyman can't be as ideal as he seems, and believes surveillance is called for. The Minister of Culture agrees but only later does Wiesler learn that the Minister sees Dreyman as a rival and lusts after his partner Christa-Maria. The more time he spends listening in on them, the more he comes to care about them. The once rigid Stasi officer begins to intervene in their lives, in a positive way, protecting them whenever possible. Eventually, Wiesler's activities catch up to him and while there is no proof of wrongdoing, he finds himself in menial jobs - until the unbelievable happens."
+    },
+    {
+      "title": "Chernobyl: Abyss",
+      "years": "1986..1986",
+      "countries": [
+        "UA",
+        "CH"
+      ],
+      "plot": "Chernobyl: The Abyss is the first major Russian feature film about the aftermath of the explosion at the Chernobyl nuclear power station, when hundreds of people sacrificed their lives to clean up the site of the catastrophe, and to successfully prevent an even bigger disaster that could have turned a large part of the European continent into an uninhabitable exclusion zone. The unlikely hero of the film is Alexey, a fireman at the power station. He is accompanied by Valery, an engineer, and Boris, a military diver, on a perilous mission to drain water from a reservoir under the burning reactor. They have no time for proper planning; water in the flooded corridors they will have to traverse is getting hotter by the hour as the molten reactor core seeps ever closer. Prepared to sacrifice their own lives in order to prevent an even greater catastrophe, the three men descend into the depths of the reactor building."
+    },
+    {
+      "title": "The Wonderful Story of Henry Sugar",
+      "years": "1978..1998",
+      "countries": [
+        "GB"
+      ],
+      "plot": "Chronicles a variety of stories, but the main one follows Henry Sugar, who is able to see through objects and predict the future with the help of a book he stole."
+    },
+    {
+      "title": "Autumn Sonata",
+      "years": "1970..1970",
+      "countries": [
+        "SE",
+        "NO"
+      ],
+      "plot": "After having neglected her children for many years, world famous pianist Charlotte visits her daughter Eva in her home. To her surprise she finds her other daughter, Helena, there as well. Helena is mentally disabled, and Eva has taken Helena out of the institution where their mother had placed her. The tension between Charlotte and Eva only builds up slowly, until a nightly conversation releases all the things they have wanted to tell each other."
+    },
+    {
+      "title": "The Girl with the Dragon Tattoo",
+      "years": "1966..1966",
+      "countries": [
+        "SE",
+        "AU"
+      ],
+      "plot": "Forty years ago, Harriet Vanger disappeared from a family gathering on the island owned and inhabited by the powerful Vanger clan. Her body was never found, yet her uncle suspects murder and that the killer is a member of his own tightly knit but dysfunctional family. He employs disgraced financial journalist Mikael Blomkvist and the tattooed, ruthless computer hacker Lisbeth Salander to investigate. When the pair link Harriet's disappearance to a number of grotesque murders from almost forty years ago, they begin to unravel a dark and appalling family history; but, the Vangers are a secretive clan, and Blomkvist and Salander are about to find out just how far they are prepared to go to protect themselves."
+    },
+    {
+      "title": "To Be Twenty",
+      "years": "1969..1978",
+      "countries": [
+        "IT"
+      ],
+      "plot": "Lia and Tina are two beautiful girls who meet and realize that they have a lot in common. They are both young, beautiful and pissed off, so they decide to hitchhike their way to Rome to find Nazariota's commune, a place to stay for free and have all the sex they want... or so they think. Things don't go as they have planned though, and soon they become involved in prostitution, the police and an aggressive gang."
+    },
+    {
+      "title": "The Lovers on the Bridge",
+      "years": "1989..1989",
+      "countries": [
+        "FR"
+      ],
+      "plot": "Set against Paris' oldest bridge, the Pont Neuf, while it was closed for repairs, this film is a love story between two young vagrants: Alex, a would be circus performer addicted to alcohol and sedatives and Michele, a painter driven to a life on the streets because of a failed relationship and an affliction which is slowly turning her blind. The film portrays the harsh existence of the homeless as Alex, Michele and Hans, an older vagrant survive on the streets with their wits. As they both slowly get their lives back together, Michele becomes increasingly dependent on Alex as her vision deteriorates further. Fearing that Michele will leave him if she receives a new medical treatment Alex attempts to keep Michele practically a prisoner. The streets, skies and waterways of Paris are used as a backdrop to the story in a series of stunning visuals which dominate the film."
+    },
+    {
+      "title": "The Bitter Tears of Petra von Kant",
+      "years": "1972..1972",
+      "countries": [
+        "DE"
+      ],
+      "plot": "Petra von Kant is a successful fashion designer -- arrogant, caustic, and self-satisfied. Some time ago, she divorced the husband she no longer loved. Until recently, she has been in a fairly satisfactory S and M relationship with Marlene (her secretary, maid, and co-designer). She mistreats her. Enter Karin, a 23-year-old beauty who wants to be a model. She falls in love with Karin and invites her to move in. The rest of the film deals with the emotions of this affair and its aftermath. Fassbinder tells his story in a series of 5 or 6 long scenes with extended uses of a single camera shot and deep focus."
+    },
+    {
+      "title": "Breaking the Waves",
+      "years": "1970..1972",
+      "countries": [
+        "GB",
+        "DK"
+      ],
+      "plot": "Drama set in a repressed, deeply religious community in the north of Scotland, where a naive young woman named Bess McNeil meets and falls in love with Danish oil-rig worker Jan. Bess and Jan are deeply in love but, when Jan returns to his rig, Bess prays to God that he returns for good. Jan does return, his neck broken in an accident aboard the rig. Because of his condition, Jan and Bess are now unable to enjoy a sexual relationship and Jan urges Bess to take another lover and tell him the details. As Bess becomes more and more deviant in her sexual behavior, the more she comes to believe that her actions are guided by God and are helping Jan recover."
+    },
+    {
+      "title": "The Theory of Everything",
+      "years": "1963..1989",
+      "countries": [
+        "GB"
+      ],
+      "plot": "The Theory of Everything is the story of the most brilliant and celebrated physicist of our time, Stephen Hawking, and Jane Wilde, the arts student he fell in love with while studying at Cambridge in the 1960s. Little was expected from Hawking, a bright but shiftless student of cosmology, after he was given just two years to live following the diagnosis of a fatal illness (ALS) at 21 years of age. He became galvanized, however, by the love Jane Wilde, and went on to be called the \"successor to Einstein,\" as well as a husband and father to their three children. Over the course of their marriage, however, as Stephen's body collapsed and his academic renown soared, fault lines were exposed that tested the resolve of their relationship and dramatically altered the course of both of their lives."
+    },
+    {
+      "title": "Munich",
+      "years": "1972..1979",
+      "countries": [
+        "DE",
+        "CH",
+        "IT",
+        "FR",
+        "CY",
+        "LB",
+        "GR",
+        "GB",
+        "NL",
+        "ES",
+        "IL",
+        "US"
+      ],
+      "plot": "After Black September's assassination of Israeli athletes at the Munich Olympics in 1972, Prime Minister Golda Meir okays a covert operation to hunt down and kill all involved. A team of five gathers in Switzerland led by Avner, a low-level Mossad techie whose father was a war hero and whose wife is pregnant. It's an expendable team, but relying on paid informants, they track and kill several in Europe and Lebanon. They must constantly look over their shoulders for the CIA, KGB, PLO, and their own sources. As the body count mounts -- with retribution following retribution -- so do questions, doubts, and sleepless nights. Loyalties blur. What does it mean to be a Jew?"
+    },
+    {
+      "title": "Malevolent",
+      "years": "1986..1986",
+      "countries": [
+        "GB"
+      ],
+      "plot": "Siblings Jackson and Angela run a profitable ghostbusting racket; swindling the bereaved with fake detection equipment and Angela's paranormal 'visions'. Hired to investigate a haunted old foster home, the team uncover its terrifying past: young girls brutally slaughtered, mouths stitched shut; silenced by a sadistic killer. And Angela's on the edge - sleepless, strung out and losing her mind, no longer certain what's actually real; convinced she hears the girls crying out to her from the darkness... But supernatural terrors are the least of their problems when they discover the very real evil lurking in the isolated house."
+    },
+    {
+      "title": "Saint Laurent",
+      "years": "1967..1976",
+      "countries": [
+        "FR",
+        "MA"
+      ],
+      "plot": "Yves Saint Laurent's life from 1967 to 1976, during which time the famed fashion designer was at the peak of his career."
+    },
+    {
+      "title": "Rush",
+      "years": "1970..1976",
+      "countries": [
+        "DE",
+        "GB",
+        "AT"
+      ],
+      "plot": "Set against the sexy, glamorous golden age of Formula 1 racing in the 1970s, the film is based on the true story of a great sporting rivalry between handsome English playboy James Hunt (Hemsworth), and his methodical, brilliant opponent, Austrian driver Niki Lauda (Bruhl). The story follows their distinctly-different personal styles on and off the track, their loves, and the astonishing 1976 season in which both drivers were willing to risk everything to become world champion in a sport with no margin for error: if you make a mistake, you die."
+    },
+    {
+      "title": "Never Let Me Go",
+      "years": "1978..1994",
+      "countries": [
+        "GB"
+      ],
+      "plot": "As children, Ruth, Kathy and Tommy spend their childhood at a seemingly idyllic English boarding school. As they grow into young adults, they find that they have to come to terms with the strength of the love they feel for each other, while preparing themselves for the haunting reality that awaits them."
+    },
+    {
+      "title": "God's Crooked Lines",
+      "years": "1979..1979",
+      "countries": [
+        "ES"
+      ],
+      "plot": "Follows a woman checking into a psychiatric ward to investigate a homicide."
+    },
+    {
+      "title": "The Reader",
+      "years": "1958..1995",
+      "countries": [
+        "DE",
+        "US"
+      ],
+      "plot": "THE READER opens in post-war Germany when teenager Michael Berg becomes ill and is helped home by Hanna, a stranger twice his age. Michael recovers from scarlet fever and seeks out Hanna to thank her. The two are quickly drawn into a passionate secret affair. Michael discovers that Hanna loves being read to and their physical relationship deepens. Hanna is enthralled as Michael reads to her from \"The Odyssey,\" \"Huck Finn,\" and \"The Lady with the Little Dog.\" Despite their intense bond, Hanna mysteriously disappears one day and Michael is left confused and heartbroken. Eight years later, while Michael is a law student observing the Nazi war crime trials, he is stunned to find Hanna back in his life--this time as a defendant in the courtroom. As Hanna's past is revealed, Michael uncovers a deep secret that will impact both of their lives. THE READER is a story about truth and reconciliation, about how one generation comes to terms with the crimes of another."
+    },
+    {
+      "title": "All the Money in the World",
+      "years": "1973..1973",
+      "countries": [
+        "IT",
+        "GB",
+        "US"
+      ],
+      "plot": "Rome, 1973. Masked men kidnap a teenage boy named John Paul Getty III (Charlie Plummer). His grandfather, Jean Paul Getty (Christopher Plummer), is the richest human in the world, a billionaire oil magnate, but he's notoriously miserly. His favorite grandson's abduction is not reason enough for him to part with any of his fortune. All the Money in the World (2017) follows Gail, (Michelle Williams), Paul's devoted, strong-willed mother, who unlike Getty, has consistently chosen her children over his fortune. Her son's life in the balance with time running out, she attempts to sway Getty even as her son's mob captors become increasingly more determined, volatile and brutal. When Getty sends his enigmatic security man Fletcher Chace (Mark Wahlberg) to look after his interests, he and Gail become unlikely allies in this race against time that ultimately reveals the true and lasting value of love over money.."
+    },
+    {
+      "title": "Summer of 85",
+      "years": "1985..1985",
+      "countries": [
+        "FR"
+      ],
+      "plot": "What do you dream of when you're 16 years old and in a seaside resort in Normandy in the 1980s? A best friend? A lifelong teen pact? Scooting off on adventures on a boat or a motorbike? Living life at breakneck speed? No. You dream of death. Because you can't get a bigger kick than dying. And that's why you save it till the very end. The summer holidays are just beginning, and this story recounts how Alexis grew into himself."
+    },
+    {
+      "title": "Firefox",
+      "years": "1982..1982",
+      "countries": [
+        "RU",
+        "GB",
+        "US"
+      ],
+      "plot": "The Soviets have developed a revolutionary new jet fighter, called \"Firefox\". Naturally, the British are worried that the jet will be used as a first-strike weapon, as rumors say that the jet is undetectable on radar. They send ex-Vietnam War pilot Mitchell Gant (Clint Eastwood) on a covert mission into the Soviet Union to steal the Firefox."
+    },
+    {
+      "title": "The Hummingbird",
+      "years": "1970..2030",
+      "countries": [
+        "IT"
+      ],
+      "plot": "The life of male protagonist from the 1970s to the near future and the myriad relationships that have criss-crossed its path along the way."
+    },
+    {
+      "title": "The Hand of God",
+      "years": "1984..1986",
+      "countries": [
+        "IT"
+      ],
+      "plot": "In 1980s Naples, young Fabietto pursues his love for football as family tragedy strikes, shaping his uncertain but promising future as a filmmaker."
+    },
+    {
+      "title": "Bande-annonce de 'Masculin féminin'",
+      "years": "1965..1966",
+      "countries": [
+        "FR",
+        "BR"
+      ],
+      "plot": "Godard presents his trailer for one of the iconic Nouvelle Vague monuments, the classic \"Masculin Féminin\". An amusing soundtrack, several clips from the film are exhibited in the usual Godard style, with the titles telling us tha..."
+    },
+    {
+      "title": "Forever Young",
+      "years": "1988..1989",
+      "countries": [
+        "FR"
+      ],
+      "plot": "At the end of the 1980s, Stella, Victor, Adèle and Etienne are 20 years old. They take the entrance exam to the famous acting school created by Patrice Chéreau and Pierre Romans at the Théâtre des Amandiers in Nanterre. Launched at full speed into life, passion, and love, together they will experience the turning point of their lives, but also their first tragedy."
+    },
+    {
+      "title": "The Long Good Friday",
+      "years": "1979..1979",
+      "countries": [
+        "GB",
+        "IE"
+      ],
+      "plot": "Harold (Bob Hoskins), a prosperous English gangster, is about to close a lucrative new deal when bombs start showing up in very inconvenient places. A mysterious syndicate is trying to muscle in on his action, and Harold wants to know who they are. He finds out soon enough, and bloody mayhem ensues."
+    },
+    {
+      "title": "Black Eagle",
+      "years": "1988..1988",
+      "countries": [
+        "MT",
+        "IT"
+      ],
+      "plot": "One of the US Air Force's most modern tactical aircraft, an F-111 Aardvark with a new laser guidance system, crashes into the sea near Malta - a region where the Soviet forces are highly present, too. The CIA immediately sends out their best secret agent, Ken Tami, to salvage the system before it falls into enemy hands. To ensure his loyalty, they bring his two young sons to a nearby hotel on the island. Ken Tami's tough opponent is KGB agent Andrei."
+    },
+    {
+      "title": "An American Werewolf in London",
+      "years": "1980..1981",
+      "countries": [
+        "GB",
+        "US"
+      ],
+      "plot": "Two American college students are on a walking tour of Britain and are attacked by a werewolf. One is killed, the other is mauled. The werewolf is killed but reverts to its human form, and the local townspeople are unwilling to acknowledge its existence. The surviving student begins to have nightmares of hunting on four feet at first but then finds that his friend and other recent victims appear to him, demanding that he commit suicide to release them from their curse, being trapped between worlds because of their unnatural deaths."
+    }
+  ],
+  "categories": [
+    {
+      "label": "europe divided by the Iron Curtain",
+      "description": "The continent is split between rival blocs, with guarded frontiers, defections, intelligence work, and a constant measuring of East against West. What you'll see: border posts, drab ministries, secret files, coded meetings, foreign conferences, and the uneasy contrast between socialist austerity and western plenty.",
+      "icon": "🧱"
+    },
+    {
+      "label": "states watching citizens through hidden ears",
+      "description": "In several countries, public life is shadowed by police surveillance, informers, opened letters, and the fear that private speech is never truly private. What you'll see: bugged flats, interrogation rooms, wiretaps, anonymous reports, cautious conversations, and officials treating culture as something to monitor.",
+      "icon": "🕵️"
+    },
+    {
+      "label": "old war guilt still shaping Europe",
+      "description": "Late-century Europe still lives with the burden of occupation, collaboration, genocide, and the awkward inheritance passed from one generation to the next. What you'll see: trials, memorial silences, damaged family histories, school lessons about the past, and respectable institutions haunted by earlier crimes.",
+      "icon": "🕯️"
+    },
+    {
+      "label": "sectarian and political violence at home",
+      "description": "Even in ordinary streets, ideology and identity can turn neighbourhoods into contested ground, with bombings, reprisals, and pressure to choose sides. What you'll see: barricaded roads, soldiers on patrol, suspicious checkpoints, smashed shopfronts, tense pubs, and families weighing whether to stay or leave.",
+      "icon": "💣"
+    },
+    {
+      "label": "mafias, syndicates, and underworld patronage",
+      "description": "Alongside the lawful state, criminal networks govern whole districts through fear, favours, extortion, and ties reaching into business and politics. What you'll see: back-room deals, protection money, kidnappings, rough housing estates, luxury fronts, churchly respectability, and violence treated as part of local order.",
+      "icon": "🕴️"
+    },
+    {
+      "label": "youth making selves through pop culture",
+      "description": "Teenagers and young adults have more room to fashion identity through records, clothes, parties, magazines, and new scenes that travel quickly across borders. What you'll see: school corridors, dance floors, soul bands, punkish or metal styles, seaside holidays, motorbikes, cassette-era music, and bedrooms plastered with taste.",
+      "icon": "📼"
+    },
+    {
+      "label": "fashion houses and prestige culture flourishing",
+      "description": "European capitals still project authority through couture, galleries, elite schools, publishing, and the old glamour of high art even as the age grows more restless. What you'll see: ateliers, runways, rehearsal rooms, ballet academies, little magazines, smoky salons, critics, patrons, and elegant apartments masking strain.",
+      "icon": "👗"
+    },
+    {
+      "label": "consumer plenty beside stubborn class hardship",
+      "description": "Postwar prosperity has filled shop windows and leisure life, yet many families remain cramped, precarious, or shut out from the bright promise of abundance. What you'll see: public estates, corner shops, candy counters, fashionable boutiques, second-hand clothes, crowded kitchens, and sharp visual contrasts between wealth and want.",
+      "icon": "🛍️"
+    },
+    {
+      "label": "science and modern systems carrying new peril",
+      "description": "The age trusts experts, engines, reactors, and advanced machines, yet the same systems can fail spectacularly or become instruments in the great-power contest. What you'll see: laboratories, university halls, race cars, fighter aircraft, power stations, emergency crews, technical jargon, and modern hardware treated with awe and dread.",
+      "icon": "☢️"
+    },
+    {
+      "label": "churches, schools, and wards enforcing norms",
+      "description": "Many Europeans still pass through strong institutions that define respectability, discipline bodies, and decide who is deviant, ill, redeemable, or shameful. What you'll see: parish elders, boarding schools, psychiatric wards, foster homes, parole offices, strict family tables, and intimate lives judged by official or moral authority.",
+      "icon": "🏫"
+    }
+  ]
+}

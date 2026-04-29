@@ -1,0 +1,127 @@
+[
+  {
+    "movie_id": 724495,
+    "movie_idx": 515,
+    "imdb_id": "tt8093700",
+    "title": "The Woman King",
+    "production_year": "2022",
+    "genre": "Action, Drama, History",
+    "plot": "A historical epic inspired by true events that took place in The Kingdom of Dahomey, one of the most powerful states of Africa in the 18th and 19th centuries.",
+    "runtime": "135 min",
+    "director": "Gina Prince-Bythewood",
+    "actors": "Viola Davis, Thuso Mbedu, Lashana Lynch",
+    "production_country": "United States, South Africa, Ireland",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNzM4ODY0NzctZDIyNC00MzE4LWI3NDYtYjIyYTUyZWFmYzJkXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/724495.webp",
+    "imdb_rating": "6.9",
+    "imdb_votes": "82,373",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Woman_King",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/724495.txt",
+    "plot_year_start": 1823,
+    "plot_year_end": 1823,
+    "epoch": "early-modern-and-revolutionary-world",
+    "action_countries": [
+      "BJ"
+    ],
+    "action_continents": [
+      "Africa"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "women holding formal place in arms",
+        "description": "Some African states make room for women within royal and military institutions, linking service, discipline, and status directly to the crown. What you'll see: training grounds, barracks life, ceremonial inspections, strict hierarchies of command, and women moving in spaces of power usually reserved for armed retainers.",
+        "icon": "🛡️"
+      },
+      {
+        "label": "captivity and slavery structuring social order",
+        "description": "Unfreedom exists within the region as well as across the ocean, shaping households, labour, military service, and the fate of those taken in war. What you'll see: captives guarded after raids, enslaved labour within compounds and fields, household dependants of different rank, and constant attention to who is free and who is owned.",
+        "icon": "⛓️"
+      }
+    ]
+  },
+  {
+    "movie_id": 32985,
+    "movie_idx": 4049,
+    "imdb_id": "tt0970452",
+    "title": "Solomon Kane",
+    "production_year": "2009",
+    "genre": "Action, Adventure, Fantasy",
+    "plot": "Once a mercenary of Queen Elizabeth I fighting Ottomans in Africa, Solomon met the Devil's Reaper and discovered he was bound for Hell. Barely escaping, he soon renounced violence to atone for his past sins, seeking out redemption in a life of peace. That is until the followers of the sorcerer Malachi kidnap a Puritan girl, Meredith Crowthorn, and brutally slaughter her family before his eyes, forcing Solomon to take up arms and return to his violent ways once more to rescue her.",
+    "runtime": "104 min",
+    "director": "MJ Bassett",
+    "actors": "James Purefoy, Max von Sydow, Rachel Hurd-Wood",
+    "production_country": "Czech Republic, United Kingdom, France",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTU5NDMwOTkxMV5BMl5BanBnXkFtZTcwMTg5OTM1OA@@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/32985.webp",
+    "imdb_rating": "6.1",
+    "imdb_votes": "79,895",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Solomon_Kane_(film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/32985.txt",
+    "plot_year_start": 1600,
+    "plot_year_end": 1601,
+    "epoch": "early-modern-and-revolutionary-world",
+    "action_countries": [
+      "MA",
+      "GB",
+      "FICTIONAL"
+    ],
+    "action_continents": [
+      "Africa",
+      "Europe",
+      "FICTIONAL"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "firearms changing the balance of war",
+        "description": "Gunpowder weapons do not erase older fighting methods, but they alter tactics, prestige, and the terms on which states bargain with neighbours and foreign merchants. What you'll see: muskets alongside blades and spears, drilling and powder stores, volleys in battle, and the visible value placed on weapons from overseas.",
+        "icon": "🔫"
+      }
+    ]
+  },
+  {
+    "movie_id": 892527,
+    "movie_idx": 4114,
+    "imdb_id": "tt8093700",
+    "title": "The Woman King",
+    "production_year": "2022",
+    "genre": "Action, Drama, History",
+    "plot": "A historical epic inspired by true events that took place in The Kingdom of Dahomey, one of the most powerful states of Africa in the 18th and 19th centuries.",
+    "runtime": "135 min",
+    "director": "Gina Prince-Bythewood",
+    "actors": "Viola Davis, Thuso Mbedu, Lashana Lynch",
+    "production_country": "United States, South Africa, Ireland",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNzM4ODY0NzctZDIyNC00MzE4LWI3NDYtYjIyYTUyZWFmYzJkXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/892527.webp",
+    "imdb_rating": "6.9",
+    "imdb_votes": "82,373",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Woman_King",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/892527.txt",
+    "plot_year_start": 1823,
+    "plot_year_end": 1823,
+    "epoch": "early-modern-and-revolutionary-world",
+    "action_countries": [
+      "BJ"
+    ],
+    "action_continents": [
+      "Africa"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "women holding formal place in arms",
+        "description": "Some African states make room for women within royal and military institutions, linking service, discipline, and status directly to the crown. What you'll see: training grounds, barracks life, ceremonial inspections, strict hierarchies of command, and women moving in spaces of power usually reserved for armed retainers.",
+        "icon": "🛡️"
+      },
+      {
+        "label": "captivity and slavery structuring social order",
+        "description": "Unfreedom exists within the region as well as across the ocean, shaping households, labour, military service, and the fate of those taken in war. What you'll see: captives guarded after raids, enslaved labour within compounds and fields, household dependants of different rank, and constant attention to who is free and who is owned.",
+        "icon": "⛓️"
+      }
+    ]
+  }
+]

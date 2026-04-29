@@ -1,0 +1,3311 @@
+[
+  {
+    "movie_id": 948713,
+    "movie_idx": 406,
+    "imdb_id": "tt15767808",
+    "title": "The Last Kingdom: Seven Kings Must Die",
+    "production_year": "2023",
+    "genre": "Action, Drama, History",
+    "plot": "In the wake of King Edward's death, Uhtred of Bebbanburg and his comrades adventure across a fractured kingdom in the hopes of uniting England at last.",
+    "runtime": "117 min",
+    "director": "Edward Bazalgette",
+    "actors": "Mark Rowley, Pekka Strang, Zoltán Andrási",
+    "production_country": "United Kingdom",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZmQzMTMwOTItYjUyMS00NDY4LThmOWEtZjE3ODkyMzg3MDdlXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/948713.webp",
+    "imdb_rating": "6.9",
+    "imdb_votes": "42,959",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Last_Kingdom:_Seven_Kings_Must_Die",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/948713.txt",
+    "plot_year_start": 924,
+    "plot_year_end": 937,
+    "epoch": "medieval-world",
+    "action_countries": [
+      "GB"
+    ],
+    "action_continents": [
+      "Europe"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "kings ruling through oaths and barons",
+        "description": "Power rests on personal loyalty between crown, great lords, and lesser landholders, so a weak king can quickly face rebellion, rival claims, or demands to honour old customs. What you'll see: councils in great halls, seals on charters, homage and fealty, nobles changing sides, and the kingdom's fate tied to a ruler's person.",
+        "icon": "👑"
+      },
+      {
+        "label": "castles dominating war and local rule",
+        "description": "Stone fortresses are not just military works but seats of command, storehouses, prisons, and symbols of who truly governs a district. What you'll see: sieges, gatehouses, battlements, garrisons, dungeons, siege engines, and countryside life overshadowed by castle walls.",
+        "icon": "🏰"
+      }
+    ]
+  },
+  {
+    "movie_id": 639933,
+    "movie_idx": 532,
+    "imdb_id": "tt11138512",
+    "title": "The Northman",
+    "production_year": "2022",
+    "genre": "Action, Adventure, Drama",
+    "plot": "A young Viking prince is on a quest to avenge his father's murder.",
+    "runtime": "137 min",
+    "director": "Robert Eggers",
+    "actors": "Alexander Skarsgård, Nicole Kidman, Claes Bang",
+    "production_country": "United Kingdom, China, United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYzgwM2JiY2MtNWQ5OC00NDc1LWExMjYtYmY2YjViZmViYWM5XkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/639933.webp",
+    "imdb_rating": "7.0",
+    "imdb_votes": "293,092",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Northman",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/639933.txt",
+    "plot_year_start": 895,
+    "plot_year_end": 895,
+    "epoch": "medieval-world",
+    "action_countries": [
+      "IS",
+      "GB"
+    ],
+    "action_continents": [
+      "Europe",
+      "Europe"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "kings ruling through oaths and barons",
+        "description": "Power rests on personal loyalty between crown, great lords, and lesser landholders, so a weak king can quickly face rebellion, rival claims, or demands to honour old customs. What you'll see: councils in great halls, seals on charters, homage and fealty, nobles changing sides, and the kingdom's fate tied to a ruler's person.",
+        "icon": "👑"
+      },
+      {
+        "label": "old customs mingling with miracle and omen",
+        "description": "Formal Christianity sits beside deep belief in prophecy, saints, curses, visions, and uncanny signs, especially where learning is scarce and danger is near. What you'll see: witches and holy men, dream warnings, ghostly visitations, judgments seen as heaven's will, and villagers reading meaning into strange events.",
+        "icon": "🔮"
+      }
+    ]
+  },
+  {
+    "movie_id": 62177,
+    "movie_idx": 706,
+    "imdb_id": "tt1217209",
+    "title": "Brave",
+    "production_year": "2012",
+    "genre": "Animation, Action, Adventure",
+    "plot": "Set in Scotland in a rugged and mythical time, this movie features Princess Merida (Kelly Macdonald), an aspiring archer and impetuous daughter of Queen Elinor (Dame Emma Thompson). Merida makes a reckless choice that unleashes unintended peril and forces her to spring into action to set things right.",
+    "runtime": "93 min",
+    "director": "Mark Andrews, Brenda Chapman, Steve Purcell",
+    "actors": "Kelly Macdonald, Billy Connolly, Emma Thompson",
+    "production_country": "United States, Japan, United Kingdom",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMzgwODk3ODA1NF5BMl5BanBnXkFtZTcwNjU3NjQ0Nw@@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/62177.webp",
+    "imdb_rating": "7.1",
+    "imdb_votes": "475,578",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Brave_(2012_film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/62177.txt",
+    "plot_year_start": 1000,
+    "plot_year_end": 1300,
+    "epoch": "medieval-world",
+    "action_countries": [
+      "GB"
+    ],
+    "action_continents": [
+      "Europe"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "marriage bargains steering family fortunes",
+        "description": "Households treat marriage as a means to secure property, alliances, legitimacy, and succession, with women often constrained by family strategy and male law. What you'll see: dowries, arranged matches, anxious fathers, widows and heiresses, convent as an alternative, and private desire colliding with public duty.",
+        "icon": "💍"
+      },
+      {
+        "label": "land held by lords and tenants",
+        "description": "Most wealth comes from land, and rights over fields, rents, woods, and villages bind peasants, knights, abbeys, and nobles into a fixed social order. What you'll see: manor houses, confiscated estates, harvest labour, tax collectors, disputes over inheritance, and villagers living under nearby lordship.",
+        "icon": "🌾"
+      }
+    ]
+  },
+  {
+    "movie_id": 551271,
+    "movie_idx": 724,
+    "imdb_id": "tt8883486",
+    "title": "Medieval",
+    "production_year": "2022",
+    "genre": "Action, Drama, History",
+    "plot": "The story of fifteenth century Czech icon and warlord, Jan Zizka, who defeated armies of the Teutonic Order and the Holy Roman Empire.",
+    "runtime": "125 min",
+    "director": "Petr Jákl",
+    "actors": "Ben Foster, Sophie Lowe, Michael Caine",
+    "production_country": "Czech Republic",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYjgxZjg0MzEtYzQxMi00ZGRkLThkMzYtNzY0MDBmYjU0MjI0XkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/551271.webp",
+    "imdb_rating": "5.9",
+    "imdb_votes": "14,510",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Medieval_(film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/551271.txt",
+    "plot_year_start": 1400,
+    "plot_year_end": 1434,
+    "epoch": "medieval-world",
+    "action_countries": [
+      "CZ"
+    ],
+    "action_continents": [
+      "Europe"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "kings ruling through oaths and barons",
+        "description": "Power rests on personal loyalty between crown, great lords, and lesser landholders, so a weak king can quickly face rebellion, rival claims, or demands to honour old customs. What you'll see: councils in great halls, seals on charters, homage and fealty, nobles changing sides, and the kingdom's fate tied to a ruler's person.",
+        "icon": "👑"
+      },
+      {
+        "label": "castles dominating war and local rule",
+        "description": "Stone fortresses are not just military works but seats of command, storehouses, prisons, and symbols of who truly governs a district. What you'll see: sieges, gatehouses, battlements, garrisons, dungeons, siege engines, and countryside life overshadowed by castle walls.",
+        "icon": "🏰"
+      }
+    ]
+  },
+  {
+    "movie_id": 854881,
+    "movie_idx": 835,
+    "imdb_id": "tt15007046",
+    "title": "The Haunting of the Tower of London",
+    "production_year": "2022",
+    "genre": "History, Horror",
+    "plot": "When the remains of two murdered Princes are discovered at the Tower of London, a troubled Priest must put his beliefs aside to befriend a mysterious prisoner, who has supernatural powers to communicate with the dead. Together the...",
+    "runtime": "90 min",
+    "director": "Charlie Steeds",
+    "actors": "Richard Rowden, Reece Connolly, Tim Cartwright",
+    "production_country": "United Kingdom",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZDhjMmEyMDEtNGNmNS00ZDdkLTkzYjgtYTU0YTBjOWFiOWY5XkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/854881.webp",
+    "imdb_rating": "3.6",
+    "imdb_votes": "1,269",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Tower_of_London",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/854881.txt",
+    "plot_year_start": 1483,
+    "plot_year_end": 1483,
+    "epoch": "medieval-world",
+    "action_countries": [
+      "GB"
+    ],
+    "action_continents": [
+      "Europe"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "castles dominating war and local rule",
+        "description": "Stone fortresses are not just military works but seats of command, storehouses, prisons, and symbols of who truly governs a district. What you'll see: sieges, gatehouses, battlements, garrisons, dungeons, siege engines, and countryside life overshadowed by castle walls.",
+        "icon": "🏰"
+      },
+      {
+        "label": "old customs mingling with miracle and omen",
+        "description": "Formal Christianity sits beside deep belief in prophecy, saints, curses, visions, and uncanny signs, especially where learning is scarce and danger is near. What you'll see: witches and holy men, dream warnings, ghostly visitations, judgments seen as heaven's will, and villagers reading meaning into strange events.",
+        "icon": "🔮"
+      }
+    ]
+  },
+  {
+    "movie_id": 617653,
+    "movie_idx": 942,
+    "imdb_id": "tt4244994",
+    "title": "The Last Duel",
+    "production_year": "2021",
+    "genre": "Drama, History, Thriller",
+    "plot": "Based on the true story of France's last trial by combat in the Middle Ages. Knight Jean de Carrouges challenges his former friend Jacques Le Gris to a duel after Jean's wife Marguerite accuses Le Gris of rape. Told in multiple \"Rashomon-style\" points of view.",
+    "runtime": "152 min",
+    "director": "Ridley Scott",
+    "actors": "Matt Damon, Adam Driver, Jodie Comer",
+    "production_country": "United States, United Kingdom",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZGZiNDFkNDgtNDlmNS00NzZmLTg4MmItMzJkYjdmMjJkZDliXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/617653.webp",
+    "imdb_rating": "7.3",
+    "imdb_votes": "202,384",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Last_Duel_(2021_film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/617653.txt",
+    "plot_year_start": 1386,
+    "plot_year_end": 1386,
+    "epoch": "medieval-world",
+    "action_countries": [
+      "FR"
+    ],
+    "action_continents": [
+      "Europe"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "the Church ordering every stage of life",
+        "description": "Latin Christendom provides the calendar, sacraments, learning, courts, and moral law, so monasteries, bishops, and priests reach into marriage, death, and rule. What you'll see: monasteries and convents, bells and processions, confession and penance, church trials, relics, and clergy speaking with worldly authority.",
+        "icon": "⛪"
+      },
+      {
+        "label": "castles dominating war and local rule",
+        "description": "Stone fortresses are not just military works but seats of command, storehouses, prisons, and symbols of who truly governs a district. What you'll see: sieges, gatehouses, battlements, garrisons, dungeons, siege engines, and countryside life overshadowed by castle walls.",
+        "icon": "🏰"
+      }
+    ]
+  },
+  {
+    "movie_id": 512195,
+    "movie_idx": 975,
+    "imdb_id": "tt7991608",
+    "title": "Red Notice",
+    "production_year": "2021",
+    "genre": "Action, Comedy, Thriller",
+    "plot": "When an Interpol-issued Red Notice the highest level warrant to hunt and capture the world's most wanted goes out, the FBI's top profiler John Hartley (Dwayne Johnson) is on the case. His global pursuit finds him smack dab in the middle of a daring heist where he's forced to partner with the world's greatest art thief Nolan Booth (Ryan Reynolds) in order to catch the world's most wanted art thief, \"The Bishop\" (Gal Gadot). The high-flying adventure that ensues takes the trio around the world, across the dance floor, trapped in a secluded prison, into the jungle and, worst of all for them, constantly into each other's company.",
+    "runtime": "118 min",
+    "director": "Rawson Marshall Thurber",
+    "actors": "Dwayne Johnson, Ryan Reynolds, Gal Gadot",
+    "production_country": "United States, Italy",
+    "poster": "https://m.media-amazon.com/images/M/MV5BOGNjNGQ3MmItYTM5NS00NjBiLWI0ZTItZDE5ZjQyNjg3ODBjXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/512195.webp",
+    "imdb_rating": "6.3",
+    "imdb_votes": "350,758",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Red_Notice_(film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/512195.txt",
+    "plot_year_start": -1,
+    "plot_year_end": 2021,
+    "epoch": "medieval-world",
+    "action_countries": [
+      "IT",
+      "RU",
+      "ES",
+      "AR",
+      "EG",
+      "IT"
+    ],
+    "action_continents": [
+      "Europe",
+      "Europe",
+      "Europe",
+      "South America",
+      "Africa",
+      "Europe"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "towns growing rich on trade",
+        "description": "Alongside the old landed order, walled towns and maritime republics thrive on markets, credit, craft guilds, and long-distance commerce. What you'll see: busy quays and counting rooms, merchant households, ducats and debts, cloth and spice traffic, and civic life less tied to the plough.",
+        "icon": "⚓"
+      }
+    ]
+  },
+  {
+    "movie_id": 335988,
+    "movie_idx": 991,
+    "imdb_id": "tt3371366",
+    "title": "Transformers: The Last Knight",
+    "production_year": "2017",
+    "genre": "Action, Adventure, Comedy",
+    "plot": "Optimus Prime finds his dead home planet, Cybertron, in which he comes to find he was responsible for its destruction. He finds a way to bring Cybertron back to life, but in order to do so, Optimus needs to find an artifact that is on Earth.",
+    "runtime": "154 min",
+    "director": "Michael Bay",
+    "actors": "Mark Wahlberg, Anthony Hopkins, Josh Duhamel",
+    "production_country": "United States, China, Canada",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYWNlNjU3ZTItYTY3Mi00YTU1LTk4NjQtYjQ3MjFiNjcyODliXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/335988.webp",
+    "imdb_rating": "5.2",
+    "imdb_votes": "184,025",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Transformers:_The_Last_Knight",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/335988.txt",
+    "plot_year_start": 484,
+    "plot_year_end": 2017,
+    "epoch": "medieval-world",
+    "action_countries": [
+      "GB",
+      "US",
+      "CU"
+    ],
+    "action_continents": [
+      "Europe",
+      "North America",
+      "North America"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Transformers",
+    "categories": [
+      {
+        "label": "holy war and frontier faiths",
+        "description": "Conflict with non-Christian powers and quarrels within Christendom alike are understood through the language of crusade, heresy, and divine favour. What you'll see: crusaders returning home, vows taken before altars, papal causes, Muslim and Christian borderlands, and battles framed as contests of faith.",
+        "icon": "✝️"
+      }
+    ]
+  },
+  {
+    "movie_id": 197,
+    "movie_idx": 1201,
+    "imdb_id": "tt0112573",
+    "title": "Braveheart",
+    "production_year": "1995",
+    "genre": "Biography, Drama, War",
+    "plot": "William Wallace is a Scottish rebel who leads an uprising against the cruel English ruler Edward the Longshanks, who wishes to inherit the crown of Scotland for himself. When he was a young boy, William Wallace's father and brother, along with many others, lost their lives trying to free Scotland. Once he loses another of his loved ones, William Wallace begins his long quest to make Scotland free once and for all, along with the assistance of Robert the Bruce.",
+    "runtime": "178 min",
+    "director": "Mel Gibson",
+    "actors": "Mel Gibson, Sophie Marceau, Patrick McGoohan",
+    "production_country": "United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNGMxZDBhNGQtYTZlNi00N2UzLWI4NDEtNmUzNWM2NTdmZDA0XkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/197.webp",
+    "imdb_rating": "8.3",
+    "imdb_votes": "1,155,463",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Braveheart",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/197.txt",
+    "plot_year_start": 1280,
+    "plot_year_end": 1314,
+    "epoch": "medieval-world",
+    "action_countries": [
+      "GB"
+    ],
+    "action_continents": [
+      "Europe"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "castles dominating war and local rule",
+        "description": "Stone fortresses are not just military works but seats of command, storehouses, prisons, and symbols of who truly governs a district. What you'll see: sieges, gatehouses, battlements, garrisons, dungeons, siege engines, and countryside life overshadowed by castle walls.",
+        "icon": "🏰"
+      }
+    ]
+  },
+  {
+    "movie_id": 184315,
+    "movie_idx": 1204,
+    "imdb_id": "tt1267297",
+    "title": "Hercules",
+    "production_year": "2014",
+    "genre": "Action, Adventure, Fantasy",
+    "plot": "1400 B.C., a tormented soul walked the Earth that was neither man nor god. Hercules (Dwayne \"The Rock\" Johnson) was the powerful son of the god King Zeus. For this, he received nothing but suffering his entire life. After twelve arduous labors, and the death of his family, this dark, world-weary soul turned his back on the gods finding his only solace in bloody battle. Over the years, he warmed to the company of six similar souls, their only bond being their love of fighting, and the presence of death. These men and women never question where they go to fight, or why, or whom, just how much they will be paid. Now, the King of Thrace, Lord Cotys (Sir John Hurt) has hired these mercenaries to train his men to become the greatest army of all time. It is time for this bunch of lost souls to finally have their eyes opened to how far they have fallen, when they must train an army to become as ruthless and bloodthirsty as their reputation has become.",
+    "runtime": "98 min",
+    "director": "Brett Ratner",
+    "actors": "Dwayne Johnson, John Hurt, Ian McShane",
+    "production_country": "United States, Hungary, Croatia",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTQ4ODA5MTA4OF5BMl5BanBnXkFtZTgwNjMyODM5MTE@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/184315.webp",
+    "imdb_rating": "6.0",
+    "imdb_votes": "171,224",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Hercules_(2014_film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/184315.txt",
+    "plot_year_start": 1400,
+    "plot_year_end": 1400,
+    "epoch": "medieval-world",
+    "action_countries": [
+      "GR"
+    ],
+    "action_continents": [
+      "Europe"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "castles dominating war and local rule",
+        "description": "Stone fortresses are not just military works but seats of command, storehouses, prisons, and symbols of who truly governs a district. What you'll see: sieges, gatehouses, battlements, garrisons, dungeons, siege engines, and countryside life overshadowed by castle walls.",
+        "icon": "🏰"
+      },
+      {
+        "label": "kings ruling through oaths and barons",
+        "description": "Power rests on personal loyalty between crown, great lords, and lesser landholders, so a weak king can quickly face rebellion, rival claims, or demands to honour old customs. What you'll see: councils in great halls, seals on charters, homage and fealty, nobles changing sides, and the kingdom's fate tied to a ruler's person.",
+        "icon": "👑"
+      }
+    ]
+  },
+  {
+    "movie_id": 8367,
+    "movie_idx": 1348,
+    "imdb_id": "tt0102798",
+    "title": "Robin Hood: Prince of Thieves",
+    "production_year": "1991",
+    "genre": "Action, Adventure, Drama",
+    "plot": "After being captured by Turks during the Crusades, Robin of Locksley and a Moor, Azeem, escape back to England, where Azeem vows to remain until he repays Robin for saving his life. Meanwhile, Robin's father, a nobleman loyal to King Richard the Lionheart, has been murdered by the brutal Sheriff of Nottingham, who helped install Richard's treacherous brother, Prince John, as King while Richard is overseas fighting the Crusades. When Robin returns home, he vows to avenge his father's death and restore Richard to the throne. Even though Maid Marian, his childhood friend, cannot help him, he escapes to the Forest of Sherwood where he joins a band of exiled villagers and becomes their leader. With their help, he attempts to cleanse the land of the evil that the Sheriff has spread.",
+    "runtime": "143 min",
+    "director": "Kevin Reynolds",
+    "actors": "Kevin Costner, Morgan Freeman, Mary Elizabeth Mastrantonio",
+    "production_country": "United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNTUyMjA5NDktNWY5Ny00ZWU4LWE4Y2ItMDYzZTk0NzU3ZWMyXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/8367.webp",
+    "imdb_rating": "6.9",
+    "imdb_votes": "220,927",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Robin_Hood:_Prince_of_Thieves",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/8367.txt",
+    "plot_year_start": 1194,
+    "plot_year_end": 1194,
+    "epoch": "medieval-world",
+    "action_countries": [
+      "GB"
+    ],
+    "action_continents": [
+      "Europe"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "kings ruling through oaths and barons",
+        "description": "Power rests on personal loyalty between crown, great lords, and lesser landholders, so a weak king can quickly face rebellion, rival claims, or demands to honour old customs. What you'll see: councils in great halls, seals on charters, homage and fealty, nobles changing sides, and the kingdom's fate tied to a ruler's person.",
+        "icon": "👑"
+      },
+      {
+        "label": "castles dominating war and local rule",
+        "description": "Stone fortresses are not just military works but seats of command, storehouses, prisons, and symbols of who truly governs a district. What you'll see: sieges, gatehouses, battlements, garrisons, dungeons, siege engines, and countryside life overshadowed by castle walls.",
+        "icon": "🏰"
+      }
+    ]
+  },
+  {
+    "movie_id": 81005,
+    "movie_idx": 1427,
+    "imdb_id": "tt1351685",
+    "title": "Jack the Giant Slayer",
+    "production_year": "2013",
+    "genre": "Action, Adventure, Fantasy",
+    "plot": "Sent to the market by his uncle to sell their horse and buy thatch for their roof, Jack meets the beautiful Princess Isabelle, whom he rescues from ruffians. He returns home with only a handful of beans given to him by a monk who claimed they were sacred, but that does little to impress his uncle, who tosses them away. In the night, the Princess arrives, having run off to keep herself from marrying Roderick, who is clearly only interested in becoming king. Soon, the beans take root with a giant stalk carrying away the princess and Jack's house. He soon sets off on an adventure with the king's guards to rescue the princess, only to find that a mythical land filled with giants really exists.",
+    "runtime": "114 min",
+    "director": "Bryan Singer",
+    "actors": "Nicholas Hoult, Stanley Tucci, Ewan McGregor",
+    "production_country": "United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjE1NDMxMjI0OV5BMl5BanBnXkFtZTcwMjQyMDExOQ@@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/81005.webp",
+    "imdb_rating": "6.3",
+    "imdb_votes": "153,746",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Jack_the_Giant_Slayer",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/81005.txt",
+    "plot_year_start": 1000,
+    "plot_year_end": 1400,
+    "epoch": "medieval-world",
+    "action_countries": [
+      "GB"
+    ],
+    "action_continents": [
+      "Europe"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "kings ruling through oaths and barons",
+        "description": "Power rests on personal loyalty between crown, great lords, and lesser landholders, so a weak king can quickly face rebellion, rival claims, or demands to honour old customs. What you'll see: councils in great halls, seals on charters, homage and fealty, nobles changing sides, and the kingdom's fate tied to a ruler's person.",
+        "icon": "👑"
+      },
+      {
+        "label": "land held by lords and tenants",
+        "description": "Most wealth comes from land, and rights over fields, rents, woods, and villages bind peasants, knights, abbeys, and nobles into a fixed social order. What you'll see: manor houses, confiscated estates, harvest labour, tax collectors, disputes over inheritance, and villagers living under nearby lordship.",
+        "icon": "🌾"
+      }
+    ]
+  },
+  {
+    "movie_id": 375588,
+    "movie_idx": 1622,
+    "imdb_id": "tt4532826",
+    "title": "Robin Hood",
+    "production_year": "2018",
+    "genre": "Action, Adventure, Drama",
+    "plot": "Robin of Loxley, a lord living in Nottingham, enjoys a good life with his lover, Marian, before he is drafted by the corrupt Sheriff of Nottingham to fight in the Third Crusade against the Saracens. After four years away from England, Robin becomes disillusioned with the Crusades when he fails to prevent his commander, Guy of Gisbourne, from executing prisoners, namely a teenage boy, despite the pleading of the boy's father, which prompts Gisbourne to send Robin back home. When he returns to Nottingham, Robin learns from his old friend Friar Tuck that the Sheriff had him officially declared dead two years prior in order to seize Robin's land and wealth to continue funding the war effort at the behest of the corrupt Cardinal, kicking the citizens from the city and into the coal mine town across the river. Investigating 'the Slags', Robin witnesses the commoners planning to rise against the government that oppresses and exploits them and learns that Marian is now involved with their aspiring leader, Will Tillman. Robin is prevented from making contact with her by the Arab whose son he tried to save. The man introduces himself as Yahya - which he says can be translated to \"John\" - and proposes that he and Robin work to end the war by stealing the money taken from the people to fund the church's war. Marian seeks Robin upon learning that he is alive, but he chooses not to tell her of his plans for her own protection..",
+    "runtime": "116 min",
+    "director": "Otto Bathurst",
+    "actors": "Taron Egerton, Jamie Foxx, Ben Mendelsohn",
+    "production_country": "United States, Hong Kong, United Kingdom, France",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYTJmY2Q2NTYtNjcxMy00MjQ5LThkMDktYTFmYzk2NzllM2I0XkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/375588.webp",
+    "imdb_rating": "5.4",
+    "imdb_votes": "85,987",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Robin_Hood_(2018_film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/375588.txt",
+    "plot_year_start": 1189,
+    "plot_year_end": 1193,
+    "epoch": "medieval-world",
+    "action_countries": [
+      "GB"
+    ],
+    "action_continents": [
+      "Europe"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "kings ruling through oaths and barons",
+        "description": "Power rests on personal loyalty between crown, great lords, and lesser landholders, so a weak king can quickly face rebellion, rival claims, or demands to honour old customs. What you'll see: councils in great halls, seals on charters, homage and fealty, nobles changing sides, and the kingdom's fate tied to a ruler's person.",
+        "icon": "👑"
+      },
+      {
+        "label": "land held by lords and tenants",
+        "description": "Most wealth comes from land, and rights over fields, rents, woods, and villages bind peasants, knights, abbeys, and nobles into a fixed social order. What you'll see: manor houses, confiscated estates, harvest labour, tax collectors, disputes over inheritance, and villagers living under nearby lordship.",
+        "icon": "🌾"
+      }
+    ]
+  },
+  {
+    "movie_id": 10545,
+    "movie_idx": 1651,
+    "imdb_id": "tt0116583",
+    "title": "The Hunchback of Notre Dame",
+    "production_year": "1996",
+    "genre": "Animation, Drama, Family",
+    "plot": "In 15th-century Paris, Clopin the puppeteer tells the story of Quasimodo, the misshapen but gentle-souled bell ringer of Notre Dame, who was nearly killed as a baby by Claude Frollo, the Minister of Justice. But Frollo was forced by the Archdeacon of Notre Dame to raise Quasimodo as his own. Now a young man, Quasimodo is hidden from the world by Frollo in the belltower of the cathedral. But during the Festival of Fools, Quasimodo, cheered on by his gargoyle friends Victor, Hugo, and Laverne, decides to take part in the festivities, where he meets the lovely gypsy girl Esmeralda and the handsome soldier Phoebus. The three of them find themselves ranged against Frollo's cruelty and his attempts to destroy the home of the gypsies, the Court of Miracles. And Quasimodo must desperately defend both Esmeralda and the very cathedral of Notre Dame.",
+    "runtime": "91 min",
+    "director": "Gary Trousdale, Kirk Wise",
+    "actors": "Demi Moore, Jason Alexander, Mary Kay Bergman",
+    "production_country": "United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BY2QzMGEzNGMtMDQyNC00YTlmLWEwYjMtOGI1NWYxMTM4NjA2XkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/10545.webp",
+    "imdb_rating": "7.0",
+    "imdb_votes": "183,121",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Hunchback_of_Notre_Dame_(1996_film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/10545.txt",
+    "plot_year_start": 1482,
+    "plot_year_end": 1502,
+    "epoch": "medieval-world",
+    "action_countries": [
+      "FR"
+    ],
+    "action_continents": [
+      "Europe"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "the Church ordering every stage of life",
+        "description": "Latin Christendom provides the calendar, sacraments, learning, courts, and moral law, so monasteries, bishops, and priests reach into marriage, death, and rule. What you'll see: monasteries and convents, bells and processions, confession and penance, church trials, relics, and clergy speaking with worldly authority.",
+        "icon": "⛪"
+      },
+      {
+        "label": "old customs mingling with miracle and omen",
+        "description": "Formal Christianity sits beside deep belief in prophecy, saints, curses, visions, and uncanny signs, especially where learning is scarce and danger is near. What you'll see: witches and holy men, dream warnings, ghostly visitations, judgments seen as heaven's will, and villagers reading meaning into strange events.",
+        "icon": "🔮"
+      }
+    ]
+  },
+  {
+    "movie_id": 10501,
+    "movie_idx": 1904,
+    "imdb_id": "tt0138749",
+    "title": "The Road to El Dorado",
+    "production_year": "2000",
+    "genre": "Animation, Adventure, Comedy",
+    "plot": "The story is about two swindlers who get their hands on a map to the fabled city of gold, El Dorado, while pulling off some sort of scam. Their plan goes bad and the rogues end up lost at sea after several misfortunes. Oddly enough, they end up on the shores of El Dorado, and are worshipped by the natives for their foreign appearances.",
+    "runtime": "89 min",
+    "director": "Bibo Bergeron, Don Paul, Jeffrey Katzenberg",
+    "actors": "Kevin Kline, Kenneth Branagh, Rosie Perez",
+    "production_country": "United States, Canada, France",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjIyNDBmYTEtYjM3MS00NDhkLWFhNjYtZGYxYzA2OGUyZjQ2XkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/10501.webp",
+    "imdb_rating": "6.9",
+    "imdb_votes": "118,185",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Road_to_El_Dorado",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/10501.txt",
+    "plot_year_start": 1519,
+    "plot_year_end": 1519,
+    "epoch": "medieval-world",
+    "action_countries": [
+      "ES",
+      "UNKNOWN"
+    ],
+    "action_continents": [
+      "Europe",
+      "UNKNOWN"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "the Church ordering every stage of life",
+        "description": "Latin Christendom provides the calendar, sacraments, learning, courts, and moral law, so monasteries, bishops, and priests reach into marriage, death, and rule. What you'll see: monasteries and convents, bells and processions, confession and penance, church trials, relics, and clergy speaking with worldly authority.",
+        "icon": "⛪"
+      }
+    ]
+  },
+  {
+    "movie_id": 10529,
+    "movie_idx": 1930,
+    "imdb_id": "tt0462465",
+    "title": "Outlander",
+    "production_year": "2008",
+    "genre": "Action, Adventure, Sci-Fi",
+    "plot": "In 709 A.D., in the Iron Age, a spacecraft crashes in the Viking kingdom of Herot, Norway, and the pilot Kainan (Jim Caviezel) survives. He turns the beacon on; learns the language and culture of the planet using a machine; and finds that the predator, Moorwen, that he was transporting, had escaped. While chasing the alien monster, he finds a village completely destroyed and is arrested by the warrior Wulfric (Jack Huston), believing that he killed the locals. Kainan is brought to Herot as a prisoner.",
+    "runtime": "115 min",
+    "director": "Howard McCain",
+    "actors": "Jim Caviezel, Sophia Myles, Ron Perlman",
+    "production_country": "Czech Republic, France, Germany, United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMmJjMDczZDktM2NhYS00NTgxLWE5MDctN2JlOGM0NzI1MDU1XkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/10529.webp",
+    "imdb_rating": "6.2",
+    "imdb_votes": "80,445",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Outlander_(film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/10529.txt",
+    "plot_year_start": 709,
+    "plot_year_end": 709,
+    "epoch": "medieval-world",
+    "action_countries": [
+      "NO"
+    ],
+    "action_continents": [
+      "Europe"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "castles dominating war and local rule",
+        "description": "Stone fortresses are not just military works but seats of command, storehouses, prisons, and symbols of who truly governs a district. What you'll see: sieges, gatehouses, battlements, garrisons, dungeons, siege engines, and countryside life overshadowed by castle walls.",
+        "icon": "🏰"
+      },
+      {
+        "label": "land held by lords and tenants",
+        "description": "Most wealth comes from land, and rights over fields, rents, woods, and villages bind peasants, knights, abbeys, and nobles into a fixed social order. What you'll see: manor houses, confiscated estates, harvest labour, tax collectors, disputes over inheritance, and villagers living under nearby lordship.",
+        "icon": "🌾"
+      }
+    ]
+  },
+  {
+    "movie_id": 20662,
+    "movie_idx": 2005,
+    "imdb_id": "tt0955308",
+    "title": "Robin Hood",
+    "production_year": "2010",
+    "genre": "Action, Adventure, Drama",
+    "plot": "Birth of a legend. Following King Richard's (Danny Huston's) death in France, archer Robin Longstride (Russell Crowe), along with Will Scarlet (Scott Grimes), Allan A'Dayle (Alan Doyle), and Little John (Kevin Durand), returns to England. They encounter the dying Sir Robert Loxley (Douglas Hodge), whose party was ambushed by treacherous Godfrey (Mark Strong), who hopes to facilitate a French invasion of England. Robin promises the dying knight he will return his sword to his father Sir Walter Loxley (Max von Sydow) in Nottingham. Here, Sir Walter encourages him to impersonate the dead man to prevent his land being confiscated by the crown, and he finds himself with Marion (Cate Blanchett), a ready-made wife. Hoping to stir baronial opposition to weak Prince John (Oscar Isaac) and allow an easy French take-over, Godfrey worms his way into the Prince's service as Earl Marshal of England and brutally invades towns under the pretext of collecting Royal taxes. Can Robin navigate the politics of barons, royals, traitors, and the French?",
+    "runtime": "140 min",
+    "director": "Ridley Scott",
+    "actors": "Russell Crowe, Cate Blanchett, Matthew Macfadyen",
+    "production_country": "United Kingdom, United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTM5NzcwMzEwOF5BMl5BanBnXkFtZTcwNjg5MTgwMw@@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/20662.webp",
+    "imdb_rating": "6.6",
+    "imdb_votes": "294,277",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Robin_Hood_(2010_film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/20662.txt",
+    "plot_year_start": 1199,
+    "plot_year_end": 1199,
+    "epoch": "medieval-world",
+    "action_countries": [
+      "GB"
+    ],
+    "action_continents": [
+      "Europe"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "kings ruling through oaths and barons",
+        "description": "Power rests on personal loyalty between crown, great lords, and lesser landholders, so a weak king can quickly face rebellion, rival claims, or demands to honour old customs. What you'll see: councils in great halls, seals on charters, homage and fealty, nobles changing sides, and the kingdom's fate tied to a ruler's person.",
+        "icon": "👑"
+      },
+      {
+        "label": "land held by lords and tenants",
+        "description": "Most wealth comes from land, and rights over fields, rents, woods, and villages bind peasants, knights, abbeys, and nobles into a fixed social order. What you'll see: manor houses, confiscated estates, harvest labour, tax collectors, disputes over inheritance, and villagers living under nearby lordship.",
+        "icon": "🌾"
+      }
+    ]
+  },
+  {
+    "movie_id": 11886,
+    "movie_idx": 2134,
+    "imdb_id": "tt0070608",
+    "title": "Robin Hood",
+    "production_year": "1973",
+    "genre": "Animation, Adventure, Comedy",
+    "plot": "An imaginative Disney version of the Robin Hood legend. Fun and romance abound as the swashbuckling hero of Sherwood Forest and his valiant sidekick plot one daring adventure after another to outwit the greedy Prince John (Sir Peter Ustinov) and his partner as they put the tax squeeze on the poor.",
+    "runtime": "83 min",
+    "director": "Wolfgang Reitherman, David Hand",
+    "actors": "Brian Bedford, Phil Harris, Roger Miller",
+    "production_country": "United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZDk2NTEzNjktZDg0MS00MWEwLTkzMWItNTU4ZjcxODM5ODdhXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/11886.webp",
+    "imdb_rating": "7.5",
+    "imdb_votes": "148,075",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Robin_Hood_(1973_film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/11886.txt",
+    "plot_year_start": 1190,
+    "plot_year_end": 1194,
+    "epoch": "medieval-world",
+    "action_countries": [
+      "GB"
+    ],
+    "action_continents": [
+      "Europe"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "kings ruling through oaths and barons",
+        "description": "Power rests on personal loyalty between crown, great lords, and lesser landholders, so a weak king can quickly face rebellion, rival claims, or demands to honour old customs. What you'll see: councils in great halls, seals on charters, homage and fealty, nobles changing sides, and the kingdom's fate tied to a ruler's person.",
+        "icon": "👑"
+      },
+      {
+        "label": "land held by lords and tenants",
+        "description": "Most wealth comes from land, and rights over fields, rents, woods, and villages bind peasants, knights, abbeys, and nobles into a fixed social order. What you'll see: manor houses, confiscated estates, harvest labour, tax collectors, disputes over inheritance, and villagers living under nearby lordship.",
+        "icon": "🌾"
+      }
+    ]
+  },
+  {
+    "movie_id": 766,
+    "movie_idx": 2161,
+    "imdb_id": "tt0106308",
+    "title": "Army of Darkness",
+    "production_year": "1992",
+    "genre": "Comedy, Horror",
+    "plot": "Ash is transported with his car to 1,300 A.D., where he is captured by Lord Arthur and turned slave with Duke Henry the Red and a couple of his men. When Ash is thrown into a pit, he defeats two monsters and wins respect of Arthur's army and vassals. The Wiseman points Ash as The Chosen One that will retrieve the Necronomicon but Ash is only interested in returning home. When he learns that the only way to return to his time is using the Necronomicon, Ash decides to travel to the unholy land of the Deadites. The Wiseman advises that he must say the words \"Klaatu Barada Nikto\" to safely get the evil book. However, Ash forgets the last word and an army of the dead resurrects to attack Arthur fortress and recover the Necronomicon. The battle between the living and the dead is about to start and the support of Henry the Red is the only way to help Ash and Arthur to defeat the army of darkness.",
+    "runtime": "81 min",
+    "director": "Sam Raimi",
+    "actors": "Bruce Campbell, Embeth Davidtz, Marcus Gilbert",
+    "production_country": "United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYzU4ZDFmNzEtNmE2Ny00OTA1LWEyMmMtZjFiOWM0MGM3YTQ1XkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/766.webp",
+    "imdb_rating": "7.4",
+    "imdb_votes": "206,363",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Army_of_Darkness",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/766.txt",
+    "plot_year_start": 1300,
+    "plot_year_end": 1300,
+    "epoch": "medieval-world",
+    "action_countries": [
+      "GB"
+    ],
+    "action_continents": [
+      "Europe"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Evil Dead",
+    "categories": [
+      {
+        "label": "castles dominating war and local rule",
+        "description": "Stone fortresses are not just military works but seats of command, storehouses, prisons, and symbols of who truly governs a district. What you'll see: sieges, gatehouses, battlements, garrisons, dungeons, siege engines, and countryside life overshadowed by castle walls.",
+        "icon": "🏰"
+      },
+      {
+        "label": "holy war and frontier faiths",
+        "description": "Conflict with non-Christian powers and quarrels within Christendom alike are understood through the language of crusade, heresy, and divine favour. What you'll see: crusaders returning home, vows taken before altars, papal causes, Muslim and Christian borderlands, and battles framed as contests of faith.",
+        "icon": "✝️"
+      }
+    ]
+  },
+  {
+    "movie_id": 23047,
+    "movie_idx": 2248,
+    "imdb_id": "tt0479997",
+    "title": "Season of the Witch",
+    "production_year": "2011",
+    "genre": "Action, Adventure, Fantasy",
+    "plot": "A 14th-century Crusader returns to a homeland devastated by the Black Plague. A beleaguered church, deeming sorcery the culprit of the plague, commands the two knights to transport an accused witch to a remote abbey, where monks will perform a ritual in hopes of ending the pestilence. A priest, a grieving knight, a disgraced itinerant and a headstrong youth who can only dream of becoming a knight join a mission troubled by mythically hostile wilderness and fierce contention over the fate of the girl. When the embattled party arrives at the abbey, a horrific discovery jeopardises the knight's pledge to ensure the girl fair treatment, and pits them against an inexplicably powerful and destructive force.",
+    "runtime": "95 min",
+    "director": "Dominic Sena",
+    "actors": "Nicolas Cage, Ron Perlman, Claire Foy",
+    "production_country": "United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMzc3MjYxNzg2N15BMl5BanBnXkFtZTcwNzQyMTkwNA@@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/23047.webp",
+    "imdb_rating": "5.4",
+    "imdb_votes": "101,604",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Season_of_the_Witch_(2011_film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/23047.txt",
+    "plot_year_start": 1301,
+    "plot_year_end": 1400,
+    "epoch": "medieval-world",
+    "action_countries": [
+      "AT"
+    ],
+    "action_continents": [
+      "Europe"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "plague, famine, and uncertain healing",
+        "description": "Life is shadowed by sudden mortality, while medicine mixes inherited learning, barber-surgery, prayer, and fearful superstition. What you'll see: pestilence in crowded streets, monks tending the sick, leeches and simples, public dread of contagion, and healers working with scant certainty.",
+        "icon": "☠️"
+      },
+      {
+        "label": "the Church ordering every stage of life",
+        "description": "Latin Christendom provides the calendar, sacraments, learning, courts, and moral law, so monasteries, bishops, and priests reach into marriage, death, and rule. What you'll see: monasteries and convents, bells and processions, confession and penance, church trials, relics, and clergy speaking with worldly authority.",
+        "icon": "⛪"
+      }
+    ]
+  },
+  {
+    "movie_id": 9476,
+    "movie_idx": 2488,
+    "imdb_id": "tt0183790",
+    "title": "A Knight's Tale",
+    "production_year": "2001",
+    "genre": "Action, Adventure, Drama",
+    "plot": "Inspired by \"The Canterbury Tales,\" as well as the early life of William Marshall (later First Earl of Pembroke), this is the story of William, a young squire with a gift for jousting. After his master dies suddenly, the squire hits the road with his cohorts Roland and Wat. On the journey, they stumble across an unknown writer, Chaucer. William, lacking a proper pedigree, convinces Chaucer to forge genealogy documents that will pass him off as a knight. With his newly-minted history in hand, the young man sets out to prove himself a worthy knight at the country's jousting competition, and finds romance along the way.",
+    "runtime": "132 min",
+    "director": "Brian Helgeland",
+    "actors": "Heath Ledger, Mark Addy, Rufus Sewell",
+    "production_country": "United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTE5OTE4OTE2Nl5BMl5BanBnXkFtZTYwMDkzMTQ3._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/9476.webp",
+    "imdb_rating": "7.0",
+    "imdb_votes": "218,004",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/A_Knight%27s_Tale",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/9476.txt",
+    "plot_year_start": 1372,
+    "plot_year_end": 1372,
+    "epoch": "medieval-world",
+    "action_countries": [
+      "GB"
+    ],
+    "action_continents": [
+      "Europe"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "knighthood shaped by chivalry and violence",
+        "description": "The fighting elite are trained horsemen whose honour, lineage, and fame matter greatly, even as their world depends on brutal war. What you'll see: armour, jousts, swords blessed before battle, ransom and heraldry, squires serving masters, and prowess used as a path to status.",
+        "icon": "🛡️"
+      }
+    ]
+  },
+  {
+    "movie_id": 490,
+    "movie_idx": 2807,
+    "imdb_id": "tt0050976",
+    "title": "The Seventh Seal",
+    "production_year": "1957",
+    "genre": "Drama, Fantasy",
+    "plot": "A Knight and his squire are home from the crusades. Black Death is sweeping their country. As they approach home, Death appears to the knight and tells him it is his time. The knight challenges Death to a chess game for his life. The Knight and Death play as the cultural turmoil envelopes the people around them as they try, in different ways, to deal with the upheaval the plague has caused.",
+    "runtime": "96 min",
+    "director": "Ingmar Bergman",
+    "actors": "Max von Sydow, Gunnar Björnstrand, Bengt Ekerot",
+    "production_country": "Sweden",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZDlmYTkzOWUtODQ0MS00MmM4LWE3ZjMtYTEwNGUwMmJkYzIxXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/490.webp",
+    "imdb_rating": "8.1",
+    "imdb_votes": "211,758",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Seventh_Seal",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/490.txt",
+    "plot_year_start": 1347,
+    "plot_year_end": 1351,
+    "epoch": "medieval-world",
+    "action_countries": [
+      "SE"
+    ],
+    "action_continents": [
+      "Europe"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "plague, famine, and uncertain healing",
+        "description": "Life is shadowed by sudden mortality, while medicine mixes inherited learning, barber-surgery, prayer, and fearful superstition. What you'll see: pestilence in crowded streets, monks tending the sick, leeches and simples, public dread of contagion, and healers working with scant certainty.",
+        "icon": "☠️"
+      },
+      {
+        "label": "the Church ordering every stage of life",
+        "description": "Latin Christendom provides the calendar, sacraments, learning, courts, and moral law, so monasteries, bishops, and priests reach into marriage, death, and rule. What you'll see: monasteries and convents, bells and processions, confession and penance, church trials, relics, and clergy speaking with worldly authority.",
+        "icon": "⛪"
+      }
+    ]
+  },
+  {
+    "movie_id": 762,
+    "movie_idx": 2850,
+    "imdb_id": "tt0071853",
+    "title": "Monty Python and the Holy Grail",
+    "production_year": "1975",
+    "genre": "Adventure, Comedy, Fantasy",
+    "plot": "History is turned on its comic head when, in tenth-century England, King Arthur travels the countryside to find knights who will join him at the Round Table in Camelot. Gathering up the men is a tale in itself but after a bit of a party at Camelot, many decide to leave only to be stopped by God, who sends them on a quest: to find the Holy Grail. After a series of individual adventures, the knights are reunited but must face a wizard named Tim the Enchanter, killer rabbits and lessons in the use of holy hand grenades. Their quest comes to an end however when the Police intervene - just what you would expect in a Monty Python movie.",
+    "runtime": "91 min",
+    "director": "Terry Gilliam, Terry Jones",
+    "actors": "Graham Chapman, John Cleese, Eric Idle",
+    "production_country": "United Kingdom",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYWY4YmUzZmUtMzQ0ZS00N2Y2LWJlODQtN2IwMDc1MWQwMmU3XkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/762.webp",
+    "imdb_rating": "8.2",
+    "imdb_votes": "599,882",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Monty_Python_and_the_Holy_Grail",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/762.txt",
+    "plot_year_start": 932,
+    "plot_year_end": 932,
+    "epoch": "medieval-world",
+    "action_countries": [
+      "GB"
+    ],
+    "action_continents": [
+      "Europe"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "kings ruling through oaths and barons",
+        "description": "Power rests on personal loyalty between crown, great lords, and lesser landholders, so a weak king can quickly face rebellion, rival claims, or demands to honour old customs. What you'll see: councils in great halls, seals on charters, homage and fealty, nobles changing sides, and the kingdom's fate tied to a ruler's person.",
+        "icon": "👑"
+      },
+      {
+        "label": "the Church ordering every stage of life",
+        "description": "Latin Christendom provides the calendar, sacraments, learning, courts, and moral law, so monasteries, bishops, and priests reach into marriage, death, and rule. What you'll see: monasteries and convents, bells and processions, confession and penance, church trials, relics, and clergy speaking with worldly authority.",
+        "icon": "⛪"
+      }
+    ]
+  },
+  {
+    "movie_id": 504949,
+    "movie_idx": 3140,
+    "imdb_id": "tt7984766",
+    "title": "The King",
+    "production_year": "2019",
+    "genre": "Biography, Drama, History",
+    "plot": "Hal (Timothée Chalamet), wayward prince and reluctant heir to the English throne, has turned his back on royal life and is living among the people. But when his tyrannical father dies, Hal is crowned King Henry V and is forced to embrace the life he had previously tried to escape. Now the young king must navigate the palace politics, chaos and war his father left behind, and the emotional strings of his past life - including his relationship with his closest friend and mentor, the aging alcoholic knight, John Falstaff (Joel Edgerton).",
+    "runtime": "140 min",
+    "director": "David Michôd",
+    "actors": "Tom Glynn-Carney, Gábor Czap, Tom Fisher",
+    "production_country": "United Kingdom, Hungary, United States, Australia",
+    "poster": "https://m.media-amazon.com/images/M/MV5BOTFhZTY4YWUtMmJjMy00OTE0LTlmZjctMDg5MTk4N2ZjZWNjXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/504949.webp",
+    "imdb_rating": "7.3",
+    "imdb_votes": "175,443",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/The_King_(2019_film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/504949.txt",
+    "plot_year_start": 1413,
+    "plot_year_end": 1415,
+    "epoch": "medieval-world",
+    "action_countries": [
+      "GB",
+      "FR",
+      "DK"
+    ],
+    "action_continents": [
+      "Europe",
+      "Europe",
+      "Europe"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "kings ruling through oaths and barons",
+        "description": "Power rests on personal loyalty between crown, great lords, and lesser landholders, so a weak king can quickly face rebellion, rival claims, or demands to honour old customs. What you'll see: councils in great halls, seals on charters, homage and fealty, nobles changing sides, and the kingdom's fate tied to a ruler's person.",
+        "icon": "👑"
+      },
+      {
+        "label": "castles dominating war and local rule",
+        "description": "Stone fortresses are not just military works but seats of command, storehouses, prisons, and symbols of who truly governs a district. What you'll see: sieges, gatehouses, battlements, garrisons, dungeons, siege engines, and countryside life overshadowed by castle walls.",
+        "icon": "🏰"
+      }
+    ]
+  },
+  {
+    "movie_id": 192,
+    "movie_idx": 3383,
+    "imdb_id": "tt0091605",
+    "title": "The Name of the Rose",
+    "production_year": "1986",
+    "genre": "Drama, Mystery, Thriller",
+    "plot": "14. century Franciscan monk William of Baskerville and his young novice arrive at a conference to find that several monks have been murdered under mysterious circumstances. To solve the crimes, William must rise up against the Church's authority and fight the shadowy conspiracy of monastery monks using only his intelligence which is considerable.",
+    "runtime": "130 min",
+    "director": "Jean-Jacques Annaud",
+    "actors": "Sean Connery, Christian Slater, Helmut Qualtinger",
+    "production_country": "West Germany, Italy, France",
+    "poster": "https://m.media-amazon.com/images/M/MV5BODcwODk2NmQtMjg0My00NzcxLWFhNTYtNjM4ODUxM2VjNTI2XkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/192.webp",
+    "imdb_rating": "7.7",
+    "imdb_votes": "126,142",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Name_of_the_Rose_(film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/192.txt",
+    "plot_year_start": 1327,
+    "plot_year_end": 1327,
+    "epoch": "medieval-world",
+    "action_countries": [
+      "IT"
+    ],
+    "action_continents": [
+      "Europe"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "the Church ordering every stage of life",
+        "description": "Latin Christendom provides the calendar, sacraments, learning, courts, and moral law, so monasteries, bishops, and priests reach into marriage, death, and rule. What you'll see: monasteries and convents, bells and processions, confession and penance, church trials, relics, and clergy speaking with worldly authority.",
+        "icon": "⛪"
+      },
+      {
+        "label": "old customs mingling with miracle and omen",
+        "description": "Formal Christianity sits beside deep belief in prophecy, saints, curses, visions, and uncanny signs, especially where learning is scarce and danger is near. What you'll see: witches and holy men, dream warnings, ghostly visitations, judgments seen as heaven's will, and villagers reading meaning into strange events.",
+        "icon": "🔮"
+      }
+    ]
+  },
+  {
+    "movie_id": 169881,
+    "movie_idx": 3466,
+    "imdb_id": "tt2101473",
+    "title": "The Physician",
+    "production_year": "2013",
+    "genre": "Adventure, Drama, History",
+    "plot": "When nine-year-old Rob Cole felt the life force slipping from his mother's hand he could not foresee that this terrifying awareness of impending death was a gift that would lead him from the familiar life of 11th-century London to small villages throughout England and finally to the medical school at Ispahan. Though apprenticed to an itinerant barber surgeon, it is the dazzling surgery of a Jewish physician trained by the legendary Persian physician Avicenna that inspires him to accept his gift and to commit his life to healing by studying at Avicenna's school. Despite the ban on Christian students, Rob goes there, disguising himself as a Jew to gain admission. Gordon has written an adventurous and inspiring tale of a quest for medical knowledge pursued in a violent world full of superstition and prejudice.",
+    "runtime": "155 min",
+    "director": "Philipp Stölzl",
+    "actors": "Tom Payne, Stellan Skarsgård, Olivier Martinez",
+    "production_country": "Germany",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTUxNDY5MTQwMF5BMl5BanBnXkFtZTgwMzE1OTE2MzE@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/169881.webp",
+    "imdb_rating": "7.2",
+    "imdb_votes": "44,289",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Physician_(2013_film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/169881.txt",
+    "plot_year_start": 1080,
+    "plot_year_end": 1085,
+    "epoch": "medieval-world",
+    "action_countries": [
+      "GB",
+      "IR",
+      "EG"
+    ],
+    "action_continents": [
+      "Europe",
+      "Asia",
+      "Africa"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "plague, famine, and uncertain healing",
+        "description": "Life is shadowed by sudden mortality, while medicine mixes inherited learning, barber-surgery, prayer, and fearful superstition. What you'll see: pestilence in crowded streets, monks tending the sick, leeches and simples, public dread of contagion, and healers working with scant certainty.",
+        "icon": "☠️"
+      },
+      {
+        "label": "the Church ordering every stage of life",
+        "description": "Latin Christendom provides the calendar, sacraments, learning, courts, and moral law, so monasteries, bishops, and priests reach into marriage, death, and rule. What you'll see: monasteries and convents, bells and processions, confession and penance, church trials, relics, and clergy speaking with worldly authority.",
+        "icon": "⛪"
+      }
+    ]
+  },
+  {
+    "movie_id": 14324,
+    "movie_idx": 3478,
+    "imdb_id": "tt0437954",
+    "title": "Virgin Territory",
+    "production_year": "2007",
+    "genre": "Adventure, Comedy, Romance",
+    "plot": "Young Florentines take refuge from the black plague and engage in bawdy adventures and lusty exchanges.",
+    "runtime": "97 min",
+    "director": "David Leland",
+    "actors": "Hayden Christensen, Mischa Barton, Ryan Cartwright",
+    "production_country": "Italy, United Kingdom, France, Luxembourg",
+    "poster": "https://m.media-amazon.com/images/M/MV5BOGExNjZmZWYtNDdjNi00YWNjLWJmZjItMzY2NDkyODEzYjZjXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/14324.webp",
+    "imdb_rating": "4.7",
+    "imdb_votes": "9,504",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Virgin_Territory",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/14324.txt",
+    "plot_year_start": 1348,
+    "plot_year_end": 1349,
+    "epoch": "medieval-world",
+    "action_countries": [
+      "IT"
+    ],
+    "action_continents": [
+      "Europe"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "plague, famine, and uncertain healing",
+        "description": "Life is shadowed by sudden mortality, while medicine mixes inherited learning, barber-surgery, prayer, and fearful superstition. What you'll see: pestilence in crowded streets, monks tending the sick, leeches and simples, public dread of contagion, and healers working with scant certainty.",
+        "icon": "☠️"
+      },
+      {
+        "label": "marriage bargains steering family fortunes",
+        "description": "Households treat marriage as a means to secure property, alliances, legitimacy, and succession, with women often constrained by family strategy and male law. What you'll see: dowries, arranged matches, anxious fathers, widows and heiresses, convent as an alternative, and private desire colliding with public duty.",
+        "icon": "💍"
+      }
+    ]
+  },
+  {
+    "movie_id": 49017,
+    "movie_idx": 3499,
+    "imdb_id": "tt0829150",
+    "title": "Dracula Untold",
+    "production_year": "2014",
+    "genre": "Action, Drama, Fantasy",
+    "plot": "At the turn of the century, the young lord Vlad and his family live a peaceful life ruling over their small kingdom, but when a Turk warlord demands from Vlad a thousand boys and his son to create an army Vlad seeks a terrible power that will allow him to protect his kingdom and family from the Turks at a terrible cost.",
+    "runtime": "92 min",
+    "director": "Gary Shore",
+    "actors": "Luke Evans, Dominic Cooper, Sarah Gadon",
+    "production_country": "United States, Japan",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTkzNzI1OTI4N15BMl5BanBnXkFtZTgwNTQ2NzEwMjE@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/49017.webp",
+    "imdb_rating": "6.2",
+    "imdb_votes": "221,855",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Dracula_Untold",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/49017.txt",
+    "plot_year_start": 1450,
+    "plot_year_end": 1450,
+    "epoch": "medieval-world",
+    "action_countries": [
+      "RO",
+      "TR",
+      "GB"
+    ],
+    "action_continents": [
+      "Europe",
+      "Asia",
+      "Europe"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "castles dominating war and local rule",
+        "description": "Stone fortresses are not just military works but seats of command, storehouses, prisons, and symbols of who truly governs a district. What you'll see: sieges, gatehouses, battlements, garrisons, dungeons, siege engines, and countryside life overshadowed by castle walls.",
+        "icon": "🏰"
+      },
+      {
+        "label": "holy war and frontier faiths",
+        "description": "Conflict with non-Christian powers and quarrels within Christendom alike are understood through the language of crusade, heresy, and divine favour. What you'll see: crusaders returning home, vows taken before altars, papal causes, Muslim and Christian borderlands, and battles framed as contests of faith.",
+        "icon": "✝️"
+      }
+    ]
+  },
+  {
+    "movie_id": 411873,
+    "movie_idx": 3641,
+    "imdb_id": "tt5666304",
+    "title": "The Little Hours",
+    "production_year": "2017",
+    "genre": "Comedy, Romance",
+    "plot": "On the run from the battle-seasoned Lord Bruno for sleeping with his wife, the handsome and willing servant, Massetto, flees to the safety of the woods during the warm and peaceful summer of 1347. There, after a chance encounter with the always boozy but merciful Father Tommasso, the young charmer will find refuge into his convent's sanctuary, on one condition: to pretend he is a deaf-mute. However, Massetto's tempting presence will unavoidably upset the already frail balance of things within the sexually-repressed female realm, as nun after nun desperately seeks an escape from their tedious way of life and an extra reason to molest the charming handyman. In the end, will those cloistered Sisters finally find out what they had been missing out on all these years?",
+    "runtime": "89 min",
+    "director": "Jeff Baena",
+    "actors": "Alison Brie, Dave Franco, Kate Micucci",
+    "production_country": "United States, Canada, Italy",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMzAzOTQ2NTg1OF5BMl5BanBnXkFtZTgwNTUyNzUzMjI@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/411873.webp",
+    "imdb_rating": "5.8",
+    "imdb_votes": "27,686",
+    "plot_year_start": 1347,
+    "plot_year_end": 1347,
+    "epoch": "medieval-world",
+    "action_countries": [
+      "IT"
+    ],
+    "action_continents": [
+      "Europe"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "the Church ordering every stage of life",
+        "description": "Latin Christendom provides the calendar, sacraments, learning, courts, and moral law, so monasteries, bishops, and priests reach into marriage, death, and rule. What you'll see: monasteries and convents, bells and processions, confession and penance, church trials, relics, and clergy speaking with worldly authority.",
+        "icon": "⛪"
+      }
+    ],
+    "failures": {
+      "wikipedia": "no_wiki_article_found"
+    }
+  },
+  {
+    "movie_id": 741074,
+    "movie_idx": 3737,
+    "imdb_id": "tt13061790",
+    "title": "Once Upon a Snowman",
+    "production_year": "2020",
+    "genre": "Animation, Short, Adventure",
+    "plot": "Olaf's first steps as he comes to life and searches for his identity in the snowy mountains outside Arendelle.",
+    "runtime": "8 min",
+    "director": "Dan Abraham, Trent Correy",
+    "actors": "Kristen Bell, Jonathan Groff, Josh Gad",
+    "production_country": "United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZGI5Y2I4YTctMTM0ZS00MmE2LTg2MTQtOGJiYzU3YmIxYWMzXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/741074.webp",
+    "imdb_rating": "6.9",
+    "imdb_votes": "4,068",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Once_Upon_a_Snowman",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/741074.txt",
+    "plot_year_start": 1302,
+    "plot_year_end": 1302,
+    "epoch": "medieval-world",
+    "action_countries": [
+      "NO"
+    ],
+    "action_continents": [
+      "Europe"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Disney Universe",
+    "categories": [
+      {
+        "label": "old customs mingling with miracle and omen",
+        "description": "Formal Christianity sits beside deep belief in prophecy, saints, curses, visions, and uncanny signs, especially where learning is scarce and danger is near. What you'll see: witches and holy men, dream warnings, ghostly visitations, judgments seen as heaven's will, and villagers reading meaning into strange events.",
+        "icon": "🔮"
+      }
+    ]
+  },
+  {
+    "movie_id": 12448,
+    "movie_idx": 3748,
+    "imdb_id": "tt28109483",
+    "title": "Movie Surfers: The Hunchback of Notre Dame II",
+    "production_year": "2002",
+    "genre": "Talk-Show",
+    "plot": "Jennifer Love Hewitt talks about her involvement in Hunchback II and her music video.",
+    "runtime": "N/A",
+    "director": "N/A",
+    "actors": "N/A",
+    "production_country": "United States",
+    "poster": "N/A",
+    "imdb_rating": "N/A",
+    "imdb_votes": "N/A",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Hunchback_of_Notre_Dame_II",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/12448.txt",
+    "plot_year_start": 1483,
+    "plot_year_end": 1483,
+    "epoch": "medieval-world",
+    "action_countries": [
+      "FR"
+    ],
+    "action_continents": [
+      "Europe"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "castles dominating war and local rule",
+        "description": "Stone fortresses are not just military works but seats of command, storehouses, prisons, and symbols of who truly governs a district. What you'll see: sieges, gatehouses, battlements, garrisons, dungeons, siege engines, and countryside life overshadowed by castle walls.",
+        "icon": "🏰"
+      }
+    ],
+    "failures": {
+      "poster": "no_poster_url"
+    }
+  },
+  {
+    "movie_id": 526,
+    "movie_idx": 4138,
+    "imdb_id": "tt0089457",
+    "title": "Ladyhawke",
+    "production_year": "1985",
+    "genre": "Adventure, Comedy, Drama",
+    "plot": "Philippe Gaston (Matthew Broderick), a thief, escapes from the dungeon at Aquila, sparking a manhunt. He is nearly captured when Captain Etienne Navarre (Rutger Hauer) befriends him. Navarre has been hunted by the Bishop's men for two years, ever since he escaped with the Lady Isabeau (Michelle Pfeiffer), after whom the Bishop (John Wood) has lusted. Navarre and Isabeau have a curse that the Bishop has placed on them that causes Navarre to be a wolf during the night and Isabeau to be a hawk during the day. Navarre insists that Philippe help him re-enter the city to help him kill the heavily guarded Bishop.",
+    "runtime": "121 min",
+    "director": "Richard Donner",
+    "actors": "Matthew Broderick, Rutger Hauer, Michelle Pfeiffer",
+    "production_country": "United States, Italy, United Kingdom",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNjUzOWI1NGQtZWUyMi00Mjg3LWI3MGMtMDFhYzA5ZGRmZmIzXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/526.webp",
+    "imdb_rating": "6.9",
+    "imdb_votes": "53,487",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Ladyhawke_(film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/526.txt",
+    "plot_year_start": 1200,
+    "plot_year_end": 1202,
+    "epoch": "medieval-world",
+    "action_countries": [
+      "FI"
+    ],
+    "action_continents": [
+      "Europe"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "the Church ordering every stage of life",
+        "description": "Latin Christendom provides the calendar, sacraments, learning, courts, and moral law, so monasteries, bishops, and priests reach into marriage, death, and rule. What you'll see: monasteries and convents, bells and processions, confession and penance, church trials, relics, and clergy speaking with worldly authority.",
+        "icon": "⛪"
+      },
+      {
+        "label": "holy war and frontier faiths",
+        "description": "Conflict with non-Christian powers and quarrels within Christendom alike are understood through the language of crusade, heresy, and divine favour. What you'll see: crusaders returning home, vows taken before altars, papal causes, Muslim and Christian borderlands, and battles framed as contests of faith.",
+        "icon": "✝️"
+      }
+    ]
+  },
+  {
+    "movie_id": 26963,
+    "movie_idx": 4329,
+    "imdb_id": "tt0485601",
+    "title": "The Secret of Kells",
+    "production_year": "2009",
+    "genre": "Animation, Adventure, Family",
+    "plot": "Young Brendan lives in a remote medieval outpost under siege from barbarian raids. But a new life of adventure beckons when a celebrated master illuminator arrives from the isle of Iona carrying an ancient but unfinished book, brimming with secret wisdom and powers. To help complete the magical book, Brendan has to overcome his deepest fears on a dangerous quest that takes him into the enchanted forest where mythical creatures hide. It is here that he meets the fairy Aisling, a mysterious young wolf-girl, who helps him along the way. But with the barbarians closing in, will Brendan's determination and artistic vision illuminate the darkness and show that enlightenment is the best fortification against evil?",
+    "runtime": "75 min",
+    "director": "Tomm Moore, Nora Twomey",
+    "actors": "Evan McGuire, Brendan Gleeson, Mick Lally",
+    "production_country": "Ireland, Belgium, France, Luxembourg",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjEzMjEzNTIzOF5BMl5BanBnXkFtZTcwMTg2MjAyMw@@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/26963.webp",
+    "imdb_rating": "7.5",
+    "imdb_votes": "40,569",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Secret_of_Kells",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/26963.txt",
+    "plot_year_start": 800,
+    "plot_year_end": 805,
+    "epoch": "medieval-world",
+    "action_countries": [
+      "IE",
+      "UNKNOWN"
+    ],
+    "action_continents": [
+      "Europe",
+      "UNKNOWN"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "the Church ordering every stage of life",
+        "description": "Latin Christendom provides the calendar, sacraments, learning, courts, and moral law, so monasteries, bishops, and priests reach into marriage, death, and rule. What you'll see: monasteries and convents, bells and processions, confession and penance, church trials, relics, and clergy speaking with worldly authority.",
+        "icon": "⛪"
+      },
+      {
+        "label": "old customs mingling with miracle and omen",
+        "description": "Formal Christianity sits beside deep belief in prophecy, saints, curses, visions, and uncanny signs, especially where learning is scarce and danger is near. What you'll see: witches and holy men, dream warnings, ghostly visitations, judgments seen as heaven's will, and villagers reading meaning into strange events.",
+        "icon": "🔮"
+      }
+    ]
+  },
+  {
+    "movie_id": 4517,
+    "movie_idx": 4662,
+    "imdb_id": "tt0414055",
+    "title": "Elizabeth: The Golden Age",
+    "production_year": "2007",
+    "genre": "Biography, Drama, History",
+    "plot": "Two faiths, two empires, two rulers - colliding in 1588. Papist Spain wants to bring down the heretic Elizabeth. Philip is building an armada but needs a rationale to attack. With covert intrigue, Spain sets a trap for the Queen and her principal secretary, Walsingham, using as a pawn Elizabeth's cousin Mary Stuart, who's under house arrest in the North. The trap springs, and the armada sets sail, to rendezvous with French ground forces and to attack. During these months, the Virgin Queen falls in love with Walter Raleigh, keeping him close to court and away from the sea and America. Is treachery or heroism at his heart? Does loneliness await her passionate majesty?",
+    "runtime": "114 min",
+    "director": "Shekhar Kapur",
+    "actors": "Cate Blanchett, Clive Owen, Geoffrey Rush",
+    "production_country": "United Kingdom, France, Germany, United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNDE1YTM4NTYtNGFjNi00OWE1LTg1MjEtYmNhZWMzODRlNDE5XkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/4517.webp",
+    "imdb_rating": "6.8",
+    "imdb_votes": "77,597",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Elizabeth:_The_Golden_Age",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/4517.txt",
+    "plot_year_start": 1588,
+    "plot_year_end": 1588,
+    "epoch": "medieval-world",
+    "action_countries": [
+      "GB",
+      "ES",
+      "FR",
+      "US"
+    ],
+    "action_continents": [
+      "Europe",
+      "Europe",
+      "Europe",
+      "North America"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "holy war and frontier faiths",
+        "description": "Conflict with non-Christian powers and quarrels within Christendom alike are understood through the language of crusade, heresy, and divine favour. What you'll see: crusaders returning home, vows taken before altars, papal causes, Muslim and Christian borderlands, and battles framed as contests of faith.",
+        "icon": "✝️"
+      }
+    ]
+  },
+  {
+    "movie_id": 12184,
+    "movie_idx": 4741,
+    "imdb_id": "tt0467200",
+    "title": "The Other Boleyn Girl",
+    "production_year": "2008",
+    "genre": "Biography, Drama, History",
+    "plot": "A sumptuous and sensual tale of intrigue, romance and betrayal set against the backdrop of a defining moment in European history: two beautiful sisters, Anne (Natalie Portman) and Mary Boleyn (Scarlett Johansson), driven by their family's blind ambition, compete for the love of the handsome and passionate King Henry VIII (Eric Bana).",
+    "runtime": "115 min",
+    "director": "Justin Chadwick",
+    "actors": "Natalie Portman, Scarlett Johansson, Eric Bana",
+    "production_country": "United Kingdom, United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTQ2NTg1Mjk1Ml5BMl5BanBnXkFtZTYwODI5Njk3._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/12184.webp",
+    "imdb_rating": "6.7",
+    "imdb_votes": "124,552",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Other_Boleyn_Girl_(2008_film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/12184.txt",
+    "plot_year_start": 1522,
+    "plot_year_end": 1536,
+    "epoch": "medieval-world",
+    "action_countries": [
+      "GB",
+      "ES",
+      "FR"
+    ],
+    "action_continents": [
+      "Europe",
+      "Europe",
+      "Europe"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "kings ruling through oaths and barons",
+        "description": "Power rests on personal loyalty between crown, great lords, and lesser landholders, so a weak king can quickly face rebellion, rival claims, or demands to honour old customs. What you'll see: councils in great halls, seals on charters, homage and fealty, nobles changing sides, and the kingdom's fate tied to a ruler's person.",
+        "icon": "👑"
+      },
+      {
+        "label": "marriage bargains steering family fortunes",
+        "description": "Households treat marriage as a means to secure property, alliances, legitimacy, and succession, with women often constrained by family strategy and male law. What you'll see: dowries, arranged matches, anxious fathers, widows and heiresses, convent as an alternative, and private desire colliding with public duty.",
+        "icon": "💍"
+      }
+    ]
+  },
+  {
+    "movie_id": 9092,
+    "movie_idx": 4775,
+    "imdb_id": "tt0119227",
+    "title": "Snow White: A Tale of Terror",
+    "production_year": "1997",
+    "genre": "Adventure, Fantasy, Horror",
+    "plot": "This movie is based somewhat more authentically on the Grimm Brothers' story of a young woman who is unliked by her stepmother. When young Lillian's mother dies during childbirth, her father soon remarries the well-intentioned Lady Claudia. However, Claudia's heart is ruled not by her husband, but by an evil mirror with the power to make Claudia Queen over all living things - until they are dead. A failed attempt to murder young Lillian leaves her wandering lost in a deep dark forest where she comes across seven ruffian gold miners. This movie takes place at the time of the Crusades, and depicts the attitudes of the wealthy and the peasant classes toward each other.",
+    "runtime": "100 min",
+    "director": "Michael Cohn",
+    "actors": "Sigourney Weaver, Sam Neill, Gil Bellows",
+    "production_country": "Czech Republic, United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNmRjYTQyZWEtZWQ2Ny00MzFjLTlkN2YtYTM5NWM0NTczNmNlXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/9092.webp",
+    "imdb_rating": "6.1",
+    "imdb_votes": "11,582",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Snow_White:_A_Tale_of_Terror",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/9092.txt",
+    "plot_year_start": 1493,
+    "plot_year_end": 1509,
+    "epoch": "medieval-world",
+    "action_countries": [
+      "DE"
+    ],
+    "action_continents": [
+      "Europe"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "the Church ordering every stage of life",
+        "description": "Latin Christendom provides the calendar, sacraments, learning, courts, and moral law, so monasteries, bishops, and priests reach into marriage, death, and rule. What you'll see: monasteries and convents, bells and processions, confession and penance, church trials, relics, and clergy speaking with worldly authority.",
+        "icon": "⛪"
+      },
+      {
+        "label": "old customs mingling with miracle and omen",
+        "description": "Formal Christianity sits beside deep belief in prophecy, saints, curses, visions, and uncanny signs, especially where learning is scarce and danger is near. What you'll see: witches and holy men, dream warnings, ghostly visitations, judgments seen as heaven's will, and villagers reading meaning into strange events.",
+        "icon": "🔮"
+      }
+    ]
+  },
+  {
+    "movie_id": 6003,
+    "movie_idx": 5023,
+    "imdb_id": "tt0063518",
+    "title": "Romeo and Juliet",
+    "production_year": "1968",
+    "genre": "Drama, Romance",
+    "plot": "Against the backdrop of a venomous feud between the powerful clans of the Montagues and the Capulets in the medieval city of Verona, William Shakespeare's eternal story of teenage love unfolds. As youth's insolence arms the charming young Montague, Romeo, with dauntless courage to come uninvited to the Capulets' scintillating masked ball, a brief but thrilling encounter with the delicate dark-haired Capulet, Juliet, will pave the way for an ardent passion and a cruel romantic tragedy. Before God, the star-crossed lovers have sworn never-ending devotion despite their perilous plight; however, before the grim machinations of fate, man stands powerless. Are Romeo and Juliet destined to be together?",
+    "runtime": "138 min",
+    "director": "Franco Zeffirelli",
+    "actors": "Leonard Whiting, Olivia Hussey, John McEnery",
+    "production_country": "United Kingdom, Italy",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMDAxNjRiZmEtOWUxYy00YjVmLWFlMDItZmQxOWI3MjI2Y2NmXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/6003.webp",
+    "imdb_rating": "7.6",
+    "imdb_votes": "36,409",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Romeo_and_Juliet_(1968_film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/6003.txt",
+    "plot_year_start": 1400,
+    "plot_year_end": 1400,
+    "epoch": "medieval-world",
+    "action_countries": [
+      "IT"
+    ],
+    "action_continents": [
+      "Europe"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "the Church ordering every stage of life",
+        "description": "Latin Christendom provides the calendar, sacraments, learning, courts, and moral law, so monasteries, bishops, and priests reach into marriage, death, and rule. What you'll see: monasteries and convents, bells and processions, confession and penance, church trials, relics, and clergy speaking with worldly authority.",
+        "icon": "⛪"
+      },
+      {
+        "label": "marriage bargains steering family fortunes",
+        "description": "Households treat marriage as a means to secure property, alliances, legitimacy, and succession, with women often constrained by family strategy and male law. What you'll see: dowries, arranged matches, anxious fathers, widows and heiresses, convent as an alternative, and private desire colliding with public duty.",
+        "icon": "💍"
+      }
+    ]
+  },
+  {
+    "movie_id": 8583,
+    "movie_idx": 5144,
+    "imdb_id": "tt0118892",
+    "title": "Dangerous Beauty",
+    "production_year": "1998",
+    "genre": "Biography, Drama, Romance",
+    "plot": "In 16th century Venice, courtesans enjoy unique privileges: dressed richly in red, they read, compose poetry and music, and discuss affairs of state with the men who govern the Republic. When Veronica Franco comes of age, she cannot marry Marco Venier, whom she loves, because she is well born but penniless. Her choice: cloister or courtesan. She steels her heart, and with beauty and intelligence becomes the best. She's a heroine when she helps convince France to aid Venice in war with Turks, but when plague descends, the Church charges her with witchcraft. At her inquisition, she must match wits with an old rival, speak for all women, and call courage from Venier.",
+    "runtime": "111 min",
+    "director": "Marshall Herskovitz",
+    "actors": "Catherine McCormack, Rufus Sewell, Oliver Platt",
+    "production_country": "United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMDEzNWJiMGItMjM2Zi00NmMyLTk1NDYtNmY0ODRhMTNjODIzXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/8583.webp",
+    "imdb_rating": "7.1",
+    "imdb_votes": "20,215",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Dangerous_Beauty",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/8583.txt",
+    "plot_year_start": 1570,
+    "plot_year_end": 1573,
+    "epoch": "medieval-world",
+    "action_countries": [
+      "IT",
+      "FR"
+    ],
+    "action_continents": [
+      "Europe",
+      "Europe"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "the Church ordering every stage of life",
+        "description": "Latin Christendom provides the calendar, sacraments, learning, courts, and moral law, so monasteries, bishops, and priests reach into marriage, death, and rule. What you'll see: monasteries and convents, bells and processions, confession and penance, church trials, relics, and clergy speaking with worldly authority.",
+        "icon": "⛪"
+      },
+      {
+        "label": "plague, famine, and uncertain healing",
+        "description": "Life is shadowed by sudden mortality, while medicine mixes inherited learning, barber-surgery, prayer, and fearful superstition. What you'll see: pestilence in crowded streets, monks tending the sick, leeches and simples, public dread of contagion, and healers working with scant certainty.",
+        "icon": "☠️"
+      }
+    ]
+  },
+  {
+    "movie_id": 42661,
+    "movie_idx": 5161,
+    "imdb_id": "tt0052365",
+    "title": "The Vikings",
+    "production_year": "1958",
+    "genre": "Action, Adventure, History",
+    "plot": "Einar and Eric are two Viking half-brothers. The former is a great warrior whilst the other is an ex-slave, but neither knows the true identity of the other. When the throne of Northumbria in Britain becomes free for the taking, the two brothers compete against one another for the prize, but they have very different motives - both involving the princess Morgana, however.",
+    "runtime": "116 min",
+    "director": "Richard Fleischer",
+    "actors": "Kirk Douglas, Tony Curtis, Ernest Borgnine",
+    "production_country": "United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BOTUwODdkMDYtN2M5OC00NTY2LTliYzAtYmUzM2I5NDY1OTE0XkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/42661.webp",
+    "imdb_rating": "7.0",
+    "imdb_votes": "16,024",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Vikings_(film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/42661.txt",
+    "plot_year_start": 850,
+    "plot_year_end": 850,
+    "epoch": "medieval-world",
+    "action_countries": [
+      "GB",
+      "NO",
+      "IT"
+    ],
+    "action_continents": [
+      "Europe",
+      "Europe",
+      "Europe"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "kings ruling through oaths and barons",
+        "description": "Power rests on personal loyalty between crown, great lords, and lesser landholders, so a weak king can quickly face rebellion, rival claims, or demands to honour old customs. What you'll see: councils in great halls, seals on charters, homage and fealty, nobles changing sides, and the kingdom's fate tied to a ruler's person.",
+        "icon": "👑"
+      },
+      {
+        "label": "castles dominating war and local rule",
+        "description": "Stone fortresses are not just military works but seats of command, storehouses, prisons, and symbols of who truly governs a district. What you'll see: sieges, gatehouses, battlements, garrisons, dungeons, siege engines, and countryside life overshadowed by castle walls.",
+        "icon": "🏰"
+      }
+    ]
+  },
+  {
+    "movie_id": 1492,
+    "movie_idx": 5197,
+    "imdb_id": "tt0103594",
+    "title": "1492: Conquest of Paradise",
+    "production_year": "1992",
+    "genre": "Adventure, Biography, Drama",
+    "plot": "Big budget account of Christopher Columbus' discovery of the Americas. Released in 1992 to celebrate the 500th anniversary of the discovery. Shows the disastrous effects the Europeans had on the original inhabitants, and Columbus' struggle to civilize the New World.",
+    "runtime": "154 min",
+    "director": "Ridley Scott",
+    "actors": "Gérard Depardieu, Armand Assante, Sigourney Weaver",
+    "production_country": "United Kingdom, France, Spain",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZDZjYTcxMDYtZjY0NS00MzgxLTk4MzMtMzQzZDk0M2IxMDFjXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/1492.webp",
+    "imdb_rating": "6.4",
+    "imdb_votes": "34,826",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/1492:_Conquest_of_Paradise",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/1492.txt",
+    "plot_year_start": 1492,
+    "plot_year_end": 1496,
+    "epoch": "medieval-world",
+    "action_countries": [
+      "ES",
+      "BS",
+      "DO"
+    ],
+    "action_continents": [
+      "Europe",
+      "North America",
+      "North America"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "kings ruling through oaths and barons",
+        "description": "Power rests on personal loyalty between crown, great lords, and lesser landholders, so a weak king can quickly face rebellion, rival claims, or demands to honour old customs. What you'll see: councils in great halls, seals on charters, homage and fealty, nobles changing sides, and the kingdom's fate tied to a ruler's person.",
+        "icon": "👑"
+      },
+      {
+        "label": "land held by lords and tenants",
+        "description": "Most wealth comes from land, and rights over fields, rents, woods, and villages bind peasants, knights, abbeys, and nobles into a fixed social order. What you'll see: manor houses, confiscated estates, harvest labour, tax collectors, disputes over inheritance, and villagers living under nearby lordship.",
+        "icon": "🌾"
+      }
+    ]
+  },
+  {
+    "movie_id": 340442,
+    "movie_idx": 5237,
+    "imdb_id": "tt3531202",
+    "title": "Pilgrimage",
+    "production_year": "2017",
+    "genre": "Action, Drama, History",
+    "plot": "Ireland, 1209. An island on the edge of the world. A small group of monks begin a reluctant pilgrimage across an island torn between centuries of tribal warfare and the growing power of Norman invaders. Escorting their monastery's holiest relic to Rome, the monks' progress is seen through the eyes of a pious young novice and a mute lay-brother with a violent past. As the true material, political and religious significance of the bejeweled relic becomes dangerously apparent, their path to the east coast becomes increasingly fraught with danger. The monks belatedly realize that in this wild land of ancient superstitions, the faith that binds them together may ultimately lead to their destruction.",
+    "runtime": "96 min",
+    "director": "Brendan Muldowney",
+    "actors": "Tom Holland, Richard Armitage, Jon Bernthal",
+    "production_country": "Ireland, Belgium",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNjg3NzcyZTktYzk0NC00NzYxLWIyNTEtMzZkY2ZiNzIxNDc4XkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/340442.webp",
+    "imdb_rating": "5.9",
+    "imdb_votes": "7,289",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Pilgrimage_(2017_film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/340442.txt",
+    "plot_year_start": 1209,
+    "plot_year_end": 1209,
+    "epoch": "medieval-world",
+    "action_countries": [
+      "IE",
+      "UNKNOWN"
+    ],
+    "action_continents": [
+      "Europe",
+      "UNKNOWN"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "the Church ordering every stage of life",
+        "description": "Latin Christendom provides the calendar, sacraments, learning, courts, and moral law, so monasteries, bishops, and priests reach into marriage, death, and rule. What you'll see: monasteries and convents, bells and processions, confession and penance, church trials, relics, and clergy speaking with worldly authority.",
+        "icon": "⛪"
+      },
+      {
+        "label": "holy war and frontier faiths",
+        "description": "Conflict with non-Christian powers and quarrels within Christendom alike are understood through the language of crusade, heresy, and divine favour. What you'll see: crusaders returning home, vows taken before altars, papal causes, Muslim and Christian borderlands, and battles framed as contests of faith.",
+        "icon": "✝️"
+      }
+    ]
+  },
+  {
+    "movie_id": 10907,
+    "movie_idx": 5333,
+    "imdb_id": "tt0029843",
+    "title": "The Adventures of Robin Hood",
+    "production_year": "1938",
+    "genre": "Action, Adventure, Romance",
+    "plot": "Sir Robin of Locksley, defender of downtrodden Saxons, runs afoul of Norman authority and is forced to turn outlaw. With his band of Merry Men, he robs from the rich, gives to the poor and still has time to woo the lovely Maid Marian, and foil the cruel Sir Guy of Gisbourne, and keep the nefarious Prince John off the throne.",
+    "runtime": "102 min",
+    "director": "Michael Curtiz, William Keighley",
+    "actors": "Errol Flynn, Olivia de Havilland, Basil Rathbone",
+    "production_country": "United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYjA3NzFjNmItYTkwZi00NmMyLWFiMDgtMzY4NjY1ODE0NTg1XkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/10907.webp",
+    "imdb_rating": "7.9",
+    "imdb_votes": "55,980",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Adventures_of_Robin_Hood",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/10907.txt",
+    "plot_year_start": 1191,
+    "plot_year_end": 1191,
+    "epoch": "medieval-world",
+    "action_countries": [
+      "GB"
+    ],
+    "action_continents": [
+      "Europe"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "castles dominating war and local rule",
+        "description": "Stone fortresses are not just military works but seats of command, storehouses, prisons, and symbols of who truly governs a district. What you'll see: sieges, gatehouses, battlements, garrisons, dungeons, siege engines, and countryside life overshadowed by castle walls.",
+        "icon": "🏰"
+      },
+      {
+        "label": "land held by lords and tenants",
+        "description": "Most wealth comes from land, and rights over fields, rents, woods, and villages bind peasants, knights, abbeys, and nobles into a fixed social order. What you'll see: manor houses, confiscated estates, harvest labour, tax collectors, disputes over inheritance, and villagers living under nearby lordship.",
+        "icon": "🌾"
+      }
+    ]
+  },
+  {
+    "movie_id": 37861,
+    "movie_idx": 5410,
+    "imdb_id": "tt0862467",
+    "title": "Valhalla Rising",
+    "production_year": "2009",
+    "genre": "Adventure, Drama, Fantasy",
+    "plot": "1000 AD, for years, One Eye, a mute warrior of supernatural strength, has been held prisoner by the Norse chieftain Barde. Aided by Are, a boy slave, One Eye slays his captor and together he and Are escape, beginning a journey into the heart of darkness. On their flight, One Eye and Are board a Viking vessel, but the ship is soon engulfed by an endless fog that clears only as the crew sights an unknown land. As the new world reveals its secrets and the Vikings confront their terrible and bloody fate, One Eye discovers his true self.",
+    "runtime": "93 min",
+    "director": "Nicolas Winding Refn",
+    "actors": "Mads Mikkelsen, Maarten Stevenson, Alexander Morton",
+    "production_country": "Denmark, United Kingdom",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNzA0MDE5OTI3N15BMl5BanBnXkFtZTcwMzk3MjE2Mw@@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/37861.webp",
+    "imdb_rating": "6.0",
+    "imdb_votes": "66,311",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Valhalla_Rising_(film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/37861.txt",
+    "plot_year_start": 1000,
+    "plot_year_end": 1000,
+    "epoch": "medieval-world",
+    "action_countries": [
+      "GB",
+      "UNKNOWN",
+      "CA"
+    ],
+    "action_continents": [
+      "Europe",
+      "UNKNOWN",
+      "North America"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "holy war and frontier faiths",
+        "description": "Conflict with non-Christian powers and quarrels within Christendom alike are understood through the language of crusade, heresy, and divine favour. What you'll see: crusaders returning home, vows taken before altars, papal causes, Muslim and Christian borderlands, and battles framed as contests of faith.",
+        "icon": "✝️"
+      },
+      {
+        "label": "old customs mingling with miracle and omen",
+        "description": "Formal Christianity sits beside deep belief in prophecy, saints, curses, visions, and uncanny signs, especially where learning is scarce and danger is near. What you'll see: witches and holy men, dream warnings, ghostly visitations, judgments seen as heaven's will, and villagers reading meaning into strange events.",
+        "icon": "🔮"
+      }
+    ]
+  },
+  {
+    "movie_id": 1934,
+    "movie_idx": 5451,
+    "imdb_id": "tt0138097",
+    "title": "Shakespeare in Love",
+    "production_year": "1998",
+    "genre": "Comedy, Drama, History",
+    "plot": "William Shakespeare (Joseph Fiennes) is a known but struggling poet, playwright, and actor, who not only has sold his next play to both Philip Henslowe (Geoffrey Rush) and Richard Burbage (Martin Clunes), but now faces a far more difficult problem: he is bereft of ideas and has yet to begin writing. He is in search of his muse, the woman who will inspire him but all attempts fail him until he meets the beautiful Viola De Lesseps (Gwyneth Paltrow). She loves the theatre and would like nothing more than to take to the stage, but is forbidden from doing so as only men can be actors. She is also a great admirer of Shakespeare's works. Dressing as a man, and going by the name of \"Thomas Kent\", she auditions and is ideal for a part in his next play. Shakespeare soon sees through her disguise and they begin a love affair, one they know cannot end happily for them as he is already married and she has been promised to the dour Lord Wessex (Colin Firth). As the company rehearses his new play, William and Viola's love is transferred to the written page leading to the masterpiece that is Romeo and Juliet.",
+    "runtime": "123 min",
+    "director": "John Madden",
+    "actors": "Gwyneth Paltrow, Joseph Fiennes, Geoffrey Rush",
+    "production_country": "United Kingdom, United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYmM3MTllNzYtN2MzNS00NWQwLTk0NTEtNjY1MmMwYjNkNTE5XkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/1934.webp",
+    "imdb_rating": "7.1",
+    "imdb_votes": "240,389",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Shakespeare_in_Love",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/1934.txt",
+    "plot_year_start": 1593,
+    "plot_year_end": 1593,
+    "epoch": "medieval-world",
+    "action_countries": [
+      "GB",
+      "US"
+    ],
+    "action_continents": [
+      "Europe",
+      "North America"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "marriage bargains steering family fortunes",
+        "description": "Households treat marriage as a means to secure property, alliances, legitimacy, and succession, with women often constrained by family strategy and male law. What you'll see: dowries, arranged matches, anxious fathers, widows and heiresses, convent as an alternative, and private desire colliding with public duty.",
+        "icon": "💍"
+      },
+      {
+        "label": "the Church ordering every stage of life",
+        "description": "Latin Christendom provides the calendar, sacraments, learning, courts, and moral law, so monasteries, bishops, and priests reach into marriage, death, and rule. What you'll see: monasteries and convents, bells and processions, confession and penance, church trials, relics, and clergy speaking with worldly authority.",
+        "icon": "⛪"
+      }
+    ]
+  },
+  {
+    "movie_id": 13491,
+    "movie_idx": 5489,
+    "imdb_id": "tt0837106",
+    "title": "Arn: The Knight Templar",
+    "production_year": "2007",
+    "genre": "Action, Drama, Romance",
+    "plot": "Arn, the son of a high-ranking Swedish nobleman, is educated in a monastery and sent to the Holy Land as a knight templar to do penance for a forbidden love.",
+    "runtime": "139 min",
+    "director": "Peter Flinth",
+    "actors": "Joakim Nätterqvist, Sofia Helin, Stellan Skarsgård",
+    "production_country": "Sweden, United Kingdom, Denmark, Norway, Finland, Germany, Morocco",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjY2NzE0OTQ4Nl5BMl5BanBnXkFtZTcwMzQ4NTE3MQ@@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/13491.webp",
+    "imdb_rating": "6.6",
+    "imdb_votes": "23,656",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Arn:_The_Knight_Templar",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/13491.txt",
+    "plot_year_start": 1160,
+    "plot_year_end": 1187,
+    "epoch": "medieval-world",
+    "action_countries": [
+      "SE",
+      "IL"
+    ],
+    "action_continents": [
+      "Europe",
+      "Asia"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "holy war and frontier faiths",
+        "description": "Conflict with non-Christian powers and quarrels within Christendom alike are understood through the language of crusade, heresy, and divine favour. What you'll see: crusaders returning home, vows taken before altars, papal causes, Muslim and Christian borderlands, and battles framed as contests of faith.",
+        "icon": "✝️"
+      },
+      {
+        "label": "the Church ordering every stage of life",
+        "description": "Latin Christendom provides the calendar, sacraments, learning, courts, and moral law, so monasteries, bishops, and priests reach into marriage, death, and rule. What you'll see: monasteries and convents, bells and processions, confession and penance, church trials, relics, and clergy speaking with worldly authority.",
+        "icon": "⛪"
+      }
+    ]
+  },
+  {
+    "movie_id": 10047,
+    "movie_idx": 5620,
+    "imdb_id": "tt0151137",
+    "title": "The Messenger: The Story of Joan of Arc",
+    "production_year": "1999",
+    "genre": "Adventure, Biography, Drama",
+    "plot": "1429. While the war between France and England (the Hundred Years War) appeared settled in 1420, in England's favour, the death of King Henry V of England reignites it. England occupies large areas of France and appears set to take the whole of it. Into this moment of crisis rides legendary Joan of Arc, a teenage girl who claims to be lead by divine visions.",
+    "runtime": "148 min",
+    "director": "Luc Besson",
+    "actors": "Milla Jovovich, John Malkovich, Rab Affleck",
+    "production_country": "Czech Republic, France, United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYmE2ZWIxMzYtMTI3Mi00MzUyLTg1MzktNTc0MjVlNDA3ZGI3XkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/10047.webp",
+    "imdb_rating": "6.4",
+    "imdb_votes": "72,395",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Messenger:_The_Story_of_Joan_of_Arc",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/10047.txt",
+    "plot_year_start": 1429,
+    "plot_year_end": 1431,
+    "epoch": "medieval-world",
+    "action_countries": [
+      "FR",
+      "GB"
+    ],
+    "action_continents": [
+      "Europe",
+      "Europe"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "holy war and frontier faiths",
+        "description": "Conflict with non-Christian powers and quarrels within Christendom alike are understood through the language of crusade, heresy, and divine favour. What you'll see: crusaders returning home, vows taken before altars, papal causes, Muslim and Christian borderlands, and battles framed as contests of faith.",
+        "icon": "✝️"
+      },
+      {
+        "label": "the Church ordering every stage of life",
+        "description": "Latin Christendom provides the calendar, sacraments, learning, courts, and moral law, so monasteries, bishops, and priests reach into marriage, death, and rule. What you'll see: monasteries and convents, bells and processions, confession and penance, church trials, relics, and clergy speaking with worldly authority.",
+        "icon": "⛪"
+      }
+    ]
+  },
+  {
+    "movie_id": 11469,
+    "movie_idx": 5745,
+    "imdb_id": "tt0265087",
+    "title": "Black Knight",
+    "production_year": "2001",
+    "genre": "Adventure, Comedy, Fantasy",
+    "plot": "This is the story an amusement park employee named Jamal Walker who is magically transported back to medieval times in 14th-century England. There, Jamal meets Sir Knolte, a dissolute knight, before he stumbles into the court of the usurper King Leo. Jamal is impressed by what he thinks is the realism of the theme park; only after witnessing a gory beheading does he realize, with horror, where he really is. Jamal encounters the beautiful Victoria who is scheming to return the queen to the throne, and falls afoul of the evil Sir Percival. Joining forces with Sir Knolte and Victoria, Jamal teaches the rebels some helpful football, golfing, and boxing moves, before he dons the armor of the awesome \"Black Knight\"!",
+    "runtime": "95 min",
+    "director": "Gil Junger",
+    "actors": "Martin Lawrence, Marsha Thomason, Tom Wilkinson",
+    "production_country": "United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNzU4Y2M0MjgtZTBkOS00Y2RjLTk0YzAtYzEzNmI4NmY3YTI4XkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/11469.webp",
+    "imdb_rating": "4.9",
+    "imdb_votes": "45,049",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Black_Knight_(film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/11469.txt",
+    "plot_year_start": 1328,
+    "plot_year_end": 1328,
+    "epoch": "medieval-world",
+    "action_countries": [
+      "GB",
+      "US"
+    ],
+    "action_continents": [
+      "Europe",
+      "North America"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "castles dominating war and local rule",
+        "description": "Stone fortresses are not just military works but seats of command, storehouses, prisons, and symbols of who truly governs a district. What you'll see: sieges, gatehouses, battlements, garrisons, dungeons, siege engines, and countryside life overshadowed by castle walls.",
+        "icon": "🏰"
+      },
+      {
+        "label": "kings ruling through oaths and barons",
+        "description": "Power rests on personal loyalty between crown, great lords, and lesser landholders, so a weak king can quickly face rebellion, rival claims, or demands to honour old customs. What you'll see: councils in great halls, seals on charters, homage and fealty, nobles changing sides, and the kingdom's fate tied to a ruler's person.",
+        "icon": "👑"
+      }
+    ]
+  },
+  {
+    "movie_id": 360249,
+    "movie_idx": 5828,
+    "imdb_id": "tt4738360",
+    "title": "The Last King",
+    "production_year": "2016",
+    "genre": "Action, Drama, History",
+    "plot": "In the year 1206 Norway is raged by civil war. The King's illegitimate infant son, Håkon Håkonsson, which half the kingdom wants killed off, is guarded in secrecy by two men. A story which changed the course of the country's history.",
+    "runtime": "99 min",
+    "director": "Nils Gaup",
+    "actors": "Jakob Oftebro, Kristofer Hivju, Torkel Dommersnes Soldal",
+    "production_country": "Norway, Denmark, Sweden, Ireland, Hungary",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTU0MzE1MjE0M15BMl5BanBnXkFtZTgwMDc3OTYwOTE@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/360249.webp",
+    "imdb_rating": "6.1",
+    "imdb_votes": "7,870",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Last_King",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/360249.txt",
+    "plot_year_start": 1206,
+    "plot_year_end": 1206,
+    "epoch": "medieval-world",
+    "action_countries": [
+      "NO",
+      "SE",
+      "DK"
+    ],
+    "action_continents": [
+      "Europe",
+      "Europe",
+      "Europe"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "castles dominating war and local rule",
+        "description": "Stone fortresses are not just military works but seats of command, storehouses, prisons, and symbols of who truly governs a district. What you'll see: sieges, gatehouses, battlements, garrisons, dungeons, siege engines, and countryside life overshadowed by castle walls.",
+        "icon": "🏰"
+      },
+      {
+        "label": "kings ruling through oaths and barons",
+        "description": "Power rests on personal loyalty between crown, great lords, and lesser landholders, so a weak king can quickly face rebellion, rival claims, or demands to honour old customs. What you'll see: councils in great halls, seals on charters, homage and fealty, nobles changing sides, and the kingdom's fate tied to a ruler's person.",
+        "icon": "👑"
+      }
+    ]
+  },
+  {
+    "movie_id": 457136,
+    "movie_idx": 6084,
+    "imdb_id": "tt2328900",
+    "title": "Mary Queen of Scots",
+    "production_year": "2018",
+    "genre": "Biography, Drama, History",
+    "plot": "This movie explores the turbulent life of the charismatic Mary Stuart (Saoirse Ronan). Queen of France at sixteen and widowed at eighteen, Mary defies pressure to remarry. Instead, she returns to her native Scotland to reclaim her rightful throne. But England is under the rule of the compelling Elizabeth I (Margot Robbie), who wishes the reduce the perceived threat from Mary. Each young Queen beholds her \"sister\" in fear and fascination. Rivals in power and in love, and female rulers in a masculine world, the two must decide how to play the game of marriage versus independence. Determined to rule as much more than a figurehead, Mary asserts her claim to succeed to the English throne, threatening Elizabeth's sovereignty. Betrayal, rebellion, and conspiracies within each court imperil both thrones - and change the course of history.",
+    "runtime": "124 min",
+    "director": "Josie Rourke",
+    "actors": "Saoirse Ronan, Margot Robbie, Jack Lowden",
+    "production_country": "United Kingdom, United States, China",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNTk2ZjI2ZWMtMTg4Yy00NTZkLTk5ZjAtNDc0ZjE4YzEzZjJmXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/457136.webp",
+    "imdb_rating": "6.3",
+    "imdb_votes": "59,106",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Mary_Queen_of_Scots_(2018_film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/457136.txt",
+    "plot_year_start": 1561,
+    "plot_year_end": 1567,
+    "epoch": "medieval-world",
+    "action_countries": [
+      "FR",
+      "GB",
+      "GB",
+      "US"
+    ],
+    "action_continents": [
+      "Europe",
+      "Europe",
+      "Europe",
+      "North America"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "kings ruling through oaths and barons",
+        "description": "Power rests on personal loyalty between crown, great lords, and lesser landholders, so a weak king can quickly face rebellion, rival claims, or demands to honour old customs. What you'll see: councils in great halls, seals on charters, homage and fealty, nobles changing sides, and the kingdom's fate tied to a ruler's person.",
+        "icon": "👑"
+      },
+      {
+        "label": "marriage bargains steering family fortunes",
+        "description": "Households treat marriage as a means to secure property, alliances, legitimacy, and succession, with women often constrained by family strategy and male law. What you'll see: dowries, arranged matches, anxious fathers, widows and heiresses, convent as an alternative, and private desire colliding with public duty.",
+        "icon": "💍"
+      }
+    ]
+  },
+  {
+    "movie_id": 8840,
+    "movie_idx": 6166,
+    "imdb_id": "tt0116136",
+    "title": "DragonHeart",
+    "production_year": "1996",
+    "genre": "Action, Adventure, Fantasy",
+    "plot": "The young, sickly King Einon was wounded in a battle. In order for him to survive, he is healed by Draco, a dragon. Some years later, Bowen, a dragonslayer, encounters Draco. The two team up to form a travelling duo that perform an act, but the act is only known by themselves. Bowen supposedly \"slays\" Draco and then collects a reward from the town or village that he protects by killing the dragon who had been \"terrorizing\" them. From there, Bowen and Draco must save the entire kingdom from the rule of the now evil King Einon, who is part of Draco, and Draco a part of him.",
+    "runtime": "103 min",
+    "director": "Rob Cohen",
+    "actors": "Dennis Quaid, Sean Connery, Dina Meyer",
+    "production_country": "United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZDViYjIxNjgtMmEyNS00MmVlLTllOWMtMGU0NzEwZjU2ZTYzXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/8840.webp",
+    "imdb_rating": "6.4",
+    "imdb_votes": "105,492",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Dragonheart",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/8840.txt",
+    "plot_year_start": 984,
+    "plot_year_end": 996,
+    "epoch": "medieval-world",
+    "action_countries": [
+      "GB"
+    ],
+    "action_continents": [
+      "Europe"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "castles dominating war and local rule",
+        "description": "Stone fortresses are not just military works but seats of command, storehouses, prisons, and symbols of who truly governs a district. What you'll see: sieges, gatehouses, battlements, garrisons, dungeons, siege engines, and countryside life overshadowed by castle walls.",
+        "icon": "🏰"
+      },
+      {
+        "label": "the Church ordering every stage of life",
+        "description": "Latin Christendom provides the calendar, sacraments, learning, courts, and moral law, so monasteries, bishops, and priests reach into marriage, death, and rule. What you'll see: monasteries and convents, bells and processions, confession and penance, church trials, relics, and clergy speaking with worldly authority.",
+        "icon": "⛪"
+      }
+    ]
+  },
+  {
+    "movie_id": 454227,
+    "movie_idx": 6181,
+    "imdb_id": "tt6679794",
+    "title": "Outlaw King",
+    "production_year": "2018",
+    "genre": "Action, Biography, Drama",
+    "plot": "After being declared \"Outlaw\" by the occupying English Empire, Robert the Bruce (Chris Pine) raises an army of Scottish fighters in rebellion. Twists and turns all across the Scottish countryside lead this film on an epic, \"true to historical events\", journey that captures heroism at its core!",
+    "runtime": "121 min",
+    "director": "David Mackenzie",
+    "actors": "Chris Pine, Stephen Dillane, Rebecca Robin",
+    "production_country": "United Kingdom, United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZjI0MGZkYjItODFmZC00OWIyLTk4MDctYTIwZDZhYThhYWNlXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/454227.webp",
+    "imdb_rating": "6.9",
+    "imdb_votes": "87,558",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Outlaw_King",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/454227.txt",
+    "plot_year_start": 1304,
+    "plot_year_end": 1307,
+    "epoch": "medieval-world",
+    "action_countries": [
+      "GB",
+      "US"
+    ],
+    "action_continents": [
+      "Europe",
+      "North America"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "castles dominating war and local rule",
+        "description": "Stone fortresses are not just military works but seats of command, storehouses, prisons, and symbols of who truly governs a district. What you'll see: sieges, gatehouses, battlements, garrisons, dungeons, siege engines, and countryside life overshadowed by castle walls.",
+        "icon": "🏰"
+      },
+      {
+        "label": "land held by lords and tenants",
+        "description": "Most wealth comes from land, and rights over fields, rents, woods, and villages bind peasants, knights, abbeys, and nobles into a fixed social order. What you'll see: manor houses, confiscated estates, harvest labour, tax collectors, disputes over inheritance, and villagers living under nearby lordship.",
+        "icon": "🌾"
+      }
+    ]
+  },
+  {
+    "movie_id": 42691,
+    "movie_idx": 6331,
+    "imdb_id": "tt0061613",
+    "title": "Oedipus Rex",
+    "production_year": "1967",
+    "genre": "Drama",
+    "plot": "In pre-war Italy, a young couple have a baby boy. The father, however, is jealous of his son - and the scene moves to antiquity, where the baby is taken into the desert to be killed. He is rescued, given the name Edipo (Oedipus), and brought up by the King and Queen of Corinth as their son. One day an oracle informs Edipo that he is destined to kill his father and marry his mother. Horrified, he flees Corinth and his supposed parents - only to get into a fight and kill an older man on the road...",
+    "runtime": "104 min",
+    "director": "Pier Paolo Pasolini",
+    "actors": "Silvana Mangano, Franco Citti, Alida Valli",
+    "production_country": "Italy, Morocco",
+    "poster": "https://m.media-amazon.com/images/M/MV5BN2VjZjFiOTktNGY4MC00NTE3LWI2NjAtODdjMTIzYTk5MjdlXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/42691.webp",
+    "imdb_rating": "7.2",
+    "imdb_votes": "7,061",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Oedipus_Rex_(1967_film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/42691.txt",
+    "plot_year_start": -1,
+    "plot_year_end": 1920,
+    "epoch": "medieval-world",
+    "action_countries": [
+      "IT",
+      "FICTIONAL",
+      "MA"
+    ],
+    "action_continents": [
+      "Europe",
+      "FICTIONAL",
+      "Africa"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "old customs mingling with miracle and omen",
+        "description": "Formal Christianity sits beside deep belief in prophecy, saints, curses, visions, and uncanny signs, especially where learning is scarce and danger is near. What you'll see: witches and holy men, dream warnings, ghostly visitations, judgments seen as heaven's will, and villagers reading meaning into strange events.",
+        "icon": "🔮"
+      }
+    ]
+  },
+  {
+    "movie_id": 31967,
+    "movie_idx": 6359,
+    "imdb_id": "tt1401113",
+    "title": "Dante's Inferno: An Animated Epic",
+    "production_year": "2010",
+    "genre": "Animation, Action, Adventure",
+    "plot": "After fighting in the Crusades for three years, Dante rides back home to his family estate to reunite with his beloved Beatrice and his father. Dante sees a rider following him, but out of the blue, the man vanishes with no trace. When he arrives home, he sees the servants slaughtered, his father murdered and Beatrice near death. When her soul is going to the heaven, Lucifer takes Beatrice to Hell, telling her that Dante has betrayed her. Dante meets Virgil who guides him to Hell, and the poet explains that Beatrice had a bet with Lucifer that Dante would be faithful to her while in the holy war. In return, Lucifer would protect Dante and bring him back home safe and sound. Upon arrival in Hell, Dante learns that he needs to cross nine circles to reach Lucifer ad on his painful journey, he discovers who doomed his family to suffer in Hell.",
+    "runtime": "88 min",
+    "director": "Victor Cook, Mike Disa, Sangjin Kim",
+    "actors": "Graham McTavish, Vanessa Branch, Steve Blum",
+    "production_country": "United States, Japan, Singapore, South Korea",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMzEyYmU5ZGMtNzJjZi00YTg4LWE1MTItYjE4MWMwZGI3NzVlXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/31967.webp",
+    "imdb_rating": "6.5",
+    "imdb_votes": "10,990",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Dante%27s_Inferno:_An_Animated_Epic",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/31967.txt",
+    "plot_year_start": 1200,
+    "plot_year_end": 1203,
+    "epoch": "medieval-world",
+    "action_countries": [
+      "IT"
+    ],
+    "action_continents": [
+      "Europe"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "holy war and frontier faiths",
+        "description": "Conflict with non-Christian powers and quarrels within Christendom alike are understood through the language of crusade, heresy, and divine favour. What you'll see: crusaders returning home, vows taken before altars, papal causes, Muslim and Christian borderlands, and battles framed as contests of faith.",
+        "icon": "✝️"
+      },
+      {
+        "label": "the Church ordering every stage of life",
+        "description": "Latin Christendom provides the calendar, sacraments, learning, courts, and moral law, so monasteries, bishops, and priests reach into marriage, death, and rule. What you'll see: monasteries and convents, bells and processions, confession and penance, church trials, relics, and clergy speaking with worldly authority.",
+        "icon": "⛪"
+      }
+    ]
+  },
+  {
+    "movie_id": 33583,
+    "movie_idx": 6739,
+    "imdb_id": "tt0065622",
+    "title": "The Decameron",
+    "production_year": "1971",
+    "genre": "Comedy, Drama, History",
+    "plot": "An adaptation of nine stories from Bocaccio's \"Decameron\": **** Segment 1: A young man from Perugia is swindled twice in Naples, but ends up rich; **** Segment 2: A man poses as a deaf-mute in a convent of curious nuns; **** Segment 3: A woman must hide her lover when her husband comes home early; **** Segment 4: A scoundrel fools a priest on his deathbed; **** Segment 5: Three brothers take revenge on their sister's lover; **** Segment 6: A young girl sleeps on the roof to meet her boyfriend at night; **** Segment 7: A group of painters wait for inspiration; **** Segment 8: A crafty priest attempts to seduce his friend's wife; **** Segment 9: Two friends make a pact to find out what happens after death.",
+    "runtime": "111 min",
+    "director": "Pier Paolo Pasolini",
+    "actors": "Franco Citti, Ninetto Davoli, Jovan Jovanovic",
+    "production_country": "Italy, France, West Germany",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYzI1NWFjYzctZTgxMy00MGM5LWIzNmYtM2RkNjdiOWQ5MTUzXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/33583.webp",
+    "imdb_rating": "7.0",
+    "imdb_votes": "13,370",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Decameron_(film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/33583.txt",
+    "plot_year_start": 1360,
+    "plot_year_end": 1360,
+    "epoch": "medieval-world",
+    "action_countries": [
+      "IT",
+      "DE"
+    ],
+    "action_continents": [
+      "Europe",
+      "Europe"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "the Church ordering every stage of life",
+        "description": "Latin Christendom provides the calendar, sacraments, learning, courts, and moral law, so monasteries, bishops, and priests reach into marriage, death, and rule. What you'll see: monasteries and convents, bells and processions, confession and penance, church trials, relics, and clergy speaking with worldly authority.",
+        "icon": "⛪"
+      },
+      {
+        "label": "marriage bargains steering family fortunes",
+        "description": "Households treat marriage as a means to secure property, alliances, legitimacy, and succession, with women often constrained by family strategy and male law. What you'll see: dowries, arranged matches, anxious fathers, widows and heiresses, convent as an alternative, and private desire colliding with public duty.",
+        "icon": "💍"
+      }
+    ]
+  },
+  {
+    "movie_id": 5653,
+    "movie_idx": 7032,
+    "imdb_id": "tt0309820",
+    "title": "Luther",
+    "production_year": "2003",
+    "genre": "Biography, Drama, History",
+    "plot": "Biography of Martin Luther (Joseph Fiennes), the sixteenth century priest who led the Christian Reformation, and opened up new possibilities in exploration of faith. This movie begins with his vow to become a monk, and continues through his struggles to reconcile his desire for sanctification with his increasing abhorrence of the corruption and hypocrisy pervading the Church's hierarchy. He is ultimately charged with heresy and must confront the ruling Cardinals and Princes, urging them to make the Scriptures available to the common believer and lead the Church toward faith through justice and righteousness.",
+    "runtime": "123 min",
+    "director": "Eric Till",
+    "actors": "Joseph Fiennes, Bruno Ganz, Peter Ustinov",
+    "production_country": "Germany, United States, Czech Republic, Italy",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTU5NjQ1MTQ0M15BMl5BanBnXkFtZTgwNDUwNzgwMzE@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/5653.webp",
+    "imdb_rating": "6.6",
+    "imdb_votes": "16,380",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Luther_(2003_film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/5653.txt",
+    "plot_year_start": 1505,
+    "plot_year_end": 1530,
+    "epoch": "medieval-world",
+    "action_countries": [
+      "DE",
+      "IT",
+      "VA",
+      "DE"
+    ],
+    "action_continents": [
+      "Europe",
+      "Europe",
+      "Europe",
+      "Europe"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "the Church ordering every stage of life",
+        "description": "Latin Christendom provides the calendar, sacraments, learning, courts, and moral law, so monasteries, bishops, and priests reach into marriage, death, and rule. What you'll see: monasteries and convents, bells and processions, confession and penance, church trials, relics, and clergy speaking with worldly authority.",
+        "icon": "⛪"
+      },
+      {
+        "label": "holy war and frontier faiths",
+        "description": "Conflict with non-Christian powers and quarrels within Christendom alike are understood through the language of crusade, heresy, and divine favour. What you'll see: crusaders returning home, vows taken before altars, papal causes, Muslim and Christian borderlands, and battles framed as contests of faith.",
+        "icon": "✝️"
+      }
+    ]
+  },
+  {
+    "movie_id": 4518,
+    "movie_idx": 7243,
+    "imdb_id": "tt0127536",
+    "title": "Elizabeth",
+    "production_year": "1998",
+    "genre": "Biography, Drama, History",
+    "plot": "This film details the ascension to the throne and the early reign of Queen Elizabeth the First, as played by Cate Blanchett. The main focus is the endless attempts by her council to marry her off, the Catholic hatred of her and her romance with Lord Robert Dudley.",
+    "runtime": "124 min",
+    "director": "Shekhar Kapur",
+    "actors": "Cate Blanchett, Liz Giles, Rod Culbertson",
+    "production_country": "United Kingdom, United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNWRjZjJjNDUtOTgzMi00YjBlLTg5ODQtMjQxOTAyMzM2ZWJiXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/4518.webp",
+    "imdb_rating": "7.4",
+    "imdb_votes": "108,734",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Elizabeth_(film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/4518.txt",
+    "plot_year_start": 1558,
+    "plot_year_end": 1558,
+    "epoch": "medieval-world",
+    "action_countries": [
+      "GB",
+      "FR",
+      "SC"
+    ],
+    "action_continents": [
+      "Europe",
+      "Europe",
+      "Africa"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "kings ruling through oaths and barons",
+        "description": "Power rests on personal loyalty between crown, great lords, and lesser landholders, so a weak king can quickly face rebellion, rival claims, or demands to honour old customs. What you'll see: councils in great halls, seals on charters, homage and fealty, nobles changing sides, and the kingdom's fate tied to a ruler's person.",
+        "icon": "👑"
+      },
+      {
+        "label": "the Church ordering every stage of life",
+        "description": "Latin Christendom provides the calendar, sacraments, learning, courts, and moral law, so monasteries, bishops, and priests reach into marriage, death, and rule. What you'll see: monasteries and convents, bells and processions, confession and penance, church trials, relics, and clergy speaking with worldly authority.",
+        "icon": "⛪"
+      }
+    ]
+  },
+  {
+    "movie_id": 11162,
+    "movie_idx": 7551,
+    "imdb_id": "tt0379889",
+    "title": "The Merchant of Venice",
+    "production_year": "2004",
+    "genre": "Drama, Romance",
+    "plot": "Venice, 1596. Melancholy Antonio loves the youthful Bassanio, so when Bassanio asks for 3000 ducats, Antonio says yes before knowing it's to sue for the hand of Portia. His capital tied up in merchant ships at sea, Antonio must go to Shylock, a Jewish moneylender he reviles. Shylock wraps his grudge in kindness, offering a three-month loan at no interest, but if not repaid, Antonio will owe a pound of flesh. The Jew's daughter elopes with a Christian, whetting Shylock's hatred. While Bassanio's away wooing Portia, Antonio's ships founder, and Shylock demands his pound of flesh. With court assembled and a judgment due, Portia swings into action to save Bassanio's friend.",
+    "runtime": "131 min",
+    "director": "Michael Radford",
+    "actors": "Al Pacino, Joseph Fiennes, Lynn Collins",
+    "production_country": "United Kingdom, Italy, Luxembourg, United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BY2I5NjkxZjYtYWM1NS00M2MzLTk0MTEtNmE2OTAxMzIwNDQxXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/11162.webp",
+    "imdb_rating": "7.0",
+    "imdb_votes": "39,301",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Merchant_of_Venice_(2004_film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/11162.txt",
+    "plot_year_start": 1596,
+    "plot_year_end": 1596,
+    "epoch": "medieval-world",
+    "action_countries": [
+      "IT"
+    ],
+    "action_continents": [
+      "Europe"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "towns growing rich on trade",
+        "description": "Alongside the old landed order, walled towns and maritime republics thrive on markets, credit, craft guilds, and long-distance commerce. What you'll see: busy quays and counting rooms, merchant households, ducats and debts, cloth and spice traffic, and civic life less tied to the plough.",
+        "icon": "⚓"
+      },
+      {
+        "label": "marriage bargains steering family fortunes",
+        "description": "Households treat marriage as a means to secure property, alliances, legitimacy, and succession, with women often constrained by family strategy and male law. What you'll see: dowries, arranged matches, anxious fathers, widows and heiresses, convent as an alternative, and private desire colliding with public duty.",
+        "icon": "💍"
+      }
+    ]
+  },
+  {
+    "movie_id": 91745,
+    "movie_idx": 7768,
+    "imdb_id": "tt1645131",
+    "title": "Romeo & Juliet",
+    "production_year": "2013",
+    "genre": "Drama, Romance",
+    "plot": "In the city of Verona, two families have a prolonged and ancient feud. The Montagues and the Capulets co-exist under the stern eye of the Prince, but the hatred between the families threatens all, in particular the children. The young men of both families are hot-blooded and ready to fight at any provocation, despite the Prince's edict against such fights. But when young Romeo, a Montague, first sets eyes on the virginal Capulet daughter Juliet, no enmity between families can prevent his falling in love with her, and her with him. From this risk-laden romance comes both joy and tragedy for all.",
+    "runtime": "118 min",
+    "director": "Carlo Carlei",
+    "actors": "Hailee Steinfeld, Douglas Booth, Damian Lewis",
+    "production_country": "United Kingdom, Italy, Switzerland, United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMmRjNWViZWMtNjI3OS00MTlmLTgxZmItMDFlYzc2YjRhZjY1XkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/91745.webp",
+    "imdb_rating": "5.8",
+    "imdb_votes": "13,134",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Romeo_%26_Juliet_(2013_film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/91745.txt",
+    "plot_year_start": 1300,
+    "plot_year_end": 1300,
+    "epoch": "medieval-world",
+    "action_countries": [
+      "IT"
+    ],
+    "action_continents": [
+      "Europe"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "marriage bargains steering family fortunes",
+        "description": "Households treat marriage as a means to secure property, alliances, legitimacy, and succession, with women often constrained by family strategy and male law. What you'll see: dowries, arranged matches, anxious fathers, widows and heiresses, convent as an alternative, and private desire colliding with public duty.",
+        "icon": "💍"
+      },
+      {
+        "label": "the Church ordering every stage of life",
+        "description": "Latin Christendom provides the calendar, sacraments, learning, courts, and moral law, so monasteries, bishops, and priests reach into marriage, death, and rule. What you'll see: monasteries and convents, bells and processions, confession and penance, church trials, relics, and clergy speaking with worldly authority.",
+        "icon": "⛪"
+      }
+    ]
+  },
+  {
+    "movie_id": 61891,
+    "movie_idx": 7836,
+    "imdb_id": "tt1521197",
+    "title": "Anonymous",
+    "production_year": "2011",
+    "genre": "Drama, Thriller",
+    "plot": "Edward De Vere, Earl of Oxford, is presented as the real author of Shakespeare's works. Edward's life is followed through flashbacks from a young child, through to the end of his life. He is portrayed as a child prodigy who writes and performs A Midsummer Night's Dream for a young Elizabeth I. A series of events sees his plays being performed by a frontman, Shakespeare.",
+    "runtime": "130 min",
+    "director": "Roland Emmerich",
+    "actors": "Rhys Ifans, Vanessa Redgrave, David Thewlis",
+    "production_country": "United Kingdom, Germany, United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjAxOTA5MTMxOV5BMl5BanBnXkFtZTcwNDI4MzU0NQ@@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/61891.webp",
+    "imdb_rating": "6.8",
+    "imdb_votes": "42,730",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Anonymous_(film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/61891.txt",
+    "plot_year_start": 1580,
+    "plot_year_end": 1603,
+    "epoch": "medieval-world",
+    "action_countries": [
+      "GB",
+      "US"
+    ],
+    "action_continents": [
+      "Europe",
+      "North America"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "kings ruling through oaths and barons",
+        "description": "Power rests on personal loyalty between crown, great lords, and lesser landholders, so a weak king can quickly face rebellion, rival claims, or demands to honour old customs. What you'll see: councils in great halls, seals on charters, homage and fealty, nobles changing sides, and the kingdom's fate tied to a ruler's person.",
+        "icon": "👑"
+      },
+      {
+        "label": "castles dominating war and local rule",
+        "description": "Stone fortresses are not just military works but seats of command, storehouses, prisons, and symbols of who truly governs a district. What you'll see: sieges, gatehouses, battlements, garrisons, dungeons, siege engines, and countryside life overshadowed by castle walls.",
+        "icon": "🏰"
+      }
+    ]
+  },
+  {
+    "movie_id": 10353,
+    "movie_idx": 7912,
+    "imdb_id": "tt0120882",
+    "title": "The Visitors II: The Corridors of Time",
+    "production_year": "1998",
+    "genre": "Comedy, Fantasy",
+    "plot": "The sequel to The Visitors reunites us with those lovable ruffians from the French Medieval ages who - through magic - are transported into the present, with often drastic consequences. Godefroy de Montmirail travels to today to recover the missing family jewels and a sacred relic, guarantor of his wife-to-be's fertility. The confrontation between Godefroy's repellent servant Jack the Crack and his descendent, the effete Jacquart, present-day owner of the chateau, further complicates the matter.",
+    "runtime": "118 min",
+    "director": "Jean-Marie Poiré",
+    "actors": "Christian Clavier, Jean Reno, Muriel Robin",
+    "production_country": "France",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZGJlYjk0NmItZGQzOC00ZTc0LWExODYtMDM5ZjU5MjMxMjUzXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/10353.webp",
+    "imdb_rating": "6.1",
+    "imdb_votes": "13,616",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Visitors_II:_The_Corridors_of_Time",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/10353.txt",
+    "plot_year_start": 1123,
+    "plot_year_end": 1790,
+    "epoch": "medieval-world",
+    "action_countries": [
+      "FR"
+    ],
+    "action_continents": [
+      "Europe"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "kings ruling through oaths and barons",
+        "description": "Power rests on personal loyalty between crown, great lords, and lesser landholders, so a weak king can quickly face rebellion, rival claims, or demands to honour old customs. What you'll see: councils in great halls, seals on charters, homage and fealty, nobles changing sides, and the kingdom's fate tied to a ruler's person.",
+        "icon": "👑"
+      }
+    ]
+  },
+  {
+    "movie_id": 874,
+    "movie_idx": 8050,
+    "imdb_id": "tt0060665",
+    "title": "A Man for All Seasons",
+    "production_year": "1966",
+    "genre": "Biography, Drama, History",
+    "plot": "The story of English statesman Sir Thomas More who defied King Henry VIII after Henry rejected the Roman Catholic Church in order to obtain a divorce and remarry.",
+    "runtime": "120 min",
+    "director": "Fred Zinnemann",
+    "actors": "Paul Scofield, Wendy Hiller, Robert Shaw",
+    "production_country": "United Kingdom",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNjBmMWM0MDQtY2JlNy00NjVkLWE1MjgtMTFmYmRkOTc1ZmNlXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/874.webp",
+    "imdb_rating": "7.7",
+    "imdb_votes": "39,905",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/A_Man_for_All_Seasons_(1966_film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/874.txt",
+    "plot_year_start": 1529,
+    "plot_year_end": 1535,
+    "epoch": "medieval-world",
+    "action_countries": [
+      "GB"
+    ],
+    "action_continents": [
+      "Europe"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "the Church ordering every stage of life",
+        "description": "Latin Christendom provides the calendar, sacraments, learning, courts, and moral law, so monasteries, bishops, and priests reach into marriage, death, and rule. What you'll see: monasteries and convents, bells and processions, confession and penance, church trials, relics, and clergy speaking with worldly authority.",
+        "icon": "⛪"
+      },
+      {
+        "label": "kings ruling through oaths and barons",
+        "description": "Power rests on personal loyalty between crown, great lords, and lesser landholders, so a weak king can quickly face rebellion, rival claims, or demands to honour old customs. What you'll see: councils in great halls, seals on charters, homage and fealty, nobles changing sides, and the kingdom's fate tied to a ruler's person.",
+        "icon": "👑"
+      }
+    ]
+  },
+  {
+    "movie_id": 26175,
+    "movie_idx": 8179,
+    "imdb_id": "tt0044760",
+    "title": "Ivanhoe",
+    "production_year": "1952",
+    "genre": "Adventure, Drama, Romance",
+    "plot": "In the center of this Walter Scott classic fiction inspired movie the chivalrousness and the daring stand. Sir Wilfred of Ivanhoe (Robert Taylor), the disowned knight join to the bravehearted and high-minded Robin of Locksley (Harold Warrender), the valiant of Sherwood Forest. They want King Richard (Norman Wooland) to rule the kingdom instead of evil Prince John (Guy Rolfe).",
+    "runtime": "106 min",
+    "director": "Richard Thorpe",
+    "actors": "Robert Taylor, Elizabeth Taylor, Joan Fontaine",
+    "production_country": "United Kingdom, United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZDhlNDZhMzctMmM4OC00Y2Q2LWEyMjktYjAxZmI3NzBhYWRjXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/26175.webp",
+    "imdb_rating": "6.7",
+    "imdb_votes": "10,516",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Ivanhoe_(1952_film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/26175.txt",
+    "plot_year_start": 1194,
+    "plot_year_end": 1194,
+    "epoch": "medieval-world",
+    "action_countries": [
+      "GB"
+    ],
+    "action_continents": [
+      "Europe"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "kings ruling through oaths and barons",
+        "description": "Power rests on personal loyalty between crown, great lords, and lesser landholders, so a weak king can quickly face rebellion, rival claims, or demands to honour old customs. What you'll see: councils in great halls, seals on charters, homage and fealty, nobles changing sides, and the kingdom's fate tied to a ruler's person.",
+        "icon": "👑"
+      },
+      {
+        "label": "castles dominating war and local rule",
+        "description": "Stone fortresses are not just military works but seats of command, storehouses, prisons, and symbols of who truly governs a district. What you'll see: sieges, gatehouses, battlements, garrisons, dungeons, siege engines, and countryside life overshadowed by castle walls.",
+        "icon": "🏰"
+      }
+    ]
+  },
+  {
+    "movie_id": 8005,
+    "movie_idx": 8264,
+    "imdb_id": "tt0107977",
+    "title": "Robin Hood: Men in Tights",
+    "production_year": "1993",
+    "genre": "Adventure, Comedy, Musical",
+    "plot": "Robin of Locksley, known as the most skilled archer of the land, has just returned to England after fighting in the Holy Crusades, where King Richard the Lionheart is also fighting. Robin finds that much of what he knew of England has gone to ruin, including his longtime family home having been taken away, all at the hands of the evil Prince John, Richard's brother who has assumed the throne in Richard's absence. Neurotic John is basically being controlled by the equally evil Sheriff of Rottingham, everything they do to fatten their own coffers at the expense of the commoners and peasants. As such, Robin recruits a band of merry men to help him battle Prince John and the Sheriff, they, who include: Blinkin, his blind longtime servant; Ahchoo, the misguided son of Asneeze, the man who helped him escape from prison while fighting in the Crusades; Little John, who seems to think that being called Little is only coincidental to the fact of he being a hulking man; and Little John's friend, Will Scarlet O'Hara, a master with daggers. In going to the palace, Robin falls in love at first sight with Marian of Bagelle, a maid of the court. Marian is looking for the man who has the figurative and literal key to unlock her heart (and private parts). The Sheriff has his own eyes on Marian, he who in turn is the object of desire of Latrine, a powerful hag of a sorceress of the court. Robin, and the Sheriff in particular, have a fight to the death mentality to achieve their end goals, which for both are protection of the throne for their trusted royal, and the heart and cherry of Maid Marian.",
+    "runtime": "104 min",
+    "director": "Mel Brooks",
+    "actors": "Cary Elwes, Richard Lewis, Roger Rees",
+    "production_country": "United States, France",
+    "poster": "https://m.media-amazon.com/images/M/MV5BY2ZkMGU1OGUtZTJlOS00MmE5LWIxZjQtYWRlZDljMGJkMTZmXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/8005.webp",
+    "imdb_rating": "6.7",
+    "imdb_votes": "144,339",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Robin_Hood:_Men_in_Tights",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/8005.txt",
+    "plot_year_start": 1194,
+    "plot_year_end": 1194,
+    "epoch": "medieval-world",
+    "action_countries": [
+      "GB",
+      "IL"
+    ],
+    "action_continents": [
+      "Europe",
+      "Asia"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "land held by lords and tenants",
+        "description": "Most wealth comes from land, and rights over fields, rents, woods, and villages bind peasants, knights, abbeys, and nobles into a fixed social order. What you'll see: manor houses, confiscated estates, harvest labour, tax collectors, disputes over inheritance, and villagers living under nearby lordship.",
+        "icon": "🌾"
+      }
+    ]
+  },
+  {
+    "movie_id": 37565,
+    "movie_idx": 8331,
+    "imdb_id": "tt1210106",
+    "title": "St Trinian's 2: The Legend of Fritton's Gold",
+    "production_year": "2009",
+    "genre": "Adventure, Comedy, Family",
+    "plot": "After wealthy philanthropist Piers Pomfrey has expressed an unusual interest in a ring found by her niece Annabelle, Miss Fritton explains that she is descended from a pirate who, in 1598, stole treasure from another pirate: Pomfrey's ancestor. The location of the treasure is to be found when the ring and its double are put together. Felonious ex-pupil Kelly and Miss Fritton's former lover Geoffrey are brought in to help the school steal the second ring from the evil Pomfrey's misogynistic secret society, leading to a showdown at the Globe Theater, and an amazing revelation as to the identity of pirate Captain Fritton, as well as that of William Shakespeare.",
+    "runtime": "106 min",
+    "director": "Oliver Parker, Barnaby Thompson",
+    "actors": "Rupert Everett, Colin Firth, David Tennant",
+    "production_country": "United Kingdom",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMmQyMzM2MDktYzg0MS00YjFhLWEzNDktZDU5ZWY0M2M2YjNjXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/37565.webp",
+    "imdb_rating": "5.3",
+    "imdb_votes": "8,993",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/St_Trinian%27s_2:_The_Legend_of_Fritton%27s_Gold",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/37565.txt",
+    "plot_year_start": 1598,
+    "plot_year_end": 1598,
+    "epoch": "medieval-world",
+    "action_countries": [
+      "GB"
+    ],
+    "action_continents": [
+      "Europe"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "old customs mingling with miracle and omen",
+        "description": "Formal Christianity sits beside deep belief in prophecy, saints, curses, visions, and uncanny signs, especially where learning is scarce and danger is near. What you'll see: witches and holy men, dream warnings, ghostly visitations, judgments seen as heaven's will, and villagers reading meaning into strange events.",
+        "icon": "🔮"
+      }
+    ]
+  },
+  {
+    "movie_id": 41215,
+    "movie_idx": 8528,
+    "imdb_id": "tt1181791",
+    "title": "Black Death",
+    "production_year": "2010",
+    "genre": "Action, Drama, History",
+    "plot": "Set during the time of the first outbreak of bubonic plague in England, a young monk is tasked with learning the truth about reports of people being brought back to life, a mission that pulls him toward a village ruler who has made a dark pact with evil forces.",
+    "runtime": "102 min",
+    "director": "Christopher Smith",
+    "actors": "Eddie Redmayne, Sean Bean, Carice van Houten",
+    "production_country": "Germany, United Kingdom",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTkxNjEwNjY3NV5BMl5BanBnXkFtZTcwMTY1NTUyNA@@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/41215.webp",
+    "imdb_rating": "6.4",
+    "imdb_votes": "54,118",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Black_Death_(film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/41215.txt",
+    "plot_year_start": 1348,
+    "plot_year_end": 1350,
+    "epoch": "medieval-world",
+    "action_countries": [
+      "GB",
+      "DE"
+    ],
+    "action_continents": [
+      "Europe",
+      "Europe"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "holy war and frontier faiths",
+        "description": "Conflict with non-Christian powers and quarrels within Christendom alike are understood through the language of crusade, heresy, and divine favour. What you'll see: crusaders returning home, vows taken before altars, papal causes, Muslim and Christian borderlands, and battles framed as contests of faith.",
+        "icon": "✝️"
+      },
+      {
+        "label": "plague, famine, and uncertain healing",
+        "description": "Life is shadowed by sudden mortality, while medicine mixes inherited learning, barber-surgery, prayer, and fearful superstition. What you'll see: pestilence in crowded streets, monks tending the sick, leeches and simples, public dread of contagion, and healers working with scant certainty.",
+        "icon": "☠️"
+      }
+    ]
+  },
+  {
+    "movie_id": 10705,
+    "movie_idx": 8894,
+    "imdb_id": "tt0097499",
+    "title": "Henry V",
+    "production_year": "1989",
+    "genre": "Biography, Drama, History",
+    "plot": "King Henry V of England (Sir Kenneth Branagh) is insulted by King Charles VI of France (Paul Scofield). As a result, he leads his army into battle against France. Along the way, the young King must struggle with the sinking morale of his troops and his own inner doubts. The war culminates at the bloody Battle of Agincourt.",
+    "runtime": "137 min",
+    "director": "Kenneth Branagh",
+    "actors": "Kenneth Branagh, Derek Jacobi, Simon Shepherd",
+    "production_country": "United Kingdom",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNzNiMWM3NGEtZWMxYi00NzM0LWE2ODItMzZlNTZmYTJhZWY1XkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/10705.webp",
+    "imdb_rating": "7.5",
+    "imdb_votes": "32,294",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Henry_V_(1989_film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/10705.txt",
+    "plot_year_start": 1415,
+    "plot_year_end": 1415,
+    "epoch": "medieval-world",
+    "action_countries": [
+      "GB",
+      "FR"
+    ],
+    "action_continents": [
+      "Europe",
+      "Europe"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "kings ruling through oaths and barons",
+        "description": "Power rests on personal loyalty between crown, great lords, and lesser landholders, so a weak king can quickly face rebellion, rival claims, or demands to honour old customs. What you'll see: councils in great halls, seals on charters, homage and fealty, nobles changing sides, and the kingdom's fate tied to a ruler's person.",
+        "icon": "👑"
+      },
+      {
+        "label": "castles dominating war and local rule",
+        "description": "Stone fortresses are not just military works but seats of command, storehouses, prisons, and symbols of who truly governs a district. What you'll see: sieges, gatehouses, battlements, garrisons, dungeons, siege engines, and countryside life overshadowed by castle walls.",
+        "icon": "🏰"
+      }
+    ]
+  },
+  {
+    "movie_id": 286873,
+    "movie_idx": 8942,
+    "imdb_id": "tt2290553",
+    "title": "Northmen: A Viking Saga",
+    "production_year": "2014",
+    "genre": "Action, Drama, History",
+    "plot": "A band of Vikings are stranded behind enemy lines on the coast of Alba as their longboat goes down in a dreadful storm. Their only chance of survival is to find a path to the Viking settlement, Danelagh, traversing an unfamiliar and hostile land they have never known. The journey becomes a race for their lives when the King of Alba sends his most feared mercenaries after them. But when the Vikings meet a kind Christian Monk who preaches with his sword, the hunters become the hunted as the Vikings set deadly traps, mercilessly decimating their pursuers one by one, culminating in a final and deadly encounter.",
+    "runtime": "97 min",
+    "director": "Claudio Fäh",
+    "actors": "Tom Hopper, Ryan Kwanten, Ken Duken",
+    "production_country": "Switzerland, Germany, South Africa",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZjc1OTk3ZmItYmJkMy00OTRhLTg3OTAtZWRjOWZkY2RlMGM3XkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/286873.webp",
+    "imdb_rating": "5.4",
+    "imdb_votes": "11,043",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Northmen:_A_Viking_Saga",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/286873.txt",
+    "plot_year_start": 900,
+    "plot_year_end": 900,
+    "epoch": "medieval-world",
+    "action_countries": [
+      "GB"
+    ],
+    "action_continents": [
+      "Europe"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "castles dominating war and local rule",
+        "description": "Stone fortresses are not just military works but seats of command, storehouses, prisons, and symbols of who truly governs a district. What you'll see: sieges, gatehouses, battlements, garrisons, dungeons, siege engines, and countryside life overshadowed by castle walls.",
+        "icon": "🏰"
+      },
+      {
+        "label": "holy war and frontier faiths",
+        "description": "Conflict with non-Christian powers and quarrels within Christendom alike are understood through the language of crusade, heresy, and divine favour. What you'll see: crusaders returning home, vows taken before altars, papal causes, Muslim and Christian borderlands, and battles framed as contests of faith.",
+        "icon": "✝️"
+      }
+    ]
+  },
+  {
+    "movie_id": 13194,
+    "movie_idx": 9039,
+    "imdb_id": "tt0465657",
+    "title": "Highlander: The Search for Vengeance",
+    "production_year": "2007",
+    "genre": "Animation, Action, Fantasy, Romance, Sci-Fi",
+    "plot": "The lone warrior Colin travels with the wise-cracking ghost Amergan through the ages searching for the immortal despot Marcus Octavius, who killed his lover on the Celtic plains tens of centuries ago. On his quest, he discovers New York is submerged, and one dominant monolith fortress towers over the seas. Colin can save the survivors, but his sword only hungers for the blood of one man. Despite many lifetimes of training, Colin has failed to vanquish Marcus on the great battlefields of history. Can he finish what he started and stop Marcus? Will Colin lead the people to freedom or become consumed by hate? There can be only one.",
+    "runtime": "85 min",
+    "director": "Yoshiaki Kawajiri, Takuji Endo",
+    "actors": "Alistair Abell, Debi Mae West, Nolan North, Scott McNeil",
+    "production_country": "USA, Japan, Hong Kong",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTM0OTYwOTc4Nl5BMl5BanBnXkFtZTcwNTM3OTY0MQ@@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/13194.webp",
+    "imdb_rating": "6.7",
+    "imdb_votes": "3,530",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Highlander:_The_Search_for_Vengeance",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/13194.txt",
+    "plot_year_start": 125,
+    "plot_year_end": 2187,
+    "epoch": "medieval-world",
+    "action_countries": [
+      "GB",
+      "US",
+      "FICTIONAL"
+    ],
+    "action_continents": [
+      "Europe",
+      "North America",
+      "FICTIONAL"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Highlander Universe",
+    "categories": [
+      {
+        "label": "castles dominating war and local rule",
+        "description": "Stone fortresses are not just military works but seats of command, storehouses, prisons, and symbols of who truly governs a district. What you'll see: sieges, gatehouses, battlements, garrisons, dungeons, siege engines, and countryside life overshadowed by castle walls.",
+        "icon": "🏰"
+      },
+      {
+        "label": "knighthood shaped by chivalry and violence",
+        "description": "The fighting elite are trained horsemen whose honour, lineage, and fame matter greatly, even as their world depends on brutal war. What you'll see: armour, jousts, swords blessed before battle, ransom and heraldry, squires serving masters, and prowess used as a path to status.",
+        "icon": "🛡️"
+      }
+    ]
+  },
+  {
+    "movie_id": 10452,
+    "movie_idx": 9094,
+    "imdb_id": "tt0110963",
+    "title": "Queen Margot",
+    "production_year": "1994",
+    "genre": "Biography, Drama, History",
+    "plot": "The night of August 24, 1572, is known as the Massacre of St. Bartholomew. In France, a religious war is raging. In order to impose peace, a forced wedding is arranged between Margot de Valois, sister of the immature Catholic king, Charles IX, and the Hugenot king, Henri of Navarre. Catherine de Médicis maintains her behind-the-scenes power by ordering assaults, poisonings, and instigations to incest.",
+    "runtime": "161 min",
+    "director": "Patrice Chéreau",
+    "actors": "Isabelle Adjani, Daniel Auteuil, Jean-Hugues Anglade",
+    "production_country": "France, Germany, Italy",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYjhmYzJlZTgtY2NmOC00MjYyLWJlODItNDBjMmM4ODA5N2YyXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/10452.webp",
+    "imdb_rating": "7.4",
+    "imdb_votes": "20,183",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/La_Reine_Margot_(1994_film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/10452.txt",
+    "plot_year_start": 1572,
+    "plot_year_end": 1572,
+    "epoch": "medieval-world",
+    "action_countries": [
+      "FR"
+    ],
+    "action_continents": [
+      "Europe"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "holy war and frontier faiths",
+        "description": "Conflict with non-Christian powers and quarrels within Christendom alike are understood through the language of crusade, heresy, and divine favour. What you'll see: crusaders returning home, vows taken before altars, papal causes, Muslim and Christian borderlands, and battles framed as contests of faith.",
+        "icon": "✝️"
+      },
+      {
+        "label": "kings ruling through oaths and barons",
+        "description": "Power rests on personal loyalty between crown, great lords, and lesser landholders, so a weak king can quickly face rebellion, rival claims, or demands to honour old customs. What you'll see: councils in great halls, seals on charters, homage and fealty, nobles changing sides, and the kingdom's fate tied to a ruler's person.",
+        "icon": "👑"
+      }
+    ]
+  },
+  {
+    "movie_id": 826769,
+    "movie_idx": 9105,
+    "imdb_id": "tt1777606",
+    "title": "Rosaline",
+    "production_year": "2022",
+    "genre": "Comedy, Romance",
+    "plot": "\"Rosaline\" is a comedic twist on Shakespeare's \"Romeo and Juliet\" in which the classic love story is told from the perspective of Juliet's cousin Rosaline (Kaitlyn Dever), who just happens to be Romeo's recent ex-girlfriend. Crushed when Romeo (Kyle Allen) dumps her after meeting Juliet (Isabela Merced), sharp but idealistic Rosaline schemes to foil the famous romance and win back her guy.",
+    "runtime": "95 min",
+    "director": "Karen Maine",
+    "actors": "Kaitlyn Dever, Isabela Merced, Sean Teale",
+    "production_country": "United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNWFiODU3OGItMzc3Ni00ZDg1LTgwZTktNzJkOGViYjVhY2UxXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/826769.webp",
+    "imdb_rating": "6.5",
+    "imdb_votes": "10,389",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Rosaline_(film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/826769.txt",
+    "plot_year_start": 1590,
+    "plot_year_end": 1590,
+    "epoch": "medieval-world",
+    "action_countries": [
+      "IT"
+    ],
+    "action_continents": [
+      "Europe"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "marriage bargains steering family fortunes",
+        "description": "Households treat marriage as a means to secure property, alliances, legitimacy, and succession, with women often constrained by family strategy and male law. What you'll see: dowries, arranged matches, anxious fathers, widows and heiresses, convent as an alternative, and private desire colliding with public duty.",
+        "icon": "💍"
+      }
+    ]
+  },
+  {
+    "movie_id": 11316,
+    "movie_idx": 9216,
+    "imdb_id": "tt0067372",
+    "title": "Macbeth",
+    "production_year": "1971",
+    "genre": "Drama, History",
+    "plot": "Roman Polanski's version of Shakespeare's tragedy about a Scottish lord who murders the king and ascends the throne. His wife then begins hallucinating as a result of her guilt complex and the dead king's son conspires to attack Macbeth and expose him for the murderer he is.",
+    "runtime": "140 min",
+    "director": "Roman Polanski",
+    "actors": "Jon Finch, Francesca Annis, Martin Shaw",
+    "production_country": "United Kingdom, United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZTk2ZmEwNmYtNmY0Ny00NzAwLWI3OTEtMzkwNTZlZGJhM2Y5XkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/11316.webp",
+    "imdb_rating": "7.4",
+    "imdb_votes": "15,371",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Macbeth_(1971_film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/11316.txt",
+    "plot_year_start": 1040,
+    "plot_year_end": 1040,
+    "epoch": "medieval-world",
+    "action_countries": [
+      "GB"
+    ],
+    "action_continents": [
+      "Europe"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "kings ruling through oaths and barons",
+        "description": "Power rests on personal loyalty between crown, great lords, and lesser landholders, so a weak king can quickly face rebellion, rival claims, or demands to honour old customs. What you'll see: councils in great halls, seals on charters, homage and fealty, nobles changing sides, and the kingdom's fate tied to a ruler's person.",
+        "icon": "👑"
+      },
+      {
+        "label": "the Church ordering every stage of life",
+        "description": "Latin Christendom provides the calendar, sacraments, learning, courts, and moral law, so monasteries, bishops, and priests reach into marriage, death, and rule. What you'll see: monasteries and convents, bells and processions, confession and penance, church trials, relics, and clergy speaking with worldly authority.",
+        "icon": "⛪"
+      }
+    ]
+  },
+  {
+    "movie_id": 38543,
+    "movie_idx": 9231,
+    "imdb_id": "tt1233301",
+    "title": "Ironclad",
+    "production_year": "2011",
+    "genre": "Action, Drama, History",
+    "plot": "It is the year 1215 and the rebel barons of England have forced their despised King John to put his royal seal to the Magna Carta, a noble, seminal document that upheld the rights of free men. Yet within months of pledging himself to the great charter, the King reneged on his word and assembled a mercenary army on the south coast of England with the intention of bringing the barons and the country back under his tyrannical rule. Barring his way stood the mighty Rochester castle, a place that would become the symbol of the rebels' momentous struggle for justice and freedom.",
+    "runtime": "121 min",
+    "director": "Jonathan English",
+    "actors": "Paul Giamatti, Jason Flemyng, Brian Cox",
+    "production_country": "United Kingdom, Switzerland, United States, Germany",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjI1NTU2NTI5NV5BMl5BanBnXkFtZTcwNDYzOTI1NQ@@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/38543.webp",
+    "imdb_rating": "6.1",
+    "imdb_votes": "45,047",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Ironclad_(film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/38543.txt",
+    "plot_year_start": 1215,
+    "plot_year_end": 1215,
+    "epoch": "medieval-world",
+    "action_countries": [
+      "GB"
+    ],
+    "action_continents": [
+      "Europe"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "castles dominating war and local rule",
+        "description": "Stone fortresses are not just military works but seats of command, storehouses, prisons, and symbols of who truly governs a district. What you'll see: sieges, gatehouses, battlements, garrisons, dungeons, siege engines, and countryside life overshadowed by castle walls.",
+        "icon": "🏰"
+      },
+      {
+        "label": "kings ruling through oaths and barons",
+        "description": "Power rests on personal loyalty between crown, great lords, and lesser landholders, so a weak king can quickly face rebellion, rival claims, or demands to honour old customs. What you'll see: councils in great halls, seals on charters, homage and fealty, nobles changing sides, and the kingdom's fate tied to a ruler's person.",
+        "icon": "👑"
+      }
+    ]
+  },
+  {
+    "movie_id": 27883,
+    "movie_idx": 9357,
+    "imdb_id": "tt0040558",
+    "title": "Macbeth",
+    "production_year": "1948",
+    "genre": "Drama, History, War",
+    "plot": "In fog-dripping, barren and sometimes macabre settings, 11th-century Scottish nobleman Macbeth is led by an evil prophecy and his ruthless yet desirable wife to the treasonous act that makes him king. But he does not enjoy his newfound, dearly-won kingship... Restructured, but all the dialogue is Shakespeare's.",
+    "runtime": "107 min",
+    "director": "Orson Welles",
+    "actors": "Orson Welles, Jeanette Nolan, Dan O'Herlihy",
+    "production_country": "United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYzY5MTk2NDAtZGIyYi00NWY5LTg5MDEtMWY0N2VkNTE5OWFjXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/27883.webp",
+    "imdb_rating": "7.4",
+    "imdb_votes": "7,986",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Macbeth_(1948_film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/27883.txt",
+    "plot_year_start": 1000,
+    "plot_year_end": 1000,
+    "epoch": "medieval-world",
+    "action_countries": [
+      "GB"
+    ],
+    "action_continents": [
+      "Europe"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "old customs mingling with miracle and omen",
+        "description": "Formal Christianity sits beside deep belief in prophecy, saints, curses, visions, and uncanny signs, especially where learning is scarce and danger is near. What you'll see: witches and holy men, dream warnings, ghostly visitations, judgments seen as heaven's will, and villagers reading meaning into strange events.",
+        "icon": "🔮"
+      },
+      {
+        "label": "kings ruling through oaths and barons",
+        "description": "Power rests on personal loyalty between crown, great lords, and lesser landholders, so a weak king can quickly face rebellion, rival claims, or demands to honour old customs. What you'll see: councils in great halls, seals on charters, homage and fealty, nobles changing sides, and the kingdom's fate tied to a ruler's person.",
+        "icon": "👑"
+      }
+    ]
+  },
+  {
+    "movie_id": 434245,
+    "movie_idx": 9387,
+    "imdb_id": "tt5238240",
+    "title": "The Stronghold",
+    "production_year": "2017",
+    "genre": "Adventure, Fantasy",
+    "plot": "The Stronghold is a Ukrainian adventure/fantasy film based on the same-name book. A present-day schoolboy Vit'ko goes a thousand years into past.",
+    "runtime": "111 min",
+    "director": "Yuriy Kovalyov",
+    "actors": "Danylo Kamenskyi, Eva Koshova, Roman Lutskyi",
+    "production_country": "Ukraine",
+    "poster": "https://m.media-amazon.com/images/M/MV5BOWY2ZDFkMDItN2IxYS00MzM5LTk5OGYtYWRmNzAxMmY1MWY5XkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/434245.webp",
+    "imdb_rating": "6.2",
+    "imdb_votes": "3,082",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Stronghold_(2017_film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/434245.txt",
+    "plot_year_start": 1017,
+    "plot_year_end": 1017,
+    "epoch": "medieval-world",
+    "action_countries": [
+      "UA"
+    ],
+    "action_continents": [
+      "Europe"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "castles dominating war and local rule",
+        "description": "Stone fortresses are not just military works but seats of command, storehouses, prisons, and symbols of who truly governs a district. What you'll see: sieges, gatehouses, battlements, garrisons, dungeons, siege engines, and countryside life overshadowed by castle walls.",
+        "icon": "🏰"
+      }
+    ]
+  },
+  {
+    "movie_id": 895,
+    "movie_idx": 9472,
+    "imdb_id": "tt0060107",
+    "title": "Andrei Rublev",
+    "production_year": "1966",
+    "genre": "Biography, Drama, History",
+    "plot": "Andreiv Rublev charts the life of the great icon painter through a turbulent period of 15th Century Russian history, a period marked by endless fighting between rival Princes and by Tatar invasions.",
+    "runtime": "189 min",
+    "director": "Andrei Tarkovsky",
+    "actors": "Anatoliy Solonitsyn, Ivan Lapikov, Nikolay Grinko",
+    "production_country": "Soviet Union",
+    "poster": "https://m.media-amazon.com/images/M/MV5BY2I4YzZjZDgtNWQzNC00MDdhLWFiZTItZTAwODY2ZmQzMDQwXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/895.webp",
+    "imdb_rating": "8.0",
+    "imdb_votes": "60,197",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Andrei_Rublev_(film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/895.txt",
+    "plot_year_start": 1400,
+    "plot_year_end": 1424,
+    "epoch": "medieval-world",
+    "action_countries": [
+      "RU"
+    ],
+    "action_continents": [
+      "Europe"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "the Church ordering every stage of life",
+        "description": "Latin Christendom provides the calendar, sacraments, learning, courts, and moral law, so monasteries, bishops, and priests reach into marriage, death, and rule. What you'll see: monasteries and convents, bells and processions, confession and penance, church trials, relics, and clergy speaking with worldly authority.",
+        "icon": "⛪"
+      },
+      {
+        "label": "plague, famine, and uncertain healing",
+        "description": "Life is shadowed by sudden mortality, while medicine mixes inherited learning, barber-surgery, prayer, and fearful superstition. What you'll see: pestilence in crowded streets, monks tending the sick, leeches and simples, public dread of contagion, and healers working with scant certainty.",
+        "icon": "☠️"
+      }
+    ]
+  },
+  {
+    "movie_id": 25560,
+    "movie_idx": 9649,
+    "imdb_id": "tt0061407",
+    "title": "The Taming of The Shrew",
+    "production_year": "1967",
+    "genre": "Comedy, Drama, Romance",
+    "plot": "Baptista (Sir Michael Hordern), a rich Paduan merchant, announces that his fair young daughter, Bianca (Natasha Pyne), will remain unwed until her older sister, Katharina (Dame Elizabeth Taylor), a hellish shrew, has wed. Lucentio (Michael York), a student and the son of a wealthy Pisan merchant, has fallen in love with Bianca. He poses as a tutor of music and poetry to gain entrance to the Baptista household and to be near Bianca. Meanwhile, Petruchio (Richard Burton), a fortune-hunting scoundrel from Verona, arrives in Padua, hoping to capture a wealthy wife. Hortensio (Victor Spinetti), another suitor of Bianca, directs Petruchio's attention to Katharina. When Hortensio warns him about Katharina's scolding tongue and fiery temper, Petruchio is challenged and resolves to capture her love. Hortensio and another suitor of Bianca, Gremio (Alan Webb), agree to cover Petruchio's costs as he pursues Katharina.",
+    "runtime": "122 min",
+    "director": "Franco Zeffirelli",
+    "actors": "Elizabeth Taylor, Richard Burton, Cyril Cusack",
+    "production_country": "Italy, United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BY2Y1Nzg2M2YtYTY3My00ZDgxLTliYWEtZTViMWRkNWZiODI4XkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/25560.webp",
+    "imdb_rating": "7.1",
+    "imdb_votes": "9,165",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Taming_of_the_Shrew_(1967_film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/25560.txt",
+    "plot_year_start": 1500,
+    "plot_year_end": 1500,
+    "epoch": "medieval-world",
+    "action_countries": [
+      "IT"
+    ],
+    "action_continents": [
+      "Europe"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "marriage bargains steering family fortunes",
+        "description": "Households treat marriage as a means to secure property, alliances, legitimacy, and succession, with women often constrained by family strategy and male law. What you'll see: dowries, arranged matches, anxious fathers, widows and heiresses, convent as an alternative, and private desire colliding with public duty.",
+        "icon": "💍"
+      },
+      {
+        "label": "land held by lords and tenants",
+        "description": "Most wealth comes from land, and rights over fields, rents, woods, and villages bind peasants, knights, abbeys, and nobles into a fixed social order. What you'll see: manor houses, confiscated estates, harvest labour, tax collectors, disputes over inheritance, and villagers living under nearby lordship.",
+        "icon": "🌾"
+      }
+    ]
+  },
+  {
+    "movie_id": 16638,
+    "movie_idx": 9712,
+    "imdb_id": "tt0054847",
+    "title": "El Cid",
+    "production_year": "1961",
+    "genre": "Biography, Drama, History",
+    "plot": "Epic movie of the legendary Spanish hero, Rodrigo Diaz de Bivar (Charlton Heston) (\"El Cid\" to his followers), who, without compromising his strict sense of honor, still succeeds in taking the initiative and driving the Moors from Spain.",
+    "runtime": "182 min",
+    "director": "Anthony Mann",
+    "actors": "Charlton Heston, Sophia Loren, Raf Vallone",
+    "production_country": "Italy, United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZmEyYzJkOTItMDQ3MC00MDA2LWIwZmMtNTczNzYyZTk3NWQ0XkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/16638.webp",
+    "imdb_rating": "7.2",
+    "imdb_votes": "16,684",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/El_Cid_(film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/16638.txt",
+    "plot_year_start": 1094,
+    "plot_year_end": 1099,
+    "epoch": "medieval-world",
+    "action_countries": [
+      "ES",
+      "MA",
+      "UNKNOWN"
+    ],
+    "action_continents": [
+      "Europe",
+      "Africa",
+      "UNKNOWN"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "holy war and frontier faiths",
+        "description": "Conflict with non-Christian powers and quarrels within Christendom alike are understood through the language of crusade, heresy, and divine favour. What you'll see: crusaders returning home, vows taken before altars, papal causes, Muslim and Christian borderlands, and battles framed as contests of faith.",
+        "icon": "✝️"
+      },
+      {
+        "label": "castles dominating war and local rule",
+        "description": "Stone fortresses are not just military works but seats of command, storehouses, prisons, and symbols of who truly governs a district. What you'll see: sieges, gatehouses, battlements, garrisons, dungeons, siege engines, and countryside life overshadowed by castle walls.",
+        "icon": "🏰"
+      }
+    ]
+  },
+  {
+    "movie_id": 532812,
+    "movie_idx": 9722,
+    "imdb_id": "tt8000908",
+    "title": "Robert the Bruce",
+    "production_year": "2019",
+    "genre": "Biography, Drama, History",
+    "plot": "After assisting William Wallace in the freedom struggle depicted in \"Braveheart\", Robert the Bruce has crowned himself King of Free Scotland. But the English are determined to regain their lost territory. Battle after battle, Robert is defeated, and the Scottish nobility turns their backs on him. From nothing, with freedom as the only driving force, the king rises once again to fight for his country.",
+    "runtime": "124 min",
+    "director": "Richard Gray",
+    "actors": "Angus Macfadyen, Diarmaid Murtagh, Jared Harris",
+    "production_country": "United States, Australia, United Kingdom",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNmM0NzVmNmMtNmU5OC00Y2I4LWFjZTktYTUxNmE5NzcyNzQ3XkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/532812.webp",
+    "imdb_rating": "5.5",
+    "imdb_votes": "5,639",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Robert_the_Bruce_(film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/532812.txt",
+    "plot_year_start": 1306,
+    "plot_year_end": 1314,
+    "epoch": "medieval-world",
+    "action_countries": [
+      "GB"
+    ],
+    "action_continents": [
+      "Europe"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "castles dominating war and local rule",
+        "description": "Stone fortresses are not just military works but seats of command, storehouses, prisons, and symbols of who truly governs a district. What you'll see: sieges, gatehouses, battlements, garrisons, dungeons, siege engines, and countryside life overshadowed by castle walls.",
+        "icon": "🏰"
+      }
+    ]
+  }
+]

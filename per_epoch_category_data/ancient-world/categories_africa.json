@@ -1,0 +1,101 @@
+{
+  "epoch": "ancient-world",
+  "continent": "africa",
+  "sample_size": 5,
+  "sample": [
+    {
+      "title": "The Ten Commandments",
+      "years": "-1300..-1200",
+      "countries": [
+        "EG"
+      ],
+      "plot": "To escape the edict of Egypt's Pharaoh Rameses I (Ian Keith), condemning all newborn Hebrew males, the infant Moses (Fraser C. Heston) is set adrift on the Nile in a reed basket. Saved by the pharaoh's daughter Bithiah (Nina Foch), he is adopted by her and brought up in the court of her brother, Pharaoh Sethi (Sir Cedric Hardwicke). Moses (Charlton Heston) gains Sethi's favor and the love of the throne Princess Nefretiri (Anne Baxter), as well as the hatred of Sethi's son, Rameses II (Yul Brynner). When his Hebrew heritage is revealed, Moses is cast out of Egypt, and makes his way across the desert where he marries, has a son, and is commanded by God to return to Egypt to free the Hebrews from slavery. In Egypt, Moses' fiercest enemy proves to be not Rameses II, but someone near to him who can \"harden his heart\"."
+    },
+    {
+      "title": "The Prince of Egypt",
+      "years": "-1300..-1200",
+      "countries": [
+        "EG"
+      ],
+      "plot": "This is the extraordinary tale of two brothers named Rameses II (Ralph Fiennes) and Moses (Val Kilmer), one born of royal blood, and one an orphan with a secret past. Growing up the best of friends, they share a strong bond of free-spirited youth and good-natured rivalry. But the truth will ultimately set them at odds, as one becomes the ruler of the most powerful empire on Earth, and the other the chosen leader of his people. Their final confrontation will forever change their lives and the world."
+    },
+    {
+      "title": "Cleopatra",
+      "years": "-48..-30",
+      "countries": [
+        "EG",
+        "IT",
+        "GB"
+      ],
+      "plot": "In 48 B.C., Julius Caesar (Sir Rex Harrison) pursues Pompey from Pharsalia to Egypt. Pharaoh Ptolemy XIII (Richard O'Sullivan), now supreme ruler after deposing his older sister, Cleopatra VII (Dame Elizabeth Taylor), attempts to gain favor with Caesar by presenting the conquerer with the head of Pompey, borne by his governors, Pothinus (Grégoire Aslan) and Achillas (John Doucette). To win Caesar's support from her brother, Cleopatra hides herself in a rug, which Apollodorus (Cesare Danova), her servant, presents to Caesar. The Roman is immediately infatuated. Banishing Ptolemy, he declares Cleopatra Egypt's sole ruler and takes her as his mistress. A son, Caesarion (Loris Loddi), is born of their union. Caesar, however, must return to Italy. Although he is briefly reunited with Cleopatra during a magnificent reception for the Queen in Rome, Caesar is assassinated shortly thereafter, and Cleopatra returns to Egypt. When Mark Antony (Richard Burton), Caesar's protégé, beholds Cleopatra aboard her elaborate barge at Tarsus some years later, he is smitten and becomes both her lover and military ally. Their liaison notwithstanding, Antony, to consolidate his position in Rome, marries Octavia (Jean Marsh), sister of the ambitious Octavian (Roddy McDowall). The marriage satisfies no one. Cleopatra is infuriated, and Antony, tiring of his Roman wife, returns to Egypt. There he flaunts his liaison by marrying Cleopatra in a public ceremony. Sensing Antony's weakness, Octavian attacks and defeats his forces at Actium. Alarmed, Cleopatra withdraws her fleet and seeks refuge in her tomb."
+    },
+    {
+      "title": "Amina",
+      "years": "16..16",
+      "countries": [
+        "NG"
+      ],
+      "plot": "In 16th-century Zazzau, now Zaria, Nigeria, Amina must utilize her military skills and tactics to defend her family's kingdom."
+    },
+    {
+      "title": "Agora",
+      "years": "391..415",
+      "countries": [
+        "EG"
+      ],
+      "plot": "Alexandria, 391 AD: Hypatia teaches astronomy, mathematics, and philosophy. Her student Orestes is in love with her, as is Davus, her personal slave. As the city's Christians, led by Ammonius and Cyril, gain political power, the institutions of learning may crumble along with the governance of slavery. Jump ahead 20 years: Orestes, the city's prefect, has an uneasy peace with the Christians, led by Cyril. A group from the newly empowered Christians has now taken to enforce their cultural hegemony zealously; first they see the Jews as their obstacle, then nonbelievers. Hypatia has no interest in faith; she's concerned about the movement of celestial bodies and \"the brotherhood of all\". Although her former slave doesn't see it that way."
+    }
+  ],
+  "categories": [
+    {
+      "label": "kingship displayed through court and ceremony",
+      "description": "Rule is centred on a sacred or exalted monarch whose power is shown in formal audiences, dynastic households, and carefully staged public display. What you'll see: thrones, processions, royal apartments, insignia of rank, and ceremonies where status is made visible.",
+      "icon": "👑"
+    },
+    {
+      "label": "river valleys feeding great kingdoms",
+      "description": "Life and power gather around fertile waters that make dense settlement, grain stores, and populous cities possible in otherwise harsh country. What you'll see: the Nile and its banks, irrigated fields, reeds and mudbrick, river craft, and the sharp meeting of green land with desert.",
+      "icon": "🌾"
+    },
+    {
+      "label": "forced labour building royal grandeur",
+      "description": "Great states command labour on a massive scale through slavery, bondage, tribute, and compulsory service to rulers and temples. What you'll see: gangs of workers, overseers with rods, stone hauled into place, workshops, and bodies treated as part of the realm's wealth.",
+      "icon": "⛓️"
+    },
+    {
+      "label": "many gods sharing space with new faiths",
+      "description": "Public life is shaped by temples, sacrifices, priests, and sacred images, even as newer creeds press against older worship and claim authority for themselves. What you'll see: idols and shrines, ritual offerings, sacred chants, processions, and bitter quarrels over whose rites may rule the city.",
+      "icon": "🛕"
+    },
+    {
+      "label": "palaces entangled with foreign empires",
+      "description": "African kingdoms stand in constant negotiation with stronger neighbours or rival powers, so local rule is tied to tribute, alliance, and outside armies. What you'll see: envoys, treaty talk, foreign generals at court, mixed customs in elite circles, and the sense that the fate of a kingdom is decided beyond its borders as well as within them.",
+      "icon": "🤝"
+    },
+    {
+      "label": "cities thriving on Mediterranean sea routes",
+      "description": "Ports and river mouths bind African capitals to a wider world of merchants, grain fleets, luxury goods, and political news. What you'll see: harbours, barges, warehouses, sailors, cosmopolitan streets, and wealth arriving by ship as much as by land.",
+      "icon": "⛵"
+    },
+    {
+      "label": "scribes and scholars guarding written knowledge",
+      "description": "Power depends on people who can read, record, calculate, and interpret inherited learning, whether for the court, the temple, or the school. What you'll see: scrolls and codices, libraries and lecture halls, scribal work, diagrams of the heavens, and arguments over who may preserve knowledge.",
+      "icon": "📜"
+    },
+    {
+      "label": "households ordered by rank and dependence",
+      "description": "Daily life is steeply hierarchical, with nobles, officials, servants, slaves, and dependants bound together in unequal households and patronage ties. What you'll see: attendants waiting on elites, masters issuing commands, domestic labour, guarded entrances, and deference built into ordinary speech and movement.",
+      "icon": "🧎"
+    },
+    {
+      "label": "desert roads linking oases and capitals",
+      "description": "Travel, war, and trade must cross difficult dry country, making wells, caravan paths, and frontier strongholds vital to rule. What you'll see: long marches under sun, camels and pack animals, tents, rocky wastes, and settlements clinging to water and shade.",
+      "icon": "🐪"
+    },
+    {
+      "label": "public authority enforced by armed might",
+      "description": "Rulers hold their realms through organised soldiers, chariots or fleets, garrisons, and exemplary punishment against rebels and rivals. What you'll see: ranks of troops, armour and standards, fortress walls, military reviews, and violence used as a lesson in obedience.",
+      "icon": "🛡️"
+    }
+  ]
+}

@@ -1,0 +1,133 @@
+[
+  {
+    "movie_id": 22787,
+    "movie_idx": 4957,
+    "imdb_id": "tt0365929",
+    "title": "Whiteout",
+    "production_year": "2009",
+    "genre": "Action, Crime, Mystery",
+    "plot": "U.S. Marshal Carrie Stetko is three days from the end of her tour at an international research station in Antarctica after which she'll resign. An incident from her past haunts her. The continent's first winter storm is coming when a body, wearing no gear, is discovered in the tundra. She investigates, soon finds more bodies, and must find a motive and a murderer before the storm and her departure. A U.N. agent, Robert Pryce, appears, seemingly out of nowhere, to help. An aging physician about to retire, a nervous mission chief, a downed Soviet plane, and the weather's deadly elements add to the story. Can Carrie trust Pryce and does she still have what it takes?",
+    "runtime": "101 min",
+    "director": "Dominic Sena",
+    "actors": "Kate Beckinsale, Gabriel Macht, Tom Skerritt",
+    "production_country": "United States, Canada, France",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTg5NDczMTQ4M15BMl5BanBnXkFtZTcwNzE4MjI4Mg@@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/22787.webp",
+    "imdb_rating": "5.5",
+    "imdb_votes": "42,104",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Whiteout_(2009_film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/22787.txt",
+    "plot_year_start": 1957,
+    "plot_year_end": 1957,
+    "epoch": "early-cold-war-era",
+    "action_countries": [
+      "AQ"
+    ],
+    "action_continents": [
+      "Antarctica"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "international claims and uneasy cooperation",
+        "description": "Antarctica is a place where several nations seek standing, yet practical survival forces scientists, officials, and visitors from rival countries into close quarters. What you'll see: mixed crews, foreign insignia, formal introductions, guarded exchanges, and shared facilities used by people who do not fully trust one another.",
+        "icon": "🤝"
+      },
+      {
+        "label": "cold war rivalries reaching the polar ice",
+        "description": "Even at the end of the earth, the wider contest between East and West shapes suspicions, intelligence work, and the reading of every unexplained event. What you'll see: Soviet traces, U.N. figures, sealed information, tense questioning, and small signs that scientific ground also carries political weight.",
+        "icon": "🕵️"
+      }
+    ]
+  },
+  {
+    "movie_id": 320846,
+    "movie_idx": 8976,
+    "imdb_id": "tt3977848",
+    "title": "Sky Sharks",
+    "production_year": "2020",
+    "genre": "Comedy, Horror, Sci-Fi",
+    "plot": "Deep in the ice of the antarctic, a team of geologists uncover an old Nazi laboratory still intact where dark experiments had occurred. In order to conquer the world, the Nazis created modified sharks who were able to fly and whose riders are genetically mutated, undead super-humans. A military task force called \"Dead Flesh Four\" - reanimated US soldiers who fell in Vietnam - is put together to prevent world downfall.",
+    "runtime": "102 min",
+    "director": "Marc Fehse",
+    "actors": "Yan Birch, Eva Habermann, Barbara Nedeljakova",
+    "production_country": "Germany",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZGU0ZDVjMDQtZmQ4Yi00N2ZiLWFkZmQtOTg2MWE0ZjI3MjExXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/320846.webp",
+    "imdb_rating": "3.6",
+    "imdb_votes": "2,036",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Sky_Sharks",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/320846.txt",
+    "plot_year_start": 1945,
+    "plot_year_end": 1975,
+    "epoch": "early-cold-war-era",
+    "action_countries": [
+      "AQ",
+      "US"
+    ],
+    "action_continents": [
+      "Antarctica",
+      "North America"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "science work overshadowed by harsh elements",
+        "description": "The continent is entered in the name of research and observation, yet the labor of keeping bodies warm and machinery running often outweighs lofty scientific purpose. What you'll see: laboratories beside utility rooms, weather instruments, doctors and mechanics as essential figures, and research interrupted by storms, injuries, and breakdowns.",
+        "icon": "🔬"
+      }
+    ]
+  },
+  {
+    "movie_id": 22076,
+    "movie_idx": 9681,
+    "imdb_id": "tt0327409",
+    "title": "Alien Hunter",
+    "production_year": "2003",
+    "genre": "Action, Adventure, Sci-Fi",
+    "plot": "In 1947, in New Mexico, a radio operator receives a signal following regular patterns. While investigating the occurrence, he vanishes. In the present day, the same signal is transmitted from a base in the Falkland Islands to United States of America and a satellite captures images of a unknown object in Antartic. The cryptologist Julien Rome (James Spader) is invited to investigate the mystery in the South Pole and he flies to a research base. While a team tries to open a weird shell probably from the outer space, Julien solves the message, which proves to be a distress signal ordering not to open the case.",
+    "runtime": "92 min",
+    "director": "Ron Krauss",
+    "actors": "James Spader, Janine Eser, John Lynch",
+    "production_country": "United States, Bulgaria",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNzZiZDY2MWEtNjM5NC00M2ExLWJiYjEtNjQ0NDRkYzIwNmYyXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/22076.webp",
+    "imdb_rating": "5.1",
+    "imdb_votes": "5,158",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Alien_Hunter",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/22076.txt",
+    "plot_year_start": 1947,
+    "plot_year_end": 1947,
+    "epoch": "early-cold-war-era",
+    "action_countries": [
+      "AQ",
+      "US",
+      "AR",
+      "FK",
+      "RU"
+    ],
+    "action_continents": [
+      "Antarctica",
+      "North America",
+      "South America",
+      "South America",
+      "Europe"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "science work overshadowed by harsh elements",
+        "description": "The continent is entered in the name of research and observation, yet the labor of keeping bodies warm and machinery running often outweighs lofty scientific purpose. What you'll see: laboratories beside utility rooms, weather instruments, doctors and mechanics as essential figures, and research interrupted by storms, injuries, and breakdowns.",
+        "icon": "🔬"
+      },
+      {
+        "label": "winter darkness cutting people off",
+        "description": "The Antarctic season can shut down travel and rescue for long stretches, turning distance and weather into the first law of the place. What you'll see: white horizons, blizzards swallowing tracks, boarded windows, emergency routines, and the sense that help is days away or impossible.",
+        "icon": "🌨️"
+      }
+    ]
+  }
+]

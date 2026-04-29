@@ -1,0 +1,501 @@
+[
+  {
+    "movie_id": 8810,
+    "movie_idx": 937,
+    "imdb_id": "tt26094842",
+    "title": "Mad Max 2: The Road Warrior (1981)",
+    "production_year": "1981",
+    "genre": "Talk-Show",
+    "plot": "N/A",
+    "runtime": "81 min",
+    "director": "N/A",
+    "actors": "Dick Ebert, Roger Roeper",
+    "production_country": "N/A",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNjU0ZjY3MGQtMDc5YS00NGEyLWI2MGEtOTM4YWQ4OWZlYjFhXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/8810.webp",
+    "imdb_rating": "N/A",
+    "imdb_votes": "N/A",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Mad_Max_2",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/8810.txt",
+    "epoch": "Unanchored Time",
+    "action_countries": [
+      "AU"
+    ],
+    "action_continents": [
+      "Oceania"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Mad Max",
+    "categories": [
+      {
+        "label": "the interior as a harsh margin",
+        "description": "Away from the coast, the inland country appears as a hard place where heat, dust, and thin settlement strip life down to bare needs. What you'll see: scorched plains, corrugated buildings, flies, scarce supplies, rough encampments, and settlements that feel temporary or half-abandoned.",
+        "icon": "🏜️"
+      },
+      {
+        "label": "vast distances ruled by the road",
+        "description": "In Australia and its neighbouring islands, towns and households are often separated by long stretches of country, so movement depends on endurance, fuel, and vehicles. What you'll see: highways cutting through empty land, long drives between settlements, roadside stops, and cars treated as necessities rather than luxuries.",
+        "icon": "🛣️"
+      }
+    ],
+    "failures": {
+      "time_range": "unanchored"
+    }
+  },
+  {
+    "movie_id": 9355,
+    "movie_idx": 2309,
+    "imdb_id": "tt0089530",
+    "title": "Mad Max Beyond Thunderdome",
+    "production_year": "1985",
+    "genre": "Action, Adventure, Sci-Fi",
+    "plot": "Left for dead in the unforgiving deserts of post-nuclear Australia, after defeating Lord Humungus' barbarian horde of bikers in Mad Max 2 (1981), the former officer of the tough Main Force Patrol, Max Rockatansky, happens upon Bartertown: the remote market-town outpost in the middle of the dry Wasteland, and the realm of the autocratic Queen Aunty Entity. There, a lethal challenge awaits Max, who, in return for his freedom and provisions, must engage in a bloody match to the death with the grotesque symbiotic being, the Master/Blaster. However, an unforeseen complication after the brutal fight in the stronghold's combat arena, The Thunderdome, will banish, once more, Max into the vast wilderness, only to discover the peaceful haven of The Lost Tribe: a community of marooned children who survive on their own, waiting for the arrival of the legendary Captain Walker. Is \"Mad\" Max, indeed, their saviour? Can he overthrow Bartertown's ruthless tyrant?",
+    "runtime": "107 min",
+    "director": "George Miller, George Ogilvie",
+    "actors": "Mel Gibson, Tina Turner, Bruce Spence",
+    "production_country": "Australia",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTNkOGZjMGMtNDI4Zi00ZDBjLWJhY2UtMzA2YWI1ZGI5OWVhXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/9355.webp",
+    "imdb_rating": "6.2",
+    "imdb_votes": "161,164",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Mad_Max_Beyond_Thunderdome",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/9355.txt",
+    "epoch": "Unanchored Time",
+    "action_countries": [
+      "AU"
+    ],
+    "action_continents": [
+      "Oceania"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "the interior as a harsh margin",
+        "description": "Away from the coast, the inland country appears as a hard place where heat, dust, and thin settlement strip life down to bare needs. What you'll see: scorched plains, corrugated buildings, flies, scarce supplies, rough encampments, and settlements that feel temporary or half-abandoned.",
+        "icon": "🏜️"
+      },
+      {
+        "label": "wealth and precarity living side by side",
+        "description": "The region can present comfort and beauty while also exposing sharp differences in who has security, who has property, and who can easily fall away from both. What you'll see: polished schools and beach homes set against shabby rooms, cash worries, casual work, and people living close to the edge.",
+        "icon": "🏚️"
+      }
+    ],
+    "failures": {
+      "time_range": "unanchored"
+    }
+  },
+  {
+    "movie_id": 242224,
+    "movie_idx": 3486,
+    "imdb_id": "tt2321549",
+    "title": "The Babadook",
+    "production_year": "2014",
+    "genre": "Drama, Horror, Mystery",
+    "plot": "Amelia, who lost her husband in a car crash on the way to give birth to Samuel, their only child, struggles to cope with her fate as a single mom. Samuel's constant fear of monsters and violent reaction to overcome the fear doesn't help her cause either, which makes her friends become distant. When things can not get any worse, they read a strange book in their house about the 'Babadook' monster that hides in the dark areas of their house. Even Amelia seems to feel the effect of Babadook and desperately tries in vain to destroy the book. The nightmarish experiences the two encounter form the rest of the story.",
+    "runtime": "94 min",
+    "director": "Jennifer Kent",
+    "actors": "Essie Davis, Noah Wiseman, Daniel Henshall",
+    "production_country": "Australia, Canada",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTk0NzMzODc2NF5BMl5BanBnXkFtZTgwOTYzNTM1MzE@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/242224.webp",
+    "imdb_rating": "6.8",
+    "imdb_votes": "265,823",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Babadook",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/242224.txt",
+    "epoch": "Unanchored Time",
+    "action_countries": [
+      "AU"
+    ],
+    "action_continents": [
+      "Oceania"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "old beliefs lingering inside modern rooms",
+        "description": "Even in plainly modern surroundings, older habits of superstition, haunting, and ghostly talk remain available ways of naming fear and misfortune. What you'll see: ominous children's tales, séances and spirit talk, dark corners of the house, and ordinary rooms charged with dread.",
+        "icon": "👻"
+      }
+    ],
+    "failures": {
+      "time_range": "unanchored"
+    }
+  },
+  {
+    "movie_id": 111190,
+    "movie_idx": 4402,
+    "imdb_id": "tt2103267",
+    "title": "Adore",
+    "production_year": "2013",
+    "genre": "Drama, Romance",
+    "plot": "Lil (Naomi Watts) and Roz (Robin Wright) are two lifelong friends, having grown up together as neighbors in an idyllic beach town. As adults, their sons have developed a friendship as strong as that which binds their mothers. One summer, all four are confronted by simmering emotions that have been mounting between them, and each find unexpected happiness in relationships that cross the bounds of convention.",
+    "runtime": "112 min",
+    "director": "Anne Fontaine",
+    "actors": "Naomi Watts, Robin Wright, Xavier Samuel",
+    "production_country": "Australia, France",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYmZkYjI1YzctMjYzMS00Y2VjLTg3N2UtZTEzYmRlZDQ2YTMzXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/111190.webp",
+    "imdb_rating": "6.2",
+    "imdb_votes": "38,112",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Adoration_(2013_film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/111190.txt",
+    "epoch": "Unanchored Time",
+    "action_countries": [
+      "AU"
+    ],
+    "action_continents": [
+      "Oceania"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "coastal towns shaped by sea and sun",
+        "description": "Much settled life gathers near the shore, where climate, leisure, and neighbourly familiarity give daily life a distinctly coastal cast. What you'll see: beach houses, bright verandas, salt-worn streets, swimming, surf, and social worlds organised around the water's edge.",
+        "icon": "🏖️"
+      }
+    ],
+    "failures": {
+      "time_range": "unanchored"
+    }
+  },
+  {
+    "movie_id": 406994,
+    "movie_idx": 5261,
+    "imdb_id": "tt6278764",
+    "title": "Red Christmas: Making 'Better Watch Out'",
+    "production_year": "2017",
+    "genre": "Documentary",
+    "plot": "Behind the scenes documentary on the making of the film Better Watch Out (2016).",
+    "runtime": "56 min",
+    "director": "Dan Berghofer",
+    "actors": "Chris Peckover, Brion Hambel, Paul Jensen",
+    "production_country": "Australia",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNDM1MjNhNWEtY2Q3Ni00ZTI1LTlhZjEtYjViZDE1ODY1MTJmL2ltYWdlXkEyXkFqcGdeQXVyMjQxNjkyODk@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/406994.webp",
+    "imdb_rating": "7.0",
+    "imdb_votes": "13",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Better_Watch_Out",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/406994.txt",
+    "epoch": "Unanchored Time",
+    "action_countries": [
+      "AU"
+    ],
+    "action_continents": [
+      "Oceania"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "suburban homes hiding strain and solitude",
+        "description": "Ordinary domestic life often unfolds in detached houses where privacy is prized, but that same privacy can leave families isolated inside their troubles. What you'll see: quiet cul-de-sacs, cramped kitchens, children's bedrooms, back gardens, and tense silences behind tidy doors.",
+        "icon": "🏠"
+      }
+    ],
+    "failures": {
+      "time_range": "unanchored"
+    }
+  },
+  {
+    "movie_id": 118957,
+    "movie_idx": 5491,
+    "imdb_id": "tt1438173",
+    "title": "Bait",
+    "production_year": "2012",
+    "genre": "Action, Fantasy, Horror",
+    "plot": "A group of people get trapped in a supermarket after a tsunami hits the coast of Queensland, Australia. But they soon find out that they have more to worry about than being in a flooded grocery store - there are 12 foot sharks swimming around them, and they're hungry.",
+    "runtime": "93 min",
+    "director": "Kimble Rendall",
+    "actors": "Xavier Samuel, Sharni Vinson, Adrian Pang",
+    "production_country": "Australia, Singapore, China",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTYzNjU4NTc5MV5BMl5BanBnXkFtZTcwNDE0NzAzOA@@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/118957.webp",
+    "imdb_rating": "5.2",
+    "imdb_votes": "20,734",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Bait_3D",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/118957.txt",
+    "epoch": "Unanchored Time",
+    "action_countries": [
+      "AU"
+    ],
+    "action_continents": [
+      "Oceania"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "coastal towns shaped by sea and sun",
+        "description": "Much settled life gathers near the shore, where climate, leisure, and neighbourly familiarity give daily life a distinctly coastal cast. What you'll see: beach houses, bright verandas, salt-worn streets, swimming, surf, and social worlds organised around the water's edge.",
+        "icon": "🏖️"
+      },
+      {
+        "label": "wealth and precarity living side by side",
+        "description": "The region can present comfort and beauty while also exposing sharp differences in who has security, who has property, and who can easily fall away from both. What you'll see: polished schools and beach homes set against shabby rooms, cash worries, casual work, and people living close to the edge.",
+        "icon": "🏚️"
+      }
+    ],
+    "failures": {
+      "time_range": "unanchored"
+    }
+  },
+  {
+    "movie_id": 539537,
+    "movie_idx": 7325,
+    "imdb_id": "tt0983946",
+    "title": "Fantasy Island",
+    "production_year": "2020",
+    "genre": "Fantasy, Horror, Mystery",
+    "plot": "The enigmatic Mr. Roarke makes the secret dreams of his lucky guests come true at a luxurious but remote tropical resort. But when the fantasies turn into nightmares, the guests have to solve the island's mystery in order to escape with their lives.",
+    "runtime": "109 min",
+    "director": "Jeff Wadlow",
+    "actors": "Michael Peña, Maggie Q, Lucy Hale",
+    "production_country": "United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjhiNGM2NGQtNDlkNi00NTg4LWFlNTctMTE0ODNlOWY3NWI5XkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/539537.webp",
+    "imdb_rating": "4.9",
+    "imdb_votes": "63,445",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Fantasy_Island_(film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/539537.txt",
+    "epoch": "Unanchored Time",
+    "action_countries": [
+      "FJ",
+      "US",
+      "UNKNOWN"
+    ],
+    "action_continents": [
+      "Oceania",
+      "North America",
+      "UNKNOWN"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "coastal towns shaped by sea and sun",
+        "description": "Much settled life gathers near the shore, where climate, leisure, and neighbourly familiarity give daily life a distinctly coastal cast. What you'll see: beach houses, bright verandas, salt-worn streets, swimming, surf, and social worlds organised around the water's edge.",
+        "icon": "🏖️"
+      }
+    ],
+    "failures": {
+      "time_range": "unanchored"
+    }
+  },
+  {
+    "movie_id": 157845,
+    "movie_idx": 7893,
+    "imdb_id": "tt2345737",
+    "title": "The Rover",
+    "production_year": "2014",
+    "genre": "Action, Crime, Drama",
+    "plot": "Ten years after a global economic collapse, a cold-blooded drifter traverses the scorched Australian outback on a mission to track down the men who stole his last remaining possession - his car. When he crosses paths with a badly wounded member of the gang, he takes the vulnerable, naïve young man along as his unwitting accomplice.",
+    "runtime": "103 min",
+    "director": "David Michôd",
+    "actors": "Guy Pearce, Robert Pattinson, Scoot McNairy",
+    "production_country": "Australia, United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjE4MTc1MzMxN15BMl5BanBnXkFtZTgwMzc4NDA4MTE@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/157845.webp",
+    "imdb_rating": "6.4",
+    "imdb_votes": "54,091",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Rover_(2014_film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/157845.txt",
+    "epoch": "Unanchored Time",
+    "action_countries": [
+      "AU"
+    ],
+    "action_continents": [
+      "Oceania"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "the interior as a harsh margin",
+        "description": "Away from the coast, the inland country appears as a hard place where heat, dust, and thin settlement strip life down to bare needs. What you'll see: scorched plains, corrugated buildings, flies, scarce supplies, rough encampments, and settlements that feel temporary or half-abandoned.",
+        "icon": "🏜️"
+      },
+      {
+        "label": "wealth and precarity living side by side",
+        "description": "The region can present comfort and beauty while also exposing sharp differences in who has security, who has property, and who can easily fall away from both. What you'll see: polished schools and beach homes set against shabby rooms, cash worries, casual work, and people living close to the edge.",
+        "icon": "🏚️"
+      }
+    ],
+    "failures": {
+      "time_range": "unanchored"
+    }
+  },
+  {
+    "movie_id": 515741,
+    "movie_idx": 7986,
+    "imdb_id": "tt7058080",
+    "title": "Angel of Mine",
+    "production_year": "2019",
+    "genre": "Drama, Mystery, Thriller",
+    "plot": "A woman grieving over the death of her daughter loses grip of reality when she begins to think her girl may still be alive.",
+    "runtime": "98 min",
+    "director": "Kim Farrant",
+    "actors": "Noomi Rapace, Rebecca Bower, Luke Evans",
+    "production_country": "Australia, United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMWQ1MmNiOTYtMGU0NS00NmVjLWE0NWEtNjliNTkyMGYyYTE4XkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/515741.webp",
+    "imdb_rating": "6.4",
+    "imdb_votes": "12,992",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Angel_of_Mine_(film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/515741.txt",
+    "epoch": "Unanchored Time",
+    "action_countries": [
+      "AU"
+    ],
+    "action_continents": [
+      "Oceania"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "suburban homes hiding strain and solitude",
+        "description": "Ordinary domestic life often unfolds in detached houses where privacy is prized, but that same privacy can leave families isolated inside their troubles. What you'll see: quiet cul-de-sacs, cramped kitchens, children's bedrooms, back gardens, and tense silences behind tidy doors.",
+        "icon": "🏠"
+      }
+    ],
+    "failures": {
+      "time_range": "unanchored"
+    }
+  },
+  {
+    "movie_id": 429417,
+    "movie_idx": 8723,
+    "imdb_id": "tt8517292",
+    "title": "The Blake Mysteries: Ghost Stories",
+    "production_year": "2018",
+    "genre": "Crime, Drama, Mystery",
+    "plot": "Jean Blake is drawn into the investigation of several bizarre murders whose only connection seems to be a series of articles recently published in The Courier about Ballarat's most infamous...",
+    "runtime": "84 min",
+    "director": "Ian Barry",
+    "actors": "Nadine Garner, Joel Tobeck, Belinda McClory, David Whiteley",
+    "production_country": "Australia",
+    "poster": "https://m.media-amazon.com/images/M/MV5BOWY5MjRhNTQtYzMwMC00MTk2LWExYWEtNTU2NjBlOTI2YTM5XkEyXkFqcGdeQXVyMjU3MzkzMzA@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/429417.webp",
+    "imdb_rating": "7.4",
+    "imdb_votes": "403",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Ghost_Stories_(2017_film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/429417.txt",
+    "epoch": "Unanchored Time",
+    "action_countries": [
+      "AU",
+      "GB"
+    ],
+    "action_continents": [
+      "Oceania",
+      "Europe"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "old beliefs lingering inside modern rooms",
+        "description": "Even in plainly modern surroundings, older habits of superstition, haunting, and ghostly talk remain available ways of naming fear and misfortune. What you'll see: ominous children's tales, séances and spirit talk, dark corners of the house, and ordinary rooms charged with dread.",
+        "icon": "👻"
+      },
+      {
+        "label": "British inheritances lingering in public life",
+        "description": "Many institutions still bear the marks of British settlement, from law and policing to schooling, newspapers, and everyday speech. What you'll see: uniforms and formal manners, courtly procedures, local papers, inherited civic rituals, and streetscapes shaped by colonial habits.",
+        "icon": "⚖️"
+      }
+    ],
+    "failures": {
+      "time_range": "unanchored"
+    }
+  },
+  {
+    "movie_id": 455714,
+    "movie_idx": 9075,
+    "imdb_id": "tt6788942",
+    "title": "Bad Genius",
+    "production_year": "2017",
+    "genre": "Comedy, Crime, Drama",
+    "plot": "Lynn, a genius high school student who makes money by helping others cheat tests, receives a new task that leads her to Sydney, Australia. In order to complete the millions-Baht task, Lynn and her classmate have to finish the international STIC (SAT) exam and deliver the answers back to her friends in Thailand, before the exam takes place once again in her home country.",
+    "runtime": "130 min",
+    "director": "Baz Poonpiriya",
+    "actors": "Chutimon Chuengcharoensukying, Eisaya Hosuwan, Teeradon Supapunpinyo",
+    "production_country": "Thailand",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjJhNTYxOGUtYWQxMS00YjYwLWFmMWItOWViN2QyZmZhNDM3XkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/455714.webp",
+    "imdb_rating": "7.6",
+    "imdb_votes": "24,998",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Bad_Genius",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/455714.txt",
+    "epoch": "Unanchored Time",
+    "action_countries": [
+      "AU",
+      "TH"
+    ],
+    "action_continents": [
+      "Oceania",
+      "Asia"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "school success treated as social ladder",
+        "description": "Formal education carries the promise of advancement, making exams, rankings, and school reputation powerful forces in young people's lives. What you'll see: uniforms, classrooms, coaching, test papers, anxious parents, and achievement measured through competitive scores.",
+        "icon": "🎓"
+      },
+      {
+        "label": "asia-pacific links crossing everyday Australia",
+        "description": "Australia sits within a wider region of travel, migration, study, and exchange, so nearby Asian connections can shape ordinary opportunity and ambition. What you'll see: international students, airports, exam circuits, mixed accents, cross-border money hopes, and Sydney as a regional waypoint.",
+        "icon": "✈️"
+      }
+    ],
+    "failures": {
+      "time_range": "unanchored"
+    }
+  },
+  {
+    "movie_id": 425972,
+    "movie_idx": 9461,
+    "imdb_id": "tt3860916",
+    "title": "Cargo",
+    "production_year": "2017",
+    "genre": "Drama, Horror, Sci-Fi",
+    "plot": "In a desperate bid to outrun a violent pandemic, Andy and Kay have holed up on a houseboat with their one-year-old daughter, Rosie. Their protected river existence is shattered by a violent attack, which sees Kay tragically die and Andy infected. Left with only 48 hours before he transforms into one of the creatures they have fought so long to evade, Andy sets out on a precarious journey to find a new guardian for his child. A flourishing Aboriginal tribe are Rosie's best chance of survival - but with their merciless attitude toward the afflicted, they also pose a grave threat. A young Indigenous girl becomes Andy's only chance of safe passage into this sacred community. But unfortunately the girl has no desire to return to her people - she is on a quest to cure her own infected father by returning his stolen soul. Each in their own way is seeking salvation... but they will need to work together if they hope to achieve it.",
+    "runtime": "105 min",
+    "director": "Ben Howling, Yolanda Ramke",
+    "actors": "Simone Landers, Martin Freeman, Marlee Jane McPherson-Dobbins",
+    "production_country": "Australia, United States, United Arab Emirates, United Kingdom",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNTE2MTg0NWQtNDgxZS00NWUxLWEyMzYtNDNjMzQwNzVhMGZhXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/425972.webp",
+    "imdb_rating": "6.3",
+    "imdb_votes": "51,929",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Cargo_(2017_film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/425972.txt",
+    "epoch": "Unanchored Time",
+    "action_countries": [
+      "AU"
+    ],
+    "action_continents": [
+      "Oceania"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "the interior as a harsh margin",
+        "description": "Away from the coast, the inland country appears as a hard place where heat, dust, and thin settlement strip life down to bare needs. What you'll see: scorched plains, corrugated buildings, flies, scarce supplies, rough encampments, and settlements that feel temporary or half-abandoned.",
+        "icon": "🏜️"
+      },
+      {
+        "label": "small communities watch one another closely",
+        "description": "Whether in suburbs, beach towns, or provincial centres, social life often runs through circles where neighbours know family histories and gossip travels quickly. What you'll see: familiar faces at local gatherings, reputations that stick, scrutiny from friends and townsfolk, and private matters becoming common knowledge.",
+        "icon": "👀"
+      }
+    ],
+    "failures": {
+      "time_range": "unanchored"
+    }
+  }
+]

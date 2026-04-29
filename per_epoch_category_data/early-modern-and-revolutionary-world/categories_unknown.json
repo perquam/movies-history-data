@@ -1,0 +1,83 @@
+{
+  "epoch": "early-modern-and-revolutionary-world",
+  "continent": "unknown",
+  "sample_size": 3,
+  "sample": [
+    {
+      "title": "Pirates of the Caribbean: Tales of the Code: Wedlocked",
+      "years": "1720..1720",
+      "countries": [
+        "UNKNOWN"
+      ],
+      "plot": "In this short prequel to the first Pirates of the Caribbean movie, two feisty brides-to-be discover that they have something in common - the absent groom. Still, there are plenty of pirates who'd love to trade their goats for 'em."
+    },
+    {
+      "title": "House of Usher",
+      "years": "1800..1800",
+      "countries": [
+        "UNKNOWN"
+      ],
+      "plot": "Philip Winthrop calls upon his fiancée, Madeline Usher, at her family home. His presence is unwelcome, especially to Madeline's brother, Roderick. Roderick explains that the Ushers are cursed, suffering from hereditary physical defects. By Madeline marrying Winthrop this would only likely continue the affliction. It soon becomes clear that something sinister is afoot: not only due to Roderick's determination to prevent Madeline from leaving but also due to the evil that seems to lurk in the house itself."
+    },
+    {
+      "title": "Sleeping Beauties",
+      "years": "1600..1600",
+      "countries": [
+        "UNKNOWN"
+      ],
+      "plot": "Awakened from a curse, Sleeping Beauty marvels at the wonders of the new century. She falls in love with a famous architect who is working to restore the castle she once lived in, but finds there are enemies plotting against her. Giving in to her long pent-up sexual desires, Beauty cannot resist the lustful advances of both men and women and after 400 years."
+    }
+  ],
+  "categories": [
+    {
+      "label": "rank and birth shaping every match",
+      "description": "Marriage, inheritance, and family alliance are governed by rank and blood, with households treating love as secondary to lineage and property. What you'll see: arranged unions, anxious talk of suitable names, guardians bargaining over futures, and households guarding their standing.",
+      "icon": "💍"
+    },
+    {
+      "label": "great houses ruling from old estates",
+      "description": "Power sits in manor houses, castles, and family seats where a single lineage holds land, dependants, and local authority across generations. What you'll see: decaying halls, locked chambers, servants moving through ancestral rooms, and family business conducted under one roof.",
+      "icon": "🏰"
+    },
+    {
+      "label": "seafaring routes tying ports together",
+      "description": "Sea travel carries people, goods, and news between distant shores, making harbours into crossroads of commerce, danger, and sudden fortune. What you'll see: crowded docks, taverns near the quay, rough bargaining over passage, and lives turned by the arrival of a ship.",
+      "icon": "⛵"
+    },
+    {
+      "label": "piracy and private violence at sea",
+      "description": "On the water, weak policing and rival crowns leave room for raiders, smugglers, and armed crews to live by plunder and intimidation. What you'll see: cutlasses, stolen cargo, threats over rum or provisions, and coastal settlements living with lawless mariners nearby.",
+      "icon": "🏴‍☠️"
+    },
+    {
+      "label": "church rites marking the life course",
+      "description": "Public life is ordered by Christian ceremony, with weddings, burials, oaths, and moral expectations carrying both sacred and social weight. What you'll see: chapel interiors, clergy or prayer books, formal vows, fears of sin, and family honour tied to proper observance.",
+      "icon": "⛪"
+    },
+    {
+      "label": "curses and omens taken seriously",
+      "description": "Alongside formal religion, people accept inherited curses, evil influences, and signs from the unseen as real forces in daily life. What you'll see: ominous family legends, dread around bloodlines, fearful reactions to strange events, and houses treated as burdened by fate.",
+      "icon": "🕯️"
+    },
+    {
+      "label": "women's futures constrained by guardians",
+      "description": "A woman's household, marriage, and reputation are often managed by fathers, brothers, or other male protectors who claim authority over her choices. What you'll see: chaperonage, disputes over who may marry whom, confinement within the home, and scandal attached to female desire.",
+      "icon": "🔒"
+    },
+    {
+      "label": "inheritance passing through blood and title",
+      "description": "Property and standing move through family succession, making questions of legitimate heirs and damaged lineage matters of urgent concern. What you'll see: wills, anxious siblings, talk of family names continuing or failing, and estates treated as inseparable from the bloodline.",
+      "icon": "📜"
+    },
+    {
+      "label": "craftsmen remaking old noble places",
+      "description": "By this age, older castles and ancestral buildings are often repaired, embellished, or repurposed by skilled builders serving wealth and taste. What you'll see: masons and architects at work, restoration of ancient rooms, old stone beside newer fashions, and noble residences as living projects.",
+      "icon": "🧱"
+    },
+    {
+      "label": "daily life divided between splendour and want",
+      "description": "The age places fine dress, ceremony, and privilege beside coarse labour, barter, and hard survival, with status visible in every room and garment. What you'll see: silks beside rough cloth, servants and gentlefolk sharing a household unequally, livestock or provisions traded plainly, and comfort reserved for the well-born.",
+      "icon": "👗"
+    }
+  ]
+}

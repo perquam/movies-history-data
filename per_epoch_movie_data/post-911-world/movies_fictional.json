@@ -1,0 +1,1143 @@
+[
+  {
+    "movie_id": 10192,
+    "movie_idx": 391,
+    "imdb_id": "tt0892791",
+    "title": "Shrek Forever After",
+    "production_year": "2010",
+    "genre": "Animation, Adventure, Comedy",
+    "plot": "The once hideous ogre Shrek (Mike Myers) is now living a good life with wife Fiona (Cameron Diaz) and his three children. But he soon has a meltdown in front of them and his friends during his kids' birthday party. He suddenly wants to be a real ogre like he was before he ever met Fiona. So he turns to devious dealmaker Rumpelstiltskin (Walt Dohrn) for help. At first, Shrek lives the life he once lost and everything is good. But he soon finds out that he has been set up by Rumpelstiltskin, who now rules the land with an iron fist. Teaming with friends Donkey (Eddie Murphy), Fiona, and Puss in Boots (Antonio Banderas), Shrek is in for the fight of his life as he tries to get his life back before time runs out.",
+    "runtime": "93 min",
+    "director": "Mike Mitchell",
+    "actors": "Mike Myers, Cameron Diaz, Eddie Murphy",
+    "production_country": "United States, France",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTY0OTU1NzkxMl5BMl5BanBnXkFtZTcwMzI2NDUzMw@@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/10192.webp",
+    "imdb_rating": "6.3",
+    "imdb_votes": "243,636",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Shrek_Forever_After",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/10192.txt",
+    "plot_year_start": 2010,
+    "plot_year_end": 2010,
+    "epoch": "post-911-world",
+    "action_countries": [
+      "FICTIONAL"
+    ],
+    "action_continents": [
+      "FICTIONAL"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "failures": {
+      "categories": "missing_category_list"
+    }
+  },
+  {
+    "movie_id": 284054,
+    "movie_idx": 489,
+    "imdb_id": "tt1825683",
+    "title": "Black Panther",
+    "production_year": "2018",
+    "genre": "Action, Adventure, Sci-Fi",
+    "plot": "After the events of Captain America: Civil War, Prince T'Challa returns home to the reclusive, technologically advanced African nation of Wakanda to serve as his country's new king. However, T'Challa soon finds that he is challenged for the throne from factions within his own country. When two foes conspire to destroy Wakanda, the hero known as Black Panther must team up with C.I.A. agent Everett K. Ross and members of the Dora Milaje, Wakandan special forces, to prevent Wakanda from being dragged into a world war.",
+    "runtime": "134 min",
+    "director": "Ryan Coogler",
+    "actors": "Chadwick Boseman, Michael B. Jordan, Lupita Nyong'o",
+    "production_country": "United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTg1MTY2MjYzNV5BMl5BanBnXkFtZTgwMTc4NTMwNDI@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/284054.webp",
+    "imdb_rating": "7.3",
+    "imdb_votes": "900,774",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Black_Panther_(film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/284054.txt",
+    "plot_year_start": 1992,
+    "plot_year_end": 2016,
+    "epoch": "post-911-world",
+    "action_countries": [
+      "FICTIONAL",
+      "KR",
+      "US"
+    ],
+    "action_continents": [
+      "FICTIONAL",
+      "Asia",
+      "North America"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Marvel Cinematic Universe",
+    "failures": {
+      "categories": "missing_category_list"
+    }
+  },
+  {
+    "movie_id": 62211,
+    "movie_idx": 587,
+    "imdb_id": "tt1453405",
+    "title": "Monsters University",
+    "production_year": "2013",
+    "genre": "Animation, Adventure, Comedy",
+    "plot": "Mike Wazowski (Billy Crystal) and James P. \"Sully\" Sullivan (John Goodman) are an inseparable pair, but that wasn't always the case. From the moment these two mismatched monsters met, they couldn't stand each other. This movie unlocks the door to how Mike and Sully overcame their differences and became the best of friends.",
+    "runtime": "104 min",
+    "director": "Dan Scanlon",
+    "actors": "Billy Crystal, John Goodman, Steve Buscemi",
+    "production_country": "United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTUyODgwMDU3M15BMl5BanBnXkFtZTcwOTM4MjcxOQ@@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/62211.webp",
+    "imdb_rating": "7.2",
+    "imdb_votes": "421,121",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Monsters_University",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/62211.txt",
+    "plot_year_start": 2010,
+    "plot_year_end": 2013,
+    "epoch": "post-911-world",
+    "action_countries": [
+      "FICTIONAL"
+    ],
+    "action_continents": [
+      "FICTIONAL"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "failures": {
+      "categories": "missing_category_list"
+    }
+  },
+  {
+    "movie_id": 76338,
+    "movie_idx": 633,
+    "imdb_id": "tt1981115",
+    "title": "Thor: The Dark World",
+    "production_year": "2013",
+    "genre": "Action, Adventure, Fantasy",
+    "plot": "Thousands of years ago, a race of beings known as Dark Elves tried to send the universe into darkness by using a weapon known as the Aether. Warriors from Asgard stopped them, but their leader Malekith (Christopher Eccleston) escaped to wait for another opportunity. The warriors find the Aether, and since it cannot be destroyed, they try to hide it. In the present day, Jane Foster (Natalie Portman) awaits the return of Thor (Chris Hemsworth), although it has been two years since they last saw once another. In the meantime, Thor has been trying to bring peace to the nine realms. Jane discovers an anomaly similar to the one that brought Thor to Earth. She goes to investigate, finds a wormhole, and is sucked into it. Back on Asgard, Thor wishes to return to Earth, but his father, Odin (Sir Anthony Hopkins), refuses to let him. Thor learns from Heimdall (Idris Elba), who can see into all of the realms, that Jane disappeared. Thor then returns to Earth just as Jane reappears. However, when some Policemen try to arrest her, an unknown energy repulses them. Thor then brings Jane to Asgard to find out what happened to her. When the energy is released again, they discover that when Jane disappeared, she crossed paths with the Aether and it entered her. Malekith, upon sensing that the time to strike is now, seeks out the Aether. He attacks Asgard and Thor's mother Frigga (Rene Russo) is killed protecting Jane. Odin wants to keep Jane on Asgard so that Malekith will come. Thor disagrees with his plan, so with his cohorts, he decides to take Jane away. He enlists the aid of his brother, Loki (Tom Hiddleston). Unfortunately, Loki's motivations remain unknown.",
+    "runtime": "112 min",
+    "director": "Alan Taylor",
+    "actors": "Chris Hemsworth, Natalie Portman, Tom Hiddleston",
+    "production_country": "United States, Iceland",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTQyNzAwOTUxOF5BMl5BanBnXkFtZTcwMTE0OTc5OQ@@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/76338.webp",
+    "imdb_rating": "6.7",
+    "imdb_votes": "771,012",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Thor:_The_Dark_World",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/76338.txt",
+    "plot_year_start": 2013,
+    "plot_year_end": 2013,
+    "epoch": "post-911-world",
+    "action_countries": [
+      "FICTIONAL",
+      "GB"
+    ],
+    "action_continents": [
+      "FICTIONAL",
+      "Europe"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Marvel Cinematic Universe",
+    "failures": {
+      "categories": "missing_category_list"
+    }
+  },
+  {
+    "movie_id": 400160,
+    "movie_idx": 882,
+    "imdb_id": "tt4823776",
+    "title": "The SpongeBob Movie: Sponge on the Run",
+    "production_year": "2020",
+    "genre": "Animation, Adventure, Comedy",
+    "plot": "When SpongeBob SquarePants's pet snail Gary gets kidnapped by Poseidon and taken to the Lost City of Atlantic City, he and his best friend Patrick Star must go on a rescue mission to save him from the dastardly plan of Poseidon before it is too late.",
+    "runtime": "91 min",
+    "director": "Tim Hill",
+    "actors": "Tim Hill, Clancy Brown, Bill Fagerbakke",
+    "production_country": "United States, Canada",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZTBiZDQ2MWEtYzE1MC00YmMyLTg1NjUtNzE2YTZlMjI3MGUxXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/400160.webp",
+    "imdb_rating": "5.9",
+    "imdb_votes": "25,365",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/The_SpongeBob_Movie:_Sponge_on_the_Run",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/400160.txt",
+    "plot_year_start": 1999,
+    "plot_year_end": 2021,
+    "epoch": "post-911-world",
+    "action_countries": [
+      "FICTIONAL"
+    ],
+    "action_continents": [
+      "FICTIONAL"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "failures": {
+      "categories": "missing_category_list"
+    }
+  },
+  {
+    "movie_id": 9637,
+    "movie_idx": 1169,
+    "imdb_id": "tt0267913",
+    "title": "Scooby-Doo",
+    "production_year": "2002",
+    "genre": "Adventure, Comedy, Family",
+    "plot": "The Mystery Inc. gang have gone their separate ways and have been apart for two years, until they each receive an invitation to Spooky Island. Not knowing that the others have also been invited, they show up and discover an amusement park that affects young visitors in very strange ways. Fred, Daphne, Velma, Shaggy and Scooby soon realize that they cannot solve this mystery without help from each other.",
+    "runtime": "86 min",
+    "director": "Raja Gosnell",
+    "actors": "Matthew Lillard, Freddie Prinze Jr., Sarah Michelle Gellar",
+    "production_country": "United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTg4MzMzMTY0OF5BMl5BanBnXkFtZTYwNzM3MTg2._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/9637.webp",
+    "imdb_rating": "5.4",
+    "imdb_votes": "138,973",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Scooby-Doo_(film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/9637.txt",
+    "plot_year_start": 2002,
+    "plot_year_end": 2002,
+    "epoch": "post-911-world",
+    "action_countries": [
+      "FICTIONAL"
+    ],
+    "action_continents": [
+      "FICTIONAL"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "failures": {
+      "categories": "missing_category_list"
+    }
+  },
+  {
+    "movie_id": 9928,
+    "movie_idx": 1312,
+    "imdb_id": "tt0358082",
+    "title": "Robots",
+    "production_year": "2005",
+    "genre": "Animation, Adventure, Comedy",
+    "plot": "Even in a world populated entirely by mechanical beings Rodney Copperbottom is considered a genius inventor. Rodney dreams of two things, making the world a better place and meeting his idol, the master inventor Bigweld. On his journey he encounters Cappy, a beautiful executive 'bot with whom Rodney is instantly smitten, the nefarious corporate tyrant Ratchet who locks horns with Rodney, and a group of misfit 'bots known as the Rusties, led by Fender and Piper Pinwheeler.",
+    "runtime": "91 min",
+    "director": "Chris Wedge, Carlos Saldanha",
+    "actors": "Ewan McGregor, Halle Berry, Mel Brooks",
+    "production_country": "United States, United Kingdom",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNDYyNjY1NjY1M15BMl5BanBnXkFtZTcwNjk5MDczMw@@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/9928.webp",
+    "imdb_rating": "6.4",
+    "imdb_votes": "173,700",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Robots_(2005_film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/9928.txt",
+    "plot_year_start": 2000,
+    "plot_year_end": 2005,
+    "epoch": "post-911-world",
+    "action_countries": [
+      "FICTIONAL"
+    ],
+    "action_continents": [
+      "FICTIONAL"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "failures": {
+      "categories": "missing_category_list"
+    }
+  },
+  {
+    "movie_id": 73456,
+    "movie_idx": 1475,
+    "imdb_id": "tt2066832",
+    "title": "Barbie: Princess Charm School",
+    "production_year": "2011",
+    "genre": "Animation, Family, Fantasy",
+    "plot": "Barbie stars as Blair, a kind-hearted girl who is chosen to attend Princess Charm School. In this magical place, she makes new friends and discovers that there's a princess in every girl!",
+    "runtime": "81 min",
+    "director": "Ezekiel Norton",
+    "actors": "Diana Kaarina, Morwenna Banks, Nicole Oliver, Brittney Wilson",
+    "production_country": "USA, Canada",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYjEyZjYzMGUtY2U3Yi00YzE2LThkZGItNWJlNDNlZDhhMGJmXkEyXkFqcGdeQXVyNDE5MTU2MDE@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/73456.webp",
+    "imdb_rating": "6.5",
+    "imdb_votes": "2,137",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Barbie:_Princess_Charm_School",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/73456.txt",
+    "plot_year_start": 2011,
+    "plot_year_end": 2011,
+    "epoch": "post-911-world",
+    "action_countries": [
+      "FICTIONAL"
+    ],
+    "action_continents": [
+      "FICTIONAL"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "failures": {
+      "categories": "missing_category_list"
+    }
+  },
+  {
+    "movie_id": 133121,
+    "movie_idx": 2037,
+    "imdb_id": "tt1753496",
+    "title": "Resident Evil: Damnation",
+    "production_year": "2012",
+    "genre": "Animation, Action, Horror",
+    "plot": "United States Special Agent Leon S. Kennedy sneaks into a small Eastern European country to verify rumors that Bio Organic Weapons (B.O.W.s) are being used in war. Right after his infiltration, the U.S. government orders him to leave immediately. Determined to uncover the truth, Leon ignores the order and enters the battlefield to end the chain of tragedies caused by the B.O.W.s.",
+    "runtime": "100 min",
+    "director": "Makoto Kamiya",
+    "actors": "Matthew Mercer, Dave Wittenberg, Wendee Lee",
+    "production_country": "Japan",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMWNjOTQzY2ItNzE0My00MGFlLWFkOGEtOTRhMDAwMDlhMmFlXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/133121.webp",
+    "imdb_rating": "6.4",
+    "imdb_votes": "23,537",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Resident_Evil:_Damnation",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/133121.txt",
+    "plot_year_start": 2011,
+    "plot_year_end": 2011,
+    "epoch": "post-911-world",
+    "action_countries": [
+      "FICTIONAL"
+    ],
+    "action_continents": [
+      "FICTIONAL"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Resident Evil",
+    "failures": {
+      "categories": "missing_category_list"
+    }
+  },
+  {
+    "movie_id": 1857,
+    "movie_idx": 2078,
+    "imdb_id": "tt0092106",
+    "title": "The Transformers: The Movie",
+    "production_year": "1986",
+    "genre": "Animation, Action, Adventure",
+    "plot": "The Decepticons have invaded and taken over the Autobots' home planet, Cybertron. The Autobots are determined to fight back and go to Autobot City on Earth for supplies. Decepticons hijack and take over the ship, resulting in a fierce battle between the Autobots and Decepticons, the result of which is devastating. A new threat to the Autobots appears in the form of Unicron, a massive planet-devouring transformer.",
+    "runtime": "84 min",
+    "director": "Nelson Shin",
+    "actors": "Orson Welles, Robert Stack, Leonard Nimoy",
+    "production_country": "United States, Japan",
+    "poster": "https://m.media-amazon.com/images/M/MV5BY2NlOGYxYmYtODVkYS00MzM0LTg3YjYtNjRkYTY0N2FhMzk4XkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/1857.webp",
+    "imdb_rating": "7.2",
+    "imdb_votes": "44,417",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Transformers:_The_Movie",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/1857.txt",
+    "plot_year_start": 2005,
+    "plot_year_end": 2005,
+    "epoch": "post-911-world",
+    "action_countries": [
+      "FICTIONAL"
+    ],
+    "action_continents": [
+      "FICTIONAL"
+    ],
+    "action_planet": "Cybertron",
+    "action_universum": "Transformers",
+    "failures": {
+      "categories": "missing_category_list"
+    }
+  },
+  {
+    "movie_id": 76493,
+    "movie_idx": 2149,
+    "imdb_id": "tt1645170",
+    "title": "The Dictator",
+    "production_year": "2012",
+    "genre": "Comedy",
+    "plot": "The Republic of Wadiya is ruled by an eccentric and oppressive leader named Hafez Aladeen. Aladeen is summoned to New York to a UN assembly to address concerns about his country's nuclear weapons program, but the trip goes awry.",
+    "runtime": "83 min",
+    "director": "Larry Charles",
+    "actors": "Sacha Baron Cohen, Anna Faris, John C. Reilly",
+    "production_country": "United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BM2IwMDM3ZmQtNjQ3NS00OTFiLWI5YzEtYWE3YjI5NTk3YzkwXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/76493.webp",
+    "imdb_rating": "6.5",
+    "imdb_votes": "362,816",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Dictator",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/76493.txt",
+    "plot_year_start": 2012,
+    "plot_year_end": 2013,
+    "epoch": "post-911-world",
+    "action_countries": [
+      "FICTIONAL",
+      "US"
+    ],
+    "action_continents": [
+      "FICTIONAL",
+      "North America"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "failures": {
+      "categories": "missing_category_list"
+    }
+  },
+  {
+    "movie_id": 11130,
+    "movie_idx": 2529,
+    "imdb_id": "tt0368933",
+    "title": "The Princess Diaries 2: Royal Engagement",
+    "production_year": "2004",
+    "genre": "Comedy, Family, Romance",
+    "plot": "Princess Mia Thermopolis (Anne Hathaway) has just turned twenty-one and is supposed to succeed her grandmother as the Queen of Genovia. But Viscount Mabrey (John Rhys-Davies), who wishes that his nephew who is also in line to the throne to be the new ruler, reminds everyone of a law that states that an unmarried woman can't be made Queen, and with the backing of Parliament, he opposes Mia's coronation. Queen Clarisse Renaldi (Dame Julie Andrews) asks that Mia be allowed time to find a husband, and she is given thirty days, but Mabrey tries to do what he can to stop that: his nephew, Nicholas Devereaux (Chris Pine) has met Mia and they are both attracted to each other, but Mia, upon learning who he is, dislikes and doesn't trust him, but Queen Clarisse has invited him to stay with them for the thirty day period to keep an eye on him.",
+    "runtime": "113 min",
+    "director": "Garry Marshall",
+    "actors": "Anne Hathaway, Callum Blue, Julie Andrews",
+    "production_country": "United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZjM2YTgzZTQtODc4OS00MDNmLTg0YWQtMmYzZmVmODM2OThhXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/11130.webp",
+    "imdb_rating": "5.9",
+    "imdb_votes": "96,034",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Princess_Diaries_2:_Royal_Engagement",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/11130.txt",
+    "plot_year_start": 2004,
+    "plot_year_end": 2004,
+    "epoch": "post-911-world",
+    "action_countries": [
+      "FICTIONAL"
+    ],
+    "action_continents": [
+      "FICTIONAL"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "failures": {
+      "categories": "missing_category_list"
+    }
+  },
+  {
+    "movie_id": 15403,
+    "movie_idx": 2711,
+    "imdb_id": "tt1146431",
+    "title": "Ben 10: Secret of the Omnitrix",
+    "production_year": "2007",
+    "genre": "Animation, Action, Adventure",
+    "plot": "After a fierce battle in a power plant with Dr. Animo, Ben notices something strange happening with the Omnitrix but doesn't tell anyone (except Gwen and Grandpa Max). Tetrax arrives, drawn to the self-destruct signal broadcast by the Omnitrix. He takes Ben to go find the creator of the Omnitrix and fix it before it destroys itself, Ben, and the universe along with it (with Gwen stowing aboard to help her cousin).",
+    "runtime": "71 min",
+    "director": "Sebastian Montes, Scooter Tidwell",
+    "actors": "Tara Strong, Meagan Moore, Paul Eiding",
+    "production_country": "United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYTQxZTdhMmQtOTNiMS00ZjNmLThkNjktZDA0NzVjNDNjMDY5XkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/15403.webp",
+    "imdb_rating": "7.4",
+    "imdb_votes": "4,930",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/List_of_Ben_10_films",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/15403.txt",
+    "plot_year_start": 2007,
+    "plot_year_end": 2007,
+    "epoch": "post-911-world",
+    "action_countries": [
+      "FICTIONAL"
+    ],
+    "action_continents": [
+      "FICTIONAL"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Ben 10",
+    "failures": {
+      "categories": "missing_category_list"
+    }
+  },
+  {
+    "movie_id": 13394,
+    "movie_idx": 3008,
+    "imdb_id": "tt0897387",
+    "title": "Shrek the Halls",
+    "production_year": "2007",
+    "genre": "Animation, Short, Adventure",
+    "plot": "In Shrek the Halls, it is seen and realized that Shrek has no idea about what Christmas is and makes it clear to donkey that \"Ogres don't celebrate Christmas\",but in the end he gives in and decides to prepare for Christmas in his own \" ogre\" way. With the help of Fiona and their kids, he eventually gets ready for Christmas but there is a twist in the story but finally everything turns out fine",
+    "runtime": "21 min",
+    "director": "Gary Trousdale",
+    "actors": "Mike Myers, Eddie Murphy, Cameron Diaz",
+    "production_country": "United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYzM4NzA2YzctNzBiNi00YjU0LWJkNjAtMzNjOWZkOGVmMDJiXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/13394.webp",
+    "imdb_rating": "6.4",
+    "imdb_votes": "17,234",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Shrek_the_Halls",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/13394.txt",
+    "plot_year_start": 2007,
+    "plot_year_end": 2007,
+    "epoch": "post-911-world",
+    "action_countries": [
+      "FICTIONAL"
+    ],
+    "action_continents": [
+      "FICTIONAL"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Shrek Universe",
+    "failures": {
+      "categories": "missing_category_list"
+    }
+  },
+  {
+    "movie_id": 2309,
+    "movie_idx": 3044,
+    "imdb_id": "tt0494238",
+    "title": "Inkheart",
+    "production_year": "2008",
+    "genre": "Adventure, Family, Fantasy",
+    "plot": "Mortimer \"Mo\" \"Silvertongue\" Folchart has the special talent to bring characters out of books. One night he brings out three characters from Inkheart, a story set in medieval times and filled with magical beings. Capricorn (Andy Serkis) and Basta (Jamie Foreman), two villains, and Dustfinger (Paul Bettany), a fire-eater. Now, ten years later, Meggie (Eliza Bennett) discovers the truth and it's up to her to escape Capricorn's evil grasp.",
+    "runtime": "106 min",
+    "director": "Iain Softley",
+    "actors": "Brendan Fraser, Andy Serkis, Eliza Bennett",
+    "production_country": "United States, United Kingdom, Germany, Italy",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZjMwY2M0MGQtYzBkYS00YWZkLTg0YWUtZThkMzcwNjRjOTJmXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/2309.webp",
+    "imdb_rating": "6.1",
+    "imdb_votes": "84,959",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Inkheart_(film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/2309.txt",
+    "plot_year_start": 2000,
+    "plot_year_end": 2010,
+    "epoch": "post-911-world",
+    "action_countries": [
+      "FICTIONAL",
+      "IT"
+    ],
+    "action_continents": [
+      "FICTIONAL",
+      "Europe"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "failures": {
+      "categories": "missing_category_list"
+    }
+  },
+  {
+    "movie_id": 14132,
+    "movie_idx": 3070,
+    "imdb_id": "tt0087660",
+    "title": "Macross: Do You Remember Love?",
+    "production_year": "1984",
+    "genre": "Animation, Action, Adventure",
+    "plot": "In the next century, a reconfiguring ship (think \"Transformer\" with a pilot) called Macross carries fifty thousand refugees within its hold as it returns to Earth pursued by giant humanoid warriors. A young pilot in the military named Hikaru rescues his idol, the beautiful singer Lynn Minmay, from the giants as they break through the ship's hull during a concert-during which the giants are shocked to see females on a male vessel-and they are trapped for days in an aft hold of the ship. After their rescue, Hikaru and Minmay continue on good terms until a joyride in a fighter trainer gets Hikaru, his squadron leader, Minmay's brother, Minmay herself and the tough female operations controller captured by the giants, who grill them on how males and females can survive together without fighting. The giants' female counterparts arrive to wreak havoc on their male foes, and in the ensuing confusion Minmay and her brother are detained while the others make an escape that costs squadron leader Roy Focker his life and strands Hikaru and commander Misa Hayase on a now-totally-lifeless Earth, which leads to revelations on all three sides of the conflict regarding their past and future as well as the origins of mankind and the power of love and song, while Hikaru tangles with his feelings for both Misa and Minmay and all builds toward a final battle between the Macross and both giant fleets...",
+    "runtime": "114 min",
+    "director": "Noboru Ishiguro, Shôji Kawamori",
+    "actors": "Arihiro Hase, Mari Iijima, Mika Doi",
+    "production_country": "Japan",
+    "poster": "https://m.media-amazon.com/images/M/MV5BM2I0NzBiZTEtNTEwOS00ZjEzLThkZDQtMTFhZWJlYmFmYzk3XkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/14132.webp",
+    "imdb_rating": "7.6",
+    "imdb_votes": "3,718",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Macross:_Do_You_Remember_Love%3F",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/14132.txt",
+    "plot_year_start": 2009,
+    "plot_year_end": 2009,
+    "epoch": "post-911-world",
+    "action_countries": [
+      "FICTIONAL"
+    ],
+    "action_continents": [
+      "FICTIONAL"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Macross Universe",
+    "failures": {
+      "categories": "missing_category_list"
+    }
+  },
+  {
+    "movie_id": 57089,
+    "movie_idx": 4034,
+    "imdb_id": "tt0844993",
+    "title": "Hoodwinked Too! Hood vs. Evil",
+    "production_year": "2011",
+    "genre": "Animation, Adventure, Comedy",
+    "plot": "Hood vs. Evil will find a teen such as Red Riding Hood who will be training in a distant land with a mysterious, covert group called the Sister Hoods. When Red and the Wolf get called upon by Nick Flippers the head of the Happily Ever After Agency over to investigate the disappearance of Hansel and Gretel.",
+    "runtime": "86 min",
+    "director": "Mike Disa",
+    "actors": "Hayden Panettiere, Glenn Close, Patrick Warburton",
+    "production_country": "Canada, United States, Serbia",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNDQyYTBlM2EtMGE2Yy00OTFjLTlkNWMtNjJkNDg1YmRmNGI4XkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/57089.webp",
+    "imdb_rating": "4.7",
+    "imdb_votes": "14,514",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Hoodwinked_Too!_Hood_vs._Evil",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/57089.txt",
+    "plot_year_start": 2005,
+    "plot_year_end": 2005,
+    "epoch": "post-911-world",
+    "action_countries": [
+      "FICTIONAL"
+    ],
+    "action_continents": [
+      "FICTIONAL"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "failures": {
+      "categories": "missing_category_list"
+    }
+  },
+  {
+    "movie_id": 33875,
+    "movie_idx": 4060,
+    "imdb_id": "tt0347791",
+    "title": "Pokémon Heroes",
+    "production_year": "2002",
+    "genre": "Animation, Action, Adventure",
+    "plot": "Ash, Pikachu and the rest of the Pokemon gang try and stop a pair of thieves hiding out in the canals and alleyways of Alto Mare, the water capital of the world. Joining the adventure are two new Pokémons, a brother/sister pair named Latias and Latios who are protecting the Droplet of the Heart - a valuable treasure.",
+    "runtime": "71 min",
+    "director": "Jim Malone, Kunihiko Yuyama",
+    "actors": "Eric Stuart, Madeleine Blaustein, Rachael Lillis",
+    "production_country": "Japan",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYWJlMGQxNDYtZTc5NC00MzlhLWI1MTItZmU1NjY1MTRlZjFjXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/33875.webp",
+    "imdb_rating": "6.1",
+    "imdb_votes": "7,498",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Pok%C3%A9mon_Heroes",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/33875.txt",
+    "plot_year_start": 2002,
+    "plot_year_end": 2002,
+    "epoch": "post-911-world",
+    "action_countries": [
+      "FICTIONAL",
+      "IT"
+    ],
+    "action_continents": [
+      "FICTIONAL",
+      "Europe"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Pokémon Universe",
+    "failures": {
+      "categories": "missing_category_list"
+    }
+  },
+  {
+    "movie_id": 452832,
+    "movie_idx": 4190,
+    "imdb_id": "tt6476140",
+    "title": "Serenity",
+    "production_year": "2019",
+    "genre": "Drama, Mystery, Thriller",
+    "plot": "Baker Dill (Matthew McConaughey) is a fishing boat captain leading tours off a tranquil, tropical enclave called Plymouth Island. His quiet life is shattered, however, when his ex-wife Karen (Anne Hathaway) tracks him down with a desperate plea for help. She begs Dill to save her - and their young son - from her new, violent husband (Jason Clarke) by taking him out to sea on a fishing excursion, only to throw him to the sharks and leave him for dead. Karen's appearance thrusts Dill back into a life he'd tried to forget, and as he struggles between right and wrong, his world is plunged into a new reality that may not be all that it seems.",
+    "runtime": "106 min",
+    "director": "Steven Knight",
+    "actors": "Matthew McConaughey, Anne Hathaway, Diane Lane",
+    "production_country": "United Kingdom, United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNjRlMWQ3MzUtOGU3ZS00YmJlLTljYjMtYWRiYTJjMDYzNGMyXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/452832.webp",
+    "imdb_rating": "5.4",
+    "imdb_votes": "49,013",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Serenity_(2019_film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/452832.txt",
+    "plot_year_start": 2006,
+    "plot_year_end": 2006,
+    "epoch": "post-911-world",
+    "action_countries": [
+      "FICTIONAL"
+    ],
+    "action_continents": [
+      "FICTIONAL"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "failures": {
+      "categories": "missing_category_list"
+    }
+  },
+  {
+    "movie_id": 446894,
+    "movie_idx": 4757,
+    "imdb_id": "tt6182908",
+    "title": "Smallfoot",
+    "production_year": "2018",
+    "genre": "Animation, Adventure, Comedy",
+    "plot": "A yeti named Migo is convinced that a human known only as \"Small Foot\" is real and has to prove to his tribe that it does exist with the help of Meechee and the S.E.S - Smallfoot Evidentiary Society.",
+    "runtime": "96 min",
+    "director": "Karey Kirkpatrick, Jason Reisig",
+    "actors": "Channing Tatum, James Corden, Zendaya",
+    "production_country": "Czech Republic, United Kingdom, United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZjBjYWQxMTQtMThiZS00NjZkLWE1ZjctMzE2ZTgxZmJmMWQ1XkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/446894.webp",
+    "imdb_rating": "6.6",
+    "imdb_votes": "45,369",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Smallfoot",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/446894.txt",
+    "plot_year_start": 2010,
+    "plot_year_end": 2010,
+    "epoch": "post-911-world",
+    "action_countries": [
+      "FICTIONAL",
+      "NP"
+    ],
+    "action_continents": [
+      "FICTIONAL",
+      "Asia"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "failures": {
+      "categories": "missing_category_list"
+    }
+  },
+  {
+    "movie_id": 39206,
+    "movie_idx": 5020,
+    "imdb_id": "tt1146290",
+    "title": "Detective Conan: Jolly Roger in the Deep Azure",
+    "production_year": "2007",
+    "genre": "Animation, Action, Adventure",
+    "plot": "1700 times, Anne Bonny and Mary Read are 2 female pirates which protected their country from being attacked from england. People who sail to sea all fear JOLLY ROGER which was formed by red flag Jolly Rouge &amp; devil OLD ROGER. Now ...",
+    "runtime": "106 min",
+    "director": "Yasuichirô Yamamoto",
+    "actors": "Minami Takayama, Wakana Yamazaki, Kappei Yamaguchi",
+    "production_country": "Japan",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMGY1YWU1YWQtYzcyZC00ZTkwLWJiYzMtMzg0NDAwNWEwNGFkXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/39206.webp",
+    "imdb_rating": "6.3",
+    "imdb_votes": "2,170",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Detective_Conan:_Jolly_Roger_in_the_Deep_Azure",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/39206.txt",
+    "plot_year_start": 2007,
+    "plot_year_end": 2007,
+    "epoch": "post-911-world",
+    "action_countries": [
+      "FICTIONAL"
+    ],
+    "action_continents": [
+      "FICTIONAL"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Case Closed",
+    "failures": {
+      "categories": "missing_category_list"
+    }
+  },
+  {
+    "movie_id": 34204,
+    "movie_idx": 5434,
+    "imdb_id": "tt0816520",
+    "title": "Return to Halloweentown",
+    "production_year": "2006",
+    "genre": "Action, Comedy, Family",
+    "plot": "Marnie and Dylan have graduated high school and are now going to go to college at Witch U in Halloweentown. Marnie is offered a full scholarship, Marni's mother, Gwen of course does not want her daughter at school in Halloweentown so she forces Dylan to tag along. At the school, witches and warlocks can't use magic. Marnie soon makes a new friend named Aneesa, whom is a genie. Marnie soon discovers that she is partly to blame for the rules against the use of magic at school. At one point a box, with the name \"S. Cromwell\" inscribed on it, magically appears in front of her. Most people at the school believe that Marnie used her magic to conjure up the box, but it was brought to her by fate.",
+    "runtime": "88 min",
+    "director": "David Jackson",
+    "actors": "Sara Paxton, Judith Hoag, Lucas Grabeel",
+    "production_country": "United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYTNkMzNlMWItMTAxOC00ODUzLTkwNDQtMmJlYTBlZWI2Njk0XkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/34204.webp",
+    "imdb_rating": "5.3",
+    "imdb_votes": "8,129",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Return_to_Halloweentown",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/34204.txt",
+    "plot_year_start": 2005,
+    "plot_year_end": 2005,
+    "epoch": "post-911-world",
+    "action_countries": [
+      "FICTIONAL"
+    ],
+    "action_continents": [
+      "FICTIONAL"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Halloweentown",
+    "failures": {
+      "categories": "missing_category_list"
+    }
+  },
+  {
+    "movie_id": 283984,
+    "movie_idx": 5478,
+    "imdb_id": "tt4054952",
+    "title": "Fate/stay night [Heaven's Feel] I. presage flower",
+    "production_year": "2017",
+    "genre": "Animation, Action, Adventure",
+    "plot": "Shirou Emiya is a young mage who attends Homurahara Academy in Fuyuki City. One day after cleaning the Archery Dojo in his school, he catches a glimpse of a fight between superhuman beings, and he gets involved in the Holy Grail War, a ritual where mages called Masters fight each other with their Servants in order to win the Holy Grail. Shirou joins the battle to stop an evildoer from winning the Grail and to save innocent people, but everything goes wrong when a mysterious \"Shadow\" begins to indiscriminately kill people in Fuyuki.",
+    "runtime": "120 min",
+    "director": "Tomonori Sudô",
+    "actors": "Bryce Papenbrook, Noriaki Sugiyama, Noriko Shitaya",
+    "production_country": "Japan",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMzFjODA2Y2YtN2RiOS00OWZmLTk5NzEtOTgyZDlmYzFjZWU5XkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/283984.webp",
+    "imdb_rating": "7.4",
+    "imdb_votes": "4,437",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Fate/stay_night:_Heaven%27s_Feel_I._presage_flower",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/283984.txt",
+    "plot_year_start": 2004,
+    "plot_year_end": 2004,
+    "epoch": "post-911-world",
+    "action_countries": [
+      "FICTIONAL"
+    ],
+    "action_continents": [
+      "FICTIONAL"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Fate/stay night",
+    "failures": {
+      "categories": "missing_category_list"
+    }
+  },
+  {
+    "movie_id": 9053,
+    "movie_idx": 5779,
+    "imdb_id": "tt0398913",
+    "title": "DOA: Dead or Alive",
+    "production_year": "2006",
+    "genre": "Action, Adventure, Mystery",
+    "plot": "A number of fighters are invited to DOA, an invitational martial arts contest. They travel to the tournament island by plane, until they have to jump out mid-flight with parachutes, and then have until sundown to reach the main island to be entered into the tournament. Fighters are then pooled against one another in a knock-out style tournament, with the loser of a battle sent home, and the winner progressing to the subsequent round. The plot revolves around four female fighters who begin as rivals, but subsequently find themselves teaming up against another force.",
+    "runtime": "87 min",
+    "director": "Corey Yuen",
+    "actors": "Jaime Pressly, Devon Aoki, Sarah Carter",
+    "production_country": "United Kingdom, Germany, Japan, Canada, United States, Australia",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTIyNDQ0NDExMl5BMl5BanBnXkFtZTcwODAxMTk0MQ@@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/9053.webp",
+    "imdb_rating": "4.8",
+    "imdb_votes": "47,686",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/DOA:_Dead_or_Alive",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/9053.txt",
+    "plot_year_start": 2006,
+    "plot_year_end": 2006,
+    "epoch": "post-911-world",
+    "action_countries": [
+      "FICTIONAL",
+      "CN",
+      "HK"
+    ],
+    "action_continents": [
+      "FICTIONAL",
+      "Asia",
+      "Asia"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Dead or Alive",
+    "failures": {
+      "categories": "missing_category_list"
+    }
+  },
+  {
+    "movie_id": 150213,
+    "movie_idx": 5981,
+    "imdb_id": "tt2549540",
+    "title": "Pokémon the Movie: Kyurem vs. the Sword of Justice",
+    "production_year": "2012",
+    "genre": "Animation, Action, Adventure",
+    "plot": "An over zealous pokemon called Keldeo enrages a very powerful Kyurem. With the help of Ash and Pikachu, can Keldeo become a sword of justice and defeat the mighty Kyurem?",
+    "runtime": "72 min",
+    "director": "Kunihiko Yuyama",
+    "actors": "Sarah Natochenny, Eileen Stevens, Jason Griffith",
+    "production_country": "Japan",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNDY4NjA4MjYxNV5BMl5BanBnXkFtZTgwMjM0MDgxMDI@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/150213.webp",
+    "imdb_rating": "5.5",
+    "imdb_votes": "2,049",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Pok%C3%A9mon_the_Movie:_Kyurem_vs._the_Sword_of_Justice",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/150213.txt",
+    "plot_year_start": 2012,
+    "plot_year_end": 2012,
+    "epoch": "post-911-world",
+    "action_countries": [
+      "FICTIONAL"
+    ],
+    "action_continents": [
+      "FICTIONAL"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Pokémon Universe",
+    "failures": {
+      "categories": "missing_category_list"
+    }
+  },
+  {
+    "movie_id": 13989,
+    "movie_idx": 6733,
+    "imdb_id": "tt0813980",
+    "title": "24: Redemption",
+    "production_year": "2008",
+    "genre": "Action, Adventure, Crime",
+    "plot": "Set 18 months where Season 6 of '24' left off, former government agent Jack Bauer is in a self-imposed exile in the fictitious African country of Sangala where he hopes to escape from a U.S. investigation of him for his past methods, and to run from his past. Bauer works at a mission school for orphaned children run by his friend Carl Benton. The country is at the mercy of a rogue warlord general named Juma who is plotting a coup to overthrow the government and his right-hand man Colonel Dubaku, is abducting orphan boys and forcibly recruiting them into Juma's army. Bauer and Benton must work together to save the dozen or so boys and try to get them out of the country before Juma takes over. Meanwhile in Washington D.C., it is Inauguration Day where the outgoing President Noah Daniels is handing over the presidency to the first female president Allison Taylor (Cherry Jones). Hearing about the coup, Daniels wants to evacuate the country before it falls to the rogue general, while Taylor thinks otherwise. Elsewhere, Taylor's son Roger and his fiancée Samantha get wind of information from a friend about suspicious money transactions where he works at a local brokerage firm. But neither he or Roger are aware that a corrupt corporate mogul, Jonas Hodges, is plotting with General Juma to overthrow the government for monetary purposes and will do anything to keep his nefarious plans under wraps.",
+    "runtime": "84 min",
+    "director": "Jon Cassar",
+    "actors": "Kiefer Sutherland, Cherry Jones, Bob Gunton",
+    "production_country": "United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BN2NkNTJlNzYtODU2MS00OWEwLWI2NGMtMzRiNjQ0MzAwNmZmXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/13989.webp",
+    "imdb_rating": "7.4",
+    "imdb_votes": "29,706",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/24:_Redemption",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/13989.txt",
+    "plot_year_start": 2008,
+    "plot_year_end": 2008,
+    "epoch": "post-911-world",
+    "action_countries": [
+      "FICTIONAL",
+      "US"
+    ],
+    "action_continents": [
+      "FICTIONAL",
+      "North America"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "failures": {
+      "categories": "missing_category_list"
+    }
+  },
+  {
+    "movie_id": 32916,
+    "movie_idx": 7117,
+    "imdb_id": "tt1599351",
+    "title": "Scooby-Doo! Abracadabra-Doo",
+    "production_year": "2010",
+    "genre": "Animation, Comedy, Family, Fantasy, Mystery",
+    "plot": "The gang goes on a trip to check on Velma's younger sister, Madelyn. She's been studying stage magic at the Whirlen Merlin Magic Academy, where apparently there have been sightings of a giant griffin. The gang decides to investigate.",
+    "runtime": "76 min",
+    "director": "Spike Brandt, Tony Cervone",
+    "actors": "Frank Welker, Matthew Lillard, Grey Griffin, Mindy Cohn",
+    "production_country": "USA",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZWJjN2FhZjctNDUxNy00Y2ZiLTgzNDctMzA0ZGI3NzMyZjljXkEyXkFqcGdeQXVyNDgyODgxNjE@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/32916.webp",
+    "imdb_rating": "7.1",
+    "imdb_votes": "2,069",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Scooby-Doo!_Abracadabra-Doo",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/32916.txt",
+    "plot_year_start": 2010,
+    "plot_year_end": 2010,
+    "epoch": "post-911-world",
+    "action_countries": [
+      "FICTIONAL"
+    ],
+    "action_continents": [
+      "FICTIONAL"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Scooby-Doo Universe",
+    "failures": {
+      "categories": "missing_category_list"
+    }
+  },
+  {
+    "movie_id": 36218,
+    "movie_idx": 7143,
+    "imdb_id": "tt0420076",
+    "title": "Pokémon: Jirachi - Wish Maker",
+    "production_year": "2003",
+    "genre": "Animation, Action, Adventure",
+    "plot": "A magician attempts to use the power of the Millennium Comet to awaken the legendary Pokémon Groudon.",
+    "runtime": "81 min",
+    "director": "Kunihiko Yuyama, Eric Stuart",
+    "actors": "Rica Matsumoto, Veronica Taylor, Eric Stuart",
+    "production_country": "Japan, United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNjVmYTZkZjUtMGVhNS00NjQwLWIyM2UtYWNkZjNiYTY1ZjhhXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/36218.webp",
+    "imdb_rating": "5.7",
+    "imdb_votes": "4,975",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Pok%C3%A9mon:_Jirachi,_Wish_Maker",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/36218.txt",
+    "plot_year_start": 2003,
+    "plot_year_end": 2003,
+    "epoch": "post-911-world",
+    "action_countries": [
+      "FICTIONAL"
+    ],
+    "action_continents": [
+      "FICTIONAL"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Pokémon Universe",
+    "failures": {
+      "categories": "missing_category_list"
+    }
+  },
+  {
+    "movie_id": 46304,
+    "movie_idx": 7650,
+    "imdb_id": "tt1587156",
+    "title": "Gekijouban Fate/Stay Night: Unlimited Blade Works",
+    "production_year": "2010",
+    "genre": "Animation, Action, Drama",
+    "plot": "The war for the Holy Grail is on. Master/Servant team pairs made up of Magi and the summoned spirits of legendary warriors do battle to the death in their quest for the right to claim the prize. The winning team claims the Grail and it's power to grant each of them a wish.",
+    "runtime": "107 min",
+    "director": "Yûji Yamaguchi",
+    "actors": "Noriaki Sugiyama, Jun'ichi Suwabe, Kana Ueda",
+    "production_country": "Japan",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNjU5OGFhMzgtNjgyYS00YmNhLThmYTctOGRmOTYwZTA5ZDhiXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/46304.webp",
+    "imdb_rating": "6.7",
+    "imdb_votes": "1,887",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Fate/stay_night:_Unlimited_Blade_Works_(film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/46304.txt",
+    "plot_year_start": 2004,
+    "plot_year_end": 2004,
+    "epoch": "post-911-world",
+    "action_countries": [
+      "FICTIONAL"
+    ],
+    "action_continents": [
+      "FICTIONAL"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Fate/stay night",
+    "failures": {
+      "categories": "missing_category_list"
+    }
+  },
+  {
+    "movie_id": 34067,
+    "movie_idx": 7981,
+    "imdb_id": "tt0875609",
+    "title": "Pokémon: Lucario and the Mystery of Mew",
+    "production_year": "2005",
+    "genre": "Animation, Action, Adventure",
+    "plot": "In the town of Lohta, a festival is thrown praising \"Aaron the Wave Leader Hero\" who, according to the legend passed down through the town's generations, stopped a war centuries ago by using the power of \"the Tree of the World's Origin.\" Satoshi and Pikachu participate in a battle to decide this year's hero and after their victory, they are chosen as the \"Wave Leader Hero.\" A grand dance party is held in the castle to celebrate the victor, but suddenly the phantom Pokemon Mew appears and takes Pikachu. Soon afterwards, the Wave Leader Pokemon \"Lucario\" is freed from his centuries-long seal and meets Satoshi. Satoshi must solve the various mysteries of where Pikachu is, what Mew's after, what the secret of the legend of the Wave Leader is and how it ties in with Lucario's hidden past as he makes his way to \"the Tree of the World's Origin\" with Lucario.",
+    "runtime": "103 min",
+    "director": "Kunihiko Yuyama",
+    "actors": "Veronica Taylor, Eric Stuart, Amy Birnbaum",
+    "production_country": "Japan",
+    "poster": "https://m.media-amazon.com/images/M/MV5BODg1NzkzODMtMmNjYi00YWNmLWI3OGUtZjc0YzVjMjU5YzJmXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/34067.webp",
+    "imdb_rating": "6.8",
+    "imdb_votes": "5,846",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Pok%C3%A9mon:_Lucario_and_the_Mystery_of_Mew",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/34067.txt",
+    "plot_year_start": 2005,
+    "plot_year_end": 2005,
+    "epoch": "post-911-world",
+    "action_countries": [
+      "FICTIONAL"
+    ],
+    "action_continents": [
+      "FICTIONAL"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Pokemon Universe",
+    "failures": {
+      "categories": "missing_category_list"
+    }
+  },
+  {
+    "movie_id": 13931,
+    "movie_idx": 8949,
+    "imdb_id": "tt0323250",
+    "title": "Mike's New Car",
+    "production_year": "2002",
+    "genre": "Animation, Short, Comedy, Family, Fantasy",
+    "plot": "Mike has a surprise for his pal Sullivan: Mike's gotten a new car, one with six-wheel drive. He invites Sullivan to hop in and they'll go for a spin. At that point, problems arise: first Sullivan's cramped, then Mike has a seat belt problem, gets locked out, and suffers indignities before Sullivan figures out how to unlock the car to let him back in. All sorts of gadgets misfire, until finally Mike has the car in gear, ready to roll. What was it again that was wrong with his old car?",
+    "runtime": "4 min",
+    "director": "Pete Docter, Roger Gould",
+    "actors": "Billy Crystal, John Goodman",
+    "production_country": "USA",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMDdlNGQyODMtMjE1My00NTJlLTljMzYtZDNlYjA1YjMxYTI3XkEyXkFqcGdeQXVyNDgyODgxNjE@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/13931.webp",
+    "imdb_rating": "7.1",
+    "imdb_votes": "12,845",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Mike%27s_New_Car",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/13931.txt",
+    "plot_year_start": 2002,
+    "plot_year_end": 2002,
+    "epoch": "post-911-world",
+    "action_countries": [
+      "FICTIONAL"
+    ],
+    "action_continents": [
+      "FICTIONAL"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Monsters, Inc. Universe",
+    "failures": {
+      "categories": "missing_category_list"
+    }
+  },
+  {
+    "movie_id": 21862,
+    "movie_idx": 9030,
+    "imdb_id": "tt1078885",
+    "title": "Deep in the Valley",
+    "production_year": "2009",
+    "genre": "Comedy",
+    "plot": "Lester wins a vintage porn-video booth that sends him and his friend Carl to an alternate porno-flick dimension filled with sexy ladies. They are immediately arrested by two sexy cops but later manage to escape the Deep Valley Police Station and end up at a sorority. They are brought there for a reason and cannot return to their own dimension before figuring out that reason.",
+    "runtime": "96 min",
+    "director": "Christian Forte",
+    "actors": "Chris Pratt, Brendan Hines, Scott Caan",
+    "production_country": "United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZWQwMmFkY2QtNGY3YS00NjIxLWJkYTItNGNmY2E5YWM5NWQ4XkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/21862.webp",
+    "imdb_rating": "4.4",
+    "imdb_votes": "4,184",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Deep_in_the_Valley",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/21862.txt",
+    "plot_year_start": 2009,
+    "plot_year_end": 2009,
+    "epoch": "post-911-world",
+    "action_countries": [
+      "FICTIONAL"
+    ],
+    "action_continents": [
+      "FICTIONAL"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "failures": {
+      "categories": "missing_category_list"
+    }
+  },
+  {
+    "movie_id": 435107,
+    "movie_idx": 9059,
+    "imdb_id": "tt6387232",
+    "title": "A Royal Winter",
+    "production_year": "2017",
+    "genre": "Drama, Family, Romance",
+    "plot": "While on a last-minute European holiday, a young woman finds herself in the middle of a real-life fairy tale when a chance meeting with a handsome local leads to something more. However, things get complicated when she learns that the \"local\" is actually a prince who is about to be crowned King, and whose mother is dead-set against her royal son's romance with the tourist.",
+    "runtime": "84 min",
+    "director": "Ernie Barbarash",
+    "actors": "Merritt Patterson, Jack Donnelly, Samantha Bond",
+    "production_country": "United States, Romania",
+    "poster": "https://m.media-amazon.com/images/M/MV5BODg4ZGQyNzQtZTI4MC00OTlhLWEyMTYtZDIzMWY0NTRkYTQ4XkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/435107.webp",
+    "imdb_rating": "6.4",
+    "imdb_votes": "3,742",
+    "plot_year_start": 2010,
+    "plot_year_end": 2010,
+    "epoch": "post-911-world",
+    "action_countries": [
+      "FICTIONAL"
+    ],
+    "action_continents": [
+      "FICTIONAL"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "failures": {
+      "wikipedia": "no_wiki_article_found",
+      "categories": "missing_category_list"
+    }
+  },
+  {
+    "movie_id": 410685,
+    "movie_idx": 9214,
+    "imdb_id": "tt3634858",
+    "title": "Naruto: The Lost Story - Mission: Protect the Waterfall Village",
+    "production_year": "2003",
+    "genre": "Animation, Short, Action, Adventure, Comedy, Fantasy",
+    "plot": "Naruto and his friends must get back a jug of stolen holy water from a band of higher class ninjas.",
+    "runtime": "40 min",
+    "director": "Masahiko Murata, Hayato Date",
+    "actors": "Junko Takeuchi, Noriaki Sugiyama, Chie Nakamura, Kazuhiko Inoue",
+    "production_country": "Japan",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNjAxYzFhMWEtZGViNS00YTI5LThiMmEtYjZmODFhZjZmYWQ5XkEyXkFqcGdeQXVyMjc2Nzg5OTQ@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/410685.webp",
+    "imdb_rating": "6.6",
+    "imdb_votes": "409",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Naruto",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/410685.txt",
+    "plot_year_start": 2003,
+    "plot_year_end": 2003,
+    "epoch": "post-911-world",
+    "action_countries": [
+      "FICTIONAL"
+    ],
+    "action_continents": [
+      "FICTIONAL"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Naruto",
+    "failures": {
+      "categories": "missing_category_list"
+    }
+  }
+]

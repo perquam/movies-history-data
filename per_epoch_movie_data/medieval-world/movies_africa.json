@@ -1,0 +1,86 @@
+[
+  {
+    "movie_id": 147441,
+    "movie_idx": 661,
+    "imdb_id": "tt1528100",
+    "title": "Exodus: Gods and Kings",
+    "production_year": "2014",
+    "genre": "Action, Adventure, Drama",
+    "plot": "Biblical epic Exodus: Gods and Kings stars Christian Bale as Moses who, as the film opens, fights alongside his brother Ramses (a shaved-headed Joel Edgerton), to help defend Egypt, which is ruled by their father, Seti (John Turturro). During battle, Moses saves Ramses life, causing Ramses to fear that his brother will one day be King because it fits with a prophecy handed down by one of Seti's trusted spiritualists. Soon after Seti's death, Moses, who is actually Jewish and not Egyptian, is banished. However, he becomes the leader of the Jewish people and leads a rebellion, with the help of a wrathful God, against that Egyptians..",
+    "runtime": "150 min",
+    "director": "Ridley Scott",
+    "actors": "Christian Bale, Joel Edgerton, Ben Kingsley",
+    "production_country": "United Kingdom, Spain, United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjI3MDY0NjkxNl5BMl5BanBnXkFtZTgwNTM3NTA0MzE@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/147441.webp",
+    "imdb_rating": "6.0",
+    "imdb_votes": "186,124",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Exodus:_Gods_and_Kings",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/147441.txt",
+    "plot_year_start": 970,
+    "plot_year_end": 1300,
+    "epoch": "medieval-world",
+    "action_countries": [
+      "EG"
+    ],
+    "action_continents": [
+      "Africa"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "many peoples living under Pharaoh",
+        "description": "The kingdom holds different subject peoples within one royal order, marked by unequal status, separate customs, and forced service. What you'll see: crowded labour camps, ethnic distinction in dress and speech, hard treatment of subject communities, and officials sorting people by rank.",
+        "icon": "👥"
+      },
+      {
+        "label": "plague and disaster as divine judgement",
+        "description": "Natural calamity is understood not as blind chance but as a sign that heaven has turned against a ruler or a people. What you'll see: dread before strange afflictions, ritual attempts to answer them, terrified crowds, and rulers measuring worldly power against sacred wrath.",
+        "icon": "⚡"
+      }
+    ]
+  },
+  {
+    "movie_id": 564,
+    "movie_idx": 735,
+    "imdb_id": "tt0120616",
+    "title": "The Mummy",
+    "production_year": "1999",
+    "genre": "Action, Adventure, Fantasy",
+    "plot": "An English librarian called Evelyn Carnahan becomes interested in starting an archaeological dig at the ancient city of Hamunaptra. She gains the help of Rick O'Connell, after saving him from his death. What Evelyn, her brother Jonathan and Rick are unaware of is that another group of explorers are interested in the same dig. Unfortunately for everyone, this group ends up unleashing a curse which been laid on the dead High Priest Imhotep. Now 'The Mummy' is awake and it's going to take a lot more than guns to send him back to where he came from.",
+    "runtime": "124 min",
+    "director": "Stephen Sommers",
+    "actors": "Brendan Fraser, Rachel Weisz, John Hannah",
+    "production_country": "United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTY4YWE0OGMtNjU0Yi00YzIwLTk3NTktM2ZiYWQwNjM4MmMxXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/564.webp",
+    "imdb_rating": "7.1",
+    "imdb_votes": "495,819",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Mummy_(1999_film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/564.txt",
+    "plot_year_start": 1290,
+    "plot_year_end": 1926,
+    "epoch": "medieval-world",
+    "action_countries": [
+      "EG"
+    ],
+    "action_continents": [
+      "Africa"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "priests reading the gods' will",
+        "description": "Religion is woven into rule, war, and daily decision, with priests, omens, and ritual experts treating the gods as active powers in public life. What you'll see: temple rites, sacred images, prophecy, formal offerings, and rulers seeking divine approval.",
+        "icon": "🛕"
+      },
+      {
+        "label": "plague and disaster as divine judgement",
+        "description": "Natural calamity is understood not as blind chance but as a sign that heaven has turned against a ruler or a people. What you'll see: dread before strange afflictions, ritual attempts to answer them, terrified crowds, and rulers measuring worldly power against sacred wrath.",
+        "icon": "⚡"
+      }
+    ]
+  }
+]

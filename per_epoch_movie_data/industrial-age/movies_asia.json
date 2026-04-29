@@ -1,0 +1,1646 @@
+[
+  {
+    "movie_id": 9325,
+    "movie_idx": 851,
+    "imdb_id": "tt0061852",
+    "title": "The Jungle Book",
+    "production_year": "1967",
+    "genre": "Animation, Adventure, Comedy",
+    "plot": "Abandoned after an accident, baby Mowgli is taken and raised by a family of wolves. As the boy grows older, the wise panther Bagheera realizes he must be returned to his own kind in the nearby man-village. Baloo the bear, however, thinks differently, taking the young Mowgli under his wing and teaching him that living in the jungle is the best life there is. Bagheera realizes that Mowgli is in danger, particularly from Shere Khan the tiger who hates all people. When Baloo finally comes around, Mowgli runs off into the jungle where he survives a second encounter with Kaa the snake and finally, with Shere Khan. It's the sight of a pretty girl, however, that draws Mowgli to the nearby man-village and stay there.",
+    "runtime": "78 min",
+    "director": "Wolfgang Reitherman",
+    "actors": "Phil Harris, Sebastian Cabot, Louis Prima",
+    "production_country": "United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNGE4M2NiZDktY2E2MC00ZTY5LWIyMDktZWIxNzQ2OWU2NmQzXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/9325.webp",
+    "imdb_rating": "7.6",
+    "imdb_votes": "211,042",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Jungle_Book_(1967_film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/9325.txt",
+    "plot_year_start": 1890,
+    "plot_year_end": 1899,
+    "epoch": "industrial-age",
+    "action_countries": [
+      "IN"
+    ],
+    "action_continents": [
+      "Asia"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "villages burdened by rents and taxes",
+        "description": "Rural life is tied to land dues, harvest failure, landlord claims, and state exactions, leaving peasants little margin when weather or war goes badly. What you'll see: parched fields, grain shortages, rent demands, tax collectors, crowded village councils, and families counting out what they cannot spare.",
+        "icon": "🌾"
+      }
+    ]
+  },
+  {
+    "movie_id": 616,
+    "movie_idx": 1138,
+    "imdb_id": "tt0325710",
+    "title": "The Last Samurai",
+    "production_year": "2003",
+    "genre": "Action, Drama",
+    "plot": "In the 1870s, Captain Nathan Algren (Tom Cruise), a cynical veteran of the American Civil War, who will work for anyone, is hired by Americans who want lucrative contracts with the Emperor of Japan to train the peasant conscripts for the first standing Imperial Army in modern warfare using firearms. The Imperial Omura (Masato Harada) cabinet's first priority is to repress a rebellion of traditionalist Samurai, hereditary warriors, who remain devoted to the sacred dynasty, but reject the Westernizing policy, and even refuse firearms. Yet, when his ill-prepared superior force sets out too soon, their panic allows the sword-wielding samurai to crush them. Badly wounded, Algren's courageous stand makes the samurai leader Katsumoto (Ken Watanabe) spare his life. Once nursed to health, he learns to know and respect the old Japanese way, and participates as advisor in Katsumoto's failed attempt to save the Bushido tradition, but Omura gets repressive laws enacted. He must now choose to honor his loyalty to one of the embittered sides when the conflict returns to the battlefield.",
+    "runtime": "154 min",
+    "director": "Edward Zwick",
+    "actors": "Tom Cruise, Ken Watanabe, Billy Connolly",
+    "production_country": "United States, New Zealand, Japan",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMzkyNzQ1Mzc0NV5BMl5BanBnXkFtZTcwODg3MzUzMw@@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/616.webp",
+    "imdb_rating": "7.8",
+    "imdb_votes": "499,167",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Last_Samurai",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/616.txt",
+    "plot_year_start": 1876,
+    "plot_year_end": 1877,
+    "epoch": "industrial-age",
+    "action_countries": [
+      "JP",
+      "US"
+    ],
+    "action_continents": [
+      "Asia",
+      "North America"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "old warrior orders losing their place",
+        "description": "Across East Asia, hereditary fighting elites and sword traditions are pressed aside by new state armies, police forces, and fresh codes of rule. What you'll see: samurai topknots and robes beside uniforms, schools of arms under pressure, and men measuring honour against a changing age.",
+        "icon": "🗡️"
+      },
+      {
+        "label": "new weapons and transport changing the balance",
+        "description": "Firearms, drilled conscripts, steam travel, telegraphy, and foreign-made goods alter how states fight and how towns connect to wider markets. What you'll see: revolvers against swords, parade-ground drilling, rail or steam traffic, imported machinery, and old streets adjusting to new speed and reach.",
+        "icon": "🚂"
+      }
+    ]
+  },
+  {
+    "movie_id": 278927,
+    "movie_idx": 1541,
+    "imdb_id": "tt3040964",
+    "title": "The Jungle Book",
+    "production_year": "2016",
+    "genre": "Animation, Action, Adventure",
+    "plot": "Living among the wolves in the jungle, young man cub Mowgli quickly learns to live life among his wolf pack and all the animals that inhabit the jungle, but when the villainous tiger Shere Khan threatens Mowgli's life, black panther Bagheera offers to take Mowgli to a nearby man village where he will be safe from the tiger's wrath. Along the way, Mowgli gets tangled up in a series of encounters with a sly snake named Kaa, a swimmingly ruthless gigantopithecus named King Louie and a lazy bear named Baloo, who quickly becomes his guide to the 'bear necessities' of life.",
+    "runtime": "106 min",
+    "director": "Jon Favreau",
+    "actors": "Neel Sethi, Bill Murray, Ben Kingsley",
+    "production_country": "United Kingdom, United States, New Zealand, France, Canada, India",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTc3NTUzNTI4MV5BMl5BanBnXkFtZTgwNjU0NjU5NzE@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/278927.webp",
+    "imdb_rating": "7.3",
+    "imdb_votes": "304,379",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Jungle_Book_(2016_film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/278927.txt",
+    "plot_year_start": 1890,
+    "plot_year_end": 1899,
+    "epoch": "industrial-age",
+    "action_countries": [
+      "IN"
+    ],
+    "action_continents": [
+      "Asia"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "villages burdened by rents and taxes",
+        "description": "Rural life is tied to land dues, harvest failure, landlord claims, and state exactions, leaving peasants little margin when weather or war goes badly. What you'll see: parched fields, grain shortages, rent demands, tax collectors, crowded village councils, and families counting out what they cannot spare.",
+        "icon": "🌾"
+      }
+    ]
+  },
+  {
+    "movie_id": 672322,
+    "movie_idx": 1592,
+    "imdb_id": "tt11991748",
+    "title": "Rurouni Kenshin: Final Chapter Part II - The Beginning",
+    "production_year": "2021",
+    "genre": "Action, Adventure, Drama",
+    "plot": "In the year 1864, samurai Kenshin Himura was known as the Battosai, a deadly assassin whose fierce swordsmanship has killed over one hundred men in one year. When he saves a young woman, Tomoe Yukishiro, from some thugs at an inn, the two slowly begin an attraction that leads to a marriage. This leads Kenshin to potentially give up his sword for the sake of love. However, those who are in support of the Shogunate will not let Kenshin off too easy. The story of how Kenshin received his trademark star-shaped scar is revealed in this prequel, which also serves as the final installment of the live-action franchise adaptation of the manga and anime.",
+    "runtime": "137 min",
+    "director": "Keishi Otomo",
+    "actors": "Takeru Satoh, Kasumi Arimura, Yôsuke Eguchi",
+    "production_country": "Japan",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZDdlZTY5ZTctNWY5Yi00MDg4LWFhZjgtNTM5MzkzOWUwMTgwXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/672322.webp",
+    "imdb_rating": "7.4",
+    "imdb_votes": "12,194",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Rurouni_Kenshin:_The_Beginning",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/672322.txt",
+    "plot_year_start": 1864,
+    "plot_year_end": 1868,
+    "epoch": "industrial-age",
+    "action_countries": [
+      "JP"
+    ],
+    "action_continents": [
+      "Asia"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "dynasties and kingdoms under reform strain",
+        "description": "Courts and old ruling houses try to preserve their thrones by borrowing new methods, centralising power, and suppressing rivals, often too late to quiet unrest. What you'll see: palace councils, imperial edicts, nervous officials, court ceremony, and arguments over whether change will save or unmake the realm.",
+        "icon": "👑"
+      },
+      {
+        "label": "old warrior orders losing their place",
+        "description": "Across East Asia, hereditary fighting elites and sword traditions are pressed aside by new state armies, police forces, and fresh codes of rule. What you'll see: samurai topknots and robes beside uniforms, schools of arms under pressure, and men measuring honour against a changing age.",
+        "icon": "🗡️"
+      }
+    ]
+  },
+  {
+    "movie_id": 11713,
+    "movie_idx": 1902,
+    "imdb_id": "tt0068767",
+    "title": "Fist of Fury",
+    "production_year": "1972",
+    "genre": "Action, Drama, Romance",
+    "plot": "Returning to Shanghai to marry his fiancée, Chen Zhen (Bruce Lee) a student of renowned martial arts teacher Huo Yuanjia, discovers his sifu has died. During the funeral, members of a local Japanese dojo show up and insult the Chinese students. The bullying continues, with Chen fighting back, but when he discovers the truth - that his teacher was poisoned on the orders of the dojo's master - he sets off on a doomed mission of revenge.",
+    "runtime": "107 min",
+    "director": "Wei Lo",
+    "actors": "Bruce Lee, Nora Miao, James Tien",
+    "production_country": "Hong Kong",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZDAxMWZjMTgtNDdkMC00YmI5LWFkNzYtOTA0NDMwNjE2Y2MzXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/11713.webp",
+    "imdb_rating": "7.2",
+    "imdb_votes": "36,236",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Fist_of_Fury",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/11713.txt",
+    "plot_year_start": 1908,
+    "plot_year_end": 1908,
+    "epoch": "industrial-age",
+    "action_countries": [
+      "CN"
+    ],
+    "action_continents": [
+      "Asia"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "foreign powers carving out local authority",
+        "description": "Treaty ports, concessions, gunboats, and extraterritorial privilege let outside powers shape trade, law, and prestige within Asian realms. What you'll see: foreign compounds, customs houses, mixed streets of Chinese and European dress, interpreters, merchants, and soldiers carrying alien flags.",
+        "icon": "🚢"
+      },
+      {
+        "label": "martial arts schools as public institutions",
+        "description": "Fighting arts are not only personal skills but organised schools, lineages, healing practices, and neighbourhood honour in towns under stress. What you'll see: training courtyards, signboards of rival schools, disciples serving masters, lion dances, challenge matches, and medicine halls joined to boxing rooms.",
+        "icon": "🥋"
+      }
+    ]
+  },
+  {
+    "movie_id": 602063,
+    "movie_idx": 1971,
+    "imdb_id": "tt11991748",
+    "title": "Rurouni Kenshin: Final Chapter Part II - The Beginning",
+    "production_year": "2021",
+    "genre": "Action, Adventure, Drama",
+    "plot": "In the year 1864, samurai Kenshin Himura was known as the Battosai, a deadly assassin whose fierce swordsmanship has killed over one hundred men in one year. When he saves a young woman, Tomoe Yukishiro, from some thugs at an inn, the two slowly begin an attraction that leads to a marriage. This leads Kenshin to potentially give up his sword for the sake of love. However, those who are in support of the Shogunate will not let Kenshin off too easy. The story of how Kenshin received his trademark star-shaped scar is revealed in this prequel, which also serves as the final installment of the live-action franchise adaptation of the manga and anime.",
+    "runtime": "137 min",
+    "director": "Keishi Otomo",
+    "actors": "Takeru Satoh, Kasumi Arimura, Yôsuke Eguchi",
+    "production_country": "Japan",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZDdlZTY5ZTctNWY5Yi00MDg4LWFhZjgtNTM5MzkzOWUwMTgwXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/602063.webp",
+    "imdb_rating": "7.4",
+    "imdb_votes": "12,194",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Rurouni_Kenshin:_The_Beginning",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/602063.txt",
+    "plot_year_start": 1864,
+    "plot_year_end": 1868,
+    "epoch": "industrial-age",
+    "action_countries": [
+      "JP"
+    ],
+    "action_continents": [
+      "Asia"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "dynasties and kingdoms under reform strain",
+        "description": "Courts and old ruling houses try to preserve their thrones by borrowing new methods, centralising power, and suppressing rivals, often too late to quiet unrest. What you'll see: palace councils, imperial edicts, nervous officials, court ceremony, and arguments over whether change will save or unmake the realm.",
+        "icon": "👑"
+      },
+      {
+        "label": "secret societies and sworn brotherhoods thriving",
+        "description": "In weak or divided times, men bind themselves through lodges, oaths, sects, and underground circles that promise protection, purpose, or deliverance. What you'll see: incense before altars, coded rituals, blood oaths, whispered meetings, banners, and mobs stirred by millenarian fervour or local loyalties.",
+        "icon": "🕯️"
+      }
+    ]
+  },
+  {
+    "movie_id": 11878,
+    "movie_idx": 2245,
+    "imdb_id": "tt0055630",
+    "title": "Yojimbo",
+    "production_year": "1961",
+    "genre": "Action, Drama, Thriller",
+    "plot": "Sanjuro, a wandering samurai enters a rural town in nineteenth century Japan. After learning from the innkeeper that the town is divided between two gangsters, he plays one side off against the other. His efforts are complicated by the arrival of the wily Unosuke, the son of one of the gangsters, who owns a revolver. Unosuke has Sanjuro beaten after he reunites an abducted woman with her husband and son, then massacres his father's opponents. During the slaughter, the samurai escapes with the help of the innkeeper; but while recuperating at a nearby temple, he learns of innkeeper's abduction by Unosuke, and returns to the town to confront him.",
+    "runtime": "110 min",
+    "director": "Akira Kurosawa",
+    "actors": "Toshirô Mifune, Eijirô Tôno, Tatsuya Nakadai",
+    "production_country": "Japan",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYzFkODA1N2QtY2UyMC00NTMwLWEyNzctMmE3YjIzNzE1MzY4XkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/11878.webp",
+    "imdb_rating": "8.2",
+    "imdb_votes": "141,960",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Yojimbo",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/11878.txt",
+    "plot_year_start": 1860,
+    "plot_year_end": 1860,
+    "epoch": "industrial-age",
+    "action_countries": [
+      "JP"
+    ],
+    "action_continents": [
+      "Asia"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "county magistrates selling justice and fear",
+        "description": "For many common people, the state appears most plainly in the yamen, where magistrates, runners, clerks, and torture can turn law into a market for influence. What you'll see: court benches, bamboo rods, petitions, false testimony, seals and scrolls, and frightened villagers facing official power.",
+        "icon": "⚖️"
+      }
+    ]
+  },
+  {
+    "movie_id": 127533,
+    "movie_idx": 2459,
+    "imdb_id": "tt1979319",
+    "title": "Rurouni Kenshin Part I: Origins",
+    "production_year": "2012",
+    "genre": "Action, Adventure, Drama",
+    "plot": "In 1868, after the end of the Bakumatsu war, the former assassin Kenshin Himura promises to defend those in need without killing. Kenshin wanders through Japan with a reverse-edged sword during the transition of the samurai age to the New Age. When Kenshin helps the idealistic Kaoru Kamiya from the gangsters of the powerful opium drug lord Kanryuu Takeda that wants her school for his production of opium, Kaoru invites Kenshin to stay in the school. But the drug chemist Megumi Takani escapes from Kanryuu and seeks shelter in the school. Meanwhile the killer Battosai is murdering police officers and leaving messages attached to their bodies. When Kanryuu poisons the population to get the school, Kenshin and the street fighter Sanosuke Sagara join forces to attack their common enemy.",
+    "runtime": "134 min",
+    "director": "Keishi Otomo",
+    "actors": "Takeru Satoh, Emi Takei, Yû Aoi",
+    "production_country": "Japan",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNDgzODM2MjUyMF5BMl5BanBnXkFtZTgwMzg4MjA1OTE@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/127533.webp",
+    "imdb_rating": "7.4",
+    "imdb_votes": "30,780",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Rurouni_Kenshin_(film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/127533.txt",
+    "plot_year_start": 1868,
+    "plot_year_end": 1868,
+    "epoch": "industrial-age",
+    "action_countries": [
+      "JP"
+    ],
+    "action_continents": [
+      "Asia"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "dynasties and kingdoms under reform strain",
+        "description": "Courts and old ruling houses try to preserve their thrones by borrowing new methods, centralising power, and suppressing rivals, often too late to quiet unrest. What you'll see: palace councils, imperial edicts, nervous officials, court ceremony, and arguments over whether change will save or unmake the realm.",
+        "icon": "👑"
+      },
+      {
+        "label": "martial arts schools as public institutions",
+        "description": "Fighting arts are not only personal skills but organised schools, lineages, healing practices, and neighbourhood honour in towns under stress. What you'll see: training courtyards, signboards of rival schools, disciples serving masters, lion dances, challenge matches, and medicine halls joined to boxing rooms.",
+        "icon": "🥋"
+      }
+    ]
+  },
+  {
+    "movie_id": 34295,
+    "movie_idx": 2989,
+    "imdb_id": "tt0396659",
+    "title": "InuYasha the Movie 3: Swords of an Honorable Ruler",
+    "production_year": "2003",
+    "genre": "Animation, Action, Adventure",
+    "plot": "The legendary sword, So'unga, which belonged to the Great Dog Demon, has been unleashed. It seeks to cover the Earth in an eternal Hell and end all life on it. Inuyasha must join forces with his hateful brother, Sesshoumaru, and put an end to the evil sword that once belonged to their father.",
+    "runtime": "99 min",
+    "director": "Toshiya Shinohara",
+    "actors": "Kappei Yamaguchi, Satsuki Yukino, Kôji Tsujitani",
+    "production_country": "Japan",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMzI3Mzk1Mjg5OV5BMl5BanBnXkFtZTcwNzMzNjAzMQ@@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/34295.webp",
+    "imdb_rating": "7.6",
+    "imdb_votes": "2,472",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Inuyasha_the_Movie:_Swords_of_an_Honorable_Ruler",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/34295.txt",
+    "plot_year_start": 1800,
+    "plot_year_end": 2003,
+    "epoch": "industrial-age",
+    "action_countries": [
+      "JP"
+    ],
+    "action_continents": [
+      "Asia"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Inuyasha",
+    "categories": [
+      {
+        "label": "new weapons and transport changing the balance",
+        "description": "Firearms, drilled conscripts, steam travel, telegraphy, and foreign-made goods alter how states fight and how towns connect to wider markets. What you'll see: revolvers against swords, parade-ground drilling, rail or steam traffic, imported machinery, and old streets adjusting to new speed and reach.",
+        "icon": "🚂"
+      }
+    ]
+  },
+  {
+    "movie_id": 11230,
+    "movie_idx": 3207,
+    "imdb_id": "tt0080179",
+    "title": "Drunken Master",
+    "production_year": "1978",
+    "genre": "Action, Comedy",
+    "plot": "The father of Wong Fei-hong, who has been attempting to teach his son kung-fu, but has found him too disobedient to teach and decides to send him off to his uncle, a cruel and torturous master of the 8-Drunken Genii kung-fu. After much suffering the son comes back to rescue the father from an assassin.",
+    "runtime": "111 min",
+    "director": "Yuen Woo-Ping",
+    "actors": "Jackie Chan, Siu-Tin Yuen, Jeong-lee Hwang",
+    "production_country": "Hong Kong",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMGVjNzA2Y2QtNzNlOC00ODE2LWE3NDEtMzE4NzUwNjdhZWQzXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/11230.webp",
+    "imdb_rating": "7.4",
+    "imdb_votes": "46,835",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Drunken_Master",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/11230.txt",
+    "plot_year_start": 1890,
+    "plot_year_end": 1890,
+    "epoch": "industrial-age",
+    "action_countries": [
+      "CN"
+    ],
+    "action_continents": [
+      "Asia"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "martial arts schools as public institutions",
+        "description": "Fighting arts are not only personal skills but organised schools, lineages, healing practices, and neighbourhood honour in towns under stress. What you'll see: training courtyards, signboards of rival schools, disciples serving masters, lion dances, challenge matches, and medicine halls joined to boxing rooms.",
+        "icon": "🥋"
+      }
+    ]
+  },
+  {
+    "movie_id": 407436,
+    "movie_idx": 3487,
+    "imdb_id": "tt2388771",
+    "title": "Mowgli: Legend of the Jungle",
+    "production_year": "2018",
+    "genre": "Adventure, Drama, Fantasy",
+    "plot": "The story follows the upbringing of the human child Mowgli raised by a pack of wolves in the jungles of India. As he learns the often harsh rules of the jungle, under the tutelage of a bear named Baloo and a black panther named Bagheera, Mowgli becomes accepted by the animals of the jungle as one of their own, except for one; the fearsome tiger Shere Khan. But there may be greater dangers lurking in the jungle, as Mowgli comes face to face with his human origins.",
+    "runtime": "104 min",
+    "director": "Andy Serkis",
+    "actors": "Christian Bale, Cate Blanchett, Benedict Cumberbatch",
+    "production_country": "United Kingdom, United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjMzODc2NzU5MV5BMl5BanBnXkFtZTgwNTMwMTE3NjM@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/407436.webp",
+    "imdb_rating": "6.5",
+    "imdb_votes": "67,737",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Mowgli:_Legend_of_the_Jungle",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/407436.txt",
+    "plot_year_start": 1880,
+    "plot_year_end": 1885,
+    "epoch": "industrial-age",
+    "action_countries": [
+      "IN"
+    ],
+    "action_continents": [
+      "Asia"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "foreign powers carving out local authority",
+        "description": "Treaty ports, concessions, gunboats, and extraterritorial privilege let outside powers shape trade, law, and prestige within Asian realms. What you'll see: foreign compounds, customs houses, mixed streets of Chinese and European dress, interpreters, merchants, and soldiers carrying alien flags.",
+        "icon": "🚢"
+      }
+    ]
+  },
+  {
+    "movie_id": 221184,
+    "movie_idx": 3921,
+    "imdb_id": "tt3125154",
+    "title": "Ryo",
+    "production_year": "2013",
+    "genre": "Animation, Short, Action",
+    "plot": "Ryo is about the son of a samurai who lost his parents during the attack of English ships on a Japanese town who is given the name Ryo and becomes the bodyguard of Ryoma Sakamoto, a man who has his own plan to fight for the country.",
+    "runtime": "26 min",
+    "director": "Kôichi Chigira",
+    "actors": "Keiji Fujiwara, Ai Kayano, Minako Kotobuki",
+    "production_country": "Japan",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZGQwMGJlOWMtM2Q5Yy00YmFlLTkzMDYtNmI4NWUwOGI2NTkyXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/221184.webp",
+    "imdb_rating": "5.2",
+    "imdb_votes": "57",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Kirishima_Thing",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/221184.txt",
+    "plot_year_start": 1863,
+    "plot_year_end": 1867,
+    "epoch": "industrial-age",
+    "action_countries": [
+      "JP",
+      "GB"
+    ],
+    "action_continents": [
+      "Asia",
+      "Europe"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "old warrior orders losing their place",
+        "description": "Across East Asia, hereditary fighting elites and sword traditions are pressed aside by new state armies, police forces, and fresh codes of rule. What you'll see: samurai topknots and robes beside uniforms, schools of arms under pressure, and men measuring honour against a changing age.",
+        "icon": "🗡️"
+      },
+      {
+        "label": "foreign powers carving out local authority",
+        "description": "Treaty ports, concessions, gunboats, and extraterritorial privilege let outside powers shape trade, law, and prestige within Asian realms. What you'll see: foreign compounds, customs houses, mixed streets of Chinese and European dress, interpreters, merchants, and soldiers carrying alien flags.",
+        "icon": "🚢"
+      }
+    ]
+  },
+  {
+    "movie_id": 7549,
+    "movie_idx": 4104,
+    "imdb_id": "tt0446059",
+    "title": "Fearless",
+    "production_year": "2006",
+    "genre": "Action, Biography, Drama",
+    "plot": "Martial arts legend Huo Yuanjia became the most famous fighter in all of China at the turn of the 20th Century. Huo faced personal tragedy but ultimately fought his way out of darkness and into history, defining the true spirit of martial arts. His self-discovery, and the choices he made, inspired his nation. The son of a great fighter who did not wish for his child to follow in his footsteps, the bullied Huo Yuanjia resolves to teach himself how to fight - and win. Years of training enable him to ace match after match in his home region of Tianjin. But as his fame as a martial arts master grows, so does his pride. After an ill-advised fight leads to another master's death, members of Huo's family are slain in revenge. Grieving and ashamed, Huo wanders the country in shock. Near death, he is rescued by women from an idyllic village, and is offered simple kindness and generosity that help him heal and regain his equilibrium over a period of several years. Huo realizes that the future of martial arts lies in sportsmanship and not brutality, and he rejoins society to apply what he has learned. Returning to Tianjin, Huo takes steps to come to terms with his past and restore his family's name. His evolving, graceful Mizong (Missing) Fist method of fighting brings Huo renewed success, and he forms the progressive Jingwu Sports Federation. Taking note, duplicitous members of the Foreign Chamber of Commerce engineer a Shanghai tournament pitting Huo against four fighters, each representing the major foreign powers in China. Huo commits to the bout and faces off against, respectively, a British boxer, a Spanish swordsman, a Belgian soldier, and a Japanese martial artist. What happened that day in 1910 has never been, and will never be, forgotten in China.",
+    "runtime": "104 min",
+    "director": "Ronny Yu",
+    "actors": "Jet Li, Li Sun, Yong Dong",
+    "production_country": "China, Hong Kong, United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNjI1N2ZmOWMtODE2ZS00MzU5LWJhMzYtNWNmNDQ2NGIzNDM0XkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/7549.webp",
+    "imdb_rating": "7.6",
+    "imdb_votes": "81,053",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Fearless_(2006_film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/7549.txt",
+    "plot_year_start": 1907,
+    "plot_year_end": 1910,
+    "epoch": "industrial-age",
+    "action_countries": [
+      "CN",
+      "CN"
+    ],
+    "action_continents": [
+      "Asia",
+      "Asia"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "ports, rivers, and coasts ruled by smugglers",
+        "description": "Where official reach is thin, harbours and waterways become rich ground for pirates, gangs, secret dealings, and protection networks. What you'll see: dockside warehouses, coastal patrol craft, bribes, contraband, gang strongholds, and bustling waterfronts where trade and violence mix.",
+        "icon": "🏴‍☠️"
+      },
+      {
+        "label": "foreign powers carving out local authority",
+        "description": "Treaty ports, concessions, gunboats, and extraterritorial privilege let outside powers shape trade, law, and prestige within Asian realms. What you'll see: foreign compounds, customs houses, mixed streets of Chinese and European dress, interpreters, merchants, and soldiers carrying alien flags.",
+        "icon": "🚢"
+      }
+    ]
+  },
+  {
+    "movie_id": 12207,
+    "movie_idx": 4422,
+    "imdb_id": "tt31060058",
+    "title": "The Legend of Drunken Master (1994)",
+    "production_year": "1994",
+    "genre": "N/A",
+    "plot": "N/A",
+    "runtime": "N/A",
+    "director": "N/A",
+    "actors": "N/A",
+    "production_country": "N/A",
+    "poster": "N/A",
+    "imdb_rating": "N/A",
+    "imdb_votes": "N/A",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Drunken_Master",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/12207.txt",
+    "plot_year_start": 1880,
+    "plot_year_end": 1880,
+    "epoch": "industrial-age",
+    "action_countries": [
+      "CN"
+    ],
+    "action_continents": [
+      "Asia"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "martial arts schools as public institutions",
+        "description": "Fighting arts are not only personal skills but organised schools, lineages, healing practices, and neighbourhood honour in towns under stress. What you'll see: training courtyards, signboards of rival schools, disciples serving masters, lion dances, challenge matches, and medicine halls joined to boxing rooms.",
+        "icon": "🥋"
+      }
+    ],
+    "failures": {
+      "poster": "no_poster_url"
+    }
+  },
+  {
+    "movie_id": 55156,
+    "movie_idx": 5293,
+    "imdb_id": "tt0110201",
+    "title": "Hail the Judge",
+    "production_year": "1994",
+    "genre": "Comedy",
+    "plot": "Pao Lung-Sing, a descendant of the famous Judge Pao Ching Tient, is a 9th degree corrupt judge (lowest degree) who changes his tune when he tries to champion a woman Chi Siu-Lin, who was framed for killing her husband. As a result, Pao is forced to flee and through a series of events (often hilarious) becomes a 1st degree judge and comes back to wreak havoc and justice on the guilty.",
+    "runtime": "106 min",
+    "director": "Jing Wong",
+    "actors": "Stephen Chow, Sharla Cheung, Man-Tat Ng",
+    "production_country": "Hong Kong",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMWIwOTdkMjktZjg1ZC00YzEzLTlmYjAtMTFkNTkyODkwMDI4XkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/55156.webp",
+    "imdb_rating": "7.5",
+    "imdb_votes": "5,291",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Hail_the_Judge",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/55156.txt",
+    "plot_year_start": 1874,
+    "plot_year_end": 1874,
+    "epoch": "industrial-age",
+    "action_countries": [
+      "CN"
+    ],
+    "action_continents": [
+      "Asia"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "county magistrates selling justice and fear",
+        "description": "For many common people, the state appears most plainly in the yamen, where magistrates, runners, clerks, and torture can turn law into a market for influence. What you'll see: court benches, bamboo rods, petitions, false testimony, seals and scrolls, and frightened villagers facing official power.",
+        "icon": "⚖️"
+      }
+    ]
+  },
+  {
+    "movie_id": 49096,
+    "movie_idx": 5319,
+    "imdb_id": "tt0077132",
+    "title": "Empire of Passion",
+    "production_year": "1978",
+    "genre": "Drama, Horror, Romance",
+    "plot": "A young man has an affair with an older woman. He is very jealous of her husband and decides that they should kill him. One night, after the husband had plenty of sake to drink and was in bed, they strangle him and dump his body down a well. To avert any suspicions, she pretends her husband has gone off to Tokyo to work. For three years the wife and her lover secretly see each other. Finally, suspicions become very strong and people begin to gossip. To make matters worse, her husband's ghost begins to haunt her and the law arrives to investigate her husband's disappearance.",
+    "runtime": "105 min",
+    "director": "Nagisa Ôshima",
+    "actors": "Tatsuya Fuji, Kazuko Yoshiyuki, Takahiro Tamura",
+    "production_country": "Japan, France",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZjYwNjQ0YTItYjQ0Zi00N2FiLWI0ZjctZWZlMTM2NGFlMGRjXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/49096.webp",
+    "imdb_rating": "7.0",
+    "imdb_votes": "5,390",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Empire_of_Passion",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/49096.txt",
+    "plot_year_start": 1895,
+    "plot_year_end": 1898,
+    "epoch": "industrial-age",
+    "action_countries": [
+      "JP"
+    ],
+    "action_continents": [
+      "Asia"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "villages burdened by rents and taxes",
+        "description": "Rural life is tied to land dues, harvest failure, landlord claims, and state exactions, leaving peasants little margin when weather or war goes badly. What you'll see: parched fields, grain shortages, rent demands, tax collectors, crowded village councils, and families counting out what they cannot spare.",
+        "icon": "🌾"
+      }
+    ]
+  },
+  {
+    "movie_id": 32629,
+    "movie_idx": 5632,
+    "imdb_id": "tt0113757",
+    "title": "A Chinese Torture Chamber Story",
+    "production_year": "1994",
+    "genre": "Comedy, Drama, Horror",
+    "plot": "In ancient China, a corrupt judge tortures a young scholar and a young woman over the alleged crimes of adultery and the killing of the woman's husband, to shield the real culprits: the judge's son and the young scholar's wife.",
+    "runtime": "93 min",
+    "director": "Bosco Lam",
+    "actors": "Yvonne Hung Yung, Lawrence Ng, Mai Ching",
+    "production_country": "Hong Kong",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYTRjN2Y3YjQtNDllZS00ZTk1LWI5ZTgtMzFmN2FmMjgyYmZhXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/32629.webp",
+    "imdb_rating": "5.9",
+    "imdb_votes": "1,622",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/A_Chinese_Torture_Chamber_Story",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/32629.txt",
+    "plot_year_start": 1880,
+    "plot_year_end": 1880,
+    "epoch": "industrial-age",
+    "action_countries": [
+      "CN"
+    ],
+    "action_continents": [
+      "Asia"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "county magistrates selling justice and fear",
+        "description": "For many common people, the state appears most plainly in the yamen, where magistrates, runners, clerks, and torture can turn law into a market for influence. What you'll see: court benches, bamboo rods, petitions, false testimony, seals and scrolls, and frightened villagers facing official power.",
+        "icon": "⚖️"
+      },
+      {
+        "label": "villages burdened by rents and taxes",
+        "description": "Rural life is tied to land dues, harvest failure, landlord claims, and state exactions, leaving peasants little margin when weather or war goes badly. What you'll see: parched fields, grain shortages, rent demands, tax collectors, crowded village councils, and families counting out what they cannot spare.",
+        "icon": "🌾"
+      }
+    ]
+  },
+  {
+    "movie_id": 15917,
+    "movie_idx": 5703,
+    "imdb_id": "tt0238936",
+    "title": "Devdas",
+    "production_year": "2002",
+    "genre": "Drama, Musical, Romance",
+    "plot": "Devdas Mukherji is black-listed by his multi-millionaire Zamindar father, Narayan. After completing 10 years of study, Devdas returns to his hometown where his family prepares to welcome him, but their happiness changes when Devdas prefers to visit his childhood sweetheart, Parvati alias Paro, before paying respect to his mother. After so many years, Devdas finds he is still the black spot in his father's life, especially when he is prevented from marrying Paro, who happens to be a lower-caste girl. Eventually time passes with Paro's family arranging her marriage to a much older man, Bhuvan Choudhry, whose children are in her age group. This sadness not only breaks Devdas' heart but shackles him to alcohol in a big way. Soon Devdas starts to frequent a brothel and catches the eyes of a courtesan named Chandramukhi. Step by step, Devdas trudges down a path of self-destruction.",
+    "runtime": "185 min",
+    "director": "Sanjay Leela Bhansali",
+    "actors": "Shah Rukh Khan, Aishwarya Rai Bachchan, Madhuri Dixit",
+    "production_country": "India",
+    "poster": "https://m.media-amazon.com/images/M/MV5BODM3ZDE2YjQtMTcyMi00NzdhLWEyYzUtMjIwNjFlNDlmNjgzXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/15917.webp",
+    "imdb_rating": "7.5",
+    "imdb_votes": "50,716",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Devdas_(2002_Hindi_film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/15917.txt",
+    "plot_year_start": 1900,
+    "plot_year_end": 1900,
+    "epoch": "industrial-age",
+    "action_countries": [
+      "IN"
+    ],
+    "action_continents": [
+      "Asia"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "caste, rank, and household honour governing marriage",
+        "description": "Family standing, caste, class, and the authority of elders shape love, marriage, inheritance, and a person's place in respectable society. What you'll see: arranged matches, strict fathers, courtesan houses, concubines, wedding processions, and households where reputation weighs more than desire.",
+        "icon": "💍"
+      },
+      {
+        "label": "villages burdened by rents and taxes",
+        "description": "Rural life is tied to land dues, harvest failure, landlord claims, and state exactions, leaving peasants little margin when weather or war goes badly. What you'll see: parched fields, grain shortages, rent demands, tax collectors, crowded village councils, and families counting out what they cannot spare.",
+        "icon": "🌾"
+      }
+    ]
+  },
+  {
+    "movie_id": 8011,
+    "movie_idx": 5789,
+    "imdb_id": "tt33966897",
+    "title": "Highlander III: The Sorcerer (1994)",
+    "production_year": "1994",
+    "genre": "N/A",
+    "plot": "N/A",
+    "runtime": "N/A",
+    "director": "N/A",
+    "actors": "N/A",
+    "production_country": "N/A",
+    "poster": "N/A",
+    "imdb_rating": "N/A",
+    "imdb_votes": "N/A",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Highlander_III:_The_Sorcerer",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/8011.txt",
+    "plot_year_start": 1788,
+    "plot_year_end": 1994,
+    "epoch": "industrial-age",
+    "action_countries": [
+      "JP",
+      "FR",
+      "US",
+      "MA",
+      "GB",
+      "CA"
+    ],
+    "action_continents": [
+      "Asia",
+      "Europe",
+      "North America",
+      "Africa",
+      "Europe",
+      "North America"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Highlander Universe",
+    "categories": [
+      {
+        "label": "secret societies and sworn brotherhoods thriving",
+        "description": "In weak or divided times, men bind themselves through lodges, oaths, sects, and underground circles that promise protection, purpose, or deliverance. What you'll see: incense before altars, coded rituals, blood oaths, whispered meetings, banners, and mobs stirred by millenarian fervour or local loyalties.",
+        "icon": "🕯️"
+      }
+    ],
+    "failures": {
+      "poster": "no_poster_url"
+    }
+  },
+  {
+    "movie_id": 294993,
+    "movie_idx": 5864,
+    "imdb_id": "tt3469592",
+    "title": "Rise of the Legend",
+    "production_year": "2014",
+    "genre": "Action, Biography, Drama",
+    "plot": "Wong Fei-Hung played by Eddie Peng is a young man at 21 years old who is destined to become a master of his time, and an everlasting legend in the world of martial arts. In 1868 during the late Qing Dynasty, in Guangzhou, two crime factions run the Huangpu Port: The Black Tiger and the Northern Sea. For years, the Black Tiger's fearsome boss Lei Gong played by Sammo Hung has been trying to get rid of the leader of the Northern Sea. One of his latest recruits is Wong Fei-Hung, a fearless fighter who takes the Northern Sea leader's head after a fierce fight. Recognizing Fei-Hung's talent, Lei Gong makes the young warrior his godson and one of his Four Tigers, the most trusted men in the gang. There is more to young Fei than meets the eye and the truth about his past and the ultimate showdown soon unravels.",
+    "runtime": "131 min",
+    "director": "Roy Hin Yeung Chow",
+    "actors": "Sammo Kam-Bo Hung, Eddie Peng, Luodan Wang",
+    "production_country": "Hong Kong, China",
+    "poster": "https://m.media-amazon.com/images/M/MV5BY2VkM2VmNmYtNWE5YS00ZGRlLTkyN2EtNmI1NzY1ZDdhNWZkXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/294993.webp",
+    "imdb_rating": "6.4",
+    "imdb_votes": "4,691",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Rise_of_the_Legend",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/294993.txt",
+    "plot_year_start": 1868,
+    "plot_year_end": 1868,
+    "epoch": "industrial-age",
+    "action_countries": [
+      "CN"
+    ],
+    "action_continents": [
+      "Asia"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "ports, rivers, and coasts ruled by smugglers",
+        "description": "Where official reach is thin, harbours and waterways become rich ground for pirates, gangs, secret dealings, and protection networks. What you'll see: dockside warehouses, coastal patrol craft, bribes, contraband, gang strongholds, and bustling waterfronts where trade and violence mix.",
+        "icon": "🏴‍☠️"
+      }
+    ]
+  },
+  {
+    "movie_id": 97430,
+    "movie_idx": 5893,
+    "imdb_id": "tt1258972",
+    "title": "The Man with the Iron Fists",
+    "production_year": "2012",
+    "genre": "Action",
+    "plot": "In Jungle Village, the leader of the Lion's clan Gold Lion is summoned by the Governor and assigned to protect his gold that will be transported through the village. However he is betrayed and murdered by the greedy Silver Lion and Bronze Lion. Gold Lion's favorite son Zen Yi, a.k.a. The X-Blade, seeks revenge and heads to Jungle Village, but he is defeated by Brass Body and rescued by the local Blacksmith Thaddeus. Meanwhile the Gemini Female and the Gemini Male protect the Governor's gold, but they are vanquished by the army of Silver and Bronze Lion. The Blacksmith is abducted by the Lions and has his arms severed by Brass Body. However he is saved by the British Jack Knife, who is the emissary of the Emperor, and he manufactures iron arms for Thaddeus. Meanwhile the Governor sends the Jackal army to fight against the Lions and they hide the gold in the brothel of Madam Blossom. However, Madam Blossom and her girls form an army of black widows and together with Jack, Zen Yi and The Blacksmith, they fight against the Lions.",
+    "runtime": "95 min",
+    "director": "RZA",
+    "actors": "RZA, Rick Yune, Russell Crowe",
+    "production_country": "United States, Hong Kong",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTg5ODI3ODkzOV5BMl5BanBnXkFtZTcwMTQxNjUwOA@@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/97430.webp",
+    "imdb_rating": "5.4",
+    "imdb_votes": "65,233",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Man_with_the_Iron_Fists",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/97430.txt",
+    "plot_year_start": 1860,
+    "plot_year_end": 1860,
+    "epoch": "industrial-age",
+    "action_countries": [
+      "CN"
+    ],
+    "action_continents": [
+      "Asia"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "dynasties and kingdoms under reform strain",
+        "description": "Courts and old ruling houses try to preserve their thrones by borrowing new methods, centralising power, and suppressing rivals, often too late to quiet unrest. What you'll see: palace councils, imperial edicts, nervous officials, court ceremony, and arguments over whether change will save or unmake the realm.",
+        "icon": "👑"
+      },
+      {
+        "label": "old warrior orders losing their place",
+        "description": "Across East Asia, hereditary fighting elites and sword traditions are pressed aside by new state armies, police forces, and fresh codes of rule. What you'll see: samurai topknots and robes beside uniforms, schools of arms under pressure, and men measuring honour against a changing age.",
+        "icon": "🗡️"
+      }
+    ]
+  },
+  {
+    "movie_id": 1439,
+    "movie_idx": 6125,
+    "imdb_id": "tt0166485",
+    "title": "Anna and the King",
+    "production_year": "1999",
+    "genre": "Drama, History, Romance",
+    "plot": "This is the story of Anna Leonowens, the English schoolteacher who came to Siam in the 1860s to teach the children of King Mongkut. She becomes involved in his affairs, from the tragic plight of a young concubine to trying to forge an alliance with Britain to a war with Burma that is orchestrated by Britain. In the meantime, a subtle romance develops between them.",
+    "runtime": "148 min",
+    "director": "Andy Tennant",
+    "actors": "Jodie Foster, Chow Yun-Fat, Bai Ling",
+    "production_country": "United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYmEyMzhiYTItN2MxNy00MWQ4LTgyMTUtM2VlNWJlZWQ0ZGNhXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/1439.webp",
+    "imdb_rating": "6.7",
+    "imdb_votes": "40,005",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Anna_and_the_King",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/1439.txt",
+    "plot_year_start": 1860,
+    "plot_year_end": 1869,
+    "epoch": "industrial-age",
+    "action_countries": [
+      "TH",
+      "GB",
+      "MM"
+    ],
+    "action_continents": [
+      "Asia",
+      "Europe",
+      "Asia"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "foreign powers carving out local authority",
+        "description": "Treaty ports, concessions, gunboats, and extraterritorial privilege let outside powers shape trade, law, and prestige within Asian realms. What you'll see: foreign compounds, customs houses, mixed streets of Chinese and European dress, interpreters, merchants, and soldiers carrying alien flags.",
+        "icon": "🚢"
+      },
+      {
+        "label": "dynasties and kingdoms under reform strain",
+        "description": "Courts and old ruling houses try to preserve their thrones by borrowing new methods, centralising power, and suppressing rivals, often too late to quiet unrest. What you'll see: palace councils, imperial edicts, nervous officials, court ceremony, and arguments over whether change will save or unmake the realm.",
+        "icon": "👑"
+      }
+    ]
+  },
+  {
+    "movie_id": 21519,
+    "movie_idx": 6365,
+    "imdb_id": "tt0085127",
+    "title": "Project A",
+    "production_year": "1983",
+    "genre": "Action, Adventure, Comedy",
+    "plot": "In late 19th Century Hong Kong the British may rule the land, but the pirates rule the waters. Reluctantly, the Coast Guard is given money to fight these pirates, but the pirates themselves have many contacts (that is, bribed officials) in the government, and seek to thwart the Coast Guard's efforts to eliminate them. One Coast Guard officer is Dragon Ma, who is determined that his beloved Coast Guard will not be made fools of.",
+    "runtime": "105 min",
+    "director": "Jackie Chan, Sammo Kam-Bo Hung",
+    "actors": "Jackie Chan, Sammo Kam-Bo Hung, Biao Yuen",
+    "production_country": "Hong Kong",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMzUzOTIwZDAtYzIxNy00MDdiLTlkYWYtZWEyODYyODU2YmVmXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/21519.webp",
+    "imdb_rating": "7.2",
+    "imdb_votes": "20,232",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Project_A_(film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/21519.txt",
+    "plot_year_start": 1911,
+    "plot_year_end": 1911,
+    "epoch": "industrial-age",
+    "action_countries": [
+      "HK",
+      "VN"
+    ],
+    "action_continents": [
+      "Asia",
+      "Asia"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "ports, rivers, and coasts ruled by smugglers",
+        "description": "Where official reach is thin, harbours and waterways become rich ground for pirates, gangs, secret dealings, and protection networks. What you'll see: dockside warehouses, coastal patrol craft, bribes, contraband, gang strongholds, and bustling waterfronts where trade and violence mix.",
+        "icon": "🏴‍☠️"
+      },
+      {
+        "label": "foreign powers carving out local authority",
+        "description": "Treaty ports, concessions, gunboats, and extraterritorial privilege let outside powers shape trade, law, and prestige within Asian realms. What you'll see: foreign compounds, customs houses, mixed streets of Chinese and European dress, interpreters, merchants, and soldiers carrying alien flags.",
+        "icon": "🚢"
+      }
+    ]
+  },
+  {
+    "movie_id": 221731,
+    "movie_idx": 6369,
+    "imdb_id": "tt3029558",
+    "title": "Rurouni Kenshin Part II: Kyoto Inferno",
+    "production_year": "2014",
+    "genre": "Action, Adventure, Drama",
+    "plot": "Makoto, an assassin who once was contracted by the government, has since become obsessed with tearing it down. Formerly, Kenshin was mainly concerned with protecting Kaoru, but the stakes are now higher as he struggles to protect the nation itself.",
+    "runtime": "138 min",
+    "director": "Keishi Otomo",
+    "actors": "Takeru Satoh, Emi Takei, Tatsuya Fujiwara",
+    "production_country": "Japan",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYzVjN2I2ZGQtYmRjZS00YzI3LWFiYzctZDVjMDVmZTAxNzQ1XkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/221731.webp",
+    "imdb_rating": "7.5",
+    "imdb_votes": "19,770",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Rurouni_Kenshin:_Kyoto_Inferno",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/221731.txt",
+    "plot_year_start": 1878,
+    "plot_year_end": 1878,
+    "epoch": "industrial-age",
+    "action_countries": [
+      "JP"
+    ],
+    "action_continents": [
+      "Asia"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "dynasties and kingdoms under reform strain",
+        "description": "Courts and old ruling houses try to preserve their thrones by borrowing new methods, centralising power, and suppressing rivals, often too late to quiet unrest. What you'll see: palace councils, imperial edicts, nervous officials, court ceremony, and arguments over whether change will save or unmake the realm.",
+        "icon": "👑"
+      }
+    ]
+  },
+  {
+    "movie_id": 10618,
+    "movie_idx": 6521,
+    "imdb_id": "tt0105839",
+    "title": "Once Upon a Time in China II",
+    "production_year": "1992",
+    "genre": "Action, Adventure, Biography",
+    "plot": "In the sequel to the Tsui Hark classic, Wong Fei-Hung faces The White Lotus society, a fanatical cult seeking to drive the Europeans out of China through violence, even attacking Chinese who follow Western ways. Wong must also defend Dr. Sun Yat Sen, a revolutionary, from the military. With his friends, loved ones, and the future of China itself at stake, Wong must once again use his martial arts skills to defend the innocent.",
+    "runtime": "113 min",
+    "director": "Hark Tsui",
+    "actors": "Jet Li, Rosamund Kwan, Mok Siu-Chung",
+    "production_country": "Hong Kong",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjRkYWU3MzEtZWQ0Ni00ZmM2LWFkZDEtNTNhZjkwMjA0NDY0XkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/10618.webp",
+    "imdb_rating": "7.3",
+    "imdb_votes": "11,259",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Once_Upon_a_Time_in_China_II",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/10618.txt",
+    "plot_year_start": 1895,
+    "plot_year_end": 1895,
+    "epoch": "industrial-age",
+    "action_countries": [
+      "CN"
+    ],
+    "action_continents": [
+      "Asia"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "foreign powers carving out local authority",
+        "description": "Treaty ports, concessions, gunboats, and extraterritorial privilege let outside powers shape trade, law, and prestige within Asian realms. What you'll see: foreign compounds, customs houses, mixed streets of Chinese and European dress, interpreters, merchants, and soldiers carrying alien flags.",
+        "icon": "🚢"
+      },
+      {
+        "label": "secret societies and sworn brotherhoods thriving",
+        "description": "In weak or divided times, men bind themselves through lodges, oaths, sects, and underground circles that promise protection, purpose, or deliverance. What you'll see: incense before altars, coded rituals, blood oaths, whispered meetings, banners, and mobs stirred by millenarian fervour or local loyalties.",
+        "icon": "🕯️"
+      }
+    ]
+  },
+  {
+    "movie_id": 37034,
+    "movie_idx": 6643,
+    "imdb_id": "tt1425257",
+    "title": "True Legend",
+    "production_year": "2010",
+    "genre": "Action, Drama, History",
+    "plot": "Su Qi-Er retired from his life as a renowned Qing dynasty general in order to pursue his dream of a family and his own martial arts school. However, Su's peaceful life is shattered when his vengeful adopted brother, Yuan Lie, kidnaps his son and leaves Su for dead. Saved from his demise by his wife Ying and the reclusive doctor Yu, Su resolves to perfect his technique so that he may defeat Yuan Lie and reunite his family. Suffering from visions that he aided in his training by two of the \"Eight Immortals\" in the form of the mystical \"God of Wushu\" and the eccentric \"Old Sage\" master of Drunken Boxing. He embarks on the path that would eventually give rise to the legend of the \"King of Beggars.\"",
+    "runtime": "115 min",
+    "director": "Yuen Woo-Ping",
+    "actors": "Wenzhuo Zhao, Xun Zhou, Andy On",
+    "production_country": "China",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMGUxMmE2ZTgtNzBhZS00MTVjLThhZDEtZGI5OTQwNDgxOTRkXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/37034.webp",
+    "imdb_rating": "6.4",
+    "imdb_votes": "9,334",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/True_Legend",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/37034.txt",
+    "plot_year_start": 1870,
+    "plot_year_end": 1905,
+    "epoch": "industrial-age",
+    "action_countries": [
+      "CN"
+    ],
+    "action_continents": [
+      "Asia"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "martial arts schools as public institutions",
+        "description": "Fighting arts are not only personal skills but organised schools, lineages, healing practices, and neighbourhood honour in towns under stress. What you'll see: training courtyards, signboards of rival schools, disciples serving masters, lion dances, challenge matches, and medicine halls joined to boxing rooms.",
+        "icon": "🥋"
+      },
+      {
+        "label": "secret societies and sworn brotherhoods thriving",
+        "description": "In weak or divided times, men bind themselves through lodges, oaths, sects, and underground circles that promise protection, purpose, or deliverance. What you'll see: incense before altars, coded rituals, blood oaths, whispered meetings, banners, and mobs stirred by millenarian fervour or local loyalties.",
+        "icon": "🕯️"
+      }
+    ]
+  },
+  {
+    "movie_id": 46528,
+    "movie_idx": 6934,
+    "imdb_id": "tt1032751",
+    "title": "The Warrior's Way",
+    "production_year": "2010",
+    "genre": "Action, Drama, Fantasy",
+    "plot": "Yang, the world's finest swordsman, packs it in and leaves Japan to find an old friend in the Wild West rather than kill the infant queen of a rival clan. He carries the baby to his friend's desolate, broken-down town; the friend has died, so Yang reopens a laundry and settles down, hanging wet clothes, growing flowers, raising the infant, and finding himself attracted to Lynne, a red-haired woman with a tragic past. As long as Yang keeps his sword sheathed, his rivals won't find him, but a band of reprobate gunmen terrorize the town and threaten Lynne. Showdowns are inevitable, but once the sword is drawn, can Yang find rest, a home, and a family?",
+    "runtime": "100 min",
+    "director": "Sngmoo Lee",
+    "actors": "Jang Dong-gun, Kate Bosworth, Geoffrey Rush",
+    "production_country": "New Zealand, South Korea",
+    "poster": "https://m.media-amazon.com/images/M/MV5BOTdhMDU2NDMtNTc2OS00MTc1LWI2MjItZjQ5OGUxMjc4NTA4XkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/46528.webp",
+    "imdb_rating": "6.3",
+    "imdb_votes": "27,820",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Warrior%27s_Way",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/46528.txt",
+    "plot_year_start": 1870,
+    "plot_year_end": 1870,
+    "epoch": "industrial-age",
+    "action_countries": [
+      "JP",
+      "US",
+      "UNKNOWN"
+    ],
+    "action_continents": [
+      "Asia",
+      "North America",
+      "UNKNOWN"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "ports, rivers, and coasts ruled by smugglers",
+        "description": "Where official reach is thin, harbours and waterways become rich ground for pirates, gangs, secret dealings, and protection networks. What you'll see: dockside warehouses, coastal patrol craft, bribes, contraband, gang strongholds, and bustling waterfronts where trade and violence mix.",
+        "icon": "🏴‍☠️"
+      }
+    ]
+  },
+  {
+    "movie_id": 30596,
+    "movie_idx": 6942,
+    "imdb_id": "tt1403130",
+    "title": "Bodyguards and Assassins",
+    "production_year": "2009",
+    "genre": "Action, Drama, History",
+    "plot": "In 1905, revolutionist Sun Yat-Sen visits Hong Kong to discuss plans with Tongmenghui members to overthrow the Qing dynasty. But when they find out that assassins have been sent to kill him, they assemble a group of protectors to prevent any attacks.",
+    "runtime": "139 min",
+    "director": "Teddy Chan",
+    "actors": "Xueqi Wang, Tony Ka Fai Leung, Jun Hu",
+    "production_country": "China, Hong Kong",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZDgzY2E1ZmUtOTExMC00NDVhLWI3OWQtMjI3M2ZkZjNhOTUyXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/30596.webp",
+    "imdb_rating": "6.8",
+    "imdb_votes": "8,664",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Bodyguards_and_Assassins",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/30596.txt",
+    "plot_year_start": 1905,
+    "plot_year_end": 1905,
+    "epoch": "industrial-age",
+    "action_countries": [
+      "HK"
+    ],
+    "action_continents": [
+      "Asia"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "secret societies and sworn brotherhoods thriving",
+        "description": "In weak or divided times, men bind themselves through lodges, oaths, sects, and underground circles that promise protection, purpose, or deliverance. What you'll see: incense before altars, coded rituals, blood oaths, whispered meetings, banners, and mobs stirred by millenarian fervour or local loyalties.",
+        "icon": "🕯️"
+      },
+      {
+        "label": "foreign powers carving out local authority",
+        "description": "Treaty ports, concessions, gunboats, and extraterritorial privilege let outside powers shape trade, law, and prestige within Asian realms. What you'll see: foreign compounds, customs houses, mixed streets of Chinese and European dress, interpreters, merchants, and soldiers carrying alien flags.",
+        "icon": "🚢"
+      }
+    ]
+  },
+  {
+    "movie_id": 432985,
+    "movie_idx": 6982,
+    "imdb_id": "tt5805470",
+    "title": "Gintama Live Action the Movie",
+    "production_year": "2017",
+    "genre": "Action, Adventure, Comedy",
+    "plot": "In an era where aliens have invaded and conquered feudal Tokyo, a young samurai seeks work as he can.",
+    "runtime": "131 min",
+    "director": "Yûichi Fukuda",
+    "actors": "Takayuki Yamada, Shun Oguri, Masami Nagasawa",
+    "production_country": "Japan",
+    "poster": "https://m.media-amazon.com/images/M/MV5BY2EzYzdjY2MtZGIyNS00NTIzLTgzY2QtYjM5NDNkMDQ0MDAyXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/432985.webp",
+    "imdb_rating": "6.1",
+    "imdb_votes": "2,912",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Gintama_(film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/432985.txt",
+    "plot_year_start": 1868,
+    "plot_year_end": 1868,
+    "epoch": "industrial-age",
+    "action_countries": [
+      "JP"
+    ],
+    "action_continents": [
+      "Asia"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "foreign powers carving out local authority",
+        "description": "Treaty ports, concessions, gunboats, and extraterritorial privilege let outside powers shape trade, law, and prestige within Asian realms. What you'll see: foreign compounds, customs houses, mixed streets of Chinese and European dress, interpreters, merchants, and soldiers carrying alien flags.",
+        "icon": "🚢"
+      },
+      {
+        "label": "dynasties and kingdoms under reform strain",
+        "description": "Courts and old ruling houses try to preserve their thrones by borrowing new methods, centralising power, and suppressing rivals, often too late to quiet unrest. What you'll see: palace councils, imperial edicts, nervous officials, court ceremony, and arguments over whether change will save or unmake the realm.",
+        "icon": "👑"
+      }
+    ]
+  },
+  {
+    "movie_id": 76349,
+    "movie_idx": 7084,
+    "imdb_id": "tt1772230",
+    "title": "1911",
+    "production_year": "2011",
+    "genre": "Drama, History, War",
+    "plot": "At the beginning of the 20th century, China is in a state of crisis. The country is split into warring factions, the citizens are starving, and recent political reforms have made matters worse, not better. The ruling Qing Dynasty, led by a seven-year-old emperor, and his ruthless mother, Empress Dowager Longyu is completely out of touch after 250 years of unquestioned power. Huang Xing has recently returned from Japan, where he has studied the art of modern warfare. When he finds his country falling apart, he feels he has no choice but to pick up the sword.",
+    "runtime": "99 min",
+    "director": "Tao Hai, Wei Li, Guoqiang Tang",
+    "actors": "Jackie Chan, Winston Chao, Bingbing Li",
+    "production_country": "China, Hong Kong, Taiwan",
+    "poster": "https://m.media-amazon.com/images/M/MV5BODgzNzQxYmEtZjVhNi00OWViLWI2N2YtMDUxNjE5MmViZmVmXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/76349.webp",
+    "imdb_rating": "5.7",
+    "imdb_votes": "6,755",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/1911_(film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/76349.txt",
+    "plot_year_start": 1911,
+    "plot_year_end": 1912,
+    "epoch": "industrial-age",
+    "action_countries": [
+      "CN",
+      "JP"
+    ],
+    "action_continents": [
+      "Asia",
+      "Asia"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "dynasties and kingdoms under reform strain",
+        "description": "Courts and old ruling houses try to preserve their thrones by borrowing new methods, centralising power, and suppressing rivals, often too late to quiet unrest. What you'll see: palace councils, imperial edicts, nervous officials, court ceremony, and arguments over whether change will save or unmake the realm.",
+        "icon": "👑"
+      },
+      {
+        "label": "new weapons and transport changing the balance",
+        "description": "Firearms, drilled conscripts, steam travel, telegraphy, and foreign-made goods alter how states fight and how towns connect to wider markets. What you'll see: revolvers against swords, parade-ground drilling, rail or steam traffic, imported machinery, and old streets adjusting to new speed and reach.",
+        "icon": "🚂"
+      }
+    ]
+  },
+  {
+    "movie_id": 10714,
+    "movie_idx": 7291,
+    "imdb_id": "tt0110213",
+    "title": "The Jungle Book",
+    "production_year": "1994",
+    "genre": "Adventure, Family, Fantasy",
+    "plot": "An adaptation of Rudyard Kipling's classic tale of Mowgli the jungle boy who is raised by wild animals after being lost when a tiger attacked an encampment and killed his father. Years later he finds himself re-united with his childhood love Kitty and back in the \"civilization\" of Colonial India which he finds far less civilized then his jungle haunts. The search for a lost treasure shows who the truly civilized members of society are.",
+    "runtime": "111 min",
+    "director": "Stephen Sommers",
+    "actors": "Jason Scott Lee, Cary Elwes, Lena Headey",
+    "production_country": "United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNTk3M2NmNTItNDYwNy00MzRlLWI5M2UtZmYwODA2NTExZDRlXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/10714.webp",
+    "imdb_rating": "6.1",
+    "imdb_votes": "19,347",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Jungle_Book_(1994_film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/10714.txt",
+    "plot_year_start": 1890,
+    "plot_year_end": 1890,
+    "epoch": "industrial-age",
+    "action_countries": [
+      "IN",
+      "GB"
+    ],
+    "action_continents": [
+      "Asia",
+      "Europe"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "foreign powers carving out local authority",
+        "description": "Treaty ports, concessions, gunboats, and extraterritorial privilege let outside powers shape trade, law, and prestige within Asian realms. What you'll see: foreign compounds, customs houses, mixed streets of Chinese and European dress, interpreters, merchants, and soldiers carrying alien flags.",
+        "icon": "🚢"
+      }
+    ]
+  },
+  {
+    "movie_id": 284552,
+    "movie_idx": 7949,
+    "imdb_id": "tt0112672",
+    "title": "Lover of the Last Empress",
+    "production_year": "1995",
+    "genre": "Drama, History",
+    "plot": "A legendary curse is placed on the fall of the Manchu Dynasty. Empress Dowager Cixi goes from just another pretty face in the harem of the concubines to the First Lady of Vice via various strategies and manipulations in a most-ambitious political conspiracy with spine-chilling viciousness.",
+    "runtime": "100 min",
+    "director": "Wai Keung Lau",
+    "actors": "Chingmy Yau, Tony Ka Fai Leung, Rongguang Yu",
+    "production_country": "Hong Kong",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYmU5NTFkMDgtYjhiMi00NjMyLWE1ODItYjY5Zjk5NTk0N2ZhXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/284552.webp",
+    "imdb_rating": "5.6",
+    "imdb_votes": "380",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Last_Empress",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/284552.txt",
+    "plot_year_start": 1861,
+    "plot_year_end": 1908,
+    "epoch": "industrial-age",
+    "action_countries": [
+      "CN"
+    ],
+    "action_continents": [
+      "Asia"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "dynasties and kingdoms under reform strain",
+        "description": "Courts and old ruling houses try to preserve their thrones by borrowing new methods, centralising power, and suppressing rivals, often too late to quiet unrest. What you'll see: palace councils, imperial edicts, nervous officials, court ceremony, and arguments over whether change will save or unmake the realm.",
+        "icon": "👑"
+      },
+      {
+        "label": "caste, rank, and household honour governing marriage",
+        "description": "Family standing, caste, class, and the authority of elders shape love, marriage, inheritance, and a person's place in respectable society. What you'll see: arranged matches, strict fathers, courtesan houses, concubines, wedding processions, and households where reputation weighs more than desire.",
+        "icon": "💍"
+      }
+    ]
+  },
+  {
+    "movie_id": 47648,
+    "movie_idx": 8418,
+    "imdb_id": "tt0100963",
+    "title": "King of Beggars",
+    "production_year": "1992",
+    "genre": "Action, Comedy, Drama",
+    "plot": "The spoilt son of a millionaire finds the love of his life, but she will only accept him if he proves himself as a kung-fu master. He enters and wins the \"Kung-Fu Scholar\" tournament, little realizing that this victory will lead to him becoming penniless, homeless and sleepy. One day, while sleeping under a tree, he encounters a beggar he helped when he was still rich.",
+    "runtime": "101 min",
+    "director": "Gordon Chan",
+    "actors": "Stephen Chow, Sharla Cheung, Man-Tat Ng",
+    "production_country": "Hong Kong, China",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNmVhNmZiYWUtNDg2Mi00OTdlLWE2YjUtNTQyODdjZWYzYzMxXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/47648.webp",
+    "imdb_rating": "6.9",
+    "imdb_votes": "4,543",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/King_of_Beggars",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/47648.txt",
+    "plot_year_start": 1890,
+    "plot_year_end": 1890,
+    "epoch": "industrial-age",
+    "action_countries": [
+      "CN",
+      "HK"
+    ],
+    "action_continents": [
+      "Asia",
+      "Asia"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "county magistrates selling justice and fear",
+        "description": "For many common people, the state appears most plainly in the yamen, where magistrates, runners, clerks, and torture can turn law into a market for influence. What you'll see: court benches, bamboo rods, petitions, false testimony, seals and scrolls, and frightened villagers facing official power.",
+        "icon": "⚖️"
+      }
+    ]
+  },
+  {
+    "movie_id": 12780,
+    "movie_idx": 8435,
+    "imdb_id": "tt0108148",
+    "title": "Iron Monkey",
+    "production_year": "1993",
+    "genre": "Action, Crime, Drama",
+    "plot": "A Hong Kong variation on Robin Hood. The corrupt officials of a Chinese village are continually robbed by a masked bandit know as \"Iron Monkey\" named after a benevolent deity. When all else fails, the Govenor forces a traveling physician (Donnie Yen) into finding the bandit. The arrival of an evil Shaolin monk, brings the Physician and Iron Monkey together to battle the corrupt government.",
+    "runtime": "85 min",
+    "director": "Yuen Woo-Ping",
+    "actors": "Rongguang Yu, Donnie Yen, Jean Wang",
+    "production_country": "Hong Kong, Taiwan",
+    "poster": "https://m.media-amazon.com/images/M/MV5BOWE2NzA1YTAtNmIwMi00ZjhlLTg2YTYtZGZlMDdlNjJiZWJkXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/12780.webp",
+    "imdb_rating": "7.5",
+    "imdb_votes": "17,765",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Iron_Monkey_(1993_film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/12780.txt",
+    "plot_year_start": 1887,
+    "plot_year_end": 1887,
+    "epoch": "industrial-age",
+    "action_countries": [
+      "CN"
+    ],
+    "action_continents": [
+      "Asia"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "county magistrates selling justice and fear",
+        "description": "For many common people, the state appears most plainly in the yamen, where magistrates, runners, clerks, and torture can turn law into a market for influence. What you'll see: court benches, bamboo rods, petitions, false testimony, seals and scrolls, and frightened villagers facing official power.",
+        "icon": "⚖️"
+      },
+      {
+        "label": "villages burdened by rents and taxes",
+        "description": "Rural life is tied to land dues, harvest failure, landlord claims, and state exactions, leaving peasants little margin when weather or war goes badly. What you'll see: parched fields, grain shortages, rent demands, tax collectors, crowded village councils, and families counting out what they cannot spare.",
+        "icon": "🌾"
+      }
+    ]
+  },
+  {
+    "movie_id": 26480,
+    "movie_idx": 8484,
+    "imdb_id": "tt0070297",
+    "title": "The Legend of the 7 Golden Vampires",
+    "production_year": "1974",
+    "genre": "Action, Horror",
+    "plot": "Count Dracula journeys to a remote Chinese village in the guise of a warlord to support six vampires who are dispirited after the loss of a seventh member of their cult. At the same time, vampire hunter Prof. Van Helsing happens to be lecturing in the country and is persuaded by villagers to help them fight this curse of the ages.",
+    "runtime": "89 min",
+    "director": "Roy Ward Baker, Cheh Chang",
+    "actors": "Peter Cushing, David Chiang, Julie Ege",
+    "production_country": "United Kingdom, Hong Kong",
+    "poster": "https://m.media-amazon.com/images/M/MV5BM2I3MTU5ZTYtOTJiYy00M2VlLTk4MWMtOTU2OWU5Y2EzYTA4XkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/26480.webp",
+    "imdb_rating": "5.8",
+    "imdb_votes": "5,378",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Legend_of_the_7_Golden_Vampires",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/26480.txt",
+    "plot_year_start": 1804,
+    "plot_year_end": 1904,
+    "epoch": "industrial-age",
+    "action_countries": [
+      "CN",
+      "GB",
+      "RO"
+    ],
+    "action_continents": [
+      "Asia",
+      "Europe",
+      "Europe"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Dracula (Hammer film series)",
+    "categories": [
+      {
+        "label": "villages burdened by rents and taxes",
+        "description": "Rural life is tied to land dues, harvest failure, landlord claims, and state exactions, leaving peasants little margin when weather or war goes badly. What you'll see: parched fields, grain shortages, rent demands, tax collectors, crowded village councils, and families counting out what they cannot spare.",
+        "icon": "🌾"
+      },
+      {
+        "label": "martial arts schools as public institutions",
+        "description": "Fighting arts are not only personal skills but organised schools, lineages, healing practices, and neighbourhood honour in towns under stress. What you'll see: training courtyards, signboards of rival schools, disciples serving masters, lion dances, challenge matches, and medicine halls joined to boxing rooms.",
+        "icon": "🥋"
+      }
+    ]
+  },
+  {
+    "movie_id": 19666,
+    "movie_idx": 8694,
+    "imdb_id": "tt0169102",
+    "title": "Lagaan: Once Upon a Time in India",
+    "production_year": "2001",
+    "genre": "Drama, Musical, Sport",
+    "plot": "This is the story about the resilience shown by the Indians when they were under the British Rule. They are already taxed to the bone by the British and their cronies, but when Jack Russell announces that he will double the Lagaan (tax) from all villagers, they decide to oppose it. Leading the villagers is a handsome young man named Bhuvan, who challenges them to a game of cricket, a game that is to be played by veteran British cricket players, versus villagers, including Bhuvan himself, who have never played this game before, and do not even know a bat from a piece of wood. As the challenge is accepted, the interest grows and attracts Indians from all over the region, as well as the British from all over the country - as everyone gathers to see the 'fair play' that the British will display against their counter-parts, who are aided by none other than the sister, Elizabeth, of Captain Rusell.",
+    "runtime": "224 min",
+    "director": "Ashutosh Gowariker",
+    "actors": "Aamir Khan, Raghubir Yadav, Gracy Singh",
+    "production_country": "India, United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BM2FmODM4OTktOTRjOS00ZTIzLWIzZjAtMDBhOGEzYThkNzMzXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/19666.webp",
+    "imdb_rating": "8.1",
+    "imdb_votes": "126,682",
+    "wikipedia_url": "https://simple.wikipedia.org/wiki/Lagaan",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/19666.txt",
+    "plot_year_start": 1893,
+    "plot_year_end": 1893,
+    "epoch": "industrial-age",
+    "action_countries": [
+      "IN"
+    ],
+    "action_continents": [
+      "Asia"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "foreign powers carving out local authority",
+        "description": "Treaty ports, concessions, gunboats, and extraterritorial privilege let outside powers shape trade, law, and prestige within Asian realms. What you'll see: foreign compounds, customs houses, mixed streets of Chinese and European dress, interpreters, merchants, and soldiers carrying alien flags.",
+        "icon": "🚢"
+      },
+      {
+        "label": "villages burdened by rents and taxes",
+        "description": "Rural life is tied to land dues, harvest failure, landlord claims, and state exactions, leaving peasants little margin when weather or war goes badly. What you'll see: parched fields, grain shortages, rent demands, tax collectors, crowded village councils, and families counting out what they cannot spare.",
+        "icon": "🌾"
+      }
+    ]
+  },
+  {
+    "movie_id": 27759,
+    "movie_idx": 9522,
+    "imdb_id": "tt0056800",
+    "title": "55 Days at Peking",
+    "production_year": "1963",
+    "genre": "Action, Adventure, Drama",
+    "plot": "Diplomats, soldiers, and other representatives of a dozen nations fend off the siege of the International Compound in Peking during the 1899 to 1901 Boxer Rebellion. The disparate interests unite for survival, despite competing factions, overwhelming odds, delayed relief, and tacit support of the Boxers by Dowager Empress Tzu-Hsi (Dame Flora Robson) and her Generals.",
+    "runtime": "154 min",
+    "director": "Nicholas Ray",
+    "actors": "Charlton Heston, Ava Gardner, David Niven",
+    "production_country": "United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNWI5NjEwZWYtZjVkNy00NTExLTg0MTctMjkxNDZkMjJmMjc4XkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/27759.webp",
+    "imdb_rating": "6.7",
+    "imdb_votes": "8,062",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/55_Days_at_Peking",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/27759.txt",
+    "plot_year_start": 1900,
+    "plot_year_end": 1900,
+    "epoch": "industrial-age",
+    "action_countries": [
+      "CN"
+    ],
+    "action_continents": [
+      "Asia"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "foreign powers carving out local authority",
+        "description": "Treaty ports, concessions, gunboats, and extraterritorial privilege let outside powers shape trade, law, and prestige within Asian realms. What you'll see: foreign compounds, customs houses, mixed streets of Chinese and European dress, interpreters, merchants, and soldiers carrying alien flags.",
+        "icon": "🚢"
+      }
+    ]
+  },
+  {
+    "movie_id": 377823,
+    "movie_idx": 9782,
+    "imdb_id": "tt4851640",
+    "title": "The Final Master",
+    "production_year": "2015",
+    "genre": "Action, Drama",
+    "plot": "A Wing Chun master has to defeat 8 martial arts schools to open his own school, yet he has become a chess piece to the local power dynamics.",
+    "runtime": "109 min",
+    "director": "Haofeng Xu",
+    "actors": "Fan Liao, Jia Song, Wenli Jiang",
+    "production_country": "China",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTYyNTI2NTc4Ml5BMl5BanBnXkFtZTgwOTY2MDcwOTE@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/377823.webp",
+    "imdb_rating": "6.8",
+    "imdb_votes": "3,055",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Final_Master",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/377823.txt",
+    "plot_year_start": 1910,
+    "plot_year_end": 1910,
+    "epoch": "industrial-age",
+    "action_countries": [
+      "CN"
+    ],
+    "action_continents": [
+      "Asia"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "martial arts schools as public institutions",
+        "description": "Fighting arts are not only personal skills but organised schools, lineages, healing practices, and neighbourhood honour in towns under stress. What you'll see: training courtyards, signboards of rival schools, disciples serving masters, lion dances, challenge matches, and medicine halls joined to boxing rooms.",
+        "icon": "🥋"
+      },
+      {
+        "label": "secret societies and sworn brotherhoods thriving",
+        "description": "In weak or divided times, men bind themselves through lodges, oaths, sects, and underground circles that promise protection, purpose, or deliverance. What you'll see: incense before altars, coded rituals, blood oaths, whispered meetings, banners, and mobs stirred by millenarian fervour or local loyalties.",
+        "icon": "🕯️"
+      }
+    ]
+  },
+  {
+    "movie_id": 839100,
+    "movie_idx": 9795,
+    "imdb_id": "tt14837960",
+    "title": "Bright: Samurai Soul",
+    "production_year": "2021",
+    "genre": "Animation, Action, Adventure",
+    "plot": "Set in Japan during the end of the Shogunate and the beginning of the Meiji period, the film will follow a one-eyed, wandering samurai named Izo (Simu Liu) and an orc named Raiden (Fred Mancuso), as they work to bring a young elf girl (Yuzu Harada) and the wand she carries to the land of the elves in the north.",
+    "runtime": "80 min",
+    "director": "Kyôhei Ishiguro",
+    "actors": "Miyavi, Simu Liu, Kenjiro Tsuda",
+    "production_country": "United States, Japan",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZGIyMGQ4MGItN2U5NS00MGY4LTg3NjEtYzA0NTgyNjM4NjFiXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/839100.webp",
+    "imdb_rating": "5.5",
+    "imdb_votes": "1,251",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Bright:_Samurai_Soul",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/839100.txt",
+    "plot_year_start": 1868,
+    "plot_year_end": 1868,
+    "epoch": "industrial-age",
+    "action_countries": [
+      "JP",
+      "RU",
+      "FICTIONAL"
+    ],
+    "action_continents": [
+      "Asia",
+      "Europe",
+      "FICTIONAL"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Bright Universe",
+    "categories": [
+      {
+        "label": "dynasties and kingdoms under reform strain",
+        "description": "Courts and old ruling houses try to preserve their thrones by borrowing new methods, centralising power, and suppressing rivals, often too late to quiet unrest. What you'll see: palace councils, imperial edicts, nervous officials, court ceremony, and arguments over whether change will save or unmake the realm.",
+        "icon": "👑"
+      },
+      {
+        "label": "old warrior orders losing their place",
+        "description": "Across East Asia, hereditary fighting elites and sword traditions are pressed aside by new state armies, police forces, and fresh codes of rule. What you'll see: samurai topknots and robes beside uniforms, schools of arms under pressure, and men measuring honour against a changing age.",
+        "icon": "🗡️"
+      }
+    ]
+  },
+  {
+    "movie_id": 14392,
+    "movie_idx": 9916,
+    "imdb_id": "tt0913968",
+    "title": "The Warlords",
+    "production_year": "2007",
+    "genre": "Action, Adventure, Drama",
+    "plot": "Set in China in the 1860's during the Taiping Rebellion, the story is based on the assassination of Ma Xinyi in 1870. Loyalist General Qingyun is the only survivor of a battle with anti-Qing rebels. He encounters a starving village, whose inhabitants engage in banditry to survive, where he is nursed back to health by the attractive Liansheng. With his strength regained, Qingyun impresses one of the village bandit leaders, Jiang Wuyang, with his fighting skills. Wuyang introduces him to his \"big brother\", who also happens to be Liansheng's husband, Zhao Erhu and Qingyun begins to assist them with their raids. Qingyun convinces his two new comrades to form a loyalist army unit to fight the rebels and feed their own people. The three men swear a blood oath. Their stunning military successes impress the governing powers, but as Qingyun's influence begins to grow, they soon fear him. The political and emotional stakes will be tested, leading to differences between the blood brothers.",
+    "runtime": "126 min",
+    "director": "Peter Ho-Sun Chan, Wai-Man Yip",
+    "actors": "Jet Li, Andy Lau, Takeshi Kaneshiro",
+    "production_country": "Hong Kong, China",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNmFjNTBjYWQtMGM2Yi00YzA1LWIwYjYtN2E2NGQ2MTA3MWRjXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/14392.webp",
+    "imdb_rating": "7.0",
+    "imdb_votes": "28,629",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Warlords",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/14392.txt",
+    "plot_year_start": 1860,
+    "plot_year_end": 1870,
+    "epoch": "industrial-age",
+    "action_countries": [
+      "CN"
+    ],
+    "action_continents": [
+      "Asia"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "secret societies and sworn brotherhoods thriving",
+        "description": "In weak or divided times, men bind themselves through lodges, oaths, sects, and underground circles that promise protection, purpose, or deliverance. What you'll see: incense before altars, coded rituals, blood oaths, whispered meetings, banners, and mobs stirred by millenarian fervour or local loyalties.",
+        "icon": "🕯️"
+      },
+      {
+        "label": "dynasties and kingdoms under reform strain",
+        "description": "Courts and old ruling houses try to preserve their thrones by borrowing new methods, centralising power, and suppressing rivals, often too late to quiet unrest. What you'll see: palace councils, imperial edicts, nervous officials, court ceremony, and arguments over whether change will save or unmake the realm.",
+        "icon": "👑"
+      }
+    ]
+  }
+]

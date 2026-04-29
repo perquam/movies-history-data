@@ -1,0 +1,46 @@
+[
+  {
+    "movie_id": 587563,
+    "movie_idx": 1650,
+    "imdb_id": "tt5674658",
+    "title": "Kensuke's Kingdom",
+    "production_year": "2023",
+    "genre": "Animation, Adventure",
+    "plot": "Young Michael, shipwrecked on a remote island, must adapt to life alone. Over time, he feels another presence, learning that this world is home to both unimaginable danger and beauty.",
+    "runtime": "85 min",
+    "director": "Neil Boyle, Kirk Hendry",
+    "actors": "Cillian Murphy, Raffey Cassidy, Sally Hawkins",
+    "production_country": "United Kingdom, Luxembourg, France",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjIzNjQ4NDYtM2I3NC00YWJmLTkwODYtYTk5NGIyMjJlYzQ2XkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/587563.webp",
+    "imdb_rating": "7.1",
+    "imdb_votes": "508",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Kensuke%27s_Kingdom_(film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/587563.txt",
+    "plot_year_start": 1960,
+    "plot_year_end": 1960,
+    "epoch": "early-cold-war-era",
+    "action_countries": [
+      "UNKNOWN",
+      "JP"
+    ],
+    "action_continents": [
+      "Pacific Ocean",
+      "Asia"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "Japanese lives scattered after defeat",
+        "description": "In the years after 1945, some Japanese people remain marked by displacement, separation, and the collapse of the empire that once stretched across the Pacific. What you'll see: solitary habits, improvised living in remote places, silence around the past, and a guarded relation to the wider world.",
+        "icon": "🧳"
+      },
+      {
+        "label": "thick island wilderness beyond settlements",
+        "description": "Even where people have passed through, many islands remain dominated by dense vegetation, cliffs, reefs, and animal life rather than roads or built order. What you'll see: tangled forest paths, hidden coves, steep shorelines, bright birds and sea creatures, and terrain that feels both beautiful and perilous.",
+        "icon": "🌴"
+      }
+    ]
+  }
+]

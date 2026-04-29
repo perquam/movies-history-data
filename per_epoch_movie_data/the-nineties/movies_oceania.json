@@ -1,0 +1,483 @@
+[
+  {
+    "movie_id": 8358,
+    "movie_idx": 1317,
+    "imdb_id": "tt0162222",
+    "title": "Cast Away",
+    "production_year": "2000",
+    "genre": "Adventure, Drama, Romance",
+    "plot": "Memphis-based FedEx operations executive Chuck Noland and grad student Kelly Frears have long dated and lived together, and despite each being the love of the other's life, have not gotten married because of their respective busy schedules, especially Chuck's as he is more often on business trips than he is at home. That marital status changes when on Christmas Day 1995 as Chuck is rushing off to catch yet another FedEx plane for a business trip, he gives Kelly a ring. That flight experiences technical difficulties, and goes down somewhere in the south Pacific. In a life raft, a relatively unharmed Chuck washes up on shore what he will learn is a deserted island, he unaware what has happened to any of his fellow flight mates, or the plane. However several of the packages on board for delivery do wash up on shore with him, those packages which he initially treats with respect. Chuck realizes that his priority is survival - which primarily means food, water, shelter and fire - and rescue. But survival is also in an emotional sense. To fulfill that emotional need, he has an heirloom pocket watch with Kelly's photo that she gave him as a Christmas present, and eventually opening the FedEx packages, a Wilson volleyball on which he paints a face and which he names Wilson. As time progresses, Chuck goes through a range of emotions, but if rescue is ever in the cards, he realizes that he has to find a way to get off the island, which is seemingly impossible in his circumstance due to the strong on shore surf he cannot get beyond without assistance. What Chuck may not fully realize is the longer he is not rescued, the harder it will be for him to return to his old life in its entirety if he ever is rescued. Although the thought of Kelly is what largely keeps him motivated to be rescued, Kelly, who probably believes him to be dead, may have moved on emotionally from him in the intervening time.",
+    "runtime": "143 min",
+    "director": "Robert Zemeckis",
+    "actors": "Tom Hanks, Helen Hunt, Paul Sanchez",
+    "production_country": "United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BOGNjNDI5ZGQtZjRjMy00NzQyLWFiYzQtYjcwNjM3ZDYwNThhXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/8358.webp",
+    "imdb_rating": "7.8",
+    "imdb_votes": "676,631",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Cast_Away",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/8358.txt",
+    "plot_year_start": 1995,
+    "plot_year_end": 2000,
+    "epoch": "the-nineties",
+    "action_countries": [
+      "FJ",
+      "US"
+    ],
+    "action_continents": [
+      "Oceania",
+      "North America"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "pacific islands tied to global routes",
+        "description": "Oceania in this period is no sealed world, but a chain of islands and ports linked by cargo planes, tourist traffic, and overseas business. What you'll see: air freight, resort imagery, tropical shorelines, small harbours, imported goods, and the uneasy nearness of isolation and world commerce.",
+        "icon": "🛫"
+      },
+      {
+        "label": "land and creatures treated as resources",
+        "description": "The decade carries a strong struggle over forests, rare animals, and rural land as profit-making schemes press against older ideas of stewardship and wonder. What you'll see: logging marks, heavy machines, scientific collecting, hunting camps, fenced paddocks, and landscapes valued both for beauty and for what can be taken from them.",
+        "icon": "🪵"
+      }
+    ]
+  },
+  {
+    "movie_id": 1034265,
+    "movie_idx": 2922,
+    "imdb_id": "tt22694238",
+    "title": "Hot Potato: The Story of the Wiggles",
+    "production_year": "2023",
+    "genre": "Documentary",
+    "plot": "The incredible true story of early childhood teachers and friends, The Wiggles, who rock 'n' rolled their way into the hearts of millions around the globe in one of the greatest entertainment stories of all time.",
+    "runtime": "104 min",
+    "director": "Sally Aitken, Fraser Grut",
+    "actors": "Jeff Fatt, Murray Cook, Anthony Field",
+    "production_country": "Australia",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNDVjODUzOWItNzExNC00OGFiLWFmZWQtOTY0NGQ0NGQwMjY5XkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/1034265.webp",
+    "imdb_rating": "8.0",
+    "imdb_votes": "610",
+    "plot_year_start": 1991,
+    "plot_year_end": 1998,
+    "epoch": "the-nineties",
+    "action_countries": [
+      "AU"
+    ],
+    "action_continents": [
+      "Oceania"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "television and videotape in ordinary life",
+        "description": "Home entertainment and broadcast media sit at the centre of the decade, when videotapes, camera crews, and children's television have become familiar parts of public and domestic life. What you'll see: VHS cassettes, studio sets, tabloid reporting, home viewing, branded performances, and media attention turning daily events into spectacle.",
+        "icon": "📼"
+      }
+    ],
+    "failures": {
+      "wikipedia": "no_wiki_article_found"
+    }
+  },
+  {
+    "movie_id": 9598,
+    "movie_idx": 2982,
+    "imdb_id": "tt0112431",
+    "title": "Babe",
+    "production_year": "1995",
+    "genre": "Comedy, Drama, Family",
+    "plot": "Gentle farmer Arthur Hoggett wins a piglet named Babe at a county fair. Narrowly escaping his fate as Christmas dinner when Farmer Hoggett decides to show him at the next fair, Babe bonds with motherly border collie Fly and discovers that he can herd sheep too. But will the other farm animals, including Fly's jealous husband, Rex, accept a pig who doesn't conform to the farm's social hierarchy?",
+    "runtime": "91 min",
+    "director": "Chris Noonan",
+    "actors": "James Cromwell, Magda Szubanski, Christine Cavanaugh",
+    "production_country": "Australia, United States, United Kingdom",
+    "poster": "https://m.media-amazon.com/images/M/MV5BODYxZWZiMTgtMjJhOC00OTE1LTk0MmQtMGFiOGY3ZTAwZGRjXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/9598.webp",
+    "imdb_rating": "6.9",
+    "imdb_votes": "141,471",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Babe_(film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/9598.txt",
+    "plot_year_start": 1990,
+    "plot_year_end": 1995,
+    "epoch": "the-nineties",
+    "action_countries": [
+      "AU"
+    ],
+    "action_continents": [
+      "Oceania"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "farm life mixing tradition and show",
+        "description": "Rural life still rests on stock work, fairs, and inherited know-how, even as it is softened into family entertainment and national nostalgia. What you'll see: sheep pens, dogs at work, county competitions, weathered sheds, kitchen tables, and a countryside ordered by chores, seasons, and animal routines.",
+        "icon": "🐑"
+      }
+    ]
+  },
+  {
+    "movie_id": 10622,
+    "movie_idx": 4299,
+    "imdb_id": "tt0117786",
+    "title": "Mr. Nice Guy",
+    "production_year": "1997",
+    "genre": "Action, Adventure, Comedy",
+    "plot": "In Melbourne, the Chinese Chef Jackie has a successful show on television. The drug lord Giancarlo and his gang are dealing cocaine with The Demons gang, but they fight against each other. During the shooting, the snoopy reporter Diana and her partner are accidentally exposed and they flee with a VHS tape with the footage of the negotiation. On the street, she stumbles with Jackie and he helps her fighting against the gangsters. When they are escaping in his car, her tape accidentally mixes with other videotapes that Jackie has in a box on the backseat of his car. Jackie goes to his apartment and meets his girlfriend Miki while his nephews \"borrow\" the tape to watch. Meanwhile Giancarlo's gangsters are looking for the tape and abduct Miki. Jackie's friend Romeo, who is a police detective, chases the gangsters with other policemen while Jackie teams up with Diana and his friend Lakisha to release Miki from Giancarlo.",
+    "runtime": "88 min",
+    "director": "Sammo Kam-Bo Hung",
+    "actors": "Jackie Chan, Richard Norton, Miki Lee",
+    "production_country": "Hong Kong",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYmU1MWQ0NGEtZTRmOC00NWJiLWFkZjYtZWM5NmM1ODQ5Y2U3XkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/10622.webp",
+    "imdb_rating": "6.2",
+    "imdb_votes": "30,537",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Mr._Nice_Guy_(1997_film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/10622.txt",
+    "plot_year_start": 1997,
+    "plot_year_end": 1997,
+    "epoch": "the-nineties",
+    "action_countries": [
+      "AU"
+    ],
+    "action_continents": [
+      "Oceania"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "television and videotape in ordinary life",
+        "description": "Home entertainment and broadcast media sit at the centre of the decade, when videotapes, camera crews, and children's television have become familiar parts of public and domestic life. What you'll see: VHS cassettes, studio sets, tabloid reporting, home viewing, branded performances, and media attention turning daily events into spectacle.",
+        "icon": "📼"
+      }
+    ]
+  },
+  {
+    "movie_id": 199534,
+    "movie_idx": 4695,
+    "imdb_id": "tt2004432",
+    "title": "Wolf Creek 2",
+    "production_year": "2013",
+    "genre": "Horror, Thriller",
+    "plot": "The outback once more becomes a place of horror as another unwitting tourist becomes the prey for crazed, serial-killing pig-hunter Mick Taylor.",
+    "runtime": "106 min",
+    "director": "Greg McLean",
+    "actors": "John Jarratt, Ryan Corr, Shannon Ashlyn",
+    "production_country": "Australia",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTQxMDMxNjMwOV5BMl5BanBnXkFtZTgwNzk1MzI1MTE@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/199534.webp",
+    "imdb_rating": "6.2",
+    "imdb_votes": "23,813",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Wolf_Creek_2",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/199534.txt",
+    "plot_year_start": 2000,
+    "plot_year_end": 2000,
+    "epoch": "the-nineties",
+    "action_countries": [
+      "AU",
+      "GB"
+    ],
+    "action_continents": [
+      "Oceania",
+      "Europe"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "the outback as harsh everyday terrain",
+        "description": "Much of Australia is imagined through vast dry country where heat, distance, sparse settlement, and dangerous animals shape what travel and work demand. What you'll see: red earth, lonely tracks, petrol stops, scrub and floodplain, pig-hunting gear, and a constant sense that nature sets the terms.",
+        "icon": "🏜️"
+      }
+    ]
+  },
+  {
+    "movie_id": 13022,
+    "movie_idx": 5248,
+    "imdb_id": "tt0479528",
+    "title": "Rogue",
+    "production_year": "2007",
+    "genre": "Action, Drama, Horror",
+    "plot": "A handful of tourists looking for adventure get more than they bargained for when they cross paths with a massive man-eating beast in this thriller. Pete McKell (Michael Vartan) is a writer for an American travel magazine who has been assigned to write a story about vacationing in rugged Northern Australia. Pete signs up for a cruise along a river that's home to a large crocodile population, with tough but pretty Kate Ryan (Radha Mitchell) serving as guide. Pete soon finds he's roughing it in the Aussie wilds with an eclectic variety of travelers, including Russell (John Jarratt), who is dealing with the death of his wife; Simon (Stephen Curry), a tactless amateur photographer; and Allen (Geoff Morrell), a member of the British upper crust making the trip with his ailing spouse (Heather Mitchell) and their rambunctious daughter (Mia Wasikowska). While Kate's former husband, who also works on the river, makes a pest of himself in the early stages of the voyage, the travelers soon find they have more to worry about when their craft is attacked by a massive 25-foot crocodile, who is just clever enough to know how to trap its prey before enjoying them for dinner.",
+    "runtime": "99 min",
+    "director": "Greg McLean",
+    "actors": "Michael Vartan, Radha Mitchell, Sam Worthington",
+    "production_country": "Australia, United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMzY0YjlkMjEtM2IzOS00ZGQyLTgzM2YtZGIxYTVmMDVkMGU1XkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/13022.webp",
+    "imdb_rating": "6.2",
+    "imdb_votes": "35,240",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Rogue_(2007_film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/13022.txt",
+    "plot_year_start": 2000,
+    "plot_year_end": 2000,
+    "epoch": "the-nineties",
+    "action_countries": [
+      "AU"
+    ],
+    "action_continents": [
+      "Oceania"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "tourism pushing into remote country",
+        "description": "By the 1990s, wilderness travel is sold as adventure, drawing foreign visitors and city people into rivers, deserts, craters, and reefs far from quick help. What you'll see: tour boats, backpackers, guide talk, hired four-wheel drives, roadside stops, and long distances where a breakdown becomes perilous.",
+        "icon": "🚙"
+      },
+      {
+        "label": "the outback as harsh everyday terrain",
+        "description": "Much of Australia is imagined through vast dry country where heat, distance, sparse settlement, and dangerous animals shape what travel and work demand. What you'll see: red earth, lonely tracks, petrol stops, scrub and floodplain, pig-hunting gear, and a constant sense that nature sets the terms.",
+        "icon": "🏜️"
+      }
+    ]
+  },
+  {
+    "movie_id": 13225,
+    "movie_idx": 5354,
+    "imdb_id": "tt0104254",
+    "title": "FernGully: The Last Rainforest",
+    "production_year": "1992",
+    "genre": "Animation, Adventure, Family",
+    "plot": "The fairies live in a peaceful place in the forest called FernGully, which has been protected for many years by Magi Lune (Grace Zabriskie), a wise fairy with strong powers. Her granddaughter Crysta (Samantha Mathis) is a charming, beautiful fairy that is very intrigued about the world outside of FernGully. She, along with the other fairies in the forest, does not believe humans exist, and are only in stories, until a crazy bat by the name of Batty Koda (Robin Williams), comes and tells them all of these crazy stories about how he was captured by humans and experimented on. At first, no one believes him except Crysta, and she is determined to find out if humans are real. She goes to a place called Mount Warning, where the evil shadow of destruction, Hexxus (Tim Curry), is known to be trapped, and finds a human named Zak (Jonathan Ward). When he is almost crushed by a tree, Crysta accidentally shrinks him to fairy-size and he falls on a tree that is about to be devoured by \"The Leveller\". \"The Leveller\" is a wood-cutting machine that has been cutting down every tree the humans have been putting red Xs on. Crysta saves Zak from \"The Leveller\", which she thinks is just a monster, but she cannot properly un-shrink him. To avoid her being mad at him, Zak tells her that the red Xs keep the monster back, instead of for what they are really there, which is to pick which trees to cut down. They decide to take Zak to Magi Lune, so she can un-shrink him. On the way, Zak sees the forest really for the first time with all of its beauty and life. Back toward Mount Warning, the humans have accidentally released Hexxus, who is set on destroying FernGully, he uses \"The Leveller\" to cut down all of the trees to FernGully. When Crysta, Zak, and Batty Koda make it back to FernGully, the fairies cannot believe that Zak is really a human, and they're all excited to see him and learn about him. The only one who is truly worried is Magi Lune. She goes to check on the path to FernGully and sees that it is beginning to be destroyed and Hexxus is coming this way. She shows Crysta the red Xs and tells her the trees cannot be saved. With Hexxus drawing closer and closer to FernGully, Magi Lune calls for all of the fairies to come around to tells them of the danger. She uses the last of her magic to try and protect FernGully.",
+    "runtime": "76 min",
+    "director": "Bill Kroyer",
+    "actors": "Samantha Mathis, Christian Slater, Robin Williams",
+    "production_country": "Australia, United States, South Korea, Taiwan, United Kingdom, France, Canada, Thailand, Denmark",
+    "poster": "https://m.media-amazon.com/images/M/MV5BOThlNjdjNjYtN2YzOC00NGI1LWI5NGYtMjNlMTY1ODhlNzM5XkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/13225.webp",
+    "imdb_rating": "6.6",
+    "imdb_votes": "37,034",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/FernGully:_The_Last_Rainforest",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/13225.txt",
+    "plot_year_start": 1992,
+    "plot_year_end": 1992,
+    "epoch": "the-nineties",
+    "action_countries": [
+      "AU"
+    ],
+    "action_continents": [
+      "Oceania"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "land and creatures treated as resources",
+        "description": "The decade carries a strong struggle over forests, rare animals, and rural land as profit-making schemes press against older ideas of stewardship and wonder. What you'll see: logging marks, heavy machines, scientific collecting, hunting camps, fenced paddocks, and landscapes valued both for beauty and for what can be taken from them.",
+        "icon": "🪵"
+      },
+      {
+        "label": "farm life mixing tradition and show",
+        "description": "Rural life still rests on stock work, fairs, and inherited know-how, even as it is softened into family entertainment and national nostalgia. What you'll see: sheep pens, dogs at work, county competitions, weathered sheds, kitchen tables, and a countryside ordered by chores, seasons, and animal routines.",
+        "icon": "🐑"
+      }
+    ]
+  },
+  {
+    "movie_id": 294652,
+    "movie_idx": 5987,
+    "imdb_id": "tt2452200",
+    "title": "Son of a Gun",
+    "production_year": "2014",
+    "genre": "Action, Crime, Drama",
+    "plot": "Locked up for a minor crime, 19 year old JR quickly learns the harsh realities of prison life. Protection, if you can get it, is paramount. JR soon finds himself under the watchful eye of Australia's most notorious criminal, Brendan Lynch. But protection comes at a price. Lynch and his crew have plans for their young protegee. Upon release, JR must help secure Lynch's freedom, staging a daring prison break. As a reward, he's invited to join the crew as they plan a gold heist that promises to deliver millions. However, as things start to go wrong, a deadly game of cat and mouse ensues. JR finds himself unsure of whom he can trust and on a collision course with his former mentor.",
+    "runtime": "108 min",
+    "director": "Julius Avery",
+    "actors": "Ewan McGregor, Brenton Thwaites, Alicia Vikander",
+    "production_country": "Australia, United Kingdom, Canada",
+    "poster": "https://m.media-amazon.com/images/M/MV5BODZlMDQ5MjEtNjU0NS00M2JjLWJiM2UtMDBjZDMxZGEzOTVhXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/294652.webp",
+    "imdb_rating": "6.4",
+    "imdb_votes": "30,370",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Son_of_a_Gun_(film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/294652.txt",
+    "plot_year_start": 2000,
+    "plot_year_end": 2000,
+    "epoch": "the-nineties",
+    "action_countries": [
+      "AU"
+    ],
+    "action_continents": [
+      "Oceania"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "prisons and organised crime as shadow institutions",
+        "description": "Alongside formal law, a hard underworld of prisons, gang loyalties, and illicit trade provides its own rules, protection, and chances for advancement. What you'll see: prison yards, police surveillance, armed crews, drug deals, gold theft, and criminal networks that reach from cells to city streets.",
+        "icon": "⛓️"
+      }
+    ]
+  },
+  {
+    "movie_id": 70954,
+    "movie_idx": 7470,
+    "imdb_id": "tt1703148",
+    "title": "The Hunter",
+    "production_year": "2011",
+    "genre": "Adventure, Drama, Thriller",
+    "plot": "The independent and lonely hunter Martin David is hired by the powerful biotech company Red Leaf to hunt down the last Tasmanian tiger. Red Leaf is interested in the DNA of the animal and Martin travels to Tasmania alone. He poses as a researcher from a university and lodges in the house of Lucy Armstrong. Martin learns that Lucy's husband has been missing for a long time and he befriends her children, Sass and Bike. When Martin goes to the village, he has a hostile reception from the locals. Along the days, Martin spends his days in the Tasmanian wilderness chasing the Tiger and becomes closer and closer to the Armstrong family. But Red Leaf wants results no matter the costs.",
+    "runtime": "100 min",
+    "director": "Daniel Nettheim",
+    "actors": "Willem Dafoe, Sam Neill, Morgan Davies",
+    "production_country": "Australia",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNTI4Mzc0MTg4OV5BMl5BanBnXkFtZTcwNTc1NDQzNw@@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/70954.webp",
+    "imdb_rating": "6.7",
+    "imdb_votes": "42,085",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Hunter_(2011_Australian_film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/70954.txt",
+    "plot_year_start": 1999,
+    "plot_year_end": 1999,
+    "epoch": "the-nineties",
+    "action_countries": [
+      "AU"
+    ],
+    "action_continents": [
+      "Oceania"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "land and creatures treated as resources",
+        "description": "The decade carries a strong struggle over forests, rare animals, and rural land as profit-making schemes press against older ideas of stewardship and wonder. What you'll see: logging marks, heavy machines, scientific collecting, hunting camps, fenced paddocks, and landscapes valued both for beauty and for what can be taken from them.",
+        "icon": "🪵"
+      },
+      {
+        "label": "the outback as harsh everyday terrain",
+        "description": "Much of Australia is imagined through vast dry country where heat, distance, sparse settlement, and dangerous animals shape what travel and work demand. What you'll see: red earth, lonely tracks, petrol stops, scrub and floodplain, pig-hunting gear, and a constant sense that nature sets the terms.",
+        "icon": "🏜️"
+      }
+    ]
+  },
+  {
+    "movie_id": 9885,
+    "movie_idx": 8165,
+    "imdb_id": "tt0416315",
+    "title": "Wolf Creek",
+    "production_year": "2005",
+    "genre": "Horror, Thriller",
+    "plot": "Three backpackers travel into the Australian Outback only to find themselves stranded at Wolf Creek crater. Once there, they are encountered by a bushman, Mick Taylor, who offers them a ride back to his place. Little do the three know that their adventure into the Outback would be a complete nightmare after the backpackers find a way to escape.",
+    "runtime": "99 min",
+    "director": "Greg McLean",
+    "actors": "Nathan Phillips, Cassandra Magrath, Kestie Morassi",
+    "production_country": "Australia",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTIzMjYwNTU4N15BMl5BanBnXkFtZTcwMjk0OTgzMQ@@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/9885.webp",
+    "imdb_rating": "6.2",
+    "imdb_votes": "83,865",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Wolf_Creek_(film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/9885.txt",
+    "plot_year_start": 1999,
+    "plot_year_end": 1999,
+    "epoch": "the-nineties",
+    "action_countries": [
+      "AU"
+    ],
+    "action_continents": [
+      "Oceania"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "the outback as harsh everyday terrain",
+        "description": "Much of Australia is imagined through vast dry country where heat, distance, sparse settlement, and dangerous animals shape what travel and work demand. What you'll see: red earth, lonely tracks, petrol stops, scrub and floodplain, pig-hunting gear, and a constant sense that nature sets the terms.",
+        "icon": "🏜️"
+      }
+    ]
+  },
+  {
+    "movie_id": 567797,
+    "movie_idx": 8223,
+    "imdb_id": "tt31064344",
+    "title": "The Bone-Dry",
+    "production_year": "2021",
+    "genre": "Short, Comedy, Crime",
+    "plot": "Three guys steal a donkey in order to make peace within.",
+    "runtime": "N/A",
+    "director": "Helmuts Bondars",
+    "actors": "Sandis Runge, Krisjanis Strods, Karlis Zahovskis",
+    "production_country": "Latvia",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNzdlYTYzM2UtOGY1MS00MTQzLWJjOGYtMzUyZjIyNWNmZmQ1XkEyXkFqcGdeQXVyMTc2NDU2NDk2._V1_SX300.jpg",
+    "imdb_rating": "N/A",
+    "imdb_votes": "N/A",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Dry_(film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/567797.txt",
+    "plot_year_start": 2000,
+    "plot_year_end": 2000,
+    "epoch": "the-nineties",
+    "action_countries": [
+      "AU"
+    ],
+    "action_continents": [
+      "Oceania"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "the outback as harsh everyday terrain",
+        "description": "Much of Australia is imagined through vast dry country where heat, distance, sparse settlement, and dangerous animals shape what travel and work demand. What you'll see: red earth, lonely tracks, petrol stops, scrub and floodplain, pig-hunting gear, and a constant sense that nature sets the terms.",
+        "icon": "🏜️"
+      },
+      {
+        "label": "land and creatures treated as resources",
+        "description": "The decade carries a strong struggle over forests, rare animals, and rural land as profit-making schemes press against older ideas of stewardship and wonder. What you'll see: logging marks, heavy machines, scientific collecting, hunting camps, fenced paddocks, and landscapes valued both for beauty and for what can be taken from them.",
+        "icon": "🪵"
+      }
+    ],
+    "failures": {
+      "poster": "poster_download_failed"
+    }
+  },
+  {
+    "movie_id": 527,
+    "movie_idx": 9234,
+    "imdb_id": "tt0110729",
+    "title": "Once Were Warriors",
+    "production_year": "1994",
+    "genre": "Crime, Drama",
+    "plot": "Set in urban Auckland (New Zealand) this movie tells the story of the Heke family. Jake Heke is a violent man who beats his wife frequently when drunk, and yet obviously loves both her and his family. The movie follows a period of several weeks in the family's life showing Jake's frequent outburst of violence and the effect that this has on his family. The youngest son is in trouble with the police and may be put into a foster home while the elder son is about to join a street gang. Jake's daughter has her own serious problems which are a key element in the plot.",
+    "runtime": "102 min",
+    "director": "Lee Tamahori",
+    "actors": "Rena Owen, Temuera Morrison, Mamaengaroa Kerr-Bell",
+    "production_country": "New Zealand",
+    "poster": "https://m.media-amazon.com/images/M/MV5BOTdjYzZiZjMtMzk1MC00MDczLWIxNWEtMjk1ZDMxMzNlZDE2XkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/527.webp",
+    "imdb_rating": "7.9",
+    "imdb_votes": "37,765",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Once_Were_Warriors_(film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/527.txt",
+    "plot_year_start": 1994,
+    "plot_year_end": 1994,
+    "epoch": "the-nineties",
+    "action_countries": [
+      "NZ"
+    ],
+    "action_continents": [
+      "Oceania"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "working-class suburbs under hard pressure",
+        "description": "In New Zealand and Australia, many families live with job scarcity, drink, overcrowding, and weak prospects, especially in neighbourhoods already burdened by long social inequality. What you'll see: state housing, pubs, strained households, welfare offices, youth drifting into trouble, and streets where respect and shame are constantly negotiated.",
+        "icon": "🏘️"
+      },
+      {
+        "label": "prisons and organised crime as shadow institutions",
+        "description": "Alongside formal law, a hard underworld of prisons, gang loyalties, and illicit trade provides its own rules, protection, and chances for advancement. What you'll see: prison yards, police surveillance, armed crews, drug deals, gold theft, and criminal networks that reach from cells to city streets.",
+        "icon": "⛓️"
+      }
+    ]
+  }
+]

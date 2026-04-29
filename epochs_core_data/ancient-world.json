@@ -1,0 +1,76 @@
+{
+  "id": "ancient-world",
+  "label": "Ancient World",
+  "aliases": [
+    "Classical Antiquity",
+    "Ancient Civilizations",
+    "The Age of Empires and Gods",
+    "Bronze Age to Fall of Rome",
+    "The Ancient Era"
+  ],
+  "time_range": {
+    "start_year": -3000,
+    "end_year": 599,
+    "label": "3000 BCE to 599 CE"
+  },
+  "headline": "Humans stop wandering and start building — cities, armies, gods, laws, empires — and then watch it all burn down, over and over.",
+  "epoch_summary": "Three and a half thousand years of mud brick and marble, slave labor and philosophy, pharaohs and caesars, roads that connect continents and plagues that empty them — the long, bloody experiment of figuring out how to run a civilization, fought out across deserts, rivers, and seas.",
+  "regions": [
+    {
+      "region_name": "Africa",
+      "description_of_an_epoch_in_the_region": "Egypt dominates the story — pyramids rising from the desert, pharaohs declared gods, a civilization so obsessed with death it builds its greatest monuments for corpses. But Egypt is only the northern edge. Carthage becomes rich enough to terrify Rome. Aksum trades with India. The Sahara is not yet the wall it will become — people cross it, herd cattle through it, build kingdoms south of it that nobody in Europe will hear about for centuries."
+    },
+    {
+      "region_name": "Antarctica",
+      "description_of_an_epoch_in_the_region": "Ice and wind and nothing else. No human being has any idea this place exists."
+    },
+    {
+      "region_name": "Asia",
+      "description_of_an_epoch_in_the_region": "Everything happens here. Mesopotamia invents writing, law codes, and standing armies. Persia builds the first empire that stretches from Egypt to India and runs it with roads and mail. India produces the Buddha and the Maurya Empire. China unifies under the Qin, builds a wall to keep the steppe out, and develops a bureaucracy so effective it outlasts every dynasty that uses it. The Silk Road stitches it all together — silk going west, gold going east, plague going both ways."
+    },
+    {
+      "region_name": "Europe",
+      "description_of_an_epoch_in_the_region": "Greece invents democracy, theater and philosophy, then tears itself apart in civil wars. Rome picks up the pieces — or rather, picks up the method — and builds an empire from Scotland to Syria on the back of legions, slaves, and concrete. For a few centuries, the Mediterranean is basically a Roman lake. Then the empire cracks, the legions thin out, the barbarians stop asking permission, and the western half collapses into something no one has a name for yet."
+    },
+    {
+      "region_name": "North America",
+      "description_of_an_epoch_in_the_region": "No cities that Europeans would recognize, but not empty. The Olmec carve massive stone heads in the jungle. The Maya begin building pyramids and tracking the stars with terrifying precision. In the north, people farm, fish, hunt, and build mound complexes so large they'll confuse archaeologists thousands of years later. The continent is full — just not in ways that make it into most history books."
+    },
+    {
+      "region_name": "Oceania",
+      "description_of_an_epoch_in_the_region": "Polynesian navigators are crossing thousands of miles of open ocean using stars, currents, and memory — no compass, no charts. It is one of the most extraordinary feats of human skill in this entire epoch and almost nobody outside the Pacific knows it's happening. Australia's Aboriginal peoples have been here for tens of thousands of years already, living in a relationship with the land so old it makes every empire on earth look like a child's experiment."
+    },
+    {
+      "region_name": "South America",
+      "description_of_an_epoch_in_the_region": "The Nazca draw lines in the desert so large they can only be seen from the sky, and nobody knows why. The Moche build pyramids of adobe and fill them with gold and sacrifice. Civilizations rise along the coast and in the mountains, sophisticated and brutal and completely disconnected from everything happening across the Atlantic. The Andes are already producing complex societies — irrigation, textiles, roads — without a written language."
+    },
+    {
+      "region_name": "Atlantic Ocean",
+      "description_of_an_epoch_in_the_region": "A wall. The Phoenicians hug its eastern coast and maybe slip past Gibraltar, but for most of this era the Atlantic is the edge of the known world — cold, grey, and terrifying. What lies on the other side is not even a question anyone thinks to ask."
+    },
+    {
+      "region_name": "Pacific Ocean",
+      "description_of_an_epoch_in_the_region": "The great highway of Polynesian expansion. While Mediterranean sailors cling to coastlines, Pacific Islanders are crossing open water in double-hulled canoes and colonizing islands scattered across an area larger than any empire. The ocean is not a barrier here — it's a road."
+    },
+    {
+      "region_name": "Indian Ocean",
+      "description_of_an_epoch_in_the_region": "The world's first international trade route. Monsoon winds carry ships between East Africa, Arabia, India, and Southeast Asia. Spices, gold, ivory, and ideas move along predictable seasonal currents. Whoever controls these sea lanes gets rich. Everyone else watches the ships pass."
+    },
+    {
+      "region_name": "Southern Ocean",
+      "description_of_an_epoch_in_the_region": "Storms, ice, and nothing. No ship from this era ventures anywhere near it. The southern ocean is not a mystery — it is not even a thought."
+    },
+    {
+      "region_name": "Arctic Ocean",
+      "description_of_an_epoch_in_the_region": "Frozen shut for most of the year. Inuit and other Arctic peoples live along its edges, hunting seal and whale in conditions that would kill anyone else in hours. To the rest of the world, the Arctic does not exist."
+    },
+    {
+      "region_name": "FICTIONAL",
+      "description_of_an_epoch_in_the_region": "Invented worlds that borrow from this era tend to smell like sandstone, olive oil, and blood. You get god-kings, gladiatorial arenas, walled city-states, senate conspiracies, oracles who speak in riddles, and armies that march in formation. The technology is bronze or iron, the politics are personal, and the gods walk among mortals — or at least people believe they do. Magic and religion are the same thing. Power is held by whoever can command loyalty in person, face to face."
+    },
+    {
+      "region_name": "UNKNOWN",
+      "description_of_an_epoch_in_the_region": "The general texture is dust, heat, stone, and human sweat. Walls are thick. Roads are new. Writing is rare and powerful — a technology of priests and kings. Life is short, religion is everywhere, and violence is not hidden behind institutions but performed in public, in arenas and temples and open fields. If a film feels ancient and you can't quite place the map, it probably lives here."
+    }
+  ]
+}

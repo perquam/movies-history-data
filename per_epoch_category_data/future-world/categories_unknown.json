@@ -1,0 +1,387 @@
+{
+  "epoch": "future-world",
+  "continent": "unknown",
+  "sample_size": 41,
+  "sample": [
+    {
+      "title": "Titan A.E.",
+      "years": "3028..3043",
+      "countries": [
+        "UNKNOWN"
+      ],
+      "plot": "Earth is a memory of the past; it's the 31st Century and humanity is on the brink of total annihilation, all except for one young man who holds the map to the universe's last hope: Titan. In a race against time, the human race has to find the Titan before the illusive Drej destroy it."
+    },
+    {
+      "title": "Oblivion",
+      "years": "2077..2080",
+      "countries": [
+        "UNKNOWN"
+      ],
+      "plot": "One of the few remaining drone repairmen assigned to Earth, its surface devastated after decades of war with the alien Scavs, discovers a crashed spacecraft with contents that bring into question everything he believed about the war, and may even put the fate of mankind in his hands."
+    },
+    {
+      "title": "Star Trek: Generations",
+      "years": "2293..2371",
+      "countries": [
+        "UNKNOWN"
+      ],
+      "plot": "In the late twenty-third century, the gala maiden voyage of the newly-christened U.S.S. Enterprise NCC-1701-B boasts such luminaries as Pavel Chekov, Montgomery Scott, and the legendary Captain James T. Kirk as guests. But her maiden voyage turns into a disaster as the unprepared starship is forced to rescue two transport ships from a mysterious energy ribbon. The Enterprise manages to save a handful of the ships' passengers and barely succeeds out intact, but at the cost of Captain Kirk's life. Seventy-eight years later, Captain Jean-Luc Picard and the U.S.S. Enterprise NCC-1701-D crew find themselves at odds with renegade scientist Dr. Tolian Soran, who is destroying entire star systems. Only one man can help Picard stop Soran's scheme, and he has been dead for seventy-eight years."
+    },
+    {
+      "title": "Underwater",
+      "years": "2050..2050",
+      "countries": [
+        "UNKNOWN"
+      ],
+      "plot": "An unknown, massive earthquake happens in a drilling station in the bottom of the Marianna Trench. A scientific crew must find their way across the ocean floor into another station under the threats of deep pressure, dark water, dangerous deep-sea creatures, and a constant lack of oxygen."
+    },
+    {
+      "title": "Jung_E",
+      "years": "2135..2194",
+      "countries": [
+        "UNKNOWN"
+      ],
+      "plot": "On an uninhabitable 22nd-century Earth, the outcome of a civil war hinges on cloning the brain of an elite soldier to create a robot mercenary."
+    },
+    {
+      "title": "The Martian",
+      "years": "2035..2040",
+      "countries": [
+        "UNKNOWN"
+      ],
+      "plot": "During a manned mission to Mars, Astronaut Mark Watney is presumed dead after a fierce storm and left behind by his crew. But Watney has survived and finds himself stranded and alone on the hostile planet. With only meager supplies, he must draw upon his ingenuity, wit and spirit to subsist and find a way to signal to Earth that he is alive. Millions of miles away, NASA and a team of international scientists work tirelessly to bring \"the Martian\" home, while his crewmates concurrently plot a daring, if not impossible, rescue mission. As these stories of incredible bravery unfold, the world comes together to root for Watney's safe return."
+    },
+    {
+      "title": "Planet of the Apes",
+      "years": "2029..5021",
+      "countries": [
+        "UNKNOWN"
+      ],
+      "plot": "It is the year 2029: Astronaut Leo Davidson boards a pod cruiser on a Space Station on a rescue and recovery mission. But an abrupt detour through a space time wormhole lands him on a strange planet where talking apes rule over the human race. With the help of a sympathetic chimpanzee activist named Ari and a small band of human rebels, Leo leads the effort to evade the advancing Gorilla Army led by General Thade and his most trusted warrior Attar. Now the race is on to reach a sacred temple within the planet's Forbidden Zone to discover the shocking secrets of mankind's past - and the key to its future."
+    },
+    {
+      "title": "Realive",
+      "years": "2024..2084",
+      "countries": [
+        "UNKNOWN"
+      ],
+      "plot": "Marc (Tom Hughes) is diagnosed with a disease and is given one year left to live. Unable to accept his own end, he decides to freeze his body. Sixty years later, in the year 2084, he becomes the first man to be revived in history. It is then he discovers that the love of his life, Naomi (Oona Chaplin), has accompanied him this entire time in a way that he'd never expected."
+    },
+    {
+      "title": "Æon Flux",
+      "years": "2415..2415",
+      "countries": [
+        "UNKNOWN"
+      ],
+      "plot": "Four hundred years in the future, set in the year 2415, Æon Flux is a mysterious assassin. Four centuries after a virus nearly annihilated the human race, leaving only five million survivors in a utopian city called Bregna. Aeon is struggling to destroy the Goodchild regime led by its namesake, Trevor Goodchild, the ruler of Bregna and a descendant of the man who found a cure for the deadly virus. As instructed by the Handler, Æon is assigned to assassinate Goodchild, but there are deeper secrets to be discovered, and conspiracies to be foiled."
+    },
+    {
+      "title": "Lost in Space",
+      "years": "2058..2058",
+      "countries": [
+        "UNKNOWN"
+      ],
+      "plot": "In the year 2058, the Earth will soon be uninhabitable after the irreversible effects of pollution and global warming! Professor John Robinson, lead scientist of the Jupiter 2 Mission, will lead his family to the habitable planet Alpha Prime to prep it for colonization. The Jupiter 2 is equipped with a hyperdrive that allows faster-than-light travel, which will eventually be employed to evacuate the citizens of Earth. However hypergates must be constructed on Earth and Alpha Prime to provide stable points of departure and arrival. Dr. Zachary Smith is bribed by a terrorist organization to sabotage the mission, and ends up an unwilling stowaway as the ship blasts off."
+    },
+    {
+      "title": "Enemy Mine",
+      "years": "2092..2095",
+      "countries": [
+        "UNKNOWN"
+      ],
+      "plot": "At the height of the devastating intergalactic war between humans and the bipedal reptilian humanoids known as Dracs, the earthling single-seat fighter pilot, Willis Davidge, and the saurian pilot, Jeriba Shigan, engage in a furious dogfight. As both sworn enemies crash-land on the desolate, inhospitable planet, Fyrine IV, they will have to put aside their hatred for each other, share knowledge and experience to fight the forces of nature and, above all, work in unison to survive. Can their forced coexistence and uneasy camaraderie pave the way for a genuine inter-species friendship?"
+    },
+    {
+      "title": "Automata",
+      "years": "2044..2044",
+      "countries": [
+        "UNKNOWN"
+      ],
+      "plot": "2044. The climate change and a series of solar storms have turned in a desert the surface of the planet and annihilated to the 99.7 % of Earth's population, leaving alive 21 million people across the world in a single city covered by mechanical clouds (zeppelins anchored to the city) to make rain. Trying to rebuild the world again, a robot company named ROC Corporation create Automata Pilgrim 7000 with two security protocols: 1st, a robot cannot harm human beings, and 2nd, a robot cannot alter himself or another robot. But this situation changes when police officer Sean Wallace shoots and destroys a robot claiming that it was altering himself. With the company worried by the possible implications if the case were known by the people, insurance agent Jacq Vaucan is chosen to investigate the happened, while Vaucan tries to convince his boss, friend and brother-in-law Robert Bold to transfer him and his pregnant wife Rachel to the coast, with Bold accepting the request if Vaucan solves the case. Going with Wallace to a brothel, they meets a robot in blue wig named Cleo, who is shot by Wallace in the belief that Cleo will go with the mysterious repairman that Vaucan calls The Clocksmith. However, Cleo travels a mechanical workshop property of Dr. Susan Dupré, who informs Vaucan about a terrible possibility: that the robots can alter their second protocol themselves to acquire self awareness, implying a non-human intelligence that easily it should overpass the human brain after a test where she mixed a biocore from the Wallace's shot robot with Cleo's own biocore. Vaucan reports secretly Bold about it, but ROC's chairman intercepts the message. When Dr. Dupré is killed in front of Vaucan by a ROC's squad group, he and Cleo run from the assassins, ending outside the city, lost in the white desert that surrounds the city. Forced to meet ROC's chairman, this reports Bold about the secret of the two protocols: that the Pilgrim 7000's prototype was created without them, and due to its unlimited intelligence and learning, he overcame to its human owners just eight days later. After to escape, all the next Pilgrims were created with the protocols to limit their capacity in order to have them under control. Fearing the extinction of human race if all the Pilgrims evolve beyond the protocols, ROC's chairman blames Vaucan of Dupré's assassination and the alteration of the robots to cover up to the public, and Wallace is hired to find Cleo and Vucan and kill them. According Vaucan, Cleo and three robots more travel across the desert to the forbidden and radioactive zone to meet The Clocksmith, Vaucan will find himself as witness of something that it would change the world as nobody could imagine."
+    },
+    {
+      "title": "Nausicaä of the Valley of the Wind",
+      "years": "3024..3024",
+      "countries": [
+        "UNKNOWN"
+      ],
+      "plot": "An animated fantasy-adventure. Set one thousand years from now, the Earth is ravaged by pollution and war. In the Valley of the Wind lives Nausicaä, Princess of her people. Their land borders on a toxic jungle, filled with dangerous over-sized insects. Meanwhile, two nearby nations are bitterly engaged in a war and the Valley of the Wind is stuck in the middle."
+    },
+    {
+      "title": "What Happened to Monday",
+      "years": "2043..2043",
+      "countries": [
+        "UNKNOWN"
+      ],
+      "plot": "In a not so distant future, where overpopulation and famine have forced governments to undertake a drastic One-Child Policy, seven identical sisters (all of them portrayed by Noomi Rapace) live a hide-and-seek existence pursued by the Child Allocation Bureau. The Bureau, directed by the fierce Nicolette Cayman (Glenn Close), enforces a strict family-planning agenda that the sisters outwit by taking turns assuming the identity of one person: Karen Settman. Taught by their grandfather (Willem Dafoe) who raised and named them - Monday, Tuesday, Wednesday, Thursday, Friday, Saturday and Sunday - each can go outside once a week as their common identity, but are only free to be themselves in the prison of their own apartment. That is until, one day, Monday does not come home."
+    },
+    {
+      "title": "Ender's Game",
+      "years": "2060..2100",
+      "countries": [
+        "UNKNOWN"
+      ],
+      "plot": "The Earth was ravaged by the Formics, an alien race seemingly determined to destroy humanity. Fifty years later, the people of Earth remain banded together to prevent their own annihilation from this technologically superior alien species. Ender Wiggin, a quiet but brilliant boy, may become the savior of the human race. He is separated from his beloved sister and his terrifying brother and brought to battle school in orbit around earth. He will be tested and honed into an empathetic killer who begins to despise what he does as he learns to fight in hopes of saving Earth and his family."
+    },
+    {
+      "title": "Alita: Battle Angel",
+      "years": "2563..2563",
+      "countries": [
+        "UNKNOWN"
+      ],
+      "plot": "Alita is a creation from an age of despair. Found by the mysterious Dr. Ido while trolling for cyborg parts, Alita becomes a lethal, dangerous being. She cannot remember who she is, or where she came from. But to Dr. Ido, the truth is all too clear. She is the one being who can break the cycle of death and destruction left behind from Tiphares. But to accomplish her true purpose, she must fight and kill. And that is where Alita's true significance comes to bear. She is an angel from heaven. She is an angel of death."
+    },
+    {
+      "title": "The Matrix Revolutions",
+      "years": "2199..2199",
+      "countries": [
+        "UNKNOWN"
+      ],
+      "plot": "Neo finds himself trapped between the Matrix and the Real World. Meanwhile, Zion is preparing for the oncoming war with the machines with very little chances of survival. Neo's associates set out to free him from The Merovingian since it's believed that he is the One who will end the war between humans and the machines. What they do not know is that there is a threat from a third party, someone who has plans to destroy both worlds."
+    },
+    {
+      "title": "Star Trek",
+      "years": "2233..2233",
+      "countries": [
+        "UNKNOWN"
+      ],
+      "plot": "On the day of James T. Kirk's birth, his father dies on his damaged starship in a last stand against a Romulan mining vessel looking for Ambassador Spock, who in this time, has grown on Vulcan disdained by his neighbors for his half-human heritage. 25 years later, James T. Kirk has grown into a young rebellious troublemaker. Challenged by Captain Christopher Pike to realize his potential in Starfleet, he comes to annoy academy instructors like Commander Spock. Suddenly, there is an emergency on Vulcan and the newly-commissioned USS Enterprise is crewed with promising cadets like Nyota Uhura, Hikaru Sulu, Pavel Chekov and even Kirk himself, thanks to Leonard McCoy's medical trickery. Together, this crew will have an adventure in the final frontier where the old legend is altered forever as a new version of the legend begins."
+    },
+    {
+      "title": "Cosmic Sin",
+      "years": "2524..2524",
+      "countries": [
+        "UNKNOWN"
+      ],
+      "plot": "In the year 2524, four centuries after humans started colonizing the outer planets, retired Gen. James Ford gets called back into service after a hostile alien fleet attacks soldiers on a remote planet. The threat against mankind soon escalates into an interstellar war as Ford and a team of elite soldiers try to stop the imminent attack before it's too late."
+    },
+    {
+      "title": "Snowpiercer",
+      "years": "2031..2031",
+      "countries": [
+        "UNKNOWN"
+      ],
+      "plot": "Set in 2031, the entire world is frozen except for those aboard the Snowpiercer. For seventeen years, the world's survivors are on a train hurtling around the globe creating their own economy and class system. Led by Curtis (Chris Evans), a group of lower-class citizens living in squalor at the back of the train are determined to get to the front of the train and spread the wealth around. Each section of the train holds new surprises for the group who have to battle their way through. A revolution is underway."
+    },
+    {
+      "title": "Crater",
+      "years": "2257..2257",
+      "countries": [
+        "UNKNOWN"
+      ],
+      "plot": "After the death of his father, a boy growing up on a lunar mining colony takes a trip to explore a legendary crater, along with his four best friends, prior to permanently leaving the Moon and relocated to another planet."
+    },
+    {
+      "title": "Sunshine",
+      "years": "2057..2064",
+      "countries": [
+        "UNKNOWN"
+      ],
+      "plot": "50 years into the future, the Sun begins to die, and Earth is dying as a result. A team of astronauts is sent to revive the Sun - but the mission fails. Seven years later, a new team is sent to finish the mission as mankind's last hope."
+    },
+    {
+      "title": "Archive",
+      "years": "2038..2038",
+      "countries": [
+        "UNKNOWN"
+      ],
+      "plot": "2038: George Almore is working on a true human-equivalent AI. His latest prototype is almost ready. This sensitive phase is also the riskiest. Especially as he has a goal that must be hidden at all costs."
+    },
+    {
+      "title": "Event Horizon",
+      "years": "2047..2047",
+      "countries": [
+        "UNKNOWN"
+      ],
+      "plot": "In the year 2047 a group of astronauts are sent to investigate and salvage the long lost starship \"Event Horizon\". The ship disappeared mysteriously 7 years before on its maiden voyage and with its return comes even more mystery as the crew of the \"Lewis and Clark\" discover the real truth behind its disappearance and something even more terrifying."
+    },
+    {
+      "title": "The Matrix",
+      "years": "1999..2199",
+      "countries": [
+        "UNKNOWN"
+      ],
+      "plot": "Thomas A. Anderson is a man living two lives. By day he is an average computer programmer and by night a hacker known as Neo. Neo has always questioned his reality, but the truth is far beyond his imagination. Neo finds himself targeted by the police when he is contacted by Morpheus, a legendary computer hacker branded a terrorist by the government. As a rebel against the machines, Neo must confront the agents: super-powerful computer programs devoted to stopping Neo and the entire human rebellion."
+    },
+    {
+      "title": "WALL·E",
+      "years": "2805..2805",
+      "countries": [
+        "UNKNOWN"
+      ],
+      "plot": "In a distant, but not so unrealistic, future where mankind has abandoned earth because it has become covered with trash from products sold by the powerful multi-national Buy N Large corporation, WALL-E, a garbage collecting robot has been left to clean up the mess. Mesmerized with trinkets of Earth's history and show tunes, WALL-E is alone on Earth except for a sprightly pet cockroach. One day, EVE, a sleek (and dangerous) reconnaissance robot, is sent to Earth to find proof that life is once again sustainable. WALL-E falls in love with EVE. WALL-E rescues EVE from a dust storm and shows her a living plant he found amongst the rubble. Consistent with her \"directive\", EVE takes the plant and automatically enters a deactivated state except for a blinking green beacon. WALL-E, doesn't understand what has happened to his new friend, but, true to his love, he protects her from wind, rain, and lightning, even as she is unresponsive. One day a massive ship comes to reclaim EVE, but WALL-E, out of love or loneliness, hitches a ride on the outside of the ship to rescue EVE. The ship arrives back at a large space cruise ship, which is carrying all of the humans who evacuated Earth 700 years earlier. The people of Earth ride around this space resort on hovering chairs which give them a constant feed of TV and video chatting. They drink all of their meals through a straw out of laziness and/or bone loss, and are all so fat that they can barely move. When the auto-pilot computer, acting on hastily-given instructions sent many centuries before, tries to prevent the people of Earth from returning by stealing the plant, WALL-E, EVE, the portly captain, and a band of broken robots stage a mutiny."
+    },
+    {
+      "title": "Avatar: Creating the World of Pandora",
+      "years": "2154..2154",
+      "countries": [
+        "UNKNOWN"
+      ],
+      "plot": "N/A"
+    },
+    {
+      "title": "Babylon 5: The Road Home",
+      "years": "2256..2282",
+      "countries": [
+        "UNKNOWN"
+      ],
+      "plot": "John Sheridan finds himself transported through multiple timelines and alternate realities in a quest to find his way back home."
+    },
+    {
+      "title": "The Titan",
+      "years": "2048..2048",
+      "countries": [
+        "UNKNOWN"
+      ],
+      "plot": "A military family takes part in a ground-breaking experiment of genetic evolution and space exploration."
+    },
+    {
+      "title": "Valerian and the City of a Thousand Planets",
+      "years": "2701..2800",
+      "countries": [
+        "UNKNOWN"
+      ],
+      "plot": "In the twenty-eighth century, space station Alpha is a city where beings from different planets live together exchanging their knowledge and culture. Peace is granted by a human force, including Major Valerian (Dane DeHaan) and his partner Sergeant Laureline (Cara Delevingne). They are assigned by the Defense Minister (Herbie Hancock) to retrieve the last species of converter in a dangerous mission. They succeed and back to Alpha, unknown humanoids abduct Commander Arun Filitt (Clive Owen) expecting to steal the converter. They head to a forbidden area that is infected, but Valerian and Laureline follow them and disclose a hidden secret about the race and the infected area."
+    },
+    {
+      "title": "Starship Troopers",
+      "years": "2200..2299",
+      "countries": [
+        "UNKNOWN"
+      ],
+      "plot": "In the distant future high school kids are encouraged to become citizens by joining the military. What they don't know is that they'll soon be engaged in a full scale war against a planet of alien insects. The fight is on to ensure the safety of humanity."
+    },
+    {
+      "title": "Voyagers",
+      "years": "2063..2150",
+      "countries": [
+        "UNKNOWN"
+      ],
+      "plot": "Set in the near future, the film chronicles the odyssey of 30 young men and women who are sent deep into space on a multi-generational mission in search of a new home. The mission descends into madness, as the crew reverts to its most primal state, not knowing if the real threat they face is what's outside the ship or who they're becoming inside it."
+    },
+    {
+      "title": "Prometheus",
+      "years": "2093..2093",
+      "countries": [
+        "UNKNOWN"
+      ],
+      "plot": "Following a faint trail of clues, the accomplished archaeologist, Doctor Elizabeth Shaw, and her partner, Charlie Holloway, along with a seventeen-man crew, embark on an ambitious, deep-space scientific expedition. Aboard the revolutionary space-exploration starship, USCSS Prometheus, the team sets foot on the rocky terrain of the desolate exomoon, LV-223, in 2093, to investigate the existence of the superior extraterrestrial species known as the \"Engineers\". But, there, inside a mysterious, complex structure of cavernous dark chambers and an intricate underground system of tunnels, more enigmas await. Now, a terrifying discovery threatens not only the outcome of the bold outer-space mission but also the very future of humankind. Is the world prepared for the answers to the fundamental questions of human existence?"
+    },
+    {
+      "title": "Maze Runner: The Death Cure",
+      "years": "2035..2035",
+      "countries": [
+        "UNKNOWN"
+      ],
+      "plot": "In the epic finale to The Maze Runner Saga, Thomas leads his group of escaped Gladers on their final and most dangerous mission yet. To save their friends, they must break into the legendary last city, a WCKD controlled labyrinth that may turn out to be the deadliest maze of all. Anyone who makes it out alive will get the answers to the questions the Gladers have been asking since they first arrived in the maze. Will Thomas and the crew make it out alive? Or will Ava Paige get her way?"
+    },
+    {
+      "title": "Alien: Resurrection",
+      "years": "2193..2193",
+      "countries": [
+        "UNKNOWN"
+      ],
+      "plot": "The saga continues 200 years after Ripley sacrificed herself for the sake of humanity. Her erstwhile employers long gone, this time it is the military that resurrects the one-woman killing machine through genetic cloning to extract the alien from within her, but during the process her DNA is fused with the queen and then the aliens escape. Now Ripley must decide where her allegiance lies."
+    },
+    {
+      "title": "A.I. Rising",
+      "years": "2148..2148",
+      "countries": [
+        "UNKNOWN"
+      ],
+      "plot": "Ederlezi Rising is an exciting science fiction romance set in near future about the pioneering space mission to Alpha Centauri undertaken by the multinational Ederlezi Corporation. Ederlezi recruits Milutin a Slav cosmonaut trained in the newly reformed futuristic Soviet Union and accompanies him with Nimani, a female android programmed to fulfill whatever he desires."
+    },
+    {
+      "title": "The Scientist",
+      "years": "2038..2038",
+      "countries": [
+        "UNKNOWN"
+      ],
+      "plot": "A haunting psychological thriller about an unconventional scientist, Steve Unger, who struggles to care for his terminally-ill wife Darlene, who only has but a few weeks left to live. While trying to stay strong for his wife and 10-year-old daughter Lily, Steve hastily embarks on a journey to develop a cure to fix Darlene and keep his family together. Ignoring all legal and moral boundaries in search for his cure, his methods of treatment and tampering with human DNA, could lead to the extinction of humanity."
+    },
+    {
+      "title": "Deep",
+      "years": "2100..2100",
+      "countries": [
+        "UNKNOWN"
+      ],
+      "plot": "In 2100, when humanity has abandoned the earth, a colony of extravagant creatures still thrives in the deepest abyss of the ocean. Deep, an adventurous \"dumbo\" octopus and the last one of his kind lives there with his two unconditional friends: Evo, a nerdy and clumsy angler fish, and Alice, a neurotic deep-sea shrimp. When an accident destroys their home, the guardian of the abyss, The Kraken, will send Deep and his friends on a perilous journey to find a new home. In their mission, they will be joined by Maura -a voracious moray eel- and together they will travel to amazing places like the submerged city of New York, the Titanic or the Arctic, facing formidable enemies and hilarious situations. Will they be able to bring the oceans back to their former glory?"
+    },
+    {
+      "title": "Waterworld",
+      "years": "2500..2500",
+      "countries": [
+        "UNKNOWN"
+      ],
+      "plot": "The polar ice caps have melted, and the earth is covered by water. The remaining people travel the seas, in search of survival. Several different societies exist. The Mariner falls from his customary and solitary existence into having to care for a woman and a young girl while being pursued by the evil forces of the Deacon."
+    },
+    {
+      "title": "Capturing Avatar",
+      "years": "2140..2154",
+      "countries": [
+        "UNKNOWN"
+      ],
+      "plot": "James Cameron always had an intense interest in the woods and the dwellers that might live within them. He wanted to delve deeply into the world of visual effects and what could be accomplished or even tried. There are four parts that capture this documentary in all of its areas of creation. Part One - (27:08); Part Two - (27:18); Part Three - (24:07); and Part Four - (19:52)"
+    },
+    {
+      "title": "The Colony",
+      "years": "2045..2045",
+      "countries": [
+        "UNKNOWN"
+      ],
+      "plot": "Groups of people - colonies - are forced underground due to another ice age. Colony 7 goes to check on Colony 5, which they lost contact with. When they get there they find that the colony has fallen and there is a whole new enemy that they have to face on their way back."
+    }
+  ],
+  "categories": [
+    {
+      "label": "earth left scarred by human ruin",
+      "description": "Many of these futures begin after Earth has been spoiled by war, poison, flood, frost, waste, or failing skies, so ordinary life unfolds amid a damaged home world. What you'll see: buried cities, ash deserts, frozen plains, drowned coasts, toxic wilds, derelict ruins, and survivors treating clean air, heat, water, and soil as precious things.",
+      "icon": "🏚️"
+    },
+    {
+      "label": "people living inside sealed habitats",
+      "description": "Human settlement often survives only within ships, domes, underground colonies, orbital stations, trench bases, or single protected cities where life depends on unbroken systems. What you'll see: airlocks, pressure doors, recycled air, rationed supplies, maintenance corridors, control rooms, and constant fear of a breach or failing machinery.",
+      "icon": "🫧"
+    },
+    {
+      "label": "space travel opening new human frontiers",
+      "description": "Voyages beyond Earth are no longer rare wonders but the chief means by which people seek land, safety, knowledge, and a future for their kind. What you'll see: launch gantries, long-haul starships, cryosleep chambers, colony transports, lunar mines, Mars habitats, and maps that treat whole planets as destinations.",
+      "icon": "🚀"
+    },
+    {
+      "label": "war making whole societies martial",
+      "description": "Alien threats, machine enemies, and struggles among human powers push government and daily custom toward drill, command, sacrifice, and readiness for battle. What you'll see: uniforms everywhere, cadet schools, fleet briefings, orbital defenses, propaganda screens, troop transports, and civilians taught to think in terms of survival campaigns.",
+      "icon": "🪖"
+    },
+    {
+      "label": "thinking machines serving and unsettling humans",
+      "description": "Robots, ship minds, drones, and crafted intelligences are woven into labor, travel, care, and command, even as people fear what such creations may become. What you'll see: repair bots, household automata, armed drones, synthetic companions, strict machine protocols, silent server spaces, and arguments over whether a made mind is merely a tool.",
+      "icon": "🤖"
+    },
+    {
+      "label": "science remaking bodies and bloodlines",
+      "description": "Medicine and statecraft alike reach deep into the flesh through cloning, altered genes, cybernetic bodies, suspended life, and engineered adaptation to harsh worlds. What you'll see: lab vats, memory copies, prosthetic limbs, gene trials, revived bodies, military enhancement schemes, and doctors speaking of the body as something that can be redesigned.",
+      "icon": "🧬"
+    },
+    {
+      "label": "states managing life with hard rules",
+      "description": "Scarcity and fear give authorities cause to regulate births, movement, identity, memory, and information with a firm hand, often in the name of order or survival. What you'll see: identity checks, monitored apartments, official decrees, restricted records, one-child edicts, hidden archives, and bureaucracies deciding who may live where and as whom.",
+      "icon": "🪪"
+    },
+    {
+      "label": "humanity meeting rival and neighboring species",
+      "description": "The wider cosmos is peopled by other beings, so trade, hatred, curiosity, and uneasy fellowship shape the political order as much as purely human concerns do. What you'll see: alien languages, mixed-species cities, first-contact rituals, occupied worlds, sacred ruins of older races, and battle lines or marketplaces where very different peoples share space.",
+      "icon": "👽"
+    },
+    {
+      "label": "wealth and comfort divided by enclosure",
+      "description": "These futures often sort people into protected abundance and exposed want, with privilege gathered in high stations, guarded centers, or better decks while others endure the margins. What you'll see: gleaming upper levels, crowded lower quarters, salvage markets, luxury transport, labor colonies, hidden service passages, and social rank built into the very architecture.",
+      "icon": "🏙️"
+    },
+    {
+      "label": "daily survival tied to fragile systems",
+      "description": "Whether on a dead world or a living ship, ordinary existence depends on a thin chain of fuel, food, oxygen, heat, navigation, and repair that can break at any hour. What you'll see: crop modules, water reclaimers, pressure gauges, spare parts, improvised fixes, countdowns to depletion, and crews who treat technical upkeep as the difference between life and death.",
+      "icon": "🔧"
+    }
+  ]
+}

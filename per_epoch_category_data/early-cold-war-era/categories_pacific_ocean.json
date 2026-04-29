@@ -1,0 +1,58 @@
+{
+  "epoch": "early-cold-war-era",
+  "continent": "pacific_ocean",
+  "sample_size": 1,
+  "sample": [
+    {
+      "title": "Kensuke's Kingdom",
+      "years": "1960..1960",
+      "countries": [
+        "UNKNOWN",
+        "JP"
+      ],
+      "plot": "Young Michael, shipwrecked on a remote island, must adapt to life alone. Over time, he feels another presence, learning that this world is home to both unimaginable danger and beauty."
+    }
+  ],
+  "categories": [
+    {
+      "label": "far-flung islands reached by sea",
+      "description": "Across the Pacific, distance governs life: many places lie days from the nearest port, and boats remain the surest link to supplies, news, and rescue. What you'll see: open water without end, small craft and cargo vessels, isolated beaches, and the feeling of being cut off from the wider world.",
+      "icon": "⛵"
+    },
+    {
+      "label": "war memories lingering in the Pacific",
+      "description": "The Second World War is recent enough that its wreckage, losses, and personal scars still shape how people understand these islands. What you'll see: abandoned traces of conflict, uneasy recollections of Japanese expansion and defeat, and landscapes that seem peaceful while carrying the weight of recent violence.",
+      "icon": "🪖"
+    },
+    {
+      "label": "colonial outposts giving way slowly",
+      "description": "Many Pacific islands still live within imperial or former imperial arrangements, with outside powers setting borders, trade links, and official authority from afar. What you'll see: remote settlements tied to foreign ports, signs of rule arriving from elsewhere, and local life unfolding at a distance from metropolitan centres.",
+      "icon": "🚩"
+    },
+    {
+      "label": "island life shaped by scarce provisions",
+      "description": "On small islands, everyday survival depends on what can be gathered, fished, grown, or carefully preserved, because replacement goods are hard to come by. What you'll see: makeshift shelters, rationed stores, foraging along the shore, fresh water as a precious need, and tools used again and again.",
+      "icon": "🥥"
+    },
+    {
+      "label": "weather and sea as daily masters",
+      "description": "In the Pacific, wind, currents, storms, and heat are not background but ruling conditions that decide travel, labour, and safety. What you'll see: sudden squalls, punishing sun, rough surf, drifting debris, and people reading clouds, tides, and the behaviour of the sea.",
+      "icon": "🌊"
+    },
+    {
+      "label": "thick island wilderness beyond settlements",
+      "description": "Even where people have passed through, many islands remain dominated by dense vegetation, cliffs, reefs, and animal life rather than roads or built order. What you'll see: tangled forest paths, hidden coves, steep shorelines, bright birds and sea creatures, and terrain that feels both beautiful and perilous.",
+      "icon": "🌴"
+    },
+    {
+      "label": "Japanese lives scattered after defeat",
+      "description": "In the years after 1945, some Japanese people remain marked by displacement, separation, and the collapse of the empire that once stretched across the Pacific. What you'll see: solitary habits, improvised living in remote places, silence around the past, and a guarded relation to the wider world.",
+      "icon": "🧳"
+    },
+    {
+      "label": "human presence dwarfed by ocean nature",
+      "description": "Pacific island settings often place people inside a vast natural world where reefs, tides, animals, and seasons are stronger than any settled claim. What you'll see: empty horizons, beaches littered by what the sea delivers, close attention to creatures and plants, and a constant sense of human smallness.",
+      "icon": "🐋"
+    }
+  ]
+}

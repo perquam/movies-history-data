@@ -1,0 +1,75 @@
+{
+  "epoch": "post-911-world",
+  "continent": "antarctica",
+  "sample_size": 2,
+  "sample": [
+    {
+      "title": "Happy Feet Two",
+      "years": "2011..2011",
+      "countries": [
+        "AQ"
+      ],
+      "plot": "Mumble the penguin has a problem: his son Erik, who is reluctant to dance, encounters The Mighty Sven, a penguin who can fly! Things get worse for Mumble when the world is shaken by powerful forces, causing him to brings together the penguin nations and their allies to set things right."
+    },
+    {
+      "title": "Happy Feet",
+      "years": "2000..2006",
+      "countries": [
+        "AQ"
+      ],
+      "plot": "This is the story of a little penguin named Mumble who has a terrible singing voice and later discovers he has no Heartsong. However, Mumble has an astute talent for something that none of the penguins had ever seen before: tap dancing. Though Mumble's mom, Norma Jean, thinks this little habit is cute, his dad, Memphis, says it \"just ain't penguin.\" Besides, they both know that, without a Heartsong, Mumble may never find true love. As fate would have it, his one friend, Gloria, happens to be the best singer around. Mumble and Gloria have a connection from the moment they hatch, but she struggles with his strange \"hippity- hoppity\" ways. Mumble is just too different--especially for Noah the Elder, the stern leader of Emperor Land, who ultimately casts him out of the community. Away from home for the first time, Mumble meets a posse of decidedly un-Emperor-like penguins--the Adelie Amigos. Led by Ramon, the Adelies instantly embrace Mumble's cool dance moves and invite him to party with them. In Adelie Land, Mumble seeks the counsel of Lovelace the Guru, a crazy-feathered Rockhopper penguin who will answer any of life's questions for the price of a pebble. Together with Lovelace and the Amigos, Mumble sets out across vast landscapes and, after some epic encounters, proves that by being true to yourself, you can make all the difference in the world."
+    }
+  ],
+  "categories": [
+    {
+      "label": "vast ice coasts ruled by seasons",
+      "description": "Life is set by cold, wind, darkness, and the yearly turn of sea ice, which governs where creatures can gather, travel, and feed. What you'll see: blinding white plains, blue ice cliffs, storms, frozen seas, and long treks across open snow.",
+      "icon": "🧊"
+    },
+    {
+      "label": "penguin colonies packed with ritual life",
+      "description": "Large breeding communities hold together through shared customs of courtship, nesting, hatching, and child-rearing, with little room for anyone who falls outside accepted ways. What you'll see: crowded rookeries, egg tending, huddled families, communal singing, and elders watching over the order of the colony.",
+      "icon": "🐧"
+    },
+    {
+      "label": "mates chosen through display and song",
+      "description": "Belonging and pair-bonding rest on public performance, with voice, rhythm, and showy display standing as signs of fitness and affection. What you'll see: courting circles, boastful performances, admired singers, awkward misfits, and whole communities judging worth through display.",
+      "icon": "🕺"
+    },
+    {
+      "label": "elders and gurus holding social authority",
+      "description": "Guidance comes less from written rule than from revered figures, colony leaders, and wandering wise ones whose words shape belief and conduct. What you'll see: pronouncements from respected elders, ritual advice, public scolding, and followers seeking answers from charismatic figures.",
+      "icon": "👑"
+    },
+    {
+      "label": "different penguin peoples sharing one coast",
+      "description": "Antarctica is divided into neighboring penguin communities with distinct manners, speech, and customs, yet they meet across journeys, trade of favors, and common danger. What you'll see: contrasts between emperor, Adelie, and rockhopper worlds, inter-colony gatherings, and quick shifts in dress, song, and manner.",
+      "icon": "🪶"
+    },
+    {
+      "label": "food chains tightening around scarce fish",
+      "description": "Survival depends on the abundance of krill and fish in nearby waters, so hunger and plenty ripple through the whole coastal world. What you'll see: feeding dives, anxious talk of disappearing catch, crowded foraging grounds, and the constant nearness of need beneath celebration.",
+      "icon": "🐟"
+    },
+    {
+      "label": "seals, birds, and whales sharing the margins",
+      "description": "Penguin life unfolds within a broader animal world where many species cross the same shores and waters, sometimes as neighbors and sometimes as danger. What you'll see: leopard seals in the water, seabirds overhead, giant sea creatures offshore, and wary movement through predator-haunted spaces.",
+      "icon": "🦭"
+    },
+    {
+      "label": "travel made by feet, belly, and sea",
+      "description": "Across this frozen continent, movement is slow and bodily, with distance measured in endurance over ice, through snow, and into frigid water. What you'll see: tobogganing on bellies, marching lines over ridges, perilous leaps between floes, and exhausting journeys across empty expanses.",
+      "icon": "🛷"
+    },
+    {
+      "label": "humans appearing as distant giant beings",
+      "description": "People belong to another order of life entirely, arriving from beyond the ice with strange tools and immense power over the food and fate of animals. What you'll see: ships and machines at the edge of the natural world, bright artificial objects, nets and barriers, and creatures staring up at incomprehensible human activity.",
+      "icon": "🚢"
+    },
+    {
+      "label": "song and dance filling everyday life",
+      "description": "Expression is not set apart from ordinary existence but woven into courtship, status, celebration, and the way whole communities understand themselves. What you'll see: mass choruses, rhythmic movement in the snow, identity marked through performance, and public joy turning quickly into judgment.",
+      "icon": "🎶"
+    }
+  ]
+}

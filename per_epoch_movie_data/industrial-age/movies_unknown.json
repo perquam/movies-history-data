@@ -1,0 +1,333 @@
+[
+  {
+    "movie_id": 1103825,
+    "movie_idx": 174,
+    "imdb_id": "tt12519802",
+    "title": "War of the Worlds: The Attack",
+    "production_year": "2023",
+    "genre": "Horror, Sci-Fi, Thriller",
+    "plot": "The adventures of 3 young astronomers and their fight to survive a deadly Martian invasion.",
+    "runtime": "85 min",
+    "director": "Junaid Syed",
+    "actors": "Sam Gittins, Leo Staar, Vincent Regan",
+    "production_country": "United Kingdom, Canada",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTljY2MxNjgtOWM4Mi00NjAwLTk1ZGEtMWJjNWUxNjcyMWFiXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/1103825.webp",
+    "imdb_rating": "3.2",
+    "imdb_votes": "3,294",
+    "plot_year_start": 1898,
+    "plot_year_end": 1898,
+    "epoch": "industrial-age",
+    "action_countries": [
+      "UNKNOWN"
+    ],
+    "action_continents": [
+      "UNKNOWN"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "frontier zones beyond steady state rule",
+        "description": "Large stretches of land sit far from firm government, so order depends on whoever has men, horses, and guns close at hand. What you'll see: lonely border settlements, rough tracks, improvised justice, and places where fear travels faster than officials.",
+        "icon": "🤠"
+      },
+      {
+        "label": "empires reaching into distant hinterlands",
+        "description": "Powerful states and outside adventurers push into remote regions for land, knowledge, labour, and prestige, often treating local worlds as prizes to be entered and remade. What you'll see: expeditions into unmapped country, military patrols, foreign banners, and strangers laying claim to places they barely understand.",
+        "icon": "🚩"
+      }
+    ],
+    "failures": {
+      "wikipedia": "no_wiki_article_found"
+    }
+  },
+  {
+    "movie_id": 37135,
+    "movie_idx": 336,
+    "imdb_id": "tt0120855",
+    "title": "Tarzan",
+    "production_year": "1999",
+    "genre": "Animation, Adventure, Comedy",
+    "plot": "The movie is about the life of Tarzan. Tarzan was a small orphan who was raised by an ape named Kala since he was a child. He believed that this was his family, but on an expedition Jane Porter is rescued by Tarzan. He then finds out that he's human. Now Tarzan must make the decision as to which family he should belong to...",
+    "runtime": "88 min",
+    "director": "Chris Buck, Kevin Lima",
+    "actors": "Tony Goldwyn, Minnie Driver, Brian Blessed",
+    "production_country": "United States, Japan",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZjM5OWM5NzktMTIzYy00OTk1LWIyYzAtYzBhNWY3NWQ2Y2Y0XkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/37135.webp",
+    "imdb_rating": "7.3",
+    "imdb_votes": "265,277",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Tarzan_(1999_film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/37135.txt",
+    "plot_year_start": 1890,
+    "plot_year_end": 1899,
+    "epoch": "industrial-age",
+    "action_countries": [
+      "UNKNOWN"
+    ],
+    "action_continents": [
+      "UNKNOWN"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "empires reaching into distant hinterlands",
+        "description": "Powerful states and outside adventurers push into remote regions for land, knowledge, labour, and prestige, often treating local worlds as prizes to be entered and remade. What you'll see: expeditions into unmapped country, military patrols, foreign banners, and strangers laying claim to places they barely understand.",
+        "icon": "🚩"
+      },
+      {
+        "label": "frontier zones beyond steady state rule",
+        "description": "Large stretches of land sit far from firm government, so order depends on whoever has men, horses, and guns close at hand. What you'll see: lonely border settlements, rough tracks, improvised justice, and places where fear travels faster than officials.",
+        "icon": "🤠"
+      }
+    ]
+  },
+  {
+    "movie_id": 385448,
+    "movie_idx": 3100,
+    "imdb_id": "tt5493944",
+    "title": "The Little Mermaid",
+    "production_year": "2018",
+    "genre": "Adventure, Drama, Fantasy",
+    "plot": "A young reporter and his niece discover a beautiful and enchanting creature they believe to be the real little mermaid.",
+    "runtime": "85 min",
+    "director": "Blake Harris, Chris Bouchard",
+    "actors": "William Moseley, Poppy Drayton, Loreto Peralta",
+    "production_country": "United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZThmMWRiNzctNjYyOS00MTAwLWI2ZWUtZTBkNTY2ZGQ3ZDRiXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/385448.webp",
+    "imdb_rating": "4.3",
+    "imdb_votes": "9,790",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/List_of_The_Little_Mermaid_adaptations",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/385448.txt",
+    "plot_year_start": 1890,
+    "plot_year_end": 1890,
+    "epoch": "industrial-age",
+    "action_countries": [
+      "UNKNOWN"
+    ],
+    "action_continents": [
+      "UNKNOWN"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "village custom still ordering family life",
+        "description": "In many places, marriage, kinship, and daily conduct are governed less by personal choice than by inherited custom, elders, and religious expectation. What you'll see: arranged matches, household bargaining, Sabbath or feast-day observance, and constant talk of duty, honour, and reputation.",
+        "icon": "👵"
+      }
+    ]
+  },
+  {
+    "movie_id": 10772,
+    "movie_idx": 3700,
+    "imdb_id": "tt0060315",
+    "title": "Django",
+    "production_year": "1966",
+    "genre": "Action, Drama, Western",
+    "plot": "Squelching across a God-forsaken ghost town near the US/Mexican border, always dragging a heavy coffin, blue-eyed Django, a drifting, mud-spattered, former Union soldier, saves runaway María from certain death. But, the wooden container with the mysterious content has already caught the attention of the racist ex-Confederate officer, Major Jackson, and his gang of white supremacists, and before long, things get nasty. Now, the guns have the final say, and as if that weren't enough, Jackson's sworn enemy, General Hugo Rodríguez, and his feared revolutionaries, enter the picture, wanting to have a piece of the action. Can Django, the taciturn stranger with the lighting-fast right hand, take on two armies of murderous henchmen, and live to tell the tale?",
+    "runtime": "91 min",
+    "director": "Sergio Corbucci",
+    "actors": "Franco Nero, José Canalejas, José Bódalo",
+    "production_country": "Italy, Spain",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZWVmN2NjOTMtMjZiNy00NDU2LTk3OTgtODFkYWQ2MDFiYzAwXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/10772.webp",
+    "imdb_rating": "7.2",
+    "imdb_votes": "33,796",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Django_(1966_film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/10772.txt",
+    "plot_year_start": 1865,
+    "plot_year_end": 1867,
+    "epoch": "industrial-age",
+    "action_countries": [
+      "UNKNOWN",
+      "MX",
+      "US"
+    ],
+    "action_continents": [
+      "UNKNOWN",
+      "North America",
+      "North America"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "rifles and revolvers settling disputes quickly",
+        "description": "Cheap, portable firearms make violence deadlier and more immediate, giving small bands and lone men sudden power once reserved for armies. What you'll see: holsters and carbines, armed patrols, tense stand-offs, and settlements where every quarrel seems close to bloodshed.",
+        "icon": "🔫"
+      },
+      {
+        "label": "empires reaching into distant hinterlands",
+        "description": "Powerful states and outside adventurers push into remote regions for land, knowledge, labour, and prestige, often treating local worlds as prizes to be entered and remade. What you'll see: expeditions into unmapped country, military patrols, foreign banners, and strangers laying claim to places they barely understand.",
+        "icon": "🚩"
+      }
+    ]
+  },
+  {
+    "movie_id": 100241,
+    "movie_idx": 4389,
+    "imdb_id": "tt1418377",
+    "title": "I, Frankenstein",
+    "production_year": "2014",
+    "genre": "Action, Fantasy, Sci-Fi",
+    "plot": "Dr Victor Frankenstein dies frozen to death and the creature buries him at the cemetery of his family. However he is attacked by demons but he kills one of them and Gargoyles save him and take him to a Cathedral where the Gargoyles Order gathers. The Queen of the Gargoyles Leonore keeps Dr. Frankenstein's journal together with the treasures of the Order and gives the name of Adam to the creature. Then she explains to Adam that there is an ancient war between the Gargoyles that are angels and demons under the command of the Prince Naberius. She also invites Adam to join the Gargoyles in the war against demons, but Adam prefers to isolate in a remote place. Two hundred years later, Adam returns and finds a modern society. Soon he learns that Naberius has the intention of creating an army of soulless corpses to be possessed by demons. The scientist Terra is researching a process to create life and Naberius is seeking Dr Frankenstein's journal to help Terra and raise his army.",
+    "runtime": "92 min",
+    "director": "Stuart Beattie",
+    "actors": "Aaron Eckhart, Bill Nighy, Miranda Otto",
+    "production_country": "United States, Australia",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjM3Mzk2MDU3N15BMl5BanBnXkFtZTgwMzg1NTI4MDE@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/100241.webp",
+    "imdb_rating": "5.1",
+    "imdb_votes": "85,830",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/I,_Frankenstein",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/100241.txt",
+    "plot_year_start": 1795,
+    "plot_year_end": 1995,
+    "epoch": "industrial-age",
+    "action_countries": [
+      "UNKNOWN"
+    ],
+    "action_continents": [
+      "UNKNOWN"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "old hierarchies challenged by new mobility",
+        "description": "The age loosens long-standing ranks as soldiers, emigrants, students, drifters, and explorers move across borders and imagine lives not fixed at birth. What you'll see: people leaving home, clashes between fathers and children, uniforms beside peasant dress, and newcomers carrying unfamiliar manners and ideas.",
+        "icon": "🧭"
+      },
+      {
+        "label": "empires reaching into distant hinterlands",
+        "description": "Powerful states and outside adventurers push into remote regions for land, knowledge, labour, and prestige, often treating local worlds as prizes to be entered and remade. What you'll see: expeditions into unmapped country, military patrols, foreign banners, and strangers laying claim to places they barely understand.",
+        "icon": "🚩"
+      }
+    ]
+  },
+  {
+    "movie_id": 9710,
+    "movie_idx": 6745,
+    "imdb_id": "tt0092534",
+    "title": "Allan Quatermain and the Lost City of Gold",
+    "production_year": "1986",
+    "genre": "Action, Adventure, Comedy",
+    "plot": "After his brother Robeson disappears without a trace while exploring Africa in search of a legendary 'white tribe', Alan Quatermain decides to follow in his footsteps to learn what became of him. Soon after arriving, he discovers the los City of Gold, controlled by the evil lord Agon, and mined by his legions of white slaves. Is this where Robeson met his end?",
+    "runtime": "99 min",
+    "director": "Gary Nelson",
+    "actors": "Richard Chamberlain, Sharon Stone, James Earl Jones",
+    "production_country": "United States, Israel",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMGQyYWJmNGQtOGUyZC00NThkLWEwMmUtMTgxODc3Zjg0MDE0XkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/9710.webp",
+    "imdb_rating": "4.6",
+    "imdb_votes": "11,338",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Allan_Quatermain_and_the_Lost_City_of_Gold",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/9710.txt",
+    "plot_year_start": 1880,
+    "plot_year_end": 1880,
+    "epoch": "industrial-age",
+    "action_countries": [
+      "UNKNOWN"
+    ],
+    "action_continents": [
+      "UNKNOWN"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "empires reaching into distant hinterlands",
+        "description": "Powerful states and outside adventurers push into remote regions for land, knowledge, labour, and prestige, often treating local worlds as prizes to be entered and remade. What you'll see: expeditions into unmapped country, military patrols, foreign banners, and strangers laying claim to places they barely understand.",
+        "icon": "🚩"
+      },
+      {
+        "label": "cash hunger driving conquest and labour",
+        "description": "Gold, land, stock, and other prizes draw men across borders and into harsh country, turning violence and domination into ordinary means of gain. What you'll see: mines and treasure rumours, armed escorts, coerced workers, bargaining over spoils, and hard landscapes valued mainly for what can be taken from them.",
+        "icon": "⛏️"
+      }
+    ]
+  },
+  {
+    "movie_id": 14811,
+    "movie_idx": 7826,
+    "imdb_id": "tt0067093",
+    "title": "Fiddler on the Roof",
+    "production_year": "1971",
+    "genre": "Drama, Family, Musical",
+    "plot": "At the beginning of the twentieth century, Jews and Orthodox Christians live in the little village of Anatevka in the pre-revolutionary Russia of the Czars. Among the traditions of the Jewish community, the matchmaker arranges the match and the father approves it. The milkman Reb Tevye is a poor man that has been married for twenty-five years with Golde and they have five daughters. When the local matchmaker Yente arranges the match between his older daughter Tzeitel and the old widow butcher Lazar Wolf, Tevye agrees with the wedding. However Tzeitel is in love with the poor tailor Motel Kamzoil and they ask permission to Tevye to get married that he accepts to please his daughter. Then his second daughter Hodel (Michele Marsh) and the revolutionary student Perchik decide to marry each other and Tevye is forced to accept. When Perchik is arrested by the Czar troops and sent to Siberia, Hodel decides to leave her family and homeland and travel to Siberia to be with her beloved Perchik. When his third daughter Chava decides to get married with the Christian Fyedka, Tevye does not accept and considers that Chava has died. Meanwhile the Czar troops evict the Jewish community from Anatevka.",
+    "runtime": "181 min",
+    "director": "Norman Jewison",
+    "actors": "Topol, Norma Crane, Leonard Frey",
+    "production_country": "United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMzYyYjJmMjctNzk3Yi00NmRhLWE5ZmQtZTNlZjU3MDMxNTBhXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/14811.webp",
+    "imdb_rating": "8.0",
+    "imdb_votes": "50,492",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Fiddler_on_the_Roof_(film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/14811.txt",
+    "plot_year_start": 1905,
+    "plot_year_end": 1905,
+    "epoch": "industrial-age",
+    "action_countries": [
+      "UNKNOWN"
+    ],
+    "action_continents": [
+      "UNKNOWN"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "village custom still ordering family life",
+        "description": "In many places, marriage, kinship, and daily conduct are governed less by personal choice than by inherited custom, elders, and religious expectation. What you'll see: arranged matches, household bargaining, Sabbath or feast-day observance, and constant talk of duty, honour, and reputation.",
+        "icon": "👵"
+      },
+      {
+        "label": "minorities living at the mercy of rulers",
+        "description": "Religious and ethnic communities may keep their own ways for generations yet remain exposed to sudden decrees, harassment, or expulsion from above. What you'll see: separate quarters, soldiers enforcing official orders, wary dealings with neighbours, and families preparing to leave home behind.",
+        "icon": "🧳"
+      }
+    ]
+  },
+  {
+    "movie_id": 50126,
+    "movie_idx": 7904,
+    "imdb_id": "tt0775362",
+    "title": "Fallen",
+    "production_year": "2006",
+    "genre": "Action, Adventure, Drama",
+    "plot": "Aaron is a high school jock with a promising future. But on his 18th birthday, his life forever changes when his incredible powers emerge, revealing the terrifying truth of his identity. As The Redeemer, a half-angel, half-man who can return fallen angels to heaven, Aaron holds the entire world's destiny in his young hands. He must battle warrior seraphs and confront the fallen angel who has sparked his nightmares. But can he save himself and the girl he loves? Based on the bestselling book series, Fallen soars to new levels in the battle between good and evil.",
+    "runtime": "81 min",
+    "director": "Mikael Salomon",
+    "actors": "Paul Wesley, Kwesi Ameyaw, Fernanda Andrade",
+    "production_country": "United States, Canada",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNTIzNzczODk1M15BMl5BanBnXkFtZTcwNzY2NzA1MQ@@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/50126.webp",
+    "imdb_rating": "6.4",
+    "imdb_votes": "4,182",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Fallen_(2016_film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/50126.txt",
+    "plot_year_start": 1854,
+    "plot_year_end": 1854,
+    "epoch": "industrial-age",
+    "action_countries": [
+      "UNKNOWN"
+    ],
+    "action_continents": [
+      "UNKNOWN"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "missionaries and sacred language shaping belief",
+        "description": "Biblical teaching, church authority, and older sacred ideas still furnish the main terms people use to explain suffering, evil, destiny, and moral order. What you'll see: prayers and sermons, crosses and icons, appeals to heaven, and everyday speech thick with sin, judgement, and redemption.",
+        "icon": "⛪"
+      }
+    ]
+  }
+]

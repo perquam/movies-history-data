@@ -1,0 +1,62 @@
+{
+  "epoch": "legendary-past",
+  "continent": "europe",
+  "sample_size": 1,
+  "sample": [
+    {
+      "title": "Early Man",
+      "years": "-2000000..-2000000",
+      "countries": [
+        "GB"
+      ],
+      "plot": "An asteroid collides with the prehistoric Earth, causing the extinction of the planet's dinosaurs, but sparing a tribe of cavemen living near the impact site. Finding a roughly spherical chunk of the asteroid that is too hot to touch, the cavemen begin to kick it around and invent the game of football. Many years later during the Stone Age, a young caveman named Dug (Eddie Redmayne) lives in the village with the chief Bobnar (Timothy Spall) and many other cavemen such as Asbo, (Johnny Vegas), Gravelle (Gina Yashere), Treebor (Richard Ayoade), Magma (Selina Griffiths), Barry (Mark Williams), Grubup (Richard Webber), Thongo (Simon Greenall) and Eemak (Simon Greenall). One day, Dug suggests to Bobnar that they should try hunting woolly mammoths instead of rabbits, but Bobnar brushes him off.."
+    }
+  ],
+  "categories": [
+    {
+      "label": "small tribes living by foraging",
+      "description": "People survive in kin-sized groups that move with game, seasons, and whatever the land yields, with little stored wealth and few fixed boundaries. What you'll see: hunting parties, berrying and trapping, shared meals by the fire, and camps or villages tucked into caves and rough shelters.",
+      "icon": "🏕️"
+    },
+    {
+      "label": "stone, bone, and hide tools",
+      "description": "Daily work depends on what can be chipped, carved, lashed, or sewn from nearby materials, so craft remains close to the hand and the hunt. What you'll see: flint points, wooden spears, bone needles, hide clothing, and improvised gear made from tusks, antlers, and branches.",
+      "icon": "🪓"
+    },
+    {
+      "label": "chiefs leading through custom and respect",
+      "description": "Authority rests less on written law than on age, prowess, and the tribe's memory of who has earned obedience in hard times. What you'll see: elders settling disputes, councils around the fire, public grumbling or assent, and leadership tested by food shortages and danger.",
+      "icon": "👴"
+    },
+    {
+      "label": "animals towering over human survival",
+      "description": "Great beasts supply meat, skins, bone, and danger, making human life feel small beside the herds and predators that share the land. What you'll see: mammoths and rabbits as food sources, risky hunts, animal tracks read like signs, and villages measuring themselves against the wild.",
+      "icon": "🦣"
+    },
+    {
+      "label": "landscapes shaped by ice and rock",
+      "description": "Europe appears as a harsh, open world of cliffs, plains, forests, and cold weather where travel is slow and shelter is precious. What you'll see: snowy ground, rugged valleys, cave mouths, mud and stone underfoot, and weather treated as a constant force in life.",
+      "icon": "🏔️"
+    },
+    {
+      "label": "no writing, memory held in speech",
+      "description": "Knowledge passes by imitation, storytelling, and repeated custom because there are no records, charters, or learned books to preserve it otherwise. What you'll see: oral boasting, shared legends, practical lessons shown by hand, and the tribe's past carried in jokes, warnings, and ritual phrases.",
+      "icon": "🗣️"
+    },
+    {
+      "label": "neighbouring peoples divided by way of life",
+      "description": "Different groups can live at sharply different levels of skill, comfort, and organisation even within the same region, and those differences shape rank and conflict. What you'll see: rough cave dwellers set against more settled or better-equipped neighbours, mutual contempt, and contrasts in dress, food, and housing.",
+      "icon": "⚔️"
+    },
+    {
+      "label": "games and contests as communal order",
+      "description": "Before formal institutions, play, boasting, and public contests help settle standing, bind the group, and turn skill into shared meaning. What you'll see: kicking games, cheering crowds, improvised rules, wagers of pride and livelihood, and whole communities gathering around a contest.",
+      "icon": "🤼"
+    },
+    {
+      "label": "fire as hearth, craft, and protection",
+      "description": "Controlled fire stands at the centre of warmth, cooking, toolmaking, and safety, making it one of the clearest marks between human settlement and the dark beyond. What you'll see: hearth circles, roasting meat, smoke in caves, torches in the night, and people clustering where flame keeps beasts and cold at bay.",
+      "icon": "🔥"
+    }
+  ]
+}

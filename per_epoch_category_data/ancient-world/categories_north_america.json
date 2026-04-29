@@ -1,0 +1,83 @@
+{
+  "epoch": "ancient-world",
+  "continent": "north_america",
+  "sample_size": 3,
+  "sample": [
+    {
+      "title": "The Walking Deceased",
+      "years": "29..29",
+      "countries": [
+        "US"
+      ],
+      "plot": "When a police officer wakes up in a hospital to find out he is in the middle of a zombie apocalypse, he will do anything to find his family, even sacrifice Twitter."
+    },
+    {
+      "title": "Lifemark",
+      "years": "18..18",
+      "countries": [
+        "US"
+      ],
+      "plot": "David's comfortable world is turned upside down when his birthmother unexpectedly reaches out to him, longing to meet the 18-year-old son she's only held once."
+    },
+    {
+      "title": "The Legend of La Llorona",
+      "years": "16..16",
+      "countries": [
+        "MX"
+      ],
+      "plot": "Legend has it that Maria, a distraught mother living in 16th-century Mexico, was punished to an eternity in purgatory for her heinous crimes. Against the backdrop of the blood-chilling tale, the grieving Candlewood family takes a trip to the same haunted parts of Mexico, unbeknownst to them that, sometimes, there is a disturbing truth behind those stories. Now, restless evil lurks in the deep canals near the Candlewoods' small hotel, and it has already set its sights on taking their unsuspecting, innocent son, Danny. And, as the malevolent supernatural force grows stronger by the minute, the couple must fight tooth and nail to save their only child. However, has anyone ever crossed paths with the cursed Weeping Woman and lived to tell the tale?"
+    }
+  ],
+  "categories": [
+    {
+      "label": "christian ideas shaping family duty",
+      "description": "Family life is read through Christian ideas of sin, forgiveness, sacrifice, and the worth of every child, whether in Catholic legend or evangelical moral language. What you'll see: prayers, church talk, appeals to conscience, and parents measuring their choices against a sacred order.",
+      "icon": "✝️"
+    },
+    {
+      "label": "kinship ties treated as lifelong claims",
+      "description": "Parents, children, and birth relations are understood as bonds that keep their force even after separation, death, or long silence. What you'll see: searches for missing family, tense reunions, talk of motherhood and adoption, and households gathered around a child in danger.",
+      "icon": "👨‍👩‍👧"
+    },
+    {
+      "label": "healing houses as fragile places of refuge",
+      "description": "Hospitals and sickrooms stand as places where people expect safety and care, yet they can quickly become exposed and fearful when the wider world turns hostile. What you'll see: narrow corridors, curtained beds, medical rooms gone still, and wounded people trying to recover behind thin walls.",
+      "icon": "🏥"
+    },
+    {
+      "label": "roads and vehicles binding scattered lives",
+      "description": "Daily life depends on roads, cars, and short journeys that connect families to towns, lodgings, and places of help across a broad landscape. What you'll see: anxious drives, roadside stops, arrivals at unfamiliar buildings, and travel turning ordinary distance into dread.",
+      "icon": "🚗"
+    },
+    {
+      "label": "police and local authority in daily view",
+      "description": "Civic order is imagined through nearby officers and small-scale authorities rather than distant rulers, making public safety feel personal and immediate. What you'll see: uniforms, questions at the scene, emergency response, and ordinary people looking to local officials when trouble breaks out.",
+      "icon": "👮"
+    },
+    {
+      "label": "old folk terrors living beside modern life",
+      "description": "Long-carried tales of curses, wandering spirits, and punished souls continue to shape how danger is understood even in a world of cars, hotels, and hospitals. What you'll see: whispered legends, haunted waterways, uneasy elders, and modern families confronting powers older than their surroundings.",
+      "icon": "👻"
+    },
+    {
+      "label": "messages moving through phones and screens",
+      "description": "Communication is expected to be instant, public, and constant, so news, pleas, and panic travel through handheld devices and social platforms. What you'll see: phones clutched in fear, screens lighting dark rooms, hurried calls and posts, and people trying to reach loved ones at once.",
+      "icon": "📱"
+    },
+    {
+      "label": "small households facing danger on their own",
+      "description": "The household is treated as the first unit of survival and moral choice, often left to fend for itself before wider help can arrive. What you'll see: parents barring doors, couples arguing over what must be done, children kept close, and bedrooms turned into defensive spaces.",
+      "icon": "🏠"
+    },
+    {
+      "label": "mexican sacred folklore haunting the landscape",
+      "description": "In Mexican settings, place is marked by Catholic memory and older local legend, so canals, shrines, and old quarters carry a spiritual charge. What you'll see: dim chapels, candles, waterside paths, colonial streets, and stories tied to particular haunted ground.",
+      "icon": "🕯️"
+    },
+    {
+      "label": "comfort easily broken by sudden catastrophe",
+      "description": "Ordinary North American routines rest on a sense of safety that can collapse in a moment, revealing how thin the barrier is between comfort and terror. What you'll see: neat homes, quiet outings, familiar errands, and then abrupt scenes of panic, flight, and improvised survival.",
+      "icon": "🛋️"
+    }
+  ]
+}

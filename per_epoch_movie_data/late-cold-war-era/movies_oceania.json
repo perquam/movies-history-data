@@ -1,0 +1,460 @@
+[
+  {
+    "movie_id": 49021,
+    "movie_idx": 3366,
+    "imdb_id": "tt1448755",
+    "title": "Killer Elite",
+    "production_year": "2011",
+    "genre": "Action, Crime, Thriller",
+    "plot": "Loosely based on a true story, Killer Elite pits two of the worlds' most elite operatives - Danny, a ruthless killer-for-hire (Jason Statham) and Hunter, his longtime mentor (Robert De Niro) - against the cunning leader of a secret society of former Special Air Service operatives('Clive Owen'). Covering the globe from Australia to Paris, London and the Middle East, Danny and Hunter are plunged into a highly dangerous game of revenge and deception - where things are not always what they appear to be.",
+    "runtime": "116 min",
+    "director": "Gary McKendry",
+    "actors": "Jason Statham, Clive Owen, Robert De Niro",
+    "production_country": "United Kingdom, Australia, United States, Jordan, Morocco, France",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTc4MDAxMjAzNV5BMl5BanBnXkFtZTcwNTY3ODg3NQ@@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/49021.webp",
+    "imdb_rating": "6.4",
+    "imdb_votes": "140,579",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Killer_Elite_(film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/49021.txt",
+    "plot_year_start": 1980,
+    "plot_year_end": 1981,
+    "epoch": "late-cold-war-era",
+    "action_countries": [
+      "AU",
+      "OM",
+      "GB",
+      "FR"
+    ],
+    "action_continents": [
+      "Oceania",
+      "Asia",
+      "Europe",
+      "Europe"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "oceans binding scattered settlements and worlds",
+        "description": "Sea travel and island geography still shape the region, making boats, ports, and long stretches of water part of ordinary imagination as well as real movement. What you'll see: marinas, battered yachts, harbor cities, ferries, radio calls, storms at sea, and horizons with no land in sight.",
+        "icon": "⛵"
+      },
+      {
+        "label": "british institutions lingering in local life",
+        "description": "Even as the region feels more self-confident and distinct, law, policing, schooling, and ceremony still carry strong British inheritance in accent, habit, and authority. What you'll see: uniforms, magistrates and detectives, formal titles, school discipline, clipped official speech, and a deference that is fraying at the edges.",
+        "icon": "👮"
+      }
+    ]
+  },
+  {
+    "movie_id": 24238,
+    "movie_idx": 3594,
+    "imdb_id": "tt0978762",
+    "title": "Mary and Max",
+    "production_year": "2009",
+    "genre": "Animation, Comedy, Drama",
+    "plot": "In the mid-1970's, a homely, friendless Australian girl of 8 picks a name out of a Manhattan phone book and writes to him; she includes a chocolate bar. She's Mary Dinkle, the only child of an alcoholic mother and a distracted father. He's Max Horowitz, an overweight man with Asperger's, living alone in New York. He writes back, with chocolate. Thus begins a 20-year correspondence, interrupted by a stay in an asylum and a few misunderstandings. Mary falls in love with a neighbor, saves money to have a birthmark removed and deals with loss. Max has a friendship with a neighbor, tries to control his weight, and finally gets the dream job. Will the two ever meet face to face?",
+    "runtime": "92 min",
+    "director": "Adam Elliot",
+    "actors": "Toni Collette, Philip Seymour Hoffman, Eric Bana",
+    "production_country": "Australia",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNzY2Mjc4NjMtNGY4Mi00NzM5LTk3ZTQtN2VkNzVkMzRmM2Y2XkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/24238.webp",
+    "imdb_rating": "8.1",
+    "imdb_votes": "199,582",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Mary_and_Max",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/24238.txt",
+    "plot_year_start": 1976,
+    "plot_year_end": 1996,
+    "epoch": "late-cold-war-era",
+    "action_countries": [
+      "AU",
+      "US"
+    ],
+    "action_continents": [
+      "Oceania",
+      "North America"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "welfare offices reaching into family life",
+        "description": "The late-century state increasingly monitors children, troubled homes, and those deemed at risk, bringing social workers and foster arrangements into private life. What you'll see: case files, institutional homes, interviews with officials, emergency placements, and anxious families dealing with state scrutiny.",
+        "icon": "📋"
+      }
+    ]
+  },
+  {
+    "movie_id": 928270,
+    "movie_idx": 3663,
+    "imdb_id": "tt17291716",
+    "title": "Heatwave",
+    "production_year": "2022",
+    "genre": "Thriller",
+    "plot": "A young career-driven woman seemingly has it all - a new position at a top real estate agency, a lead on an exciting project, and an enamoring new love interest. But her life takes a turn when she finds out she has fallen for her boss's wife, becoming tangled in a web of malice. Secrets are revealed and dark motives linking to her past come to light as she fights to defend herself in this sizzling thriller.",
+    "runtime": "100 min",
+    "director": "Ernie Barbarash",
+    "actors": "Kat Graham, Merritt Patterson, Sebastian Roché",
+    "production_country": "United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYTViMjI5MjktN2ZiYy00YmE2LTk3YTItNDU1NjMxMzYxOGZhXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/928270.webp",
+    "imdb_rating": "5.0",
+    "imdb_votes": "2,600",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Heatwave_(film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/928270.txt",
+    "plot_year_start": 1982,
+    "plot_year_end": 1982,
+    "epoch": "late-cold-war-era",
+    "action_countries": [
+      "AU"
+    ],
+    "action_continents": [
+      "Oceania"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "welfare offices reaching into family life",
+        "description": "The late-century state increasingly monitors children, troubled homes, and those deemed at risk, bringing social workers and foster arrangements into private life. What you'll see: case files, institutional homes, interviews with officials, emergency placements, and anxious families dealing with state scrutiny.",
+        "icon": "📋"
+      },
+      {
+        "label": "british institutions lingering in local life",
+        "description": "Even as the region feels more self-confident and distinct, law, policing, schooling, and ceremony still carry strong British inheritance in accent, habit, and authority. What you'll see: uniforms, magistrates and detectives, formal titles, school discipline, clipped official speech, and a deference that is fraying at the edges.",
+        "icon": "👮"
+      }
+    ]
+  },
+  {
+    "movie_id": 10628,
+    "movie_idx": 4289,
+    "imdb_id": "tt0257568",
+    "title": "Kangaroo Jack",
+    "production_year": "2003",
+    "genre": "Action, Adventure, Comedy",
+    "plot": "Louis Booker and Charlie Carbone are close friends with an association with the mob. After the duo botch a delivery of stolen TVs, the duo are given a second chance by mob leader Sal Maggio, who happens to be Charlie's stepfather. The duo are to deliver $50,000 to a contact in Australia. As simple as the job sounds, complications emerge when a kangaroo steals the money. Now Charlie and Louis must find the kangaroo and get the money back before they find themselves in a worse predicament.",
+    "runtime": "89 min",
+    "director": "David McNally",
+    "actors": "Anthony Anderson, Jerry O'Connell, Estella Warren",
+    "production_country": "United States, Australia",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTk1Njg5MjAyOV5BMl5BanBnXkFtZTYwNDAxMDg5._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/10628.webp",
+    "imdb_rating": "4.5",
+    "imdb_votes": "34,956",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Kangaroo_Jack",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/10628.txt",
+    "plot_year_start": 1982,
+    "plot_year_end": 1983,
+    "epoch": "late-cold-war-era",
+    "action_countries": [
+      "AU",
+      "US"
+    ],
+    "action_continents": [
+      "Oceania",
+      "North America"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "oceans binding scattered settlements and worlds",
+        "description": "Sea travel and island geography still shape the region, making boats, ports, and long stretches of water part of ordinary imagination as well as real movement. What you'll see: marinas, battered yachts, harbor cities, ferries, radio calls, storms at sea, and horizons with no land in sight.",
+        "icon": "⛵"
+      },
+      {
+        "label": "crime networks living beside ordinary suburbs",
+        "description": "Armed robbery, drugs, and underworld loyalties are not hidden in distant quarters alone but can sit close to everyday domestic life. What you'll see: safe suburban kitchens beside guns and cash, police surveillance, unmarked cars, tense visits, and family ties tangled with criminal business.",
+        "icon": "🔫"
+      }
+    ]
+  },
+  {
+    "movie_id": 429300,
+    "movie_idx": 4583,
+    "imdb_id": "tt6306064",
+    "title": "Adrift",
+    "production_year": "2018",
+    "genre": "Action, Adventure, Biography",
+    "plot": "Starring Shailene Woodley and Sam Claflin, Adrift is based on the inspiring true story of two free spirits whose chance encounter leads them first to love, and then to the adventure of a lifetime. As the two avid sailors set out on a journey across the ocean, Tami Oldham (Woodley) and Richard Sharp (Claflin) couldn't anticipate they would be sailing directly into one of the most catastrophic hurricanes in recorded history. In the aftermath of the storm, Tami awakens to find Richard badly injured and their boat in ruins. With no hope for rescue, Tami must find the strength and determination to save herself and the only man she has ever loved. Adrift is the unforgettable story about the resilience of the human spirit and the transcendent power of love.",
+    "runtime": "96 min",
+    "director": "Baltasar Kormákur",
+    "actors": "Shailene Woodley, Sam Claflin, Jeffrey Thomas",
+    "production_country": "United States, United Kingdom, Hong Kong, Iceland",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTkxMTI2MjE4OF5BMl5BanBnXkFtZTgwMjIyODQzNTM@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/429300.webp",
+    "imdb_rating": "6.6",
+    "imdb_votes": "65,389",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Adrift_(2018_film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/429300.txt",
+    "plot_year_start": 1983,
+    "plot_year_end": 1983,
+    "epoch": "late-cold-war-era",
+    "action_countries": [
+      "PF",
+      "JP",
+      "US"
+    ],
+    "action_continents": [
+      "Oceania",
+      "Asia",
+      "North America"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "oceans binding scattered settlements and worlds",
+        "description": "Sea travel and island geography still shape the region, making boats, ports, and long stretches of water part of ordinary imagination as well as real movement. What you'll see: marinas, battered yachts, harbor cities, ferries, radio calls, storms at sea, and horizons with no land in sight.",
+        "icon": "⛵"
+      }
+    ]
+  },
+  {
+    "movie_id": 44629,
+    "movie_idx": 6163,
+    "imdb_id": "tt1313092",
+    "title": "Animal Kingdom",
+    "production_year": "2010",
+    "genre": "Crime, Drama, Thriller",
+    "plot": "Despite being no saint herself, Julia Cody has shielded her seventeen year old son, Joshua \"J\" Cody, from her Melbourne-based criminal relatives who they have not seen in years. After Julia dies in front of J's eyes from a self-inflicted heroin overdose, J, who is slightly detached from life, feels he has no choice but to contact his maternal grandmother, Janine \"Smurf\" Cody, the family matriarch, for a place to live. Smurf rules the family with a borderline incestuous love over her three sons, the quietly menacing Andrew \"Pope\" Cody, the hyperactive Craig Cody, and the barely of age Darren Cody. Pope and his best friend, Barry \"Baz\" Brown, are armed robbers, with Darren their up and coming apprentice, while Craig is a mid level drug dealer. Melbourne's Armed Robbery Squad is after specifically Pope, who is hiding out. But when the standoff between the Codys and the Armed Robbery Squad is brought up a notch, an all out war ensues, with some casualties and J caught in the middle. The only grounding in J's life is his girlfriend, Nicky Henry. With those casualties comes an investigation by Homicide Detective Senior Sergeant Nathan Leckie, who knows the Codys are involved in some of those deaths. As Leckie tries to get J on his side, J has to figure out how best to get himself out from the middle, where he trusts neither side. J also wants to figure out how to exact what he considers justice in an all around bad situation.",
+    "runtime": "113 min",
+    "director": "David Michôd",
+    "actors": "James Frecheville, Guy Pearce, Joel Edgerton",
+    "production_country": "Australia",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTQ2NjcwNjE4NV5BMl5BanBnXkFtZTcwNDU2NDg1Mw@@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/44629.webp",
+    "imdb_rating": "7.2",
+    "imdb_votes": "63,105",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Animal_Kingdom_(film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/44629.txt",
+    "plot_year_start": 1988,
+    "plot_year_end": 1988,
+    "epoch": "late-cold-war-era",
+    "action_countries": [
+      "AU"
+    ],
+    "action_continents": [
+      "Oceania"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "crime networks living beside ordinary suburbs",
+        "description": "Armed robbery, drugs, and underworld loyalties are not hidden in distant quarters alone but can sit close to everyday domestic life. What you'll see: safe suburban kitchens beside guns and cash, police surveillance, unmarked cars, tense visits, and family ties tangled with criminal business.",
+        "icon": "🔫"
+      },
+      {
+        "label": "welfare offices reaching into family life",
+        "description": "The late-century state increasingly monitors children, troubled homes, and those deemed at risk, bringing social workers and foster arrangements into private life. What you'll see: case files, institutional homes, interviews with officials, emergency placements, and anxious families dealing with state scrutiny.",
+        "icon": "📋"
+      }
+    ]
+  },
+  {
+    "movie_id": 371645,
+    "movie_idx": 6784,
+    "imdb_id": "tt4698684",
+    "title": "Hunt for the Wilderpeople",
+    "production_year": "2016",
+    "genre": "Adventure, Comedy, Drama",
+    "plot": "Reclusive country folk Bella and Hector become foster parents to Ricky, a problem child from the city. After some adjustment, things go reasonably well. However, Bella's death means that Hector must now look after Ricky himself, and they haven't been getting along. Moreover, her death causes Child Services to decide to send Ricky back to the orphanage. Ricky refuses to go back and runs away, ultimately sparking a national manhunt for him and Hector.",
+    "runtime": "101 min",
+    "director": "Taika Waititi",
+    "actors": "Sam Neill, Julian Dennison, Rima Te Wiata",
+    "production_country": "New Zealand",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjI1MDQ2MDg5Ml5BMl5BanBnXkFtZTgwMjc2NjM5ODE@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/371645.webp",
+    "imdb_rating": "7.8",
+    "imdb_votes": "150,963",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Hunt_for_the_Wilderpeople",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/371645.txt",
+    "plot_year_start": 1986,
+    "plot_year_end": 1987,
+    "epoch": "late-cold-war-era",
+    "action_countries": [
+      "NZ"
+    ],
+    "action_continents": [
+      "Oceania"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "bush know-how prized over polish",
+        "description": "Practical skill, toughness, and an easy manner carry great prestige, especially when set against formal rules and urban refinement. What you'll see: knives, boots, weathered hats, improvised fixes, rough camps, laconic humor, and people judged by whether they can cope.",
+        "icon": "🥾"
+      },
+      {
+        "label": "welfare offices reaching into family life",
+        "description": "The late-century state increasingly monitors children, troubled homes, and those deemed at risk, bringing social workers and foster arrangements into private life. What you'll see: case files, institutional homes, interviews with officials, emergency placements, and anxious families dealing with state scrutiny.",
+        "icon": "📋"
+      }
+    ]
+  },
+  {
+    "movie_id": 9671,
+    "movie_idx": 7338,
+    "imdb_id": "tt0090555",
+    "title": "Crocodile Dundee",
+    "production_year": "1986",
+    "genre": "Adventure, Comedy",
+    "plot": "Intrigued by the near-death experience of the rugged hunter, Michael J. \"Crocodile\" Dundee, after a close encounter with a monstrous saltwater crocodile, the New York City reporter, Sue Charlton, travels to Australia, to meet the legend in person. There, in the dusty hamlet of Walkabout Creek and the formidable outback, dangerous situations and unforeseen romantic complications await; however, Sue already knows that nothing compares to the urban jungle of the great Big Apple. So, like a fish out of water, Mick leaves Australia for the first time in his life for Manhattan's concrete maze, where he comes face-to-face with the complexities of modern life. But, will the unpretentious bushman ever adapt to the big city?",
+    "runtime": "97 min",
+    "director": "Peter Faiman",
+    "actors": "Paul Hogan, Linda Kozlowski, John Meillon",
+    "production_country": "Australia, United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMDFkMTYyNWUtOGNjMy00MTMyLWFkMTQtYzZiMmY1NzBhN2I3XkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/9671.webp",
+    "imdb_rating": "6.6",
+    "imdb_votes": "121,915",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Crocodile_Dundee",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/9671.txt",
+    "plot_year_start": 1986,
+    "plot_year_end": 1986,
+    "epoch": "late-cold-war-era",
+    "action_countries": [
+      "AU",
+      "US"
+    ],
+    "action_continents": [
+      "Oceania",
+      "North America"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "the outback looming beyond the coast",
+        "description": "A thinly settled interior remains central to the region's self-image, imagined as harsh, lawless, and testing in contrast to the coastal cities. What you'll see: red dirt roads, cattle stations, scrub, roadhouses, heat haze, isolated farm buildings, and immense empty distances.",
+        "icon": "🏜️"
+      },
+      {
+        "label": "oceans binding scattered settlements and worlds",
+        "description": "Sea travel and island geography still shape the region, making boats, ports, and long stretches of water part of ordinary imagination as well as real movement. What you'll see: marinas, battered yachts, harbor cities, ferries, radio calls, storms at sea, and horizons with no land in sight.",
+        "icon": "⛵"
+      }
+    ]
+  },
+  {
+    "movie_id": 10409,
+    "movie_idx": 7640,
+    "imdb_id": "tt0105488",
+    "title": "Strictly Ballroom",
+    "production_year": "1992",
+    "genre": "Comedy, Drama, Music",
+    "plot": "Scott Hastings is a champion caliber ballroom dancer, but much to the chagrin of the Australian ballroom dance community, Scott believes in dancing \"his own steps\". Fran is a beginning dancer and a bit of an ugly duckly who has the audacity to ask to be Scott's partner after his unorthodox style causes his regular partner to dance out of his life. Together, these two misfits try to win the Australian Pan Pacific Championships and show the Ballroom Confederation that they are wrong when they say, \"there are no new steps!\"",
+    "runtime": "94 min",
+    "director": "Baz Luhrmann",
+    "actors": "Paul Mercurio, Tara Morice, Bill Hunter",
+    "production_country": "Australia, United Kingdom",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZDgwMzI1NmUtNjQ0ZS00MzVjLWFiZmEtMDY0NjVhM2MxOTU3XkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/10409.webp",
+    "imdb_rating": "7.2",
+    "imdb_votes": "30,220",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Strictly_Ballroom",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/10409.txt",
+    "plot_year_start": 1988,
+    "plot_year_end": 1988,
+    "epoch": "late-cold-war-era",
+    "action_countries": [
+      "AU"
+    ],
+    "action_continents": [
+      "Oceania"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "sport and dance run by petty bodies",
+        "description": "Leisure is often organised through clubs, committees, and federations that police standards, rank talent, and guard their little empires. What you'll see: club halls, trophies, registration desks, practice floors, blazers, rule books, and arguments over proper form.",
+        "icon": "🏆"
+      }
+    ]
+  },
+  {
+    "movie_id": 304613,
+    "movie_idx": 9946,
+    "imdb_id": "tt3317874",
+    "title": "Charlie's Farm",
+    "production_year": "2014",
+    "genre": "Comedy, Horror",
+    "plot": "In an effort to do something different, four friends head into Australia's outback to explore Charlie's Farm, the site where a violent family met their end at the hands of an angry mob. Despite all warnings, they persist in their horror-seeking adventure.",
+    "runtime": "93 min",
+    "director": "Chris Sun",
+    "actors": "Tara Reid, Nathan Jones, Bill Moseley",
+    "production_country": "Australia",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMzk5ODAwOTQxMF5BMl5BanBnXkFtZTgwMDgxNDcxMzE@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/304613.webp",
+    "imdb_rating": "4.6",
+    "imdb_votes": "4,084",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Charlie%27s_Farm",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/304613.txt",
+    "plot_year_start": 1980,
+    "plot_year_end": 1980,
+    "epoch": "late-cold-war-era",
+    "action_countries": [
+      "AU"
+    ],
+    "action_continents": [
+      "Oceania"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "the outback looming beyond the coast",
+        "description": "A thinly settled interior remains central to the region's self-image, imagined as harsh, lawless, and testing in contrast to the coastal cities. What you'll see: red dirt roads, cattle stations, scrub, roadhouses, heat haze, isolated farm buildings, and immense empty distances.",
+        "icon": "🏜️"
+      }
+    ]
+  },
+  {
+    "movie_id": 408439,
+    "movie_idx": 9961,
+    "imdb_id": "tt3896738",
+    "title": "Hounds of Love",
+    "production_year": "2016",
+    "genre": "Crime, Drama, Thriller",
+    "plot": "John and Evelyn White are a pair of serial killers who target teenage girls. One night, Vicki Maloney, who impetuously sneaks out of the house for a forbidden party, is lured by the pair into their clutches. Now paying dearly for her naivety, Vicki must endure a horrific nightmare of confinement and torture at the hands of this depraved pair. Against these murderers, Vicki's only chance of survival is a mix of subterfuge, cunning, and mind games while her estranged parents and her boyfriend desperately try to learn what has happened and what can be done to find her. Meanwhile, the Whites have growing problems of their own, which could provide the only hope Vicki could have to survive.",
+    "runtime": "108 min",
+    "director": "Ben Young",
+    "actors": "Emma Booth, Ashleigh Cummings, Stephen Curry",
+    "production_country": "Australia",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTk2Mjg3MzM5M15BMl5BanBnXkFtZTgwNTA4ODQ5MTI@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/408439.webp",
+    "imdb_rating": "6.5",
+    "imdb_votes": "14,033",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Hounds_of_Love_(film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/408439.txt",
+    "plot_year_start": 1987,
+    "plot_year_end": 1987,
+    "epoch": "late-cold-war-era",
+    "action_countries": [
+      "AU"
+    ],
+    "action_continents": [
+      "Oceania"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "crime networks living beside ordinary suburbs",
+        "description": "Armed robbery, drugs, and underworld loyalties are not hidden in distant quarters alone but can sit close to everyday domestic life. What you'll see: safe suburban kitchens beside guns and cash, police surveillance, unmarked cars, tense visits, and family ties tangled with criminal business.",
+        "icon": "🔫"
+      },
+      {
+        "label": "welfare offices reaching into family life",
+        "description": "The late-century state increasingly monitors children, troubled homes, and those deemed at risk, bringing social workers and foster arrangements into private life. What you'll see: case files, institutional homes, interviews with officials, emergency placements, and anxious families dealing with state scrutiny.",
+        "icon": "📋"
+      }
+    ]
+  }
+]

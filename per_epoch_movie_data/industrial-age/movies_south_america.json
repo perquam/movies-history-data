@@ -1,0 +1,258 @@
+[
+  {
+    "movie_id": 991708,
+    "movie_idx": 178,
+    "imdb_id": "tt21113540",
+    "title": "El Conde",
+    "production_year": "2023",
+    "genre": "Comedy, Fantasy, History",
+    "plot": "After living 250 years in this world, Augusto Pinochet, who is not dead but an aged vampire, decides to die once and for all.",
+    "runtime": "110 min",
+    "director": "Pablo Larraín",
+    "actors": "Jaime Vadell, Gloria Münchmeyer, Alfredo Castro",
+    "production_country": "Chile",
+    "poster": "https://m.media-amazon.com/images/M/MV5BY2U3ZWFjNzMtNzU2NC00MjBiLThmYzItOTMxODQ5ZTI2ZDM1XkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/991708.webp",
+    "imdb_rating": "6.4",
+    "imdb_votes": "14,640",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/El_Conde_(film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/991708.txt",
+    "plot_year_start": 1789,
+    "plot_year_end": 1973,
+    "epoch": "industrial-age",
+    "action_countries": [
+      "CL"
+    ],
+    "action_continents": [
+      "South America"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "Catholic morality shaping family and reputation",
+        "description": "Marriage, widowhood, sexuality, and proper conduct are judged within a moral order strongly marked by the Church and by public honor. What you'll see: funerals, priests at moments of crisis, chaperoned visits, scandal whispered through town, and families guarding a daughter's good name.",
+        "icon": "⛪"
+      },
+      {
+        "label": "doctors, priests, and healers contesting authority",
+        "description": "Learned medicine gains prestige, yet spiritual explanations still command deep loyalty, so sickness and strange behavior become grounds for struggle over who may name the truth. What you'll see: bedside examinations, church rites, arguments over possession and diagnosis, and villagers measuring science against faith.",
+        "icon": "🩺"
+      }
+    ]
+  },
+  {
+    "movie_id": 946215,
+    "movie_idx": 343,
+    "imdb_id": "tt17595094",
+    "title": "In the Fire",
+    "production_year": "2023",
+    "genre": "Horror, Thriller",
+    "plot": "A doctor travels to a remote plantation to care for a disturbed boy who has inexplicable abilities. She ignites a war of science versus religion with the local priest who believes the boy is possessed by the Devil.",
+    "runtime": "87 min",
+    "director": "Conor Allyn",
+    "actors": "Amber Heard, Eduardo Noriega, Sophie Amber",
+    "production_country": "Italy, United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNWQxODg3NjktMGI4My00M2E1LTgxMDYtNzIwYzRmMWIxM2Q1XkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/946215.webp",
+    "imdb_rating": "2.9",
+    "imdb_votes": "4,317",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/In_the_Fire_(film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/946215.txt",
+    "plot_year_start": 1890,
+    "plot_year_end": 1910,
+    "epoch": "industrial-age",
+    "action_countries": [
+      "CO"
+    ],
+    "action_continents": [
+      "South America"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "doctors, priests, and healers contesting authority",
+        "description": "Learned medicine gains prestige, yet spiritual explanations still command deep loyalty, so sickness and strange behavior become grounds for struggle over who may name the truth. What you'll see: bedside examinations, church rites, arguments over possession and diagnosis, and villagers measuring science against faith.",
+        "icon": "🩺"
+      },
+      {
+        "label": "jungle, river, and climate testing settlement",
+        "description": "Human schemes for order remain fragile before flood, heat, insects, disease, and dense tropical growth that can overrun fields and buildings. What you'll see: oppressive humidity, muddy banks, swarming pests, fever fears, jungle cleared by force, and nature pressing against every boundary.",
+        "icon": "🌴"
+      }
+    ]
+  },
+  {
+    "movie_id": 977246,
+    "movie_idx": 629,
+    "imdb_id": "tt20395798",
+    "title": "Sorcery",
+    "production_year": "2023",
+    "genre": "Fantasy",
+    "plot": "Rosa, an Indigenous girl on Chiloé Island, seeks justice after her father is attacked by the farm foreman. She turns to a powerful sorcerers' organization, led by their king, for help in the late 19th century.",
+    "runtime": "100 min",
+    "director": "Christopher Murray",
+    "actors": "Valentina Véliz Caileo, Daniel Antivilo, Sebastian Hülk",
+    "production_country": "Mexico, Germany, Chile",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMGMxYjA0NmQtNjdhOS00MmRjLWIzMjctOGE1MTk5YjUyOTk4XkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/977246.webp",
+    "imdb_rating": "6.1",
+    "imdb_votes": "563",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Sorcery_(film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/977246.txt",
+    "plot_year_start": 1870,
+    "plot_year_end": 1899,
+    "epoch": "industrial-age",
+    "action_countries": [
+      "CL"
+    ],
+    "action_continents": [
+      "South America"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "doctors, priests, and healers contesting authority",
+        "description": "Learned medicine gains prestige, yet spiritual explanations still command deep loyalty, so sickness and strange behavior become grounds for struggle over who may name the truth. What you'll see: bedside examinations, church rites, arguments over possession and diagnosis, and villagers measuring science against faith.",
+        "icon": "🩺"
+      },
+      {
+        "label": "Catholic morality shaping family and reputation",
+        "description": "Marriage, widowhood, sexuality, and proper conduct are judged within a moral order strongly marked by the Church and by public honor. What you'll see: funerals, priests at moments of crisis, chaperoned visits, scandal whispered through town, and families guarding a daughter's good name.",
+        "icon": "⛪"
+      }
+    ]
+  },
+  {
+    "movie_id": 6639,
+    "movie_idx": 5012,
+    "imdb_id": "tt0484740",
+    "title": "Love in the Time of Cholera",
+    "production_year": "2007",
+    "genre": "Drama, Romance",
+    "plot": "In Colombia just after the Great War, an old man falls from a ladder; dying, he professes great love for his wife. After the funeral, a man calls on the widow - she dismisses him angrily. Flash back more than 50 years to the day Florentino Ariza, a telegraph boy, falls in love with Fermina Daza, the daughter of a mule trader. Ariza is persistent, writing her constantly, serenading, speaking poetically of love. Her father tries to keep them apart, and then, one day, she sees this love as an illusion. She's soon married to Urbino, a cultured physician, and for years, Ariza carries a torch, finding solace in the arms of women, loving none. After Urbino's fall, are Ariza's hopes delusional?",
+    "runtime": "139 min",
+    "director": "Mike Newell",
+    "actors": "Javier Bardem, Giovanna Mezzogiorno, Benjamin Bratt",
+    "production_country": "United States, Mexico, United Kingdom, Colombia",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTQ3OTE0OTM4N15BMl5BanBnXkFtZTcwNDg3OTI1MQ@@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/6639.webp",
+    "imdb_rating": "6.4",
+    "imdb_votes": "24,761",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Love_in_the_Time_of_Cholera_(film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/6639.txt",
+    "plot_year_start": 1880,
+    "plot_year_end": 1930,
+    "epoch": "industrial-age",
+    "action_countries": [
+      "CO"
+    ],
+    "action_continents": [
+      "South America"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "telegraph lines and letters carrying courtship",
+        "description": "Fast wires and slow post sit side by side, letting private feeling and public news travel farther than before without erasing distance. What you'll see: telegraph offices, handwritten notes, couriers, formal calling rituals, and anxious waits for messages to arrive.",
+        "icon": "✉️"
+      },
+      {
+        "label": "old families and newcomers chasing respectability",
+        "description": "Status rests on lineage, manners, and education, but traders, immigrants, and self-made men try to buy entry into respectable society. What you'll see: careful dress, formal parlors, marriage bargaining, social slights, and households displaying refinement as proof of rank.",
+        "icon": "🎩"
+      }
+    ]
+  },
+  {
+    "movie_id": 61988,
+    "movie_idx": 9306,
+    "imdb_id": "tt0047264",
+    "title": "The Naked Jungle",
+    "production_year": "1954",
+    "genre": "Adventure, Drama, Thriller",
+    "plot": "It's 1901. At 19, tough, stubborn Christopher Leiningen came to South America and built levees to claim thousands of acres of Rio Negro river land for a chocolate plantation. Now 34, with no knowledge of women, he recruits a mail-order bride in New Orleans. She's beautiful, independent, and arrives ready to be his stalwart helpmate; however, no one has told him she's a widow. He rejects her. During the next week, as she awaits the boat to take her back to the US, they learn that legions of army ants will strike in a few days' time. She joins the fight to save the plantation; their courage and his probable loss of all he's worked for may crack his resolve to send her away.",
+    "runtime": "95 min",
+    "director": "Byron Haskin",
+    "actors": "Charlton Heston, Eleanor Parker, Abraham Sofaer",
+    "production_country": "United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMmEzZDk1YjctOGVjNS00ZGY2LWI0YmUtOGFjZmRlNzc2OGMxXkEyXkFqcGdeQXVyMTMxMTY0OTQ@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/61988.webp",
+    "imdb_rating": "6.7",
+    "imdb_votes": "4,336",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Naked_Jungle",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/61988.txt",
+    "plot_year_start": 1901,
+    "plot_year_end": 1901,
+    "epoch": "industrial-age",
+    "action_countries": [
+      "BR",
+      "US"
+    ],
+    "action_continents": [
+      "South America",
+      "North America"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "jungle, river, and climate testing settlement",
+        "description": "Human schemes for order remain fragile before flood, heat, insects, disease, and dense tropical growth that can overrun fields and buildings. What you'll see: oppressive humidity, muddy banks, swarming pests, fever fears, jungle cleared by force, and nature pressing against every boundary.",
+        "icon": "🌴"
+      },
+      {
+        "label": "plantation estates commanding land and labour",
+        "description": "Great estates devoted to export crops give local masters power over land, work, and the rhythm of surrounding life. What you'll see: plantations cut from jungle, overseers and hired hands, storehouses, levees and drainage works, and houses set apart from the workers' quarters.",
+        "icon": "🍌"
+      }
+    ]
+  },
+  {
+    "movie_id": 5996,
+    "movie_idx": 9927,
+    "imdb_id": "tt0048801",
+    "title": "We're No Angels",
+    "production_year": "1955",
+    "genre": "Comedy, Crime, Romance",
+    "plot": "At Christmas, three prisoners, Joseph (Humphrey Bogart), Albert (Aldo Ray), and Jules (Sir Peter Ustinov) escape from Devil Island to a French small coastal town. They decide to rob a store, to get some money and clothes and travel by ship to another place. They pretend to be there to fix the roof, but pretty soon they realize that the financial condition of the family Ducotel is not good. André Trochard (Basil Rathbone), the selfish and mean owner of the establishment, exploits the Ducotel family. The three convicts spend Christmas night with the Ducotels and are so well treated by the family, that they decide to help them. Their pet will help them to fix the situation.",
+    "runtime": "106 min",
+    "director": "Michael Curtiz",
+    "actors": "Humphrey Bogart, Peter Ustinov, Aldo Ray",
+    "production_country": "United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNTUxZDJmNTAtMTVhNC00MTEyLTgyYTQtNzE0Mzc4ZjhlMjdkXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/5996.webp",
+    "imdb_rating": "7.4",
+    "imdb_votes": "12,000",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/We%27re_No_Angels_(1955_film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/5996.txt",
+    "plot_year_start": 1895,
+    "plot_year_end": 1895,
+    "epoch": "industrial-age",
+    "action_countries": [
+      "GF",
+      "FR"
+    ],
+    "action_continents": [
+      "South America",
+      "Europe"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "river ports and coastal towns tied to steamship travel",
+        "description": "Movement of people, letters, and goods depends on navigable rivers and seacoast shipping, which bind distant settlements into wider trade and social worlds. What you'll see: wharves, passenger steamers, loading docks, harbor streets, and arrivals marked by trunks, cargo, and waiting crowds.",
+        "icon": "🚢"
+      },
+      {
+        "label": "penal colonies and exile at the empire's edge",
+        "description": "Remote coastal settlements serve as places of confinement and banishment, where imperial authority is felt through isolation, guards, and the difficulty of escape. What you'll see: prison islands, convicts under watch, small frontier towns living beside punishment, and ships as the only road in or out.",
+        "icon": "⛓️"
+      }
+    ]
+  }
+]

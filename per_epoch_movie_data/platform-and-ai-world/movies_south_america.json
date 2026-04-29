@@ -1,0 +1,941 @@
+[
+  {
+    "movie_id": 1124624,
+    "movie_idx": 425,
+    "imdb_id": "tt28765467",
+    "title": "How to Deal with a Heartbreak",
+    "production_year": "2023",
+    "genre": "Comedy, Drama",
+    "plot": "Her two best friends are mapping out a bright future. Ma Fé? She's broke, uninspired and under a tight deadline to produce a book she can't write.",
+    "runtime": "110 min",
+    "director": "Joanna Lombardi",
+    "actors": "Gustavo Carr, Jason Day, Salvador del Solar",
+    "production_country": "Peru, Argentina",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZWQ3NTc2NWYtNjRlMC00YzU4LTgyZmMtOWQ3MmFkZjBjYzc0XkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/1124624.webp",
+    "imdb_rating": "4.3",
+    "imdb_votes": "169",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/How_to_Get_Over_a_Breakup",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/1124624.txt",
+    "plot_year_start": 2018,
+    "plot_year_end": 2018,
+    "epoch": "platform-and-ai-world",
+    "action_countries": [
+      "PE"
+    ],
+    "action_continents": [
+      "South America"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "youth culture filtered through global media",
+        "description": "Young people inhabit a world shaped by streaming entertainment, fandoms, fashion currents, and online status games that move easily across borders. What you'll see: school cliques, cosplay and manga references, curated identities, viral embarrassment, and bedrooms and classrooms filled with imported pop culture.",
+        "icon": "🎧"
+      }
+    ]
+  },
+  {
+    "movie_id": 458897,
+    "movie_idx": 667,
+    "imdb_id": "tt5033998",
+    "title": "Charlie's Angels",
+    "production_year": "2019",
+    "genre": "Action, Adventure, Comedy",
+    "plot": "Sabina Wilson (Kristen Stewart), Elena Houghlin (Naomi Scott), and Jane Kano (Ella Balinska) are working for the mysterious Charles Townsend (Robert Clotworthy), whose security and investigative agency has expanded internationally. With the world's smartest, bravest, and most highly trained women all over the globe, there are now teams of Angels guided by multiple Bosleys taking on the toughest jobs everywhere.",
+    "runtime": "118 min",
+    "director": "Elizabeth Banks",
+    "actors": "Kristen Stewart, Naomi Scott, Ella Balinska",
+    "production_country": "United States, China, Germany",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjIyYTRhNDItNzc2MS00MjkxLWFhOTItMzg1MTZkNDk5Nzc0XkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/458897.webp",
+    "imdb_rating": "5.0",
+    "imdb_votes": "84,057",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Charlie%27s_Angels_(2019_film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/458897.txt",
+    "plot_year_start": 2018,
+    "plot_year_end": 2019,
+    "epoch": "platform-and-ai-world",
+    "action_countries": [
+      "BR",
+      "DE",
+      "TR",
+      "FR",
+      "US"
+    ],
+    "action_continents": [
+      "South America",
+      "Europe",
+      "Asia",
+      "Europe",
+      "North America"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "foreign agencies moving through local terrain",
+        "description": "South America is treated as a field for international operatives, mercenaries, and security services who cross borders more easily than most civilians do. What you'll see: airports, safe houses, embassy-style dealings, multinational teams, tactical gear, and local streets folded into global pursuits.",
+        "icon": "🛬"
+      }
+    ]
+  },
+  {
+    "movie_id": 263472,
+    "movie_idx": 1040,
+    "imdb_id": "tt3605418",
+    "title": "Knock Knock",
+    "production_year": "2015",
+    "genre": "Crime, Thriller",
+    "plot": "When a devoted husband and father is left home alone for the weekend, two stranded young women unexpectedly knock on his door for help. What starts out as a kind gesture results in a dangerous seduction and a deadly game of cat and mouse. A sexy new thriller from director Eli Roth and written for the screen by Eli Roth &amp; Nicolás López &amp; Guillermo Amoedo and story by Anthony Overman and Michael Ronald, KNOCK KNOCK stars Keanu Reeves as the family man who falls into temptation and Lorenza Izzo and Ana de Armas as the seductresses who wreak havoc upon his life, turning a married man's dark fantasy into his worst nightmare.",
+    "runtime": "99 min",
+    "director": "Eli Roth",
+    "actors": "Keanu Reeves, Lorenza Izzo, Ana de Armas",
+    "production_country": "Chile, Israel, United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMzc4YmQ5ODktZmY3Zi00NzE4LWEzMzUtOWI4NzNiODAyYjk0XkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/263472.webp",
+    "imdb_rating": "4.9",
+    "imdb_votes": "114,537",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Knock_Knock_(2015_film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/263472.txt",
+    "plot_year_start": 2015,
+    "plot_year_end": 2015,
+    "epoch": "platform-and-ai-world",
+    "action_countries": [
+      "CL"
+    ],
+    "action_continents": [
+      "South America"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "phones and networks organize daily life",
+        "description": "Cheap smartphones, messaging apps, and constant connectivity shape friendship, work, reputation, and risk across city and countryside alike. What you'll see: chats driving plans, online humiliation, digital searches, tracked movements, selfies, and people living with the sense that every moment can be recorded.",
+        "icon": "📱"
+      }
+    ]
+  },
+  {
+    "movie_id": 172385,
+    "movie_idx": 1392,
+    "imdb_id": "tt2357291",
+    "title": "Rio 2",
+    "production_year": "2014",
+    "genre": "Animation, Adventure, Comedy",
+    "plot": "It's a jungle out there for Blu, Jewel, and their three kids after they're hurtled Rio de Janeiro to the wilds of the Amazon. As Blu tries to fit in, he goes beak-to-beak with the vengeful Nigel and meets the most fearsome adversary of all: his father-in-law.",
+    "runtime": "101 min",
+    "director": "Carlos Saldanha",
+    "actors": "Jesse Eisenberg, Anne Hathaway, Jemaine Clement",
+    "production_country": "United States, Iraq, Canada",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTgzMDczMDYzNl5BMl5BanBnXkFtZTgwMzk2MDIwMTE@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/172385.webp",
+    "imdb_rating": "6.3",
+    "imdb_votes": "109,310",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Rio_2",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/172385.txt",
+    "plot_year_start": 2014,
+    "plot_year_end": 2014,
+    "epoch": "platform-and-ai-world",
+    "action_countries": [
+      "BR"
+    ],
+    "action_continents": [
+      "South America"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "amazon lands under extraction pressure",
+        "description": "The Amazon remains both a living homeland and a prize for outside interests seeking timber, minerals, land, and prestige projects. What you'll see: river journeys, forest clearings, village life, helicopters or trucks pushing inward, and clashes between ancestral stewardship and commercial appetite.",
+        "icon": "🌳"
+      }
+    ]
+  },
+  {
+    "movie_id": 1034186,
+    "movie_idx": 1900,
+    "imdb_id": "tt37472271",
+    "title": "Sugar En Aprietos",
+    "production_year": "2022",
+    "genre": "Comedy",
+    "plot": "N/A",
+    "runtime": "N/A",
+    "director": "Jose Salinas",
+    "actors": "Alessandra Fuller, Patricia Portocarrero, David Zepeda",
+    "production_country": "Peru",
+    "poster": "N/A",
+    "imdb_rating": "N/A",
+    "imdb_votes": "N/A",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Sugar_en_aprietos",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/1034186.txt",
+    "plot_year_start": 2022,
+    "plot_year_end": 2022,
+    "epoch": "platform-and-ai-world",
+    "action_countries": [
+      "PE"
+    ],
+    "action_continents": [
+      "South America"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "cities split between wealth and precarity",
+        "description": "South American urban life is sharply uneven, with affluent districts, informal settlements, and insecure work existing side by side in the same metropolis. What you'll see: gated towers, crowded buses, beach neighborhoods, hillside favelas, junkyards, and families doubling up under economic strain.",
+        "icon": "🏙️"
+      }
+    ],
+    "failures": {
+      "poster": "no_poster_url"
+    }
+  },
+  {
+    "movie_id": 714889,
+    "movie_idx": 1910,
+    "imdb_id": "tt18558306",
+    "title": "The Delinquents",
+    "production_year": "2023",
+    "genre": "Comedy, Crime, Drama",
+    "plot": "Bank employee Morán schemes to steal enough money to never work again, then confess and serve prison time while his colleague hides the cash. Soon under investigative pressure, accomplice Román meets a woman who transforms him for...",
+    "runtime": "189 min",
+    "director": "Rodrigo Moreno",
+    "actors": "Daniel Elías, Esteban Bigliardi, Margarita Molfino",
+    "production_country": "Argentina, Luxembourg, Brazil, Chile",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMzdiZmQxZjMtMDY4Yi00MjVlLWE5ZDEtNzVhYjA0MTg1OGRhXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/714889.webp",
+    "imdb_rating": "6.7",
+    "imdb_votes": "4,549",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Delinquents_(2023_film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/714889.txt",
+    "plot_year_start": 2020,
+    "plot_year_end": 2023,
+    "epoch": "platform-and-ai-world",
+    "action_countries": [
+      "AR"
+    ],
+    "action_continents": [
+      "South America"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "private employers ruling closed workplaces",
+        "description": "From banks and offices to scrap yards and other job sites, employers often wield near-total control over workers whose need for wages leaves them exposed. What you'll see: surveillance at work, humiliating bosses, hidden coercion, time clocks, locked gates, and labor arrangements that blur into captivity.",
+        "icon": "⏰"
+      },
+      {
+        "label": "public life shadowed by everyday insecurity",
+        "description": "Kidnapping, trafficking, street crime, and the need for self-protection linger as ordinary assumptions in many settings, even for people far from the underworld. What you'll see: guarded entrances, warnings about certain districts, improvised security measures, anxious families, and routines built around not being vulnerable.",
+        "icon": "🔒"
+      }
+    ]
+  },
+  {
+    "movie_id": 850871,
+    "movie_idx": 2068,
+    "imdb_id": "tt19869024",
+    "title": "Sayen",
+    "production_year": "2023",
+    "genre": "Action, Thriller",
+    "plot": "Sayen is hunting down the men who murdered her grandmother. Using her training and knowledge of nature, she is able to turn the tables on them, learning of a conspiracy from a corporation that threatens her people's ancestral lands.",
+    "runtime": "94 min",
+    "director": "Alexander Witt",
+    "actors": "Rallen Montenegro, Enrique Arce, Roberto García Ruiz",
+    "production_country": "Chile",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNzQzZGM1NDktZWZkZS00NmZhLWE1MTgtOTA2MTU4MDRjMTYyXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/850871.webp",
+    "imdb_rating": "4.7",
+    "imdb_votes": "1,295",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Sayen",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/850871.txt",
+    "plot_year_start": 2020,
+    "plot_year_end": 2023,
+    "epoch": "platform-and-ai-world",
+    "action_countries": [
+      "CL"
+    ],
+    "action_continents": [
+      "South America"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "amazon lands under extraction pressure",
+        "description": "The Amazon remains both a living homeland and a prize for outside interests seeking timber, minerals, land, and prestige projects. What you'll see: river journeys, forest clearings, village life, helicopters or trucks pushing inward, and clashes between ancestral stewardship and commercial appetite.",
+        "icon": "🌳"
+      },
+      {
+        "label": "public life shadowed by everyday insecurity",
+        "description": "Kidnapping, trafficking, street crime, and the need for self-protection linger as ordinary assumptions in many settings, even for people far from the underworld. What you'll see: guarded entrances, warnings about certain districts, improvised security measures, anxious families, and routines built around not being vulnerable.",
+        "icon": "🔒"
+      }
+    ]
+  },
+  {
+    "movie_id": 522016,
+    "movie_idx": 2232,
+    "imdb_id": "tt8356942",
+    "title": "The 355",
+    "production_year": "2022",
+    "genre": "Action, Thriller",
+    "plot": "When a top-secret weapon falls into mercenary hands, wild card CIA agent Mason \"Mace\" Brown will need to join forces with rival badass German agent Marie, former MI6 ally and cutting-edge computer specialist Khadijah, and skilled Colombian psychologist Graciela on a lethal, breakneck mission to retrieve it, while also staying one-step ahead of a mysterious woman, Lin Mi Sheng, who is tracking their every move. As the action rockets around the globe from the cafes of Paris to the markets of Morocco to the wealth and glamour of Shanghai, the quartet of women will forge a tenuous loyalty that could protect the world-or get them killed.",
+    "runtime": "122 min",
+    "director": "Simon Kinberg",
+    "actors": "Jessica Chastain, Penélope Cruz, Bingbing Fan",
+    "production_country": "United States, China",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNzhkNmZlODUtYWM4YS00NzRlLWEwOTgtM2U5ZDA0ZDJjNDI3XkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/522016.webp",
+    "imdb_rating": "5.6",
+    "imdb_votes": "42,349",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/The_355",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/522016.txt",
+    "plot_year_start": 2020,
+    "plot_year_end": 2022,
+    "epoch": "platform-and-ai-world",
+    "action_countries": [
+      "CO",
+      "FR",
+      "MA",
+      "CN",
+      "GB"
+    ],
+    "action_continents": [
+      "South America",
+      "Europe",
+      "Africa",
+      "Asia",
+      "Europe"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "foreign agencies moving through local terrain",
+        "description": "South America is treated as a field for international operatives, mercenaries, and security services who cross borders more easily than most civilians do. What you'll see: airports, safe houses, embassy-style dealings, multinational teams, tactical gear, and local streets folded into global pursuits.",
+        "icon": "🛬"
+      },
+      {
+        "label": "police and officials open to corruption",
+        "description": "Public authority often appears weakened by bribery, intimidation, and private deals, leaving ordinary people unsure whether institutions protect them or prey on them. What you'll see: payoff schemes, abusive raids, crooked investigations, missing justice, and office desks where stamps and signatures carry hidden prices.",
+        "icon": "🧾"
+      }
+    ]
+  },
+  {
+    "movie_id": 464889,
+    "movie_idx": 2490,
+    "imdb_id": "tt6349302",
+    "title": "Sniper: Ultimate Kill",
+    "production_year": "2017",
+    "genre": "Action, Drama, Thriller",
+    "plot": "For the first time, Brandon Beckett, Richard Miller and Sgt. Thomas Beckett join forces in Colombia to take down a brutal drug cartel.",
+    "runtime": "90 min",
+    "director": "Claudio Fäh, Carl Goldstein",
+    "actors": "Chad Michael Collins, Danay Garcia, Billy Zane",
+    "production_country": "United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYmVlZGRhMDktM2E0ZS00NmExLTljODEtMmEwMTczN2E5MGRhXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/464889.webp",
+    "imdb_rating": "5.6",
+    "imdb_votes": "7,808",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Sniper:_Ultimate_Kill",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/464889.txt",
+    "plot_year_start": 2017,
+    "plot_year_end": 2017,
+    "epoch": "platform-and-ai-world",
+    "action_countries": [
+      "CO",
+      "US"
+    ],
+    "action_continents": [
+      "South America",
+      "North America"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "foreign agencies moving through local terrain",
+        "description": "South America is treated as a field for international operatives, mercenaries, and security services who cross borders more easily than most civilians do. What you'll see: airports, safe houses, embassy-style dealings, multinational teams, tactical gear, and local streets folded into global pursuits.",
+        "icon": "🛬"
+      },
+      {
+        "label": "drug money shaping local power",
+        "description": "In several regions, narcotics trafficking still acts like a parallel order, bending neighborhoods, police work, and everyday safety around armed networks and easy cash. What you'll see: kidnappings, stash houses, lookouts, corrupt officers, heavily armed enforcers, and streets where rumor and fear travel fast.",
+        "icon": "🔫"
+      }
+    ]
+  },
+  {
+    "movie_id": 399361,
+    "movie_idx": 2944,
+    "imdb_id": "tt1488606",
+    "title": "Triple Frontier",
+    "production_year": "2019",
+    "genre": "Action, Adventure, Thriller",
+    "plot": "Five former Special Forces operatives reunite to plan a heist in a sparsely populated multi-border zone of South America. For the first time in their prestigious careers these unsung heroes undertake this dangerous mission for self instead of country. But when events take an unexpected turn and threaten to spiral out of control, their skills, their loyalties and their morals are pushed to a breaking point in an epic battle for survival.",
+    "runtime": "125 min",
+    "director": "J.C. Chandor",
+    "actors": "Ben Affleck, Oscar Isaac, Charlie Hunnam",
+    "production_country": "United States, Colombia",
+    "poster": "https://m.media-amazon.com/images/M/MV5BODU4MzM2MDAxMl5BMl5BanBnXkFtZTgwNDEzNjM0NzM@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/399361.webp",
+    "imdb_rating": "6.5",
+    "imdb_votes": "157,291",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Triple_Frontier_(film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/399361.txt",
+    "plot_year_start": 2019,
+    "plot_year_end": 2019,
+    "epoch": "platform-and-ai-world",
+    "action_countries": [
+      "CO",
+      "PE"
+    ],
+    "action_continents": [
+      "South America",
+      "South America"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "foreign agencies moving through local terrain",
+        "description": "South America is treated as a field for international operatives, mercenaries, and security services who cross borders more easily than most civilians do. What you'll see: airports, safe houses, embassy-style dealings, multinational teams, tactical gear, and local streets folded into global pursuits.",
+        "icon": "🛬"
+      },
+      {
+        "label": "drug money shaping local power",
+        "description": "In several regions, narcotics trafficking still acts like a parallel order, bending neighborhoods, police work, and everyday safety around armed networks and easy cash. What you'll see: kidnappings, stash houses, lookouts, corrupt officers, heavily armed enforcers, and streets where rumor and fear travel fast.",
+        "icon": "🔫"
+      }
+    ]
+  },
+  {
+    "movie_id": 1175107,
+    "movie_idx": 2997,
+    "imdb_id": "tt28775464",
+    "title": "My Otaku Girlfriend",
+    "production_year": "2023",
+    "genre": "Drama",
+    "plot": "Get ready for an unforgettable experience where love and the world of anime intertwine in \"My Otaku Girlfriend\"! A manga creator hides his talent from his mother until he falls in love with a fan of his stories.",
+    "runtime": "115 min",
+    "director": "Edio Raven",
+    "actors": "Frank Coello, Miguelángel Hidalgo, Subotic Kelliens",
+    "production_country": "Venezuela",
+    "poster": "https://m.media-amazon.com/images/M/MV5BOGJjZDhmNDYtZGZlNC00ZGUxLTg5ZjgtNDE4MWRhOGIwYWFmXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/1175107.webp",
+    "imdb_rating": "6.2",
+    "imdb_votes": "73",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/My_Otaku_Girlfriend",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/1175107.txt",
+    "plot_year_start": 2020,
+    "plot_year_end": 2023,
+    "epoch": "platform-and-ai-world",
+    "action_countries": [
+      "VE"
+    ],
+    "action_continents": [
+      "South America"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "youth culture filtered through global media",
+        "description": "Young people inhabit a world shaped by streaming entertainment, fandoms, fashion currents, and online status games that move easily across borders. What you'll see: school cliques, cosplay and manga references, curated identities, viral embarrassment, and bedrooms and classrooms filled with imported pop culture.",
+        "icon": "🎧"
+      }
+    ]
+  },
+  {
+    "movie_id": 270938,
+    "movie_idx": 3979,
+    "imdb_id": "tt2295722",
+    "title": "Falcon Rising",
+    "production_year": "2014",
+    "genre": "Action, Adventure",
+    "plot": "FAVELA, the first installment in the CODENAME: FALCON franchise, introduces former marine John \"Falcon\" Chapman, a dark anti-hero driven by guilt and suffering from post-traumatic stress disorder, who will destroy himself unless given something else to destroy - a useful weapon-of-last-resort for the U.S. State Department. When Chapman's sister is brutally attacked while on assignment in Brazil, Chapman flies into Sao Paulo to track down her assailants, quickly entering the city's seedy underbelly and discovering a world of drugs, the sex trade, corrupt cops, and organized crime syndicates battling for control.",
+    "runtime": "103 min",
+    "director": "Ernie Barbarash",
+    "actors": "Michael Jai White, Neal McDonough, Jimmy Navarro",
+    "production_country": "United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjA1OTkyMzUyN15BMl5BanBnXkFtZTgwNjI0MTUzMjE@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/270938.webp",
+    "imdb_rating": "5.8",
+    "imdb_votes": "9,797",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Falcon_Rising",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/270938.txt",
+    "plot_year_start": 2014,
+    "plot_year_end": 2014,
+    "epoch": "platform-and-ai-world",
+    "action_countries": [
+      "BR",
+      "US"
+    ],
+    "action_continents": [
+      "South America",
+      "North America"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "police and officials open to corruption",
+        "description": "Public authority often appears weakened by bribery, intimidation, and private deals, leaving ordinary people unsure whether institutions protect them or prey on them. What you'll see: payoff schemes, abusive raids, crooked investigations, missing justice, and office desks where stamps and signatures carry hidden prices.",
+        "icon": "🧾"
+      },
+      {
+        "label": "drug money shaping local power",
+        "description": "In several regions, narcotics trafficking still acts like a parallel order, bending neighborhoods, police work, and everyday safety around armed networks and easy cash. What you'll see: kidnappings, stash houses, lookouts, corrupt officers, heavily armed enforcers, and streets where rumor and fear travel fast.",
+        "icon": "🔫"
+      }
+    ]
+  },
+  {
+    "movie_id": 1126852,
+    "movie_idx": 4754,
+    "imdb_id": "tt23144234",
+    "title": "Rich in Love 2",
+    "production_year": "2023",
+    "genre": "Comedy, Romance",
+    "plot": "When Paula leaves Rio de Janeiro to resume her work as a volunteer doctor in the Amazon, Teto hatches an impulsive plan to follow her and chaos ensues.",
+    "runtime": "88 min",
+    "director": "Bruno Garotti, Jessica Blue",
+    "actors": "Adanilo, Kevin Andrew Rivera, Jaffar Bambirra",
+    "production_country": "Brazil",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZWYwNjdiM2QtMzUwNy00MTY4LWIzYjItM2E1NzdkYzg4OWFhXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/1126852.webp",
+    "imdb_rating": "N/A",
+    "imdb_votes": "571",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Rich_in_Love_(2020_film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/1126852.txt",
+    "plot_year_start": 2023,
+    "plot_year_end": 2023,
+    "epoch": "platform-and-ai-world",
+    "action_countries": [
+      "BR"
+    ],
+    "action_continents": [
+      "South America"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "public life shadowed by everyday insecurity",
+        "description": "Kidnapping, trafficking, street crime, and the need for self-protection linger as ordinary assumptions in many settings, even for people far from the underworld. What you'll see: guarded entrances, warnings about certain districts, improvised security measures, anxious families, and routines built around not being vulnerable.",
+        "icon": "🔒"
+      }
+    ]
+  },
+  {
+    "movie_id": 961718,
+    "movie_idx": 5992,
+    "imdb_id": "tt27714278",
+    "title": "Medellin",
+    "production_year": "2023",
+    "genre": "Action, Comedy",
+    "plot": "To save his brother from the hands of narcos in Medellin, Reda gathers a team to raid the kidnappers in Colombia.",
+    "runtime": "104 min",
+    "director": "Franck Gastambide",
+    "actors": "Franck Gastambide, Ramzy Bedia, Anouar Toubali",
+    "production_country": "France",
+    "poster": "https://m.media-amazon.com/images/M/MV5BOGY3NjJhYzUtN2RmMC00NGRhLTk2MWMtYWUzNDYxMmYxNWNiXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/961718.webp",
+    "imdb_rating": "4.9",
+    "imdb_votes": "2,203",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Medellin_(film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/961718.txt",
+    "plot_year_start": 2023,
+    "plot_year_end": 2023,
+    "epoch": "platform-and-ai-world",
+    "action_countries": [
+      "CO",
+      "FR"
+    ],
+    "action_continents": [
+      "South America",
+      "Europe"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "drug money shaping local power",
+        "description": "In several regions, narcotics trafficking still acts like a parallel order, bending neighborhoods, police work, and everyday safety around armed networks and easy cash. What you'll see: kidnappings, stash houses, lookouts, corrupt officers, heavily armed enforcers, and streets where rumor and fear travel fast.",
+        "icon": "🔫"
+      },
+      {
+        "label": "police and officials open to corruption",
+        "description": "Public authority often appears weakened by bribery, intimidation, and private deals, leaving ordinary people unsure whether institutions protect them or prey on them. What you'll see: payoff schemes, abusive raids, crooked investigations, missing justice, and office desks where stamps and signatures carry hidden prices.",
+        "icon": "🧾"
+      }
+    ]
+  },
+  {
+    "movie_id": 962232,
+    "movie_idx": 6235,
+    "imdb_id": "tt16027944",
+    "title": "Beyond the Universe",
+    "production_year": "2022",
+    "genre": "Comedy, Drama, Romance",
+    "plot": "Follows Nina, a talented pianist who has lupus. She forges an unexpected yet strong connection with Gabriel, one of the doctors on the team who takes care of her and gives her to confidence to play with a huge orchestra in São Paulo.",
+    "runtime": "126 min",
+    "director": "Diego Freitas",
+    "actors": "Henrique Zaga, Ashleigh Morghan, João Miguel",
+    "production_country": "Brazil",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYzQzM2IwOGYtOWE0NC00MzA5LWEzMjAtMmUzMjk2ZTZhOWZiXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/962232.webp",
+    "imdb_rating": "6.6",
+    "imdb_votes": "2,535",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Beyond_the_Universe_(2022_film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/962232.txt",
+    "plot_year_start": 2020,
+    "plot_year_end": 2021,
+    "epoch": "platform-and-ai-world",
+    "action_countries": [
+      "BR"
+    ],
+    "action_continents": [
+      "South America"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "public life shadowed by everyday insecurity",
+        "description": "Kidnapping, trafficking, street crime, and the need for self-protection linger as ordinary assumptions in many settings, even for people far from the underworld. What you'll see: guarded entrances, warnings about certain districts, improvised security measures, anxious families, and routines built around not being vulnerable.",
+        "icon": "🔒"
+      }
+    ]
+  },
+  {
+    "movie_id": 331836,
+    "movie_idx": 7567,
+    "imdb_id": "tt4400058",
+    "title": "Babysitting 2",
+    "production_year": "2015",
+    "genre": "Comedy",
+    "plot": "Franck and his girlfriend Sonya, plus some of their friends go on holiday in Brasil. Franck, his friends, two girls and Sonya's grandmother leave to visit a cave, but everything goes wrong and their crazy adventures begin.",
+    "runtime": "93 min",
+    "director": "Nicolas Benamou, Philippe Lacheau",
+    "actors": "Philippe Lacheau, Alice David, Vincent Desagnat",
+    "production_country": "France",
+    "poster": "https://m.media-amazon.com/images/M/MV5BOGQzY2QxY2EtMzM0NS00NzgzLWI1YzEtMDNiODBkYTk1MjQ3XkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/331836.webp",
+    "imdb_rating": "6.4",
+    "imdb_votes": "8,118",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Babysitting_2",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/331836.txt",
+    "plot_year_start": 2015,
+    "plot_year_end": 2015,
+    "epoch": "platform-and-ai-world",
+    "action_countries": [
+      "BR"
+    ],
+    "action_continents": [
+      "South America"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "public life shadowed by everyday insecurity",
+        "description": "Kidnapping, trafficking, street crime, and the need for self-protection linger as ordinary assumptions in many settings, even for people far from the underworld. What you'll see: guarded entrances, warnings about certain districts, improvised security measures, anxious families, and routines built around not being vulnerable.",
+        "icon": "🔒"
+      }
+    ]
+  },
+  {
+    "movie_id": 1046064,
+    "movie_idx": 7734,
+    "imdb_id": "tt26820882",
+    "title": "¡Asu Mare! Los amigos",
+    "production_year": "2023",
+    "genre": "Comedy",
+    "plot": "Cachin's friends are back. After overcoming many adversities, an inheritance will put them to the test. They will have to face funny situations and characters that will try to boycott one of their biggest dreams.",
+    "runtime": "120 min",
+    "director": "Carlos Alcántara",
+    "actors": "Franco Cabrera, Emilram Cossío, Andrés Salas",
+    "production_country": "Peru",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYjdiOTFlNzMtYTE0MC00ZWIyLTlkOWMtN2FlOGJjZmYyNjE2XkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/1046064.webp",
+    "imdb_rating": "N/A",
+    "imdb_votes": "146",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/%C2%A1Asu_mare!_Los_amigos",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/1046064.txt",
+    "plot_year_start": 2023,
+    "plot_year_end": 2023,
+    "epoch": "platform-and-ai-world",
+    "action_countries": [
+      "PE"
+    ],
+    "action_continents": [
+      "South America"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "cities split between wealth and precarity",
+        "description": "South American urban life is sharply uneven, with affluent districts, informal settlements, and insecure work existing side by side in the same metropolis. What you'll see: gated towers, crowded buses, beach neighborhoods, hillside favelas, junkyards, and families doubling up under economic strain.",
+        "icon": "🏙️"
+      }
+    ]
+  },
+  {
+    "movie_id": 786705,
+    "movie_idx": 8387,
+    "imdb_id": "tt15204288",
+    "title": "Confessions of an Invisible Girl",
+    "production_year": "2021",
+    "genre": "Comedy, Drama",
+    "plot": "Tetê doesn't feel accepted either at school or at home. When her unemployed parents must move in with her grandparents to their home in Copacabana, in Rio de Janeiro, the 16-year-old girl must start over at a new school. She will try everything not to be bullied again, and maybe make friends and have a social life.",
+    "runtime": "91 min",
+    "director": "Bruno Garotti",
+    "actors": "Lucca Picon, Marcus Bessa, Caio Cabral",
+    "production_country": "Brazil",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZTgwNTFlNzYtNTAwNC00MDdhLWE5OTctYTU2Y2M0NTdiY2QzXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/786705.webp",
+    "imdb_rating": "5.3",
+    "imdb_votes": "1,438",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Confessions_of_an_Invisible_Girl",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/786705.txt",
+    "plot_year_start": 2021,
+    "plot_year_end": 2021,
+    "epoch": "platform-and-ai-world",
+    "action_countries": [
+      "BR"
+    ],
+    "action_continents": [
+      "South America"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "cities split between wealth and precarity",
+        "description": "South American urban life is sharply uneven, with affluent districts, informal settlements, and insecure work existing side by side in the same metropolis. What you'll see: gated towers, crowded buses, beach neighborhoods, hillside favelas, junkyards, and families doubling up under economic strain.",
+        "icon": "🏙️"
+      },
+      {
+        "label": "youth culture filtered through global media",
+        "description": "Young people inhabit a world shaped by streaming entertainment, fandoms, fashion currents, and online status games that move easily across borders. What you'll see: school cliques, cosplay and manga references, curated identities, viral embarrassment, and bedrooms and classrooms filled with imported pop culture.",
+        "icon": "🎧"
+      }
+    ]
+  },
+  {
+    "movie_id": 785538,
+    "movie_idx": 8591,
+    "imdb_id": "tt14168118",
+    "title": "7 Prisoners",
+    "production_year": "2021",
+    "genre": "Crime, Drama",
+    "plot": "To provide a better life for his family in the country, 18-year-old Mateus accepts a job in a junkyard in São Paulo for his new boss, Luca. But when he and a few other boys become trapped in the dangerous world of human trafficking, Mateus will be forced to decide between working for the very man who imprisoned him or risk his and his family's future.",
+    "runtime": "93 min",
+    "director": "Alexandre Moratto",
+    "actors": "Christian Malheiros, Rodrigo Santoro, Lucas Oranmian",
+    "production_country": "Brazil",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMDQ1MTljNGQtMzg3Mi00YWUxLTllMDEtYzE0ZWNmN2NmZWQwXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/785538.webp",
+    "imdb_rating": "7.1",
+    "imdb_votes": "10,051",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/7_Prisoners",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/785538.txt",
+    "plot_year_start": 2021,
+    "plot_year_end": 2021,
+    "epoch": "platform-and-ai-world",
+    "action_countries": [
+      "BR"
+    ],
+    "action_continents": [
+      "South America"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "private employers ruling closed workplaces",
+        "description": "From banks and offices to scrap yards and other job sites, employers often wield near-total control over workers whose need for wages leaves them exposed. What you'll see: surveillance at work, humiliating bosses, hidden coercion, time clocks, locked gates, and labor arrangements that blur into captivity.",
+        "icon": "⏰"
+      },
+      {
+        "label": "public life shadowed by everyday insecurity",
+        "description": "Kidnapping, trafficking, street crime, and the need for self-protection linger as ordinary assumptions in many settings, even for people far from the underworld. What you'll see: guarded entrances, warnings about certain districts, improvised security measures, anxious families, and routines built around not being vulnerable.",
+        "icon": "🔒"
+      }
+    ]
+  },
+  {
+    "movie_id": 206563,
+    "movie_idx": 9243,
+    "imdb_id": "tt1921149",
+    "title": "Trash",
+    "production_year": "2014",
+    "genre": "Adventure, Crime, Drama",
+    "plot": "When two trash-picking boys from Rio's slums find a wallet in amongst the daily detritus of their local dump, little do they imagine that their lives are about to change forever. But when the local police show up, offering a handsome reward for the wallet's return, the boys, Rafael and Gardo, realize that what they've found must be important.",
+    "runtime": "114 min",
+    "director": "Stephen Daldry, Christian Duurvoort",
+    "actors": "Rickson Tevez, Gabriel Weinstein, Wagner Moura",
+    "production_country": "United Kingdom, Brazil, Germany",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTEyNDY2Njc1NzheQTJeQWpwZ15BbWU4MDc1NzY2NjYx._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/206563.webp",
+    "imdb_rating": "7.1",
+    "imdb_votes": "23,517",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Trash_(2014_film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/206563.txt",
+    "plot_year_start": 2014,
+    "plot_year_end": 2014,
+    "epoch": "platform-and-ai-world",
+    "action_countries": [
+      "BR"
+    ],
+    "action_continents": [
+      "South America"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "police and officials open to corruption",
+        "description": "Public authority often appears weakened by bribery, intimidation, and private deals, leaving ordinary people unsure whether institutions protect them or prey on them. What you'll see: payoff schemes, abusive raids, crooked investigations, missing justice, and office desks where stamps and signatures carry hidden prices.",
+        "icon": "🧾"
+      },
+      {
+        "label": "public life shadowed by everyday insecurity",
+        "description": "Kidnapping, trafficking, street crime, and the need for self-protection linger as ordinary assumptions in many settings, even for people far from the underworld. What you'll see: guarded entrances, warnings about certain districts, improvised security measures, anxious families, and routines built around not being vulnerable.",
+        "icon": "🔒"
+      }
+    ]
+  },
+  {
+    "movie_id": 341006,
+    "movie_idx": 9647,
+    "imdb_id": "tt1082807",
+    "title": "The Belko Experiment",
+    "production_year": "2016",
+    "genre": "Horror, Thriller",
+    "plot": "Mike Milch, an employee of Belko Industries, while driving to work is stopped by street vendors selling \"lucky\" handmade dolls. Barry Norris, also of Belko Industries, arrives at the remote office building in rural Bogotá, Colombia, to find unfamiliar security guards turning away the local Colombian staff at the gate. New employee Dany Wilkins reports for her first day on the job and is told that a tracking device is implanted in the base of every Belko employee's skull in case they are kidnapped. This is explained as being common in Colombia due to the high incidences of kidnapping.",
+    "runtime": "89 min",
+    "director": "Greg McLean",
+    "actors": "John Gallagher Jr., Tony Goldwyn, Adria Arjona",
+    "production_country": "United States, Colombia",
+    "poster": "https://m.media-amazon.com/images/M/MV5BODQyMDkyOTE2MF5BMl5BanBnXkFtZTgwNDQ1NTQwMTI@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/341006.webp",
+    "imdb_rating": "6.2",
+    "imdb_votes": "64,370",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Belko_Experiment",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/341006.txt",
+    "plot_year_start": 2017,
+    "plot_year_end": 2017,
+    "epoch": "platform-and-ai-world",
+    "action_countries": [
+      "CO"
+    ],
+    "action_continents": [
+      "South America"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "public life shadowed by everyday insecurity",
+        "description": "Kidnapping, trafficking, street crime, and the need for self-protection linger as ordinary assumptions in many settings, even for people far from the underworld. What you'll see: guarded entrances, warnings about certain districts, improvised security measures, anxious families, and routines built around not being vulnerable.",
+        "icon": "🔒"
+      },
+      {
+        "label": "private employers ruling closed workplaces",
+        "description": "From banks and offices to scrap yards and other job sites, employers often wield near-total control over workers whose need for wages leaves them exposed. What you'll see: surveillance at work, humiliating bosses, hidden coercion, time clocks, locked gates, and labor arrangements that blur into captivity.",
+        "icon": "⏰"
+      }
+    ]
+  },
+  {
+    "movie_id": 511819,
+    "movie_idx": 9701,
+    "imdb_id": "tt8399288",
+    "title": "Memoria",
+    "production_year": "2021",
+    "genre": "Drama, Mystery, Sci-Fi",
+    "plot": "From the extraordinary mind of Palme D'or winning director Apichatpong Weerasethakul, and starring Academy Award winner Tilda Swinton, comes a bewildering drama about a Scottish woman, who, after hearing a loud 'bang' at daybreak, begins experiencing a mysterious sensory syndrome while traversing the jungles of Colombia.",
+    "runtime": "136 min",
+    "director": "Apichatpong Weerasethakul",
+    "actors": "Tilda Swinton, Agnes Brekke, Daniel Giménez Cacho",
+    "production_country": "Colombia, Thailand, France, Germany, Mexico, Qatar, United Kingdom, China, United States, Switzerland, Taiwan, Japan, Netherlands, Hong Kong",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTFkZjU3MGUtM2MxNS00MzM5LTg3NGQtMTFkYWViNWFiNmVlXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/511819.webp",
+    "imdb_rating": "6.4",
+    "imdb_votes": "12,377",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Memoria_(2021_film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/511819.txt",
+    "plot_year_start": 2021,
+    "plot_year_end": 2021,
+    "epoch": "platform-and-ai-world",
+    "action_countries": [
+      "CO"
+    ],
+    "action_continents": [
+      "South America"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "amazon lands under extraction pressure",
+        "description": "The Amazon remains both a living homeland and a prize for outside interests seeking timber, minerals, land, and prestige projects. What you'll see: river journeys, forest clearings, village life, helicopters or trucks pushing inward, and clashes between ancestral stewardship and commercial appetite.",
+        "icon": "🌳"
+      },
+      {
+        "label": "foreign agencies moving through local terrain",
+        "description": "South America is treated as a field for international operatives, mercenaries, and security services who cross borders more easily than most civilians do. What you'll see: airports, safe houses, embassy-style dealings, multinational teams, tactical gear, and local streets folded into global pursuits.",
+        "icon": "🛬"
+      }
+    ]
+  },
+  {
+    "movie_id": 1086990,
+    "movie_idx": 9825,
+    "imdb_id": "tt12058412",
+    "title": "Malcriados",
+    "production_year": "2023",
+    "genre": "Comedy",
+    "plot": "This movie is about two widowed parents that have been overprotecting their kids from the age of 10 (when they lost their parent) to present time. This parents do the unimaginable with the only purpose of not watching them suffer,...",
+    "runtime": "N/A",
+    "director": "Gabriela Sobarzo",
+    "actors": "Consuelo Duval, Ricardo Fastlicht, Renata Notni",
+    "production_country": "N/A",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZTEwMjhiZTQtNDc2NS00YWY0LWJiZDYtMGVmOWY0M2MxYmFhXkEyXkFqcGdeQXVyNTU1MzI3NDM@._V1_SX300.jpg",
+    "imdb_rating": "N/A",
+    "imdb_votes": "57",
+    "wikipedia_url": "https://es.wikipedia.org/wiki/Malcriados",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/1086990.txt",
+    "plot_year_start": 2016,
+    "plot_year_end": 2016,
+    "epoch": "platform-and-ai-world",
+    "action_countries": [
+      "CO"
+    ],
+    "action_continents": [
+      "South America"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "cities split between wealth and precarity",
+        "description": "South American urban life is sharply uneven, with affluent districts, informal settlements, and insecure work existing side by side in the same metropolis. What you'll see: gated towers, crowded buses, beach neighborhoods, hillside favelas, junkyards, and families doubling up under economic strain.",
+        "icon": "🏙️"
+      }
+    ],
+    "failures": {
+      "poster": "poster_download_failed"
+    }
+  }
+]

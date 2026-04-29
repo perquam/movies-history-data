@@ -1,0 +1,35 @@
+[
+  {
+    "movie_id": 688258,
+    "movie_idx": 9056,
+    "imdb_id": "tt8615822",
+    "title": "Occupation: Rainfall",
+    "production_year": "2020",
+    "genre": "Action, Sci-Fi",
+    "plot": "Two years into an intergalactic invasion of earth, survivors in Sydney, Australia, fight back in a desperate ground war. As casualties mount by the day, the resistance and their unexpected allies, uncover a plot that could see the war come to a decisive end. With the Alien invaders hell-bent on making earth their new home, the race is on to save mankind.",
+    "runtime": "128 min",
+    "director": "Luke Sparke",
+    "actors": "Dan Ewing, Temuera Morrison, Daniel Gillies",
+    "production_country": "Australia",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZWM1NTg2NGYtNjQwMy00ZGJjLTg3YmQtOTQ4ZDM2YWFkM2ExXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/688258.webp",
+    "imdb_rating": "4.7",
+    "imdb_votes": "15,913",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Occupation:_Rainfall",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/688258.txt",
+    "plot_year_start": 2,
+    "plot_year_end": 2,
+    "epoch": "ancient-world",
+    "action_countries": [
+      "AU"
+    ],
+    "action_continents": [
+      "Oceania"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "failures": {
+      "categories": "missing_category_list"
+    }
+  }
+]

@@ -1,0 +1,62 @@
+{
+  "epoch": "future-world",
+  "continent": "antarctica",
+  "sample_size": 1,
+  "sample": [
+    {
+      "title": "The Midnight Sky",
+      "years": "2049..2049",
+      "countries": [
+        "AQ"
+      ],
+      "plot": "A scientist is working alone at a remote Arctic research station when he learns of a mysterious global disaster. At the same time, he meets a strange girl in the Arctic, with whom he must stop the return to Earth of the crew of the spaceship \"Aether\"."
+    }
+  ],
+  "categories": [
+    {
+      "label": "research stations at the end of the world",
+      "description": "Human presence on the polar continent depends on small, isolated stations built to keep people alive amid lethal cold, distance, and darkness. What you'll see: sealed corridors, generator rooms, ration stores, sleeping bunks, and windows looking out onto endless snow and ice.",
+      "icon": "🛖"
+    },
+    {
+      "label": "survival resting on fragile life-support",
+      "description": "In this frozen world, heat, power, air, medicine, and communications are not conveniences but the thin barrier between life and death. What you'll see: failing equipment, improvised repairs, fuel worries, battery checks, and every task measured against the cold outside.",
+      "icon": "🔋"
+    },
+    {
+      "label": "science outposts linked by sparse signals",
+      "description": "Knowledge and safety depend on radio traffic, satellite relays, and scattered listening posts rather than any dense web of settlements. What you'll see: antenna arrays, control consoles, static-filled transmissions, weather reports, and long waits for answers that may never come.",
+      "icon": "📡"
+    },
+    {
+      "label": "a ruined Earth shadowing daily life",
+      "description": "The polar station exists under the knowledge that the wider world has suffered a vast calamity, leaving ordinary routines haunted by absence and uncertainty. What you'll see: abandoned rooms, emergency notices, empty transport links, and the stillness of a place built for many but inhabited by few.",
+      "icon": "🏚️"
+    },
+    {
+      "label": "space travel tied to earthly command",
+      "description": "Even in a future of deep-space voyages, ships remain dependent on guidance, tracking, and decisions from distant people and instruments on Earth. What you'll see: flight readouts, orbital calculations, docking procedures, mission logs, and anxious efforts to reach crews across immense distances.",
+      "icon": "🛰️"
+    },
+    {
+      "label": "machines extending human reach into ice",
+      "description": "Travel, observation, and rescue in Antarctica rely on vehicles and instruments that let people move through terrain no body can master alone. What you'll see: tracked carriers, aircraft, survival suits, medical scanners, navigation screens, and lamps cutting through whiteout conditions.",
+      "icon": "🚁"
+    },
+    {
+      "label": "small crews carrying heavy responsibility",
+      "description": "Because the environment permits only limited habitation, a few specialists must bear the work of science, maintenance, judgment, and care for others. What you'll see: lone rounds through the station, checklists, medical triage, technical troubleshooting, and silence broken by duty calls.",
+      "icon": "🧑‍🔧"
+    },
+    {
+      "label": "the polar sky as warning and wonder",
+      "description": "Above the ice, the heavens are both a realm of beauty and a source of danger, tying local survival to events far beyond the continent. What you'll see: auroral light, star-filled darkness, radiation fears, horizon watching, and the contrast between cosmic grandeur and human frailty.",
+      "icon": "🌌"
+    },
+    {
+      "label": "distance making solitude a daily condition",
+      "description": "On this continent, remoteness is not occasional but the basic shape of life, stretching every errand, message, and hope of rescue. What you'll see: empty snowfields, long interior walks, muffled footsteps, solitary meals, and the oppressive quiet of a world with almost no neighbours.",
+      "icon": "🧍"
+    }
+  ]
+}

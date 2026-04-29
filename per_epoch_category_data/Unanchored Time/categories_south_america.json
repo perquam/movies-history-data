@@ -1,0 +1,115 @@
+{
+  "epoch": "Unanchored Time",
+  "continent": "south_america",
+  "sample_size": 7,
+  "sample": [
+    {
+      "title": "The Fist of the Condor",
+      "years": "unknown",
+      "countries": [
+        "CL"
+      ],
+      "plot": "A group of martial artists from around the world search for a book that contains the ancient secrets of how to overcome the limits of the human body."
+    },
+    {
+      "title": "Perdida",
+      "years": "unknown",
+      "countries": [
+        "AR"
+      ],
+      "plot": "It is based on the novel by Florencia Etcheves \"Cornelia\", in which a teacher from a prestigious school in Buenos Aires makes a study trip with five of her students, but only returns with four because one of them disappears mysteriously. It is Cornelia Villalba, who escapes with her companions to go dancing and gets lost in the middle of the Patagonian forests."
+    },
+    {
+      "title": "Virus-32",
+      "years": "unknown",
+      "countries": [
+        "UY"
+      ],
+      "plot": "A virus breaks out, resulting in a chilling massacre through the streets of Montevideo. The infected become hunters and only calm their fever by unscrupulously killing all those who have not caught the virus yet. Unaware of this, Iris and her daughter spend the day at the sports club where Iris works as a security guard. When night comes, she is about to start a merciless fight. Her only hope of salvation comes when they discover that after each attack the infected seem to fall into a 32-second trance of calmness and stillness before charging again."
+    },
+    {
+      "title": "The Accused",
+      "years": "unknown",
+      "countries": [
+        "AR"
+      ],
+      "plot": "Dolores Dreier lives the life of a young student until her best friend is brutally murdered. Two years later, she is the only one accused of the crime in a case of great media exposure that has put her in the center of the scene: everyone has an opinion about her innocence or guilt. Dolores prepares for the isolated trial at home, while the Dreier family works as a team willing to do everything to defend their daughter. But as the process progresses and the pressure increases, secrets and suspicion appear within the family. Cornered by the evidence, Dolores must face her own doubts about what really happened."
+    },
+    {
+      "title": "Quicksand",
+      "years": "unknown",
+      "countries": [
+        "CO"
+      ],
+      "plot": "Follows a married couple almost divorcing who become trapped in quicksand while hiking through a rainforest in Colombia. They will battle the elements of the jungle and must work together in order to survive."
+    },
+    {
+      "title": "Tiger, Blood in the Mouth",
+      "years": "unknown",
+      "countries": [
+        "AR"
+      ],
+      "plot": "Ramón Alvia is a professional boxer who, although he has won several international championships, is old and is at the end of his career. He resists. In the gym, Ramon discovers among the young boxers Deborah, a beautiful girl."
+    },
+    {
+      "title": "El Ucumar",
+      "years": "unknown",
+      "countries": [
+        "AR"
+      ],
+      "plot": "A group of biologists in the northern Argentine jungle are in search of evidence of the Andean bear inhabiting the place. In a bar of a nearby town they learn about a local legend, of a supposed \"bear man\" known as the \"Ucumar\"."
+    }
+  ],
+  "categories": [
+    {
+      "label": "great cities under watch and alarm",
+      "description": "South American city life runs through guarded buildings, sports clubs, apartment blocks, and streets where danger can spread fast and public order feels fragile. What you'll see: security desks, locked gates, dim corridors, crowded avenues, patrol lights, and anxious nights in Montevideo or Buenos Aires.",
+      "icon": "🚨"
+    },
+    {
+      "label": "television and tabloids shaping public judgment",
+      "description": "High-profile accusations and disappearances are not handled in private, because newspapers, talk shows, and constant commentary turn private lives into public spectacle. What you'll see: cameras outside homes, reporters pressing for statements, headlines, studio chatter, and neighbors forming opinions before courts do.",
+      "icon": "📺"
+    },
+    {
+      "label": "courts and police as everyday authority",
+      "description": "The state appears through investigations, evidence, hearings, and official suspicion, making legal procedure a constant pressure on ordinary households. What you'll see: case files, interviews, lawyers at the table, police questions, waiting rooms, and family homes turned into places of defense.",
+      "icon": "⚖️"
+    },
+    {
+      "label": "elite schools and ambitious urban families",
+      "description": "Prestigious schooling and respectable family standing matter greatly, marking class position and shaping how young people move through the city and beyond it. What you'll see: uniforms or polished clothes, school trips, careful apartments, educated parents, and the manners of Buenos Aires respectability.",
+      "icon": "🎓"
+    },
+    {
+      "label": "jungles and forests beyond easy control",
+      "description": "Much of the continent is still imagined as thick country where roads thin out, maps become uncertain, and human plans give way to terrain, weather, and distance. What you'll see: Patagonian woods, Colombian rainforest, northern jungle towns, mud, insects, sudden rain, and paths that vanish into green.",
+      "icon": "🌳"
+    },
+    {
+      "label": "local legends living beside field science",
+      "description": "Scholarly inquiry does not erase older regional beliefs, and expeditions into remote country often pass through villages where stories of strange creatures still carry weight. What you'll see: biologists with equipment, barroom talk, wary locals, half-heard tales, and folklore attaching itself to the landscape.",
+      "icon": "🐾"
+    },
+    {
+      "label": "body mastery pursued through fighting arts",
+      "description": "Physical discipline carries prestige, whether through boxing gyms or older martial traditions that promise endurance, prowess, and hidden knowledge of the body. What you'll see: worn gyms, training drills, gloves and wraps, scarred veterans, young contenders, and secret manuals treated like treasures.",
+      "icon": "🥊"
+    },
+    {
+      "label": "vast distances linking city and wilderness",
+      "description": "Life on the continent moves between major capitals and remote country, so journeys quickly cross from orderly urban settings into sparsely populated terrain. What you'll see: road trips, study excursions, isolated lodgings, edge-of-town bars, long drives, and the sense of being far from help.",
+      "icon": "🛣️"
+    },
+    {
+      "label": "working people keeping institutions running",
+      "description": "Behind schools, clubs, laboratories, and courts are employees doing routine labour that keeps respectable places functioning, often without much protection or status. What you'll see: guards on shift, teachers supervising outings, researchers in the field, cleaners and clerks, and long hours inside other people's institutions.",
+      "icon": "🧹"
+    },
+    {
+      "label": "home and kin as first refuge",
+      "description": "When accusation, illness, or danger breaks into daily life, the first line of shelter is usually the family household rather than any broad public safety net. What you'll see: relatives closing ranks, meals under strain, whispered strategy, bedrooms turned into hideouts, and domestic spaces thick with fear.",
+      "icon": "🏠"
+    }
+  ]
+}

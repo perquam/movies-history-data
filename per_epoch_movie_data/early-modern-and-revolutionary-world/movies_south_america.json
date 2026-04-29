@@ -1,0 +1,98 @@
+[
+  {
+    "movie_id": 8619,
+    "movie_idx": 4417,
+    "imdb_id": "tt0311113",
+    "title": "Master and Commander: The Far Side of the World",
+    "production_year": "2003",
+    "genre": "Action, Adventure, Drama",
+    "plot": "In April 1805 during the Napoleonic Wars, H.M.S. Surprise, a British frigate, is under the command of Captain Jack Aubrey. Aubrey and the Surprise's current orders are to track and capture or destroy a French privateer named Acheron. The Acheron is currently in the Atlantic off South America headed toward the Pacific in order to extend Napoleon's reach of the wars. This task will be a difficult one as Aubrey quickly learns in an initial battle with the Acheron that it is a bigger and faster ship than the Surprise, which puts the Surprise at a disadvantage. Aubrey's single-mindedness in this seemingly impossible pursuit puts him at odds with the Surprise's doctor and naturalist, Stephen Maturin, who is also Aubrey's most trusted advisor on board and closest friend. Facing other internal obstacles which have resulted in what they consider a string of bad luck, Aubrey ultimately uses Maturin's scientific exploits to figure out a way to achieve his and the ship's seemingly impossible goal.",
+    "runtime": "138 min",
+    "director": "Peter Weir",
+    "actors": "Russell Crowe, Paul Bettany, Billy Boyd",
+    "production_country": "United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZDEzYmZmOTYtMzdlYS00MWNjLWE2YjEtMzkyZTMyOWZjMjkyXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/8619.webp",
+    "imdb_rating": "7.5",
+    "imdb_votes": "253,886",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Master_and_Commander:_The_Far_Side_of_the_World",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/8619.txt",
+    "plot_year_start": 1805,
+    "plot_year_end": 1805,
+    "epoch": "early-modern-and-revolutionary-world",
+    "action_countries": [
+      "BR",
+      "GL",
+      "PT"
+    ],
+    "action_continents": [
+      "South America",
+      "North America",
+      "Europe"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "naval war spilling into colonial waters",
+        "description": "European conflicts do not stay in Europe but spread across the ocean, turning South American waters into hunting grounds for warships and privateers. What you'll see: broadsides off remote coasts, prize-taking, lookout calls, damaged masts, and the strain of discipline aboard ships far from home.",
+        "icon": "🏴‍☠️"
+      },
+      {
+        "label": "the sea as empire's main road",
+        "description": "Ships, not roads, bind this world together, carrying orders, soldiers, goods, and news between South America and the wider Atlantic. What you'll see: frigates and smaller craft under sail, cramped decks and rigging, coastal approaches, and long stretches where wind and current decide the pace of events.",
+        "icon": "⛵"
+      }
+    ]
+  },
+  {
+    "movie_id": 11416,
+    "movie_idx": 5374,
+    "imdb_id": "tt0091530",
+    "title": "The Mission",
+    "production_year": "1986",
+    "genre": "Adventure, Drama, History",
+    "plot": "Jeremy Irons plays a Spanish Jesuit who goes into the South American wilderness to build a mission in the hope of converting the Indians of the region. Robert De Niro plays a slave hunter who is converted and joins the Jesuit in his mission. When Spain sells the colony to Portugal, they are forced to defend all they have built against the Portuguese aggressors.",
+    "runtime": "125 min",
+    "director": "Roland Joffé",
+    "actors": "Robert De Niro, Jeremy Irons, Ray McAnally",
+    "production_country": "United Kingdom, France, United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BODcxMDJiMzQtNzVkYS00ZDI3LWEzYmEtY2NiYTIzZWQzYzRlXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/11416.webp",
+    "imdb_rating": "7.4",
+    "imdb_votes": "70,499",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Mission_(1986_film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/11416.txt",
+    "plot_year_start": 1750,
+    "plot_year_end": 1756,
+    "epoch": "early-modern-and-revolutionary-world",
+    "action_countries": [
+      "PY",
+      "BR",
+      "AR",
+      "PT",
+      "ES"
+    ],
+    "action_continents": [
+      "South America",
+      "South America",
+      "South America",
+      "Europe",
+      "Europe"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "missions planted among indigenous peoples",
+        "description": "Catholic missions serve as both religious communities and instruments of empire, gathering native peoples into settled, supervised life under clerical rule. What you'll see: churches rising in the wilderness, bells and liturgy, teaching and labour routines, and conflicts over whether souls or subjects are being won.",
+        "icon": "⛪"
+      },
+      {
+        "label": "native communities pressed by imperial designs",
+        "description": "Indigenous peoples face conversion, displacement, raiding, and military pressure as foreign crowns and churches remake the land around them. What you'll see: villages at the edge of colonial reach, interpreters and rituals meeting uneasily, and native fighters, families, and leaders navigating outside power.",
+        "icon": "🛖"
+      }
+    ]
+  }
+]

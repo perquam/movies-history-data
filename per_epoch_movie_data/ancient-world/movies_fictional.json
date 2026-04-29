@@ -1,0 +1,1367 @@
+[
+  {
+    "movie_id": 436270,
+    "movie_idx": 175,
+    "imdb_id": "tt6443346",
+    "title": "Black Adam",
+    "production_year": "2022",
+    "genre": "Action, Adventure, Fantasy",
+    "plot": "Nearly 5,000 years after he was bestowed with the almighty powers of the Egyptian gods-and imprisoned just as quickly-Black Adam (Johnson) is freed from his earthly tomb, ready to unleash his unique form of justice on the modern world.",
+    "runtime": "125 min",
+    "director": "Jaume Collet-Serra",
+    "actors": "Dwayne Johnson, Aldis Hodge, Pierce Brosnan",
+    "production_country": "United States, Canada, New Zealand, Hungary",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYmM3OTM4NDktMmI2NS00OWU0LTg4OTQtNjZhMmFkYjhmOGY1XkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/436270.webp",
+    "imdb_rating": "6.1",
+    "imdb_votes": "301,065",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Black_Adam_(film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/436270.txt",
+    "plot_year_start": -2599,
+    "plot_year_end": 2022,
+    "epoch": "ancient-world",
+    "action_countries": [
+      "FICTIONAL"
+    ],
+    "action_continents": [
+      "FICTIONAL"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "DC Extended Universe",
+    "failures": {
+      "categories": "missing_category_list"
+    }
+  },
+  {
+    "movie_id": 11,
+    "movie_idx": 346,
+    "imdb_id": "tt0076759",
+    "title": "Star Wars: Episode IV - A New Hope",
+    "production_year": "1977",
+    "genre": "Action, Adventure, Fantasy",
+    "plot": "The Imperial Forces, under orders from cruel Darth Vader, hold Princess Leia hostage in their efforts to quell the rebellion against the Galactic Empire. Luke Skywalker and Han Solo, captain of the Millennium Falcon, work together with the companionable droid duo R2-D2 and C-3PO to rescue the beautiful princess, help the Rebel Alliance and restore freedom and justice to the Galaxy.",
+    "runtime": "121 min",
+    "director": "George Lucas",
+    "actors": "Mark Hamill, Harrison Ford, Carrie Fisher",
+    "production_country": "United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BOGUwMDk0Y2MtNjBlNi00NmRiLTk2MWYtMGMyMDlhYmI4ZDBjXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/11.webp",
+    "imdb_rating": "8.6",
+    "imdb_votes": "1,555,851",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Star_Wars_(film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/11.txt",
+    "plot_year_start": 1,
+    "plot_year_end": 1,
+    "epoch": "ancient-world",
+    "action_countries": [
+      "FICTIONAL"
+    ],
+    "action_continents": [
+      "FICTIONAL"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Star Wars Universe",
+    "failures": {
+      "categories": "missing_category_list"
+    }
+  },
+  {
+    "movie_id": 140607,
+    "movie_idx": 860,
+    "imdb_id": "tt2488496",
+    "title": "Star Wars: Episode VII - The Force Awakens",
+    "production_year": "2015",
+    "genre": "Action, Adventure, Sci-Fi",
+    "plot": "30 years after the defeat of Darth Vader and the Empire, Rey, a scavenger from the planet Jakku, finds a BB-8 droid that knows the whereabouts of the long lost Luke Skywalker. Rey, as well as a rogue stormtrooper and two smugglers, are thrown into the middle of a battle between the Resistance and the daunting legions of the First Order.",
+    "runtime": "138 min",
+    "director": "J.J. Abrams",
+    "actors": "Daisy Ridley, John Boyega, Oscar Isaac",
+    "production_country": "United States, United Kingdom",
+    "poster": "https://m.media-amazon.com/images/M/MV5BOTAzODEzNDAzMl5BMl5BanBnXkFtZTgwMDU1MTgzNzE@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/140607.webp",
+    "imdb_rating": "7.7",
+    "imdb_votes": "1,018,738",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Star_Wars:_The_Force_Awakens",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/140607.txt",
+    "plot_year_start": 34,
+    "plot_year_end": 34,
+    "epoch": "ancient-world",
+    "action_countries": [
+      "FICTIONAL"
+    ],
+    "action_continents": [
+      "FICTIONAL"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Star Wars Universe",
+    "failures": {
+      "categories": "missing_category_list"
+    }
+  },
+  {
+    "movie_id": 181808,
+    "movie_idx": 918,
+    "imdb_id": "tt2527336",
+    "title": "Star Wars: Episode VIII - The Last Jedi",
+    "production_year": "2017",
+    "genre": "Action, Adventure, Fantasy",
+    "plot": "Jedi Master-in-hiding Luke Skywalker unwillingly attempts to guide young hopeful Rey in the ways of the force, while Leia, former princess turned general, attempts to lead what is left of the Resistance away from the ruthless tyrannical grip of the First Order.",
+    "runtime": "152 min",
+    "director": "Rian Johnson",
+    "actors": "Daisy Ridley, John Boyega, Mark Hamill",
+    "production_country": "United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjQ1MzcxNjg4N15BMl5BanBnXkFtZTgwNzgwMjY4MzI@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/181808.webp",
+    "imdb_rating": "6.8",
+    "imdb_votes": "714,411",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Star_Wars:_The_Last_Jedi",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/181808.txt",
+    "plot_year_start": 34,
+    "plot_year_end": 34,
+    "epoch": "ancient-world",
+    "action_countries": [
+      "FICTIONAL"
+    ],
+    "action_continents": [
+      "FICTIONAL"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Star Wars Universe",
+    "failures": {
+      "categories": "missing_category_list"
+    }
+  },
+  {
+    "movie_id": 348350,
+    "movie_idx": 1369,
+    "imdb_id": "tt3778644",
+    "title": "Solo: A Star Wars Story",
+    "production_year": "2018",
+    "genre": "Action, Adventure, Sci-Fi",
+    "plot": "With the emerging demand of hyperfuel and other resources, Han Solo finds himself in the middle of a heist alongside other criminals, where they meet the likes of Chewbacca and Lando Calrissian in an adventurous situation exposing the criminal underworld.",
+    "runtime": "135 min",
+    "director": "Ron Howard",
+    "actors": "Alden Ehrenreich, Woody Harrelson, Emilia Clarke",
+    "production_country": "United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BOTM2NTI3NTc3Nl5BMl5BanBnXkFtZTgwNzM1OTQyNTM@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/348350.webp",
+    "imdb_rating": "6.9",
+    "imdb_votes": "406,107",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Solo:_A_Star_Wars_Story",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/348350.txt",
+    "plot_year_start": 10,
+    "plot_year_end": 10,
+    "epoch": "ancient-world",
+    "action_countries": [
+      "FICTIONAL"
+    ],
+    "action_continents": [
+      "FICTIONAL"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Star Wars Universe",
+    "failures": {
+      "categories": "missing_category_list"
+    }
+  },
+  {
+    "movie_id": 1895,
+    "movie_idx": 1421,
+    "imdb_id": "tt0121766",
+    "title": "Star Wars: Episode III - Revenge of the Sith",
+    "production_year": "2005",
+    "genre": "Action, Adventure, Fantasy",
+    "plot": "Nearly three years have passed since the beginning of the Clone Wars. The Republic, with the help of the Jedi, take on Count Dooku and the Separatists. With a new threat rising, the Jedi Council sends Obi-Wan Kenobi and Anakin Skywalker to aid the captured Chancellor. Anakin feels he is ready to be promoted to Jedi Master. Obi-Wan is hunting down the Separatist General, Grievous. When Anakin has future visions of pain and suffering coming Padmé's way, he sees Master Yoda for counsel. When Darth Sidious executes Order 66, it destroys most of all the Jedi have built. Experience the birth of Darth Vader. Feel the betrayal that leads to hatred between two brothers. And witness the power of hope.",
+    "runtime": "140 min",
+    "director": "George Lucas",
+    "actors": "Hayden Christensen, Natalie Portman, Ewan McGregor",
+    "production_country": "United States, Italy, Switzerland, Thailand, United Kingdom",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNTc4MTc3NTQ5OF5BMl5BanBnXkFtZTcwOTg0NjI4NA@@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/1895.webp",
+    "imdb_rating": "7.7",
+    "imdb_votes": "912,634",
+    "wikipedia_url": "https://simple.wikipedia.org/wiki/Star_Wars_Episode_III:_Revenge_of_the_Sith",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/1895.txt",
+    "plot_year_start": 19,
+    "plot_year_end": 19,
+    "epoch": "ancient-world",
+    "action_countries": [
+      "FICTIONAL"
+    ],
+    "action_continents": [
+      "FICTIONAL"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Star Wars Universe",
+    "failures": {
+      "categories": "missing_category_list"
+    }
+  },
+  {
+    "movie_id": 1893,
+    "movie_idx": 1690,
+    "imdb_id": "tt0120915",
+    "title": "Star Wars: Episode I - The Phantom Menace",
+    "production_year": "1999",
+    "genre": "Action, Adventure, Fantasy",
+    "plot": "The evil Trade Federation, led by Nute Gunray is planning to take over the peaceful world of Naboo. Jedi Knights Qui-Gon Jinn and Obi-Wan Kenobi are sent to confront the leaders. But not everything goes to plan. The two Jedi escape, and along with their new Gungan friend, Jar Jar Binks head to Naboo to warn Queen Amidala, but droids have already started to capture Naboo and the Queen is not safe there. Eventually, they land on Tatooine, where they become friends with a young boy known as Anakin Skywalker. Qui-Gon is curious about the boy, and sees a bright future for him. The group must now find a way of getting to Coruscant and to finally solve this trade dispute, but there is someone else hiding in the shadows. Are the Sith really extinct? Is the Queen really who she says she is? And what's so special about this young boy?",
+    "runtime": "136 min",
+    "director": "George Lucas",
+    "actors": "Ewan McGregor, Liam Neeson, Natalie Portman",
+    "production_country": "United States, United Kingdom",
+    "poster": "https://m.media-amazon.com/images/M/MV5BODVhNGIxOGItYWNlMi00YTA0LWI3NTctZmQxZGUwZDEyZWI4XkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/1893.webp",
+    "imdb_rating": "6.5",
+    "imdb_votes": "917,424",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Star_Wars:_Episode_I_%E2%80%93_The_Phantom_Menace",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/1893.txt",
+    "plot_year_start": 32,
+    "plot_year_end": 32,
+    "epoch": "ancient-world",
+    "action_countries": [
+      "FICTIONAL"
+    ],
+    "action_continents": [
+      "FICTIONAL"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Star Wars Universe",
+    "failures": {
+      "categories": "missing_category_list"
+    }
+  },
+  {
+    "movie_id": 1891,
+    "movie_idx": 1999,
+    "imdb_id": "tt0080684",
+    "title": "Star Wars: Episode V - The Empire Strikes Back",
+    "production_year": "1980",
+    "genre": "Action, Adventure, Fantasy",
+    "plot": "Luke Skywalker, Han Solo, Princess Leia and Chewbacca face attack by the Imperial forces and its AT-AT walkers on the ice planet Hoth. While Han and Leia escape in the Millennium Falcon, Luke travels to Dagobah in search of Yoda. Only with the Jedi Master's help will Luke survive when the Dark Side of the Force beckons him into the ultimate duel with Darth Vader.",
+    "runtime": "124 min",
+    "director": "Irvin Kershner",
+    "actors": "Mark Hamill, Harrison Ford, Carrie Fisher",
+    "production_country": "United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTkxNGFlNDktZmJkNC00MDdhLTg0MTEtZjZiYWI3MGE5NWIwXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/1891.webp",
+    "imdb_rating": "8.7",
+    "imdb_votes": "1,495,152",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Empire_Strikes_Back",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/1891.txt",
+    "plot_year_start": 3,
+    "plot_year_end": 3,
+    "epoch": "ancient-world",
+    "action_countries": [
+      "FICTIONAL"
+    ],
+    "action_continents": [
+      "FICTIONAL"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Star Wars Universe",
+    "failures": {
+      "categories": "missing_category_list"
+    }
+  },
+  {
+    "movie_id": 50253,
+    "movie_idx": 2687,
+    "imdb_id": "tt0805605",
+    "title": "Saint Seiya: Heaven Chapter - Overture",
+    "production_year": "2004",
+    "genre": "Animation, Fantasy",
+    "plot": "After the Saints' victory against Hades, Seiya is left wounded and motionless in a wheel chair with no possible chance of recovery. Athena's sister Artemis, the Virgin Goddess of the Moon and twin sister of Apollo, makes an elaborate proposal - to restore Seiya's physical health in exchange for the supremacy of Sanctuary. Athena accepts and Artemis and her \"Knights of the Sky\" swiftly take control of Sanctuary. Now Seiya and his fellow Bronze Saints combat the forces of Zeus to regain their homeland but it will not be so easy. Bronze Saints Hydra Ichi and Unicorn Jabu, and Silver Saint Ophiuchus Shaina have join forces with Artemis and Apollo.",
+    "runtime": "84 min",
+    "director": "Shigeyasu Yamauchi",
+    "actors": "Tôru Furuya, Hirotaka Suzuoki, Kôichi Hashimoto",
+    "production_country": "Japan",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZDBiZGE3YmMtNWJlOC00YzlkLWE5NzQtNDRkMTM1ZTNhOGVhXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/50253.webp",
+    "imdb_rating": "7.0",
+    "imdb_votes": "1,648",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Saint_Seiya",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/50253.txt",
+    "plot_year_start": 1,
+    "plot_year_end": 1,
+    "epoch": "ancient-world",
+    "action_countries": [
+      "FICTIONAL"
+    ],
+    "action_continents": [
+      "FICTIONAL"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "failures": {
+      "categories": "missing_category_list"
+    }
+  },
+  {
+    "movie_id": 123,
+    "movie_idx": 2762,
+    "imdb_id": "tt0077869",
+    "title": "The Lord of the Rings",
+    "production_year": "1978",
+    "genre": "Animation, Adventure, Fantasy",
+    "plot": "A young Hobbit known as Frodo has been thrown on an amazing adventure, when he is appointed the job of destroying the One Ring, which was created by the Dark Lord Sauron. He is assigned with three warriors including Gandelf, Aragorn, and Boromir. But it's not going to be an easy journey for the Fellowship of the Ring, on the ultimate quest to rid the Middle-earth of all evil.",
+    "runtime": "132 min",
+    "director": "Ralph Bakshi",
+    "actors": "Christopher Guard, William Squire, Michael Scholes",
+    "production_country": "United States, United Kingdom",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZmI4ZmIxOGQtMGY2ZS00Y2Y5LTllMDItYzllOWFmMTNlMmY2XkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/123.webp",
+    "imdb_rating": "6.2",
+    "imdb_votes": "38,775",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Lord_of_the_Rings_(1978_film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/123.txt",
+    "plot_year_start": -3300,
+    "plot_year_end": 3019,
+    "epoch": "ancient-world",
+    "action_countries": [
+      "FICTIONAL"
+    ],
+    "action_continents": [
+      "FICTIONAL"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Middle-earth",
+    "failures": {
+      "categories": "missing_category_list"
+    }
+  },
+  {
+    "movie_id": 120475,
+    "movie_idx": 3101,
+    "imdb_id": "tt2980736",
+    "title": "Dragon Ball: Episode of Bardock",
+    "production_year": "2011",
+    "genre": "Animation, Short, Action, Drama, Family, Fantasy, Sci-Fi",
+    "plot": "Bardock, Goku's father, was supposed to have died when Freezer's attack hit him along with Planet Vegeta. Instead, he was thrown back in time, to an age where the planet was still inhabited by strange creatures. There he met Freezer's ancestor, the space pirate Chilled, and fought against him to protect the planet.",
+    "runtime": "20 min",
+    "director": "Yoshihiro Ueda",
+    "actors": "Masashi Ebara, Keiji Hirai, Sayaka Hirao, Kazuyuki Ishikawa",
+    "production_country": "Japan",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYmVlODQ4NGEtNzdhMi00NzJjLWIxNTctOThjNTMyMjU1ZWNkXkEyXkFqcGdeQXVyMjUyMTE3MTc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/120475.webp",
+    "imdb_rating": "7.5",
+    "imdb_votes": "1,806",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Dragon_Ball:_Episode_of_Bardock",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/120475.txt",
+    "plot_year_start": -1000,
+    "plot_year_end": -1000,
+    "epoch": "ancient-world",
+    "action_countries": [
+      "FICTIONAL"
+    ],
+    "action_continents": [
+      "FICTIONAL"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Dragon Ball Universe",
+    "failures": {
+      "categories": "missing_category_list"
+    }
+  },
+  {
+    "movie_id": 75629,
+    "movie_idx": 3498,
+    "imdb_id": "tt0860907",
+    "title": "Evangelion: 3.0 You Can (Not) Redo",
+    "production_year": "2012",
+    "genre": "Animation, Action, Drama",
+    "plot": "14 years have passed since the near third impact. Most of the world has changed except Shinji Ikari who awakens, unaged in a new and strange environment. Misato has formed a group that is separate from Nerv. The fight is far from over but the biggest struggle might be against humans and former allies.",
+    "runtime": "96 min",
+    "director": "Mahiro Maeda, Masayuki, Kazuya Tsurumaki",
+    "actors": "Megumi Ogata, Megumi Hayashibara, Yûko Miyamura",
+    "production_country": "Japan",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYzA1ODE4Y2EtYjNmYy00MjkwLTk4ZTktNzFhODZkMjMyMjI2XkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/75629.webp",
+    "imdb_rating": "6.9",
+    "imdb_votes": "21,004",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Evangelion:_3.0_You_Can_(Not)_Redo",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/75629.txt",
+    "plot_year_start": 14,
+    "plot_year_end": 14,
+    "epoch": "ancient-world",
+    "action_countries": [
+      "FICTIONAL"
+    ],
+    "action_continents": [
+      "FICTIONAL"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Rebuild of Evangelion",
+    "failures": {
+      "categories": "missing_category_list"
+    }
+  },
+  {
+    "movie_id": 559907,
+    "movie_idx": 3561,
+    "imdb_id": "tt9243804",
+    "title": "The Green Knight",
+    "production_year": "2021",
+    "genre": "Adventure, Drama, Fantasy",
+    "plot": "An epic fantasy adventure based on the timeless Arthurian legend, \"The Green Knight\" tells the story of Sir Gawain (Dev Patel), King Arthur's reckless and headstrong nephew, who embarks on a daring quest to confront the eponymous Green Knight, a gigantic emerald-skinned stranger and tester of men. Gawain contends with ghosts, giants, thieves, and schemers in what becomes a deeper journey to define his character and prove his worth in the eyes of his family and kingdom by facing the ultimate challenger. From visionary filmmaker David Lowery comes a fresh and bold spin on a classic tale from the knights of the round table.",
+    "runtime": "130 min",
+    "director": "David Lowery",
+    "actors": "Dev Patel, Alicia Vikander, Joel Edgerton",
+    "production_country": "United States, Canada, Ireland",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNjRjNmU1M2ItNDU4Ni00ZGY2LTlmNzItY2MxYmY3OTllZjMwXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/559907.webp",
+    "imdb_rating": "6.6",
+    "imdb_votes": "127,213",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Green_Knight_(film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/559907.txt",
+    "plot_year_start": 6,
+    "plot_year_end": 7,
+    "epoch": "ancient-world",
+    "action_countries": [
+      "FICTIONAL",
+      "GB",
+      "UNKNOWN"
+    ],
+    "action_continents": [
+      "FICTIONAL",
+      "Europe",
+      "UNKNOWN"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Middle-earth",
+    "failures": {
+      "categories": "missing_category_list"
+    }
+  },
+  {
+    "movie_id": 9334,
+    "movie_idx": 3688,
+    "imdb_id": "tt0277296",
+    "title": "The Scorpion King",
+    "production_year": "2002",
+    "genre": "Action, Adventure, Fantasy",
+    "plot": "In ancient Gomorrah, thousands of years before the Pyramids, the remaining free nomadic tribes are forced to form an uneasy alliance to put an end to mighty King Memnon's reign of tyranny. One of the few survivors and the last of the Akkadians, the brave assassin, Mathayus, is entrusted with the impossible task of executing Memnon's fortune-telling sorceress, Cassandra, only to find himself up against a seemingly indestructible evil army. Now, with the help of his new powerful allies, including the great warrior, Balthazar, Mathayus returns to the legendary city to infiltrate Memnon's impenetrable fortress in the desert and exact his revenge. Is Mathayus destined to be the next Scorpion King?",
+    "runtime": "92 min",
+    "director": "Chuck Russell",
+    "actors": "Dwayne Johnson, Steven Brand, Michael Clarke Duncan",
+    "production_country": "Germany, United States, Belgium",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjkxNTAwNTQ0M15BMl5BanBnXkFtZTYwMTQwMjM3._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/9334.webp",
+    "imdb_rating": "5.5",
+    "imdb_votes": "150,983",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Scorpion_King",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/9334.txt",
+    "plot_year_start": -3000,
+    "plot_year_end": -3000,
+    "epoch": "ancient-world",
+    "action_countries": [
+      "FICTIONAL"
+    ],
+    "action_continents": [
+      "FICTIONAL"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "The Mummy Universe",
+    "failures": {
+      "categories": "missing_category_list"
+    }
+  },
+  {
+    "movie_id": 12180,
+    "movie_idx": 3732,
+    "imdb_id": "tt1185834",
+    "title": "Star Wars: The Clone Wars",
+    "production_year": "2008",
+    "genre": "Animation, Action, Adventure",
+    "plot": "As the Clone Wars sweep through the galaxy, the heroic Jedi Knights struggle to maintain order and restore peace. More and more systems are falling prey to the forces of the dark side as the Galactic Republic slips further and further under the sway of the Separatists and their never-ending droid army. Anakin Skywalker and his Padawan learner Ahsoka Tano find themselves on a mission with far-reaching consequences, one that brings them face-to-face with crime lord Jabba the Hutt. But Count Dooku and his sinister agents, including the nefarious Asajj Ventress, will stop at nothing to ensure that Anakin and Ahsoka fail at their quest. Meanwhile, on the front lines of the Clone Wars, Obi-Wan Kenobi and Master Yoda lead the massive clone army in a valiant effort to resist the forces of the dark side ...",
+    "runtime": "98 min",
+    "director": "Dave Filoni",
+    "actors": "Matt Lanter, Nika Futterman, Tom Kane",
+    "production_country": "United States, Singapore, Australia, United Kingdom, Czech Republic",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYjExN2YwZmYtODlkNy00MTMzLWIwOTMtNDZlYWEzNjMxODBmXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/12180.webp",
+    "imdb_rating": "6.0",
+    "imdb_votes": "80,394",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Star_Wars:_The_Clone_Wars_(film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/12180.txt",
+    "plot_year_start": -22,
+    "plot_year_end": -22,
+    "epoch": "ancient-world",
+    "action_countries": [
+      "FICTIONAL"
+    ],
+    "action_continents": [
+      "FICTIONAL"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Star Wars Universe",
+    "failures": {
+      "categories": "missing_category_list"
+    }
+  },
+  {
+    "movie_id": 29993,
+    "movie_idx": 3953,
+    "imdb_id": "tt0041838",
+    "title": "Samson and Delilah",
+    "production_year": "1949",
+    "genre": "Drama, Family, History",
+    "plot": "Though his people, the Israelites, are enslaved by the Philistines, Samson (Victor Mature), strongest man of the tribe of Dan, falls in love with the Philistine Semadar (Dame Angela Lansbury), whom he wins by virtue of a contest of strength. But Semadar betrays him, and Samson engages in a fight with her real love, Ahtur (Henry Wilcoxon), and his soldiers. Semadar is killed, and her sister Delilah (Hedy Lamarr), who had loved Samson in silence, now vows vengeance against him. She plans to seduce Samson into revealing the secret of his strength and then to betray him to the Philistine leader, The Saran of Gaza (George Sanders).",
+    "runtime": "134 min",
+    "director": "Cecil B. DeMille",
+    "actors": "Hedy Lamarr, Victor Mature, George Sanders",
+    "production_country": "United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMDMyYmE4MzgtYWIwOS00NjYzLTllZjAtYmIzZTcyMTUyMjI2XkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/29993.webp",
+    "imdb_rating": "6.8",
+    "imdb_votes": "9,858",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Samson_and_Delilah_(1949_film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/29993.txt",
+    "plot_year_start": -11,
+    "plot_year_end": -11,
+    "epoch": "ancient-world",
+    "action_countries": [
+      "FICTIONAL"
+    ],
+    "action_continents": [
+      "FICTIONAL"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "failures": {
+      "categories": "missing_category_list"
+    }
+  },
+  {
+    "movie_id": 351694,
+    "movie_idx": 4053,
+    "imdb_id": "tt4644382",
+    "title": "Monkey King: Hero Is Back",
+    "production_year": "2015",
+    "genre": "Animation, Action, Adventure",
+    "plot": "The all-powerful Monkey King once roamed freely between Heaven and Earth, but after angering the gods, he was imprisoned within an ice cage deep within the mountains. Five hundred years later, monsters attack a small village and a child flees to the mountains. Unknowingly, the child releases the Monkey King from his curse. With the help and encouragement from this special child, Monkey King saves the village from the evil monsters.",
+    "runtime": "89 min",
+    "director": "Xiaopeng Tian",
+    "actors": "Lei Zhang, Zijie Lin, Wenlun Wu",
+    "production_country": "China, United Kingdom",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTQ3Njk1MzAxOF5BMl5BanBnXkFtZTgwNzg2MTI4ODE@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/351694.webp",
+    "imdb_rating": "6.7",
+    "imdb_votes": "5,069",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Monkey_King:_Hero_Is_Back",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/351694.txt",
+    "plot_year_start": 500,
+    "plot_year_end": 505,
+    "epoch": "ancient-world",
+    "action_countries": [
+      "FICTIONAL"
+    ],
+    "action_continents": [
+      "FICTIONAL"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "failures": {
+      "categories": "missing_category_list"
+    }
+  },
+  {
+    "movie_id": 60898,
+    "movie_idx": 4232,
+    "imdb_id": "tt0100014",
+    "title": "Erotic Ghost Story",
+    "production_year": "1990",
+    "genre": "Fantasy, Horror",
+    "plot": "Three vixens have meditated for 1,000 years to able to shed their animal natures and become human. For the final month of their rigors, they have moved near a village where women pray to a god of fertility. One sister visits the god's temple and thinks lustful thoughts. As she leaves, a priest confronts her, warning of dire consequences and of demons that will try to stop the vixens' transformation.",
+    "runtime": "90 min",
+    "director": "Ngai Choi Lam",
+    "actors": "Amy Yip, Hitomi Kudô, So Man",
+    "production_country": "Hong Kong",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjVhZWZiNmItYTdmMC00MWE5LTkwMTgtMGQwODkwYzNkNTYxXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/60898.webp",
+    "imdb_rating": "5.6",
+    "imdb_votes": "1,354",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Erotic_Ghost_Story",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/60898.txt",
+    "plot_year_start": -1000,
+    "plot_year_end": -1000,
+    "epoch": "ancient-world",
+    "action_countries": [
+      "FICTIONAL"
+    ],
+    "action_continents": [
+      "FICTIONAL"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "failures": {
+      "categories": "missing_category_list"
+    }
+  },
+  {
+    "movie_id": 78049,
+    "movie_idx": 4728,
+    "imdb_id": "tt1781896",
+    "title": "The Scorpion King 3: Battle for Redemption",
+    "production_year": "2012",
+    "genre": "Action, Adventure, Fantasy",
+    "plot": "Mathayus's sorceress-queen is killed by a pest which ravaged his kingdom until it fell. Feeling guilty and a failure, the Akkadian resumed the life of mercenary. He's hired by Horus, king of the now dominant Near eastern kingdom, to help out defend the palace of Hindu king Ramusan, guardian of the Book of the Death, the last ally barring the bid for Hrus's throne by his rogue brother Talus, whose raids in the Far East yielded the largest army ever. Mathuyas is instructed to team up with simpleton Teutonic giant Olaf. Ramusan can't pay them the promised gold, but offers the hand of his daughter Silda, whose portrait shows a priceless medallion. Their fight is complicated by the mysterious Cobra, hired by Talus, who captured the princess, so they pair pretends to enter Talus's service, but finds out about an even more devious deception, while Talus captures the book and thus is able to conjure the warrior ghosts.",
+    "runtime": "105 min",
+    "director": "Roel Reiné",
+    "actors": "Dave Bautista, Bostin Christopher, Tanapol Chuksrida, Kevin 'Kimbo Slice' Ferguson",
+    "production_country": "USA",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjA3MzU2ODIwOV5BMl5BanBnXkFtZTcwOTA1ODIyNw@@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/78049.webp",
+    "imdb_rating": "3.7",
+    "imdb_votes": "8,072",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Scorpion_King_3:_Battle_for_Redemption",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/78049.txt",
+    "plot_year_start": -2000,
+    "plot_year_end": -2000,
+    "epoch": "ancient-world",
+    "action_countries": [
+      "FICTIONAL"
+    ],
+    "action_continents": [
+      "FICTIONAL"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "The Scorpion King Universe",
+    "failures": {
+      "categories": "missing_category_list"
+    }
+  },
+  {
+    "movie_id": 11527,
+    "movie_idx": 4910,
+    "imdb_id": "tt0082348",
+    "title": "Excalibur",
+    "production_year": "1981",
+    "genre": "Adventure, Drama, Fantasy",
+    "plot": "The myth of King Arthur (Nigel Terry) brought once again to the screen. Uthur Pendragon (Gabriel Byrne) is given the mystical sword Excalibur by the wizard Merlin. At his death, Uthur buries the sword into a stone, and the next man that can pull it out will be King of England. Several years later, Arthur, Uthur's bastard son, draws Excalibur and becomes King. Guided by Merlin, Arthur marries Guenevere (Cherie Lunghi) and gathers the Knights of the Round Table. Arthur's evil half-sister Morgana (Dame Helen Mirren) sires a son with him, who may prove to be his downfall.",
+    "runtime": "140 min",
+    "director": "John Boorman",
+    "actors": "Nigel Terry, Helen Mirren, Nicholas Clay",
+    "production_country": "United Kingdom, United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTI0ZTZlNGMtNjhmNi00OGFiLTkzYjEtZmZiODgxMzI3YTE0XkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/11527.webp",
+    "imdb_rating": "7.3",
+    "imdb_votes": "72,528",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Excalibur_(film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/11527.txt",
+    "plot_year_start": 500,
+    "plot_year_end": 520,
+    "epoch": "ancient-world",
+    "action_countries": [
+      "FICTIONAL"
+    ],
+    "action_continents": [
+      "FICTIONAL"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "failures": {
+      "categories": "missing_category_list"
+    }
+  },
+  {
+    "movie_id": 1884,
+    "movie_idx": 5072,
+    "imdb_id": "tt0087225",
+    "title": "The Ewok Adventure",
+    "production_year": "1984",
+    "genre": "Adventure, Family, Fantasy",
+    "plot": "The Towani family civilian shuttlecraft crashes on the forest moon of Endor. The four Towani's are separated. Jermitt and Catarine, the mother and father are captured by the giant Gorax, and Mace and Cindel, the son and daughter, are missing when they are captured. The next day, the Ewok Deej is looking for his two sons when they find Cindel all alone in the shuttle (Mace and Cindel were looking for the transmitter to send a distress call), when Mace appears with his emergency blaster. Eventually, the four-year old Cindel is able to convince the teenage Mace that the Ewoks are nice. Then, the Ewoks and the Towani's go on an adventure to find the elder Towanis.",
+    "runtime": "96 min",
+    "director": "John Korty",
+    "actors": "Eric Walker, Warwick Davis, Fionnula Flanagan",
+    "production_country": "United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BY2E1MDRkMTUtOWFlMy00Y2U0LWJlNGEtMTc2NWU1Y2EwMzUwXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/1884.webp",
+    "imdb_rating": "5.3",
+    "imdb_votes": "13,046",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Caravan_of_Courage:_An_Ewok_Adventure",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/1884.txt",
+    "plot_year_start": 4,
+    "plot_year_end": 4,
+    "epoch": "ancient-world",
+    "action_countries": [
+      "FICTIONAL"
+    ],
+    "action_continents": [
+      "FICTIONAL"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Star Wars Universe",
+    "failures": {
+      "categories": "missing_category_list"
+    }
+  },
+  {
+    "movie_id": 553600,
+    "movie_idx": 5318,
+    "imdb_id": "tt9116358",
+    "title": "Promare",
+    "production_year": "2019",
+    "genre": "Animation, Action, Adventure",
+    "plot": "A futuristic firefighting mecha service is created to protect the world.",
+    "runtime": "111 min",
+    "director": "Hiroyuki Imaishi",
+    "actors": "John Eric Bentley, Steve Blum, Johnny Yong Bosch",
+    "production_country": "Japan",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZDFkZTE2NTctMDRhYS00OGUzLTg3MTgtZmNhZGI5M2UzNmFkXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/553600.webp",
+    "imdb_rating": "7.0",
+    "imdb_votes": "5,932",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Promare",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/553600.txt",
+    "plot_year_start": 30,
+    "plot_year_end": 30,
+    "epoch": "ancient-world",
+    "action_countries": [
+      "FICTIONAL"
+    ],
+    "action_continents": [
+      "FICTIONAL"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "failures": {
+      "categories": "missing_category_list"
+    }
+  },
+  {
+    "movie_id": 13486,
+    "movie_idx": 5766,
+    "imdb_id": "tt1104123",
+    "title": "The Scorpion King 2: Rise of a Warrior",
+    "production_year": "2008",
+    "genre": "Action, Adventure, Fantasy",
+    "plot": "In Ancient Akkad, Mathayus grows up as the proud son of Ashur, a captain in the world-renowned military corps of Black Scorpions, first-rate bodyguards, most of which are sent to courts wide away. By objecting to young Mathayus joining the corps, Ashur incurs the undying enmity of ruthless generalissimo Sargon, gets killed and the orphaned knave is shipped off to a desolate training camp for six years by king Hammurabi's clemency. When he returns as a Black Scorpio, Sargon has bloodily seized the throne and demands cruel proof of blind loyalty. Mathayus refuses, becoming a chased hero. With youth friends, the resourceful Greek Pollux and various mercenary warriors, he embarks on a daring quest to obtain a legendary sword from Sargon's magical ally, the war-goddess Astarte.",
+    "runtime": "109 min",
+    "director": "Russell Mulcahy",
+    "actors": "Michael Copon, Karen David, Simon Quarterman, Tom Wu",
+    "production_country": "USA, South Africa, Germany",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYTFmOWJjODYtMDkwZC00MDZjLWExY2UtMjI2M2I1NDIzZjdiXkEyXkFqcGdeQXVyNDgyODgxNjE@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/13486.webp",
+    "imdb_rating": "3.8",
+    "imdb_votes": "13,125",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Scorpion_King_2:_Rise_of_a_Warrior",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/13486.txt",
+    "plot_year_start": -1800,
+    "plot_year_end": -1794,
+    "epoch": "ancient-world",
+    "action_countries": [
+      "FICTIONAL",
+      "EG",
+      "GR"
+    ],
+    "action_continents": [
+      "FICTIONAL",
+      "Africa",
+      "Europe"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "failures": {
+      "categories": "missing_category_list"
+    }
+  },
+  {
+    "movie_id": 10372,
+    "movie_idx": 5870,
+    "imdb_id": "tt0089110",
+    "title": "Ewoks: The Battle for Endor",
+    "production_year": "1985",
+    "genre": "Adventure, Family, Fantasy",
+    "plot": "The army of the Marauders, led by by King Terak and the witch Charal attack the Ewok village. The parents and the brother of Cindel all die in this attack. Cindel and Wicket escape and in a forest they meet Teek, a naughty and very fast animal. Teek takes them to a house in which a old man, Noa, lives. Like Cindel he also crashed with his Star Cruiser on Endor. Together they fight Terak and Charal.",
+    "runtime": "94 min",
+    "director": "Jim Wheat, Ken Wheat",
+    "actors": "Wilford Brimley, Warwick Davis, Aubree Miller",
+    "production_country": "United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjhmYWUyNTYtZDc3NS00NjBlLWEyNjktYzYwMzkyMWI4NTliXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/10372.webp",
+    "imdb_rating": "5.4",
+    "imdb_votes": "11,233",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Ewoks:_The_Battle_for_Endor",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/10372.txt",
+    "plot_year_start": 4,
+    "plot_year_end": 4,
+    "epoch": "ancient-world",
+    "action_countries": [
+      "FICTIONAL"
+    ],
+    "action_continents": [
+      "FICTIONAL"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Star Wars Universe",
+    "failures": {
+      "categories": "missing_category_list"
+    }
+  },
+  {
+    "movie_id": 527729,
+    "movie_idx": 5917,
+    "imdb_id": "tt8001346",
+    "title": "Asterix: The Secret of the Magic Potion",
+    "production_year": "2018",
+    "genre": "Animation, Adventure, Comedy",
+    "plot": "Following a fall during mistletoe picking, Druid Panoramix decides that it is time to secure the future of the village. Accompanied by Astérix and Obelix, he undertakes to travel the Gallic world in search of a talented young druid to transmit the Secret of the Magic Potion.",
+    "runtime": "87 min",
+    "director": "Alexandre Astier, Louis Clichy",
+    "actors": "Bernard Alane, Christian Clavier, Guillaume Briat",
+    "production_country": "France, Belgium, Canada",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMDMzZjU5ZDgtMDc5Yi00ZmQxLWIzNzctZGQ5NWYxYjI1ODYxXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/527729.webp",
+    "imdb_rating": "6.7",
+    "imdb_votes": "12,380",
+    "plot_year_start": -50,
+    "plot_year_end": -50,
+    "epoch": "ancient-world",
+    "action_countries": [
+      "FICTIONAL"
+    ],
+    "action_continents": [
+      "FICTIONAL"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Asterix",
+    "failures": {
+      "wikipedia": "no_wiki_article_found",
+      "categories": "missing_category_list"
+    }
+  },
+  {
+    "movie_id": 553835,
+    "movie_idx": 6695,
+    "imdb_id": "tt9526152",
+    "title": "Is It Wrong to Try to Pick Up Girls in a Dungeon - Arrow of the Orion",
+    "production_year": "2019",
+    "genre": "Animation, Action, Adventure",
+    "plot": "In the city of Orario, beneath an impossibly tall tower, lies the dungeon. Only adventurers who form partnerships with the gods themselves have any hope of defeating the monsters that lie within. But the dungeon is not the only place where monsters exist. Far from Orario, in the ruins of an ancient city, a new threat arises. To counter this threat, the goddess Artemis has come to Orario in search of a champion-but it's not Ais Wallenstein (the legendary Sword Princess) nor Ottar (the strongest warrior to ever enter the dungeon) that she chooses. Rather it is Bell Cranel, a newbie adventurer partnered with a low-tier goddess.",
+    "runtime": "82 min",
+    "director": "Katsushi Sakurabi",
+    "actors": "Yoshitsugu Matsuoka, Inori Minase, Maaya Sakamoto",
+    "production_country": "Japan",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZTA4MmUwMWMtYTMyZi00MjJiLWE3NGEtZDJjZmFjMTgyY2QyXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/553835.webp",
+    "imdb_rating": "6.8",
+    "imdb_votes": "1,921",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Is_It_Wrong_to_Try_to_Pick_Up_Girls_in_a_Dungeon%3F:_Arrow_of_the_Orion",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/553835.txt",
+    "plot_year_start": 1,
+    "plot_year_end": 1,
+    "epoch": "ancient-world",
+    "action_countries": [
+      "FICTIONAL"
+    ],
+    "action_continents": [
+      "FICTIONAL"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "failures": {
+      "categories": "missing_category_list"
+    }
+  },
+  {
+    "movie_id": 17610,
+    "movie_idx": 6939,
+    "imdb_id": "tt1045778",
+    "title": "Year One",
+    "production_year": "2009",
+    "genre": "Comedy",
+    "plot": "Zed, a prehistoric would-be hunter, eats from a tree of forbidden fruit and is banished from his tribe, accompanied by Oh, a shy gatherer. On their travels, they meet Cain and Abel on a fateful day, stop Abraham from killing Isaac, become slaves, and reach the city of Sodom where their tribe is now enslaved. Zed and Oh are determined to rescue the women they love, Maya and Eema. Standing in their way is Sodom's high priest and the omnipresent Cain. Zed tries to form an alliance with Princess Innana, which may backfire. Can an inept hunter and a smart but slender and diffident gatherer become heroes and make a difference?",
+    "runtime": "97 min",
+    "director": "Harold Ramis",
+    "actors": "Jack Black, Michael Cera, Olivia Wilde",
+    "production_country": "United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZTJkZmZkNDUtYjA2OS00OTViLThhMjYtOWZhMGVkODFhMWU2XkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/17610.webp",
+    "imdb_rating": "5.0",
+    "imdb_votes": "108,311",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Year_One_(film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/17610.txt",
+    "plot_year_start": -1500,
+    "plot_year_end": -1200,
+    "epoch": "ancient-world",
+    "action_countries": [
+      "FICTIONAL"
+    ],
+    "action_continents": [
+      "FICTIONAL"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "failures": {
+      "categories": "missing_category_list"
+    }
+  },
+  {
+    "movie_id": 2789,
+    "movie_idx": 6954,
+    "imdb_id": "tt0296572",
+    "title": "The Chronicles of Riddick",
+    "production_year": "2004",
+    "genre": "Action, Adventure, Sci-Fi",
+    "plot": "Richard Bruno Riddick (Vin Diesel), now a hunted man, finds himself in the middle of two opposing forces in a major crusade. Lord Marshal (Colm Feore) is a warrior priest who is the leader of a sect that is waging the tenth and perhaps final crusade five hundred years in the future. Aereon (Dame Judi Dench) is an ambassador from the Elemental race. She is an ethereal being who helps Riddick unearth his origins.",
+    "runtime": "119 min",
+    "director": "David Twohy",
+    "actors": "Vin Diesel, Judi Dench, Colm Feore",
+    "production_country": "United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNjJkZGI1MTktNmNiMS00NTE5LTkyY2EtZjkyMDZjMzdhZTJjXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/2789.webp",
+    "imdb_rating": "6.6",
+    "imdb_votes": "249,300",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Chronicles_of_Riddick",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/2789.txt",
+    "plot_year_start": 500,
+    "plot_year_end": 500,
+    "epoch": "ancient-world",
+    "action_countries": [
+      "FICTIONAL"
+    ],
+    "action_continents": [
+      "FICTIONAL"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "failures": {
+      "categories": "missing_category_list"
+    }
+  },
+  {
+    "movie_id": 9385,
+    "movie_idx": 6966,
+    "imdb_id": "tt0072901",
+    "title": "The Twelve Tasks of Asterix",
+    "production_year": "1976",
+    "genre": "Animation, Adventure, Comedy",
+    "plot": "When Julius Cesar fears, that he will probably never be able to defeat the gaulic village of Asterix and his friends, he has the idea of offering the Gauls a deal: if they are able to solve twelve tasks that he selected, he will hand over the Roman empire to them. If not, they have to submit.",
+    "runtime": "82 min",
+    "director": "René Goscinny, Albert Uderzo",
+    "actors": "Roger Carel, Jacques Morel, Pierre Tornade",
+    "production_country": "France, United Kingdom",
+    "poster": "https://m.media-amazon.com/images/M/MV5BODZmZTllN2UtOWJmZC00MmE5LWJlNjEtNDFmY2UxOGUxN2E0XkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/9385.webp",
+    "imdb_rating": "7.7",
+    "imdb_votes": "20,739",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Twelve_Tasks_of_Asterix",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/9385.txt",
+    "plot_year_start": -50,
+    "plot_year_end": -50,
+    "epoch": "ancient-world",
+    "action_countries": [
+      "FICTIONAL",
+      "IT"
+    ],
+    "action_continents": [
+      "FICTIONAL",
+      "Europe"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "FICTIONAL",
+    "failures": {
+      "categories": "missing_category_list"
+    }
+  },
+  {
+    "movie_id": 21835,
+    "movie_idx": 6986,
+    "imdb_id": "tt0114996",
+    "title": "A Chinese Odyssey: Part 2 - Cinderella",
+    "production_year": "1995",
+    "genre": "Action, Adventure, Comedy",
+    "plot": "This sequel to \"Pandora's Box\" continues director Jeffrey Lau's adaptation of the Buddhism saga \"Journey to the West\". Stranded five centuries in the past, Joker Monkey King must battle a variety of monsters, seductive women and super-powered villains to save the dying Pak Jing-Jing.",
+    "runtime": "98 min",
+    "director": "Jeffrey Lau",
+    "actors": "Stephen Chow, Man-Tat Ng, Athena Chu",
+    "production_country": "Hong Kong, China",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNWMzYzE5YjktYjBlYS00NGExLThkZDItMmNjOTg5YTM1NzFhXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/21835.webp",
+    "imdb_rating": "7.8",
+    "imdb_votes": "9,432",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/A_Chinese_Odyssey",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/21835.txt",
+    "plot_year_start": -500,
+    "plot_year_end": -500,
+    "epoch": "ancient-world",
+    "action_countries": [
+      "FICTIONAL"
+    ],
+    "action_continents": [
+      "FICTIONAL"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "failures": {
+      "categories": "missing_category_list"
+    }
+  },
+  {
+    "movie_id": 135858,
+    "movie_idx": 7240,
+    "imdb_id": "tt1733125",
+    "title": "Dungeons & Dragons: The Book of Vile Darkness",
+    "production_year": "2012",
+    "genre": "Action, Adventure, Fantasy",
+    "plot": "Two thousand years ago, Nhagruul the Foul, a sorcerer who reveled in corrupting the innocent and the spread of despair, neared the end of his mortal days and was dismayed. Consumed by hatred for the living, Nhagruul sold his soul to the demon Lords of the abyss so that his malign spirit would survive. In an excruciating ritual, Nhagrulls skin was flayed into pages, his bones hammered into a cover, and his diseased blood became the ink to pen a book most vile. All those exposed to the book were driven to madness or so corrupted by the wicked knowledge contained within that they had no choice but to turn evil. Misery and bloodshed followed the disciples of Nhagruul as they spread their Masters dark dream. Creatures vile and depraved rose from every pit and unclean barrow to partake in the fever of destruction. The cities and kingdoms of Karkoth were consumed by this plague of evil until an order of warriors arose from the ashes. The Knights of the New Sun swore an oath to resurrect hope in the land. The purity of their hearts was so great that Pelor, the God of Light, gave the Knights powerful amulets with which to channel his power. Transcendent with divine might, the Knights of the New Sun pierced the shadow that had darkened the land for twelve hundred years and cast it asunder. But not all were awed by their glory. The disciples of Nhagruul disassembled the book and bribed three greedy souls to hide the pieces until they could be retrieved. The ink was discovered and destroyed but, despite years of searching, the cover and pages were never found. Peace ruled the land for centuries and the Knights got lost in the light of their own glory. As memory of the awful events faded so did the power of servants of Pelor. They unwittingly abandoned themselves in the incorrect belief that the Book of Vile Darkness could never again be made whole.",
+    "runtime": "90 min",
+    "director": "Gerry Lively",
+    "actors": "Jack Derges, Glenn Aucoin, Eleanor Gecks",
+    "production_country": "United Kingdom, Bulgaria",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTY2MjAwNjI2MV5BMl5BanBnXkFtZTgwMjAyMTI1MDE@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/135858.webp",
+    "imdb_rating": "4.4",
+    "imdb_votes": "2,865",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Dungeons_%26_Dragons_3:_The_Book_of_Vile_Darkness",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/135858.txt",
+    "plot_year_start": -1,
+    "plot_year_end": -1,
+    "epoch": "ancient-world",
+    "action_countries": [
+      "FICTIONAL"
+    ],
+    "action_continents": [
+      "FICTIONAL"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Dungeons & Dragons",
+    "failures": {
+      "categories": "missing_category_list"
+    }
+  },
+  {
+    "movie_id": 18937,
+    "movie_idx": 7280,
+    "imdb_id": "tt0120800",
+    "title": "Quest for Camelot",
+    "production_year": "1998",
+    "genre": "Animation, Adventure, Comedy",
+    "plot": "During the times of King Arthur, the story of an adventurous brave girl, named Kayley, whose father, a Knight of the Round Table, is killed by Sir Ruber, a maniacal brute who steals Excalibur and ultimately threatens to seize King Arthur's Camelot. Kayley enlists the blind, reclusive knight-aspirant Garrett and a goofy two headed dragon to brave the Enchanted Forest and retrieve the magic sword. Their adventure is also, of course, fraught with danger.",
+    "runtime": "86 min",
+    "director": "Frederik Du Chau",
+    "actors": "Jessalyn Gilsig, Cary Elwes, Andrea Corr",
+    "production_country": "United States, France, Luxembourg, Germany, Canada, United Kingdom",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNTJlMTYxZGQtYjVhNC00MjFmLWI0ZjUtNzE1NjI0ZTVhZjg4XkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/18937.webp",
+    "imdb_rating": "6.3",
+    "imdb_votes": "19,500",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Quest_for_Camelot",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/18937.txt",
+    "plot_year_start": 6,
+    "plot_year_end": 16,
+    "epoch": "ancient-world",
+    "action_countries": [
+      "FICTIONAL"
+    ],
+    "action_continents": [
+      "FICTIONAL"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "failures": {
+      "categories": "missing_category_list"
+    }
+  },
+  {
+    "movie_id": 105825,
+    "movie_idx": 7543,
+    "imdb_id": "tt0104719",
+    "title": "Erotic Ghost Story III",
+    "production_year": "1992",
+    "genre": "Fantasy, Horror, Thriller",
+    "plot": "A swordsman running from an arranged marriage is drawn into the demon realm, where he falls for a beautiful woman, but her demon matriarch has other plans for him. Meanwhile, his fiancée is looking for him.",
+    "runtime": "94 min",
+    "director": "Kai-Ming Lai",
+    "actors": "Pauline Chan, Tak-Bun Wong, Shing Fui-On",
+    "production_country": "Hong Kong",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZTFmODdjZDUtODY4Yi00MzdiLWEyMjctNzNlYzlhNTBkYTBmXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/105825.webp",
+    "imdb_rating": "5.3",
+    "imdb_votes": "348",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/A_Chinese_Ghost_Story_III",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/105825.txt",
+    "plot_year_start": 100,
+    "plot_year_end": 100,
+    "epoch": "ancient-world",
+    "action_countries": [
+      "FICTIONAL"
+    ],
+    "action_continents": [
+      "FICTIONAL"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "failures": {
+      "categories": "missing_category_list"
+    }
+  },
+  {
+    "movie_id": 101173,
+    "movie_idx": 8011,
+    "imdb_id": "tt1372686",
+    "title": "Coriolanus",
+    "production_year": "2011",
+    "genre": "Drama, Thriller, War",
+    "plot": "The citizens of Rome are hungry. Coriolanus, the hero of Rome, a great soldier and a man of inflexible self-belief despises the people. His extreme views ignite a mass riot. Rome is bloody. Manipulated and out-maneuvered by politicians and even his own mother Volumnia, Coriolanus is banished from Rome. He offers his life or his services to his sworn enemy Tullus Aufidius.",
+    "runtime": "123 min",
+    "director": "Ralph Fiennes",
+    "actors": "Ralph Fiennes, Gerard Butler, Brian Cox",
+    "production_country": "United Kingdom, United States, Serbia",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTcyMjAwMjA2N15BMl5BanBnXkFtZTcwOTI0MjA0Ng@@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/101173.webp",
+    "imdb_rating": "6.1",
+    "imdb_votes": "34,834",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Coriolanus_(film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/101173.txt",
+    "plot_year_start": -500,
+    "plot_year_end": -500,
+    "epoch": "ancient-world",
+    "action_countries": [
+      "FICTIONAL"
+    ],
+    "action_continents": [
+      "FICTIONAL"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "failures": {
+      "categories": "missing_category_list"
+    }
+  },
+  {
+    "movie_id": 298115,
+    "movie_idx": 8309,
+    "imdb_id": "tt4191768",
+    "title": "Dragons: Dawn of the Dragon Racers",
+    "production_year": "2014",
+    "genre": "Animation, Short, Adventure, Comedy, Family, Fantasy",
+    "plot": "Dawn of the Dragon Racers, is a short film describing how Dragon Racing was invented. Hiccup and all his friends from the dragon academy fight about who really invented it.",
+    "runtime": "26 min",
+    "director": "Elaine Bogan, John Sanford",
+    "actors": "Jay Baruchel, America Ferrera, Christopher Mintz-Plasse, T.J. Miller",
+    "production_country": "USA",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNDRhYTRjOTQtMGYzYy00MjI5LWI1Y2EtMjQ3OWVlMjk0NmE5XkEyXkFqcGdeQXVyNTM3MDMyMDQ@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/298115.webp",
+    "imdb_rating": "7.0",
+    "imdb_votes": "2,232",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Dawn_of_the_Dragon_Racers",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/298115.txt",
+    "plot_year_start": 499,
+    "plot_year_end": 499,
+    "epoch": "ancient-world",
+    "action_countries": [
+      "FICTIONAL"
+    ],
+    "action_continents": [
+      "FICTIONAL"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Dragon Universe",
+    "failures": {
+      "categories": "missing_category_list"
+    }
+  },
+  {
+    "movie_id": 857702,
+    "movie_idx": 8640,
+    "imdb_id": "tt15164924",
+    "title": "Lego Star Wars Terrifying Tales",
+    "production_year": "2021",
+    "genre": "Animation, Action, Adventure",
+    "plot": "Dean, Poe and BB-8 must face their fears, stop an ancient evil from rising, and escape to make it back to their friends.",
+    "runtime": "44 min",
+    "director": "Ken Cunningham",
+    "actors": "A.J. LoCascio, Barbara Goodson, Christian Slater",
+    "production_country": "United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BOGRiYWEzZjctMTMzMi00M2VhLWEzZDItNDIyOTVkZjBkNTI0XkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/857702.webp",
+    "imdb_rating": "6.1",
+    "imdb_votes": "3,083",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Lego_Star_Wars:_Terrifying_Tales",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/857702.txt",
+    "plot_year_start": 34,
+    "plot_year_end": 34,
+    "epoch": "ancient-world",
+    "action_countries": [
+      "FICTIONAL"
+    ],
+    "action_continents": [
+      "FICTIONAL"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Star Wars Universe",
+    "failures": {
+      "categories": "missing_category_list"
+    }
+  },
+  {
+    "movie_id": 11188,
+    "movie_idx": 8972,
+    "imdb_id": "tt0387541",
+    "title": "Ring of the Nibelungs",
+    "production_year": "2004",
+    "genre": "Action, Adventure, Drama",
+    "plot": "The young blacksmith Siegfried, who, not knowing that he is heir to a conquered kingdom, becomes popular with the Burgunds by slaying their bane, the dragon Fafnir. When the reward seems to be a huge treasure, Siegfried ignores the curse that lies on the hoard - which now seems to endanger his love to beautiful Norse warrior queen Brunhild.",
+    "runtime": "184 min",
+    "director": "Uli Edel",
+    "actors": "Benno Fürmann, Kristanna Loken, Alicia Witt",
+    "production_country": "Germany, United Kingdom, South Africa, Italy",
+    "poster": "https://m.media-amazon.com/images/M/MV5BOTNlYmMwMmMtZjBmOS00M2I4LTlmY2QtYmI1ZTFkYTE0ZGRjXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/11188.webp",
+    "imdb_rating": "6.6",
+    "imdb_votes": "10,204",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Dark_Kingdom:_The_Dragon_King",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/11188.txt",
+    "plot_year_start": 500,
+    "plot_year_end": 520,
+    "epoch": "ancient-world",
+    "action_countries": [
+      "FICTIONAL",
+      "FICTIONAL",
+      "FICTIONAL"
+    ],
+    "action_continents": [
+      "FICTIONAL",
+      "FICTIONAL",
+      "FICTIONAL"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "failures": {
+      "categories": "missing_category_list"
+    }
+  },
+  {
+    "movie_id": 406429,
+    "movie_idx": 9230,
+    "imdb_id": "tt5481184",
+    "title": "League of Gods",
+    "production_year": "2016",
+    "genre": "Action, Fantasy",
+    "plot": "During the reign of King Zhou, an official enters his bedchamber, and is devoured by the monstrous tails of Daji, his concubine. Outside their city, several warriors within a metal wagon discuss their strategies to free the Invisible People and their Chief, when Jiang Ziya appears to them. He tells them that when King Zhou was younger, he let himself become possessed by the Black Dragon for his quest for power.",
+    "runtime": "109 min",
+    "director": "Koan Hui",
+    "actors": "Jet Li, Bingbing Fan, Zhang Wen",
+    "production_country": "Hong Kong",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZjRjZTk4MWEtODc1ZS00NTJlLWE4NTUtODFiMTgxMTkyNzFmXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/406429.webp",
+    "imdb_rating": "4.5",
+    "imdb_votes": "3,073",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/League_of_Gods",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/406429.txt",
+    "plot_year_start": -1046,
+    "plot_year_end": -1046,
+    "epoch": "ancient-world",
+    "action_countries": [
+      "FICTIONAL"
+    ],
+    "action_continents": [
+      "FICTIONAL"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "FICTIONAL",
+    "failures": {
+      "categories": "missing_category_list"
+    }
+  },
+  {
+    "movie_id": 21512,
+    "movie_idx": 9251,
+    "imdb_id": "tt0094764",
+    "title": "The Blood of Heroes",
+    "production_year": "1989",
+    "genre": "Action, Sci-Fi, Sport",
+    "plot": "A post-apocalyptic world provides the backdrop for a brutal, futuristic game resembling football. Rutger Hauer plays a disgraced former star leading a ragtag group of \"Juggers\" to one of the remaining Nine Cities for glory and redemption.",
+    "runtime": "90 min",
+    "director": "David Webb Peoples",
+    "actors": "Rutger Hauer, Joan Chen, Delroy Lindo",
+    "production_country": "Australia, United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYWJkNzNlNGItYTQ2Zi00MGVmLTk0NzgtYmNiM2ZhMmNlOTI3XkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/21512.webp",
+    "imdb_rating": "6.3",
+    "imdb_votes": "7,703",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Salute_of_the_Jugger",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/21512.txt",
+    "plot_year_start": 20,
+    "plot_year_end": 20,
+    "epoch": "ancient-world",
+    "action_countries": [
+      "FICTIONAL"
+    ],
+    "action_continents": [
+      "FICTIONAL"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "failures": {
+      "categories": "missing_category_list"
+    }
+  },
+  {
+    "movie_id": 732670,
+    "movie_idx": 9282,
+    "imdb_id": "tt12885438",
+    "title": "The Lego Star Wars Holiday Special",
+    "production_year": "2020",
+    "genre": "Animation, Action, Adventure",
+    "plot": "Rey leaves her friends to prepare for Life Day as she sets off on an adventure to gain a deeper knowledge of the Force. At a mysterious temple, she is hurled into a cross-timeline adventure. Will she make it back in time for Life ...",
+    "runtime": "44 min",
+    "director": "Ken Cunningham",
+    "actors": "A.J. LoCascio, Anthony Daniels, Ben Prendergast",
+    "production_country": "United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYzQ2NTRhZGItN2MxMC00N2UzLTk2YTMtYWI5NmU4OTVkNTc2XkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/732670.webp",
+    "imdb_rating": "6.4",
+    "imdb_votes": "8,371",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Lego_Star_Wars_Holiday_Special",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/732670.txt",
+    "plot_year_start": 34,
+    "plot_year_end": 34,
+    "epoch": "ancient-world",
+    "action_countries": [
+      "FICTIONAL"
+    ],
+    "action_continents": [
+      "FICTIONAL"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Star Wars Universe",
+    "failures": {
+      "categories": "missing_category_list"
+    }
+  },
+  {
+    "movie_id": 301872,
+    "movie_idx": 9819,
+    "imdb_id": "tt3112206",
+    "title": "Saul: The Journey to Damascus",
+    "production_year": "2014",
+    "genre": "Drama",
+    "plot": "Known as Saul the Butcher, the stoning of Stephen was said to have shattered Saul's faith in the Temple and its denial of Christ as the Messiah. His conversion to Christianity and baptism as Paul changed the history of the world.",
+    "runtime": "86 min",
+    "director": "Mario Azzopardi",
+    "actors": "John Rhys-Davies, Emmanuelle Vaugier, Callum Blue",
+    "production_country": "Malta, Canada",
+    "poster": "https://m.media-amazon.com/images/M/MV5BODkwODA4MzI0MF5BMl5BanBnXkFtZTgwMTY1NTkyOTE@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/301872.webp",
+    "imdb_rating": "6.3",
+    "imdb_votes": "465",
+    "plot_year_start": 33,
+    "plot_year_end": 33,
+    "epoch": "ancient-world",
+    "action_countries": [
+      "FICTIONAL"
+    ],
+    "action_continents": [
+      "FICTIONAL"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "failures": {
+      "wikipedia": "no_wiki_article_found",
+      "categories": "missing_category_list"
+    }
+  }
+]

@@ -1,0 +1,101 @@
+[
+  {
+    "movie_id": 445030,
+    "movie_idx": 4596,
+    "imdb_id": "tt5914996",
+    "title": "No Game No Life: Zero",
+    "production_year": "2017",
+    "genre": "Animation, Adventure, Drama",
+    "plot": "The Movie following the light novel series by the same name, No Game, No Life the movie picks up on volume 6 (The TV series leaves off on the end of volume 3, but the story in Volume 6 doesn't reference the events of Volume 4 or 5, which have yet to be animated) The \"One True God\" Tet tells the story of Immanity's (humanity's) struggle through the Great War and how he came to be the \"One True God\". The lack of magic circuits in the Imannity race becomes apparent when details of the war fall into place. The true power of intellect is shown in this epic arc which acts as the prequel to the No Game, No Life universe.",
+    "runtime": "110 min",
+    "director": "Atsuko Ishizuka",
+    "actors": "Alexandra Bedford, Jessica Boone, Ricardo Contreras",
+    "production_country": "Japan",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTRhOTU3NmEtMzg4My00YmM0LWE5NWEtYjM5NDJlNDc1MGE1XkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/445030.webp",
+    "imdb_rating": "7.3",
+    "imdb_votes": "5,305",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/No_Game_No_Life:_Zero",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/445030.txt",
+    "plot_year_start": -6000,
+    "plot_year_end": -6000,
+    "epoch": "prehistoric-world",
+    "action_countries": [
+      "FICTIONAL"
+    ],
+    "action_continents": [
+      "FICTIONAL"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "No Game No Life Universe",
+    "failures": {
+      "categories": "missing_category_list"
+    }
+  },
+  {
+    "movie_id": 9626,
+    "movie_idx": 5104,
+    "imdb_id": "tt0089893",
+    "title": "Red Sonja",
+    "production_year": "1985",
+    "genre": "Action, Adventure, Fantasy",
+    "plot": "The tyrant Gedren seeks the total power in a world of barbarism. She attacks and kills the keepers of a powerful talisman just before it is destroyed. Gedren then uses the power of the talisman in her raid of the city Hablac. Red Sonja, sister of the keeper, sets out with her magic sword to overthrow Gedren. The talisman's master Kalidor follows to protect her. Of course they fall in love - however Red Sonja's power bases on the oath to never give herself to any man...",
+    "runtime": "89 min",
+    "director": "Richard Fleischer",
+    "actors": "Arnold Schwarzenegger, Brigitte Nielsen, Sandahl Bergman",
+    "production_country": "United States, Netherlands, Italy",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMDkyOWJhYTktNDdlZC00MzEzLWJhY2ItYmMzYzlmMGQyNzNmXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/9626.webp",
+    "imdb_rating": "5.1",
+    "imdb_votes": "47,202",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Red_Sonja_(1985_film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/9626.txt",
+    "plot_year_start": -10000,
+    "plot_year_end": -10000,
+    "epoch": "prehistoric-world",
+    "action_countries": [
+      "FICTIONAL"
+    ],
+    "action_continents": [
+      "FICTIONAL"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "FICTIONAL",
+    "failures": {
+      "categories": "missing_category_list"
+    }
+  },
+  {
+    "movie_id": 387893,
+    "movie_idx": 5594,
+    "imdb_id": "tt5480340",
+    "title": "Ice Age: The Great Egg-Scapade",
+    "production_year": "2016",
+    "genre": "Animation, Adventure, Comedy",
+    "plot": "Scrat, Manny, Sid, Diego and the rest of your prehistoric pals from Ice Age are back for an all-new hilarious animated adventure! Business is booming at Sid's new egg-sitting service but when the dastardly pirate bunny Squint steals the eggs, Manny, Diego, and the rest of the gang take off on a daring rescue mission that turns into the world's first egg hunt.",
+    "runtime": "25 min",
+    "director": "Ricardo Curtis, Steve Martino, Michael Thurmeier",
+    "actors": "Blake Anderson, David Cowgill, Maria Criscuolo",
+    "production_country": "United Kingdom, United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTBkOTUyNzUtYjU4OC00ZjU4LWExZmItZjNjYWFhYmRiNDAyXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/387893.webp",
+    "imdb_rating": "5.9",
+    "imdb_votes": "4,312",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Ice_Age:_The_Great_Egg-Scapade",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/387893.txt",
+    "plot_year_start": -7000,
+    "plot_year_end": -7000,
+    "epoch": "prehistoric-world",
+    "action_countries": [
+      "FICTIONAL"
+    ],
+    "action_continents": [
+      "FICTIONAL"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Ice Age Universe",
+    "failures": {
+      "categories": "missing_category_list"
+    }
+  }
+]

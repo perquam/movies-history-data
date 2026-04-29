@@ -1,0 +1,529 @@
+[
+  {
+    "movie_id": 527774,
+    "movie_idx": 464,
+    "imdb_id": "tt5109280",
+    "title": "Raya and the Last Dragon",
+    "production_year": "2021",
+    "genre": "Animation, Action, Adventure",
+    "plot": "Long ago, in the fantasy world of Kumandra, humans and dragons lived together in harmony. However, when sinister monsters known as the Druun threatened the land, the dragons sacrificed themselves to save humanity. Now, 500 years later, those same monsters have returned, and it's up to a lone warrior to track down the last dragon and stop the Druun for good.",
+    "runtime": "107 min",
+    "director": "Don Hall, Carlos López Estrada, Paul Briggs",
+    "actors": "Kelly Marie Tran, Awkwafina, Gemma Chan",
+    "production_country": "United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BN2QzZTQ3MzktN2JiYS00MDEzLTgxMWQtZWFmMDI3NWFkZTY0XkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/527774.webp",
+    "imdb_rating": "7.3",
+    "imdb_votes": "186,413",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Raya_and_the_Last_Dragon",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/527774.txt",
+    "plot_year_start": 1500,
+    "plot_year_end": 1506,
+    "epoch": "medieval-world",
+    "action_countries": [
+      "FICTIONAL"
+    ],
+    "action_continents": [
+      "FICTIONAL"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "failures": {
+      "categories": "missing_category_list"
+    }
+  },
+  {
+    "movie_id": 10191,
+    "movie_idx": 637,
+    "imdb_id": "tt0892769",
+    "title": "How to Train Your Dragon",
+    "production_year": "2010",
+    "genre": "Animation, Action, Adventure",
+    "plot": "Long ago up North on the Island of Berk, the young Viking, Hiccup, wants to join his town's fight against the dragons that continually raid their town. However, his macho father and village leader, Stoik the Vast, will not allow his small, clumsy, but inventive son to do so. Regardless, Hiccup ventures out into battle and downs a mysterious Night Fury dragon with his invention, but can't bring himself to kill it. Instead, Hiccup and the dragon, whom he dubs Toothless, begin a friendship that would open up both their worlds as the observant boy learns that his people have misjudged the species. But even as the two each take flight in their own way, they find that they must fight the destructive ignorance plaguing their world.",
+    "runtime": "98 min",
+    "director": "Dean DeBlois, Chris Sanders",
+    "actors": "Jay Baruchel, Gerard Butler, Christopher Mintz-Plasse",
+    "production_country": "United Kingdom, France, United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjA5NDQyMjc2NF5BMl5BanBnXkFtZTcwMjg5ODcyMw@@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/10191.webp",
+    "imdb_rating": "8.1",
+    "imdb_votes": "882,954",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/How_to_Train_Your_Dragon_(2010_film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/10191.txt",
+    "plot_year_start": 800,
+    "plot_year_end": 900,
+    "epoch": "medieval-world",
+    "action_countries": [
+      "FICTIONAL"
+    ],
+    "action_continents": [
+      "FICTIONAL"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "FICTIONAL",
+    "failures": {
+      "categories": "missing_category_list"
+    }
+  },
+  {
+    "movie_id": 961323,
+    "movie_idx": 657,
+    "imdb_id": "tt19500164",
+    "title": "Nimona",
+    "production_year": "2023",
+    "genre": "Animation, Action, Adventure",
+    "plot": "When a knight in a futuristic medieval world is framed for a crime he didn't commit, the only one who can help him prove his innocence is Nimona -- a mischievous teen who happens to be a shapeshifting creature he's sworn to destroy.",
+    "runtime": "101 min",
+    "director": "Nick Bruno, Troy Quane",
+    "actors": "Chloë Grace Moretz, Riz Ahmed, Eugene Lee Yang",
+    "production_country": "United States, United Kingdom, France",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjIyMmY0MWYtZGRkMC00MjhhLTgwNGUtYWVjZmQ4YjhjZWRmXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/961323.webp",
+    "imdb_rating": "7.5",
+    "imdb_votes": "59,981",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Nimona_(film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/961323.txt",
+    "plot_year_start": 1000,
+    "plot_year_end": 1000,
+    "epoch": "medieval-world",
+    "action_countries": [
+      "FICTIONAL"
+    ],
+    "action_continents": [
+      "FICTIONAL"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "failures": {
+      "categories": "missing_category_list"
+    }
+  },
+  {
+    "movie_id": 290271,
+    "movie_idx": 714,
+    "imdb_id": "tt5098548",
+    "title": "One Piece: 3D2Y - Overcome Ace's Death! Luffy's Vow to His Friends",
+    "production_year": "2014",
+    "genre": "Animation, Action, Adventure",
+    "plot": "The special takes place during the two year before the Straw Hats reunite on Sabaody. Luffy is currently in Rusukaina training to get stronger to take on the New World. However the training is interrupted when Hancock's sisters, Marigold and Sandersonia, are kidnapped by the Byrnndi World, a pirate who was locked away on Level 6 of Impel Down but escaped during Luffy's invasion to save Ace, in order to lure Hancock to him and use her as a hostage against the World Government due to her Shichibukai status. Thus Luffy and Hancock head off to confront him and save Hancock's sisters.",
+    "runtime": "108 min",
+    "director": "Naoyuki Itô",
+    "actors": "Felecia Angelle, Ryôhei Arai, Sôta Arai",
+    "production_country": "Japan",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZTJlNjI5NWYtMDg0ZS00YTk3LThkMzgtY2YxMjA2MTQ2OGVkXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/290271.webp",
+    "imdb_rating": "7.5",
+    "imdb_votes": "2,332",
+    "plot_year_start": 1546,
+    "plot_year_end": 1548,
+    "epoch": "medieval-world",
+    "action_countries": [
+      "FICTIONAL"
+    ],
+    "action_continents": [
+      "FICTIONAL"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "One Piece",
+    "failures": {
+      "wikipedia": "no_wiki_article_found",
+      "categories": "missing_category_list"
+    }
+  },
+  {
+    "movie_id": 44251,
+    "movie_idx": 792,
+    "imdb_id": "tt0142239",
+    "title": "Dragon Ball Z: Broly - Second Coming",
+    "production_year": "1994",
+    "genre": "Animation, Action, Adventure",
+    "plot": "Seven years have passed since Goku's defeat of Broly, which culminated with Broly being blasted to Earth and frozen over while in a coma. Now, Gohan has grown up, Goten is born, and Goku has died. While Goten, Trunks, and Videl are looking for the dragon balls, they come across a village that is being terrorized by a monster. They decide to help, but as they are waiting for the monster to appear, the sound of Goten's crying causes Broly to regain consciousness, seeking revenge! But, how will the Z warriors repel his might without Goku?",
+    "runtime": "48 min",
+    "director": "Shigeyasu Yamauchi",
+    "actors": "Masako Nozawa, Mayumi Tanaka, Takeshi Kusao",
+    "production_country": "Japan",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYTg5Y2EyYTItOTc2OS00NWRjLWJjNzEtZjdlNzJiZDI1MmNhXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/44251.webp",
+    "imdb_rating": "6.5",
+    "imdb_votes": "7,195",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Dragon_Ball_Z:_Broly_%E2%80%93_Second_Coming",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/44251.txt",
+    "plot_year_start": 778,
+    "plot_year_end": 778,
+    "epoch": "medieval-world",
+    "action_countries": [
+      "FICTIONAL"
+    ],
+    "action_continents": [
+      "FICTIONAL"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Dragon Ball",
+    "failures": {
+      "categories": "missing_category_list"
+    }
+  },
+  {
+    "movie_id": 761851,
+    "movie_idx": 1956,
+    "imdb_id": "tt8277246",
+    "title": "His Only Son",
+    "production_year": "2023",
+    "genre": "Drama, History",
+    "plot": "After being called on by the Lord, Abraham's faith is tested on his three day journey to sacrifice his son.",
+    "runtime": "106 min",
+    "director": "David Helling",
+    "actors": "Daniel da Silva, Nicolas Mouawad, Sara Seyed",
+    "production_country": "United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNDVmZDM5ODItN2EzYS00M2QyLTgwOTQtYTJjZWFmZDk3Yjk3XkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/761851.webp",
+    "imdb_rating": "5.9",
+    "imdb_votes": "2,919",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/His_Only_Son",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/761851.txt",
+    "plot_year_start": 30,
+    "plot_year_end": 2000,
+    "epoch": "medieval-world",
+    "action_countries": [
+      "FICTIONAL"
+    ],
+    "action_continents": [
+      "FICTIONAL"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "failures": {
+      "categories": "missing_category_list"
+    }
+  },
+  {
+    "movie_id": 144288,
+    "movie_idx": 2131,
+    "imdb_id": "tt2358913",
+    "title": "Berserk: The Golden Age Arc III - The Advent",
+    "production_year": "2013",
+    "genre": "Animation, Action, Adventure",
+    "plot": "A year has passed since Guts parted ways with Griffith. The Band of the Hawks is plotting a rescue mission to save Griffith who is confined to prison. One night, a group of assassins attack the band, and a bloody battle for survival begins. Just as things are beginning to look grim for them, Guts reappears and saves them. Guts rejoins his friends and embarks on a mission to save Griffith, however.",
+    "runtime": "110 min",
+    "director": "Toshiyuki Kubooka",
+    "actors": "Marc Diraison, Hiroaki Iwanaga, Carrie Keranen",
+    "production_country": "Japan",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYzNkOGUxOTUtMWVkNy00YjcxLWEzZTYtYTRhNTIwMWFmOGYyXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/144288.webp",
+    "imdb_rating": "7.8",
+    "imdb_votes": "12,207",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Berserk:_The_Golden_Age_Arc",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/144288.txt",
+    "plot_year_start": 1400,
+    "plot_year_end": 1450,
+    "epoch": "medieval-world",
+    "action_countries": [
+      "FICTIONAL"
+    ],
+    "action_continents": [
+      "FICTIONAL"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "FICTIONAL",
+    "failures": {
+      "categories": "missing_category_list"
+    }
+  },
+  {
+    "movie_id": 32516,
+    "movie_idx": 3767,
+    "imdb_id": "tt1465840",
+    "title": "The Forbidden Legend: Sex & Chopsticks 2",
+    "production_year": "2009",
+    "genre": "Comedy, Drama",
+    "plot": "Like its predecessor, this no-holds-barred sequel from Hong Kong - a piece of ultra-exploitation adapted from the famed 17th century Chinese novel The Plum in the Golden Vase - attained instant notoriety for layering on graphic violence and sex in copious quantities. Lam Wai-Kin reprises his role as Simon Qing. In the prior installment, Qing had sex with a virginal nun, then bedded a concubine, Lotus (Serina Hayakawa) and conspired with her to rub out her dwarf husband, Wu Da-Lang (Ng Chi-Hung). This time around, Simon ostensibly still has relationships with both of the said women but has regressed into a sex addict with fetishistic leanings. As the story unfurls, he attempts to ravish many more women, including his friend Hua Xizu's (Tam Kon-Chung) wife Pinky (Kaera Uehara), whose husband he plans to murder while he's at it. At about the same time, Wu Song (Wu Qing-Zhe), the brother of the murdered Wu Da-Lang, schemes to off Simon. Simon sees it coming but doesn't count on Wu soliciting the help of ex-sister-in-law Lotus, with whom he once had a torrid affair",
+    "runtime": "93 min",
+    "director": "Man-Kei Chin",
+    "actors": "Hikaru Wakana, Kaera Uehara, Serina Hayakawa",
+    "production_country": "Hong Kong, Japan",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNGM1MmU1YTgtZDBlYi00ZTRkLWE1ZWQtMDIyYTE4ZTNjMDk4XkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/32516.webp",
+    "imdb_rating": "4.6",
+    "imdb_votes": "672",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Forbidden_Legend:_Sex_%26_Chopsticks_2",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/32516.txt",
+    "plot_year_start": 1590,
+    "plot_year_end": 1590,
+    "epoch": "medieval-world",
+    "action_countries": [
+      "FICTIONAL"
+    ],
+    "action_continents": [
+      "FICTIONAL"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "failures": {
+      "categories": "missing_category_list"
+    }
+  },
+  {
+    "movie_id": 370964,
+    "movie_idx": 3851,
+    "imdb_id": "tt4057376",
+    "title": "I Am Dragon",
+    "production_year": "2015",
+    "genre": "Adventure, Fantasy, Romance",
+    "plot": "In the midst of the wedding princess Miroslava is kidnapped by a dragon and carried away into his castle on the remote island.",
+    "runtime": "110 min",
+    "director": "Indar Dzhendubaev",
+    "actors": "Matvey Lykov, Mariya Poezzhaeva, Stanislav Lyubshin",
+    "production_country": "Russia",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYjE0ZWNjNWMtNjlmMS00Mjc5LWI5YmItYjE5OWIyMzY3MDA5XkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/370964.webp",
+    "imdb_rating": "6.8",
+    "imdb_votes": "6,993",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/He%27s_a_Dragon",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/370964.txt",
+    "plot_year_start": 900,
+    "plot_year_end": 900,
+    "epoch": "medieval-world",
+    "action_countries": [
+      "FICTIONAL"
+    ],
+    "action_continents": [
+      "FICTIONAL"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "failures": {
+      "categories": "missing_category_list"
+    }
+  },
+  {
+    "movie_id": 170657,
+    "movie_idx": 3969,
+    "imdb_id": "tt2017561",
+    "title": "Journey to the West: Conquering the Demons",
+    "production_year": "2013",
+    "genre": "Action, Adventure, Comedy",
+    "plot": "Tang Sanzang, an aspiring Buddhist hero tries to protect a village from three demons. He develops complex feelings for Miss Duan, the demon hunter who repeatedly helps him, and finally quests to meet the legendary Monkey King.",
+    "runtime": "110 min",
+    "director": "Stephen Chow, Chi-Kin Kwok",
+    "actors": "Zhang Wen, Shu Qi, Huang Bo",
+    "production_country": "China, Hong Kong",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTQzMzUxNzk0NV5BMl5BanBnXkFtZTgwMTEwOTE4MDE@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/170657.webp",
+    "imdb_rating": "6.7",
+    "imdb_votes": "15,004",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Journey_to_the_West:_Conquering_the_Demons",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/170657.txt",
+    "plot_year_start": 1000,
+    "plot_year_end": 1000,
+    "epoch": "medieval-world",
+    "action_countries": [
+      "FICTIONAL"
+    ],
+    "action_continents": [
+      "FICTIONAL"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "FICTIONAL",
+    "failures": {
+      "categories": "missing_category_list"
+    }
+  },
+  {
+    "movie_id": 666243,
+    "movie_idx": 4519,
+    "imdb_id": "tt11657662",
+    "title": "The Witcher: Nightmare of the Wolf",
+    "production_year": "2021",
+    "genre": "Animation, Action, Adventure",
+    "plot": "The world of The Witcher expands in this anime origin story: Before Geralt, there was his mentor Vesemir a swashbuckling young witcher who escaped a life of poverty to slay monsters for coin. But when a strange new monster begins terrorizing a politically-fraught kingdom, Vesemir finds himself on a frightening adventure that forces him to confront the demons of his past.",
+    "runtime": "83 min",
+    "director": "Kwang Il Han",
+    "actors": "Theo James, Mary McDonnell, Lara Pulver",
+    "production_country": "South Korea, United States, Japan, Poland, China",
+    "poster": "https://m.media-amazon.com/images/M/MV5BODQzNDE4N2ItZDAwMC00YzA3LTkwMTEtZDgyMjE3M2ZiY2NiXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/666243.webp",
+    "imdb_rating": "7.2",
+    "imdb_votes": "54,845",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Witcher:_Nightmare_of_the_Wolf",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/666243.txt",
+    "plot_year_start": 1165,
+    "plot_year_end": 1165,
+    "epoch": "medieval-world",
+    "action_countries": [
+      "FICTIONAL"
+    ],
+    "action_continents": [
+      "FICTIONAL"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "The Witcher Universe",
+    "failures": {
+      "categories": "missing_category_list"
+    }
+  },
+  {
+    "movie_id": 462650,
+    "movie_idx": 4822,
+    "imdb_id": "tt7042082",
+    "title": "Puss in Book: Trapped in an Epic Tale",
+    "production_year": "2017",
+    "genre": "Animation, Short, Action",
+    "plot": "While out fighting off ninja pirates, Puss stumbles on a fairy tale book. When he opens it, the adventure begins, as the viewer must choose each outcome, eventually freeing Puss from the book.",
+    "runtime": "23 min",
+    "director": "Roy Burdine, Johnny Castuciano",
+    "actors": "Eric Bauza, Jayma Mays, Maria Bamford",
+    "production_country": "United States, Canada",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMThhNjQzNWQtNmE2Yy00MWVhLTk2ZTQtNmIyYjhjOWIwMTAxXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/462650.webp",
+    "imdb_rating": "5.2",
+    "imdb_votes": "842",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Adventures_of_Puss_in_Boots",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/462650.txt",
+    "plot_year_start": 1510,
+    "plot_year_end": 1510,
+    "epoch": "medieval-world",
+    "action_countries": [
+      "FICTIONAL"
+    ],
+    "action_continents": [
+      "FICTIONAL"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Shrek Universe",
+    "failures": {
+      "categories": "missing_category_list"
+    }
+  },
+  {
+    "movie_id": 676705,
+    "movie_idx": 5332,
+    "imdb_id": "tt15091284",
+    "title": "Pil's Adventures",
+    "production_year": "2021",
+    "genre": "Animation, Adventure, Family",
+    "plot": "Pil, a little orphan, lives in the streets of the city of Roc-en-Brume. With her three tamed weasels, she survives by going to steal food from the castle of the sinister regent Tristain, who usurps the throne. One fine day, to escape the guards chasing her, Pil disguises himself by putting on a princess dress. Here she is then embarked in spite of herself on a mad and delirious quest to save Roland, the heir to the throne victim of an enchantment and transformed into ... (catchicken) (half cat, half hen). An adventure that will turn the whole kingdom upside down and teach Pil that nobility can be found in all of us.",
+    "runtime": "89 min",
+    "director": "Julien Fournet",
+    "actors": "Kaycie Chase, Paul Borne, Julien Crampon",
+    "production_country": "France",
+    "poster": "https://m.media-amazon.com/images/M/MV5BN2ZmMjlkMmYtNjEwZi00ZDIzLWI4MjYtNDc5MzU2Yjg1YzU5XkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/676705.webp",
+    "imdb_rating": "6.1",
+    "imdb_votes": "1,430",
+    "wikipedia_url": "https://fr.wikipedia.org/wiki/Pil_(film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/676705.txt",
+    "plot_year_start": 1300,
+    "plot_year_end": 1300,
+    "epoch": "medieval-world",
+    "action_countries": [
+      "FICTIONAL"
+    ],
+    "action_continents": [
+      "FICTIONAL"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "failures": {
+      "categories": "missing_category_list"
+    }
+  },
+  {
+    "movie_id": 666750,
+    "movie_idx": 5947,
+    "imdb_id": "tt9711106",
+    "title": "Dragonheart Vengeance",
+    "production_year": "2020",
+    "genre": "Action, Adventure, Drama, Fantasy, Sci-Fi",
+    "plot": "Lukas, a young farmer whose family is killed by savage raiders in the countryside, sets out on an epic quest for revenge, forming an unlikely trio with a majestic dragon and a swashbuckling, sword-fighting mercenary, Darius.",
+    "runtime": "97 min",
+    "director": "Ivan Silvestrini",
+    "actors": "Helena Bonham Carter, Joseph Millson, Jack Kane, Arturo Muselli",
+    "production_country": "USA",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZDZiZWU2NTUtMzYyZS00ZWE3LTlhOGMtNjRhOGNjYmZkYjliXkEyXkFqcGdeQXVyMTY5Nzc4MDY@._V1_SX300.jpg",
+    "imdb_rating": "5.3",
+    "imdb_votes": "1,637",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Dragonheart:_Vengeance",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/666750.txt",
+    "plot_year_start": 1300,
+    "plot_year_end": 1301,
+    "epoch": "medieval-world",
+    "action_countries": [
+      "FICTIONAL"
+    ],
+    "action_continents": [
+      "FICTIONAL"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Dragonheart Universe",
+    "failures": {
+      "poster": "poster_download_failed",
+      "categories": "missing_category_list"
+    }
+  },
+  {
+    "movie_id": 503314,
+    "movie_idx": 6512,
+    "imdb_id": "tt7961060",
+    "title": "Dragon Ball Super: Broly",
+    "production_year": "2018",
+    "genre": "Animation, Action, Adventure",
+    "plot": "Goku and Vegeta encounter Broly, a Saiyan warrior unlike any fighter they've faced before.",
+    "runtime": "100 min",
+    "director": "Tatsuya Nagamine",
+    "actors": "Masako Nozawa, Aya Hisakawa, Ryô Horikawa",
+    "production_country": "Japan",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTA5MTc1M2EtZWQ2Ni00ZmU2LTg3MzQtOTliMjE4OGM0ZWFiXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/503314.webp",
+    "imdb_rating": "7.7",
+    "imdb_votes": "36,278",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Dragon_Ball_Super:_Broly",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/503314.txt",
+    "plot_year_start": 780,
+    "plot_year_end": 780,
+    "epoch": "medieval-world",
+    "action_countries": [
+      "FICTIONAL"
+    ],
+    "action_continents": [
+      "FICTIONAL"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Dragon Ball Universe",
+    "failures": {
+      "categories": "missing_category_list"
+    }
+  },
+  {
+    "movie_id": 506763,
+    "movie_idx": 9690,
+    "imdb_id": "tt6869538",
+    "title": "Detective Dee: The Four Heavenly Kings",
+    "production_year": "2018",
+    "genre": "Action, Adventure, Drama",
+    "plot": "Detective Dee is forced to defend himself against the accusations of Empress Wu while investigating a crime spree.",
+    "runtime": "132 min",
+    "director": "Hark Tsui",
+    "actors": "Lufei Huang, Carina Lau, Mark Chao",
+    "production_country": "China, Hong Kong",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNjIzY2Y5ZDMtMzE4NS00NDQyLWEyMmMtNGY1Y2MzY2RkN2Q2XkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/506763.webp",
+    "imdb_rating": "6.3",
+    "imdb_votes": "3,296",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Detective_Dee:_The_Four_Heavenly_Kings",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/506763.txt",
+    "plot_year_start": 690,
+    "plot_year_end": 690,
+    "epoch": "medieval-world",
+    "action_countries": [
+      "FICTIONAL"
+    ],
+    "action_continents": [
+      "FICTIONAL"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "failures": {
+      "categories": "missing_category_list"
+    }
+  }
+]

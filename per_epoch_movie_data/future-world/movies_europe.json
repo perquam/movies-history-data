@@ -1,0 +1,540 @@
+[
+  {
+    "movie_id": 428078,
+    "movie_idx": 1344,
+    "imdb_id": "tt1571234",
+    "title": "Mortal Engines",
+    "production_year": "2018",
+    "genre": "Action, Adventure, Fantasy",
+    "plot": "A mysterious young woman, Hester Shaw, emerges as the only one who can stop a giant, predator city on wheels devouring everything in its path. Feral, and fiercely driven by the memory of her mother, Hester joins forces with Tom Natsworthy, an outcast from London, along with Anna Fang, a dangerous outlaw with a bounty on her head.",
+    "runtime": "128 min",
+    "director": "Christian Rivers",
+    "actors": "Hera Hilmar, Robert Sheehan, Hugo Weaving",
+    "production_country": "New Zealand, United States, China, Japan",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNzY1MDA2OTQ0N15BMl5BanBnXkFtZTgwMTkzNjU2NTM@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/428078.webp",
+    "imdb_rating": "6.1",
+    "imdb_votes": "151,648",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Mortal_Engines_(film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/428078.txt",
+    "plot_year_start": 3020,
+    "plot_year_end": 3020,
+    "epoch": "future-world",
+    "action_countries": [
+      "GB",
+      "FICTIONAL"
+    ],
+    "action_continents": [
+      "Europe",
+      "FICTIONAL"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "war damage still shaping the built world",
+        "description": "Recent or long-past wars have left Europe physically altered, politically hardened, and full of places designed around emergency rather than peace. What you'll see: militarized borders, shattered districts, fortified checkpoints, ruined infrastructure, and cities rebuilt with conflict always in mind.",
+        "icon": "🪖"
+      },
+      {
+        "label": "great systems ruling in place of states",
+        "description": "Power often sits with vast organizations, managers, or federated authorities whose reach extends deeper into daily life than older civic institutions. What you'll see: omnipresent administrators, branded services that govern basic needs, bureaucratic decrees, and citizens treated as units inside a larger apparatus.",
+        "icon": "🏢"
+      }
+    ]
+  },
+  {
+    "movie_id": 732459,
+    "movie_idx": 1346,
+    "imdb_id": "tt12610794",
+    "title": "Blade of the 47 Ronin",
+    "production_year": "2022",
+    "genre": "Action, Drama, Fantasy",
+    "plot": "Ancient Japanese Ronin warriors set 300 years after 47 Ronin, in a modern-day world where Samurai clans exist in complete secrecy.",
+    "runtime": "107 min",
+    "director": "Ron Yuan",
+    "actors": "Anna Akana, Mark Dacascos, Teresa Ting",
+    "production_country": "United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BM2E0YjRiZTEtZjdlYi00MzgyLTkyYTYtYjE3ZGI4N2Q0YzhjXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/732459.webp",
+    "imdb_rating": "4.7",
+    "imdb_votes": "2,096",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Blade_of_the_47_Ronin",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/732459.txt",
+    "plot_year_start": 2313,
+    "plot_year_end": 2313,
+    "epoch": "future-world",
+    "action_countries": [
+      "HU"
+    ],
+    "action_continents": [
+      "Europe"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "old loyalties surviving inside high technology",
+        "description": "Even amid advanced machines, older codes of honor, clan ties, and inherited ranks still shape conduct and belonging. What you'll see: secret orders, ritualized violence, formal hierarchies, ancestral symbols carried into neon settings, and ancient customs dressed in new materials.",
+        "icon": "🛡️"
+      },
+      {
+        "label": "great systems ruling in place of states",
+        "description": "Power often sits with vast organizations, managers, or federated authorities whose reach extends deeper into daily life than older civic institutions. What you'll see: omnipresent administrators, branded services that govern basic needs, bureaucratic decrees, and citizens treated as units inside a larger apparatus.",
+        "icon": "🏢"
+      }
+    ]
+  },
+  {
+    "movie_id": 64635,
+    "movie_idx": 1642,
+    "imdb_id": "tt1386703",
+    "title": "Total Recall",
+    "production_year": "2012",
+    "genre": "Action, Adventure, Sci-Fi",
+    "plot": "A remake of the film Total Recall (1990), author Philip K. Dick's classic Sci-Fi short story We Can Remember It for You Wholesale returns to the big screen starring Colin Farrell, Bryan Cranston, and Kate Beckinsale, and directed by Underworld's Len Wiseman. The planet has been decimated by chemical war in the late 21st century, leaving only two nations -- the United Federation of Britain and the Colony. Douglas Quaid (Farrell) is a factory worker with a stable job and a loving wife (Beckinsale), but upon learning that a company named Rekall could grant him the memory of the ultimate espionage adventure, he decides to take a virtual vacation. But in the midst of having the new memories implanted, something goes haywire. He's branded a spy, the authorities close in, and he quickly flees for his life. Later, Quaid discovers that his life and memories were implanted. He joins forces with rebel soldier Melina (Jessica Biel) on a mission to track down Matthias (Bill Nighy), the head of a resistance movement that's been labeled a terrorist organization by the tyrannical Chancellor Cohaagen (Bryan Cranston). Cohaagen seeks to control the entire free world. The harder Quaid fights to defeat him, the clearer it becomes that his memory had been altered long before he walked into Rekall.",
+    "runtime": "118 min",
+    "director": "Len Wiseman",
+    "actors": "Colin Farrell, Bokeem Woodbine, Bryan Cranston",
+    "production_country": "United Kingdom, Canada, United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BOWYzNDNiYzUtNWMwOS00YmFkLTkzN2UtYmVmOGJlNDdjZWUyXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/64635.webp",
+    "imdb_rating": "6.2",
+    "imdb_votes": "275,611",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Total_Recall_(2012_film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/64635.txt",
+    "plot_year_start": 2090,
+    "plot_year_end": 2099,
+    "epoch": "future-world",
+    "action_countries": [
+      "GB",
+      "AU"
+    ],
+    "action_continents": [
+      "Europe",
+      "Oceania"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "climate and ruin remaking familiar landscapes",
+        "description": "The natural order has been badly disturbed, whether by war, failed schemes, or long neglect, so old European environments no longer behave as expected. What you'll see: strange weather, drowned or wasted ground, forests where they should not be, poisoned zones, and landmarks surviving in damaged surroundings.",
+        "icon": "🌪️"
+      },
+      {
+        "label": "human bodies altered by science and craft",
+        "description": "Bodies are no longer fixed inheritances, because medicine, engineering, and alien contact can repair, weaponize, or transform them in unequal ways. What you'll see: hybrids, androids, implants, specialized abilities, surgical interventions, and the social unease that follows altered flesh.",
+        "icon": "🦾"
+      }
+    ]
+  },
+  {
+    "movie_id": 893694,
+    "movie_idx": 2087,
+    "imdb_id": "tt16757252",
+    "title": "Eva",
+    "production_year": "2021",
+    "genre": "Drama, Romance",
+    "plot": "When Eva, a young housemaid, gets involved in a steamy threesome with a houseboy and her lady boss, she realizes she has to choose only one of them.",
+    "runtime": "95 min",
+    "director": "Jeffrey Hidalgo",
+    "actors": "Angeli Khang, Ava Mendez, Marco Gomez",
+    "production_country": "Philippines",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYjlhYmE5MGUtYWIzMi00NzAyLWI4NTktOGI5ZGRlN2FjNzg5XkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/893694.webp",
+    "imdb_rating": "4.6",
+    "imdb_votes": "786",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Eva_(2011_film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/893694.txt",
+    "plot_year_start": 2043,
+    "plot_year_end": 2043,
+    "epoch": "future-world",
+    "action_countries": [
+      "ES"
+    ],
+    "action_continents": [
+      "Europe"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "human bodies altered by science and craft",
+        "description": "Bodies are no longer fixed inheritances, because medicine, engineering, and alien contact can repair, weaponize, or transform them in unequal ways. What you'll see: hybrids, androids, implants, specialized abilities, surgical interventions, and the social unease that follows altered flesh.",
+        "icon": "🦾"
+      }
+    ]
+  },
+  {
+    "movie_id": 560144,
+    "movie_idx": 2758,
+    "imdb_id": "tt9387250",
+    "title": "Skylines",
+    "production_year": "2020",
+    "genre": "Action, Adventure, Sci-Fi",
+    "plot": "When a virus threatens to turn the now earth-dwelling friendly alien hybrids against humans, Captain Rose Corley must lead a team of elite mercenaries on a mission to the alien world in order to save what's left of humanity.",
+    "runtime": "113 min",
+    "director": "Liam O'Donnell",
+    "actors": "Lindsey Morgan, Jonathan Howard, Daniel Bernhardt",
+    "production_country": "United States, United Kingdom, France, Lithuania, Spain",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZWVmYTAwNzMtN2I0ZS00OTU2LThjMTctOTlkZjYwOTkyZjEyXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/560144.webp",
+    "imdb_rating": "4.8",
+    "imdb_votes": "10,131",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Skylines_(film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/560144.txt",
+    "plot_year_start": 2030,
+    "plot_year_end": 2036,
+    "epoch": "future-world",
+    "action_countries": [
+      "GB",
+      "UNKNOWN"
+    ],
+    "action_continents": [
+      "Europe",
+      "UNKNOWN"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "human bodies altered by science and craft",
+        "description": "Bodies are no longer fixed inheritances, because medicine, engineering, and alien contact can repair, weaponize, or transform them in unequal ways. What you'll see: hybrids, androids, implants, specialized abilities, surgical interventions, and the social unease that follows altered flesh.",
+        "icon": "🦾"
+      },
+      {
+        "label": "great systems ruling in place of states",
+        "description": "Power often sits with vast organizations, managers, or federated authorities whose reach extends deeper into daily life than older civic institutions. What you'll see: omnipresent administrators, branded services that govern basic needs, bureaucratic decrees, and citizens treated as units inside a larger apparatus.",
+        "icon": "🏢"
+      }
+    ]
+  },
+  {
+    "movie_id": 775996,
+    "movie_idx": 4069,
+    "imdb_id": "tt10451914",
+    "title": "Outside the Wire",
+    "production_year": "2021",
+    "genre": "Action, Adventure, Fantasy",
+    "plot": "When disgraced drone pilot, Lt. Harp (Damson Idris) is sent into a deadly militarized zone after disobeying orders, he finds himself working for Capt. Leo (Anthony Mackie), an android officer tasked with locating a doomsday device before insurgents do.",
+    "runtime": "114 min",
+    "director": "Mikael Håfström",
+    "actors": "Anthony Mackie, Damson Idris, Enzo Cilenti",
+    "production_country": "Hungary, United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZTM2ZTFjMTctNmJjNS00OTkwLWIxOWEtY2NjMDI3NTJmNmMxXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/775996.webp",
+    "imdb_rating": "5.4",
+    "imdb_votes": "48,187",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Outside_the_Wire",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/775996.txt",
+    "plot_year_start": 2036,
+    "plot_year_end": 2036,
+    "epoch": "future-world",
+    "action_countries": [
+      "UA",
+      "US",
+      "RU"
+    ],
+    "action_continents": [
+      "Europe",
+      "North America",
+      "Europe"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "war damage still shaping the built world",
+        "description": "Recent or long-past wars have left Europe physically altered, politically hardened, and full of places designed around emergency rather than peace. What you'll see: militarized borders, shattered districts, fortified checkpoints, ruined infrastructure, and cities rebuilt with conflict always in mind.",
+        "icon": "🪖"
+      },
+      {
+        "label": "authorities watching life through every device",
+        "description": "Government and management rule through constant records, remote sensing, and fast-acting police power rather than trust or local custom. What you'll see: drone patrols, identity checks, monitored streets, command rooms full of feeds, and citizens hemmed in by surveillance.",
+        "icon": "📡"
+      }
+    ]
+  },
+  {
+    "movie_id": 517096,
+    "movie_idx": 5226,
+    "imdb_id": "tt7176054",
+    "title": "Cosmoball",
+    "production_year": "2020",
+    "genre": "Action, Sci-Fi, Sport",
+    "plot": "2071. Galactic wars have destroyed the Moon and changed the climate on the Earth. Now tropical forests are covering Moscow, while New York is iced all over. A huge alien ship towers over Moscow - it is the stadium where spectacular intergalactic Cosmoball competitions take place. The game combines both sport and gladiator fights. When the game is on, the whole world stops in its tracks to watch it. The players are called Athletes, only they are allowed to contest because of their powers and ability to control them. Everyone adores Cosmoball except Anton - a regular guy who wants to find a job to help his family. But once he reveals his powers and gets to the worlds Cosmoball team. Now he's one of the Athletes. Anton has no idea what special role is destined for him, and that the final game will become the battle for the Earth.",
+    "runtime": "118 min",
+    "director": "Dzhanik Fayziev",
+    "actors": "Viktoriya Agalakova, Georgiy Bestaev, Khristina Blokhina",
+    "production_country": "Russia",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZDU0NWI1NmItMjk5Ny00NjFjLWI1YzAtMzAzMTlkYTk3MDI1XkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/517096.webp",
+    "imdb_rating": "4.7",
+    "imdb_votes": "2,782",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Cosmoball",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/517096.txt",
+    "plot_year_start": 2071,
+    "plot_year_end": 2071,
+    "epoch": "future-world",
+    "action_countries": [
+      "RU",
+      "US"
+    ],
+    "action_continents": [
+      "Europe",
+      "North America"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "climate and ruin remaking familiar landscapes",
+        "description": "The natural order has been badly disturbed, whether by war, failed schemes, or long neglect, so old European environments no longer behave as expected. What you'll see: strange weather, drowned or wasted ground, forests where they should not be, poisoned zones, and landmarks surviving in damaged surroundings.",
+        "icon": "🌪️"
+      },
+      {
+        "label": "mass spectacle used to hold attention",
+        "description": "Public life is organized around enormous entertainments that channel fear, hope, and collective feeling away from the harshness of the age. What you'll see: colossal arenas, wall-sized broadcasts, crowds living by the schedule of a game or event, and pageantry masking deeper instability.",
+        "icon": "🎭"
+      }
+    ]
+  },
+  {
+    "movie_id": 157834,
+    "movie_idx": 5628,
+    "imdb_id": "tt2333804",
+    "title": "The Zero Theorem",
+    "production_year": "2013",
+    "genre": "Comedy, Drama, Fantasy",
+    "plot": "A hugely talented but socially isolated computer operator is tasked by Management to prove the Zero Theorem: that the universe ends as nothing, rendering life meaningless. But meaning is what he already craves.",
+    "runtime": "107 min",
+    "director": "Terry Gilliam",
+    "actors": "Christoph Waltz, Lucas Hedges, Mélanie Thierry",
+    "production_country": "United Kingdom, Romania, France, United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTc4NTIxMTE0OF5BMl5BanBnXkFtZTgwNTQ5NTYxMjE@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/157834.webp",
+    "imdb_rating": "6.0",
+    "imdb_votes": "51,464",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Zero_Theorem",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/157834.txt",
+    "plot_year_start": 2050,
+    "plot_year_end": 2050,
+    "epoch": "future-world",
+    "action_countries": [
+      "RO"
+    ],
+    "action_continents": [
+      "Europe"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "great systems ruling in place of states",
+        "description": "Power often sits with vast organizations, managers, or federated authorities whose reach extends deeper into daily life than older civic institutions. What you'll see: omnipresent administrators, branded services that govern basic needs, bureaucratic decrees, and citizens treated as units inside a larger apparatus.",
+        "icon": "🏢"
+      },
+      {
+        "label": "authorities watching life through every device",
+        "description": "Government and management rule through constant records, remote sensing, and fast-acting police power rather than trust or local custom. What you'll see: drone patrols, identity checks, monitored streets, command rooms full of feeds, and citizens hemmed in by surveillance.",
+        "icon": "📡"
+      }
+    ]
+  },
+  {
+    "movie_id": 956262,
+    "movie_idx": 6718,
+    "imdb_id": "tt4460800",
+    "title": "The Kitchen",
+    "production_year": "2023",
+    "genre": "Action, Adventure, Drama",
+    "plot": "London, 2040 - rising house prices, computerized labour and eradication of the Welfare State has turned the city into a billionaire's playground, pushing the lower classes to provincial empty slum-like high rises like The Kitchen. Ex-Smash-and-Grabber Izi is desperate to go straight but when his young son contracts a devastating illness, he is forced to take part in a heist that will change the lives of everyone in The Kitchen forever.",
+    "runtime": "107 min",
+    "director": "Daniel Kaluuya, Kibwe Tavares",
+    "actors": "Kano, Hope Ikpoku Jnr, Henry Lawfull",
+    "production_country": "United Kingdom, United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYWIyZjA1M2YtOGIzNS00ZTUwLTkyMTctZTk4MWI5MjRhYzVhXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/956262.webp",
+    "imdb_rating": "4.8",
+    "imdb_votes": "8,854",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Kitchen_(2023_film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/956262.txt",
+    "plot_year_start": 2040,
+    "plot_year_end": 2040,
+    "epoch": "future-world",
+    "action_countries": [
+      "GB"
+    ],
+    "action_continents": [
+      "Europe"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "european cities split by wealth and access",
+        "description": "Future Europe is arranged so that comfort, safety, and mobility belong to the rich while workers, migrants, and the unwanted are pushed into harsher districts or leftover ground. What you'll see: luxury towers beside decaying estates, restricted zones, crowded housing blocks, and whole neighbourhoods treated as disposable.",
+        "icon": "🏙️"
+      },
+      {
+        "label": "authorities watching life through every device",
+        "description": "Government and management rule through constant records, remote sensing, and fast-acting police power rather than trust or local custom. What you'll see: drone patrols, identity checks, monitored streets, command rooms full of feeds, and citizens hemmed in by surveillance.",
+        "icon": "📡"
+      }
+    ]
+  },
+  {
+    "movie_id": 401371,
+    "movie_idx": 6984,
+    "imdb_id": "tt1464763",
+    "title": "Mute",
+    "production_year": "2018",
+    "genre": "Mystery, Sci-Fi, Thriller",
+    "plot": "Berlin. Forty years from today. A roiling city of immigrants, where East crashes against West in a science-fiction Casablanca. Leo Beiler (Skarsgard), a mute bartender has one reason and one reason only for living here, and she's disappeared. But when Leo's search takes him deeper into the city's underbelly, an odd pair of American surgeons (led by Rudd) seem to be the only recurring clue, and Leo can't tell if they can help, or who he should fear most.",
+    "runtime": "126 min",
+    "director": "Duncan Jones",
+    "actors": "Alexander Skarsgård, Paul Rudd, Justin Theroux",
+    "production_country": "United Kingdom, Germany",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjAwNTE3MjQ2M15BMl5BanBnXkFtZTgwNjgzNjk2NDM@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/401371.webp",
+    "imdb_rating": "5.5",
+    "imdb_votes": "39,461",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Mute_(2018_film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/401371.txt",
+    "plot_year_start": 2035,
+    "plot_year_end": 2035,
+    "epoch": "future-world",
+    "action_countries": [
+      "DE"
+    ],
+    "action_continents": [
+      "Europe"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "human bodies altered by science and craft",
+        "description": "Bodies are no longer fixed inheritances, because medicine, engineering, and alien contact can repair, weaponize, or transform them in unequal ways. What you'll see: hybrids, androids, implants, specialized abilities, surgical interventions, and the social unease that follows altered flesh.",
+        "icon": "🦾"
+      },
+      {
+        "label": "authorities watching life through every device",
+        "description": "Government and management rule through constant records, remote sensing, and fast-acting police power rather than trust or local custom. What you'll see: drone patrols, identity checks, monitored streets, command rooms full of feeds, and citizens hemmed in by surveillance.",
+        "icon": "📡"
+      }
+    ]
+  },
+  {
+    "movie_id": 810389,
+    "movie_idx": 8797,
+    "imdb_id": "tt9155512",
+    "title": "The Visitor from the Future",
+    "production_year": "2022",
+    "genre": "Action, Adventure, Comedy",
+    "plot": "Alice, a young girl, protest against the construction of a nuclear plant created by her father, a deputy. It is then that a strange visitor take them in 2555, a future devastated by the explosion of the central.",
+    "runtime": "105 min",
+    "director": "François Descraques",
+    "actors": "Arnaud Ducret, Florent Dorin, Enya Baroux",
+    "production_country": "France, Belgium",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMDIxNWYzMjQtZTE0Yi00NGFmLWIyMjYtZWVlZjRmNGNjZWU5XkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/810389.webp",
+    "imdb_rating": "5.8",
+    "imdb_votes": "1,995",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Visitor_(2022_American_film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/810389.txt",
+    "plot_year_start": 2555,
+    "plot_year_end": 2555,
+    "epoch": "future-world",
+    "action_countries": [
+      "FR"
+    ],
+    "action_continents": [
+      "Europe"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "memory and identity open to tampering",
+        "description": "In this world, the mind itself can be edited, simulated, or made uncertain, so personal truth is never entirely secure. What you'll see: implanted recollections, manufactured experiences, therapeutic machines, shifting realities, and people doubting what in their lives is genuine.",
+        "icon": "🧠"
+      }
+    ]
+  },
+  {
+    "movie_id": 2134,
+    "movie_idx": 9228,
+    "imdb_id": "tt0054387",
+    "title": "The Time Machine",
+    "production_year": "1960",
+    "genre": "Adventure, Romance, Sci-Fi",
+    "plot": "On January 5, 1900, a disheveled looking H.G. Wells - George to his friends - arrives late to his own dinner party. He tells his guests of his travels in his time machine, the work about which his friends knew. They were also unbelieving, and skeptical of any practical use if it did indeed work. George knew that his machine was stationary in geographic position, but he did not account for changes in what happens over time to that location. He also learns that the machine is not impervious and he is not immune to those who do not understand him or the machine's purpose. George tells his friends that he did not find the Utopian society he so wished had developed. He mentions specifically a civilization several thousand years into the future which consists of the subterranean morlocks and the surface dwelling eloi, who on first glance lead a carefree life. Despite all these issues, love can still bloom over the spread of millennia.",
+    "runtime": "103 min",
+    "director": "George Pal",
+    "actors": "Rod Taylor, Alan Young, Yvette Mimieux",
+    "production_country": "United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BOGVhNWMxZjktNjhiZS00MzhjLTk5ODUtNjNhYTFkZWUyNDZjXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/2134.webp",
+    "imdb_rating": "7.5",
+    "imdb_votes": "47,044",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Time_Machine_(1960_film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/2134.txt",
+    "plot_year_start": 1900,
+    "plot_year_end": 802701,
+    "epoch": "future-world",
+    "action_countries": [
+      "GB"
+    ],
+    "action_continents": [
+      "Europe"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "climate and ruin remaking familiar landscapes",
+        "description": "The natural order has been badly disturbed, whether by war, failed schemes, or long neglect, so old European environments no longer behave as expected. What you'll see: strange weather, drowned or wasted ground, forests where they should not be, poisoned zones, and landmarks surviving in damaged surroundings.",
+        "icon": "🌪️"
+      }
+    ]
+  },
+  {
+    "movie_id": 1902,
+    "movie_idx": 9931,
+    "imdb_id": "tt0125659",
+    "title": "Open Your Eyes",
+    "production_year": "1997",
+    "genre": "Drama, Mystery, Sci-Fi",
+    "plot": "A once handsome playboy, César finds himself in a mental facility and he can't remember why. All he can remember is meeting the love of his life for one day, and then getting into a car accident which left his face horribly disfigured. But the pain of becoming physically undesirable may help him to find the truth.",
+    "runtime": "119 min",
+    "director": "Alejandro Amenábar",
+    "actors": "Eduardo Noriega, Penélope Cruz, Chete Lera",
+    "production_country": "Spain, France, Italy",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZjE1OGRiMTAtZjhmNy00NWYzLWE3NWMtZDVlNDNlN2M2OTlkXkEyXkFqcGc@._V1_SX300.jpg",
+    "poster_file": "data/processed/posters/1902.webp",
+    "imdb_rating": "7.7",
+    "imdb_votes": "76,220",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Open_Your_Eyes_(1997_film)",
+    "wikipedia_cache_file": "data/processed/wikipedia_cache/1902.txt",
+    "plot_year_start": 2047,
+    "plot_year_end": 2047,
+    "epoch": "future-world",
+    "action_countries": [
+      "ES"
+    ],
+    "action_continents": [
+      "Europe"
+    ],
+    "action_planet": "Earth",
+    "action_universum": "Real World",
+    "categories": [
+      {
+        "label": "memory and identity open to tampering",
+        "description": "In this world, the mind itself can be edited, simulated, or made uncertain, so personal truth is never entirely secure. What you'll see: implanted recollections, manufactured experiences, therapeutic machines, shifting realities, and people doubting what in their lives is genuine.",
+        "icon": "🧠"
+      }
+    ]
+  }
+]
